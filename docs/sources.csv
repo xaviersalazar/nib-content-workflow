@@ -1,0 +1,572 @@
+category,topic,institution,url,tier,status
+Space,Black Holes,NASA Science,https://science.nasa.gov/universe/black-holes/,1,pending
+Space,Black Holes,ESA,https://www.esa.int/Science_Exploration/Space_Science,1,pending
+Space,Black Holes,Space.com,https://www.space.com/topics/black-holes,2,pending
+Space,Space Stations,NASA,https://www.nasa.gov/international-space-station/,1,pending
+Space,Space Stations,ESA,https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station,1,pending
+Space,Space Stations,Smithsonian Air and Space Museum,https://airandspace.si.edu/,1,pending
+Space,Asteroids,NASA Science,https://science.nasa.gov/solar-system/asteroids/,1,pending
+Space,Asteroids,JPL,https://ssd.jpl.nasa.gov/,1,pending
+Space,Asteroids,Space.com,https://www.space.com/topics/asteroids,2,pending
+Space,Exoplanets,NASA Exoplanets,https://exoplanets.nasa.gov/,1,pending
+Space,Exoplanets,NASA Exoplanet Archive,https://exoplanetarchive.ipac.caltech.edu/,1,pending
+Space,Exoplanets,ESA,https://www.esa.int/Science_Exploration/Space_Science/Cheops,1,pending
+Space,Mars Exploration,mars.nasa.gov,https://mars.nasa.gov/,1,pending
+Space,Mars Exploration,JPL,https://www.jpl.nasa.gov/missions/mars,1,pending
+Space,Mars Exploration,Smithsonian Air and Space Museum,https://airandspace.si.edu/,1,pending
+Astronomy,Constellations,NASA Space Place,https://spaceplace.nasa.gov/constellations/en/,1,pending
+Astronomy,Constellations,Sky & Telescope,https://skyandtelescope.org/astronomy-resources/,1,pending
+Astronomy,Supernovae,NASA,https://www.nasa.gov/universe/stars/supernovae/,1,pending
+Astronomy,Supernovae,NASA Imagine,https://imagine.gsfc.nasa.gov/science/objects/supernovae1.html,1,pending
+Astronomy,Supernovae,NASA Space Place,https://spaceplace.nasa.gov/supernova/,1,pending
+Astronomy,Supernovae,ESA,https://www.esa.int/Science_Exploration/Space_Science,1,pending
+Astronomy,Supernovae,HubbleSite,https://hubblesite.org/science/stars,1,pending
+Astronomy,Nebulae,NASA Science,https://science.nasa.gov/universe/stars/,1,pending
+Astronomy,Nebulae,HubbleSite,https://hubblesite.org/images/gallery,1,pending
+Astronomy,Nebulae,ESA/Hubble,https://esahubble.org/images/,1,pending
+Astronomy,Red Giants,NASA Science,https://science.nasa.gov/universe/stars/,1,pending
+Astronomy,Red Giants,HubbleSite,https://hubblesite.org/science/stars,1,pending
+Astronomy,Galaxies,NASA Science,https://science.nasa.gov/universe/galaxies/,1,pending
+Astronomy,Galaxies,HubbleSite,https://hubblesite.org/science/galaxies,1,pending
+Astronomy,Galaxies,ESA/Hubble,https://esahubble.org/images/,1,pending
+Astronomy,Galaxies,Smithsonian Air and Space Museum,https://airandspace.si.edu/,1,pending
+History,The Roman Empire,Britannica,https://www.britannica.com/place/Roman-Empire,1,pending
+History,The Roman Empire,Smithsonian Magazine,https://www.smithsonianmag.com/history/,1,pending
+History,The Roman Empire,National Geographic,https://www.nationalgeographic.com/history/,1,pending
+History,The Silk Road,Britannica,https://www.britannica.com/topic/Silk-Road-trade-route,1,pending
+History,The Silk Road,Smithsonian Folklife Festival,https://festival.si.edu/2002/the-silk-road/the-silk-road-connecting-peoples-and-cultures/smithsonian,1,pending
+History,The Silk Road,Smithsonian Libraries,https://library.si.edu/digital-library/book/silkroadconnecti00smit,1,pending
+History,The Silk Road,National Geographic Education,https://education.nationalgeographic.org/resource/silk-road/,1,pending
+History,The Printing Press,Britannica,https://www.britannica.com/technology/printing-press,1,pending
+History,The Printing Press,Library of Congress,https://www.loc.gov/,3,pending
+History,The Printing Press,Smithsonian Magazine,https://www.smithsonianmag.com/history/,1,pending
+History,The Renaissance,Britannica,https://www.britannica.com/event/Renaissance,1,pending
+History,The Renaissance,Smithsonian Magazine,https://www.smithsonianmag.com/history/,1,pending
+History,The Renaissance,National Geographic,https://www.nationalgeographic.com/history/,1,pending
+History,The Industrial Revolution,Britannica,https://www.britannica.com/event/Industrial-Revolution,1,pending
+History,The Industrial Revolution,Library of Congress,https://www.loc.gov/,3,pending
+History,The Industrial Revolution,Smithsonian Magazine,https://www.smithsonianmag.com/history/,1,pending
+Ancient Civilizations,Ancient Egypt,Britannica,https://www.britannica.com/place/ancient-Egypt,1,pending
+Ancient Civilizations,Ancient Egypt,British Museum,https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt,1,pending
+Ancient Civilizations,Ancient Egypt,Met Museum,https://www.metmuseum.org/toah,1,pending
+Ancient Civilizations,The Maya,Britannica,https://www.britannica.com/topic/Maya-people,1,pending
+Ancient Civilizations,The Maya,UNESCO World Heritage Centre,https://whc.unesco.org/en/list/64/,1,pending
+Ancient Civilizations,The Maya,UNESCO World Heritage Centre,https://whc.unesco.org/en/list/129/,1,pending
+Ancient Civilizations,The Maya,UNESCO World Heritage Centre,https://whc.unesco.org/en/list/1061,1,pending
+Ancient Civilizations,The Maya,Smithsonian,https://www.si.edu/object/rise-and-fall-maya-civilization%3Asiris_sil_20309,1,pending
+Ancient Civilizations,Mesopotamia,Britannica,https://www.britannica.com/place/Mesopotamia-historical-region-Asia,1,pending
+Ancient Civilizations,Mesopotamia,Met Museum,https://www.metmuseum.org/toah,1,pending
+Ancient Civilizations,Mesopotamia,British Museum,https://www.britishmuseum.org/collection/galleries/mesopotamia,1,pending
+Ancient Civilizations,Ancient Greece,Britannica,https://www.britannica.com/place/ancient-Greece,1,pending
+Ancient Civilizations,Ancient Greece,Met Museum,https://www.metmuseum.org/toah/hd/grlg/hd_grlg.htm,1,pending
+Ancient Civilizations,Ancient Greece,British Museum,https://www.britishmuseum.org/our-work/departments/greece-and-rome,1,pending
+Ancient Civilizations,The Indus Valley,Britannica,https://www.britannica.com/place/Indus-civilization,1,pending
+Ancient Civilizations,The Indus Valley,UNESCO World Heritage Centre,https://whc.unesco.org/en/list/138/,1,pending
+Ancient Civilizations,The Indus Valley,British Museum,https://www.britishmuseum.org/collection,1,pending
+Animals,Octopuses,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals/animals-a-to-z,1,pending
+Animals,Octopuses,Smithsonian Ocean,https://ocean.si.edu/ocean-life/invertebrates,1,pending
+Animals,Octopuses,National Geographic Kids,https://kids.nationalgeographic.com/animals,1,pending
+Animals,Elephants,San Diego Zoo,https://animals.sandiegozoo.org/animals/elephant,1,pending
+Animals,Elephants,World Wildlife Fund,https://www.worldwildlife.org/species/elephant,1,pending
+Animals,Elephants,Smithsonian National Zoo,https://nationalzoo.si.edu/animals,1,pending
+Animals,Penguins,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/african-penguin,1,pending
+Animals,Penguins,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals,1,pending
+Animals,Penguins,National Geographic Kids,https://kids.nationalgeographic.com/animals,1,pending
+Animals,Sloths,Smithsonian National Zoo,https://nationalzoo.si.edu/animals/two-toed-sloth,1,pending
+Animals,Sloths,Smithsonian National Zoo,https://nationalzoo.si.edu/animals,1,pending
+Animals,Sloths,World Wildlife Fund,https://www.worldwildlife.org/species,1,pending
+Animals,Crows,Smithsonian National Zoo,https://nationalzoo.si.edu/migratory-birds,1,pending
+Animals,Crows,National Geographic Kids,https://kids.nationalgeographic.com/animals,1,pending
+Animals,Crows,San Diego Zoo,https://animals.sandiegozoo.org/,1,pending
+Ocean Life,Coral Reefs,NOAA Coral Reef Conservation Program,https://www.coralreef.noaa.gov/education,1,pending
+Ocean Life,Coral Reefs,Smithsonian Ocean,https://ocean.si.edu/ecosystems/coral-reefs,1,pending
+Ocean Life,Coral Reefs,National Geographic Education,https://education.nationalgeographic.org/resource/coral-reefs/,1,pending
+Ocean Life,Coral Reefs,NOAA Ocean Service,https://oceanservice.noaa.gov/facts/threecorals.html,1,pending
+Ocean Life,Jellyfish,Smithsonian Ocean,https://ocean.si.edu/ocean-life/invertebrates/jellyfish-and-comb-jellies,1,pending
+Ocean Life,Jellyfish,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals,1,pending
+Ocean Life,Jellyfish,NOAA Ocean Service,https://oceanservice.noaa.gov/facts/jellyfish.html,1,pending
+Ocean Life,Deep Sea Creatures,NOAA Ocean Exploration,https://oceanexplorer.noaa.gov/,1,pending
+Ocean Life,Deep Sea Creatures,Smithsonian Ocean,https://ocean.si.edu/ocean-life,1,pending
+Ocean Life,Deep Sea Creatures,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals,1,pending
+Ocean Life,Whales,NOAA Fisheries,https://www.fisheries.noaa.gov/whales,1,pending
+Ocean Life,Whales,Smithsonian Ocean,https://ocean.si.edu/ocean-life/marine-mammals,1,pending
+Ocean Life,Whales,National Geographic Kids,https://kids.nationalgeographic.com/animals,1,pending
+Ocean Life,Sea Turtles,NOAA Fisheries,https://www.fisheries.noaa.gov/sea-turtles,1,pending
+Ocean Life,Sea Turtles,Smithsonian Ocean,https://ocean.si.edu/ocean-life/reptiles,1,pending
+Ocean Life,Sea Turtles,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals,1,pending
+Human Body,The Brain,NIH NINDS,https://www.ninds.nih.gov/health-information/public-education/brain-basics,1,pending
+Human Body,The Brain,NIH NINDS,https://www.ninds.nih.gov/health-information/public-education/brain-education-resources,1,pending
+Human Body,The Brain,NIH BRAIN Initiative,https://braininitiative.nih.gov/,1,pending
+Human Body,The Brain,Harvard Medical School,https://hms.harvard.edu/,1,pending
+Human Body,The Brain,Johns Hopkins Medicine,https://www.hopkinsmedicine.org/health/conditions-and-diseases,1,pending
+Human Body,DNA,National Human Genome Research Institute,https://www.genome.gov/,1,pending
+Human Body,DNA,Johns Hopkins Medicine,https://www.hopkinsmedicine.org/health/conditions-and-diseases,1,pending
+Human Body,DNA,Harvard Medical School,https://hms.harvard.edu/,1,pending
+Human Body,Blood,NIH NHLBI,https://www.nhlbi.nih.gov/,1,pending
+Human Body,Blood,Cleveland Clinic,https://my.clevelandclinic.org/health/body,1,pending
+Human Body,Blood,Mayo Clinic,https://www.mayoclinic.org/,1,pending
+Human Body,Bones,NIH NIAMS,https://www.niams.nih.gov/,1,pending
+Human Body,Bones,Cleveland Clinic,https://my.clevelandclinic.org/health/body,1,pending
+Human Body,Bones,Johns Hopkins Medicine,https://www.hopkinsmedicine.org/health,1,pending
+Human Body,The Immune System,NIH NIAID,https://www.niaid.nih.gov/,1,pending
+Human Body,The Immune System,Harvard Medical School,https://hms.harvard.edu/,1,pending
+Human Body,The Immune System,Mayo Clinic,https://www.mayoclinic.org/,1,pending
+Psychology,Memory,American Psychological Association,https://www.apa.org/topics/cognition-brain,1,pending
+Psychology,Memory,Stanford Encyclopedia of Philosophy,https://plato.stanford.edu/,1,pending
+Psychology,Memory,Harvard Health Publishing,https://www.health.harvard.edu/mind-and-mood,1,pending
+Psychology,Dreams,American Psychological Association,https://www.apa.org/topics/sleep,1,pending
+Psychology,Dreams,Harvard Health Publishing,https://www.health.harvard.edu/topics/sleep,1,pending
+Psychology,Dreams,Yale Medicine,https://www.yalemedicine.org/conditions/sleep-disorders,1,pending
+Psychology,Cognitive Biases,American Psychological Association,https://www.apa.org/topics/cognition-brain,1,pending
+Psychology,Cognitive Biases,Stanford Encyclopedia of Philosophy,https://plato.stanford.edu/,1,pending
+Psychology,Cognitive Biases,Psychology Today,https://www.psychologytoday.com/us/basics/bias,2,pending
+Psychology,Emotions,American Psychological Association,https://www.apa.org/topics/emotions,1,pending
+Psychology,Emotions,Yale Center for Emotional Intelligence,https://www.ycei.org/,1,pending
+Psychology,Emotions,Harvard Health Publishing,https://www.health.harvard.edu/mind-and-mood,1,pending
+Psychology,Habits,American Psychological Association,https://www.apa.org/topics/personality,1,pending
+Psychology,Habits,Stanford Behavior Design Lab,https://behaviordesign.stanford.edu/,1,pending
+Psychology,Habits,Psychology Today,https://www.psychologytoday.com/us/basics/habit-formation,2,pending
+Food,Cheese,Britannica,https://www.britannica.com/topic/cheese,1,pending
+Food,Cheese,USDA MyPlate,https://www.myplate.gov/eat-healthy/dairy,1,pending
+Food,Cheese,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/,1,pending
+Food,Chocolate,Britannica,https://www.britannica.com/topic/chocolate,1,pending
+Food,Chocolate,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/,1,pending
+Food,Chocolate,National Geographic Education,https://education.nationalgeographic.org/,1,pending
+Food,Rice,Britannica,https://www.britannica.com/plant/rice,1,pending
+Food,Rice,USDA MyPlate,https://www.myplate.gov/,1,pending
+Food,Rice,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/,1,pending
+Food,Honey,Britannica,https://www.britannica.com/topic/honey,1,pending
+Food,Honey,USDA MyPlate,https://www.myplate.gov/,1,pending
+Food,Honey,National Geographic Education,https://education.nationalgeographic.org/,1,pending
+Food,Spices,Britannica,https://www.britannica.com/topic/spice-food,1,pending
+Food,Spices,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/,1,pending
+Food,Spices,National Geographic Education,https://education.nationalgeographic.org/,1,pending
+Coffee,Espresso,National Coffee Association,https://www.ncausa.org/About-Coffee,1,pending
+Coffee,Espresso,Britannica,https://www.britannica.com/topic/espresso,1,pending
+Coffee,Espresso,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/,1,pending
+Coffee,Arabica Beans,National Coffee Association,https://www.ncausa.org/About-Coffee/Coffee-Around-the-World,1,pending
+Coffee,Arabica Beans,Britannica,https://www.britannica.com/plant/Coffea-arabica,1,pending
+Coffee,Arabica Beans,Britannica,https://www.britannica.com/plant/Coffea,1,pending
+Coffee,Arabica Beans,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/,1,pending
+Coffee,Decaf Coffee,National Coffee Association,https://www.ncausa.org/About-Coffee/Decaffeinated-Coffee,1,pending
+Coffee,Decaf Coffee,Britannica,https://www.britannica.com/topic/coffee,1,pending
+Coffee,Decaf Coffee,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/,1,pending
+Coffee,Coffee Roasting,National Coffee Association,https://www.ncausa.org/About-Coffee/Roasting,1,pending
+Coffee,Coffee Roasting,Britannica,https://www.britannica.com/topic/coffee,1,pending
+Coffee,Coffee Roasting,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/,1,pending
+Coffee,Cold Brew,National Coffee Association,https://www.ncausa.org/About-Coffee/How-to-Make-Cold-Brew-Coffee,1,pending
+Coffee,Cold Brew,Britannica,https://www.britannica.com/topic/coffee,1,pending
+Coffee,Cold Brew,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/,1,pending
+Technology,The Internet,Computer History Museum,https://computerhistory.org/internethistory/,1,pending
+Technology,The Internet,Stanford Computer Science,https://cs.stanford.edu/,1,pending
+Technology,The Internet,Engineering and Technology History Wiki,https://ethw.org/,1,pending
+Technology,Microchips,IBM Research,https://research.ibm.com/,1,pending
+Technology,Microchips,IEEE Spectrum,https://spectrum.ieee.org/,1,pending
+Technology,Microchips,Computer History Museum,https://www.computerhistory.org/siliconengine/,1,pending
+Technology,Microchips,Computer History Museum,https://www.computerhistory.org/siliconengine/microprocessor-integrates-cpu-function-onto-a-single-chip/,1,pending
+Technology,QR Codes,IEEE Spectrum,https://spectrum.ieee.org/,1,pending
+Technology,QR Codes,IBM Research,https://research.ibm.com/,1,pending
+Technology,QR Codes,MIT News,https://news.mit.edu/,1,pending
+Technology,Bluetooth,IEEE Standards,https://standards.ieee.org/,1,pending
+Technology,Bluetooth,Computer History Museum,https://computerhistory.org/,1,pending
+Technology,Bluetooth,IBM Research,https://research.ibm.com/,1,pending
+Technology,Cloud Computing,IBM Research,https://research.ibm.com/,1,pending
+Technology,Cloud Computing,MIT News,https://news.mit.edu/,1,pending
+Technology,Cloud Computing,Stanford Computer Science,https://cs.stanford.edu/,1,pending
+Artificial Intelligence,Neural Networks,Google DeepMind,https://deepmind.google/discover/blog/,1,pending
+Artificial Intelligence,Neural Networks,Stanford HAI,https://hai.stanford.edu/,1,pending
+Artificial Intelligence,Neural Networks,MIT News,https://news.mit.edu/topic/artificial-intelligence2,1,pending
+Artificial Intelligence,Transformers,OpenAI,https://openai.com/news/,1,pending
+Artificial Intelligence,Transformers,Google DeepMind,https://deepmind.google/discover/blog/,1,pending
+Artificial Intelligence,Transformers,Stanford HAI,https://hai.stanford.edu/,1,pending
+Artificial Intelligence,Computer Vision,Google DeepMind,https://deepmind.google/discover/blog/,1,pending
+Artificial Intelligence,Computer Vision,MIT News,https://news.mit.edu/topic/artificial-intelligence2,1,pending
+Artificial Intelligence,Computer Vision,Stanford HAI,https://hai.stanford.edu/,1,pending
+Artificial Intelligence,Reinforcement Learning,Google DeepMind,https://deepmind.google/discover/blog/,1,pending
+Artificial Intelligence,Reinforcement Learning,OpenAI,https://openai.com/news/,1,pending
+Artificial Intelligence,Reinforcement Learning,Stanford HAI,https://hai.stanford.edu/,1,pending
+Artificial Intelligence,Large Language Models,OpenAI,https://openai.com/news/,1,pending
+Artificial Intelligence,Large Language Models,Anthropic,https://www.anthropic.com/news,1,pending
+Artificial Intelligence,Large Language Models,Stanford HAI,https://hai.stanford.edu/,1,pending
+Internet Culture,Memes,Britannica,https://www.britannica.com/topic/meme,1,pending
+Internet Culture,Memes,Internet Archive,https://archive.org/,3,pending
+Internet Culture,Memes,Pew Research Center,https://www.pewresearch.org/internet/,1,pending
+Internet Culture,Emojis,Britannica,https://www.britannica.com/topic/emoji,1,pending
+Internet Culture,Emojis,Internet Archive,https://archive.org/,3,pending
+Internet Culture,Emojis,Pew Research Center,https://www.pewresearch.org/internet/,1,pending
+Internet Culture,GIFs,Britannica,https://www.britannica.com/technology/GIF,1,pending
+Internet Culture,GIFs,Internet Archive,https://archive.org/,3,pending
+Internet Culture,GIFs,Pew Research Center,https://www.pewresearch.org/internet/,1,pending
+Internet Culture,Viral Trends,Pew Research Center,https://www.pewresearch.org/internet/,1,pending
+Internet Culture,Viral Trends,Internet Archive,https://archive.org/,3,pending
+Internet Culture,Category Sources,Pew Research Center,https://www.pewresearch.org/internet/,1,pending
+Internet Culture,Category Sources,Internet Archive,https://archive.org/,3,pending
+Internet Culture,Category Sources,Britannica,https://www.britannica.com/topic/meme,1,pending
+Internet Culture,Category Sources,Britannica,https://www.britannica.com/topic/emoji,1,pending
+Internet Culture,Category Sources,Britannica,https://www.britannica.com/technology/GIF,1,pending
+Video Games,Nintendo History,Nintendo,https://www.nintendo.com/us/about/,1,pending
+Video Games,Nintendo History,The Strong National Museum of Play,https://www.museumofplay.org/,1,pending
+Video Games,Nintendo History,Computer History Museum,https://computerhistory.org/,1,pending
+Video Games,Arcade Games,The Strong National Museum of Play,https://www.museumofplay.org/exhibits/,1,pending
+Video Games,Arcade Games,Atari,https://atari.com/,1,pending
+Video Games,Arcade Games,Computer History Museum,https://computerhistory.org/,1,pending
+Video Games,Speedrunning,The Strong National Museum of Play,https://www.museumofplay.org/,1,pending
+Video Games,Speedrunning,Guinness World Records,https://www.guinnessworldrecords.com/,2,pending
+Video Games,Speedrunning,Computer History Museum,https://computerhistory.org/,1,pending
+Video Games,Game Controllers,Nintendo,https://www.nintendo.com/us/about/,1,pending
+Video Games,Game Controllers,Atari,https://atari.com/,1,pending
+Video Games,Game Controllers,Computer History Museum,https://computerhistory.org/,1,pending
+Video Games,Tetris,The Strong National Museum of Play,https://www.museumofplay.org/,1,pending
+Video Games,Tetris,Computer History Museum,https://computerhistory.org/,1,pending
+Video Games,Tetris,Nintendo,https://www.nintendo.com/us/about/,1,pending
+Movies,Silent Films,American Film Institute,https://www.afi.com/,1,pending
+Movies,Silent Films,Britannica,https://www.britannica.com/topic/silent-film-era,1,pending
+Movies,Silent Films,Library of Congress,https://www.loc.gov/collections/,3,pending
+Movies,Special Effects,Academy of Motion Picture Arts and Sciences,https://www.oscars.org/,1,pending
+Movies,Special Effects,American Film Institute,https://www.afi.com/,1,pending
+Movies,Special Effects,Britannica,https://www.britannica.com/art/special-effects,1,pending
+Movies,Animation,American Film Institute,https://www.afi.com/,1,pending
+Movies,Animation,Academy Museum,https://www.academymuseum.org/,1,pending
+Movies,Animation,Britannica,https://www.britannica.com/art/animation,1,pending
+Movies,The Oscars,Academy of Motion Picture Arts and Sciences,https://www.oscars.org/,1,pending
+Movies,The Oscars,Academy Museum,https://www.academymuseum.org/,1,pending
+Movies,The Oscars,American Film Institute,https://www.afi.com/,1,pending
+Movies,Film Preservation,Academy of Motion Picture Arts and Sciences,https://www.oscars.org/academy-film-archive,1,pending
+Movies,Film Preservation,Library of Congress,https://www.loc.gov/collections/,3,pending
+Movies,Film Preservation,American Film Institute,https://www.afi.com/,1,pending
+Music,Jazz,Smithsonian Folkways,https://folkways.si.edu/,1,pending
+Music,Jazz,Britannica,https://www.britannica.com/art/jazz,1,pending
+Music,Jazz,GRAMMY Museum,https://grammymuseum.org/,1,pending
+Music,Synthesizers,GRAMMY Museum,https://grammymuseum.org/,1,pending
+Music,Synthesizers,Smithsonian Folkways,https://folkways.si.edu/,1,pending
+Music,Synthesizers,Britannica,https://www.britannica.com/art/music-synthesizer,1,pending
+Music,Vinyl Records,GRAMMY Museum,https://grammymuseum.org/,1,pending
+Music,Vinyl Records,Britannica,https://www.britannica.com/topic/phonograph-record,1,pending
+Music,Vinyl Records,Library of Congress,https://www.loc.gov/collections/,3,pending
+Music,Hip Hop Origins,Smithsonian Folkways,https://folkways.si.edu/,1,pending
+Music,Hip Hop Origins,GRAMMY Museum,https://grammymuseum.org/,1,pending
+Music,Hip Hop Origins,Britannica,https://www.britannica.com/art/hip-hop,1,pending
+Music,Classical Music,Britannica,https://www.britannica.com/art/classical-music,1,pending
+Music,Classical Music,Smithsonian Folkways,https://folkways.si.edu/,1,pending
+Music,Classical Music,GRAMMY Museum,https://grammymuseum.org/,1,pending
+Sports,Olympics,International Olympic Committee,https://olympics.com/ioc,1,pending
+Sports,Olympics,Britannica,https://www.britannica.com/sports/Olympic-Games,1,pending
+Sports,Soccer Rules,FIFA,https://www.fifa.com/,1,pending
+Sports,Soccer Rules,Britannica,https://www.britannica.com/sports/football-soccer,1,pending
+Sports,Basketball History,NBA,https://www.nba.com/history,1,pending
+Sports,Basketball History,Britannica,https://www.britannica.com/sports/basketball,1,pending
+Sports,Marathons,International Olympic Committee,https://olympics.com/en/sports/athletics/,1,pending
+Sports,Marathons,Britannica,https://www.britannica.com/sports/marathon-race,1,pending
+Sports,Baseball,MLB,https://www.mlb.com/,1,pending
+Sports,Baseball,MLB,https://www.mlb.com/postseason/history/world-series,1,pending
+Sports,Baseball,Britannica,https://www.britannica.com/sports/baseball,1,pending
+Engineering,Bridges,ASME,https://www.asme.org/topics-resources,1,pending
+Engineering,Bridges,Smithsonian,https://www.si.edu/,1,pending
+Engineering,Bridges,MIT News,https://news.mit.edu/topic/engineering,1,pending
+Engineering,Robotics,IEEE Spectrum,https://spectrum.ieee.org/robotics,1,pending
+Engineering,Robotics,MIT News,https://news.mit.edu/topic/robotics,1,pending
+Engineering,Robotics,Stanford Engineering,https://engineering.stanford.edu/,1,pending
+Engineering,Hydraulics,ASME,https://www.asme.org/topics-resources,1,pending
+Engineering,Hydraulics,Engineering and Technology History Wiki,https://ethw.org/,1,pending
+Engineering,Hydraulics,MIT News,https://news.mit.edu/topic/engineering,1,pending
+Engineering,3D Printing,MIT News,https://news.mit.edu/topic/3-d-printing,1,pending
+Engineering,3D Printing,IEEE Spectrum,https://spectrum.ieee.org/,1,pending
+Engineering,3D Printing,Stanford Engineering,https://engineering.stanford.edu/,1,pending
+Engineering,Wind Turbines,ASME,https://www.asme.org/topics-resources,1,pending
+Engineering,Wind Turbines,MIT News,https://news.mit.edu/topic/energy,1,pending
+Engineering,Wind Turbines,IEEE Spectrum,https://spectrum.ieee.org/,1,pending
+Aviation,Jet Engines,NASA Glenn Research Center,https://www.grc.nasa.gov/www/k-12/airplane/,1,pending
+Aviation,Jet Engines,Boeing,https://www.boeing.com/history,1,pending
+Aviation,Jet Engines,Smithsonian Air and Space Museum,https://airandspace.si.edu/,1,pending
+Aviation,The Wright Brothers,Smithsonian Air and Space Museum,https://airandspace.si.edu/,1,pending
+Aviation,The Wright Brothers,NASA,https://www.nasa.gov/history/,1,pending
+Aviation,The Wright Brothers,Boeing,https://www.boeing.com/history,1,pending
+Aviation,Concorde,Airbus,https://www.airbus.com/en/newsroom,1,pending
+Aviation,Concorde,Smithsonian Air and Space Museum,https://airandspace.si.edu/,1,pending
+Aviation,Concorde,NASA,https://www.nasa.gov/history/,1,pending
+Aviation,Black Boxes,FAA,https://www.faa.gov/,1,pending
+Aviation,Black Boxes,NASA Glenn Research Center,https://www.grc.nasa.gov/www/k-12/airplane/,1,pending
+Aviation,Black Boxes,Smithsonian Air and Space Museum,https://airandspace.si.edu/,1,pending
+Aviation,Air Traffic Control,FAA,https://www.faa.gov/about/history,1,pending
+Aviation,Air Traffic Control,NASA,https://www.nasa.gov/history/,1,pending
+Aviation,Air Traffic Control,Smithsonian Air and Space Museum,https://airandspace.si.edu/,1,pending
+Cars,Electric Vehicles,Ford,https://corporate.ford.com/about/history.html,1,pending
+Cars,Electric Vehicles,Porsche Museum,https://www.porsche.com/international/aboutporsche/porschemuseum/,1,pending
+Cars,Electric Vehicles,SAE International,https://www.sae.org/,1,pending
+Cars,Ferrari History,Ferrari,https://www.ferrari.com/en-EN/history,1,pending
+Cars,Ferrari History,Smithsonian,https://www.si.edu/,1,pending
+Cars,Ferrari History,SAE International,https://www.sae.org/,1,pending
+Cars,Seat Belts,SAE International,https://www.sae.org/,1,pending
+Cars,Seat Belts,Ford,https://corporate.ford.com/about/history.html,1,pending
+Cars,Seat Belts,Smithsonian,https://www.si.edu/,1,pending
+Cars,Hybrid Cars,Ford,https://corporate.ford.com/about/history.html,1,pending
+Cars,Hybrid Cars,Porsche Museum,https://www.porsche.com/international/aboutporsche/porschemuseum/,1,pending
+Cars,Hybrid Cars,SAE International,https://www.sae.org/,1,pending
+Cars,Formula One,Ferrari,https://www.ferrari.com/en-EN/history,1,pending
+Cars,Formula One,Porsche Museum,https://www.porsche.com/international/aboutporsche/porschemuseum/,1,pending
+Cars,Formula One,SAE International,https://www.sae.org/,1,pending
+Physics,Black Holes,NASA Science,https://science.nasa.gov/universe/black-holes/,1,pending
+Physics,Black Holes,CERN,https://home.cern/science/physics,1,pending
+Physics,Black Holes,Britannica,https://www.britannica.com/science/black-hole,1,pending
+Physics,Relativity,Britannica,https://www.britannica.com/science/relativity,1,pending
+Physics,Relativity,CERN,https://home.cern/science/physics,1,pending
+Physics,Relativity,MIT News,https://news.mit.edu/topic/physics,1,pending
+Physics,Light,NASA Science,https://science.nasa.gov/ems,1,pending
+Physics,Light,Britannica,https://www.britannica.com/science/light,1,pending
+Physics,Quantum Mechanics,CERN,https://home.cern/science/physics,1,pending
+Physics,Quantum Mechanics,Britannica,https://www.britannica.com/science/quantum-mechanics-physics,1,pending
+Physics,Quantum Mechanics,MIT News,https://news.mit.edu/topic/physics,1,pending
+Physics,Gravity,NASA Science,https://science.nasa.gov/universe/,1,pending
+Physics,Gravity,Britannica,https://www.britannica.com/science/gravity-physics,1,pending
+Physics,Gravity,CERN,https://home.cern/science/physics,1,pending
+Chemistry,Periodic Table,Royal Society of Chemistry,https://www.rsc.org/periodic-table,1,pending
+Chemistry,Periodic Table,American Chemical Society,https://www.acs.org/education/whatischemistry.html,1,pending
+Chemistry,Periodic Table,Britannica,https://www.britannica.com/science/periodic-table,1,pending
+Chemistry,Elements,Royal Society of Chemistry,https://www.rsc.org/periodic-table,1,pending
+Chemistry,Elements,Britannica,https://www.britannica.com/science/chemical-element,1,pending
+Chemistry,Elements,Smithsonian,https://www.si.edu/,1,pending
+Chemistry,Acids and Bases,American Chemical Society,https://www.acs.org/education.html,1,pending
+Chemistry,Acids and Bases,Royal Society of Chemistry Education,https://edu.rsc.org/,1,pending
+Chemistry,Acids and Bases,Britannica,https://www.britannica.com/science/acid,1,pending
+Chemistry,Chemical Reactions,American Chemical Society,https://www.acs.org/education.html,1,pending
+Chemistry,Chemical Reactions,Britannica,https://www.britannica.com/science/chemical-reaction,1,pending
+Chemistry,Chemical Reactions,MIT School of Science,https://science.mit.edu/,1,pending
+Chemistry,Polymers,Royal Society of Chemistry Education,https://edu.rsc.org/,1,pending
+Chemistry,Polymers,American Chemical Society,https://www.acs.org/,1,pending
+Chemistry,Polymers,Britannica,https://www.britannica.com/science/polymer,1,pending
+Earth Science,Volcanoes,USGS,https://www.usgs.gov/programs/VHP,1,pending
+Earth Science,Volcanoes,Smithsonian Global Volcanism Program,https://volcano.si.edu/,1,pending
+Earth Science,Volcanoes,Britannica,https://www.britannica.com/science/volcano,1,pending
+Earth Science,Earthquakes,USGS Earthquake Hazards Program,https://earthquake.usgs.gov/,1,pending
+Earth Science,Earthquakes,Britannica,https://www.britannica.com/science/earthquake-geology,1,pending
+Earth Science,Earthquakes,NOAA,https://www.noaa.gov/education/resource-collections/ocean-coasts/tsunamis,1,pending
+Earth Science,Mountains,Britannica,https://www.britannica.com/science/mountain-landform,1,pending
+Earth Science,Mountains,USGS,https://www.usgs.gov/,1,pending
+Earth Science,Mountains,Smithsonian,https://www.si.edu/,1,pending
+Earth Science,Plate Tectonics,USGS,https://www.usgs.gov/programs/earthquake-hazards/science,1,pending
+Earth Science,Plate Tectonics,Britannica,https://www.britannica.com/science/plate-tectonics,1,pending
+Earth Science,Plate Tectonics,NASA Earth Observatory,https://earthobservatory.nasa.gov/,1,pending
+Earth Science,Rocks and Minerals,USGS,https://www.usgs.gov/,1,pending
+Earth Science,Rocks and Minerals,naturalhistory.si.edu,https://naturalhistory.si.edu/,1,pending
+Earth Science,Rocks and Minerals,Britannica,https://www.britannica.com/science/mineral-chemical-compound,1,pending
+Weather,Hurricanes,NOAA,https://www.noaa.gov/hurricane-prep,1,pending
+Weather,Hurricanes,National Weather Service,https://www.weather.gov/safety/hurricane,1,pending
+Weather,Hurricanes,Britannica,https://www.britannica.com/science/tropical-cyclone,1,pending
+Weather,Tornadoes,National Weather Service,https://www.weather.gov/safety/tornado,1,pending
+Weather,Tornadoes,NOAA,https://www.noaa.gov/education/resource-collections/weather-atmosphere/tornadoes,1,pending
+Weather,Tornadoes,Britannica,https://www.britannica.com/science/tornado,1,pending
+Weather,Lightning,National Weather Service,https://www.weather.gov/safety/lightning,1,pending
+Weather,Lightning,NOAA,https://www.noaa.gov/education/resource-collections/weather-atmosphere,1,pending
+Weather,Lightning,Britannica,https://www.britannica.com/science/lightning-meteorology,1,pending
+Weather,Rainbows,NASA Earth Observatory,https://earthobservatory.nasa.gov/,1,pending
+Weather,Rainbows,NOAA,https://www.noaa.gov/education/resource-collections/weather-atmosphere,1,pending
+Weather,Rainbows,Britannica,https://www.britannica.com/science/optics,1,pending
+Weather,Clouds,National Weather Service,https://www.weather.gov/jetstream/clouds,1,pending
+Weather,Clouds,NOAA,https://www.noaa.gov/education/resource-collections/weather-atmosphere,1,pending
+Weather,Clouds,Britannica,https://www.britannica.com/science/cloud-physics,1,pending
+Climate,Climate Change,NOAA Climate.gov,https://www.climate.gov/,1,pending
+Climate,Climate Change,NASA Earth Observatory,https://earthobservatory.nasa.gov/,1,pending
+Climate,Climate Change,Britannica,https://www.britannica.com/science/global-warming,1,pending
+Climate,Ice Ages,NOAA Climate.gov,https://www.climate.gov/,1,pending
+Climate,Ice Ages,USGS,https://www.usgs.gov/,1,pending
+Climate,Ice Ages,Britannica,https://www.britannica.com/science/ice-age-geology,1,pending
+Climate,El Niño,NOAA Climate.gov,https://www.climate.gov/enso,1,pending
+Climate,El Niño,NASA Earth Observatory,https://earthobservatory.nasa.gov/,1,pending
+Climate,El Niño,Britannica,https://www.britannica.com/science/El-Nino,1,pending
+Climate,Carbon Cycle,NASA Earth Observatory,https://earthobservatory.nasa.gov/features/CarbonCycle,1,pending
+Climate,Carbon Cycle,NOAA Climate.gov,https://www.climate.gov/,1,pending
+Climate,Carbon Cycle,Britannica,https://www.britannica.com/science/carbon-cycle,1,pending
+Climate,Sea Level Rise,NOAA Climate.gov,https://www.climate.gov/,1,pending
+Climate,Sea Level Rise,NASA Earth Observatory,https://earthobservatory.nasa.gov/,1,pending
+Climate,Sea Level Rise,USGS,https://www.usgs.gov/,1,pending
+Plants,Trees,Kew Gardens,https://www.kew.org/plants,1,pending
+Plants,Trees,US Forest Service,https://www.fs.usda.gov/,1,pending
+Plants,Trees,Britannica,https://www.britannica.com/plant/tree,1,pending
+Plants,Flowers,Kew Gardens,https://www.kew.org/plants,1,pending
+Plants,Flowers,Britannica,https://www.britannica.com/science/flower,1,pending
+Plants,Flowers,Smithsonian Gardens,https://gardens.si.edu/,1,pending
+Plants,Carnivorous Plants,Kew Gardens,https://www.kew.org/plants,1,pending
+Plants,Carnivorous Plants,Smithsonian Gardens,https://gardens.si.edu/,1,pending
+Plants,Carnivorous Plants,Britannica,https://www.britannica.com/plant/carnivorous-plant,1,pending
+Plants,Fruits,USDA MyPlate,https://www.myplate.gov/eat-healthy/fruits,1,pending
+Plants,Fruits,Kew Gardens,https://www.kew.org/plants,1,pending
+Plants,Fruits,Britannica,https://www.britannica.com/science/fruit-plant-reproductive-body,1,pending
+Plants,Seeds,Kew Gardens,https://www.kew.org/plants,1,pending
+Plants,Seeds,Kew Gardens,https://www.kew.org/science/our-science/departments/enhanced-partnerships/millennium-seed-bank-partnership,1,pending
+Plants,Seeds,Britannica,https://www.britannica.com/science/seed-plant-reproductive-part,1,pending
+Inventions,The Telephone,Smithsonian,https://www.si.edu/,1,pending
+Inventions,The Telephone,Computer History Museum,https://computerhistory.org/,1,pending
+Inventions,The Telephone,Britannica,https://www.britannica.com/technology/telephone,1,pending
+Inventions,The Light Bulb,Smithsonian,https://www.si.edu/,1,pending
+Inventions,The Light Bulb,USPTO,https://www.uspto.gov/about-us/news-updates,1,pending
+Inventions,The Light Bulb,Britannica,https://www.britannica.com/technology/lightbulb,1,pending
+Inventions,Printing Press,Britannica,https://www.britannica.com/technology/printing-press,1,pending
+Inventions,Printing Press,Smithsonian,https://www.si.edu/,1,pending
+Inventions,Printing Press,USPTO,https://www.uspto.gov/,1,pending
+Inventions,Barcodes,Computer History Museum,https://computerhistory.org/,1,pending
+Inventions,Barcodes,USPTO,https://www.uspto.gov/,1,pending
+Inventions,Barcodes,Britannica,https://www.britannica.com/technology/bar-code,1,pending
+Inventions,GPS,Smithsonian Air and Space Museum,https://airandspace.si.edu/,1,pending
+Inventions,GPS,Britannica,https://www.britannica.com/technology/GPS,1,pending
+Inventions,GPS,Computer History Museum,https://computerhistory.org/,1,pending
+Architecture,Skyscrapers,National Park Service,https://www.nps.gov/heritagetravel,1,pending
+Architecture,Skyscrapers,Britannica,https://www.britannica.com/technology/skyscraper,1,pending
+Architecture,Skyscrapers,UNESCO World Heritage Centre,https://whc.unesco.org/,1,pending
+Architecture,Castles,UNESCO World Heritage Centre,https://whc.unesco.org/,1,pending
+Architecture,Castles,Britannica,https://www.britannica.com/technology/castle-architecture,1,pending
+Architecture,Castles,Smithsonian,https://www.si.edu/,1,pending
+Architecture,Bridges,National Park Service,https://www.nps.gov/heritagetravel,1,pending
+Architecture,Bridges,Britannica,https://www.britannica.com/technology/bridge-engineering,1,pending
+Architecture,Bridges,UNESCO World Heritage Centre,https://whc.unesco.org/,1,pending
+Architecture,Pyramids,UNESCO World Heritage Centre,https://whc.unesco.org/,1,pending
+Architecture,Pyramids,Britannica,https://www.britannica.com/technology/pyramid-architecture,1,pending
+Architecture,Pyramids,Smithsonian,https://www.si.edu/,1,pending
+Architecture,Cathedrals,UNESCO World Heritage Centre,https://whc.unesco.org/,1,pending
+Architecture,Cathedrals,Britannica,https://www.britannica.com/topic/cathedral-Christian-church,1,pending
+Architecture,Cathedrals,National Park Service,https://www.nps.gov/,1,pending
+Languages,Alphabets,Britannica,https://www.britannica.com/topic/alphabet-writing,1,pending
+Languages,Alphabets,Oxford Reference,https://www.oxfordreference.com/,3,pending
+Languages,Emojis,Britannica,https://www.britannica.com/topic/emoji,1,pending
+Languages,Emojis,Merriam-Webster,https://www.merriam-webster.com/,1,pending
+Languages,Emojis,Oxford Reference,https://www.oxfordreference.com/,3,pending
+Languages,Sign Language,Britannica,https://www.britannica.com/topic/sign-language,1,pending
+Languages,Sign Language,Oxford Reference,https://www.oxfordreference.com/,3,pending
+Languages,Etymology,Merriam-Webster,https://www.merriam-webster.com/,1,pending
+Languages,Etymology,Britannica,https://www.britannica.com/topic/etymology,1,pending
+Languages,Etymology,Oxford Reference,https://www.oxfordreference.com/,3,pending
+Languages,Idioms,Merriam-Webster,https://www.merriam-webster.com/,1,pending
+Languages,Idioms,Britannica,https://www.britannica.com/dictionary/idiom,1,pending
+Languages,Idioms,Oxford Reference,https://www.oxfordreference.com/,3,pending
+Medicine,Vaccines,NIH,https://www.nih.gov/,1,pending
+Medicine,Vaccines,Mayo Clinic,https://www.mayoclinic.org/,1,pending
+Medicine,Vaccines,Britannica,https://www.britannica.com/science/vaccine,1,pending
+Medicine,Blood,Cleveland Clinic,https://my.clevelandclinic.org/health/body,1,pending
+Medicine,Blood,NIH,https://www.nih.gov/,1,pending
+Medicine,Blood,Britannica,https://www.britannica.com/science/blood-biochemistry,1,pending
+Medicine,Bones,Mayo Clinic,https://www.mayoclinic.org/,1,pending
+Medicine,Bones,Cleveland Clinic,https://my.clevelandclinic.org/health/body,1,pending
+Medicine,Bones,Britannica,https://www.britannica.com/science/bone-anatomy,1,pending
+Medicine,Antibiotics,NIH,https://www.nih.gov/,1,pending
+Medicine,Antibiotics,Yale Medicine,https://www.yalemedicine.org/,1,pending
+Medicine,Antibiotics,Britannica,https://www.britannica.com/science/antibiotic,1,pending
+Medicine,Sleep,Mayo Clinic,https://www.mayoclinic.org/,1,pending
+Medicine,Sleep,Cleveland Clinic,https://my.clevelandclinic.org/health/body,1,pending
+Medicine,Sleep,Yale Medicine,https://www.yalemedicine.org/,1,pending
+Geography,Rivers,National Geographic Education,https://education.nationalgeographic.org/,1,pending
+Geography,Rivers,USGS,https://www.usgs.gov/,1,pending
+Geography,Rivers,Britannica,https://www.britannica.com/science/river,1,pending
+Geography,Deserts,National Geographic Education,https://education.nationalgeographic.org/,1,pending
+Geography,Deserts,Britannica,https://www.britannica.com/science/desert,1,pending
+Geography,Deserts,UNESCO World Heritage Centre,https://whc.unesco.org/,1,pending
+Geography,Islands,National Geographic Education,https://education.nationalgeographic.org/,1,pending
+Geography,Islands,Britannica,https://www.britannica.com/science/island,1,pending
+Geography,Islands,USGS,https://www.usgs.gov/,1,pending
+Geography,Caves,USGS,https://www.usgs.gov/publications/geology-caves,1,pending
+Geography,Caves,National Park Service,https://www.nps.gov/subjects/caves/cave-karst-education.htm,1,pending
+Geography,Caves,National Geographic Education,https://education.nationalgeographic.org/,1,pending
+Geography,Continents,Britannica,https://www.britannica.com/science/continent,1,pending
+Geography,Continents,National Geographic Education,https://education.nationalgeographic.org/,1,pending
+Geography,Continents,UNESCO World Heritage Centre,https://whc.unesco.org/,1,pending
+Economics,Inflation,Federal Reserve,https://www.federalreserve.gov/,1,pending
+Economics,Inflation,IMF,https://www.imf.org/en/Home,1,pending
+Economics,Inflation,Britannica,https://www.britannica.com/money/inflation-economics,1,pending
+Economics,Money,Federal Reserve,https://www.federalreserve.gov/,1,pending
+Economics,Money,World Bank,https://www.worldbank.org/,1,pending
+Economics,Money,Britannica,https://www.britannica.com/topic/money,1,pending
+Economics,Trade,World Bank,https://www.worldbank.org/en/topic/trade,1,pending
+Economics,Trade,IMF,https://www.imf.org/en/Home,1,pending
+Economics,Supply and Demand,Federal Reserve,https://www.federalreserve.gov/,1,pending
+Economics,Supply and Demand,World Bank,https://www.worldbank.org/,1,pending
+Economics,Supply and Demand,Britannica,https://www.britannica.com/topic/supply-and-demand,1,pending
+Economics,Stock Markets,Federal Reserve,https://www.federalreserve.gov/aboutthefed/educational-tools/default.htm,1,pending
+Economics,Stock Markets,IMF,https://www.imf.org/en/Home,1,pending
+Religion & Mythology,Greek Mythology,British Museum,https://www.britishmuseum.org/,1,pending
+Religion & Mythology,Greek Mythology,Britannica,https://www.britannica.com/topic/Greek-mythology,1,pending
+Religion & Mythology,Greek Mythology,Smithsonian,https://www.si.edu/,1,pending
+Religion & Mythology,Norse Mythology,British Museum,https://www.britishmuseum.org/,1,pending
+Religion & Mythology,Norse Mythology,Britannica,https://www.britannica.com/topic/Germanic-religion-and-mythology,1,pending
+Religion & Mythology,Norse Mythology,UNESCO World Heritage Centre,https://whc.unesco.org/,1,pending
+Religion & Mythology,Egyptian Gods,British Museum,https://www.britishmuseum.org/,1,pending
+Religion & Mythology,Egyptian Gods,Britannica,https://www.britannica.com/topic/Egyptian-religion,1,pending
+Religion & Mythology,Egyptian Gods,Smithsonian,https://www.si.edu/,1,pending
+Religion & Mythology,Hinduism,Britannica,https://www.britannica.com/topic/Hinduism,1,pending
+Religion & Mythology,Hinduism,UNESCO World Heritage Centre,https://whc.unesco.org/,1,pending
+Religion & Mythology,Hinduism,Smithsonian,https://www.si.edu/,1,pending
+Religion & Mythology,Buddhism,Britannica,https://www.britannica.com/topic/Buddhism,1,pending
+Religion & Mythology,Buddhism,UNESCO World Heritage Centre,https://whc.unesco.org/,1,pending
+Religion & Mythology,Buddhism,Smithsonian,https://www.si.edu/,1,pending
+Art,Impressionism,Met Museum,https://www.metmuseum.org/toah/,1,pending
+Art,Impressionism,Britannica,https://www.britannica.com/art/Impressionism-art,1,pending
+Art,Impressionism,Google Arts & Culture,https://artsandculture.google.com/,1,pending
+Art,Renaissance Art,Met Museum,https://www.metmuseum.org/toah/,1,pending
+Art,Renaissance Art,Britannica,https://www.britannica.com/art/Renaissance-art,1,pending
+Art,Renaissance Art,Google Arts & Culture,https://artsandculture.google.com/,1,pending
+Art,Sculptures,Met Museum,https://www.metmuseum.org/toah/,1,pending
+Art,Sculptures,Smithsonian,https://www.si.edu/,1,pending
+Art,Sculptures,Britannica,https://www.britannica.com/art/sculpture,1,pending
+Art,Street Art,Google Arts & Culture,https://artsandculture.google.com/,1,pending
+Art,Street Art,Smithsonian,https://www.si.edu/,1,pending
+Art,Street Art,Britannica,https://www.britannica.com/art/graffiti-art,1,pending
+Art,Color,Met Museum,https://www.metmuseum.org/toah/,1,pending
+Art,Color,Britannica,https://www.britannica.com/art/color,1,pending
+Art,Color,Google Arts & Culture,https://artsandculture.google.com/,1,pending
+Famous Scientists,Albert Einstein,Nobel Prize,https://www.nobelprize.org/,1,pending
+Famous Scientists,Albert Einstein,Britannica,https://www.britannica.com/biography/Albert-Einstein,1,pending
+Famous Scientists,Albert Einstein,CERN,https://home.cern/,1,pending
+Famous Scientists,Isaac Newton,Britannica,https://www.britannica.com/biography/Isaac-Newton,1,pending
+Famous Scientists,Isaac Newton,Smithsonian,https://www.si.edu/,1,pending
+Famous Scientists,Isaac Newton,Nobel Prize,https://www.nobelprize.org/,1,pending
+Famous Scientists,Marie Curie,Nobel Prize,https://www.nobelprize.org/,1,pending
+Famous Scientists,Marie Curie,Britannica,https://www.britannica.com/biography/Marie-Curie,1,pending
+Famous Scientists,Marie Curie,Smithsonian,https://www.si.edu/,1,pending
+Famous Scientists,Nikola Tesla,Britannica,https://www.britannica.com/biography/Nikola-Tesla,1,pending
+Famous Scientists,Nikola Tesla,Smithsonian,https://www.si.edu/,1,pending
+Famous Scientists,Nikola Tesla,CERN,https://home.cern/,1,pending
+Famous Scientists,Charles Darwin,Britannica,https://www.britannica.com/biography/Charles-Darwin,1,pending
+Famous Scientists,Charles Darwin,Smithsonian,https://www.si.edu/,1,pending
+Famous Scientists,Charles Darwin,Nobel Prize,https://www.nobelprize.org/,1,pending
+Famous People,Leonardo da Vinci,Britannica,https://www.britannica.com/biography/Leonardo-da-Vinci,1,pending
+Famous People,Leonardo da Vinci,Smithsonian,https://www.si.edu/,1,pending
+Famous People,Cleopatra,Britannica,https://www.britannica.com/biography/Cleopatra-queen-of-Egypt,1,pending
+Famous People,Cleopatra,Smithsonian,https://www.si.edu/,1,pending
+Famous People,Martin Luther King Jr.,Britannica,https://www.britannica.com/biography/Martin-Luther-King-Jr,1,pending
+Famous People,Martin Luther King Jr.,Smithsonian,https://www.si.edu/,1,pending
+Famous People,Amelia Earhart,Britannica,https://www.britannica.com/biography/Amelia-Earhart,1,pending
+Famous People,Amelia Earhart,Smithsonian Air and Space Museum,https://airandspace.si.edu/,1,pending
+Famous People,William Shakespeare,Britannica,https://www.britannica.com/biography/William-Shakespeare,1,pending
+Famous People,William Shakespeare,Smithsonian,https://www.si.edu/,1,pending
+Literature,Shakespeare,Project Gutenberg,https://www.gutenberg.org/,1,pending
+Literature,Shakespeare,Britannica,https://www.britannica.com/biography/William-Shakespeare,1,pending
+Literature,Fairy Tales,Project Gutenberg,https://www.gutenberg.org/,1,pending
+Literature,Fairy Tales,Britannica,https://www.britannica.com/art/fairy-tale,1,pending
+Literature,Poetry,Poetry Foundation,https://www.poetryfoundation.org/,1,pending
+Literature,Poetry,Project Gutenberg,https://www.gutenberg.org/,1,pending
+Literature,Poetry,Britannica,https://www.britannica.com/art/poetry,1,pending
+Literature,Ancient Epics,Project Gutenberg,https://www.gutenberg.org/,1,pending
+Literature,Ancient Epics,Britannica,https://www.britannica.com/art/epic,1,pending
+Literature,Famous Novels,Project Gutenberg,https://www.gutenberg.org/,1,pending
+Literature,Famous Novels,Britannica,https://www.britannica.com/art/novel,1,pending
+Literature,Famous Novels,Poetry Foundation,https://www.poetryfoundation.org/,1,pending
+Travel,National Parks,National Park Service,https://www.nps.gov/,1,pending
+Travel,National Parks,UNESCO World Heritage Centre,https://whc.unesco.org/,1,pending
+Travel,National Parks,National Geographic Education,https://education.nationalgeographic.org/,1,pending
+Travel,Wonders of the World,UNESCO World Heritage Centre,https://whc.unesco.org/,1,pending
+Travel,Wonders of the World,Britannica,https://www.britannica.com/topic/New-Seven-Wonders-of-the-World,1,pending
+Travel,Wonders of the World,National Geographic Education,https://education.nationalgeographic.org/,1,pending
+Travel,Islands,National Geographic Education,https://education.nationalgeographic.org/,1,pending
+Travel,Islands,UNESCO World Heritage Centre,https://whc.unesco.org/,1,pending
+Travel,Islands,Britannica,https://www.britannica.com/science/island,1,pending
+Travel,Mountains,National Geographic Education,https://education.nationalgeographic.org/,1,pending
+Travel,Mountains,National Park Service,https://www.nps.gov/,1,pending
+Travel,Mountains,Britannica,https://www.britannica.com/science/mountain-landform,1,pending
+Travel,Famous Cities,UNESCO World Heritage Centre,https://whc.unesco.org/en/list/,1,pending
+Travel,Famous Cities,National Geographic Education,https://education.nationalgeographic.org/,1,pending
+Weird Facts,Space Oddities,NASA Science,https://science.nasa.gov/,1,pending
+Weird Facts,Strange Animals,Smithsonian Ocean,https://ocean.si.edu/,1,pending
+Weird Facts,Strange Animals,Monterey Bay Aquarium,https://www.montereybayaquarium.org/,1,pending
+Weird Facts,Human Body Oddities,NIH,https://www.nih.gov/,1,pending
+Weird Facts,Human Body Oddities,Mayo Clinic,https://www.mayoclinic.org/,1,pending
+Weird Facts,Ancient Mysteries,British Museum,https://www.britishmuseum.org/,1,pending
+Weird Facts,Ancient Mysteries,Smithsonian,https://www.si.edu/,1,pending
+Weird Facts,Technology Surprises,Computer History Museum,https://computerhistory.org/,1,pending
+Weird Facts,Technology Surprises,IEEE Spectrum,https://spectrum.ieee.org/,1,pending
