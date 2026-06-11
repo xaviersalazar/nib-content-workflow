@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
      "scrape:source": "tsx scripts/scrape-source.ts",
+     "scrape:next": "tsx scripts/scrape-next.ts",
      "scrape:batch": "tsx scripts/scrape-batch.ts",
      "export:facts": "tsx scripts/export-facts.ts"
   },
