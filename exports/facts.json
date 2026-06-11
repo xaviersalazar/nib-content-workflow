@@ -1,0 +1,73 @@
+[
+  {
+    "id": "black-holes-spaghettification",
+    "headline": "Scientists Have a Real Word for What a Black Hole Does to You: Spaghettification",
+    "body": "If you ever drifted too close to a black hole, you'd experience something scientists actually named \"spaghettification.\" The intense gravity squeezes you horizontally and stretches you vertically until you resemble a noodle. It's not just a fun word — it's a real term used by NASA scientists to describe what happens to any matter that crosses the point of no return near a black hole.",
+    "summary": "Black holes stretch matter into noodle shapes — and scientists have a real word for it.",
+    "categoryId": "space",
+    "topic": "Black Holes",
+    "tags": [
+      "space",
+      "black holes",
+      "gravity",
+      "science",
+      "physics"
+    ],
+    "readTimeSeconds": 40,
+    "difficulty": "easy",
+    "funScore": 9,
+    "featured": false,
+    "evergreen": true,
+    "relatedFactIds": [],
+    "sourceUrls": [
+      "https://science.nasa.gov/universe/black-holes/"
+    ]
+  },
+  {
+    "id": "black-holes-spin-1000-times-per-second",
+    "headline": "Every Black Hole Spins — And One Does It Over 1000 Times a Second",
+    "body": "All black holes spin. That's already a strange thing to sit with — but one called GRS 1915+105 does it at over 1,000 rotations every second. Not per minute. Per second. It's one of the most extreme objects in the known universe, and it just keeps spinning, somewhere out there, right now.",
+    "summary": "All black holes spin and the fastest known one rotates over 1000 times per second.",
+    "categoryId": "space",
+    "topic": "Black Holes",
+    "tags": [
+      "space",
+      "black holes",
+      "physics",
+      "universe"
+    ],
+    "readTimeSeconds": 38,
+    "difficulty": "easy",
+    "funScore": 8,
+    "featured": false,
+    "evergreen": true,
+    "relatedFactIds": [],
+    "sourceUrls": [
+      "https://science.nasa.gov/universe/black-holes/"
+    ]
+  },
+  {
+    "id": "black-holes-gravity-same-as-sun",
+    "headline": "If the Sun Became a Black Hole Tomorrow Earth Would Stay in Orbit",
+    "body": "Here's something that might surprise you: if the Sun were somehow replaced by a black hole of the exact same mass, the planets wouldn't get sucked in. They'd keep orbiting just as they do today — only without any light or heat. Black holes don't vacuum up everything around them. From a safe distance, their gravity works just like any other object of the same mass.",
+    "summary": "A black hole with the Sun's mass wouldn't pull Earth in — the planets would just keep orbiting in the dark.",
+    "categoryId": "space",
+    "topic": "Black Holes",
+    "tags": [
+      "space",
+      "black holes",
+      "gravity",
+      "solar system",
+      "science"
+    ],
+    "readTimeSeconds": 45,
+    "difficulty": "easy",
+    "funScore": 9,
+    "featured": false,
+    "evergreen": true,
+    "relatedFactIds": [],
+    "sourceUrls": [
+      "https://science.nasa.gov/universe/black-holes/"
+    ]
+  }
+]

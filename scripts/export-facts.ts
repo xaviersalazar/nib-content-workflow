@@ -14,7 +14,7 @@ type ApprovedFactRow = {
   funScore: string;
   featured: string;
   evergreen: string;
-  sources: string;
+  sourceUrls: string;
   relatedFactIds: string;
 };
 
@@ -35,19 +35,19 @@ async function main() {
 
   const facts = rows.map((row) => ({
     id: row.id,
-    categoryId: row.categoryId,
-    topic: row.topic,
     headline: row.headline,
     body: row.body,
     summary: row.summary,
+    categoryId: row.categoryId,
+    topic: row.topic,
     tags: splitCsvList(row.tags),
     readTimeSeconds: Number(row.readTimeSeconds),
     difficulty: row.difficulty,
     funScore: Number(row.funScore),
     featured: row.featured === "true",
     evergreen: row.evergreen === "true",
-    sources: JSON.parse(row.sources || "[]"),
     relatedFactIds: splitCsvList(row.relatedFactIds),
+    sourceUrls: splitCsvList(row.sourceUrls),
   }));
 
   await fs.mkdir("exports", { recursive: true });
