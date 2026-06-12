@@ -47,7 +47,6 @@ async function main() {
   await fs.writeFile(path.join(dir, `${baseName}.md`), markdown, "utf8");
 
   await fs.writeFile(
-    path.join(dir, `${baseName}.metadata.json`),
     JSON.stringify(
       {
         url,

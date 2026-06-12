@@ -141,7 +141,6 @@ space/
     black-holes/
 
         nasa-black-holes.md
-        nasa-black-holes.metadata.json
 
 animals/
     octopus/

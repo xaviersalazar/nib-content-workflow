@@ -1,5 +1,3 @@
-# TIL Content Workflow
-
 # Manual AI-Assisted Content Workflow
 
 ---
@@ -33,6 +31,12 @@ Humans approve.
 
 The app ships reviewed facts only.
 
+Collections emerge naturally from the same pool of facts.
+
+Content evolves.
+
+Architecture remains stable.
+
 ---
 
 # Workflow Overview
@@ -55,6 +59,10 @@ Validation
 Human Review
 ↓
 Approved Facts
+↓
+Relationship Suggestions
+↓
+Collection Assignment
 ↓
 Export JSON
 ↓
@@ -83,7 +91,7 @@ Black Holes
 
 ## Select Source URL
 
-Use the approved source registry:
+Use:
 
 ```text
 source-registry/sources.csv
@@ -94,6 +102,8 @@ Example:
 ```text
 https://science.nasa.gov/universe/black-holes/
 ```
+
+The source registry contains article-level pages rather than broad landing pages.
 
 ---
 
@@ -128,7 +138,6 @@ Only automate this step.
 Paste markdown into:
 
 - Claude Web
-  or
 - ChatGPT Web
 
 Goal:
@@ -136,16 +145,37 @@ Goal:
 Generate:
 
 ```text
-1–3 fact candidates
+7–10 fact candidates
 ```
 
-Rules:
+Because sources now contain deeper content, each topic should provide enough facts to support:
+
+- Topic browsing
+- Today's Fact
+- More To Discover
+- Collections
+
+---
+
+# Fact Rules
+
+Facts should:
 
 - Use only supplied source text.
 - Never invent facts.
-- No outside knowledge.
-- 30–60 second reads.
-- Conversational tone.
+- Avoid outside knowledge.
+- Be conversational.
+- Take 30–60 seconds to read.
+- Stand alone without additional context.
+- Be memorable.
+- Feel like something you'd tell a friend.
+
+Avoid:
+
+- Trivial facts.
+- Duplicate ideas.
+- Extremely technical explanations.
+- Academic writing.
 
 ---
 
@@ -173,9 +203,15 @@ Be conservative.
 
 ## Rewrite (Optional)
 
-Improve writing.
+Improve readability.
 
 Never introduce new facts.
+
+Optimize for:
+
+- Curiosity
+- Clarity
+- Memorability
 
 ---
 
@@ -189,19 +225,33 @@ Ask:
 
 Would I tell a friend this?
 
+---
+
 ### Surprise Test
 
 Does it make me think:
 
-"Wait… really?"
+> "Wait… really?"
+
+---
 
 ### Memory Test
 
 Will I remember this tomorrow?
 
+---
+
+### Conversation Test
+
+Would this naturally come up over coffee?
+
+---
+
 ### Wikipedia Test
 
 Does it sound too academic?
+
+If yes, simplify.
 
 ---
 
@@ -243,17 +293,62 @@ Suggest:
 3–8 relatedFactIds
 ```
 
-These power:
+These relationships power:
 
 ```text
-More to Discover
+More To Discover
 ```
 
 inside the app.
 
+Relationships are stored directly inside each fact.
+
+No separate relationship files are required.
+
+Example:
+
+```json
+{
+  "id": "fact_123",
+
+  "category": "Space",
+
+  "topic": "Black Holes",
+
+  "relatedFactIds": ["fact_456", "fact_789", "fact_321"]
+}
+```
+
 ---
 
 # Step 10
+
+## Collection Assignment
+
+Collections are not sourced separately.
+
+They emerge naturally from existing facts.
+
+Examples:
+
+- Mind-Blowing Facts
+- Space Is Terrifying
+- Human Weirdness
+- Weird Animals
+- History Is Weird
+- Technology Changed Everything
+- Ancient Wonders
+- Nature Is Crazy
+- Hidden Connections
+- Music Evolution
+
+A single fact may belong to multiple collections.
+
+No additional content generation is required.
+
+---
+
+# Step 11
 
 ## Export
 
@@ -270,7 +365,6 @@ exports/
 
 facts.json
 categories.json
-topics.json
 collections.json
 ```
 
@@ -280,11 +374,13 @@ Copy into:
 TIL/Resources/
 ```
 
+No additional export files should be introduced unless they provide significant value.
+
 ---
 
 # Weekly Workflow
 
-Monday:
+Monday
 
 20 URLs
 
@@ -292,21 +388,69 @@ Monday:
 
 Firecrawl extraction
 
-Tuesday:
+---
+
+Tuesday
 
 Draft facts
 
-Wednesday:
+---
+
+Wednesday
 
 Validation
 
-Thursday:
+---
+
+Thursday
 
 Relationship suggestions
 
-Friday:
+Collection assignment
+
+---
+
+Friday
 
 Export
+
+---
+
+# Fact Targets
+
+Per topic:
+
+```text
+7–10 approved facts
+```
+
+Target:
+
+```text
+350 topics
+```
+
+Produces:
+
+```text
+2,500–3,500 facts
+```
+
+Average:
+
+```text
+5 related facts per fact
+```
+
+Produces a rich enough graph to power:
+
+- Today's Fact
+- More To Discover
+- Categories
+- Search
+- Collections
+
+without requiring additional architecture.
 
 ---
 
@@ -322,17 +466,16 @@ Markdown
 
 Keep manual:
 
-```text
-Drafting
-Validation
-Human review
-Relationship curation
-```
+- Drafting
+- Validation
+- Human review
+- Relationship curation
+- Collection curation
 
 until:
 
 ```text
-500–1000 approved facts
+5,000+ approved facts
 ```
 
 ---
@@ -341,10 +484,16 @@ until:
 
 Every fact should feel like:
 
-"A curious friend sharing something fascinating over coffee."
+> A curious friend sharing something fascinating over coffee.
 
-If users think:
+Users should frequently think:
 
-"Wait… really?"
+> "Wait… really?"
 
-then the workflow is succeeding.
+because curiosity—not complexity—is the product.
+
+Likewise:
+
+Content should evolve.
+
+Architecture should remain simple.

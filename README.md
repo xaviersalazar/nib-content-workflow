@@ -76,7 +76,6 @@ pnpm scrape:source \
 Output:
 
 - `sources/<category-slug>/<topic-slug>/<institution-slug>-<topic-slug>.md`
-- `sources/<category-slug>/<topic-slug>/<institution-slug>-<topic-slug>.metadata.json`
 
 ### Scrape All Pending Sources
 
