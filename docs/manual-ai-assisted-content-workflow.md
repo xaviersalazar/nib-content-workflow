@@ -123,8 +123,7 @@ Output:
 sources/
 
 space/
-    black-holes/
-        nasa-black-holes.md
+    nasa-black-holes.md
 ```
 
 Only automate this step.

@@ -26,7 +26,7 @@ async function main() {
   const topicSlug = slug(topic);
   const institutionSlug = slug(institution);
 
-  const dir = path.join("sources", categorySlug, topicSlug);
+  const dir = path.join("sources", categorySlug);
   await fs.mkdir(dir, { recursive: true });
 
   const result = await app.scrapeUrl(url, {

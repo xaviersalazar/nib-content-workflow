@@ -138,19 +138,13 @@ Tier 3
 sources/
 
 space/
-    black-holes/
-
-        nasa-black-holes.md
+    nasa-black-holes.md
 
 animals/
-    octopus/
-
-        monterey-octopus.md
+    monterey-octopus.md
 
 history/
-    roman-empire/
-
-        britannica-roman-empire.md
+    britannica-roman-empire.md
 ```
 
 ---

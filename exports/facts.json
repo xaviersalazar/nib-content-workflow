@@ -935,5 +935,225 @@
       "asteroids-robotic-exploration",
       "asteroids-dart-changed-orbit"
     ]
+  },
+  {
+    "id": "exoplanets-more-than-stars",
+    "headline": "There Are More Planets Than Stars in Our Galaxy",
+    "body": "Scientists now believe there are more planets than stars in the Milky Way. With billions of stars already present, that means our galaxy may contain hundreds of billions of worlds.",
+    "summary": "The Milky Way likely contains more planets than stars.",
+    "categoryId": "space",
+    "topic": "Exoplanets",
+    "tags": [
+      "space",
+      "exoplanets",
+      "milky-way",
+      "stars",
+      "astronomy"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "exoplanets-6000-confirmed",
+      "exoplanets-billions-exist"
+    ]
+  },
+  {
+    "id": "exoplanets-6000-confirmed",
+    "headline": "We've Confirmed More Than 6,000 Alien Worlds",
+    "body": "NASA has confirmed more than 6,000 exoplanets orbiting distant stars. Scientists believe this is only a tiny fraction of the billions of planets that exist throughout the galaxy.",
+    "summary": "Scientists have confirmed more than 6,000 planets outside our solar system.",
+    "categoryId": "space",
+    "topic": "Exoplanets",
+    "tags": [
+      "space",
+      "exoplanets",
+      "nasa",
+      "astronomy",
+      "planets"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "exoplanets-more-than-stars",
+      "exoplanets-billions-exist"
+    ]
+  },
+  {
+    "id": "exoplanets-rogue-planets",
+    "headline": "Some Planets Wander Through Space Alone",
+    "body": "Not every planet orbits a star. Some exoplanets, known as rogue planets, drift freely through space without being gravitationally bound to any star at all.",
+    "summary": "Some planets travel through space without orbiting a star.",
+    "categoryId": "space",
+    "topic": "Exoplanets",
+    "tags": [
+      "space",
+      "exoplanets",
+      "rogue-planets",
+      "astronomy",
+      "space"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "exoplanets-strange-worlds",
+      "exoplanets-billions-exist"
+    ]
+  },
+  {
+    "id": "exoplanets-closest-four-light-years",
+    "headline": "The Closest Known Exoplanet Is Four Light-Years Away",
+    "body": "Proxima Centauri b, the nearest known exoplanet to Earth, is located about four light-years away. Even at that relatively close distance, reaching it with current technology would take thousands of years.",
+    "summary": "The nearest known exoplanet is about four light-years from Earth.",
+    "categoryId": "space",
+    "topic": "Exoplanets",
+    "tags": [
+      "space",
+      "exoplanets",
+      "proxima-centauri",
+      "distance",
+      "astronomy"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "exoplanets-trappist-seven-worlds",
+      "exoplanets-billions-exist"
+    ]
+  },
+  {
+    "id": "exoplanets-strange-worlds",
+    "headline": "Scientists Have Found Lava Worlds and Styrofoam Worlds",
+    "body": "Exoplanets come in astonishing varieties. Researchers have discovered planets covered in molten oceans, worlds made mostly of iron, and even planets with densities comparable to Styrofoam.",
+    "summary": "Alien planets come in forms stranger than scientists once imagined.",
+    "categoryId": "space",
+    "topic": "Exoplanets",
+    "tags": [
+      "space",
+      "exoplanets",
+      "lava-worlds",
+      "astronomy",
+      "strange"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "exoplanets-rogue-planets",
+      "exoplanets-water-worlds"
+    ]
+  },
+  {
+    "id": "exoplanets-goldilocks-zone",
+    "headline": "Some Planets Live in the Goldilocks Zone",
+    "body": "Astronomers search for planets in the habitable zone, often called the Goldilocks zone, where temperatures may be just right for liquid water to exist on the surface.",
+    "summary": "The Goldilocks zone is where conditions may be suitable for liquid water.",
+    "categoryId": "space",
+    "topic": "Exoplanets",
+    "tags": [
+      "space",
+      "exoplanets",
+      "habitable-zone",
+      "water",
+      "life"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "exoplanets-search-for-life",
+      "exoplanets-water-worlds"
+    ]
+  },
+  {
+    "id": "exoplanets-search-for-life",
+    "headline": "Finding Alien Life Would Change Humanity Forever",
+    "body": "NASA describes the question of whether life exists beyond Earth as one of the most profound questions of all time. Scientists believe that whatever the answer turns out to be, it would permanently change humanity's understanding of its place in the universe.",
+    "summary": "Discovering life beyond Earth would transform humanity's view of the universe.",
+    "categoryId": "space",
+    "topic": "Exoplanets",
+    "tags": [
+      "space",
+      "exoplanets",
+      "life",
+      "astronomy",
+      "nasa"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "exoplanets-goldilocks-zone",
+      "exoplanets-billions-exist"
+    ]
+  },
+  {
+    "id": "exoplanets-trappist-seven-worlds",
+    "headline": "One Star Has Seven Earth-Sized Planets",
+    "body": "The TRAPPIST-1 system contains seven Earth-sized planets orbiting a small red dwarf star. Located about 40 light-years away, it is one of the most intriguing planetary systems discovered so far.",
+    "summary": "TRAPPIST-1 hosts seven Earth-sized planets.",
+    "categoryId": "space",
+    "topic": "Exoplanets",
+    "tags": [
+      "space",
+      "exoplanets",
+      "trappist-1",
+      "planets",
+      "astronomy"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "exoplanets-closest-four-light-years",
+      "exoplanets-goldilocks-zone"
+    ]
+  },
+  {
+    "id": "exoplanets-billions-exist",
+    "headline": "Billions of Alien Worlds Are Still Waiting to Be Found",
+    "body": "Although scientists have confirmed more than 6,000 exoplanets, they estimate billions more remain undiscovered. Every new detection helps researchers understand how common worlds like Earth may be.",
+    "summary": "Scientists believe billions of exoplanets remain undiscovered.",
+    "categoryId": "space",
+    "topic": "Exoplanets",
+    "tags": [
+      "space",
+      "exoplanets",
+      "discovery",
+      "astronomy",
+      "galaxy"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "exoplanets-more-than-stars",
+      "exoplanets-6000-confirmed"
+    ]
+  },
+  {
+    "id": "exoplanets-citizen-scientists",
+    "headline": "Ordinary People Have Helped Discover New Worlds",
+    "body": "Citizen scientists working alongside NASA researchers have contributed to thousands of discoveries. Amateur astronomers and volunteers around the world help analyze data and observe distant planets.",
+    "summary": "Citizen scientists have played an important role in exoplanet discoveries.",
+    "categoryId": "space",
+    "topic": "Exoplanets",
+    "tags": [
+      "space",
+      "exoplanets",
+      "citizen-science",
+      "nasa",
+      "astronomy"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "exoplanets-search-for-life",
+      "exoplanets-billions-exist"
+    ]
   }
 ]
