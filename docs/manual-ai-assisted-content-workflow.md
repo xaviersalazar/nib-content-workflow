@@ -37,6 +37,10 @@ Content evolves.
 
 Architecture remains stable.
 
+Quality matters more than quantity.
+
+Curiosity—not completeness—is the product.
+
 ---
 
 # Workflow Overview
@@ -54,11 +58,13 @@ Claude/ChatGPT
 ↓
 Draft Facts
 ↓
-Validation
+Validation + Fun Score
 ↓
 Human Review
 ↓
 Approved Facts
+↓
+CSV Generation
 ↓
 Relationship Suggestions
 ↓
@@ -97,13 +103,7 @@ Use:
 source-registry/sources.csv
 ```
 
-Example:
-
-```text
-https://science.nasa.gov/universe/black-holes/
-```
-
-The source registry contains article-level pages rather than broad landing pages.
+Prefer article-level pages rather than broad landing pages.
 
 ---
 
@@ -148,7 +148,7 @@ Generate:
 7–10 fact candidates
 ```
 
-Because sources now contain deeper content, each topic should provide enough facts to support:
+Facts should support:
 
 - Topic browsing
 - Today's Fact
@@ -176,6 +176,7 @@ Avoid:
 - Duplicate ideas.
 - Extremely technical explanations.
 - Academic writing.
+- Facts that are only mildly interesting.
 
 ---
 
@@ -183,19 +184,46 @@ Avoid:
 
 ## Validation
 
-Run a second AI pass.
+Each fact receives:
 
-Possible outcomes:
+- Validation status
+- Fun score
+
+Possible statuses:
 
 ```text
 PASS
-
 NEEDS_REVIEW
+REJECTED
+```
 
-FAIL
+Fun score scale:
+
+| Score      | Meaning                      |
+| ---------- | ---------------------------- |
+| 10         | "Wait… really?"              |
+| 9          | Extremely fascinating        |
+| 8          | Very interesting             |
+| 7          | Solid curiosity              |
+| 6          | Informative but needs review |
+| 5 or below | Candidate for rejection      |
+
+Validation rules:
+
+```text
+funScore 7–10
+→ PASS
+
+funScore 6
+→ NEEDS_REVIEW
+
+funScore ≤5
+→ REJECTED
 ```
 
 Be conservative.
+
+Interesting facts are better than lots of facts.
 
 ---
 
@@ -255,6 +283,18 @@ If yes, simplify.
 
 ---
 
+### Boredom Test
+
+Would I scroll past this?
+
+If yes:
+
+```text
+REJECT
+```
+
+---
+
 # Step 8
 
 ## Store Approved Facts
@@ -269,59 +309,131 @@ Statuses:
 
 ```text
 DRAFTED
-
 VALIDATED
-
 APPROVED
-
 REJECTED
-
 EXPORTED
 ```
+
+Only approved facts are exported.
 
 ---
 
 # Step 9
 
-## Relationship Suggestions
+## Generate CSV Rows
 
-After multiple facts exist:
+Each approved fact generates a row with:
+
+```text
+id
+categoryId
+topic
+headline
+body
+summary
+tags
+readTimeSeconds
+funScore
+featured
+relatedFactIds
+```
+
+### ID Convention
+
+Use:
+
+```text
+<topic-slug>-<fact-slug>
+```
+
+Example:
+
+```text
+black-holes-spaghettification
+venus-hotter-than-mercury
+roman-empire-concrete
+```
+
+IDs should be:
+
+- lowercase
+- kebab-case
+- descriptive
+- stable
+
+---
+
+### Featured
+
+Always:
+
+```text
+featured=false
+```
+
+The application controls which fact becomes Fact of the Day.
+
+Content generation never sets featured facts.
+
+---
+
+### Tags
+
+Use:
+
+```text
+3–6 tags
+```
+
+Example:
+
+```text
+space,gravity,physics
+```
+
+All tags should be lowercase.
+
+---
+
+### Read Time
+
+Target:
+
+```text
+30–60 seconds
+```
+
+---
+
+# Step 10
+
+## Relationship Suggestions
 
 Suggest:
 
 ```text
-3–8 relatedFactIds
+2–5 relatedFactIds
 ```
-
-These relationships power:
-
-```text
-More To Discover
-```
-
-inside the app.
 
 Relationships are stored directly inside each fact.
-
-No separate relationship files are required.
 
 Example:
 
 ```json
 {
   "id": "fact_123",
-
-  "category": "Space",
-
-  "topic": "Black Holes",
-
-  "relatedFactIds": ["fact_456", "fact_789", "fact_321"]
+  "relatedFactIds": ["fact_456", "fact_789"]
 }
 ```
 
+These are provisional.
+
+A larger relationship pass across the entire database will refine them later.
+
 ---
 
-# Step 10
+# Step 11
 
 ## Collection Assignment
 
@@ -348,7 +460,7 @@ No additional content generation is required.
 
 ---
 
-# Step 11
+# Step 12
 
 ## Export
 
@@ -361,8 +473,6 @@ pnpm export:facts
 Generate:
 
 ```text
-exports/
-
 facts.json
 categories.json
 collections.json
@@ -421,36 +531,14 @@ Export
 Per topic:
 
 ```text
-7–10 approved facts
+7–10 candidates
 ```
 
-Target:
+Quality matters more than hitting the target.
 
-```text
-350 topics
-```
+Reject boring facts.
 
-Produces:
-
-```text
-2,500–3,500 facts
-```
-
-Average:
-
-```text
-5 related facts per fact
-```
-
-Produces a rich enough graph to power:
-
-- Today's Fact
-- More To Discover
-- Categories
-- Search
-- Collections
-
-without requiring additional architecture.
+Average quality should matter more than total count.
 
 ---
 

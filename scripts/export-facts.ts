@@ -10,11 +10,8 @@ type ApprovedFactRow = {
   summary: string;
   tags: string;
   readTimeSeconds: string;
-  difficulty: "easy" | "medium" | "advanced";
   funScore: string;
   featured: string;
-  evergreen: string;
-  sourceUrls: string;
   relatedFactIds: string;
 };
 
@@ -42,12 +39,9 @@ async function main() {
     topic: row.topic,
     tags: splitCsvList(row.tags),
     readTimeSeconds: Number(row.readTimeSeconds),
-    difficulty: row.difficulty,
     funScore: Number(row.funScore),
     featured: row.featured === "true",
-    evergreen: row.evergreen === "true",
     relatedFactIds: splitCsvList(row.relatedFactIds),
-    sourceUrls: splitCsvList(row.sourceUrls),
   }));
 
   await fs.mkdir("exports", { recursive: true });

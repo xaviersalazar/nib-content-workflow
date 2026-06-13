@@ -46,22 +46,6 @@ async function main() {
 
   await fs.writeFile(path.join(dir, `${baseName}.md`), markdown, "utf8");
 
-  await fs.writeFile(
-    JSON.stringify(
-      {
-        url,
-        category,
-        topic,
-        institution,
-        extractedAt: new Date().toISOString(),
-        markdownFile: `${baseName}.md`,
-      },
-      null,
-      2,
-    ),
-    "utf8",
-  );
-
   console.log(`Saved ${dir}/${baseName}.md`);
 }
 

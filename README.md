@@ -60,6 +60,7 @@ cp docs/sources.csv source-registry/sources.csv
 ## Scripts
 
 - `pnpm scrape:source <url> <category> <topic> <institution>`
+- `pnpm scrape:next`
 - `pnpm scrape:batch`
 - `pnpm export:facts`
 
@@ -77,9 +78,13 @@ Output:
 
 - `sources/<category-slug>/<topic-slug>/<institution-slug>-<topic-slug>.md`
 
+### Scrape Next Pending Source
+
+`pnpm scrape:next` reads `source-registry/sources.csv` and runs the first row where `status` is `pending` through `scrape:source`.
+
 ### Scrape All Pending Sources
 
-`pnpm scrape:batch` reads `source-registry/sources.csv` and processes rows where `status` is `pending`.
+`pnpm scrape:batch` reads `source-registry/sources.csv` and processes **all** rows where `status` is `pending`.
 
 Expected columns:
 
@@ -97,21 +102,30 @@ Expected columns:
 If the input file does not exist yet, create it with at least this header:
 
 ```csv
-id,categoryId,topic,headline,body,summary,tags,readTimeSeconds,difficulty,funScore,featured,evergreen,sources,relatedFactIds
+id,categoryId,topic,headline,body,summary,tags,readTimeSeconds,funScore,featured,relatedFactIds
 ```
 
 Notes:
 
-- `tags` should be comma-separated.
-- `difficulty` must be one of: `easy`, `medium`, `advanced`.
-- `sources` should contain a JSON array string.
-- `featured` and `evergreen` should be `true` or `false`.
+| Column            | Description                                                                 |
+| ----------------- | --------------------------------------------------------------------------- |
+| `id`              | Unique slug identifier for the fact (e.g. `black-holes-spaghettification`). |
+| `categoryId`      | Lowercase category slug (e.g. `space`).                                     |
+| `topic`           | Human-readable topic name (e.g. `Black Holes`).                             |
+| `headline`        | The fact's title as it appears in the app.                                  |
+| `body`            | Full fact text. Wrap in double quotes if it contains commas.                |
+| `summary`         | One-sentence summary of the fact.                                           |
+| `tags`            | Comma-separated list of tags (e.g. `space,gravity,physics`).                |
+| `readTimeSeconds` | Estimated read time as a whole number of seconds.                           |
+| `funScore`        | Engagement score from 1–10.                                                 |
+| `featured`        | `true` or `false` — whether the fact is featured.                           |
+| `relatedFactIds`  | Comma-separated list of related fact `id` values. Leave blank if none.      |
 
 ## Recommended Workflow
 
 1. Add or update trusted URLs in `source-registry/sources.csv`.
-2. Run Firecrawl extraction (`pnpm scrape:source` or `pnpm scrape:batch`).
-3. Draft 1-3 fact candidates per source using your AI assistant.
+2. Run Firecrawl extraction (`pnpm scrape:source`, `pnpm scrape:next`, or `pnpm scrape:batch`).
+3. Draft 7–10 fact candidates per source using your AI assistant.
 4. Validate claims against source text only.
 5. Perform human review and keep approved facts.
 6. Store approved rows in `approved-content/approved-facts.csv`.
@@ -133,12 +147,13 @@ For detailed process guidance, see:
 ├── scripts/
 │   ├── export-facts.ts
 │   ├── scrape-batch.ts
+│   ├── scrape-next.ts
 │   └── scrape-source.ts
 ├── source-registry/              # expected by scrape-batch.ts
 │   └── sources.csv
 ├── approved-content/             # expected by export-facts.ts
 │   └── approved-facts.csv
-├── sources/                      # generated markdown + metadata
+├── sources/                      # generated markdown
 ├── exports/                      # generated json output
 ├── package.json
 └── pnpm-lock.yaml
