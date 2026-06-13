@@ -715,5 +715,225 @@
       "black-holes-spin-fast",
       "black-holes-biggest-known"
     ]
+  },
+  {
+    "id": "asteroids-older-than-earth",
+    "headline": "Asteroids Are Older Than Earth",
+    "body": "Asteroids are rocky remnants left over from the formation of our solar system about 4.6 billion years ago. They are essentially cosmic leftovers that have survived since before Earth fully formed.",
+    "summary": "Asteroids are ancient leftovers from the birth of the solar system.",
+    "categoryId": "space",
+    "topic": "Asteroids",
+    "tags": [
+      "space",
+      "asteroids",
+      "solar-system",
+      "formation",
+      "history"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "asteroids-main-belt",
+      "asteroids-less-mass-than-moon"
+    ]
+  },
+  {
+    "id": "asteroids-main-belt",
+    "headline": "Most Asteroids Live Between Mars and Jupiter",
+    "body": "Most known asteroids orbit the Sun in a region called the main asteroid belt, located between Mars and Jupiter. This vast area contains millions of rocky objects left over from the solar system's formation.",
+    "summary": "Most asteroids are found in the main asteroid belt between Mars and Jupiter.",
+    "categoryId": "space",
+    "topic": "Asteroids",
+    "tags": [
+      "space",
+      "asteroids",
+      "main-belt",
+      "mars",
+      "jupiter"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": [
+      "asteroids-older-than-earth",
+      "asteroids-size-range"
+    ]
+  },
+  {
+    "id": "asteroids-less-mass-than-moon",
+    "headline": "All the Asteroids Together Weigh Less Than the Moon",
+    "body": "There are millions of asteroids in our solar system, but if you combined all of them into one object, their total mass would still be less than that of Earth's Moon.",
+    "summary": "The combined mass of all asteroids is smaller than Earth's Moon.",
+    "categoryId": "space",
+    "topic": "Asteroids",
+    "tags": [
+      "space",
+      "asteroids",
+      "moon",
+      "mass",
+      "solar-system"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "asteroids-older-than-earth",
+      "asteroids-size-range"
+    ]
+  },
+  {
+    "id": "asteroids-size-range",
+    "headline": "Asteroids Range From Mountains to Small Houses",
+    "body": "Asteroids come in an enormous range of sizes. The largest, Vesta, is about 329 miles wide, while some asteroids measure less than 33 feet across, making them smaller than many houses.",
+    "summary": "Asteroids range in size from giant worlds to objects smaller than houses.",
+    "categoryId": "space",
+    "topic": "Asteroids",
+    "tags": [
+      "space",
+      "asteroids",
+      "vesta",
+      "size",
+      "solar-system"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "asteroids-main-belt",
+      "asteroids-less-mass-than-moon"
+    ]
+  },
+  {
+    "id": "asteroids-dart-changed-orbit",
+    "headline": "Humans Have Successfully Moved an Asteroid",
+    "body": "NASA's DART spacecraft intentionally crashed into the asteroid moonlet Dimorphos and successfully changed its orbit. It marked the first time humanity deliberately altered the motion of a celestial object.",
+    "summary": "NASA's DART mission proved humans can change an asteroid's orbit.",
+    "categoryId": "space",
+    "topic": "Asteroids",
+    "tags": [
+      "space",
+      "asteroids",
+      "dart",
+      "planetary-defense",
+      "nasa"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "asteroids-planetary-defense",
+      "asteroids-near-earth-tracking"
+    ]
+  },
+  {
+    "id": "asteroids-planetary-defense",
+    "headline": "NASA Has a Planetary Defense Office",
+    "body": "NASA operates a Planetary Defense Coordination Office whose job is to find, track, and better understand asteroids and comets that could pose an impact hazard to Earth.",
+    "summary": "NASA has an office dedicated to protecting Earth from dangerous asteroids.",
+    "categoryId": "space",
+    "topic": "Asteroids",
+    "tags": [
+      "space",
+      "asteroids",
+      "planetary-defense",
+      "nasa",
+      "earth"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "asteroids-dart-changed-orbit",
+      "asteroids-near-earth-tracking"
+    ]
+  },
+  {
+    "id": "asteroids-near-earth-tracking",
+    "headline": "NASA Constantly Tracks Potentially Dangerous Asteroids",
+    "body": "Scientists at NASA's Center for Near Earth Object Studies calculate extremely precise orbits for asteroids and other near-Earth objects to help identify possible future impact threats.",
+    "summary": "NASA continuously tracks asteroids that could someday threaten Earth.",
+    "categoryId": "space",
+    "topic": "Asteroids",
+    "tags": [
+      "space",
+      "asteroids",
+      "earth",
+      "nasa",
+      "safety"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "asteroids-planetary-defense",
+      "asteroids-dart-changed-orbit"
+    ]
+  },
+  {
+    "id": "asteroids-robotic-exploration",
+    "headline": "Robots Have Visited Asteroids Up Close",
+    "body": "NASA has sent multiple robotic spacecraft to visit asteroids and study their composition and structure. These missions allow scientists to investigate some of the oldest objects in the solar system.",
+    "summary": "Robotic spacecraft have explored asteroids up close.",
+    "categoryId": "space",
+    "topic": "Asteroids",
+    "tags": [
+      "space",
+      "asteroids",
+      "robots",
+      "spacecraft",
+      "nasa"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": [
+      "asteroids-older-than-earth",
+      "asteroids-dart-changed-orbit"
+    ]
+  },
+  {
+    "id": "asteroids-named-minor-planets",
+    "headline": "Asteroids Are Sometimes Called Minor Planets",
+    "body": "Astronomers sometimes refer to asteroids as minor planets. Although they are much smaller than planets, they are still recognized as independent objects orbiting the Sun.",
+    "summary": "Asteroids are also known as minor planets.",
+    "categoryId": "space",
+    "topic": "Asteroids",
+    "tags": [
+      "space",
+      "asteroids",
+      "minor-planets",
+      "astronomy",
+      "science"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 7,
+    "featured": false,
+    "relatedFactIds": [
+      "asteroids-main-belt",
+      "asteroids-size-range"
+    ]
+  },
+  {
+    "id": "asteroids-bennu-mystery",
+    "headline": "One Asteroid Completely Surprised NASA",
+    "body": "Scientists expected asteroid Bennu to have a relatively smooth surface, but when NASA's OSIRIS-REx spacecraft arrived, it found an unexpectedly rugged landscape covered with rocks and boulders.",
+    "summary": "Asteroid Bennu turned out to be far rougher than scientists expected.",
+    "categoryId": "space",
+    "topic": "Asteroids",
+    "tags": [
+      "space",
+      "asteroids",
+      "bennu",
+      "osiris-rex",
+      "nasa"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "asteroids-robotic-exploration",
+      "asteroids-dart-changed-orbit"
+    ]
   }
 ]
