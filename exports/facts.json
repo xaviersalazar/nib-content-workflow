@@ -1375,5 +1375,385 @@
       "comets-interstellar-visitors",
       "comets-spin-reversal"
     ]
+  },
+  {
+    "id": "dwarf-planets-only-five-known",
+    "headline": "Only Five Dwarf Planets Are Officially Recognized",
+    "body": "The International Astronomical Union currently recognizes only five dwarf planets in our solar system: Ceres, Pluto, Haumea, Makemake, and Eris.",
+    "summary": "Only five dwarf planets are officially recognized.",
+    "categoryId": "space",
+    "topic": "Dwarf Planets",
+    "tags": [
+      "space",
+      "dwarf-planets",
+      "pluto",
+      "solar-system",
+      "astronomy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dwarf-planets-hundreds-more",
+    "headline": "Scientists Think Hundreds More Dwarf Planets Exist",
+    "body": "Although only five have been officially recognized, astronomers believe there could be more than a hundred dwarf planets waiting to be discovered.",
+    "summary": "There may be hundreds of undiscovered dwarf planets.",
+    "categoryId": "space",
+    "topic": "Dwarf Planets",
+    "tags": [
+      "space",
+      "dwarf-planets",
+      "discovery",
+      "astronomy",
+      "solar-system"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dwarf-planets-pluto-not-alone",
+    "headline": "Pluto Is Just One Member of a Larger Family",
+    "body": "Pluto was once considered the ninth planet, but it is now known to be one of several dwarf planets inhabiting the outer solar system.",
+    "summary": "Pluto is part of a larger family of dwarf planets.",
+    "categoryId": "space",
+    "topic": "Dwarf Planets",
+    "tags": [
+      "space",
+      "pluto",
+      "dwarf-planets",
+      "astronomy",
+      "kuiper-belt"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dwarf-planets-haumea-fast-spin",
+    "headline": "Haumea Is One of the Fastest-Spinning Worlds Known",
+    "body": "Haumea rotates so quickly that its shape has been stretched into an oval rather than a sphere, making it one of the strangest objects in the solar system.",
+    "summary": "Haumea spins so fast that it is no longer spherical.",
+    "categoryId": "space",
+    "topic": "Dwarf Planets",
+    "tags": [
+      "space",
+      "haumea",
+      "dwarf-planets",
+      "rotation",
+      "astronomy"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dwarf-planets-makemake-bright",
+    "headline": "Makemake Is the Second-Brightest Object in the Kuiper Belt",
+    "body": "Makemake is one of the brightest objects beyond Neptune and is second only to Pluto in brightness among known Kuiper Belt dwarf planets.",
+    "summary": "Makemake is one of the brightest worlds in the outer solar system.",
+    "categoryId": "space",
+    "topic": "Dwarf Planets",
+    "tags": [
+      "space",
+      "makemake",
+      "kuiper-belt",
+      "dwarf-planets",
+      "astronomy"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dwarf-planets-ceres-inner-solar-system",
+    "headline": "Ceres Is the Only Dwarf Planet in the Inner Solar System",
+    "body": "Unlike the other known dwarf planets, Ceres resides between Mars and Jupiter inside the asteroid belt.",
+    "summary": "Ceres is the only dwarf planet located in the inner solar system.",
+    "categoryId": "space",
+    "topic": "Dwarf Planets",
+    "tags": [
+      "space",
+      "ceres",
+      "asteroid-belt",
+      "dwarf-planets",
+      "astronomy"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dwarf-planets-planet-definition",
+    "headline": "Pluto Lost Planet Status Because It Couldn't Clear Its Orbit",
+    "body": "According to the International Astronomical Union, planets must clear their orbital neighborhoods. Pluto failed that requirement and was reclassified as a dwarf planet in 2006.",
+    "summary": "Pluto became a dwarf planet because it shares its orbit with other objects.",
+    "categoryId": "space",
+    "topic": "Dwarf Planets",
+    "tags": [
+      "space",
+      "pluto",
+      "dwarf-planets",
+      "astronomy",
+      "history"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dwarf-planets-nearly-planets",
+    "headline": "Dwarf Planets Are Surprisingly Similar to Regular Planets",
+    "body": "Dwarf planets orbit the Sun and are nearly round, making them very similar to planets except for one key requirement involving their orbital neighborhoods.",
+    "summary": "Dwarf planets are much more planet-like than many people realize.",
+    "categoryId": "space",
+    "topic": "Dwarf Planets",
+    "tags": [
+      "space",
+      "dwarf-planets",
+      "planets",
+      "astronomy",
+      "solar-system"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dwarf-planets-eris-size",
+    "headline": "Eris Is One of the Largest Dwarf Planets Ever Found",
+    "body": "Eris is among the largest known dwarf planets and its discovery helped spark the debate that led to Pluto's reclassification.",
+    "summary": "The discovery of Eris helped redefine what a planet is.",
+    "categoryId": "space",
+    "topic": "Dwarf Planets",
+    "tags": [
+      "space",
+      "eris",
+      "dwarf-planets",
+      "pluto",
+      "astronomy"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dwarf-planets-definition-created-2006",
+    "headline": "The Official Planet Definition Didn't Exist Until 2006",
+    "body": "Astronomers only adopted the modern definition of a planet in 2006, creating the category of dwarf planets in the process.",
+    "summary": "The modern definition of a planet is surprisingly recent.",
+    "categoryId": "space",
+    "topic": "Dwarf Planets",
+    "tags": [
+      "space",
+      "dwarf-planets",
+      "history",
+      "astronomy",
+      "planets"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "jupiter-thousand-earths",
+    "headline": "One Thousand Earths Could Fit Inside Jupiter",
+    "body": "If Jupiter were hollow, roughly 1,000 Earths could fit inside it, making it by far the largest planet in our solar system.",
+    "summary": "Jupiter is so large that about 1,000 Earths could fit inside it.",
+    "categoryId": "space",
+    "topic": "Jupiter",
+    "tags": [
+      "space",
+      "jupiter",
+      "planets",
+      "size",
+      "astronomy"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "jupiter-more-mass-than-all-planets",
+    "headline": "Jupiter Is More Massive Than All the Other Planets Combined",
+    "body": "Jupiter contains more than twice the mass of all the other planets in the solar system put together.",
+    "summary": "Jupiter outweighs all the other planets combined.",
+    "categoryId": "space",
+    "topic": "Jupiter",
+    "tags": [
+      "space",
+      "jupiter",
+      "mass",
+      "planets",
+      "astronomy"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "jupiter-shortest-day",
+    "headline": "Jupiter Has the Shortest Day in the Solar System",
+    "body": "Despite its enormous size, Jupiter rotates once every 9.9 hours, giving it the shortest day of any planet.",
+    "summary": "Jupiter experiences the shortest day in the solar system.",
+    "categoryId": "space",
+    "topic": "Jupiter",
+    "tags": [
+      "space",
+      "jupiter",
+      "rotation",
+      "time",
+      "astronomy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "jupiter-oldest-planet",
+    "headline": "Jupiter Is the Oldest Planet in the Solar System",
+    "body": "Scientists believe Jupiter formed first, making it the oldest planet in our solar system.",
+    "summary": "Jupiter may have been the first planet to form.",
+    "categoryId": "space",
+    "topic": "Jupiter",
+    "tags": [
+      "space",
+      "jupiter",
+      "history",
+      "formation",
+      "astronomy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "jupiter-ninety-five-moons",
+    "headline": "Jupiter Has 95 Officially Recognized Moons",
+    "body": "The International Astronomical Union currently recognizes 95 moons orbiting Jupiter, more than any other planet except Saturn.",
+    "summary": "Jupiter has an enormous family of moons.",
+    "categoryId": "space",
+    "topic": "Jupiter",
+    "tags": [
+      "space",
+      "jupiter",
+      "moons",
+      "solar-system",
+      "astronomy"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "jupiter-thousands-small-objects",
+    "headline": "Jupiter Is Surrounded by Thousands of Smaller Objects",
+    "body": "Beyond its moons, Jupiter's gravitational pull controls countless asteroids and smaller objects that orbit alongside the giant planet.",
+    "summary": "Thousands of objects accompany Jupiter through space.",
+    "categoryId": "space",
+    "topic": "Jupiter",
+    "tags": [
+      "space",
+      "jupiter",
+      "asteroids",
+      "moons",
+      "astronomy"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "jupiter-galileo-observed",
+    "headline": "Galileo Studied Jupiter with a Homemade Telescope",
+    "body": "In 1610, Galileo Galilei made the first detailed observations of Jupiter using a small telescope he built himself.",
+    "summary": "Galileo used a homemade telescope to study Jupiter.",
+    "categoryId": "space",
+    "topic": "Jupiter",
+    "tags": [
+      "space",
+      "jupiter",
+      "galileo",
+      "history",
+      "astronomy"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "jupiter-great-red-spot",
+    "headline": "Jupiter's Great Red Spot Is a Giant Storm",
+    "body": "The Great Red Spot is a massive storm on Jupiter that has been raging for centuries and is larger than Earth itself.",
+    "summary": "Jupiter's famous storm is larger than our entire planet.",
+    "categoryId": "space",
+    "topic": "Jupiter",
+    "tags": [
+      "space",
+      "jupiter",
+      "storms",
+      "great-red-spot",
+      "astronomy"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "jupiter-four-galilean-moons",
+    "headline": "Four Giant Moons Orbit Jupiter",
+    "body": "Io, Europa, Ganymede, and Callisto are Jupiter's four largest moons and were first observed by Galileo over 400 years ago.",
+    "summary": "Jupiter's four largest moons are worlds of their own.",
+    "categoryId": "space",
+    "topic": "Jupiter",
+    "tags": [
+      "space",
+      "jupiter",
+      "moons",
+      "galileo",
+      "astronomy"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "jupiter-auroras-moons",
+    "headline": "Jupiter's Moons Leave Glowing Marks in Its Atmosphere",
+    "body": "Jupiter's powerful auroras contain signatures left behind by its moons, creating glowing patterns unlike anything seen on Earth.",
+    "summary": "Jupiter's moons create visible effects inside the planet's auroras.",
+    "categoryId": "space",
+    "topic": "Jupiter",
+    "tags": [
+      "space",
+      "jupiter",
+      "auroras",
+      "moons",
+      "astronomy"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
