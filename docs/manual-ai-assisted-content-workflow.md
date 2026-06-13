@@ -1,586 +1,490 @@
 # Manual AI-Assisted Content Workflow
 
----
-
-# Purpose
-
-This document defines the manual, low-cost content workflow used to create facts for Today I Learned (TIL).
-
-The process is intentionally:
-
-- Human-in-the-loop
-- Low cost
-- Repeatable
-- AI provider agnostic
-- High quality
-
-Supported AI assistants:
-
-- Claude Web
-- ChatGPT Web
-- Gemini
-- Future models
-
----
-
-# Philosophy
-
-AI drafts.
-
-Humans approve.
-
-The app ships reviewed facts only.
-
-Collections emerge naturally from the same pool of facts.
-
-Content evolves.
-
-Architecture remains stable.
+## Philosophy
 
 Quality matters more than quantity.
 
-Curiosity—not completeness—is the product.
+The goal is not to maximize the number of facts in the database. The goal is to build a database that is dense with curiosity.
+
+A database containing 3,000 highly memorable facts is more valuable than a database containing 10,000 mediocre facts.
+
+Every fact should make users think:
+
+> "Wait… really?"
 
 ---
 
 # Workflow Overview
 
-```text
-Topic
-↓
-Source URL
-↓
-Firecrawl
-↓
-Markdown File
-↓
-Claude/ChatGPT
-↓
-Draft Facts
-↓
-Validation + Fun Score
-↓
-Human Review
-↓
-Approved Facts
-↓
-CSV Generation
-↓
-Relationship Suggestions
-↓
-Collection Assignment
-↓
-Export JSON
-↓
-TIL App
-```
+For each source:
+
+1. Scrape source page with Firecrawl.
+2. Feed markdown into AI.
+3. Generate 7–10 candidate facts.
+4. Validate each fact using editorial rules.
+5. Classify each fact:
+   - PASS
+   - NEEDS_REVIEW
+   - REJECTED
+
+6. Rewrite NEEDS_REVIEW facts.
+7. Promote successful rewrites to PASS.
+8. Export only PASS facts to the master CSV.
 
 ---
 
-# Step 1
+# Step 1: Source Selection
 
-## Select Topic
+Use trusted sources from `sources`.
 
-Example:
+Facts must be generated only from the supplied source markdown.
 
-```text
-Category:
-Space
-
-Topic:
-Black Holes
-```
+No outside information should be introduced.
 
 ---
 
-# Step 2
+# Step 2: Generate Candidate Facts
 
-## Select Source URL
+Generate approximately 7–10 candidate facts per source.
 
-Use:
+The exact number does not matter.
 
-```text
-source-registry/sources.csv
-```
+Some topics may produce:
 
-Prefer article-level pages rather than broad landing pages.
+- 6 excellent facts
+- 8 excellent facts
+- 12 excellent facts
 
----
-
-# Step 3
-
-## Extract Source Material
-
-Use Firecrawl.
-
-Goal:
-
-Extract article content into markdown.
-
-Output:
-
-```text
-sources/
-
-space/
-    nasa-black-holes.md
-```
-
-Only automate this step.
+Quality always wins over quantity.
 
 ---
 
-# Step 4
-
-## Generate Draft Facts
-
-Paste markdown into:
-
-- Claude Web
-- ChatGPT Web
-
-Goal:
-
-Generate:
-
-```text
-7–10 fact candidates
-```
-
-Facts should support:
-
-- Topic browsing
-- Today's Fact
-- More To Discover
-- Collections
-
----
-
-# Fact Rules
+# Step 3: Fact Writing Guidelines
 
 Facts should:
 
-- Use only supplied source text.
-- Never invent facts.
-- Avoid outside knowledge.
-- Be conversational.
-- Take 30–60 seconds to read.
-- Stand alone without additional context.
-- Be memorable.
-- Feel like something you'd tell a friend.
+### Be conversational
+
+Write as if explaining something interesting to a friend.
+
+Good:
+
+> Mars is entirely inhabited by robots.
+
+Bad:
+
+> Mars is currently home to several robotic exploration missions.
+
+---
+
+### Be standalone
+
+Facts should make sense without surrounding context.
+
+Users should not need previous facts to understand them.
+
+---
+
+### Be memorable
+
+Facts should stick in a person's mind.
+
+---
+
+### Be surprising
+
+Facts should create a sense of wonder or curiosity.
+
+---
+
+### Avoid academic tone
+
+Do not write like Wikipedia.
 
 Avoid:
 
-- Trivial facts.
-- Duplicate ideas.
-- Extremely technical explanations.
-- Academic writing.
-- Facts that are only mildly interesting.
+- dry descriptions
+- encyclopedia language
+- unnecessary jargon
 
 ---
 
-# Step 5
+### Avoid trivia
 
-## Validation
+Facts should not exist simply because they are technically true.
 
-Each fact receives:
+Examples of weak facts:
 
-- Validation status
-- Fun score
+- Uranus has 28 moons.
+- Saturn is the second largest planet.
+- Asteroids are sometimes called minor planets.
 
-Possible statuses:
+---
 
-```text
-PASS
-NEEDS_REVIEW
-REJECTED
+### Prefer "Wait… really?" moments
+
+Examples:
+
+- Humans have successfully moved an asteroid.
+- Mars is inhabited entirely by robots.
+- Earth would continue orbiting if the Sun became a black hole of equal mass.
+- Some planets wander through space alone.
+
+---
+
+# Step 4: Validation
+
+Every fact must pass these tests.
+
+---
+
+## Source Grounded Test
+
+Everything in the fact must be supported by the supplied source.
+
+No outside knowledge.
+
+No embellishment.
+
+No unsupported comparisons.
+
+Failing this test automatically sends the fact to:
+
+REJECTED or NEEDS_REVIEW.
+
+---
+
+## Standalone Test
+
+Can somebody understand the fact without additional context?
+
+---
+
+## Curiosity Test
+
+Does the fact spark curiosity?
+
+Would somebody want to learn more?
+
+---
+
+## Memory Test
+
+Will users remember this tomorrow?
+
+---
+
+## Conversation Test
+
+Would someone naturally tell another person this fact?
+
+Examples:
+
+> "Did you know humans have actually changed an asteroid's orbit?"
+
+> "Did you know black holes aren't actually holes?"
+
+---
+
+## Boredom Test
+
+Remove facts that are:
+
+- obvious
+- generic
+- technically true but uninteresting
+
+Examples:
+
+Reject:
+
+- Uranus has 28 moons.
+- Saturn is the second largest planet.
+
+---
+
+## Duplicate Test
+
+Avoid facts that communicate essentially the same idea.
+
+Keep the stronger version.
+
+---
+
+## Tone Test
+
+Facts should sound natural and conversational.
+
+Avoid:
+
+- textbook language
+- Wikipedia language
+- excessive scientific wording
+
+---
+
+# Step 5: Fun Score
+
+Assign a score from 1–10.
+
+### 10
+
+Exceptional.
+
+Highly memorable.
+
+Strong "Wait… really?" factor.
+
+---
+
+### 8–9
+
+Very strong.
+
+Interesting and worth keeping.
+
+---
+
+### 6–7
+
+Acceptable but may deserve review.
+
+---
+
+### 5 or below
+
+Candidate for rejection.
+
+Fun score supports validation.
+
+It does not replace validation.
+
+---
+
+# Step 6: Classification
+
+## PASS
+
+Requirements:
+
+- Source grounded
+- Conversational
+- Memorable
+- Non-duplicate
+- Fun score ≥ 7
+
+PASS facts are exported.
+
+---
+
+## NEEDS_REVIEW
+
+Fact is salvageable.
+
+Common reasons:
+
+- unsupported wording
+- weak phrasing
+- overly academic tone
+- unnecessary details
+
+Attempt a rewrite.
+
+If the rewrite passes validation:
+
+Promote to PASS.
+
+---
+
+## REJECTED
+
+Remove permanently.
+
+Reasons:
+
+- boring
+- duplicate
+- unsupported
+- too academic
+- low curiosity
+- fun score ≤ 5
+
+Do not export.
+
+---
+
+# Step 7: CSV Export
+
+Export only PASS facts.
+
+Headers:
+
+```csv
+id,categoryId,topic,headline,body,summary,tags,readTimeSeconds,funScore,featured,relatedFactIds
 ```
 
-Fun score scale:
-
-| Score      | Meaning                      |
-| ---------- | ---------------------------- |
-| 10         | "Wait… really?"              |
-| 9          | Extremely fascinating        |
-| 8          | Very interesting             |
-| 7          | Solid curiosity              |
-| 6          | Informative but needs review |
-| 5 or below | Candidate for rejection      |
-
-Validation rules:
-
-```text
-funScore 7–10
-→ PASS
-
-funScore 6
-→ NEEDS_REVIEW
-
-funScore ≤5
-→ REJECTED
-```
-
-Be conservative.
-
-Interesting facts are better than lots of facts.
-
 ---
 
-# Step 6
+## ID
 
-## Rewrite (Optional)
-
-Improve readability.
-
-Never introduce new facts.
-
-Optimize for:
-
-- Curiosity
-- Clarity
-- Memorability
-
----
-
-# Step 7
-
-## Human Review
-
-Ask:
-
-### Curiosity Test
-
-Would I tell a friend this?
-
----
-
-### Surprise Test
-
-Does it make me think:
-
-> "Wait… really?"
-
----
-
-### Memory Test
-
-Will I remember this tomorrow?
-
----
-
-### Conversation Test
-
-Would this naturally come up over coffee?
-
----
-
-### Wikipedia Test
-
-Does it sound too academic?
-
-If yes, simplify.
-
----
-
-### Boredom Test
-
-Would I scroll past this?
-
-If yes:
-
-```text
-REJECT
-```
-
----
-
-# Step 8
-
-## Store Approved Facts
-
-Save to:
-
-```text
-approved-content/approved-facts.csv
-```
-
-Statuses:
-
-```text
-DRAFTED
-VALIDATED
-APPROVED
-REJECTED
-EXPORTED
-```
-
-Only approved facts are exported.
-
----
-
-# Step 9
-
-## Generate CSV Rows
-
-Each approved fact generates a row with:
-
-```text
-id
-categoryId
-topic
-headline
-body
-summary
-tags
-readTimeSeconds
-funScore
-featured
-relatedFactIds
-```
-
-### ID Convention
-
-Use:
-
-```text
-<topic-slug>-<fact-slug>
-```
+Use stable slug format.
 
 Example:
 
 ```text
 black-holes-spaghettification
-venus-hotter-than-mercury
-roman-empire-concrete
 ```
-
-IDs should be:
-
-- lowercase
-- kebab-case
-- descriptive
-- stable
 
 ---
 
-### Featured
+## categoryId
+
+Lowercase slug.
+
+Example:
+
+```text
+space
+```
+
+---
+
+## topic
+
+Human-readable topic name.
+
+Example:
+
+```text
+Black Holes
+```
+
+---
+
+## headline
+
+Title shown in the app.
+
+---
+
+## body
+
+Full fact.
+
+---
+
+## summary
+
+Single-sentence summary.
+
+---
+
+## tags
+
+Comma-separated tags.
+
+---
+
+## readTimeSeconds
+
+Approximate reading time.
+
+Target:
+
+30–60 seconds.
+
+---
+
+## funScore
+
+1–10 engagement score.
+
+Supports validation but does not replace it.
+
+---
+
+## featured
 
 Always:
 
 ```text
-featured=false
+false
 ```
 
-The application controls which fact becomes Fact of the Day.
-
-Content generation never sets featured facts.
+The app controls featured facts.
 
 ---
 
-### Tags
+## relatedFactIds
 
-Use:
+May be empty.
 
-```text
-3–6 tags
-```
-
-Example:
-
-```text
-space,gravity,physics
-```
-
-All tags should be lowercase.
+A future global pass will generate stronger relationships.
 
 ---
 
-### Read Time
+# CSV Formatting Rules
 
-Target:
+Use strict CSV formatting.
+
+Quote fields that contain commas.
+
+Prefer quoting all text fields:
+
+- headline
+- body
+- summary
+- tags
+- relatedFactIds
+
+Escape quotes using:
 
 ```text
-30–60 seconds
+""
+```
+
+Examples:
+
+```csv
+headline,body
+"Black Holes Aren't Actually Holes","Despite their name, black holes aren't really holes."
 ```
 
 ---
 
-# Step 10
+# Future Passes
 
-## Relationship Suggestions
+After accumulating hundreds or thousands of facts:
 
-Suggest:
+## Generate relatedFactIds
 
-```text
-2–5 relatedFactIds
-```
-
-Relationships are stored directly inside each fact.
-
-Example:
-
-```json
-{
-  "id": "fact_123",
-  "relatedFactIds": ["fact_456", "fact_789"]
-}
-```
-
-These are provisional.
-
-A larger relationship pass across the entire database will refine them later.
+Build the curiosity graph.
 
 ---
 
-# Step 11
+## Remove semantic duplicates
 
-## Collection Assignment
+Keep only the strongest versions.
 
-Collections are not sourced separately.
+---
 
-They emerge naturally from existing facts.
+## Create collections
 
 Examples:
 
 - Mind-Blowing Facts
-- Space Is Terrifying
-- Human Weirdness
-- Weird Animals
-- History Is Weird
-- Technology Changed Everything
-- Ancient Wonders
-- Nature Is Crazy
-- Hidden Connections
-- Music Evolution
-
-A single fact may belong to multiple collections.
-
-No additional content generation is required.
+- Space Is Weird
+- Things Bigger Than You Think
+- Hidden Oceans
+- Alien Worlds
+- Cosmic Collisions
 
 ---
 
-# Step 12
+# Guiding Principle
 
-## Export
+Never add facts simply to increase the size of the database.
 
-Run:
+Optimize for curiosity density.
 
-```bash
-pnpm export:facts
-```
-
-Generate:
-
-```text
-facts.json
-categories.json
-collections.json
-```
-
-Copy into:
-
-```text
-TIL/Resources/
-```
-
-No additional export files should be introduced unless they provide significant value.
-
----
-
-# Weekly Workflow
-
-Monday
-
-20 URLs
-
-↓
-
-Firecrawl extraction
-
----
-
-Tuesday
-
-Draft facts
-
----
-
-Wednesday
-
-Validation
-
----
-
-Thursday
-
-Relationship suggestions
-
-Collection assignment
-
----
-
-Friday
-
-Export
-
----
-
-# Fact Targets
-
-Per topic:
-
-```text
-7–10 candidates
-```
-
-Quality matters more than hitting the target.
-
-Reject boring facts.
-
-Average quality should matter more than total count.
-
----
-
-# Scaling Philosophy
-
-Automate:
-
-```text
-URL
-↓
-Markdown
-```
-
-Keep manual:
-
-- Drafting
-- Validation
-- Human review
-- Relationship curation
-- Collection curation
-
-until:
-
-```text
-5,000+ approved facts
-```
-
----
-
-# Editorial North Star
-
-Every fact should feel like:
-
-> A curious friend sharing something fascinating over coffee.
-
-Users should frequently think:
-
-> "Wait… really?"
-
-because curiosity—not complexity—is the product.
-
-Likewise:
-
-Content should evolve.
-
-Architecture should remain simple.
+Every fact should earn its place.

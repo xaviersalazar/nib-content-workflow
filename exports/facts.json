@@ -1942,5 +1942,347 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "neptune-discovered-with-math",
+    "headline": "Neptune Was Discovered With Math Before Anyone Saw It",
+    "body": "More than 200 years after Galileo accidentally recorded Neptune as a star, astronomers used mathematical predictions to locate the planet before anyone had directly identified it in the sky.",
+    "summary": "Neptune became the first planet discovered through mathematics.",
+    "categoryId": "space",
+    "topic": "Neptune",
+    "tags": [
+      "space",
+      "neptune",
+      "math",
+      "astronomy",
+      "history"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "neptune-tiny-sun",
+    "headline": "The Sun Would Look Tiny From Neptune",
+    "body": "Because Neptune orbits more than 30 times farther from the Sun than Earth, the Sun appears much smaller and dimmer in Neptune's skies.",
+    "summary": "The Sun would appear tiny and faint from Neptune.",
+    "categoryId": "space",
+    "topic": "Neptune",
+    "tags": [
+      "space",
+      "neptune",
+      "sun",
+      "distance",
+      "astronomy"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "neptune-voyager-only-visitor",
+    "headline": "Only One Spacecraft Has Ever Visited Neptune",
+    "body": "NASA's Voyager 2 became the first spacecraft to study Neptune up close in 1989 and remains the only spacecraft ever to visit the planet.",
+    "summary": "Voyager 2 is still humanity's only visitor to Neptune.",
+    "categoryId": "space",
+    "topic": "Neptune",
+    "tags": [
+      "space",
+      "neptune",
+      "voyager-2",
+      "nasa",
+      "exploration"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "neptune-galileo-saw-it-first",
+    "headline": "Galileo Accidentally Saw Neptune More Than 200 Years Early",
+    "body": "Galileo recorded Neptune through his small telescope in 1612 and 1613, but mistook it for a fixed star. The planet would not officially be discovered until more than two centuries later.",
+    "summary": "Galileo unknowingly observed Neptune centuries before its discovery.",
+    "categoryId": "space",
+    "topic": "Neptune",
+    "tags": [
+      "space",
+      "neptune",
+      "galileo",
+      "history",
+      "astronomy"
+    ],
+    "readTimeSeconds": 41,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "neptune-triton-discovered-fast",
+    "headline": "Neptune's Largest Moon Was Found Just 17 Days Later",
+    "body": "Astronomers discovered Triton, Neptune's largest moon, only 17 days after Neptune itself was discovered in 1846.",
+    "summary": "Triton was discovered just days after Neptune.",
+    "categoryId": "space",
+    "topic": "Neptune",
+    "tags": [
+      "space",
+      "neptune",
+      "triton",
+      "moons",
+      "history"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "neptune-supersonic-winds",
+    "headline": "Neptune Is Whipped by Supersonic Winds",
+    "body": "Neptune experiences powerful winds that can reach supersonic speeds, making them some of the fastest winds found anywhere in the solar system.",
+    "summary": "Neptune is home to incredibly fast winds.",
+    "categoryId": "space",
+    "topic": "Neptune",
+    "tags": [
+      "space",
+      "neptune",
+      "winds",
+      "weather",
+      "astronomy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "neptune-edge-of-planets",
+    "headline": "Neptune Marks the Edge of the Planetary Neighborhood",
+    "body": "Neptune is the eighth and most distant major planet from the Sun, forming the outer frontier of the planets in our solar system.",
+    "summary": "Neptune sits at the edge of the major planets.",
+    "categoryId": "space",
+    "topic": "Neptune",
+    "tags": [
+      "space",
+      "neptune",
+      "solar-system",
+      "planets",
+      "astronomy"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "neptune-one-human-visit",
+    "headline": "Humans Have Visited Neptune Exactly Once",
+    "body": "Humanity has explored Neptune only once, when Voyager 2 flew past the planet in 1989. No spacecraft has returned since.",
+    "summary": "Neptune has been visited only once.",
+    "categoryId": "space",
+    "topic": "Neptune",
+    "tags": [
+      "space",
+      "neptune",
+      "voyager-2",
+      "exploration",
+      "nasa"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "neptune-not-visible",
+    "headline": "You Can't See Neptune Without a Telescope",
+    "body": "Despite being a giant planet, Neptune is so distant from Earth that it cannot be seen with the naked eye.",
+    "summary": "Neptune is too far away to be seen without a telescope.",
+    "categoryId": "space",
+    "topic": "Neptune",
+    "tags": [
+      "space",
+      "neptune",
+      "telescope",
+      "astronomy",
+      "visibility"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 7,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pluto-former-ninth-planet",
+    "headline": "Pluto Was Once the Ninth Planet",
+    "body": "For decades, Pluto was taught as the ninth planet in the solar system before being reclassified as a dwarf planet in 2006.",
+    "summary": "Pluto was once considered the solar system's ninth planet.",
+    "categoryId": "space",
+    "topic": "Pluto",
+    "tags": [
+      "space",
+      "pluto",
+      "history",
+      "dwarf-planets",
+      "astronomy"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pluto-only-one-visit",
+    "headline": "A Spacecraft Has Visited Pluto Only Once",
+    "body": "NASA's New Horizons mission remains the only spacecraft to have explored Pluto up close.",
+    "summary": "Pluto has only been visited once by a spacecraft.",
+    "categoryId": "space",
+    "topic": "Pluto",
+    "tags": [
+      "space",
+      "pluto",
+      "new-horizons",
+      "nasa",
+      "exploration"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pluto-new-horizons-first",
+    "headline": "New Horizons Was the First Spacecraft to Explore Pluto",
+    "body": "In 2015, NASA's New Horizons became the first spacecraft ever to fly past Pluto and reveal the dwarf planet in stunning detail.",
+    "summary": "New Horizons gave humanity its first close look at Pluto.",
+    "categoryId": "space",
+    "topic": "Pluto",
+    "tags": [
+      "space",
+      "pluto",
+      "new-horizons",
+      "exploration",
+      "nasa"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pluto-kuiper-belt-home",
+    "headline": "Pluto Lives in the Kuiper Belt",
+    "body": "Pluto resides in the Kuiper Belt, a distant region beyond Neptune filled with icy objects left over from the formation of the solar system.",
+    "summary": "Pluto is part of the Kuiper Belt beyond Neptune.",
+    "categoryId": "space",
+    "topic": "Pluto",
+    "tags": [
+      "space",
+      "pluto",
+      "kuiper-belt",
+      "solar-system",
+      "astronomy"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 7,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pluto-charon-half-size",
+    "headline": "Pluto's Largest Moon Is Almost Half Its Size",
+    "body": "Pluto's moon Charon is about half the size of Pluto itself, making it the largest known moon relative to its parent world in the solar system.",
+    "summary": "Charon is unusually large compared to Pluto.",
+    "categoryId": "space",
+    "topic": "Pluto",
+    "tags": [
+      "space",
+      "pluto",
+      "charon",
+      "moons",
+      "astronomy"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pluto-unusual-pair",
+    "headline": "Pluto and Charon Form One of the Strangest Pairs in Space",
+    "body": "Because Charon is so large compared to Pluto, the two worlds form one of the most unusual planet-moon systems in the solar system.",
+    "summary": "Pluto and Charon make an unusually balanced pair.",
+    "categoryId": "space",
+    "topic": "Pluto",
+    "tags": [
+      "space",
+      "pluto",
+      "charon",
+      "moons",
+      "astronomy"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pluto-third-zone",
+    "headline": "New Horizons Explored the Solar System's Third Zone",
+    "body": "After flying past Pluto, New Horizons became the first mission to explore the Kuiper Belt, sometimes called the solar system's third zone beyond the giant planets.",
+    "summary": "New Horizons opened humanity's exploration of the Kuiper Belt.",
+    "categoryId": "space",
+    "topic": "Pluto",
+    "tags": [
+      "space",
+      "pluto",
+      "new-horizons",
+      "kuiper-belt",
+      "exploration"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pluto-reclassified-2006",
+    "headline": "Pluto Was Officially Demoted in 2006",
+    "body": "The International Astronomical Union reclassified Pluto as a dwarf planet in 2006, ending its status as the solar system's ninth planet.",
+    "summary": "Pluto officially became a dwarf planet in 2006.",
+    "categoryId": "space",
+    "topic": "Pluto",
+    "tags": [
+      "space",
+      "pluto",
+      "dwarf-planets",
+      "history",
+      "astronomy"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pluto-heart-shape",
+    "headline": "Pluto Has a Giant Heart Visible From Space",
+    "body": "Images from New Horizons revealed a massive heart-shaped region on Pluto's surface that quickly became one of the most recognizable features in the solar system.",
+    "summary": "Pluto's famous heart-shaped feature is visible from space.",
+    "categoryId": "space",
+    "topic": "Pluto",
+    "tags": [
+      "space",
+      "pluto",
+      "heart",
+      "new-horizons",
+      "surface"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
