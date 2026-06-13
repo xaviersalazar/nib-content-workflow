@@ -1155,5 +1155,225 @@
       "exoplanets-search-for-life",
       "exoplanets-billions-exist"
     ]
+  },
+  {
+    "id": "comets-small-town-size",
+    "headline": "Frozen Comets Can Be the Size of a Small Town",
+    "body": "When far from the Sun, comets are frozen balls of ice, rock, and dust that are often only about the size of a small town. Despite their modest size, they can create enormous displays when they approach the Sun.",
+    "summary": "Many comets are no larger than a small town when frozen.",
+    "categoryId": "space",
+    "topic": "Comets",
+    "tags": [
+      "space",
+      "comets",
+      "solar-system",
+      "ice",
+      "astronomy"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "comets-million-mile-tails",
+      "comets-giant-heads"
+    ]
+  },
+  {
+    "id": "comets-giant-heads",
+    "headline": "A Comet's Glowing Head Can Become Bigger Than a Planet",
+    "body": "As a comet approaches the Sun, heat causes gases and dust to erupt from its surface. This creates a glowing head, called a coma, that can grow larger than most planets.",
+    "summary": "A comet's glowing coma can become larger than planets.",
+    "categoryId": "space",
+    "topic": "Comets",
+    "tags": [
+      "space",
+      "comets",
+      "coma",
+      "astronomy",
+      "sun"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "comets-million-mile-tails",
+      "comets-small-town-size"
+    ]
+  },
+  {
+    "id": "comets-million-mile-tails",
+    "headline": "Comet Tails Can Stretch for Millions of Miles",
+    "body": "The dust and gases released from a comet form tails that point away from the Sun. These spectacular tails can extend for millions of miles across space.",
+    "summary": "Comet tails can stretch for millions of miles.",
+    "categoryId": "space",
+    "topic": "Comets",
+    "tags": [
+      "space",
+      "comets",
+      "tails",
+      "solar-system",
+      "astronomy"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "comets-giant-heads",
+      "comets-small-town-size"
+    ]
+  },
+  {
+    "id": "comets-billions-exist",
+    "headline": "There May Be Billions of Comets Around the Sun",
+    "body": "Scientists believe billions of comets orbit our Sun in regions such as the Kuiper Belt and the distant Oort Cloud. Most of them have never been seen from Earth.",
+    "summary": "Billions of comets may exist in the outer reaches of the solar system.",
+    "categoryId": "space",
+    "topic": "Comets",
+    "tags": [
+      "space",
+      "comets",
+      "kuiper-belt",
+      "oort-cloud",
+      "solar-system"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "comets-oort-cloud",
+      "comets-interstellar-visitors"
+    ]
+  },
+  {
+    "id": "comets-oort-cloud",
+    "headline": "The Oort Cloud May Contain an Enormous Cosmic Reservoir",
+    "body": "Far beyond Pluto lies the hypothetical Oort Cloud, a vast region thought to contain countless icy objects. Many long-period comets are believed to originate from this distant reservoir.",
+    "summary": "The Oort Cloud is believed to be the source of many comets.",
+    "categoryId": "space",
+    "topic": "Comets",
+    "tags": [
+      "space",
+      "comets",
+      "oort-cloud",
+      "astronomy",
+      "solar-system"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "comets-billions-exist",
+      "comets-long-period"
+    ]
+  },
+  {
+    "id": "comets-spin-reversal",
+    "headline": "A Comet Was Seen Reversing Its Spin for the First Time",
+    "body": "Using the Hubble Space Telescope, astronomers discovered the first known comet whose rotation slowed down and then reversed direction. It was the first time such behavior had ever been observed.",
+    "summary": "Astronomers have observed a comet reverse its spin.",
+    "categoryId": "space",
+    "topic": "Comets",
+    "tags": [
+      "space",
+      "comets",
+      "hubble",
+      "rotation",
+      "astronomy"
+    ],
+    "readTimeSeconds": 41,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "comets-interstellar-visitors",
+      "comets-billions-exist"
+    ]
+  },
+  {
+    "id": "comets-interstellar-visitors",
+    "headline": "Only Three Interstellar Objects Have Ever Been Confirmed",
+    "body": "Scientists have confirmed only three known objects from outside our solar system entering our cosmic neighborhood. They include 'Oumuamua, 2I/Borisov, and the recently discovered 3I/ATLAS.",
+    "summary": "Only three confirmed interstellar visitors have been detected so far.",
+    "categoryId": "space",
+    "topic": "Comets",
+    "tags": [
+      "space",
+      "comets",
+      "interstellar",
+      "oumuamua",
+      "astronomy"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "comets-spin-reversal",
+      "comets-billions-exist"
+    ]
+  },
+  {
+    "id": "comets-shoemaker-jupiter",
+    "headline": "A Comet Once Crashed Into Jupiter",
+    "body": "Comet Shoemaker-Levy 9 famously collided with Jupiter in 1994. The impacts left enormous scars in the planet's atmosphere and provided astronomers with a rare opportunity to observe a planetary collision.",
+    "summary": "Scientists witnessed a comet collide with Jupiter in 1994.",
+    "categoryId": "space",
+    "topic": "Comets",
+    "tags": [
+      "space",
+      "comets",
+      "jupiter",
+      "shoemaker-levy",
+      "astronomy"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "comets-interstellar-visitors",
+      "comets-million-mile-tails"
+    ]
+  },
+  {
+    "id": "comets-source-of-meteors",
+    "headline": "Some Meteor Showers Come From Comets",
+    "body": "Meteor showers such as the Perseids are caused by Earth passing through streams of debris left behind by comets. Tiny particles burn up in our atmosphere, creating shooting stars.",
+    "summary": "Many meteor showers are created by debris left behind by comets.",
+    "categoryId": "space",
+    "topic": "Comets",
+    "tags": [
+      "space",
+      "comets",
+      "meteors",
+      "perseids",
+      "astronomy"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "comets-shoemaker-jupiter",
+      "comets-million-mile-tails"
+    ]
+  },
+  {
+    "id": "comets-oumuamua-first",
+    "headline": "'Oumuamua Was Humanity's First Known Interstellar Visitor",
+    "body": "Discovered in 2017, 'Oumuamua became the first known object from another star system ever observed passing through our solar system. Its unusual shape and origin sparked worldwide interest and debate.",
+    "summary": "'Oumuamua was the first known visitor from another star system.",
+    "categoryId": "space",
+    "topic": "Comets",
+    "tags": [
+      "space",
+      "comets",
+      "oumuamua",
+      "interstellar",
+      "astronomy"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "comets-interstellar-visitors",
+      "comets-spin-reversal"
+    ]
   }
 ]
