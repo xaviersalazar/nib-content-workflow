@@ -1755,5 +1755,271 @@
     "funScore": 10,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "saturn-farthest-visible-planet",
+    "headline": "Saturn Was the Farthest Planet Found by the Naked Eye",
+    "body": "Saturn is the farthest planet from Earth that was discovered without a telescope. Long before spacecraft visited it, humans could already spot the ringed planet shining in the night sky.",
+    "summary": "Saturn was the farthest planet discovered by unaided human eyesight.",
+    "categoryId": "space",
+    "topic": "Saturn",
+    "tags": [
+      "space",
+      "saturn",
+      "planets",
+      "history",
+      "astronomy"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "saturn-four-spacecraft-visited",
+    "headline": "Only Four Spacecraft Have Visited Saturn",
+    "body": "Despite being one of the most famous planets, only four robotic spacecraft have visited Saturn: Pioneer 11, Voyager 1, Voyager 2, and Cassini.",
+    "summary": "Only four robotic spacecraft have visited Saturn.",
+    "categoryId": "space",
+    "topic": "Saturn",
+    "tags": [
+      "space",
+      "saturn",
+      "spacecraft",
+      "cassini",
+      "voyager"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "saturn-cassini-changed-understanding",
+    "headline": "Cassini Transformed Our Understanding of Saturn",
+    "body": "NASA's Cassini spacecraft arrived at Saturn in 2004, and that is when scientists say our understanding of the ringed planet really started to take shape.",
+    "summary": "Cassini dramatically expanded what scientists know about Saturn.",
+    "categoryId": "space",
+    "topic": "Saturn",
+    "tags": [
+      "space",
+      "saturn",
+      "cassini",
+      "nasa",
+      "exploration"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "saturn-most-official-moons",
+    "headline": "Saturn Has More Official Moons Than Any Other Planet",
+    "body": "Saturn has dozens of officially recognized moons in its orbit, more than any other planet. Its moon system ranges from giant worlds to tiny objects.",
+    "summary": "Saturn has more officially recognized moons than any other planet.",
+    "categoryId": "space",
+    "topic": "Saturn",
+    "tags": [
+      "space",
+      "saturn",
+      "moons",
+      "solar-system",
+      "astronomy"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "saturn-titan-bigger-than-mercury",
+    "headline": "Saturn Has a Moon Bigger Than Mercury",
+    "body": "Titan, Saturn's largest moon, is bigger than the planet Mercury. It is one of the most fascinating moons in the solar system.",
+    "summary": "Titan is larger than Mercury.",
+    "categoryId": "space",
+    "topic": "Saturn",
+    "tags": [
+      "space",
+      "saturn",
+      "titan",
+      "moons",
+      "mercury"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "saturn-sports-arena-moon",
+    "headline": "One Saturn Moon Is as Small as a Sports Arena",
+    "body": "Saturn's moons vary wildly in size. Some are enormous, like Titan, while one is described by NASA as being as small as a sports arena.",
+    "summary": "Saturn has moons ranging from giant worlds to sports-arena-sized objects.",
+    "categoryId": "space",
+    "topic": "Saturn",
+    "tags": [
+      "space",
+      "saturn",
+      "moons",
+      "titan",
+      "solar-system"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "saturn-enceladus-global-ocean",
+    "headline": "Enceladus Has an Ocean Hidden Under Ice",
+    "body": "Saturn's moon Enceladus has a global ocean beneath a thick, icy shell. That makes it one of the most intriguing ocean worlds in the solar system.",
+    "summary": "Enceladus hides a global ocean under its icy surface.",
+    "categoryId": "space",
+    "topic": "Saturn",
+    "tags": [
+      "space",
+      "saturn",
+      "enceladus",
+      "ocean-worlds",
+      "moons"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "saturn-enceladus-water-plumes",
+    "headline": "Enceladus Shoots Giant Plumes of Water Into Space",
+    "body": "Scientists discovered that Saturn's moon Enceladus sprays enormous jets of water vapor and ice particles into space through cracks in its frozen surface.",
+    "summary": "Enceladus ejects giant plumes of water into space.",
+    "categoryId": "space",
+    "topic": "Saturn",
+    "tags": [
+      "space",
+      "saturn",
+      "enceladus",
+      "water",
+      "moons"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "uranus-spins-sideways",
+    "headline": "Uranus Spins Sideways",
+    "body": "Uranus rotates at nearly a 90-degree angle from the plane of its orbit. This extreme tilt makes the planet appear to spin on its side.",
+    "summary": "Uranus appears to spin sideways because of its extreme tilt.",
+    "categoryId": "space",
+    "topic": "Uranus",
+    "tags": [
+      "space",
+      "uranus",
+      "tilt",
+      "rotation",
+      "planets"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "uranus-faint-rings",
+    "headline": "Uranus Has Rings Too",
+    "body": "Saturn may be famous for its rings, but Uranus also has a faint ring system. In telescope images, those rings can appear wrapped around the sideways-spinning planet.",
+    "summary": "Uranus has faint rings of its own.",
+    "categoryId": "space",
+    "topic": "Uranus",
+    "tags": [
+      "space",
+      "uranus",
+      "rings",
+      "planets",
+      "astronomy"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "uranus-only-one-spacecraft",
+    "headline": "Only One Spacecraft Has Ever Visited Uranus",
+    "body": "Voyager 2 is the only spacecraft that has ever explored Uranus up close. It flew past the planet in January 1986 and returned images and data scientists still study today.",
+    "summary": "Only Voyager 2 has visited Uranus up close.",
+    "categoryId": "space",
+    "topic": "Uranus",
+    "tags": [
+      "space",
+      "uranus",
+      "voyager-2",
+      "nasa",
+      "exploration"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "uranus-voyager-discovered-moons-rings",
+    "headline": "Voyager 2 Found New Moons and Rings at Uranus",
+    "body": "During its Uranus encounter, Voyager 2 discovered 10 new moons, two new rings, and a magnetic field stronger than Saturn's.",
+    "summary": "Voyager 2 discovered moons, rings, and a strong magnetic field at Uranus.",
+    "categoryId": "space",
+    "topic": "Uranus",
+    "tags": [
+      "space",
+      "uranus",
+      "voyager-2",
+      "moons",
+      "rings"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "uranus-literary-moons",
+    "headline": "Uranus Has Literary Moons",
+    "body": "Uranus's moons are sometimes called literary moons because many are named after characters from Shakespeare, along with some from the works of Alexander Pope.",
+    "summary": "Many Uranus moons are named after literary characters.",
+    "categoryId": "space",
+    "topic": "Uranus",
+    "tags": [
+      "space",
+      "uranus",
+      "moons",
+      "shakespeare",
+      "literature"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "uranus-old-data-new-mysteries",
+    "headline": "Old Voyager Data Still Reveals Uranus Mysteries",
+    "body": "Decades after Voyager 2 became the first and only spacecraft to visit Uranus, scientists are still mining its old data to solve mysteries about the ice giant.",
+    "summary": "Voyager 2 data continues to reveal new insights about Uranus.",
+    "categoryId": "space",
+    "topic": "Uranus",
+    "tags": [
+      "space",
+      "uranus",
+      "voyager-2",
+      "data",
+      "ice-giants"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
