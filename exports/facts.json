@@ -2284,5 +2284,328 @@
     "funScore": 10,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "solar-system-orbits-galaxy",
+    "headline": "Our Solar System Is Traveling Around the Milky Way",
+    "body": "Our solar system is constantly moving through the Milky Way galaxy as it circles the galactic center.",
+    "summary": "The solar system is orbiting the center of the Milky Way.",
+    "categoryId": "space",
+    "topic": "Solar System",
+    "tags": [
+      "space",
+      "solar-system",
+      "milky-way",
+      "galaxy",
+      "astronomy"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "solar-system-galactic-year",
+    "headline": "One Trip Around the Galaxy Takes 230 Million Years",
+    "body": "It takes our solar system about 230 million years to complete a single orbit around the center of the Milky Way galaxy.",
+    "summary": "A single trip around the galaxy takes 230 million years.",
+    "categoryId": "space",
+    "topic": "Solar System",
+    "tags": [
+      "space",
+      "solar-system",
+      "milky-way",
+      "time",
+      "galaxy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "solar-system-robotic-explorers",
+    "headline": "More Than 300 Spacecraft Have Left Earth",
+    "body": "More than 300 robotic spacecraft have traveled beyond Earth's orbit to explore the solar system.",
+    "summary": "Hundreds of spacecraft have ventured beyond Earth.",
+    "categoryId": "space",
+    "topic": "Solar System",
+    "tags": [
+      "space",
+      "solar-system",
+      "spacecraft",
+      "exploration",
+      "nasa"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "solar-system-only-24-moonwalkers",
+    "headline": "Only 24 Humans Have Ever Traveled to the Moon",
+    "body": "Despite decades of exploration, only 24 people have ever journeyed from Earth to the Moon.",
+    "summary": "Just 24 humans have traveled to the Moon.",
+    "categoryId": "space",
+    "topic": "Solar System",
+    "tags": [
+      "space",
+      "moon",
+      "astronauts",
+      "apollo",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "solar-system-life-only-earth",
+    "headline": "Earth Is Still the Only World Known to Host Life",
+    "body": "Among all the worlds in our solar system, Earth remains the only place where life has been discovered.",
+    "summary": "Earth is the only known home of life in the solar system.",
+    "categoryId": "space",
+    "topic": "Solar System",
+    "tags": [
+      "space",
+      "earth",
+      "life",
+      "biology",
+      "solar-system"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "solar-system-rings-not-unique",
+    "headline": "Planets Aren't the Only Objects With Rings",
+    "body": "The four giant planets aren't the only ringed worlds. At least one asteroid also possesses its own ring system.",
+    "summary": "Rings aren't exclusive to giant planets.",
+    "categoryId": "space",
+    "topic": "Solar System",
+    "tags": [
+      "space",
+      "rings",
+      "asteroids",
+      "planets",
+      "astronomy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "solar-system-orion-spur",
+    "headline": "We Live in a Small Branch of the Milky Way",
+    "body": "Our solar system resides inside a spiral arm of the Milky Way known as the Orion Spur.",
+    "summary": "The solar system sits inside the Orion Spur.",
+    "categoryId": "space",
+    "topic": "Solar System",
+    "tags": [
+      "space",
+      "milky-way",
+      "orion-spur",
+      "galaxy",
+      "astronomy"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "solar-system-no-two-skies",
+    "headline": "No Two Planetary Skies Are Alike",
+    "body": "From Venus' crushing atmosphere to the Moon's near vacuum, worlds across the solar system have dramatically different skies and environments.",
+    "summary": "Worlds throughout the solar system have wildly different atmospheres.",
+    "categoryId": "space",
+    "topic": "Solar System",
+    "tags": [
+      "space",
+      "atmospheres",
+      "planets",
+      "solar-system",
+      "astronomy"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sun-gravity-holds-system",
+    "headline": "The Sun Holds the Solar System Together",
+    "body": "The Sun's gravity keeps everything in the solar system in orbit, from giant planets to tiny bits of debris.",
+    "summary": "The Sun's gravity binds the solar system together.",
+    "categoryId": "space",
+    "topic": "Sun",
+    "tags": [
+      "space",
+      "sun",
+      "gravity",
+      "solar-system",
+      "astronomy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sun-drives-earth-weather",
+    "headline": "Earth's Weather Depends on the Sun",
+    "body": "The Sun influences seasons, weather patterns, climate, ocean currents, and many other processes on Earth.",
+    "summary": "Earth's environment is deeply connected to the Sun.",
+    "categoryId": "space",
+    "topic": "Sun",
+    "tags": [
+      "space",
+      "sun",
+      "earth",
+      "weather",
+      "climate"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sun-billions-of-twins",
+    "headline": "Billions of Stars Are Similar to Our Sun",
+    "body": "Although the Sun is special to us, astronomers believe billions of similar stars are scattered throughout the Milky Way.",
+    "summary": "The Milky Way contains billions of stars similar to the Sun.",
+    "categoryId": "space",
+    "topic": "Sun",
+    "tags": [
+      "space",
+      "sun",
+      "stars",
+      "milky-way",
+      "astronomy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sun-word-solar",
+    "headline": "The Word 'Solar' Comes From Latin",
+    "body": "The adjective 'solar' comes from the Latin word 'sol,' an ancient name for the Sun.",
+    "summary": "The word solar has Latin origins.",
+    "categoryId": "space",
+    "topic": "Sun",
+    "tags": [
+      "space",
+      "sun",
+      "language",
+      "latin",
+      "history"
+    ],
+    "readTimeSeconds": 32,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sun-inspired-civilizations",
+    "headline": "Ancient Civilizations Built Myths Around the Sun",
+    "body": "Cultures around the world have woven the Sun into myths, religions, and traditions for thousands of years.",
+    "summary": "The Sun has inspired cultures for millennia.",
+    "categoryId": "space",
+    "topic": "Sun",
+    "tags": [
+      "space",
+      "sun",
+      "history",
+      "mythology",
+      "culture"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sun-superman-powered",
+    "headline": "Superman Gets His Powers From Our Sun",
+    "body": "According to comic book lore, Superman and other Kryptonians gain enhanced abilities from the yellow light of our Sun.",
+    "summary": "Comic book heroes draw inspiration from our Sun.",
+    "categoryId": "space",
+    "topic": "Sun",
+    "tags": [
+      "space",
+      "sun",
+      "superman",
+      "pop-culture",
+      "comics"
+    ],
+    "readTimeSeconds": 32,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sun-sungrazer-project",
+    "headline": "Ordinary People Can Help Discover Comets",
+    "body": "Citizen scientists can participate in NASA's Sungrazer Project to help identify comets that pass close to the Sun.",
+    "summary": "Anyone can help search for comets near the Sun.",
+    "categoryId": "space",
+    "topic": "Sun",
+    "tags": [
+      "space",
+      "sun",
+      "comets",
+      "citizen-science",
+      "nasa"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sun-destroys-comets",
+    "headline": "Some Comets Die in the Sun",
+    "body": "Certain comets are destroyed after venturing too close to the Sun, disappearing in spectacular fashion.",
+    "summary": "Some comets are consumed by the Sun.",
+    "categoryId": "space",
+    "topic": "Sun",
+    "tags": [
+      "space",
+      "sun",
+      "comets",
+      "astronomy",
+      "solar-system"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sun-creates-auroras",
+    "headline": "The Sun Helps Create Earth's Auroras",
+    "body": "Interactions between the Sun and Earth influence radiation belts and produce the auroras seen near the poles.",
+    "summary": "Auroras are connected to activity from the Sun.",
+    "categoryId": "space",
+    "topic": "Sun",
+    "tags": [
+      "space",
+      "sun",
+      "auroras",
+      "earth",
+      "space-weather"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
