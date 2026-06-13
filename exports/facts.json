@@ -4209,5 +4209,4688 @@
     "funScore": 8,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "roman-empire-small-town",
+    "headline": "Rome Grew From a Small Town Into a Massive Empire",
+    "body": "Rome began as a small town on the Tiber River and eventually became one of the most successful imperial powers in history.",
+    "summary": "Rome grew from a small town into a vast empire.",
+    "categoryId": "history",
+    "topic": "Roman Empire",
+    "tags": [
+      "history",
+      "roman-empire",
+      "rome",
+      "empire"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "roman-empire-citizenship",
+    "headline": "Conquered Peoples Could Become Roman Citizens",
+    "body": "Unlike many ancient societies, Rome incorporated conquered peoples into its political and social system, and many eventually received Roman citizenship.",
+    "summary": "Rome expanded by absorbing conquered peoples.",
+    "categoryId": "history",
+    "topic": "Roman Empire",
+    "tags": [
+      "history",
+      "roman-empire",
+      "citizenship",
+      "rome"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "roman-empire-romance-languages",
+    "headline": "Roman Influence Still Lives in Modern Languages",
+    "body": "The Romance languages, including Italian, French, Spanish, Portuguese, and Romanian, developed from Latin, the language of the Romans.",
+    "summary": "Modern Romance languages grew out of Latin.",
+    "categoryId": "history",
+    "topic": "Roman Empire",
+    "tags": [
+      "history",
+      "roman-empire",
+      "latin",
+      "languages"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "roman-empire-calendar",
+    "headline": "Our Calendar Has Roman Roots",
+    "body": "The 12-month calendar with 365.25 days is part of the cultural legacy Rome passed down to Western civilization.",
+    "summary": "Rome helped shape the calendar still used today.",
+    "categoryId": "history",
+    "topic": "Roman Empire",
+    "tags": [
+      "history",
+      "roman-empire",
+      "calendar",
+      "rome"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "roman-empire-gladiators-etruscan",
+    "headline": "Gladiator Battles Came From Etruscan Traditions",
+    "body": "Britannica notes that gladiatorial combats were among the customs Rome adopted from the Etruscans.",
+    "summary": "Rome inherited gladiator combat from earlier Italian traditions.",
+    "categoryId": "history",
+    "topic": "Roman Empire",
+    "tags": [
+      "history",
+      "roman-empire",
+      "gladiators",
+      "etruscans"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "roman-empire-alphabet",
+    "headline": "Romans Borrowed Their Alphabet Through the Etruscans",
+    "body": "The Romans adapted their alphabet from the Etruscans, who had earlier borrowed and adapted it from Greek colonies in Italy.",
+    "summary": "Rome's alphabet came through older Mediterranean cultures.",
+    "categoryId": "history",
+    "topic": "Roman Empire",
+    "tags": [
+      "history",
+      "roman-empire",
+      "alphabet",
+      "etruscans"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "roman-empire-thousand-years",
+    "headline": "Rome Lasted for More Than a Thousand Years",
+    "body": "Ancient Rome's history stretched from its traditional founding in 753 BCE through the fall of the Western Empire in the 5th century CE.",
+    "summary": "Rome endured for over a millennium.",
+    "categoryId": "history",
+    "topic": "Roman Empire",
+    "tags": [
+      "history",
+      "roman-empire",
+      "rome",
+      "ancient-history"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "roman-empire-emperors-outside-italy",
+    "headline": "Some Roman Emperors Were Born Far From Italy",
+    "body": "During the empire, even the imperial throne could be occupied by people from the broader Mediterranean world outside Italy.",
+    "summary": "Rome's rulers could come from beyond Italy.",
+    "categoryId": "history",
+    "topic": "Roman Empire",
+    "tags": [
+      "history",
+      "roman-empire",
+      "emperors",
+      "mediterranean"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "roman-empire-shaped-west",
+    "headline": "Rome Helped Shape Western Civilization",
+    "body": "Roman influence can still be seen in law, architecture, language, politics, and many other parts of Western civilization.",
+    "summary": "Rome's legacy still shapes the modern world.",
+    "categoryId": "history",
+    "topic": "Roman Empire",
+    "tags": [
+      "history",
+      "roman-empire",
+      "western-civilization",
+      "legacy"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "roman-empire-roads-survive",
+    "headline": "Some Roman Roads Still Survive Today",
+    "body": "Rome's road system became one of its most famous engineering achievements, and parts of Roman roads are still visible today.",
+    "summary": "Some Roman roads have survived for centuries.",
+    "categoryId": "history",
+    "topic": "Roman Empire",
+    "tags": [
+      "history",
+      "roman-empire",
+      "roads",
+      "engineering"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vikings-before-columbus",
+    "headline": "Vikings Reached North America Before Columbus",
+    "body": "Archaeological discoveries at L'Anse aux Meadows prove that Vikings traveled to North America centuries before Columbus.",
+    "summary": "Vikings reached North America long before Columbus.",
+    "categoryId": "history",
+    "topic": "Vikings",
+    "tags": [
+      "history",
+      "vikings",
+      "north-america",
+      "exploration"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vikings-no-horned-helmets",
+    "headline": "Viking Helmets Didn't Have Horns",
+    "body": "The famous image of Vikings wearing horned helmets is a myth; horned helmets would have been impractical in combat.",
+    "summary": "Viking horned helmets are mostly a modern myth.",
+    "categoryId": "history",
+    "topic": "Vikings",
+    "tags": [
+      "history",
+      "vikings",
+      "helmets",
+      "myths"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vikings-opera-helmets",
+    "headline": "Opera Helped Invent the Horned Viking Helmet",
+    "body": "The stereotype of Vikings wearing horned helmets became popular through 19th-century opera costuming.",
+    "summary": "The horned Viking helmet image came from opera.",
+    "categoryId": "history",
+    "topic": "Vikings",
+    "tags": [
+      "history",
+      "vikings",
+      "opera",
+      "helmets"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vikings-traders-explorers",
+    "headline": "Vikings Were More Than Raiders",
+    "body": "Vikings were raiders, pirates, traders, explorers, and colonizers who reshaped parts of Europe and beyond.",
+    "summary": "Vikings were not just warriors.",
+    "categoryId": "history",
+    "topic": "Vikings",
+    "tags": [
+      "history",
+      "vikings",
+      "exploration",
+      "trade"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vikings-settled-iceland-greenland",
+    "headline": "Vikings Settled Iceland and Greenland",
+    "body": "Norse settlers established communities in Iceland and later founded colonies in Greenland.",
+    "summary": "Vikings built settlements across the North Atlantic.",
+    "categoryId": "history",
+    "topic": "Vikings",
+    "tags": [
+      "history",
+      "vikings",
+      "iceland",
+      "greenland"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vikings-leif-eriksson-canada",
+    "headline": "Leif Eriksson Reached Eastern Canada Around the Year 1000",
+    "body": "According to Norse saga tradition, Leif Eriksson led a crew that reached eastern Canada around the year 1000.",
+    "summary": "Leif Eriksson reached North America around 1000 CE.",
+    "categoryId": "history",
+    "topic": "Vikings",
+    "tags": [
+      "history",
+      "vikings",
+      "leif-eriksson",
+      "canada"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vikings-women-rights",
+    "headline": "Viking Women Could Own Property and Divorce",
+    "body": "Britannica notes that Viking women could own property, divorce their husbands, and often managed family farms and finances.",
+    "summary": "Viking women had notable legal and social rights.",
+    "categoryId": "history",
+    "topic": "Vikings",
+    "tags": [
+      "history",
+      "vikings",
+      "women",
+      "society"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vikings-weekdays-norse-gods",
+    "headline": "Thursday and Friday Come From Norse Gods",
+    "body": "English weekday names such as Thursday and Friday reflect Norse deities including Thor and Frigg, also called Freyja.",
+    "summary": "Norse mythology still appears in weekday names.",
+    "categoryId": "history",
+    "topic": "Vikings",
+    "tags": [
+      "history",
+      "vikings",
+      "norse-mythology",
+      "language"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vikings-longships",
+    "headline": "Viking Longships Powered Their Raids",
+    "body": "Viking bands crossed the seas in longships, allowing them to launch fast raids along European coasts.",
+    "summary": "Viking longships made fast coastal raids possible.",
+    "categoryId": "history",
+    "topic": "Vikings",
+    "tags": [
+      "history",
+      "vikings",
+      "longships",
+      "raids"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vikings-age-ended-1066",
+    "headline": "The Viking Age Is Often Said to End in 1066",
+    "body": "The defeat of Norwegian king Harald III Sigurdsson at Stamford Bridge in 1066 is commonly considered the end of the age of Viking raids.",
+    "summary": "The Viking Age is often marked as ending in 1066.",
+    "categoryId": "history",
+    "topic": "Vikings",
+    "tags": [
+      "history",
+      "vikings",
+      "stamford-bridge",
+      "england"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-greece-not-country",
+    "headline": "Ancient Greece Wasn't One Country",
+    "body": "Ancient Greece was made up of independent city-states that shared a language and religion but often fought one another.",
+    "summary": "Ancient Greece consisted of many competing city-states.",
+    "categoryId": "history",
+    "topic": "Ancient Greece",
+    "tags": [
+      "history",
+      "ancient-greece",
+      "city-states",
+      "civilization"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-greece-democracy",
+    "headline": "Democracy Began in Ancient Athens",
+    "body": "Around 507 BCE, Athens began developing a form of popular government that became one of history's earliest democracies.",
+    "summary": "Athens became the birthplace of democracy.",
+    "categoryId": "history",
+    "topic": "Ancient Greece",
+    "tags": [
+      "history",
+      "ancient-greece",
+      "athens",
+      "democracy"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-greece-voting-minority",
+    "headline": "Most Athenians Couldn't Vote",
+    "body": "Only adult male citizens were allowed to participate in Athenian democracy, representing roughly 10 to 15 percent of the population.",
+    "summary": "Only a small portion of Athenians could vote.",
+    "categoryId": "history",
+    "topic": "Ancient Greece",
+    "tags": [
+      "history",
+      "ancient-greece",
+      "athens",
+      "democracy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-greece-colonies",
+    "headline": "Greek Cities Spread Across the Mediterranean",
+    "body": "Ancient Greek colonists founded settlements around the Mediterranean and Black Sea regions.",
+    "summary": "Greek influence spread far beyond modern Greece.",
+    "categoryId": "history",
+    "topic": "Ancient Greece",
+    "tags": [
+      "history",
+      "ancient-greece",
+      "colonies",
+      "mediterranean"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-greece-olympics",
+    "headline": "The Olympic Games Began in Ancient Greece",
+    "body": "The original Olympic Games were founded in ancient Greece and became one of the civilization's most enduring legacies.",
+    "summary": "The Olympics originated in ancient Greece.",
+    "categoryId": "history",
+    "topic": "Ancient Greece",
+    "tags": [
+      "history",
+      "ancient-greece",
+      "olympics",
+      "sports"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-greece-alexander-india",
+    "headline": "Alexander the Great Reached India",
+    "body": "By the time of his death in 323 BCE, Alexander the Great had expanded Greek influence all the way to India.",
+    "summary": "Alexander's empire stretched as far as India.",
+    "categoryId": "history",
+    "topic": "Ancient Greece",
+    "tags": [
+      "history",
+      "ancient-greece",
+      "alexander-the-great",
+      "empire"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-greece-rivals",
+    "headline": "Greek City-States Often Fought Each Other",
+    "body": "Although they shared culture and religion, Greek city-states frequently went to war with one another.",
+    "summary": "Ancient Greece was often divided by conflict.",
+    "categoryId": "history",
+    "topic": "Ancient Greece",
+    "tags": [
+      "history",
+      "ancient-greece",
+      "warfare",
+      "city-states"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-greece-sparta-athens",
+    "headline": "Sparta and Athens Were Completely Different Societies",
+    "body": "The two most famous Greek city-states developed very different political systems and ways of life.",
+    "summary": "Sparta and Athens evolved in dramatically different ways.",
+    "categoryId": "history",
+    "topic": "Ancient Greece",
+    "tags": [
+      "history",
+      "ancient-greece",
+      "sparta",
+      "athens"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-greece-legacy",
+    "headline": "Greek Ideas Still Shape the Modern World",
+    "body": "Ancient Greek achievements in philosophy, politics, science, and art continue to influence society today.",
+    "summary": "Greek ideas still affect modern civilization.",
+    "categoryId": "history",
+    "topic": "Ancient Greece",
+    "tags": [
+      "history",
+      "ancient-greece",
+      "philosophy",
+      "science"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-greece-influenced-rome",
+    "headline": "Rome Borrowed Heavily From Greece",
+    "body": "Greek culture had enormous influence on Roman civilization and ultimately much of Western history.",
+    "summary": "Rome inherited many ideas from Greece.",
+    "categoryId": "history",
+    "topic": "Ancient Greece",
+    "tags": [
+      "history",
+      "ancient-greece",
+      "rome",
+      "legacy"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "middle-ages-no-one-knew",
+    "headline": "Nobody Knew They Were Living in the Middle Ages",
+    "body": "People who lived during the medieval period had no idea they were living in what we now call the Middle Ages.",
+    "summary": "The people of the Middle Ages never used that name.",
+    "categoryId": "history",
+    "topic": "Middle Ages",
+    "tags": [
+      "history",
+      "middle-ages",
+      "medieval",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "middle-ages-name-invented-later",
+    "headline": "The Term 'Middle Ages' Was Invented Later",
+    "body": "Renaissance scholars created the concept of the Middle Ages centuries after the period had ended.",
+    "summary": "The name 'Middle Ages' came long after the era itself.",
+    "categoryId": "history",
+    "topic": "Middle Ages",
+    "tags": [
+      "history",
+      "middle-ages",
+      "renaissance",
+      "history"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "middle-ages-dark-ages-label",
+    "headline": "The 'Dark Ages' Label Came Later",
+    "body": "Renaissance thinkers popularized the idea that the centuries before them were a dark period of history.",
+    "summary": "The idea of the Dark Ages was created after the fact.",
+    "categoryId": "history",
+    "topic": "Middle Ages",
+    "tags": [
+      "history",
+      "middle-ages",
+      "dark-ages",
+      "renaissance"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "middle-ages-people-not-backward",
+    "headline": "Medieval People Didn't Think They Were Backward",
+    "body": "People living during the Middle Ages didn't view themselves as waiting for a Renaissance or living in a dark age.",
+    "summary": "Medieval Europeans didn't see themselves as backward.",
+    "categoryId": "history",
+    "topic": "Middle Ages",
+    "tags": [
+      "history",
+      "middle-ages",
+      "society",
+      "renaissance"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "middle-ages-gothic-architecture",
+    "headline": "Gothic Cathedrals Were Medieval Creations",
+    "body": "The famous Gothic style of architecture developed during the Middle Ages and spread across Europe.",
+    "summary": "Gothic architecture originated during the medieval era.",
+    "categoryId": "history",
+    "topic": "Middle Ages",
+    "tags": [
+      "history",
+      "middle-ages",
+      "gothic",
+      "architecture"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "middle-ages-universities",
+    "headline": "Europe's First Universities Appeared During the Middle Ages",
+    "body": "Many of Europe's earliest universities were founded during the medieval period.",
+    "summary": "Universities emerged during the Middle Ages.",
+    "categoryId": "history",
+    "topic": "Middle Ages",
+    "tags": [
+      "history",
+      "middle-ages",
+      "universities",
+      "education"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "middle-ages-beans-population-boom",
+    "headline": "Beans Helped Trigger a Population Boom",
+    "body": "Agricultural improvements, including the cultivation of beans, contributed to rapid population growth during the 12th century.",
+    "summary": "Better farming helped medieval populations grow.",
+    "categoryId": "history",
+    "topic": "Middle Ages",
+    "tags": [
+      "history",
+      "middle-ages",
+      "agriculture",
+      "population"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "middle-ages-kings-vs-popes",
+    "headline": "Kings and Popes Constantly Fought for Power",
+    "body": "Secular rulers and the Catholic Church frequently clashed over authority during the Middle Ages.",
+    "summary": "Political and religious leaders often battled for control.",
+    "categoryId": "history",
+    "topic": "Middle Ages",
+    "tags": [
+      "history",
+      "middle-ages",
+      "catholic-church",
+      "kings"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "middle-ages-thirteenth-century-peak",
+    "headline": "The 13th Century Was the Height of Medieval Civilization",
+    "body": "Historians often regard the 13th century as the apex of medieval society and culture.",
+    "summary": "The 13th century marked medieval Europe's peak.",
+    "categoryId": "history",
+    "topic": "Middle Ages",
+    "tags": [
+      "history",
+      "middle-ages",
+      "thirteenth-century",
+      "civilization"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "middle-ages-feudalism-name",
+    "headline": "Medieval People Never Used the Word 'Feudalism'",
+    "body": "The term feudalism was invented long after the Middle Ages by later historians.",
+    "summary": "'Feudalism' is a modern label for medieval society.",
+    "categoryId": "history",
+    "topic": "Middle Ages",
+    "tags": [
+      "history",
+      "middle-ages",
+      "feudalism",
+      "society"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "age-of-exploration-columbus-asia",
+    "headline": "Columbus Thought He Had Reached Asia",
+    "body": "Christopher Columbus believed he had reached Asia when he landed in the Americas.",
+    "summary": "Columbus never realized he had discovered a different continent.",
+    "categoryId": "history",
+    "topic": "Age of Exploration",
+    "tags": [
+      "history",
+      "age-of-exploration",
+      "columbus",
+      "asia"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "age-of-exploration-earth-size",
+    "headline": "Columbus Miscalculated the Size of Earth",
+    "body": "Columbus underestimated Earth's size and believed Asia was much closer than it really was.",
+    "summary": "Columbus's calculations were wrong.",
+    "categoryId": "history",
+    "topic": "Age of Exploration",
+    "tags": [
+      "history",
+      "age-of-exploration",
+      "columbus",
+      "earth"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "age-of-exploration-routes-not-continents",
+    "headline": "Explorers Wanted Routes, Not Continents",
+    "body": "European powers originally sought new trade routes to Asia rather than entirely new lands.",
+    "summary": "Exploration was driven by trade.",
+    "categoryId": "history",
+    "topic": "Age of Exploration",
+    "tags": [
+      "history",
+      "age-of-exploration",
+      "trade",
+      "asia"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "age-of-exploration-new-world",
+    "headline": "People Didn't Immediately Realize a New World Had Been Found",
+    "body": "Early explorers and mapmakers often believed the newly discovered lands were part of Asia.",
+    "summary": "The Americas weren't immediately recognized as separate continents.",
+    "categoryId": "history",
+    "topic": "Age of Exploration",
+    "tags": [
+      "history",
+      "age-of-exploration",
+      "americas",
+      "maps"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "age-of-exploration-old-maps",
+    "headline": "Old Maps Mixed Facts and Guesses",
+    "body": "Early maps combined new discoveries with centuries-old geographic ideas.",
+    "summary": "Maps reflected uncertainty about the world.",
+    "categoryId": "history",
+    "topic": "Age of Exploration",
+    "tags": [
+      "history",
+      "age-of-exploration",
+      "maps",
+      "geography"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "age-of-exploration-portugal",
+    "headline": "Portugal Led the Earliest Expeditions",
+    "body": "Portugal pioneered many of the earliest voyages that defined the Age of Exploration.",
+    "summary": "Portugal became an early exploration powerhouse.",
+    "categoryId": "history",
+    "topic": "Age of Exploration",
+    "tags": [
+      "history",
+      "age-of-exploration",
+      "portugal",
+      "exploration"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "age-of-exploration-henry-not-king",
+    "headline": "Henry the Navigator Was Never King",
+    "body": "Henry the Navigator helped launch Portuguese exploration despite never becoming king of Portugal.",
+    "summary": "One of history's most famous explorers wasn't a king.",
+    "categoryId": "history",
+    "topic": "Age of Exploration",
+    "tags": [
+      "history",
+      "age-of-exploration",
+      "henry-the-navigator",
+      "portugal"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "age-of-exploration-asian-trade",
+    "headline": "Asia's Wealth Drove Exploration",
+    "body": "The desire for access to Asian goods and trade routes motivated many European voyages.",
+    "summary": "Exploration was largely about commerce.",
+    "categoryId": "history",
+    "topic": "Age of Exploration",
+    "tags": [
+      "history",
+      "age-of-exploration",
+      "trade",
+      "asia"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "age-of-exploration-mongol-empire",
+    "headline": "The Fall of the Mongol Empire Changed Trade",
+    "body": "As the Mongol Empire fragmented, land routes became less secure and encouraged ocean exploration.",
+    "summary": "Changes in Asia helped push Europeans to sea.",
+    "categoryId": "history",
+    "topic": "Age of Exploration",
+    "tags": [
+      "history",
+      "age-of-exploration",
+      "mongol-empire",
+      "trade"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "age-of-exploration-circumnavigation",
+    "headline": "Magellan's Expedition Circled Earth",
+    "body": "Although Magellan himself died before the voyage ended, his expedition completed the first circumnavigation of Earth.",
+    "summary": "Magellan's expedition proved global travel was possible.",
+    "categoryId": "history",
+    "topic": "Age of Exploration",
+    "tags": [
+      "history",
+      "age-of-exploration",
+      "magellan",
+      "earth"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "renaissance-rebirth",
+    "headline": "Renaissance Means 'Rebirth'",
+    "body": "The word Renaissance comes from French and means 'rebirth.'",
+    "summary": "The era was seen as a rebirth of knowledge.",
+    "categoryId": "history",
+    "topic": "Renaissance",
+    "tags": [
+      "history",
+      "renaissance",
+      "language",
+      "culture"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "renaissance-flying-machines",
+    "headline": "Leonardo Designed Flying Machines",
+    "body": "Leonardo da Vinci sketched flying machines centuries before airplanes became reality.",
+    "summary": "Leonardo imagined human flight long before it was possible.",
+    "categoryId": "history",
+    "topic": "Renaissance",
+    "tags": [
+      "history",
+      "renaissance",
+      "leonardo",
+      "inventions"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "renaissance-constantinople",
+    "headline": "The Fall of Constantinople Helped Spark the Renaissance",
+    "body": "Scholars fleeing Constantinople brought valuable manuscripts and knowledge to Italy after 1453.",
+    "summary": "A city's fall helped ignite a cultural revolution.",
+    "categoryId": "history",
+    "topic": "Renaissance",
+    "tags": [
+      "history",
+      "renaissance",
+      "constantinople",
+      "scholarship"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "renaissance-printing",
+    "headline": "Printing Spread Ideas Across Europe",
+    "body": "The printing press helped Renaissance ideas and books spread rapidly throughout Europe.",
+    "summary": "Printing accelerated the Renaissance.",
+    "categoryId": "history",
+    "topic": "Renaissance",
+    "tags": [
+      "history",
+      "renaissance",
+      "printing",
+      "books"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "renaissance-perspective",
+    "headline": "Artists Invented Mathematical Perspective",
+    "body": "Renaissance artists used mathematics to create realistic depth and perspective in paintings.",
+    "summary": "Art and math came together during the Renaissance.",
+    "categoryId": "history",
+    "topic": "Renaissance",
+    "tags": [
+      "history",
+      "renaissance",
+      "art",
+      "mathematics"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "renaissance-leonardo-scientist",
+    "headline": "Leonardo Was More Than an Artist",
+    "body": "Leonardo da Vinci excelled in art, science, engineering, music, and invention.",
+    "summary": "Leonardo embodied the idea of the Renaissance man.",
+    "categoryId": "history",
+    "topic": "Renaissance",
+    "tags": [
+      "history",
+      "renaissance",
+      "leonardo",
+      "science"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "renaissance-humanism",
+    "headline": "Humanists Wanted to Learn Everything",
+    "body": "Humanist thinkers encouraged people to explore many different fields of knowledge.",
+    "summary": "Renaissance scholars valued broad learning.",
+    "categoryId": "history",
+    "topic": "Renaissance",
+    "tags": [
+      "history",
+      "renaissance",
+      "humanism",
+      "education"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "renaissance-italy",
+    "headline": "The Renaissance Began in Italy",
+    "body": "The Renaissance first emerged in Italy before spreading throughout Europe.",
+    "summary": "Italy became the birthplace of the Renaissance.",
+    "categoryId": "history",
+    "topic": "Renaissance",
+    "tags": [
+      "history",
+      "renaissance",
+      "italy",
+      "europe"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "renaissance-mona-lisa",
+    "headline": "The Mona Lisa Is a Renaissance Painting",
+    "body": "Leonardo da Vinci painted the Mona Lisa during the Renaissance.",
+    "summary": "One of the world's most famous paintings came from this era.",
+    "categoryId": "history",
+    "topic": "Renaissance",
+    "tags": [
+      "history",
+      "renaissance",
+      "mona-lisa",
+      "art"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "renaissance-questioned-old-ideas",
+    "headline": "Thinkers Challenged Medieval Beliefs",
+    "body": "Renaissance scholars and scientists helped break free from many traditional medieval ideas.",
+    "summary": "The Renaissance encouraged questioning and discovery.",
+    "categoryId": "history",
+    "topic": "Renaissance",
+    "tags": [
+      "history",
+      "renaissance",
+      "science",
+      "ideas"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "american-revolution-loyalists",
+    "headline": "Not Everyone Wanted Independence",
+    "body": "About one-third of the colonists remained loyal to Britain during the American Revolution.",
+    "summary": "The Revolution divided Americans as much as it united them.",
+    "categoryId": "history",
+    "topic": "American Revolution",
+    "tags": [
+      "history",
+      "american-revolution",
+      "loyalists",
+      "britain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "american-revolution-civil-war",
+    "headline": "The Revolution Began as a Civil War",
+    "body": "Before foreign powers joined, the American Revolution was essentially a civil war within the British Empire.",
+    "summary": "Americans fought fellow Americans.",
+    "categoryId": "history",
+    "topic": "American Revolution",
+    "tags": [
+      "history",
+      "american-revolution",
+      "civil-war",
+      "british-empire"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "american-revolution-foreign-allies",
+    "headline": "America Had Multiple Allies",
+    "body": "France, Spain, and the Netherlands all supported the American colonies against Britain.",
+    "summary": "Winning independence required international help.",
+    "categoryId": "history",
+    "topic": "American Revolution",
+    "tags": [
+      "history",
+      "american-revolution",
+      "france",
+      "spain",
+      "netherlands"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "american-revolution-french-navy",
+    "headline": "The French Navy Helped Win the War",
+    "body": "French naval forces played a decisive role in trapping the British at Yorktown.",
+    "summary": "Sea power helped secure American independence.",
+    "categoryId": "history",
+    "topic": "American Revolution",
+    "tags": [
+      "history",
+      "american-revolution",
+      "france",
+      "yorktown",
+      "navy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "american-revolution-paul-revere",
+    "headline": "Paul Revere Didn't Ride Alone",
+    "body": "Paul Revere's famous warning ride was only one part of a larger network of riders and communications.",
+    "summary": "The famous story is bigger than one rider.",
+    "categoryId": "history",
+    "topic": "American Revolution",
+    "tags": [
+      "history",
+      "american-revolution",
+      "paul-revere",
+      "communication"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "american-revolution-german-soldiers",
+    "headline": "Britain Hired German Troops",
+    "body": "Britain purchased the services of roughly 30,000 soldiers from German states during the war.",
+    "summary": "Foreign troops fought in the American Revolution.",
+    "categoryId": "history",
+    "topic": "American Revolution",
+    "tags": [
+      "history",
+      "american-revolution",
+      "germany",
+      "hessians"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "american-revolution-small-armies",
+    "headline": "The Armies Were Surprisingly Small",
+    "body": "Most battles involved far fewer soldiers than people imagine.",
+    "summary": "The Revolution was fought by relatively small armies.",
+    "categoryId": "history",
+    "topic": "American Revolution",
+    "tags": [
+      "history",
+      "american-revolution",
+      "armies",
+      "warfare"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "american-revolution-washington-army",
+    "headline": "Washington Rarely Commanded Huge Forces",
+    "body": "George Washington often led armies numbering fewer than 20,000 men.",
+    "summary": "Victory came despite limited manpower.",
+    "categoryId": "history",
+    "topic": "American Revolution",
+    "tags": [
+      "history",
+      "american-revolution",
+      "george-washington",
+      "army"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "american-revolution-tea-party",
+    "headline": "342 Chests of Tea Went Overboard",
+    "body": "Participants in the Boston Tea Party dumped exactly 342 chests of tea into Boston Harbor.",
+    "summary": "One protest destroyed an enormous amount of tea.",
+    "categoryId": "history",
+    "topic": "American Revolution",
+    "tags": [
+      "history",
+      "american-revolution",
+      "boston-tea-party",
+      "tea"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "american-revolution-underestimated",
+    "headline": "Britain Thought the Rebellion Would Be Easy",
+    "body": "British officials initially believed a relatively small force could quickly suppress the colonies.",
+    "summary": "Britain badly underestimated the resistance.",
+    "categoryId": "history",
+    "topic": "American Revolution",
+    "tags": [
+      "history",
+      "american-revolution",
+      "britain",
+      "rebellion"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "industrial-revolution-secret-tech",
+    "headline": "Britain Tried to Keep Industrial Secrets",
+    "body": "Britain attempted to maintain its industrial lead by restricting the export of machinery and expertise.",
+    "summary": "Industrial technology was once guarded like a secret.",
+    "categoryId": "history",
+    "topic": "Industrial Revolution",
+    "tags": [
+      "history",
+      "industrial-revolution",
+      "britain",
+      "technology"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "industrial-revolution-illegal-export",
+    "headline": "Exporting Industrial Know-How Was Illegal",
+    "body": "Britain once banned the export of machinery and even skilled workers to preserve its advantage.",
+    "summary": "Industrial knowledge was tightly controlled.",
+    "categoryId": "history",
+    "topic": "Industrial Revolution",
+    "tags": [
+      "history",
+      "industrial-revolution",
+      "britain",
+      "inventions"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "industrial-revolution-textiles",
+    "headline": "Textiles Helped Start the Revolution",
+    "body": "Textile manufacturing was one of the first industries transformed by machines.",
+    "summary": "Clothing helped launch modern industry.",
+    "categoryId": "history",
+    "topic": "Industrial Revolution",
+    "tags": [
+      "history",
+      "industrial-revolution",
+      "textiles",
+      "factories"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "industrial-revolution-spinning-jenny",
+    "headline": "The Spinning Jenny Changed Manufacturing",
+    "body": "The spinning jenny allowed workers to produce many threads at once and dramatically increased output.",
+    "summary": "One machine revolutionized textile production.",
+    "categoryId": "history",
+    "topic": "Industrial Revolution",
+    "tags": [
+      "history",
+      "industrial-revolution",
+      "spinning-jenny",
+      "textiles"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "industrial-revolution-dangerous-work",
+    "headline": "Factories Could Be Dangerous",
+    "body": "Early factory workers often faced long hours, dangerous conditions, and low pay.",
+    "summary": "Industrialization came with serious costs.",
+    "categoryId": "history",
+    "topic": "Industrial Revolution",
+    "tags": [
+      "history",
+      "industrial-revolution",
+      "factories",
+      "labor"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "industrial-revolution-child-labor",
+    "headline": "Children Worked in Factories",
+    "body": "Child labor was common during the early Industrial Revolution.",
+    "summary": "Many factories relied on children.",
+    "categoryId": "history",
+    "topic": "Industrial Revolution",
+    "tags": [
+      "history",
+      "industrial-revolution",
+      "child-labor",
+      "workers"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "industrial-revolution-germany-steel",
+    "headline": "Germany Overtook Britain in Steel",
+    "body": "By the turn of the century, Germany was producing more steel than Britain.",
+    "summary": "Industrial leadership changed hands.",
+    "categoryId": "history",
+    "topic": "Industrial Revolution",
+    "tags": [
+      "history",
+      "industrial-revolution",
+      "germany",
+      "steel"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "industrial-revolution-japan",
+    "headline": "Japan Industrialized Rapidly",
+    "body": "Japan joined the Industrial Revolution later but modernized with remarkable speed.",
+    "summary": "Industrialization spread far beyond Europe.",
+    "categoryId": "history",
+    "topic": "Industrial Revolution",
+    "tags": [
+      "history",
+      "industrial-revolution",
+      "japan",
+      "modernization"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "industrial-revolution-mass-production",
+    "headline": "Mass Production Changed Everyday Life",
+    "body": "Industrialization made products cheaper and more widely available.",
+    "summary": "Factories reshaped daily life.",
+    "categoryId": "history",
+    "topic": "Industrial Revolution",
+    "tags": [
+      "history",
+      "industrial-revolution",
+      "mass-production",
+      "society"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "industrial-revolution-modern-world",
+    "headline": "Modern Life Was Built During the Industrial Revolution",
+    "body": "Many technologies and systems we rely on today emerged during this period.",
+    "summary": "The Industrial Revolution helped create the modern world.",
+    "categoryId": "history",
+    "topic": "Industrial Revolution",
+    "tags": [
+      "history",
+      "industrial-revolution",
+      "inventions",
+      "technology"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-china-great-wall-centuries",
+    "headline": "The Great Wall Was Built Over Centuries",
+    "body": "The Great Wall of China was not built all at once, but expanded and rebuilt by multiple dynasties over centuries.",
+    "summary": "The Great Wall was a long-running project across Chinese history.",
+    "categoryId": "history",
+    "topic": "Ancient China",
+    "tags": [
+      "history",
+      "ancient-china",
+      "great-wall",
+      "dynasties"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-china-qin-unified",
+    "headline": "The Qin Dynasty Unified China",
+    "body": "In 221 BCE, the Qin Dynasty unified China under one imperial system.",
+    "summary": "China's first imperial unification came under the Qin.",
+    "categoryId": "history",
+    "topic": "Ancient China",
+    "tags": [
+      "history",
+      "ancient-china",
+      "qin-dynasty",
+      "empire"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-china-terracotta-army",
+    "headline": "China's First Emperor Was Buried With an Army",
+    "body": "Qin Shi Huang's tomb was guarded by thousands of life-sized terracotta soldiers.",
+    "summary": "The Terracotta Army was built to guard an emperor after death.",
+    "categoryId": "history",
+    "topic": "Ancient China",
+    "tags": [
+      "history",
+      "ancient-china",
+      "terracotta-army",
+      "qin-shi-huang"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-china-paper",
+    "headline": "Paper Was Invented in China",
+    "body": "Paper was one of ancient China's most important inventions and eventually transformed communication around the world.",
+    "summary": "China gave the world paper.",
+    "categoryId": "history",
+    "topic": "Ancient China",
+    "tags": [
+      "history",
+      "ancient-china",
+      "paper",
+      "inventions"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-china-compass",
+    "headline": "The Compass Originated in China",
+    "body": "The compass was first developed in China before becoming one of history's most important navigation tools.",
+    "summary": "China helped make global navigation possible.",
+    "categoryId": "history",
+    "topic": "Ancient China",
+    "tags": [
+      "history",
+      "ancient-china",
+      "compass",
+      "navigation"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-china-gunpowder",
+    "headline": "Gunpowder Began as a Chinese Discovery",
+    "body": "Gunpowder was first developed in China and later transformed warfare across the world.",
+    "summary": "A Chinese discovery changed warfare forever.",
+    "categoryId": "history",
+    "topic": "Ancient China",
+    "tags": [
+      "history",
+      "ancient-china",
+      "gunpowder",
+      "inventions"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-china-silk-road",
+    "headline": "The Silk Road Connected China to the World",
+    "body": "The Silk Road linked China with regions across Asia, the Middle East, and Europe through trade and cultural exchange.",
+    "summary": "China sat at the heart of a vast trade network.",
+    "categoryId": "history",
+    "topic": "Ancient China",
+    "tags": [
+      "history",
+      "ancient-china",
+      "silk-road",
+      "trade"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-china-confucianism",
+    "headline": "Confucianism Shaped China for Centuries",
+    "body": "Confucian ideas deeply influenced Chinese government, education, and society for more than two thousand years.",
+    "summary": "Confucianism became one of China's most lasting influences.",
+    "categoryId": "history",
+    "topic": "Ancient China",
+    "tags": [
+      "history",
+      "ancient-china",
+      "confucianism",
+      "philosophy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-china-wu-zetian",
+    "headline": "China Had One Female Emperor",
+    "body": "Wu Zetian became the only woman in Chinese history to rule as emperor in her own name.",
+    "summary": "Wu Zetian broke one of China's biggest political barriers.",
+    "categoryId": "history",
+    "topic": "Ancient China",
+    "tags": [
+      "history",
+      "ancient-china",
+      "wu-zetian",
+      "emperors"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-china-civil-service-exams",
+    "headline": "Civil Servants Faced Brutal Exams",
+    "body": "Ancient Chinese officials could be selected through demanding civil service examinations.",
+    "summary": "Government jobs could depend on difficult exams.",
+    "categoryId": "history",
+    "topic": "Ancient China",
+    "tags": [
+      "history",
+      "ancient-china",
+      "civil-service",
+      "exams"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-india-indus-city-planning",
+    "headline": "Indus Cities Were Carefully Planned",
+    "body": "The Indus Valley Civilization built cities with organized layouts more than 4,000 years ago.",
+    "summary": "Ancient Indian cities showed remarkable planning.",
+    "categoryId": "history",
+    "topic": "Ancient India",
+    "tags": [
+      "history",
+      "ancient-india",
+      "indus-valley",
+      "cities"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-india-sewage-systems",
+    "headline": "Some Indus Cities Had Sewage Systems",
+    "body": "Major Indus Valley cities included sophisticated drainage and sewage systems.",
+    "summary": "Ancient cities in India had impressive sanitation.",
+    "categoryId": "history",
+    "topic": "Ancient India",
+    "tags": [
+      "history",
+      "ancient-india",
+      "indus-valley",
+      "sewage"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-india-zero",
+    "headline": "Zero Changed Mathematics Forever",
+    "body": "The concept of zero emerged from ancient Indian mathematics and became essential to modern math.",
+    "summary": "Zero was one of ancient India's world-changing ideas.",
+    "categoryId": "history",
+    "topic": "Ancient India",
+    "tags": [
+      "history",
+      "ancient-india",
+      "zero",
+      "mathematics"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-india-chess",
+    "headline": "Chess Traces Back to Ancient India",
+    "body": "Chess evolved from an ancient Indian game called Chaturanga.",
+    "summary": "One of the world's most famous games began in India.",
+    "categoryId": "history",
+    "topic": "Ancient India",
+    "tags": [
+      "history",
+      "ancient-india",
+      "chess",
+      "chaturanga"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-india-hinduism",
+    "headline": "Hinduism Began in India",
+    "body": "Hinduism developed in ancient India and became one of the world's major religious traditions.",
+    "summary": "One of the world's major religions originated in India.",
+    "categoryId": "history",
+    "topic": "Ancient India",
+    "tags": [
+      "history",
+      "ancient-india",
+      "hinduism",
+      "religion"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-india-buddhism",
+    "headline": "Buddhism Began in Ancient India",
+    "body": "Buddhism originated in ancient India before spreading across Asia and beyond.",
+    "summary": "Buddhism started in India and spread widely.",
+    "categoryId": "history",
+    "topic": "Ancient India",
+    "tags": [
+      "history",
+      "ancient-india",
+      "buddhism",
+      "religion"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-india-ashoka-peace",
+    "headline": "Ashoka Turned From War to Peace",
+    "body": "Emperor Ashoka embraced Buddhist ideas after witnessing the destruction caused by war.",
+    "summary": "Ashoka became famous for turning away from conquest.",
+    "categoryId": "history",
+    "topic": "Ancient India",
+    "tags": [
+      "history",
+      "ancient-india",
+      "ashoka",
+      "buddhism"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-india-surgery",
+    "headline": "Ancient Indian Doctors Practiced Surgery",
+    "body": "Ancient Indian medical traditions included complex surgical knowledge and procedures.",
+    "summary": "Medicine in ancient India was highly advanced.",
+    "categoryId": "history",
+    "topic": "Ancient India",
+    "tags": [
+      "history",
+      "ancient-india",
+      "medicine",
+      "surgery"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-india-decimal-system",
+    "headline": "The Decimal System Has Ancient Indian Roots",
+    "body": "The decimal number system developed in India and became fundamental to modern mathematics.",
+    "summary": "Ancient India helped shape the way we count.",
+    "categoryId": "history",
+    "topic": "Ancient India",
+    "tags": [
+      "history",
+      "ancient-india",
+      "decimal-system",
+      "mathematics"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-india-sanskrit",
+    "headline": "Sanskrit Is One of Humanity's Oldest Languages",
+    "body": "Sanskrit is among the world's oldest known literary languages and played a major role in Indian civilization.",
+    "summary": "Sanskrit preserves some of India's oldest traditions.",
+    "categoryId": "history",
+    "topic": "Ancient India",
+    "tags": [
+      "history",
+      "ancient-india",
+      "sanskrit",
+      "language"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mongol-empire-largest-contiguous",
+    "headline": "The Mongols Built the Largest Contiguous Empire Ever",
+    "body": "At its peak, the Mongol Empire covered about 9 million square miles, making it the largest contiguous land empire in history.",
+    "summary": "The Mongol Empire became the largest connected empire ever.",
+    "categoryId": "history",
+    "topic": "Mongol Empire",
+    "tags": [
+      "history",
+      "mongol-empire",
+      "genghis-khan",
+      "empires"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mongol-empire-unification",
+    "headline": "Genghis Khan United the Mongol Tribes",
+    "body": "In 1206, Genghis Khan united rival tribes and founded the Mongol Empire.",
+    "summary": "One leader transformed divided tribes into a world empire.",
+    "categoryId": "history",
+    "topic": "Mongol Empire",
+    "tags": [
+      "history",
+      "mongol-empire",
+      "genghis-khan",
+      "mongolia"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mongol-empire-span",
+    "headline": "The Empire Reached From the Pacific to Europe",
+    "body": "By the late 1200s, the Mongol Empire stretched from the Pacific Ocean to Eastern Europe.",
+    "summary": "The Mongols ruled an enormous portion of Eurasia.",
+    "categoryId": "history",
+    "topic": "Mongol Empire",
+    "tags": [
+      "history",
+      "mongol-empire",
+      "europe",
+      "asia"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mongol-empire-small-armies",
+    "headline": "The Mongols Didn't Need Huge Armies",
+    "body": "The Mongols conquered vast territories through superior tactics and mobility rather than overwhelming numbers.",
+    "summary": "Strategy mattered more than numbers.",
+    "categoryId": "history",
+    "topic": "Mongol Empire",
+    "tags": [
+      "history",
+      "mongol-empire",
+      "military",
+      "warfare"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mongol-empire-cavalry",
+    "headline": "Horsemen Powered the Empire",
+    "body": "Mongol armies relied heavily on fast-moving cavalry to overwhelm enemies.",
+    "summary": "Mobility made the Mongols deadly.",
+    "categoryId": "history",
+    "topic": "Mongol Empire",
+    "tags": [
+      "history",
+      "mongol-empire",
+      "cavalry",
+      "horses"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mongol-empire-messenger-network",
+    "headline": "The Mongols Had a Massive Messenger Network",
+    "body": "A highly organized messenger system helped Mongol rulers communicate across huge distances.",
+    "summary": "Fast communication helped manage the empire.",
+    "categoryId": "history",
+    "topic": "Mongol Empire",
+    "tags": [
+      "history",
+      "mongol-empire",
+      "messenger",
+      "communication"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mongol-empire-engineers",
+    "headline": "Conquered Engineers Helped Build Victories",
+    "body": "The Mongols often relied on Chinese, Persian, and Arab engineers to help capture fortified cities.",
+    "summary": "The empire used knowledge from many cultures.",
+    "categoryId": "history",
+    "topic": "Mongol Empire",
+    "tags": [
+      "history",
+      "mongol-empire",
+      "engineering",
+      "sieges"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mongol-empire-kublai-khan",
+    "headline": "Kublai Khan Ruled China",
+    "body": "Genghis Khan's grandson Kublai Khan established the Yuan Dynasty and ruled China.",
+    "summary": "The Mongols once ruled China directly.",
+    "categoryId": "history",
+    "topic": "Mongol Empire",
+    "tags": [
+      "history",
+      "mongol-empire",
+      "kublai-khan",
+      "yuan-dynasty"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mongol-empire-diversity",
+    "headline": "Many Cultures Lived Under Mongol Rule",
+    "body": "The empire contained a wide variety of peoples, religions, and civilizations.",
+    "summary": "The Mongol Empire was incredibly diverse.",
+    "categoryId": "history",
+    "topic": "Mongol Empire",
+    "tags": [
+      "history",
+      "mongol-empire",
+      "religion",
+      "culture"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mongol-empire-trade-routes",
+    "headline": "Trade Routes Helped Drive Expansion",
+    "body": "Control over major trade routes was one factor behind Mongol expansion.",
+    "summary": "Trade was as important as conquest.",
+    "categoryId": "history",
+    "topic": "Mongol Empire",
+    "tags": [
+      "history",
+      "mongol-empire",
+      "silk-road",
+      "trade"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "silk-road-not-one-road",
+    "headline": "The Silk Road Wasn't Just One Road",
+    "body": "The Silk Road was actually a network of trade routes connecting East and West.",
+    "summary": "The Silk Road was a web of routes rather than a single path.",
+    "categoryId": "history",
+    "topic": "Silk Road",
+    "tags": [
+      "history",
+      "silk-road",
+      "trade",
+      "asia"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "silk-road-four-thousand-miles",
+    "headline": "The Silk Road Stretched About 4,000 Miles",
+    "body": "The ancient trade network extended roughly 4,000 miles across Asia.",
+    "summary": "The route covered thousands of miles.",
+    "categoryId": "history",
+    "topic": "Silk Road",
+    "tags": [
+      "history",
+      "silk-road",
+      "distance",
+      "trade"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "silk-road-few-travelers",
+    "headline": "Few People Traveled the Entire Route",
+    "body": "Most merchants only traveled parts of the Silk Road, with goods changing hands many times.",
+    "summary": "Very few people completed the whole journey.",
+    "categoryId": "history",
+    "topic": "Silk Road",
+    "tags": [
+      "history",
+      "silk-road",
+      "merchants",
+      "trade"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "silk-road-rome-china",
+    "headline": "Rome and China Traded Through the Silk Road",
+    "body": "The Silk Road connected two of the world's greatest civilizations through trade.",
+    "summary": "Goods moved between Rome and China.",
+    "categoryId": "history",
+    "topic": "Silk Road",
+    "tags": [
+      "history",
+      "silk-road",
+      "rome",
+      "china"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "silk-road-buddhism",
+    "headline": "Buddhism Reached China Along the Silk Road",
+    "body": "Merchants and travelers helped spread Buddhism from India into China.",
+    "summary": "Trade routes also carried ideas and religions.",
+    "categoryId": "history",
+    "topic": "Silk Road",
+    "tags": [
+      "history",
+      "silk-road",
+      "buddhism",
+      "religion"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "silk-road-christianity",
+    "headline": "Christianity Also Traveled the Silk Road",
+    "body": "Early Christian communities spread eastward through Silk Road trade networks.",
+    "summary": "Religions moved alongside goods.",
+    "categoryId": "history",
+    "topic": "Silk Road",
+    "tags": [
+      "history",
+      "silk-road",
+      "christianity",
+      "religion"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "silk-road-black-death",
+    "headline": "The Black Death May Have Traveled the Silk Road",
+    "body": "Many historians believe plague bacteria reached Europe through Silk Road trade.",
+    "summary": "Trade routes may have helped spread one of history's deadliest pandemics.",
+    "categoryId": "history",
+    "topic": "Silk Road",
+    "tags": [
+      "history",
+      "silk-road",
+      "black-death",
+      "plague"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "silk-road-marco-polo",
+    "headline": "Marco Polo Traveled the Silk Road",
+    "body": "Venetian explorer Marco Polo journeyed to China during the era of Mongol rule.",
+    "summary": "Marco Polo became one of the Silk Road's most famous travelers.",
+    "categoryId": "history",
+    "topic": "Silk Road",
+    "tags": [
+      "history",
+      "silk-road",
+      "marco-polo",
+      "mongols"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "silk-road-mongol-revival",
+    "headline": "The Mongols Revived the Silk Road",
+    "body": "Trade along the Silk Road experienced a revival during the Mongol Empire.",
+    "summary": "Mongol rule brought renewed trade across Asia.",
+    "categoryId": "history",
+    "topic": "Silk Road",
+    "tags": [
+      "history",
+      "silk-road",
+      "mongol-empire",
+      "trade"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "silk-road-still-exists",
+    "headline": "Parts of the Silk Road Still Exist",
+    "body": "Sections of the ancient Silk Road survive today as modern highways.",
+    "summary": "Ancient trade routes still influence the modern world.",
+    "categoryId": "history",
+    "topic": "Silk Road",
+    "tags": [
+      "history",
+      "silk-road",
+      "modern-world",
+      "transportation"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "french-revolution-monarchy-overthrown",
+    "headline": "The French Revolution Ended the Monarchy",
+    "body": "The French Revolution overthrew France's monarchy and transformed the country's political system.",
+    "summary": "The French monarchy fell during the Revolution.",
+    "categoryId": "history",
+    "topic": "French Revolution",
+    "tags": [
+      "history",
+      "french-revolution",
+      "france",
+      "monarchy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "french-revolution-duration",
+    "headline": "The Revolution Lasted More Than a Decade",
+    "body": "The French Revolution unfolded between 1787 and 1799.",
+    "summary": "The upheaval lasted about twelve years.",
+    "categoryId": "history",
+    "topic": "French Revolution",
+    "tags": [
+      "history",
+      "french-revolution",
+      "france",
+      "18th-century"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "french-revolution-louis-xvi",
+    "headline": "A King Was Executed by Guillotine",
+    "body": "King Louis XVI was executed in 1793 during the Revolution.",
+    "summary": "France executed its own king.",
+    "categoryId": "history",
+    "topic": "French Revolution",
+    "tags": [
+      "history",
+      "french-revolution",
+      "louis-xvi",
+      "guillotine"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "french-revolution-marie-antoinette",
+    "headline": "Marie Antoinette Was Executed Too",
+    "body": "Queen Marie Antoinette was executed during the French Revolution.",
+    "summary": "The queen met the same fate as the king.",
+    "categoryId": "history",
+    "topic": "French Revolution",
+    "tags": [
+      "history",
+      "french-revolution",
+      "marie-antoinette",
+      "guillotine"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "french-revolution-democracy",
+    "headline": "The Revolution Spread Democratic Ideas",
+    "body": "The French Revolution helped popularize ideas of democracy and individual rights around the world.",
+    "summary": "Its ideas influenced countries far beyond France.",
+    "categoryId": "history",
+    "topic": "French Revolution",
+    "tags": [
+      "history",
+      "french-revolution",
+      "democracy",
+      "rights"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "french-revolution-american-war",
+    "headline": "The American Revolution Helped Trigger It",
+    "body": "France's costly support of the American Revolution contributed to the financial crisis that fueled unrest.",
+    "summary": "Helping America indirectly hurt France's finances.",
+    "categoryId": "history",
+    "topic": "French Revolution",
+    "tags": [
+      "history",
+      "french-revolution",
+      "american-revolution",
+      "economics"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "french-revolution-bastille",
+    "headline": "The Storming of the Bastille Became a Symbol",
+    "body": "The capture of the Bastille prison in 1789 became one of the Revolution's defining moments.",
+    "summary": "A prison became a symbol of revolution.",
+    "categoryId": "history",
+    "topic": "French Revolution",
+    "tags": [
+      "history",
+      "french-revolution",
+      "bastille",
+      "france"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "french-revolution-reign-of-terror",
+    "headline": "Thousands Died During the Reign of Terror",
+    "body": "The Reign of Terror resulted in thousands of executions.",
+    "summary": "Revolutionaries eventually turned on one another.",
+    "categoryId": "history",
+    "topic": "French Revolution",
+    "tags": [
+      "history",
+      "french-revolution",
+      "reign-of-terror",
+      "robespierre"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "french-revolution-napoleon",
+    "headline": "Napoleon Rose After the Revolution",
+    "body": "Napoleon Bonaparte gained power in the aftermath of the French Revolution.",
+    "summary": "The Revolution helped pave the way for Napoleon.",
+    "categoryId": "history",
+    "topic": "French Revolution",
+    "tags": [
+      "history",
+      "french-revolution",
+      "napoleon",
+      "france"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "french-revolution-nationalism",
+    "headline": "Nationalism Spread Across Europe",
+    "body": "The Revolution encouraged nationalist movements throughout Europe.",
+    "summary": "Its influence reshaped the continent.",
+    "categoryId": "history",
+    "topic": "French Revolution",
+    "tags": [
+      "history",
+      "french-revolution",
+      "nationalism",
+      "europe"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "printing-press-korea-first",
+    "headline": "Movable Type Existed Before Gutenberg",
+    "body": "Printing with movable type was being used in Korea before Gutenberg's work in Europe.",
+    "summary": "Asia pioneered movable type printing centuries earlier.",
+    "categoryId": "history",
+    "topic": "Printing Press",
+    "tags": [
+      "history",
+      "printing-press",
+      "korea",
+      "technology"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "printing-press-gutenberg-bible",
+    "headline": "Gutenberg Printed His Bible Around 1455",
+    "body": "Johannes Gutenberg completed his famous Bible around 1455.",
+    "summary": "One of history's most important books appeared in the 1400s.",
+    "categoryId": "history",
+    "topic": "Printing Press",
+    "tags": [
+      "history",
+      "printing-press",
+      "gutenberg",
+      "bible"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "printing-press-first-western-book",
+    "headline": "The Gutenberg Bible Was the First Complete Printed Western Book",
+    "body": "The Gutenberg Bible is the oldest complete printed book preserved from the Western world.",
+    "summary": "The first surviving complete Western printed book still exists.",
+    "categoryId": "history",
+    "topic": "Printing Press",
+    "tags": [
+      "history",
+      "printing-press",
+      "gutenberg",
+      "bible"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "printing-press-three-century-design",
+    "headline": "Gutenberg's Design Lasted Centuries",
+    "body": "The basic design of Gutenberg's press remained largely unchanged for over 300 years.",
+    "summary": "One invention dominated printing for centuries.",
+    "categoryId": "history",
+    "topic": "Printing Press",
+    "tags": [
+      "history",
+      "printing-press",
+      "gutenberg",
+      "inventions"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "printing-press-speed",
+    "headline": "Early Printing Was Surprisingly Slow",
+    "body": "Gutenberg-era presses produced roughly 250 sheets per hour on one side.",
+    "summary": "Printing books once took incredible patience.",
+    "categoryId": "history",
+    "topic": "Printing Press",
+    "tags": [
+      "history",
+      "printing-press",
+      "gutenberg",
+      "books"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "printing-press-lawsuit",
+    "headline": "Gutenberg's Press First Appeared in a Lawsuit",
+    "body": "The earliest mention of Gutenberg's press comes from legal records in Strasbourg.",
+    "summary": "One of history's greatest inventions first appears in court documents.",
+    "categoryId": "history",
+    "topic": "Printing Press",
+    "tags": [
+      "history",
+      "printing-press",
+      "gutenberg",
+      "strasbourg"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "printing-press-mass-media",
+    "headline": "Print Was the Original Mass Media",
+    "body": "Before radio and television, printed books and newspapers were the main way ideas spread widely.",
+    "summary": "Mass communication existed long before electronics.",
+    "categoryId": "history",
+    "topic": "Printing Press",
+    "tags": [
+      "history",
+      "printing-press",
+      "mass-media",
+      "newspapers"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "printing-press-jikji",
+    "headline": "The Oldest Surviving Metal Type Book Is Korean",
+    "body": "The Korean book Jikji, printed in 1377, predates Gutenberg by 78 years.",
+    "summary": "The oldest surviving metal type book wasn't European.",
+    "categoryId": "history",
+    "topic": "Printing Press",
+    "tags": [
+      "history",
+      "printing-press",
+      "jikji",
+      "korea"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "printing-press-surviving-bibles",
+    "headline": "Only About 40 Gutenberg Bibles Survive",
+    "body": "Roughly 40 copies of the Gutenberg Bible still exist.",
+    "summary": "One of history's rarest books survives in small numbers.",
+    "categoryId": "history",
+    "topic": "Printing Press",
+    "tags": [
+      "history",
+      "printing-press",
+      "gutenberg",
+      "bible"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "printing-press-computers",
+    "headline": "Computers Changed Printing Again",
+    "body": "Beginning in the 1950s, computers transformed the printing process.",
+    "summary": "Digital technology revolutionized printing.",
+    "categoryId": "history",
+    "topic": "Printing Press",
+    "tags": [
+      "history",
+      "printing-press",
+      "computers",
+      "digital"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cold-war-no-direct-war",
+    "headline": "The Superpowers Rarely Fought Each Other",
+    "body": "The Cold War was largely fought without direct military conflict between the United States and the Soviet Union.",
+    "summary": "The world's biggest rivals mostly avoided shooting at each other.",
+    "categoryId": "history",
+    "topic": "Cold War",
+    "tags": [
+      "history",
+      "cold-war",
+      "usa",
+      "soviet-union"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cold-war-orwell",
+    "headline": "George Orwell Coined 'Cold War'",
+    "body": "Writer George Orwell used the term 'Cold War' in 1945 to describe a nuclear standoff between superpowers.",
+    "summary": "The phrase came from the author of 1984.",
+    "categoryId": "history",
+    "topic": "Cold War",
+    "tags": [
+      "history",
+      "cold-war",
+      "george-orwell",
+      "books"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cold-war-duration",
+    "headline": "The Cold War Lasted More Than 40 Years",
+    "body": "The Cold War stretched from 1947 until 1991.",
+    "summary": "An ideological rivalry lasted nearly half a century.",
+    "categoryId": "history",
+    "topic": "Cold War",
+    "tags": [
+      "history",
+      "cold-war",
+      "20th-century",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cold-war-cuban-missile-crisis",
+    "headline": "The World Came Close to Nuclear War",
+    "body": "The Cuban Missile Crisis brought the United States and Soviet Union to the brink of nuclear conflict.",
+    "summary": "Humanity narrowly avoided catastrophe.",
+    "categoryId": "history",
+    "topic": "Cold War",
+    "tags": [
+      "history",
+      "cold-war",
+      "cuba",
+      "nuclear-weapons"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cold-war-mutual-destruction",
+    "headline": "Fear Prevented Nuclear War",
+    "body": "Both sides avoided using nuclear weapons because each could destroy the other.",
+    "summary": "Mutual destruction kept the peace.",
+    "categoryId": "history",
+    "topic": "Cold War",
+    "tags": [
+      "history",
+      "cold-war",
+      "nuclear-weapons",
+      "usa"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cold-war-first-soviet-bomb",
+    "headline": "The Soviet Union Broke America's Monopoly",
+    "body": "The Soviet Union tested its first atomic bomb in 1949.",
+    "summary": "America's nuclear advantage didn't last long.",
+    "categoryId": "history",
+    "topic": "Cold War",
+    "tags": [
+      "history",
+      "cold-war",
+      "soviet-union",
+      "atomic-bomb"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cold-war-nato",
+    "headline": "NATO Was Born During the Cold War",
+    "body": "NATO was established in 1949 to counter Soviet influence in Europe.",
+    "summary": "One of the world's largest alliances emerged from the rivalry.",
+    "categoryId": "history",
+    "topic": "Cold War",
+    "tags": [
+      "history",
+      "cold-war",
+      "nato",
+      "europe"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cold-war-berlin-airlift",
+    "headline": "A Blockade Was Defeated Without a Battle",
+    "body": "The Berlin Airlift supplied West Berlin and overcame a Soviet blockade without firing a shot.",
+    "summary": "Cargo planes defeated a blockade.",
+    "categoryId": "history",
+    "topic": "Cold War",
+    "tags": [
+      "history",
+      "cold-war",
+      "berlin",
+      "airlift"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cold-war-korean-war",
+    "headline": "Korea Became a Proxy War",
+    "body": "The Korean War became one of the first major conflicts tied to Cold War tensions.",
+    "summary": "Other countries fought while superpowers backed each side.",
+    "categoryId": "history",
+    "topic": "Cold War",
+    "tags": [
+      "history",
+      "cold-war",
+      "korea",
+      "proxy-war"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cold-war-soviet-collapse",
+    "headline": "The Soviet Union's Collapse Ended the Cold War",
+    "body": "The Cold War effectively ended when the Soviet Union dissolved in 1991.",
+    "summary": "The rivalry ended when one superpower disappeared.",
+    "categoryId": "history",
+    "topic": "Cold War",
+    "tags": [
+      "history",
+      "cold-war",
+      "soviet-union",
+      "1991"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "space-race-rivals",
+    "headline": "The Space Race Was a Superpower Competition",
+    "body": "The Space Race pitted the United States against the Soviet Union.",
+    "summary": "Space became another Cold War battlefield.",
+    "categoryId": "history",
+    "topic": "Space Race",
+    "tags": [
+      "history",
+      "space-race",
+      "usa",
+      "soviet-union"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "space-race-sputnik",
+    "headline": "Sputnik Was the First Satellite",
+    "body": "Sputnik 1 became the world's first artificial satellite in 1957.",
+    "summary": "Humanity's first satellite was Soviet.",
+    "categoryId": "history",
+    "topic": "Space Race",
+    "tags": [
+      "history",
+      "space-race",
+      "sputnik",
+      "space"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "space-race-gagarin",
+    "headline": "The First Human in Space Was Soviet",
+    "body": "Yuri Gagarin became the first human to travel into space in 1961.",
+    "summary": "The Soviet Union put the first person into orbit.",
+    "categoryId": "history",
+    "topic": "Space Race",
+    "tags": [
+      "history",
+      "space-race",
+      "yuri-gagarin",
+      "space"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "space-race-early-lead",
+    "headline": "The Soviets Won Many Early Victories",
+    "body": "The Soviet Union achieved many of the Space Race's first milestones.",
+    "summary": "America started out behind.",
+    "categoryId": "history",
+    "topic": "Space Race",
+    "tags": [
+      "history",
+      "space-race",
+      "soviet-union",
+      "space"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "space-race-apollo-11",
+    "headline": "Apollo 11 Reached the Moon",
+    "body": "Apollo 11 successfully landed humans on the Moon in 1969.",
+    "summary": "Humanity first stepped onto another world in 1969.",
+    "categoryId": "history",
+    "topic": "Space Race",
+    "tags": [
+      "history",
+      "space-race",
+      "apollo-11",
+      "moon"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "space-race-armstrong-aldrin",
+    "headline": "The First Moonwalkers Were Armstrong and Aldrin",
+    "body": "Neil Armstrong and Buzz Aldrin became the first people to walk on the Moon.",
+    "summary": "Two astronauts made history together.",
+    "categoryId": "history",
+    "topic": "Space Race",
+    "tags": [
+      "history",
+      "space-race",
+      "moon",
+      "apollo-11"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "space-race-symbolic-victory",
+    "headline": "The Moon Landing Marked America's Victory",
+    "body": "Apollo 11 is widely considered the symbolic U.S. victory in the Space Race.",
+    "summary": "The Moon became the ultimate prize.",
+    "categoryId": "history",
+    "topic": "Space Race",
+    "tags": [
+      "history",
+      "space-race",
+      "moon",
+      "usa"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "space-race-cold-war",
+    "headline": "The Space Race Came From the Cold War",
+    "body": "Competition in space grew directly from Cold War tensions.",
+    "summary": "Political rivalry fueled exploration.",
+    "categoryId": "history",
+    "topic": "Space Race",
+    "tags": [
+      "history",
+      "space-race",
+      "cold-war",
+      "space"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "space-race-sputnik-shock",
+    "headline": "Sputnik Alarmed the United States",
+    "body": "Sputnik's launch shocked Americans and accelerated U.S. investment in space.",
+    "summary": "One satellite changed history.",
+    "categoryId": "history",
+    "topic": "Space Race",
+    "tags": [
+      "history",
+      "space-race",
+      "sputnik",
+      "nasa"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "space-race-technology",
+    "headline": "Competition Accelerated Technology",
+    "body": "The rivalry between superpowers rapidly advanced space technology.",
+    "summary": "Competition helped humanity reach the stars.",
+    "categoryId": "history",
+    "topic": "Space Race",
+    "tags": [
+      "history",
+      "space-race",
+      "technology",
+      "innovation"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-egypt-3000-years",
+    "headline": "Ancient Egypt Lasted Over 3,000 Years",
+    "body": "Ancient Egyptian civilization endured for more than three millennia.",
+    "summary": "One civilization survived longer than many entire eras of history.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Egypt",
+    "tags": [
+      "ancient-egypt",
+      "egypt",
+      "history",
+      "civilizations"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-egypt-nile",
+    "headline": "The Nile Made Egypt Possible",
+    "body": "Annual flooding of the Nile River supported Egyptian civilization.",
+    "summary": "Without the Nile, ancient Egypt might never have existed.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Egypt",
+    "tags": [
+      "ancient-egypt",
+      "nile-river",
+      "egypt",
+      "geography"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-egypt-pyramid",
+    "headline": "The Great Pyramid Is the Oldest Surviving Wonder",
+    "body": "The Great Pyramid of Giza is the only Ancient Wonder of the World still standing.",
+    "summary": "People can still visit the oldest surviving Wonder today.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Egypt",
+    "tags": [
+      "ancient-egypt",
+      "pyramids",
+      "giza",
+      "wonders"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-egypt-hieroglyphics",
+    "headline": "Hieroglyphics Were an Early Writing System",
+    "body": "Ancient Egyptians developed one of the world's earliest writing systems.",
+    "summary": "Pictures became words thousands of years ago.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Egypt",
+    "tags": [
+      "ancient-egypt",
+      "hieroglyphics",
+      "writing",
+      "language"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-egypt-king-tut",
+    "headline": "King Tut's Tomb Was Found Intact",
+    "body": "Howard Carter discovered the nearly untouched tomb of Tutankhamun in 1922.",
+    "summary": "The discovery shocked the world.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Egypt",
+    "tags": [
+      "ancient-egypt",
+      "king-tut",
+      "tutankhamun",
+      "archaeology"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-egypt-cats",
+    "headline": "Cats Were Sacred in Ancient Egypt",
+    "body": "Cats were highly valued and associated with several Egyptian gods.",
+    "summary": "Ancient Egyptians adored cats.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Egypt",
+    "tags": [
+      "ancient-egypt",
+      "cats",
+      "religion",
+      "animals"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-egypt-papyrus",
+    "headline": "Egyptians Wrote on Papyrus",
+    "body": "Papyrus was one of the world's earliest paper-like materials.",
+    "summary": "Ancient paperwork was made from plants.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Egypt",
+    "tags": [
+      "ancient-egypt",
+      "papyrus",
+      "writing",
+      "technology"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-egypt-pharaohs",
+    "headline": "Pharaohs Were Seen as Divine",
+    "body": "Egyptian rulers were considered both kings and divine figures.",
+    "summary": "Their leaders were treated like gods.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Egypt",
+    "tags": [
+      "ancient-egypt",
+      "pharaohs",
+      "religion",
+      "royalty"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-egypt-menes",
+    "headline": "Menes Unified Egypt",
+    "body": "Tradition credits Menes with uniting Upper and Lower Egypt.",
+    "summary": "A single ruler brought Egypt together.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Egypt",
+    "tags": [
+      "ancient-egypt",
+      "menes",
+      "pharaohs",
+      "history"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-egypt-rome",
+    "headline": "Ancient Egypt Became Part of Rome",
+    "body": "Ancient Egypt eventually became absorbed into the Roman Empire.",
+    "summary": "Even mighty Egypt was conquered.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Egypt",
+    "tags": [
+      "ancient-egypt",
+      "rome",
+      "empire",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "maya-cities",
+    "headline": "The Maya Built Dozens of Cities",
+    "body": "At their peak, the Maya had more than 40 major cities.",
+    "summary": "A vast civilization flourished across Central America.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Maya Civilization",
+    "tags": [
+      "maya",
+      "cities",
+      "mesoamerica",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "maya-zero",
+    "headline": "The Maya Discovered Zero",
+    "body": "The Maya independently developed the mathematical concept of zero.",
+    "summary": "They solved one of mathematics' greatest ideas.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Maya Civilization",
+    "tags": [
+      "maya",
+      "mathematics",
+      "zero",
+      "numbers"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "maya-astronomy",
+    "headline": "The Maya Were Skilled Astronomers",
+    "body": "Maya astronomers accurately tracked the movements of the Moon and Venus.",
+    "summary": "They watched the heavens with remarkable precision.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Maya Civilization",
+    "tags": [
+      "maya",
+      "astronomy",
+      "moon",
+      "venus"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "maya-calendar",
+    "headline": "The Maya Created Sophisticated Calendars",
+    "body": "The Maya developed complex calendar systems to track time.",
+    "summary": "Ancient people measured time with incredible accuracy.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Maya Civilization",
+    "tags": [
+      "maya",
+      "calendar",
+      "time",
+      "astronomy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "maya-writing",
+    "headline": "The Maya Used Hieroglyphics",
+    "body": "The Maya developed a hieroglyphic writing system that has largely been deciphered.",
+    "summary": "Their symbols tell stories across centuries.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Maya Civilization",
+    "tags": [
+      "maya",
+      "writing",
+      "hieroglyphics",
+      "language"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "maya-chichen-itza",
+    "headline": "Chichén Itzá Outlived Many Cities",
+    "body": "Chichén Itzá thrived long after many earlier Maya cities declined.",
+    "summary": "Some cities survived while others vanished.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Maya Civilization",
+    "tags": [
+      "maya",
+      "chichen-itza",
+      "cities",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "maya-jungle",
+    "headline": "Jungles Reclaimed Maya Cities",
+    "body": "Many abandoned Maya cities were eventually swallowed by jungle vegetation.",
+    "summary": "Entire cities disappeared beneath forests.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Maya Civilization",
+    "tags": [
+      "maya",
+      "jungle",
+      "archaeology",
+      "cities"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "maya-descendants",
+    "headline": "Millions of Maya Descendants Still Live Today",
+    "body": "Modern Maya communities continue to thrive across Central America.",
+    "summary": "The Maya civilization never truly disappeared.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Maya Civilization",
+    "tags": [
+      "maya",
+      "people",
+      "culture",
+      "central-america"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "maya-codices",
+    "headline": "The Maya Made Books From Trees",
+    "body": "Maya codices were made from the bark of wild fig trees.",
+    "summary": "Ancient books once grew on trees.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Maya Civilization",
+    "tags": [
+      "maya",
+      "codices",
+      "books",
+      "writing"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "maya-population",
+    "headline": "Some Maya Cities Held 50,000 People",
+    "body": "Major Maya cities could contain populations of up to 50,000 inhabitants.",
+    "summary": "Ancient cities rivaled large towns.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Maya Civilization",
+    "tags": [
+      "maya",
+      "cities",
+      "population",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aztec-tenochtitlan-founded",
+    "headline": "The Aztecs Built a City on a Lake",
+    "body": "The Aztecs founded Tenochtitlán on an island in Lake Texcoco in 1325. The city would eventually become the heart of their empire.",
+    "summary": "The Aztecs built their capital on an island in a lake.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Aztec Civilization",
+    "tags": [
+      "aztec",
+      "tenochtitlan",
+      "mexico",
+      "civilizations"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aztec-flag-legend",
+    "headline": "Mexico's Flag Comes From an Aztec Legend",
+    "body": "According to Aztec tradition, their homeland would be marked by an eagle perched on a cactus holding a serpent. That image survives today on Mexico's national flag.",
+    "summary": "The symbol on Mexico's flag comes from an Aztec legend.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Aztec Civilization",
+    "tags": [
+      "aztec",
+      "mexico",
+      "flag",
+      "legends"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aztec-tenochtitlan-population",
+    "headline": "The Aztec Capital Was One of the World's Largest Cities",
+    "body": "At its height, Tenochtitlán had more than 140,000 inhabitants, making it one of the largest cities in the world.",
+    "summary": "Tenochtitlán rivaled the world's greatest cities.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Aztec Civilization",
+    "tags": [
+      "aztec",
+      "tenochtitlan",
+      "cities",
+      "population"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aztec-empire-millions",
+    "headline": "The Aztec Empire Ruled Millions",
+    "body": "By the early 1500s, the Aztec Empire controlled between five and six million people.",
+    "summary": "Millions lived under Aztec rule.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Aztec Civilization",
+    "tags": [
+      "aztec",
+      "empire",
+      "population",
+      "history"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aztec-floating-gardens",
+    "headline": "The Aztecs Built Floating Gardens",
+    "body": "Aztec farmers created raised fields called chinampas, often nicknamed floating gardens, that allowed them to grow multiple harvests each year.",
+    "summary": "The Aztecs engineered floating gardens for farming.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Aztec Civilization",
+    "tags": [
+      "aztec",
+      "agriculture",
+      "chinampas",
+      "farming"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aztec-calendar-cycle",
+    "headline": "The Aztecs Used Two Calendars at Once",
+    "body": "The Aztecs combined two calendar systems that repeated together every 52 years.",
+    "summary": "The Aztecs tracked time with an elaborate calendar system.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Aztec Civilization",
+    "tags": [
+      "aztec",
+      "calendar",
+      "time",
+      "astronomy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aztec-nahuatl-language",
+    "headline": "Nahuatl Became the Language of an Empire",
+    "body": "Nahuatl became the dominant language across much of what is now Mexico during the Aztec Empire.",
+    "summary": "One language spread across much of ancient Mexico.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Aztec Civilization",
+    "tags": [
+      "aztec",
+      "nahuatl",
+      "language",
+      "mexico"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aztec-chocolate",
+    "headline": "The Aztecs Enjoyed Chocolate Before Europe",
+    "body": "Chocolate drinks were consumed by the Aztecs centuries before Europeans encountered cacao.",
+    "summary": "The Aztecs were enjoying chocolate long before Europe discovered it.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Aztec Civilization",
+    "tags": [
+      "aztec",
+      "chocolate",
+      "cacao",
+      "food"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aztec-mexico-city",
+    "headline": "Mexico City Was Built on the Aztec Capital",
+    "body": "Modern Mexico City stands where Tenochtitlán once ruled the Aztec Empire.",
+    "summary": "Mexico City grew from the ruins of Tenochtitlán.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Aztec Civilization",
+    "tags": [
+      "aztec",
+      "mexico-city",
+      "tenochtitlan",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aztec-human-sacrifice",
+    "headline": "Human Sacrifice Was Part of Aztec Religion",
+    "body": "Human sacrifice played an important role in Aztec religious practices and ceremonies.",
+    "summary": "Religion and sacrifice were closely connected in Aztec society.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Aztec Civilization",
+    "tags": [
+      "aztec",
+      "religion",
+      "sacrifice",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inca-empire-size",
+    "headline": "The Inca Empire Stretched Across South America",
+    "body": "At its height, the Inca Empire extended from modern Ecuador to central Chile.",
+    "summary": "The Inca ruled a huge section of South America.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Inca Civilization",
+    "tags": [
+      "inca",
+      "south-america",
+      "empire",
+      "andes"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inca-twelve-million",
+    "headline": "The Inca Controlled Millions in Just a Century",
+    "body": "Within about 100 years, the Inca expanded their empire to include roughly 12 million people.",
+    "summary": "The Inca built a massive empire with incredible speed.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Inca Civilization",
+    "tags": [
+      "inca",
+      "empire",
+      "population",
+      "history"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inca-road-network",
+    "headline": "The Inca Built Thousands of Miles of Roads",
+    "body": "The Inca created a vast road network that crossed mountains and connected their empire.",
+    "summary": "The Inca engineered roads across the Andes.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Inca Civilization",
+    "tags": [
+      "inca",
+      "roads",
+      "engineering",
+      "andes"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inca-fast-messengers",
+    "headline": "Inca Messengers Could Relay News 150 Miles a Day",
+    "body": "Relay runners carried messages across the empire at speeds of about 150 miles per day.",
+    "summary": "Information traveled surprisingly fast in the Inca Empire.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Inca Civilization",
+    "tags": [
+      "inca",
+      "messengers",
+      "roads",
+      "communication"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inca-quipu",
+    "headline": "The Inca Recorded Information With Knots",
+    "body": "The Inca used knotted cords called quipu to keep records and track information.",
+    "summary": "Knots served as a recordkeeping system.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Inca Civilization",
+    "tags": [
+      "inca",
+      "quipu",
+      "records",
+      "technology"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inca-suspension-bridges",
+    "headline": "The Inca Built Suspension Bridges",
+    "body": "Long before Europeans arrived, the Inca constructed suspension bridges to connect distant regions.",
+    "summary": "Ancient engineers built bridges across mountain valleys.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Inca Civilization",
+    "tags": [
+      "inca",
+      "bridges",
+      "engineering",
+      "andes"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inca-no-writing",
+    "headline": "The Inca Had No Written Language",
+    "body": "Unlike many ancient civilizations, the Inca left behind no traditional writing system.",
+    "summary": "One of history's greatest empires had no written language.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Inca Civilization",
+    "tags": [
+      "inca",
+      "writing",
+      "history",
+      "civilization"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inca-machu-picchu",
+    "headline": "Machu Picchu Survives Centuries Later",
+    "body": "Machu Picchu remains one of the most famous and best-preserved sites of the Inca civilization.",
+    "summary": "One of the world's most famous ruins was built by the Inca.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Inca Civilization",
+    "tags": [
+      "inca",
+      "machu-picchu",
+      "peru",
+      "archaeology"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inca-llamas-alpacas",
+    "headline": "Llamas and Alpacas Were Essential to the Inca",
+    "body": "Llamas and alpacas provided transportation, wool, and food for Inca society.",
+    "summary": "These animals played a major role in daily life.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Inca Civilization",
+    "tags": [
+      "inca",
+      "llamas",
+      "alpacas",
+      "animals"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inca-quechua-survives",
+    "headline": "Millions Still Speak the Language of the Inca",
+    "body": "Many descendants of the Inca still speak Quechua throughout the Andes today.",
+    "summary": "The language of the Inca is still alive.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Inca Civilization",
+    "tags": [
+      "inca",
+      "quechua",
+      "language",
+      "culture"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mesopotamia-cradle-civilization",
+    "headline": "Mesopotamia Is Called the Cradle of Civilization",
+    "body": "Mesopotamia is often called the cradle of civilization because some of the world's earliest societies emerged there.",
+    "summary": "Many historians consider Mesopotamia the birthplace of civilization.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Mesopotamia",
+    "tags": [
+      "mesopotamia",
+      "civilization",
+      "history",
+      "ancient-world"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mesopotamia-name-between-rivers",
+    "headline": "Mesopotamia Means 'Between Rivers'",
+    "body": "The name Mesopotamia comes from Greek and means 'between rivers,' referring to the land between the Tigris and Euphrates.",
+    "summary": "The civilization's name literally describes its geography.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Mesopotamia",
+    "tags": [
+      "mesopotamia",
+      "tigris",
+      "euphrates",
+      "geography"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mesopotamia-two-rivers",
+    "headline": "Two Rivers Helped Create a Civilization",
+    "body": "Mesopotamian civilization developed between the Tigris and Euphrates Rivers.",
+    "summary": "Two great rivers supported one of humanity's first civilizations.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Mesopotamia",
+    "tags": [
+      "mesopotamia",
+      "tigris",
+      "euphrates",
+      "rivers"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mesopotamia-irrigation",
+    "headline": "Irrigation Turned Dry Land Into Farmland",
+    "body": "Mesopotamians used irrigation canals to bring water to crops and support growing cities.",
+    "summary": "Ancient engineers transformed dry land into fertile farmland.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Mesopotamia",
+    "tags": [
+      "mesopotamia",
+      "irrigation",
+      "agriculture",
+      "engineering"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mesopotamia-writing",
+    "headline": "Writing Began in Mesopotamia",
+    "body": "Mesopotamia gave rise to writing, one of humanity's most important inventions.",
+    "summary": "One of history's greatest inventions originated here.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Mesopotamia",
+    "tags": [
+      "mesopotamia",
+      "writing",
+      "cuneiform",
+      "inventions"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mesopotamia-clay",
+    "headline": "Clay Was Used for Almost Everything",
+    "body": "Mesopotamians used clay for buildings, pottery, and even writing tablets.",
+    "summary": "Clay shaped nearly every aspect of life.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Mesopotamia",
+    "tags": [
+      "mesopotamia",
+      "clay",
+      "technology",
+      "writing"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mesopotamia-thousand-gods",
+    "headline": "Mesopotamia Had More Than 1,000 Gods",
+    "body": "The Mesopotamian pantheon included more than a thousand deities.",
+    "summary": "Ancient Mesopotamian religion included a huge number of gods.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Mesopotamia",
+    "tags": [
+      "mesopotamia",
+      "religion",
+      "gods",
+      "mythology"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mesopotamia-hammurabi",
+    "headline": "One of History's Earliest Law Codes Came From Mesopotamia",
+    "body": "The Code of Hammurabi became one of the earliest and most famous law codes in history.",
+    "summary": "Ancient Mesopotamia helped shape the idea of written laws.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Mesopotamia",
+    "tags": [
+      "mesopotamia",
+      "hammurabi",
+      "law",
+      "babylon"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mesopotamia-sixty-minute-hour",
+    "headline": "Your Clock Uses Babylonian Math",
+    "body": "The 60-minute hour and 60-second minute trace their origins to Babylonian mathematics.",
+    "summary": "Modern timekeeping still uses ancient ideas.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Mesopotamia",
+    "tags": [
+      "mesopotamia",
+      "babylon",
+      "mathematics",
+      "time"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mesopotamia-ziggurats",
+    "headline": "Mesopotamia Built Giant Temple Towers",
+    "body": "Mesopotamian cities were famous for massive stepped temples called ziggurats.",
+    "summary": "Ancient temple towers dominated Mesopotamian skylines.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Mesopotamia",
+    "tags": [
+      "mesopotamia",
+      "ziggurats",
+      "architecture",
+      "religion"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sumerians-earliest-civilization",
+    "headline": "The Sumerians Built the Earliest Known Civilization",
+    "body": "Sumer is considered the site of the earliest known civilization in history.",
+    "summary": "The Sumerians helped launch civilization itself.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Sumerians",
+    "tags": [
+      "sumerians",
+      "sumer",
+      "civilization",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sumerians-cuneiform",
+    "headline": "The Sumerians Invented Cuneiform",
+    "body": "The Sumerians developed cuneiform, one of the earliest writing systems ever created.",
+    "summary": "Their writing changed human history.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Sumerians",
+    "tags": [
+      "sumerians",
+      "cuneiform",
+      "writing",
+      "inventions"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sumerians-city-states",
+    "headline": "Sumer Was Made Up of Many City-States",
+    "body": "By the third millennium BCE, Sumer consisted of at least twelve separate city-states.",
+    "summary": "Ancient Sumer was divided into independent cities.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Sumerians",
+    "tags": [
+      "sumerians",
+      "city-states",
+      "sumer",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sumerians-patron-gods",
+    "headline": "Every City Had Its Own God",
+    "body": "Each Sumerian city-state worshipped its own patron deity.",
+    "summary": "Religion shaped life in every city.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Sumerians",
+    "tags": [
+      "sumerians",
+      "religion",
+      "gods",
+      "city-states"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sumerians-wheel",
+    "headline": "The Sumerians Invented the Wheel",
+    "body": "The Sumerians developed the wheel and the potter's wheel, innovations that transformed transportation and manufacturing.",
+    "summary": "The wheel traces its origins to ancient Sumer.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Sumerians",
+    "tags": [
+      "sumerians",
+      "wheel",
+      "inventions",
+      "technology"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sumerians-sargon",
+    "headline": "Sargon United the City-States",
+    "body": "Sargon of Akkad united the Sumerian city-states and created one of history's first empires.",
+    "summary": "A conqueror brought the region together.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Sumerians",
+    "tags": [
+      "sumerians",
+      "sargon",
+      "akkad",
+      "empire"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sumerians-ur-nammu",
+    "headline": "An Ancient King Created One of the Oldest Law Codes",
+    "body": "Ur-Nammu issued the earliest law code yet discovered in Mesopotamia.",
+    "summary": "Ancient laws existed long before Rome.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Sumerians",
+    "tags": [
+      "sumerians",
+      "ur-nammu",
+      "law",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sumerians-flood-story",
+    "headline": "Ancient Kings Were Said to Rule Before a Great Flood",
+    "body": "The Sumerian King List claimed that eight kings ruled before a great flood.",
+    "summary": "Flood stories existed in Mesopotamia long before many later traditions.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Sumerians",
+    "tags": [
+      "sumerians",
+      "flood",
+      "mythology",
+      "king-list"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sumerians-ur",
+    "headline": "Ur Was One of Sumer's Greatest Cities",
+    "body": "The city of Ur became one of the most important centers of Sumerian civilization.",
+    "summary": "One city stood at the heart of Sumerian culture.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Sumerians",
+    "tags": [
+      "sumerians",
+      "ur",
+      "cities",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sumerians-influence",
+    "headline": "The Sumerians Influenced Future Civilizations",
+    "body": "Sumerian ideas and institutions shaped many later societies in Mesopotamia.",
+    "summary": "Their legacy outlived their civilization.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Sumerians",
+    "tags": [
+      "sumerians",
+      "legacy",
+      "mesopotamia",
+      "culture"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "babylonians-great-city",
+    "headline": "Babylon Was One of History's Greatest Cities",
+    "body": "Babylon became one of the most famous and powerful cities of the ancient world.",
+    "summary": "One city became legendary across the ancient world.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Babylonians",
+    "tags": [
+      "babylon",
+      "babylonians",
+      "cities",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "babylonians-hammurabi",
+    "headline": "Hammurabi Created a Famous Law Code",
+    "body": "King Hammurabi issued one of history's most famous collections of laws.",
+    "summary": "Ancient Babylon helped shape the idea of written laws.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Babylonians",
+    "tags": [
+      "babylonians",
+      "hammurabi",
+      "law",
+      "babylon"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "babylonians-base-60",
+    "headline": "Babylonians Counted Using 60",
+    "body": "Babylonian mathematicians used a base-60 number system instead of base-10.",
+    "summary": "Ancient math still influences daily life.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Babylonians",
+    "tags": [
+      "babylonians",
+      "mathematics",
+      "numbers",
+      "babylon"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "babylonians-clocks",
+    "headline": "Your Clock Uses Babylonian Ideas",
+    "body": "Modern hours and minutes reflect mathematical concepts developed by the Babylonians.",
+    "summary": "Ancient mathematics lives on in every clock.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Babylonians",
+    "tags": [
+      "babylonians",
+      "time",
+      "mathematics",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "babylonians-nebuchadnezzar",
+    "headline": "Nebuchadnezzar Rebuilt Babylon",
+    "body": "Nebuchadnezzar II transformed Babylon into one of the most magnificent capitals of the ancient world.",
+    "summary": "A king turned Babylon into a legendary city.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Babylonians",
+    "tags": [
+      "babylonians",
+      "nebuchadnezzar",
+      "babylon",
+      "kings"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "babylonians-hanging-gardens",
+    "headline": "Babylon Was Home to a Wonder of the World",
+    "body": "The Hanging Gardens of Babylon became one of the Seven Wonders of the Ancient World.",
+    "summary": "One of history's most famous wonders was linked to Babylon.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Babylonians",
+    "tags": [
+      "babylonians",
+      "hanging-gardens",
+      "wonders",
+      "architecture"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "babylonians-enuma-elish",
+    "headline": "Babylonians Had a Creation Epic",
+    "body": "The Enuma Elish told the Babylonian story of how the world began.",
+    "summary": "Ancient myths explained the origins of the universe.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Babylonians",
+    "tags": [
+      "babylonians",
+      "mythology",
+      "enuma-elish",
+      "religion"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "babylonians-astronomy",
+    "headline": "Babylonians Advanced Astronomy",
+    "body": "Babylonian scholars made major contributions to astronomy and the study of the heavens.",
+    "summary": "Ancient skywatchers laid foundations for astronomy.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Babylonians",
+    "tags": [
+      "babylonians",
+      "astronomy",
+      "science",
+      "space"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "babylonians-alexander",
+    "headline": "Alexander the Great Wanted Babylon as His Capital",
+    "body": "Alexander the Great planned to make Babylon the center of his empire.",
+    "summary": "Even Alexander admired Babylon's importance.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Babylonians",
+    "tags": [
+      "babylonians",
+      "alexander-the-great",
+      "babylon",
+      "history"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "babylonians-thousands-years",
+    "headline": "Babylon Stayed Important for Thousands of Years",
+    "body": "Babylon remained a major center of culture and power across many centuries.",
+    "summary": "Some cities remained influential for millennia.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Babylonians",
+    "tags": [
+      "babylonians",
+      "babylon",
+      "history",
+      "civilization"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "phoenicians-traders",
+    "headline": "The Phoenicians Were Master Traders",
+    "body": "The Phoenicians became famous as merchants and sailors throughout the Mediterranean.",
+    "summary": "Ancient trade made them wealthy and influential.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Phoenicians",
+    "tags": [
+      "phoenicians",
+      "trade",
+      "sailing",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "phoenicians-cities",
+    "headline": "Phoenicia Was Made Up of Famous Cities",
+    "body": "Tyre, Sidon, and Byblos were among the most important Phoenician city-states.",
+    "summary": "Powerful cities drove Phoenician civilization.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Phoenicians",
+    "tags": [
+      "phoenicians",
+      "tyre",
+      "sidon",
+      "byblos",
+      "cities"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "phoenicians-ships",
+    "headline": "Phoenician Ships Crossed the Mediterranean",
+    "body": "Phoenician sailors traveled widely across the Mediterranean Sea.",
+    "summary": "Their ships connected distant civilizations.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Phoenicians",
+    "tags": [
+      "phoenicians",
+      "ships",
+      "mediterranean",
+      "sailing"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "phoenicians-purple-dye",
+    "headline": "Royal Purple Came From the Phoenicians",
+    "body": "Phoenician merchants traded a valuable purple dye associated with royalty.",
+    "summary": "Purple once symbolized wealth and power.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Phoenicians",
+    "tags": [
+      "phoenicians",
+      "purple-dye",
+      "trade",
+      "royalty"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "phoenicians-craftsmen",
+    "headline": "Phoenician Craftsmen Were Highly Skilled",
+    "body": "Phoenician artisans became famous for glasswork, jewelry, and decorative objects.",
+    "summary": "Their craftsmanship was admired across the ancient world.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Phoenicians",
+    "tags": [
+      "phoenicians",
+      "glass",
+      "jewelry",
+      "artisans"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "phoenicians-alphabet",
+    "headline": "The Phoenician Alphabet Influenced Greek Writing",
+    "body": "The Phoenician alphabet became the foundation of the Greek alphabet.",
+    "summary": "A writing system changed the future of communication.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Phoenicians",
+    "tags": [
+      "phoenicians",
+      "alphabet",
+      "greek",
+      "writing"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "phoenicians-modern-alphabets",
+    "headline": "Modern Alphabets Trace Back to Phoenicia",
+    "body": "Through Greek, Phoenician writing influenced many alphabets used today.",
+    "summary": "Ancient letters still shape modern languages.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Phoenicians",
+    "tags": [
+      "phoenicians",
+      "alphabet",
+      "languages",
+      "writing"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "phoenicians-colonies",
+    "headline": "Phoenicians Founded Colonies Across the Sea",
+    "body": "Phoenician settlements spread throughout the Mediterranean world.",
+    "summary": "They created a vast network of colonies.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Phoenicians",
+    "tags": [
+      "phoenicians",
+      "colonies",
+      "mediterranean",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "phoenicians-carthage",
+    "headline": "Carthage Began as a Phoenician Colony",
+    "body": "The powerful city of Carthage originally started as a Phoenician settlement.",
+    "summary": "One famous empire began with Phoenician colonists.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Phoenicians",
+    "tags": [
+      "phoenicians",
+      "carthage",
+      "colonies",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "phoenicians-connected-cultures",
+    "headline": "Phoenicians Connected Ancient Cultures",
+    "body": "Trade routes created by the Phoenicians helped spread ideas and goods across civilizations.",
+    "summary": "Merchants linked much of the ancient world.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Phoenicians",
+    "tags": [
+      "phoenicians",
+      "trade",
+      "culture",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-persia-cyrus-great",
+    "headline": "Cyrus the Great Founded One of History's Largest Empires",
+    "body": "Cyrus the Great established the Persian Empire, which became one of the largest empires the world had ever seen.",
+    "summary": "Cyrus the Great founded one of history's greatest empires.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Persia",
+    "tags": [
+      "persia",
+      "cyrus-the-great",
+      "empire",
+      "history"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-persia-three-continents",
+    "headline": "The Persian Empire Stretched Across Three Continents",
+    "body": "At its height, the Persian Empire extended across Asia, Africa, and Europe, making it one of the largest empires of the ancient world.",
+    "summary": "Ancient Persia once spanned three continents.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Persia",
+    "tags": [
+      "persia",
+      "empire",
+      "continents",
+      "history"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-persia-satrapies",
+    "headline": "Persia Divided Its Empire Into Provinces",
+    "body": "Darius I organized the empire into provinces called satrapies to help govern its vast territories.",
+    "summary": "Ancient Persia used provinces called satrapies to manage its empire.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Persia",
+    "tags": [
+      "persia",
+      "darius",
+      "satrapies",
+      "government"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-persia-royal-road",
+    "headline": "The Persians Built an Ancient Superhighway",
+    "body": "The Royal Road connected distant parts of the Persian Empire and greatly improved trade and communication.",
+    "summary": "The Royal Road linked the Persian Empire together.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Persia",
+    "tags": [
+      "persia",
+      "royal-road",
+      "trade",
+      "communication"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-persia-messengers",
+    "headline": "Persia Had an Ancient Postal Network",
+    "body": "Mounted couriers carried messages rapidly across the empire using relay stations along the Royal Road.",
+    "summary": "Ancient Persia operated one of history's earliest communication networks.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Persia",
+    "tags": [
+      "persia",
+      "messengers",
+      "postal-system",
+      "royal-road"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-persia-persepolis",
+    "headline": "Persepolis Was One of the Ancient World's Greatest Cities",
+    "body": "Persepolis served as a magnificent ceremonial capital filled with impressive palaces and artwork.",
+    "summary": "Persepolis became one of history's most spectacular cities.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Persia",
+    "tags": [
+      "persia",
+      "persepolis",
+      "architecture",
+      "cities"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-persia-many-cultures",
+    "headline": "Persian Kings Ruled Many Cultures",
+    "body": "The Persian Empire governed people from many different cultures, languages, and traditions.",
+    "summary": "Ancient Persia united diverse peoples under one empire.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Persia",
+    "tags": [
+      "persia",
+      "culture",
+      "empire",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-persia-zoroastrianism",
+    "headline": "Zoroastrianism Began in Ancient Persia",
+    "body": "One of the world's oldest religions, Zoroastrianism, originated in ancient Persia.",
+    "summary": "Ancient Persia gave rise to Zoroastrianism.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Persia",
+    "tags": [
+      "persia",
+      "zoroastrianism",
+      "religion",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-persia-alexander-conquest",
+    "headline": "Alexander the Great Conquered Persia",
+    "body": "Alexander the Great defeated the Persian Empire and incorporated its territories into his own empire.",
+    "summary": "Alexander the Great brought the Persian Empire to an end.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Persia",
+    "tags": [
+      "persia",
+      "alexander-the-great",
+      "empire",
+      "history"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ancient-persia-name-persia",
+    "headline": "The West Called Iran 'Persia' for Centuries",
+    "body": "For centuries, Western civilizations commonly referred to Iran as Persia, a name derived from the region of Persis.",
+    "summary": "The name Persia remained widely used for centuries.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Ancient Persia",
+    "tags": [
+      "persia",
+      "iran",
+      "names",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "indus-largest-early-civilization",
+    "headline": "The Indus Civilization Covered an Enormous Area",
+    "body": "The Indus civilization stretched across a larger area than either ancient Egypt or Mesopotamia, making it the most extensive of the world's earliest civilizations.",
+    "summary": "The Indus civilization was larger than Egypt and Mesopotamia.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Indus Valley Civilization",
+    "tags": [
+      "indus",
+      "harappan",
+      "civilization",
+      "history"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "indus-earliest-civilizations",
+    "headline": "The Indus Civilization Was One of Humanity's First",
+    "body": "The Indus civilization emerged during the third millennium BCE and became one of the world's earliest civilizations.",
+    "summary": "The Indus civilization ranks among humanity's earliest civilizations.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Indus Valley Civilization",
+    "tags": [
+      "indus",
+      "harappan",
+      "history",
+      "civilization"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "indus-harappa-mohenjo-daro",
+    "headline": "Two Great Cities Dominated the Indus World",
+    "body": "Harappa and Mohenjo-daro were the largest and most important cities of the Indus civilization.",
+    "summary": "Harappa and Mohenjo-daro stood at the center of the Indus civilization.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Indus Valley Civilization",
+    "tags": [
+      "indus",
+      "harappa",
+      "mohenjo-daro",
+      "cities"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "indus-city-planning",
+    "headline": "Indus Cities Were Remarkably Well Planned",
+    "body": "Indus cities featured carefully designed layouts with straight streets and organized neighborhoods.",
+    "summary": "The Indus civilization excelled at urban planning.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Indus Valley Civilization",
+    "tags": [
+      "indus",
+      "engineering",
+      "cities",
+      "architecture"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "indus-indoor-plumbing",
+    "headline": "Many Homes Had Indoor Plumbing",
+    "body": "Some Indus homes had bathrooms and drainage systems thousands of years before similar features became common elsewhere.",
+    "summary": "The Indus civilization developed advanced plumbing systems.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Indus Valley Civilization",
+    "tags": [
+      "indus",
+      "plumbing",
+      "engineering",
+      "technology"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "indus-standardized-measurements",
+    "headline": "The Indus People Used Standard Measurements",
+    "body": "Archaeologists have found evidence that standardized weights and measures were used throughout the civilization.",
+    "summary": "The Indus civilization used consistent systems of measurement.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Indus Valley Civilization",
+    "tags": [
+      "indus",
+      "weights",
+      "measures",
+      "trade"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "indus-undeciphered-script",
+    "headline": "Nobody Has Deciphered the Indus Script",
+    "body": "Despite decades of study, researchers still cannot fully read the writing system used by the Indus civilization.",
+    "summary": "The Indus script remains one of archaeology's greatest mysteries.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Indus Valley Civilization",
+    "tags": [
+      "indus",
+      "writing",
+      "mystery",
+      "archaeology"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "indus-hundreds-settlements",
+    "headline": "Archaeologists Have Found Hundreds of Indus Settlements",
+    "body": "Researchers have discovered hundreds of towns and villages connected to the Indus civilization.",
+    "summary": "The Indus civilization spread across hundreds of settlements.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Indus Valley Civilization",
+    "tags": [
+      "indus",
+      "archaeology",
+      "settlements",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "indus-early-cotton",
+    "headline": "Some of the Earliest Cotton Came From the Indus Civilization",
+    "body": "Archaeologists have discovered some of the oldest known evidence of cotton use in the Indus civilization.",
+    "summary": "Ancient Indus people were early users of cotton.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Indus Valley Civilization",
+    "tags": [
+      "indus",
+      "cotton",
+      "textiles",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "indus-mysterious-decline",
+    "headline": "Nobody Knows Exactly Why the Indus Civilization Disappeared",
+    "body": "The decline of the Indus civilization remains uncertain, and historians continue debating the causes.",
+    "summary": "The disappearance of the Indus civilization remains a mystery.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Indus Valley Civilization",
+    "tags": [
+      "indus",
+      "mystery",
+      "collapse",
+      "archaeology"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
