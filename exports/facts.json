@@ -495,5 +495,225 @@
       "mars-most-explored-world",
       "mars-once-warmer-and-wetter"
     ]
+  },
+  {
+    "id": "black-holes-not-actually-holes",
+    "headline": "Black Holes Aren't Actually Holes",
+    "body": "Despite their name, black holes aren't really holes at all. They're enormous amounts of matter packed into incredibly tiny spaces. Their gravity is so powerful that nothing, not even light, can escape once it crosses a boundary called the event horizon.",
+    "summary": "Black holes are extremely dense objects rather than actual holes.",
+    "categoryId": "space",
+    "topic": "Black Holes",
+    "tags": [
+      "space",
+      "black-holes",
+      "gravity",
+      "astrophysics",
+      "event-horizon"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "black-holes-light-cannot-escape",
+      "black-holes-event-horizon"
+    ]
+  },
+  {
+    "id": "black-holes-light-cannot-escape",
+    "headline": "Not Even Light Can Escape a Black Hole",
+    "body": "A black hole is so dense that gravity just beneath its event horizon becomes strong enough that nothing can escape its pull. Even light, the fastest thing in the universe, cannot get back out.",
+    "summary": "The gravity near a black hole is so strong that even light cannot escape.",
+    "categoryId": "space",
+    "topic": "Black Holes",
+    "tags": [
+      "space",
+      "black-holes",
+      "gravity",
+      "light",
+      "event-horizon"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "black-holes-not-actually-holes",
+      "black-holes-event-horizon"
+    ]
+  },
+  {
+    "id": "black-holes-event-horizon",
+    "headline": "The Event Horizon Isn't a Surface",
+    "body": "The event horizon is often imagined as the surface of a black hole, but it isn't a physical surface like Earth's ground or the Sun's outer layers. Instead, it's a boundary that contains all the matter making up the black hole.",
+    "summary": "The event horizon is a boundary rather than a physical surface.",
+    "categoryId": "space",
+    "topic": "Black Holes",
+    "tags": [
+      "space",
+      "black-holes",
+      "event-horizon",
+      "physics",
+      "astrophysics"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": [
+      "black-holes-light-cannot-escape",
+      "black-holes-not-actually-holes"
+    ]
+  },
+  {
+    "id": "black-holes-invisible",
+    "headline": "Black Holes Are Invisible to Telescopes",
+    "body": "Black holes don't emit or reflect light, making them effectively invisible. Scientists usually find them by studying how they affect nearby stars, gas, dust, and even space-time itself.",
+    "summary": "Scientists detect black holes by observing their effects on the universe around them.",
+    "categoryId": "space",
+    "topic": "Black Holes",
+    "tags": [
+      "space",
+      "black-holes",
+      "telescopes",
+      "astronomy",
+      "science"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "black-holes-gravitational-lensing",
+      "black-holes-gravitational-waves"
+    ]
+  },
+  {
+    "id": "black-holes-spaghettification",
+    "headline": "Spaghettification Is a Real Scientific Term",
+    "body": "Scientists actually use the term 'spaghettification' to describe what happens when matter gets too close to a black hole. The immense gravity squeezes objects horizontally while stretching them vertically, turning them into something resembling noodles.",
+    "summary": "Spaghettification is the stretching and squeezing of matter near a black hole.",
+    "categoryId": "space",
+    "topic": "Black Holes",
+    "tags": [
+      "space",
+      "black-holes",
+      "spaghettification",
+      "gravity",
+      "physics"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "black-holes-light-cannot-escape",
+      "black-holes-not-vacuum-cleaners"
+    ]
+  },
+  {
+    "id": "black-holes-spin-fast",
+    "headline": "Some Black Holes Spin More Than 1,000 Times Every Second",
+    "body": "All black holes spin, but the fastest known one, called GRS 1915+105, rotates at more than 1,000 times per second. That's thousands of times faster than the blades of a kitchen blender.",
+    "summary": "The fastest known black hole spins over 1,000 times every second.",
+    "categoryId": "space",
+    "topic": "Black Holes",
+    "tags": [
+      "space",
+      "black-holes",
+      "rotation",
+      "physics",
+      "astronomy"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "black-holes-biggest-known",
+      "black-holes-supermassive"
+    ]
+  },
+  {
+    "id": "black-holes-not-vacuum-cleaners",
+    "headline": "Black Holes Aren't Cosmic Vacuum Cleaners",
+    "body": "Despite what movies often show, black holes don't go around sucking up everything nearby. From far enough away, their gravity behaves just like any other object with the same mass.",
+    "summary": "Black holes don't indiscriminately pull in everything around them.",
+    "categoryId": "space",
+    "topic": "Black Holes",
+    "tags": [
+      "space",
+      "black-holes",
+      "gravity",
+      "myths",
+      "physics"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "black-holes-not-actually-holes",
+      "black-holes-spaghettification"
+    ]
+  },
+  {
+    "id": "black-holes-solar-system-survives",
+    "headline": "Earth Would Keep Orbiting a Black Hole Sun",
+    "body": "If the Sun were somehow replaced with a black hole of the exact same mass, the planets would continue orbiting almost exactly as they do now. The solar system would become much colder, but Earth's orbit wouldn't suddenly collapse.",
+    "summary": "Replacing the Sun with an equally massive black hole wouldn't destroy the planets' orbits.",
+    "categoryId": "space",
+    "topic": "Black Holes",
+    "tags": [
+      "space",
+      "black-holes",
+      "sun",
+      "gravity",
+      "solar-system"
+    ],
+    "readTimeSeconds": 43,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "black-holes-not-vacuum-cleaners",
+      "black-holes-light-cannot-escape"
+    ]
+  },
+  {
+    "id": "black-holes-gravitational-lensing",
+    "headline": "Black Holes Can Bend Light Like a Cosmic Magnifying Glass",
+    "body": "Black holes are so massive that they can bend and distort light coming from objects behind them. This phenomenon, known as gravitational lensing, helps scientists detect black holes that would otherwise remain invisible.",
+    "summary": "Black holes can warp light and reveal themselves through gravitational lensing.",
+    "categoryId": "space",
+    "topic": "Black Holes",
+    "tags": [
+      "space",
+      "black-holes",
+      "light",
+      "gravitational-lensing",
+      "astronomy"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "black-holes-invisible",
+      "black-holes-gravitational-waves"
+    ]
+  },
+  {
+    "id": "black-holes-supermassive",
+    "headline": "Our Galaxy Contains a Monster Black Hole",
+    "body": "Most galaxies the size of the Milky Way contain gigantic black holes at their centers. The one at the center of our own galaxy, Sagittarius A*, has a mass roughly four million times greater than the Sun.",
+    "summary": "The Milky Way contains a supermassive black hole called Sagittarius A*.",
+    "categoryId": "space",
+    "topic": "Black Holes",
+    "tags": [
+      "space",
+      "black-holes",
+      "milky-way",
+      "sagittarius-a",
+      "galaxies"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "black-holes-spin-fast",
+      "black-holes-biggest-known"
+    ]
   }
 ]
