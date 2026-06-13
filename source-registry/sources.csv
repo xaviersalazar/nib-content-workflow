@@ -66,16 +66,16 @@ Animals,Bees,National Geographic Kids,https://kids.nationalgeographic.com/animal
 Animals,Sloths,National Geographic Kids,https://kids.nationalgeographic.com/animals/mammals/facts/sloth,1,complete
 Animals,Cheetahs,National Geographic Kids,https://kids.nationalgeographic.com/animals/mammals/facts/cheetah,1,complete
 
-Ocean Life,Sharks,NOAA,https://oceanservice.noaa.gov/facts/shark.html,1,pending
-Ocean Life,Coral Reefs,NOAA,https://oceanservice.noaa.gov/facts/coral.html,1,pending
-Ocean Life,Bioluminescence,NOAA Ocean Explorer,https://oceanexplorer.noaa.gov/facts/bioluminescence.html,1,pending
-Ocean Life,Deep Sea,NOAA Ocean Exploration,https://oceanexplorer.noaa.gov/explorations/02fire/background/deepwater/deepwater.html,1,pending
-Ocean Life,Jellyfish,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-nettle,1,pending
-Ocean Life,Whales,NOAA Fisheries,https://www.fisheries.noaa.gov/species/whales,1,pending
-Ocean Life,Sea Turtles,NOAA Fisheries,https://www.fisheries.noaa.gov/species/sea-turtles,1,pending
-Ocean Life,Seahorses,National Geographic,https://kids.nationalgeographic.com/animals/fish/facts/seahorse,1,pending
-Ocean Life,Starfish,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-stars,1,pending
-Ocean Life,Ocean Currents,NOAA,https://oceanservice.noaa.gov/facts/current.html,1,pending
+Ocean Life,Sharks,Fisheries,https://www.fisheries.noaa.gov/feature-story/12-shark-facts-may-surprise-you,1,complete
+Ocean Life,Coral Reefs,NOAA,https://oceanservice.noaa.gov/facts/coral.html,1,complete
+Ocean Life,Bioluminescence,NOAA Ocean Explorer,https://oceanexplorer.noaa.gov/facts/bioluminescence.html,1,complete
+Ocean Life,Deep Sea,Smithsonian,https://ocean.si.edu/ecosystems/deep-sea/deep-sea,1,complete
+Ocean Life,Jellyfish,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-nettle,1,complete
+Ocean Life,Whales,NOAA Fisheries,https://www.fisheries.noaa.gov/whales,1,complete
+Ocean Life,Sea Turtles,NOAA Fisheries,https://www.fisheries.noaa.gov/sea-turtles,1,complete
+Ocean Life,Seahorses,National Geographic,https://kids.nationalgeographic.com/animals/fish/facts/seahorse,1,complete
+Ocean Life,Starfish,National Geographic,https://www.nationalgeographic.com/animals/invertebrates/facts/starfish-1,1,complete
+Ocean Life,Ocean Currents,NOAA,https://oceanservice.noaa.gov/facts/current.html,1,complete
 
 Human Body,Brain,NIH News in Health,https://newsinhealth.nih.gov/2012/08/your-amazing-brain,1,pending
 Human Body,Heart,NHLBI,https://www.nhlbi.nih.gov/health/heart,1,pending
