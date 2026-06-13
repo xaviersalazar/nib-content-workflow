@@ -2607,5 +2607,1607 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "galaxy-trillions-of-stars",
+    "headline": "Some Galaxies Contain Trillions of Stars",
+    "body": "The largest galaxies in the universe can contain trillions of stars held together by gravity.",
+    "summary": "Some galaxies contain trillions of stars.",
+    "categoryId": "astronomy",
+    "topic": "Galaxies",
+    "tags": [
+      "astronomy",
+      "galaxies",
+      "stars",
+      "universe"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "galaxy-black-hole-centers",
+    "headline": "Most Large Galaxies Hide Giant Black Holes",
+    "body": "Most large galaxies harbor supermassive black holes at their centers, some billions of times more massive than the Sun.",
+    "summary": "Most galaxies hide enormous black holes.",
+    "categoryId": "astronomy",
+    "topic": "Galaxies",
+    "tags": [
+      "astronomy",
+      "galaxies",
+      "black-holes",
+      "universe"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "galaxy-nearly-as-old-as-universe",
+    "headline": "Some Galaxies Are Almost as Old as the Universe",
+    "body": "Astronomers have discovered galaxies that formed shortly after the universe itself came into existence.",
+    "summary": "Some galaxies are nearly as old as the universe.",
+    "categoryId": "astronomy",
+    "topic": "Galaxies",
+    "tags": [
+      "astronomy",
+      "galaxies",
+      "universe",
+      "history"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "milky-way-width",
+    "headline": "The Milky Way Is More Than 100,000 Light-Years Wide",
+    "body": "Our home galaxy stretches over 100,000 light-years across.",
+    "summary": "The Milky Way spans over 100,000 light-years.",
+    "categoryId": "astronomy",
+    "topic": "Galaxies",
+    "tags": [
+      "astronomy",
+      "milky-way",
+      "galaxies",
+      "space"
+    ],
+    "readTimeSeconds": 32,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "milky-way-local-group",
+    "headline": "The Milky Way Lives in a Galactic Neighborhood",
+    "body": "Our galaxy is part of a community called the Local Group, surrounded by dozens of neighboring galaxies.",
+    "summary": "The Milky Way has many galactic neighbors.",
+    "categoryId": "astronomy",
+    "topic": "Galaxies",
+    "tags": [
+      "astronomy",
+      "milky-way",
+      "local-group",
+      "galaxies"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "milky-way-sky-band",
+    "headline": "The Milky Way Paints a Stripe Across the Sky",
+    "body": "Seen from Earth, our galaxy appears as a faint glowing band stretching across the night sky.",
+    "summary": "The Milky Way appears as a band in the sky.",
+    "categoryId": "astronomy",
+    "topic": "Galaxies",
+    "tags": [
+      "astronomy",
+      "milky-way",
+      "night-sky",
+      "galaxies"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cosmic-web",
+    "headline": "Galaxies Form a Giant Cosmic Web",
+    "body": "Galaxies cluster together into enormous structures called the cosmic web, spanning vast regions of the universe.",
+    "summary": "Galaxies are connected through the cosmic web.",
+    "categoryId": "astronomy",
+    "topic": "Galaxies",
+    "tags": [
+      "astronomy",
+      "galaxies",
+      "cosmic-web",
+      "universe"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dwarf-galaxy-few-stars",
+    "headline": "Some Galaxies Have Only a Few Thousand Stars",
+    "body": "Tiny dwarf galaxies can contain only a few thousand stars compared to the trillions found in larger galaxies.",
+    "summary": "Some galaxies are surprisingly small.",
+    "categoryId": "astronomy",
+    "topic": "Galaxies",
+    "tags": [
+      "astronomy",
+      "galaxies",
+      "dwarf-galaxies",
+      "stars"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "one-septillion-stars",
+    "headline": "There May Be One Septillion Stars in the Universe",
+    "body": "Astronomers estimate that the universe could contain up to one septillion stars, a number with 24 zeros.",
+    "summary": "The universe may contain one septillion stars.",
+    "categoryId": "astronomy",
+    "topic": "Stars",
+    "tags": [
+      "astronomy",
+      "stars",
+      "universe",
+      "numbers"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stars-live-trillions-years",
+    "headline": "Some Stars Can Live for Trillions of Years",
+    "body": "Certain low-mass stars burn their fuel so slowly that they could survive for trillions of years.",
+    "summary": "Some stars can outlive the current age of the universe.",
+    "categoryId": "astronomy",
+    "topic": "Stars",
+    "tags": [
+      "astronomy",
+      "stars",
+      "longevity",
+      "universe"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "massive-stars-short-lives",
+    "headline": "Some Stars Burn Out in Just Millions of Years",
+    "body": "Massive stars consume their fuel rapidly and may survive only a few million years.",
+    "summary": "Some stars live surprisingly short lives.",
+    "categoryId": "astronomy",
+    "topic": "Stars",
+    "tags": [
+      "astronomy",
+      "stars",
+      "supernovae",
+      "universe"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stellar-nurseries",
+    "headline": "Stars Are Born Inside Giant Stellar Nurseries",
+    "body": "New stars form inside vast clouds of gas and dust known as stellar nurseries.",
+    "summary": "Stars begin life inside giant nurseries.",
+    "categoryId": "astronomy",
+    "topic": "Stars",
+    "tags": [
+      "astronomy",
+      "stars",
+      "nebulae",
+      "space"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sun-halfway-life",
+    "headline": "Our Sun Is About Halfway Through Its Life",
+    "body": "The Sun is roughly midway through its long main-sequence stage.",
+    "summary": "The Sun is middle-aged.",
+    "categoryId": "astronomy",
+    "topic": "Stars",
+    "tags": [
+      "astronomy",
+      "stars",
+      "sun",
+      "time"
+    ],
+    "readTimeSeconds": 32,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stars-create-elements",
+    "headline": "Stars Help Build Future Worlds",
+    "body": "Elements produced inside stars eventually become part of future stars, planets, and living things.",
+    "summary": "Stars create ingredients for future worlds.",
+    "categoryId": "astronomy",
+    "topic": "Stars",
+    "tags": [
+      "astronomy",
+      "stars",
+      "elements",
+      "universe"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supernovae",
+    "headline": "Some Stars Die in Giant Explosions",
+    "body": "Massive stars can end their lives in spectacular explosions called supernovae.",
+    "summary": "Some stars explode when they die.",
+    "categoryId": "astronomy",
+    "topic": "Stars",
+    "tags": [
+      "astronomy",
+      "stars",
+      "supernovae",
+      "space"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dead-stars-black-holes",
+    "headline": "Dead Stars Can Become Black Holes",
+    "body": "The collapsed cores of some massive stars can eventually form black holes.",
+    "summary": "Dead stars can become black holes.",
+    "categoryId": "astronomy",
+    "topic": "Stars",
+    "tags": [
+      "astronomy",
+      "stars",
+      "black-holes",
+      "space"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "white-dwarf-earth-size",
+    "headline": "Some Dead Stars Are the Size of Earth",
+    "body": "White dwarfs are stellar remnants roughly the size of Earth, despite containing immense amounts of matter.",
+    "summary": "Some stars end up Earth-sized.",
+    "categoryId": "astronomy",
+    "topic": "Stars",
+    "tags": [
+      "astronomy",
+      "stars",
+      "white-dwarfs",
+      "space"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "constellations-stars-not-connected",
+    "headline": "The Stars in a Constellation Aren't Actually Connected",
+    "body": "Stars that appear together in a constellation may be separated by enormous distances and are not physically connected at all.",
+    "summary": "Constellations are optical patterns rather than physical groups.",
+    "categoryId": "astronomy",
+    "topic": "Constellations",
+    "tags": [
+      "astronomy",
+      "constellations",
+      "stars",
+      "night-sky"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "constellations-different-cultures",
+    "headline": "Different Cultures Invented Different Constellations",
+    "body": "People around the world imagined different shapes and stories in the stars, creating their own constellations over thousands of years.",
+    "summary": "Cultures around the world created different constellations.",
+    "categoryId": "astronomy",
+    "topic": "Constellations",
+    "tags": [
+      "astronomy",
+      "constellations",
+      "culture",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "constellations-changing-sky",
+    "headline": "The Night Sky Changes Throughout the Year",
+    "body": "Because Earth orbits the Sun, different constellations become visible as the seasons change.",
+    "summary": "The stars you see depend on the time of year.",
+    "categoryId": "astronomy",
+    "topic": "Constellations",
+    "tags": [
+      "astronomy",
+      "constellations",
+      "seasons",
+      "earth"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "constellations-big-dipper-part",
+    "headline": "The Big Dipper Isn't What Most People Think",
+    "body": "The Big Dipper is one of the most famous patterns in the sky, but it's actually just part of the larger constellation Ursa Major.",
+    "summary": "The Big Dipper is only part of a constellation.",
+    "categoryId": "astronomy",
+    "topic": "Constellations",
+    "tags": [
+      "astronomy",
+      "big-dipper",
+      "ursa-major",
+      "stars"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "constellations-meteor-showers",
+    "headline": "Meteor Showers Are Named After Constellations",
+    "body": "Meteor showers get their names from the constellations where the meteors appear to originate.",
+    "summary": "Meteor showers are linked to constellations.",
+    "categoryId": "astronomy",
+    "topic": "Constellations",
+    "tags": [
+      "astronomy",
+      "meteor-showers",
+      "constellations",
+      "night-sky"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "constellations-sailors-navigation",
+    "headline": "Sailors Used Stars as GPS for Centuries",
+    "body": "Long before modern technology, sailors navigated the oceans by using the stars.",
+    "summary": "People once relied on stars for navigation.",
+    "categoryId": "astronomy",
+    "topic": "Constellations",
+    "tags": [
+      "astronomy",
+      "navigation",
+      "history",
+      "stars"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "constellations-astronauts-navigation",
+    "headline": "NASA Astronauts Still Train to Navigate by the Stars",
+    "body": "Astronauts practice celestial navigation as a backup in case modern navigation systems fail.",
+    "summary": "Astronauts still learn ancient navigation techniques.",
+    "categoryId": "astronomy",
+    "topic": "Constellations",
+    "tags": [
+      "astronomy",
+      "nasa",
+      "astronauts",
+      "navigation"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "constellations-spacecraft-star-maps",
+    "headline": "Spacecraft Use Star Maps to Find Their Way",
+    "body": "Modern spacecraft carry star maps and compare them with images of the sky to determine their orientation.",
+    "summary": "Spacecraft navigate using the stars.",
+    "categoryId": "astronomy",
+    "topic": "Constellations",
+    "tags": [
+      "astronomy",
+      "spacecraft",
+      "stars",
+      "navigation"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "constellations-different-hemispheres",
+    "headline": "People in Different Hemispheres See Different Constellations",
+    "body": "Observers in the Northern and Southern Hemispheres see slightly different skies because Earth points them in different directions.",
+    "summary": "Your location on Earth affects which constellations you can see.",
+    "categoryId": "astronomy",
+    "topic": "Constellations",
+    "tags": [
+      "astronomy",
+      "constellations",
+      "earth",
+      "night-sky"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nebulae-star-nurseries",
+    "headline": "Some Nebulae Are Giant Star Nurseries",
+    "body": "Many nebulae are enormous regions where new stars are actively forming.",
+    "summary": "Some nebulae give birth to stars.",
+    "categoryId": "astronomy",
+    "topic": "Nebulae",
+    "tags": [
+      "astronomy",
+      "nebulae",
+      "stars",
+      "star-formation"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nebulae-dead-stars",
+    "headline": "Some Nebulae Are the Remains of Dead Stars",
+    "body": "Certain nebulae formed from gas and dust expelled by dying stars after supernova explosions.",
+    "summary": "Some nebulae are created by dying stars.",
+    "categoryId": "astronomy",
+    "topic": "Nebulae",
+    "tags": [
+      "astronomy",
+      "nebulae",
+      "supernovae",
+      "stars"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nebulae-gravity-birth",
+    "headline": "Gravity Turns Clouds Into Stars",
+    "body": "Gravity slowly pulls together gas and dust inside nebulae until baby stars begin to form.",
+    "summary": "Gravity transforms clouds into stars.",
+    "categoryId": "astronomy",
+    "topic": "Nebulae",
+    "tags": [
+      "astronomy",
+      "nebulae",
+      "gravity",
+      "star-formation"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nebulae-nearest-far-away",
+    "headline": "Even the Closest Nebula Is Incredibly Far Away",
+    "body": "The nearest known nebula, the Helix Nebula, is so distant that light from it takes about 700 years to reach Earth.",
+    "summary": "Even nearby nebulae are unimaginably far away.",
+    "categoryId": "astronomy",
+    "topic": "Nebulae",
+    "tags": [
+      "astronomy",
+      "nebulae",
+      "helix-nebula",
+      "distance"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nebulae-cosmic-mountains",
+    "headline": "Some Nebulae Look Like Giant Cosmic Mountains",
+    "body": "Images from powerful telescopes reveal towering clouds inside nebulae that resemble mountains and valleys.",
+    "summary": "Nebulae can resemble landscapes.",
+    "categoryId": "astronomy",
+    "topic": "Nebulae",
+    "tags": [
+      "astronomy",
+      "nebulae",
+      "james-webb",
+      "space"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nebulae-eyeball",
+    "headline": "One Nebula Looks Like a Giant Eyeball",
+    "body": "The Helix Nebula's appearance has earned it comparisons to a massive eye staring back from space.",
+    "summary": "The Helix Nebula resembles a giant eye.",
+    "categoryId": "astronomy",
+    "topic": "Nebulae",
+    "tags": [
+      "astronomy",
+      "helix-nebula",
+      "space",
+      "nebulae"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nebulae-webb-hidden-stars",
+    "headline": "Webb Can See Baby Stars Hidden Inside Nebulae",
+    "body": "Infrared images from the James Webb Space Telescope reveal regions of star birth that are invisible in ordinary light.",
+    "summary": "Webb can see hidden star-forming regions.",
+    "categoryId": "astronomy",
+    "topic": "Nebulae",
+    "tags": [
+      "astronomy",
+      "james-webb",
+      "nebulae",
+      "stars"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nebulae-baby-stars-center",
+    "headline": "Baby Stars Begin in the Hearts of Nebulae",
+    "body": "As gas clouds collapse under gravity, the material at their centers heats up and becomes a newborn star.",
+    "summary": "Stars begin deep inside nebulae.",
+    "categoryId": "astronomy",
+    "topic": "Nebulae",
+    "tags": [
+      "astronomy",
+      "nebulae",
+      "baby-stars",
+      "gravity"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nebulae-between-stars",
+    "headline": "Nebulae Float Between the Stars",
+    "body": "Nebulae occupy interstellar space, the vast regions that exist between stars.",
+    "summary": "Nebulae are found in the spaces between stars.",
+    "categoryId": "astronomy",
+    "topic": "Nebulae",
+    "tags": [
+      "astronomy",
+      "nebulae",
+      "interstellar-space",
+      "stars"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 7,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "moons-asteroids-have-moons",
+    "headline": "Some Asteroids Have Their Own Moons",
+    "body": "Not only planets, but even some asteroids possess their own natural satellites.",
+    "summary": "Even asteroids can have moons.",
+    "categoryId": "astronomy",
+    "topic": "Moons",
+    "tags": [
+      "astronomy",
+      "moons",
+      "asteroids",
+      "solar-system"
+    ],
+    "readTimeSeconds": 32,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "moons-pluto-charon-double-planet",
+    "headline": "Pluto and Charon Almost Form a Double Planet",
+    "body": "Pluto's largest moon, Charon, is so massive relative to Pluto that the pair nearly behaves like a double-planet system.",
+    "summary": "Pluto and Charon are unusually similar in size.",
+    "categoryId": "astronomy",
+    "topic": "Moons",
+    "tags": [
+      "astronomy",
+      "pluto",
+      "charon",
+      "moons"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "moons-stabilize-earth",
+    "headline": "Earth's Moon Helps Keep Our Planet Stable",
+    "body": "The Moon moderates Earth's wobble, helping maintain a more stable climate over long periods.",
+    "summary": "The Moon helps make Earth more livable.",
+    "categoryId": "astronomy",
+    "topic": "Moons",
+    "tags": [
+      "astronomy",
+      "moon",
+      "earth",
+      "climate"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "moons-have-atmospheres",
+    "headline": "Some Moons Have Their Own Atmospheres",
+    "body": "While many moons are airless, a few possess atmospheres of varying thickness and composition.",
+    "summary": "Not all moons are airless rocks.",
+    "categoryId": "astronomy",
+    "topic": "Moons",
+    "tags": [
+      "astronomy",
+      "moons",
+      "atmospheres",
+      "space"
+    ],
+    "readTimeSeconds": 32,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "moons-ravioli-shape",
+    "headline": "Some of Saturn's Moons Look Like Ravioli",
+    "body": "Tiny moons orbiting Saturn have strange flattened shapes that resemble pieces of ravioli.",
+    "summary": "Some moons have bizarre shapes.",
+    "categoryId": "astronomy",
+    "topic": "Moons",
+    "tags": [
+      "astronomy",
+      "saturn",
+      "moons",
+      "cassini"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "moons-uranus-literature",
+    "headline": "Uranus Names Its Moons After Literature",
+    "body": "Many of Uranus' moons are named after characters from Shakespeare and Alexander Pope.",
+    "summary": "Uranus takes moon names from literature.",
+    "categoryId": "astronomy",
+    "topic": "Moons",
+    "tags": [
+      "astronomy",
+      "uranus",
+      "moons",
+      "history"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "moons-possible-life",
+    "headline": "Some Moons Might Be Suitable for Life",
+    "body": "Scientists believe a few moons in the solar system may possess conditions that could support life.",
+    "summary": "Some moons may be habitable.",
+    "categoryId": "astronomy",
+    "topic": "Moons",
+    "tags": [
+      "astronomy",
+      "moons",
+      "life",
+      "europa"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "moons-ganymede-bigger-mercury",
+    "headline": "One Moon Is Bigger Than Mercury",
+    "body": "Jupiter's moon Ganymede is larger than the planet Mercury, making it the biggest moon in the solar system.",
+    "summary": "Ganymede is bigger than Mercury.",
+    "categoryId": "astronomy",
+    "topic": "Moons",
+    "tags": [
+      "astronomy",
+      "ganymede",
+      "jupiter",
+      "moons"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "moons-potato-shaped",
+    "headline": "Mars Has Two Potato-Shaped Moons",
+    "body": "Mars' tiny moons, Phobos and Deimos, have irregular shapes that resemble potatoes.",
+    "summary": "Mars' moons look surprisingly lumpy.",
+    "categoryId": "astronomy",
+    "topic": "Moons",
+    "tags": [
+      "astronomy",
+      "mars",
+      "phobos",
+      "deimos"
+    ],
+    "readTimeSeconds": 32,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supernova-biggest-explosion",
+    "headline": "Supernovas Are the Biggest Explosions Humans Have Ever Seen",
+    "body": "Supernovas are the most powerful explosions ever observed by humanity.",
+    "summary": "Supernovas are the universe's greatest fireworks.",
+    "categoryId": "astronomy",
+    "topic": "Supernovas",
+    "tags": [
+      "astronomy",
+      "supernovas",
+      "stars",
+      "explosions"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supernova-outshine-galaxies",
+    "headline": "Some Exploding Stars Outshine Entire Galaxies",
+    "body": "A single supernova can shine brighter than all the stars in its galaxy combined for days or months.",
+    "summary": "One star can temporarily outshine billions of others.",
+    "categoryId": "astronomy",
+    "topic": "Supernovas",
+    "tags": [
+      "astronomy",
+      "supernovas",
+      "galaxies",
+      "stars"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supernova-collapse-15-seconds",
+    "headline": "A Giant Star Can Collapse in Just Seconds",
+    "body": "The core of a massive star can collapse in roughly 15 seconds before triggering a supernova explosion.",
+    "summary": "Massive stars can die incredibly quickly.",
+    "categoryId": "astronomy",
+    "topic": "Supernovas",
+    "tags": [
+      "astronomy",
+      "supernovas",
+      "stars",
+      "physics"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supernova-created-gold",
+    "headline": "Supernovas Helped Create the Gold on Earth",
+    "body": "Heavy elements like gold were forged inside stars and distributed across space by supernovas.",
+    "summary": "Your jewelry was born in exploding stars.",
+    "categoryId": "astronomy",
+    "topic": "Supernovas",
+    "tags": [
+      "astronomy",
+      "supernovas",
+      "gold",
+      "elements"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supernova-steal-matter",
+    "headline": "Dead Stars Can Explode After Stealing From Neighbors",
+    "body": "White dwarfs can trigger supernovas after accumulating too much material from nearby companion stars.",
+    "summary": "Dead stars sometimes explode after stealing matter.",
+    "categoryId": "astronomy",
+    "topic": "Supernovas",
+    "tags": [
+      "astronomy",
+      "white-dwarfs",
+      "supernovas",
+      "stars"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supernova-create-black-holes",
+    "headline": "Supernovas Can Create Black Holes",
+    "body": "Some of the most massive stars leave behind black holes after exploding.",
+    "summary": "Exploding stars can produce black holes.",
+    "categoryId": "astronomy",
+    "topic": "Supernovas",
+    "tags": [
+      "astronomy",
+      "supernovas",
+      "black-holes",
+      "stars"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supernova-crab-nebula-history",
+    "headline": "Humans Witnessed the Birth of the Crab Nebula",
+    "body": "Observers recorded the supernova that created the Crab Nebula nearly a thousand years ago.",
+    "summary": "People saw the Crab Nebula being born.",
+    "categoryId": "astronomy",
+    "topic": "Supernovas",
+    "tags": [
+      "astronomy",
+      "crab-nebula",
+      "history",
+      "supernovas"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supernova-rare-events",
+    "headline": "Supernovas Are Surprisingly Rare",
+    "body": "Despite their immense power, supernovas occur surprisingly infrequently inside galaxies like the Milky Way.",
+    "summary": "These enormous explosions are rarer than many people realize.",
+    "categoryId": "astronomy",
+    "topic": "Supernovas",
+    "tags": [
+      "astronomy",
+      "supernovas",
+      "milky-way",
+      "stars"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supernova-white-dwarf-earth-size",
+    "headline": "Some Dead Stars Are the Size of Earth",
+    "body": "White dwarfs pack stellar mass into objects roughly the size of Earth.",
+    "summary": "Dead stars can shrink to Earth-sized objects.",
+    "categoryId": "astronomy",
+    "topic": "Supernovas",
+    "tags": [
+      "astronomy",
+      "white-dwarfs",
+      "stars",
+      "space"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supernova-cosmic-rulers",
+    "headline": "Scientists Use Exploding Stars Like Rulers",
+    "body": "Astronomers use certain supernovas to measure vast distances across the universe.",
+    "summary": "Supernovas help scientists measure the cosmos.",
+    "categoryId": "astronomy",
+    "topic": "Supernovas",
+    "tags": [
+      "astronomy",
+      "supernovas",
+      "distance",
+      "universe"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "milky-way-city-of-stars",
+    "headline": "We Live Inside a City of Stars",
+    "body": "Our solar system is just one tiny neighborhood inside the Milky Way, a galaxy containing roughly 100 billion stars.",
+    "summary": "The Milky Way is an enormous city of stars.",
+    "categoryId": "astronomy",
+    "topic": "Milky Way",
+    "tags": [
+      "astronomy",
+      "milky-way",
+      "stars",
+      "galaxies"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "milky-way-suburbs",
+    "headline": "Our Solar System Lives in the Galactic Suburbs",
+    "body": "Rather than being near the center, our solar system resides about halfway out in one of the Milky Way's quieter neighborhoods.",
+    "summary": "We're not located near the center of the Milky Way.",
+    "categoryId": "astronomy",
+    "topic": "Milky Way",
+    "tags": [
+      "astronomy",
+      "milky-way",
+      "solar-system",
+      "galaxy"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "milky-way-galactic-year",
+    "headline": "One Trip Around the Milky Way Takes 250 Million Years",
+    "body": "The Sun and the entire solar system need roughly 250 million years to complete one orbit around the galaxy.",
+    "summary": "A single galactic year lasts 250 million Earth years.",
+    "categoryId": "astronomy",
+    "topic": "Milky Way",
+    "tags": [
+      "astronomy",
+      "milky-way",
+      "time",
+      "solar-system"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "milky-way-no-photo",
+    "headline": "Nobody Has Ever Photographed the Milky Way From Outside",
+    "body": "Because we live inside the Milky Way, humanity has never captured an actual photograph of our galaxy from the outside.",
+    "summary": "We've never seen our galaxy from the outside.",
+    "categoryId": "astronomy",
+    "topic": "Milky Way",
+    "tags": [
+      "astronomy",
+      "milky-way",
+      "photography",
+      "space"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "milky-way-band-of-light",
+    "headline": "The Milky Way Appears as a Stripe Across the Sky",
+    "body": "The glowing band visible on dark nights is actually the disk of our galaxy seen from within.",
+    "summary": "The Milky Way's appearance comes from living inside it.",
+    "categoryId": "astronomy",
+    "topic": "Milky Way",
+    "tags": [
+      "astronomy",
+      "milky-way",
+      "night-sky",
+      "stars"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "milky-way-andromeda-approaching",
+    "headline": "Another Galaxy Is Heading Straight Toward Us",
+    "body": "The Andromeda Galaxy is moving toward the Milky Way and will eventually merge with it.",
+    "summary": "Andromeda is approaching the Milky Way.",
+    "categoryId": "astronomy",
+    "topic": "Milky Way",
+    "tags": [
+      "astronomy",
+      "andromeda",
+      "milky-way",
+      "galaxies"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "milky-way-andromeda-collision",
+    "headline": "The Milky Way Will Collide With Andromeda",
+    "body": "Scientists predict that the Milky Way and Andromeda galaxies will merge billions of years from now.",
+    "summary": "Our galaxy has a collision in its future.",
+    "categoryId": "astronomy",
+    "topic": "Milky Way",
+    "tags": [
+      "astronomy",
+      "andromeda",
+      "milky-way",
+      "galaxies"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "milky-way-reconstructed-shape",
+    "headline": "Astronomers Mapped a Galaxy They Can't Leave",
+    "body": "Scientists figured out the Milky Way's structure without ever seeing it from the outside by studying stars, gas, and dust.",
+    "summary": "Astronomers reconstructed our galaxy from the inside.",
+    "categoryId": "astronomy",
+    "topic": "Milky Way",
+    "tags": [
+      "astronomy",
+      "milky-way",
+      "science",
+      "galaxies"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "light-years-looking-back-time",
+    "headline": "Looking Into Space Is Looking Into the Past",
+    "body": "Because light takes time to travel, every object in space appears as it existed sometime in the past.",
+    "summary": "Astronomers are always looking backward in time.",
+    "categoryId": "astronomy",
+    "topic": "Light Years",
+    "tags": [
+      "astronomy",
+      "light-years",
+      "time",
+      "universe"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "light-years-sun-eight-minutes",
+    "headline": "The Sun We See Is Already Eight Minutes Old",
+    "body": "Sunlight takes about 8.3 minutes to reach Earth, meaning we never see the Sun exactly as it is right now.",
+    "summary": "Sunlight is already several minutes old when it reaches us.",
+    "categoryId": "astronomy",
+    "topic": "Light Years",
+    "tags": [
+      "astronomy",
+      "sun",
+      "light-years",
+      "time"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "light-years-nearest-star-past",
+    "headline": "Even Nearby Stars Are Years in the Past",
+    "body": "The nearest star beyond the Sun is over four light-years away, so we see it as it existed years ago.",
+    "summary": "Nearby stars are seen in the past.",
+    "categoryId": "astronomy",
+    "topic": "Light Years",
+    "tags": [
+      "astronomy",
+      "stars",
+      "light-years",
+      "time"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "light-years-andromeda-past",
+    "headline": "Andromeda Appears 2.5 Million Years Younger",
+    "body": "Because its light takes 2.5 million years to reach us, we see the Andromeda Galaxy as it existed long before humans evolved.",
+    "summary": "Looking at Andromeda means seeing deep into the past.",
+    "categoryId": "astronomy",
+    "topic": "Light Years",
+    "tags": [
+      "astronomy",
+      "andromeda",
+      "light-years",
+      "time"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "light-years-early-universe",
+    "headline": "Some Galaxies Are Seen Near the Dawn of Time",
+    "body": "Powerful telescopes can observe galaxies that formed only a few hundred million years after the Big Bang.",
+    "summary": "Astronomers can study the infant universe.",
+    "categoryId": "astronomy",
+    "topic": "Light Years",
+    "tags": [
+      "astronomy",
+      "big-bang",
+      "galaxies",
+      "time"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "light-years-distance-not-time",
+    "headline": "A Light-Year Measures Distance, Not Time",
+    "body": "Despite the name, a light-year is a unit of distance rather than a measure of time.",
+    "summary": "Light-years describe distance.",
+    "categoryId": "astronomy",
+    "topic": "Light Years",
+    "tags": [
+      "astronomy",
+      "light-years",
+      "distance",
+      "space"
+    ],
+    "readTimeSeconds": 32,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "light-years-farther-back",
+    "headline": "Distance Is Time Travel for Astronomers",
+    "body": "The farther away an object is, the farther back in time astronomers see when they observe it.",
+    "summary": "Greater distances reveal earlier times.",
+    "categoryId": "astronomy",
+    "topic": "Light Years",
+    "tags": [
+      "astronomy",
+      "time",
+      "light-years",
+      "universe"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "light-years-hubble-ancient-galaxies",
+    "headline": "Hubble Has Seen More Than 13 Billion Years Into the Past",
+    "body": "The Hubble Space Telescope has observed galaxies whose light has traveled for over 13 billion years.",
+    "summary": "Hubble can observe the ancient universe.",
+    "categoryId": "astronomy",
+    "topic": "Light Years",
+    "tags": [
+      "astronomy",
+      "hubble",
+      "galaxies",
+      "universe"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hubble-four-decades",
+    "headline": "Hubble Has Been Exploring Space Across Four Decades",
+    "body": "Launched in 1990, Hubble has remained active long enough to make discoveries across four different decades of scientific history.",
+    "summary": "Hubble has operated across four decades.",
+    "categoryId": "astronomy",
+    "topic": "Hubble Space Telescope",
+    "tags": [
+      "astronomy",
+      "hubble",
+      "telescope",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hubble-repaired-by-astronauts",
+    "headline": "Astronauts Repaired a Telescope in Space",
+    "body": "NASA astronauts performed multiple servicing missions to repair and upgrade Hubble while it orbited Earth.",
+    "summary": "Astronauts kept Hubble alive with space repairs.",
+    "categoryId": "astronomy",
+    "topic": "Hubble Space Telescope",
+    "tags": [
+      "astronomy",
+      "hubble",
+      "astronauts",
+      "nasa"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hubble-discovered-dark-energy",
+    "headline": "Hubble Helped Discover Dark Energy",
+    "body": "Observations made with Hubble contributed to the discovery that the universe's expansion is accelerating.",
+    "summary": "Hubble played a role in discovering dark energy.",
+    "categoryId": "astronomy",
+    "topic": "Hubble Space Telescope",
+    "tags": [
+      "astronomy",
+      "hubble",
+      "dark-energy",
+      "universe"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hubble-studies-exoplanets",
+    "headline": "Hubble Studies Planets Around Other Stars",
+    "body": "Hubble has analyzed the atmospheres and properties of planets orbiting distant stars.",
+    "summary": "Hubble investigates alien worlds.",
+    "categoryId": "astronomy",
+    "topic": "Hubble Space Telescope",
+    "tags": [
+      "astronomy",
+      "hubble",
+      "exoplanets",
+      "stars"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hubble-orbits-earth",
+    "headline": "Hubble Circles Earth Instead of the Sun",
+    "body": "Unlike Webb, Hubble travels around Earth while observing the universe.",
+    "summary": "Hubble remains close to Earth.",
+    "categoryId": "astronomy",
+    "topic": "Hubble Space Telescope",
+    "tags": [
+      "astronomy",
+      "hubble",
+      "orbit",
+      "space"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 7,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hubble-watchs-changes",
+    "headline": "Hubble Lets Scientists Watch the Universe Change",
+    "body": "Because Hubble has operated for decades, astronomers can observe changes occurring on human timescales.",
+    "summary": "Hubble allows scientists to witness cosmic change.",
+    "categoryId": "astronomy",
+    "topic": "Hubble Space Telescope",
+    "tags": [
+      "astronomy",
+      "hubble",
+      "time",
+      "universe"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hubble-iconic-images",
+    "headline": "Hubble Captured Some of History's Most Famous Images",
+    "body": "Many of the most recognizable images of space were taken by Hubble.",
+    "summary": "Hubble produced iconic views of the universe.",
+    "categoryId": "astronomy",
+    "topic": "Hubble Space Telescope",
+    "tags": [
+      "astronomy",
+      "hubble",
+      "images",
+      "space"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hubble-transformative-observatory",
+    "headline": "Hubble Changed Humanity's View of the Universe",
+    "body": "NASA considers Hubble one of the most transformative observatories ever built.",
+    "summary": "Hubble revolutionized astronomy.",
+    "categoryId": "astronomy",
+    "topic": "Hubble Space Telescope",
+    "tags": [
+      "astronomy",
+      "hubble",
+      "history",
+      "science"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hubble-webb-partnership",
+    "headline": "Hubble and Webb Work Together",
+    "body": "The two space telescopes complement one another and often study the same objects using different capabilities.",
+    "summary": "Hubble and Webb make a powerful team.",
+    "categoryId": "astronomy",
+    "topic": "Hubble Space Telescope",
+    "tags": [
+      "astronomy",
+      "hubble",
+      "webb",
+      "telescopes"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "webb-origami",
+    "headline": "Webb Had to Fold Like Origami",
+    "body": "The James Webb Space Telescope was too large to fit inside its rocket and had to unfold itself in space.",
+    "summary": "Webb deployed like a giant origami project.",
+    "categoryId": "astronomy",
+    "topic": "James Webb Space Telescope",
+    "tags": [
+      "astronomy",
+      "webb",
+      "telescope",
+      "engineering"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "webb-transformer",
+    "headline": "Engineers Compared Webb to a Transformer",
+    "body": "Because of its complex unfolding sequence, engineers joked that Webb behaves like a Transformer in space.",
+    "summary": "Webb's deployment inspired Transformer comparisons.",
+    "categoryId": "astronomy",
+    "topic": "James Webb Space Telescope",
+    "tags": [
+      "astronomy",
+      "webb",
+      "engineering",
+      "telescope"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "webb-l2-point",
+    "headline": "Webb Lives a Million Miles From Earth",
+    "body": "Webb operates near a special location called L2, roughly 1.5 million kilometers from Earth.",
+    "summary": "Webb works far beyond Earth's orbit.",
+    "categoryId": "astronomy",
+    "topic": "James Webb Space Telescope",
+    "tags": [
+      "astronomy",
+      "webb",
+      "l2",
+      "space"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "webb-spf-million",
+    "headline": "Webb's Sunshield Is Like SPF One Million",
+    "body": "NASA compares Webb's five-layer sunshield to sunscreen with an SPF of one million.",
+    "summary": "Webb carries extraordinary sun protection.",
+    "categoryId": "astronomy",
+    "topic": "James Webb Space Telescope",
+    "tags": [
+      "astronomy",
+      "webb",
+      "sunshield",
+      "engineering"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "webb-13-billion-years",
+    "headline": "Webb Can See More Than 13 Billion Years Into the Past",
+    "body": "Webb is capable of observing some of the earliest galaxies formed after the Big Bang.",
+    "summary": "Webb studies the infant universe.",
+    "categoryId": "astronomy",
+    "topic": "James Webb Space Telescope",
+    "tags": [
+      "astronomy",
+      "webb",
+      "big-bang",
+      "galaxies"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "webb-cosmic-history",
+    "headline": "Webb Studies Every Era of Cosmic History",
+    "body": "From the first galaxies to modern planetary systems, Webb investigates the entire history of the universe.",
+    "summary": "Webb explores all stages of cosmic evolution.",
+    "categoryId": "astronomy",
+    "topic": "James Webb Space Telescope",
+    "tags": [
+      "astronomy",
+      "webb",
+      "universe",
+      "history"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "webb-extends-hubble",
+    "headline": "Webb Continues Hubble's Legacy",
+    "body": "Webb builds upon discoveries made by Hubble while expanding our view deeper into the universe.",
+    "summary": "Webb extends Hubble's discoveries.",
+    "categoryId": "astronomy",
+    "topic": "James Webb Space Telescope",
+    "tags": [
+      "astronomy",
+      "webb",
+      "hubble",
+      "telescopes"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "webb-christmas-launch",
+    "headline": "Webb Launched on Christmas Day",
+    "body": "The James Webb Space Telescope began its journey into space on December 25, 2021.",
+    "summary": "Webb launched on Christmas Day.",
+    "categoryId": "astronomy",
+    "topic": "James Webb Space Telescope",
+    "tags": [
+      "astronomy",
+      "webb",
+      "launch",
+      "history"
+    ],
+    "readTimeSeconds": 33,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "webb-not-earth-orbit",
+    "headline": "Webb Doesn't Orbit Earth",
+    "body": "Unlike Hubble, Webb travels around the Sun near a special gravitational balance point.",
+    "summary": "Webb follows a very different orbit.",
+    "categoryId": "astronomy",
+    "topic": "James Webb Space Telescope",
+    "tags": [
+      "astronomy",
+      "webb",
+      "orbit",
+      "l2"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "webb-global-observatory",
+    "headline": "Webb Belongs to Scientists Around the World",
+    "body": "Astronomers worldwide use Webb to investigate mysteries throughout the universe.",
+    "summary": "Webb serves scientists around the globe.",
+    "categoryId": "astronomy",
+    "topic": "James Webb Space Telescope",
+    "tags": [
+      "astronomy",
+      "webb",
+      "astronomy",
+      "science"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
