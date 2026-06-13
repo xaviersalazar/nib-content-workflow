@@ -56,23 +56,6 @@
     "relatedFactIds": []
   },
   {
-    "id": "id",
-    "headline": "headline",
-    "body": "body",
-    "summary": "summary",
-    "categoryId": "categoryId",
-    "topic": "topic",
-    "tags": [
-      "tags"
-    ],
-    "readTimeSeconds": null,
-    "funScore": null,
-    "featured": false,
-    "relatedFactIds": [
-      "relatedFactIds"
-    ]
-  },
-  {
     "id": "venus-hotter-than-mercury",
     "headline": "Venus Is Hot Enough to Melt Lead",
     "body": "Even though Venus isn't the closest planet to the Sun, it's actually the hottest planet in the entire solar system. Its surface gets so incredibly hot that temperatures are high enough to melt lead, turning the planet into what NASA describes as an inferno.",
@@ -291,6 +274,226 @@
     "relatedFactIds": [
       "venus-hidden-surface",
       "venus-surface-mapping"
+    ]
+  },
+  {
+    "id": "mars-planet-of-robots",
+    "headline": "Mars Is Entirely Inhabited by Robots",
+    "body": "Mars is the only planet we know of that is inhabited entirely by robots. While humans have never set foot there, robotic explorers have been studying the Red Planet for decades, acting as pioneers for future astronauts.",
+    "summary": "Mars is the only known planet populated entirely by robots.",
+    "categoryId": "space",
+    "topic": "Mars",
+    "tags": [
+      "space",
+      "mars",
+      "robots",
+      "nasa",
+      "exploration"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "mars-pathfinders-for-humans",
+      "mars-most-explored-world"
+    ]
+  },
+  {
+    "id": "mars-pathfinders-for-humans",
+    "headline": "Robots Are Preparing the Way for Humans",
+    "body": "NASA's robotic explorers, including Perseverance and the Mars Reconnaissance Orbiter, are serving as pathfinders for future astronauts. Their discoveries are helping scientists understand the planet and prepare for eventual human missions.",
+    "summary": "NASA's robotic explorers are helping pave the way for future human missions to Mars.",
+    "categoryId": "space",
+    "topic": "Mars",
+    "tags": [
+      "space",
+      "mars",
+      "robots",
+      "astronauts",
+      "nasa"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": [
+      "mars-planet-of-robots",
+      "mars-humans-to-mars"
+    ]
+  },
+  {
+    "id": "mars-two-rovers-billions-of-years",
+    "headline": "Two Rovers Are Exploring Billions of Years of History",
+    "body": "NASA's Curiosity and Perseverance rovers are exploring regions about 2,300 miles apart, but together they're studying billions of years of Martian history. Their discoveries are helping scientists understand how Mars formed and changed over time.",
+    "summary": "Curiosity and Perseverance are uncovering billions of years of Martian history.",
+    "categoryId": "space",
+    "topic": "Mars",
+    "tags": [
+      "space",
+      "mars",
+      "curiosity",
+      "perseverance",
+      "history"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "mars-once-warmer-and-wetter",
+      "mars-search-for-life"
+    ]
+  },
+  {
+    "id": "mars-once-warmer-and-wetter",
+    "headline": "Mars Used to Be Warmer and Wetter",
+    "body": "Evidence collected by NASA missions suggests that billions of years ago Mars had a thicker atmosphere and was much warmer and wetter than it is today. Scientists continue studying the planet to understand how dramatically it changed.",
+    "summary": "Mars may once have been a much warmer and wetter world.",
+    "categoryId": "space",
+    "topic": "Mars",
+    "tags": [
+      "space",
+      "mars",
+      "climate",
+      "history",
+      "planetary-science"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "mars-search-for-life",
+      "mars-two-rovers-billions-of-years"
+    ]
+  },
+  {
+    "id": "mars-search-for-life",
+    "headline": "Mars May Once Have Hosted Microbial Life",
+    "body": "Scientists are investigating whether Mars was once home to ancient microbial life. Discoveries made by rovers and orbiters continue to provide clues about whether the Red Planet may have been habitable billions of years ago.",
+    "summary": "Scientists are searching for signs that ancient microbial life may once have existed on Mars.",
+    "categoryId": "space",
+    "topic": "Mars",
+    "tags": [
+      "space",
+      "mars",
+      "life",
+      "microbes",
+      "science"
+    ],
+    "readTimeSeconds": 41,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "mars-once-warmer-and-wetter",
+      "mars-two-rovers-billions-of-years"
+    ]
+  },
+  {
+    "id": "mars-ai-driving",
+    "headline": "A Rover Has Used AI to Drive on Another Planet",
+    "body": "NASA's Perseverance rover completed the first artificial intelligence-planned drives on another planet. Instead of relying entirely on human operators, generative AI helped create routes that allowed the rover to navigate more autonomously.",
+    "summary": "Perseverance became the first rover to use AI-planned driving on another planet.",
+    "categoryId": "space",
+    "topic": "Mars",
+    "tags": [
+      "space",
+      "mars",
+      "ai",
+      "perseverance",
+      "technology"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "mars-planet-of-robots",
+      "mars-pathfinders-for-humans"
+    ]
+  },
+  {
+    "id": "mars-sample-return",
+    "headline": "Perseverance Is Collecting Samples for a Round Trip",
+    "body": "The Perseverance rover is the first step in a proposed roundtrip mission that aims to bring samples from Mars back to Earth. Scientists hope these samples could answer major questions about the planet's past.",
+    "summary": "Perseverance is collecting samples that may eventually be returned to Earth.",
+    "categoryId": "space",
+    "topic": "Mars",
+    "tags": [
+      "space",
+      "mars",
+      "perseverance",
+      "samples",
+      "nasa"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "mars-search-for-life",
+      "mars-ai-driving"
+    ]
+  },
+  {
+    "id": "mars-most-explored-world",
+    "headline": "Mars Is One of the Most Explored Places in Space",
+    "body": "Mars is one of the most explored bodies in the solar system and the only planet where humans have sent rovers to explore the surface. Multiple orbiters and rovers are actively studying the Red Planet today.",
+    "summary": "Mars is one of the most explored worlds in our solar system.",
+    "categoryId": "space",
+    "topic": "Mars",
+    "tags": [
+      "space",
+      "mars",
+      "rovers",
+      "exploration",
+      "nasa"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": [
+      "mars-planet-of-robots",
+      "mars-pathfinders-for-humans"
+    ]
+  },
+  {
+    "id": "mars-humans-to-mars",
+    "headline": "Mars Is Humanity's Horizon Goal",
+    "body": "NASA considers Mars a major destination for human exploration because it is one of the few places in the solar system where life may have once existed. Studying Mars could teach us about Earth's past and whether life exists elsewhere.",
+    "summary": "Mars remains one of humanity's most important destinations for exploration.",
+    "categoryId": "space",
+    "topic": "Mars",
+    "tags": [
+      "space",
+      "mars",
+      "astronauts",
+      "life",
+      "exploration"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "mars-search-for-life",
+      "mars-pathfinders-for-humans"
+    ]
+  },
+  {
+    "id": "mars-maven-outlived-mission",
+    "headline": "A One-Year Mission Lasted More Than Eleven Years",
+    "body": "NASA's MAVEN mission was originally designed for just one year of science operations around Mars. Instead, the spacecraft spent more than eleven years studying the Martian atmosphere before the mission finally came to an end.",
+    "summary": "NASA's MAVEN spacecraft far exceeded its original mission duration.",
+    "categoryId": "space",
+    "topic": "Mars",
+    "tags": [
+      "space",
+      "mars",
+      "maven",
+      "spacecraft",
+      "atmosphere"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": [
+      "mars-most-explored-world",
+      "mars-once-warmer-and-wetter"
     ]
   }
 ]
