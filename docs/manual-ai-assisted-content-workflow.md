@@ -327,13 +327,18 @@ id,categoryId,topic,headline,body,summary,tags,readTimeSeconds,funScore,featured
 
 ## ID
 
-Use stable slug format.
+Use the format `{topic}-{short-desc}`.
+
+- `topic` — lowercased, hyphenated version of the topic name (e.g. `black-holes`, `dwarf-planets`)
+- `short-desc` — a concise, hyphenated description unique to this fact (e.g. `spaghettification`, `spin-1000-times-per-second`)
 
 Example:
 
 ```text
 black-holes-spaghettification
 ```
+
+Once an `id` is assigned and exported, never change it. Downstream references and `relatedFactIds` depend on it remaining stable.
 
 ---
 

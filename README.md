@@ -107,19 +107,19 @@ id,categoryId,topic,headline,body,summary,tags,readTimeSeconds,funScore,featured
 
 Notes:
 
-| Column            | Description                                                                 |
-| ----------------- | --------------------------------------------------------------------------- |
-| `id`              | Unique slug identifier for the fact (e.g. `black-holes-spaghettification`). |
-| `categoryId`      | Lowercase category slug (e.g. `space`).                                     |
-| `topic`           | Human-readable topic name (e.g. `Black Holes`).                             |
-| `headline`        | The fact's title as it appears in the app.                                  |
-| `body`            | Full fact text. Wrap in double quotes if it contains commas.                |
-| `summary`         | One-sentence summary of the fact.                                           |
-| `tags`            | Comma-separated list of tags (e.g. `space,gravity,physics`).                |
-| `readTimeSeconds` | Estimated read time as a whole number of seconds.                           |
-| `funScore`        | Engagement score from 1–10.                                                 |
-| `featured`        | `true` or `false` — whether the fact is featured.                           |
-| `relatedFactIds`  | Comma-separated list of related fact `id` values. Leave blank if none.      |
+| Column            | Description                                                                                                                                                                                                                         |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `id`              | Unique slug in the format `{topic}-{short-desc}` (e.g. `black-holes-spaghettification`). `topic` is the lowercased, hyphenated topic name; `short-desc` is a concise hyphenated description of the fact. Once set, never change it. |
+| `categoryId`      | Lowercase category slug (e.g. `space`).                                                                                                                                                                                             |
+| `topic`           | Human-readable topic name (e.g. `Black Holes`).                                                                                                                                                                                     |
+| `headline`        | The fact's title as it appears in the app.                                                                                                                                                                                          |
+| `body`            | Full fact text. Wrap in double quotes if it contains commas.                                                                                                                                                                        |
+| `summary`         | One-sentence summary of the fact.                                                                                                                                                                                                   |
+| `tags`            | Comma-separated list of tags (e.g. `space,gravity,physics`).                                                                                                                                                                        |
+| `readTimeSeconds` | Estimated read time as a whole number of seconds.                                                                                                                                                                                   |
+| `funScore`        | Engagement score from 1–10.                                                                                                                                                                                                         |
+| `featured`        | `true` or `false` — whether the fact is featured.                                                                                                                                                                                   |
+| `relatedFactIds`  | Comma-separated list of related fact `id` values. Leave blank if none.                                                                                                                                                              |
 
 ## Recommended Workflow
 
