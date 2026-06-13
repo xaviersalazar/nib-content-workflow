@@ -14,14 +14,9 @@
       "physics"
     ],
     "readTimeSeconds": 40,
-    "difficulty": "easy",
     "funScore": 9,
     "featured": false,
-    "evergreen": true,
-    "relatedFactIds": [],
-    "sourceUrls": [
-      "https://science.nasa.gov/universe/black-holes/"
-    ]
+    "relatedFactIds": []
   },
   {
     "id": "black-holes-spin-1000-times-per-second",
@@ -37,14 +32,9 @@
       "universe"
     ],
     "readTimeSeconds": 38,
-    "difficulty": "easy",
     "funScore": 8,
     "featured": false,
-    "evergreen": true,
-    "relatedFactIds": [],
-    "sourceUrls": [
-      "https://science.nasa.gov/universe/black-holes/"
-    ]
+    "relatedFactIds": []
   },
   {
     "id": "black-holes-gravity-same-as-sun",
@@ -61,13 +51,246 @@
       "science"
     ],
     "readTimeSeconds": 45,
-    "difficulty": "easy",
     "funScore": 9,
     "featured": false,
-    "evergreen": true,
-    "relatedFactIds": [],
-    "sourceUrls": [
-      "https://science.nasa.gov/universe/black-holes/"
+    "relatedFactIds": []
+  },
+  {
+    "id": "id",
+    "headline": "headline",
+    "body": "body",
+    "summary": "summary",
+    "categoryId": "categoryId",
+    "topic": "topic",
+    "tags": [
+      "tags"
+    ],
+    "readTimeSeconds": null,
+    "funScore": null,
+    "featured": false,
+    "relatedFactIds": [
+      "relatedFactIds"
+    ]
+  },
+  {
+    "id": "venus-hotter-than-mercury",
+    "headline": "Venus Is Hot Enough to Melt Lead",
+    "body": "Even though Venus isn't the closest planet to the Sun, it's actually the hottest planet in the entire solar system. Its surface gets so incredibly hot that temperatures are high enough to melt lead, turning the planet into what NASA describes as an inferno.",
+    "summary": "Venus is the hottest planet in the solar system and can melt lead.",
+    "categoryId": "space",
+    "topic": "Venus",
+    "tags": [
+      "space",
+      "venus",
+      "solar-system",
+      "planets",
+      "temperature"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "venus-cloud-covered-world",
+      "venus-hidden-surface",
+      "venus-volcanic-history"
+    ]
+  },
+  {
+    "id": "venus-cloud-covered-world",
+    "headline": "Our Closest Neighbor Is Anything but Friendly",
+    "body": "Venus is Earth's nearest planetary neighbor, but visiting it would be anything but welcoming. The planet is wrapped in thick clouds and hides a surface so extreme that ordinary metals like lead would melt there.",
+    "summary": "Venus is Earth's closest planetary neighbor but has an incredibly hostile environment.",
+    "categoryId": "space",
+    "topic": "Venus",
+    "tags": [
+      "space",
+      "venus",
+      "planets",
+      "solar-system",
+      "clouds"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": [
+      "venus-hotter-than-mercury",
+      "venus-hidden-surface"
+    ]
+  },
+  {
+    "id": "venus-first-planetary-visit",
+    "headline": "Venus Hosted Humanity's First Planetary Visit",
+    "body": "Humans reached Venus surprisingly early in the Space Age. On December 14, 1962, NASA's Mariner 2 spacecraft became the first spacecraft ever to successfully visit another planet when it flew past Venus.",
+    "summary": "Mariner 2 made the first successful visit to another planet in 1962.",
+    "categoryId": "space",
+    "topic": "Venus",
+    "tags": [
+      "space",
+      "venus",
+      "nasa",
+      "spacecraft",
+      "history"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "venus-future-missions",
+      "venus-exploration-challenges"
+    ]
+  },
+  {
+    "id": "venus-exploration-challenges",
+    "headline": "Exploring Venus Has Never Been Easy",
+    "body": "Dozens of spacecraft have been launched toward Venus over the years, but not every mission managed to succeed, showing just how challenging it can be to study our neighboring world.",
+    "summary": "Many missions have attempted to explore Venus but not all have succeeded.",
+    "categoryId": "space",
+    "topic": "Venus",
+    "tags": [
+      "space",
+      "venus",
+      "nasa",
+      "spacecraft",
+      "exploration"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 7,
+    "featured": false,
+    "relatedFactIds": [
+      "venus-first-planetary-visit",
+      "venus-future-missions"
+    ]
+  },
+  {
+    "id": "venus-mariner-10-images",
+    "headline": "Mariner 10 Captured Venus While Leaving",
+    "body": "One of the first close-up looks at Venus came from NASA's Mariner 10 spacecraft. As the probe sped away from the planet, it captured images that helped reveal what our cloud-covered neighbor looks like from space.",
+    "summary": "Mariner 10 photographed Venus while flying away from the planet.",
+    "categoryId": "space",
+    "topic": "Venus",
+    "tags": [
+      "space",
+      "venus",
+      "mariner-10",
+      "nasa",
+      "images"
+    ],
+    "readTimeSeconds": 34,
+    "funScore": 7,
+    "featured": false,
+    "relatedFactIds": [
+      "venus-hidden-surface",
+      "venus-surface-mapping"
+    ]
+  },
+  {
+    "id": "venus-volcanic-history",
+    "headline": "Venus Bears the Marks of Volcanoes and Impacts",
+    "body": "Scientists have uncovered evidence that Venus has experienced both volcanic activity and asteroid impacts. Images from NASA's Magellan mission show areas where volcanic layers and impact craters overlap, revealing a complicated history written across the planet's surface.",
+    "summary": "Images show that Venus has been shaped by both volcanoes and asteroid impacts.",
+    "categoryId": "space",
+    "topic": "Venus",
+    "tags": [
+      "space",
+      "venus",
+      "volcanoes",
+      "craters",
+      "magellan"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "venus-surface-mapping",
+      "venus-hotter-than-mercury"
+    ]
+  },
+  {
+    "id": "venus-surface-mapping",
+    "headline": "Multiple Spacecraft Helped Reveal Venus",
+    "body": "Much of what we know about Venus's surface comes from combining information gathered by different spacecraft. NASA created detailed views of the planet using data collected by both the Magellan spacecraft and the Pioneer Venus Orbiter.",
+    "summary": "Scientists combined data from multiple spacecraft to map Venus's surface.",
+    "categoryId": "space",
+    "topic": "Venus",
+    "tags": [
+      "space",
+      "venus",
+      "magellan",
+      "pioneer-venus",
+      "nasa"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": [
+      "venus-volcanic-history",
+      "venus-mariner-10-images"
+    ]
+  },
+  {
+    "id": "venus-future-missions",
+    "headline": "NASA Is Sending Two More Missions to Venus",
+    "body": "Venus has been studied for decades, and NASA isn't finished with it yet. The agency is currently developing two new missions called VERITAS and DAVINCI, which are designed to uncover even more secrets about the mysterious world.",
+    "summary": "NASA is developing the VERITAS and DAVINCI missions to study Venus.",
+    "categoryId": "space",
+    "topic": "Venus",
+    "tags": [
+      "space",
+      "venus",
+      "nasa",
+      "veritas",
+      "davinci"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "venus-first-planetary-visit",
+      "venus-exploration-challenges"
+    ]
+  },
+  {
+    "id": "venus-hidden-surface",
+    "headline": "Venus Hides an Inferno Beneath Its Clouds",
+    "body": "Venus may look smooth and peaceful from space because of its thick cloud cover, but beneath those clouds lies a harsh world with extreme temperatures and a landscape shaped by volcanoes and ancient impacts.",
+    "summary": "Venus's calm appearance hides a scorching and violent world underneath.",
+    "categoryId": "space",
+    "topic": "Venus",
+    "tags": [
+      "space",
+      "venus",
+      "clouds",
+      "volcanoes",
+      "temperature"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "venus-hotter-than-mercury",
+      "venus-volcanic-history"
+    ]
+  },
+  {
+    "id": "venus-centuries-of-mystery",
+    "headline": "Thick Clouds Kept Venus a Mystery for Centuries",
+    "body": "Despite being one of the easiest planets to spot in the sky, Venus remained mysterious for centuries because its dense blanket of clouds hides the surface below. It took spacecraft missions to finally begin revealing what was underneath.",
+    "summary": "Spacecraft were needed to uncover the hidden surface of Venus.",
+    "categoryId": "space",
+    "topic": "Venus",
+    "tags": [
+      "space",
+      "venus",
+      "history",
+      "clouds",
+      "spacecraft"
+    ],
+    "readTimeSeconds": 41,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": [
+      "venus-hidden-surface",
+      "venus-surface-mapping"
     ]
   }
 ]
