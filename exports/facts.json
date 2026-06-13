@@ -56,6 +56,28 @@
     "relatedFactIds": []
   },
   {
+    "id": "black-holes-spin-fast",
+    "headline": "Some Black Holes Spin More Than 1,000 Times Every Second",
+    "body": "All black holes spin, but the fastest known one, GRS 1915+105, rotates more than 1,000 times per second. Even among black holes, that makes it an extreme cosmic object.",
+    "summary": "The fastest known black hole spins over 1,000 times every second.",
+    "categoryId": "space",
+    "topic": "Black Holes",
+    "tags": [
+      "space",
+      "black-holes",
+      "rotation",
+      "physics",
+      "astronomy"
+    ],
+    "readTimeSeconds": 37,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "black-holes-supermassive",
+      "black-holes-light-cannot-escape"
+    ]
+  },
+  {
     "id": "venus-hotter-than-mercury",
     "headline": "Venus Is Hot Enough to Melt Lead",
     "body": "Even though Venus isn't the closest planet to the Sun, it's actually the hottest planet in the entire solar system. Its surface gets so incredibly hot that temperatures are high enough to melt lead, turning the planet into what NASA describes as an inferno.",
@@ -607,28 +629,6 @@
     ]
   },
   {
-    "id": "black-holes-spin-fast",
-    "headline": "Some Black Holes Spin More Than 1,000 Times Every Second",
-    "body": "All black holes spin, but the fastest known one, called GRS 1915+105, rotates at more than 1,000 times per second. That's thousands of times faster than the blades of a kitchen blender.",
-    "summary": "The fastest known black hole spins over 1,000 times every second.",
-    "categoryId": "space",
-    "topic": "Black Holes",
-    "tags": [
-      "space",
-      "black-holes",
-      "rotation",
-      "physics",
-      "astronomy"
-    ],
-    "readTimeSeconds": 37,
-    "funScore": 10,
-    "featured": false,
-    "relatedFactIds": [
-      "black-holes-biggest-known",
-      "black-holes-supermassive"
-    ]
-  },
-  {
     "id": "black-holes-not-vacuum-cleaners",
     "headline": "Black Holes Aren't Cosmic Vacuum Cleaners",
     "body": "Despite what movies often show, black holes don't go around sucking up everything nearby. From far enough away, their gravity behaves just like any other object with the same mass.",
@@ -739,28 +739,6 @@
     ]
   },
   {
-    "id": "asteroids-main-belt",
-    "headline": "Most Asteroids Live Between Mars and Jupiter",
-    "body": "Most known asteroids orbit the Sun in a region called the main asteroid belt, located between Mars and Jupiter. This vast area contains millions of rocky objects left over from the solar system's formation.",
-    "summary": "Most asteroids are found in the main asteroid belt between Mars and Jupiter.",
-    "categoryId": "space",
-    "topic": "Asteroids",
-    "tags": [
-      "space",
-      "asteroids",
-      "main-belt",
-      "mars",
-      "jupiter"
-    ],
-    "readTimeSeconds": 38,
-    "funScore": 8,
-    "featured": false,
-    "relatedFactIds": [
-      "asteroids-older-than-earth",
-      "asteroids-size-range"
-    ]
-  },
-  {
     "id": "asteroids-less-mass-than-moon",
     "headline": "All the Asteroids Together Weigh Less Than the Moon",
     "body": "There are millions of asteroids in our solar system, but if you combined all of them into one object, their total mass would still be less than that of Earth's Moon.",
@@ -805,28 +783,6 @@
     ]
   },
   {
-    "id": "asteroids-dart-changed-orbit",
-    "headline": "Humans Have Successfully Moved an Asteroid",
-    "body": "NASA's DART spacecraft intentionally crashed into the asteroid moonlet Dimorphos and successfully changed its orbit. It marked the first time humanity deliberately altered the motion of a celestial object.",
-    "summary": "NASA's DART mission proved humans can change an asteroid's orbit.",
-    "categoryId": "space",
-    "topic": "Asteroids",
-    "tags": [
-      "space",
-      "asteroids",
-      "dart",
-      "planetary-defense",
-      "nasa"
-    ],
-    "readTimeSeconds": 42,
-    "funScore": 10,
-    "featured": false,
-    "relatedFactIds": [
-      "asteroids-planetary-defense",
-      "asteroids-near-earth-tracking"
-    ]
-  },
-  {
     "id": "asteroids-planetary-defense",
     "headline": "NASA Has a Planetary Defense Office",
     "body": "NASA operates a Planetary Defense Coordination Office whose job is to find, track, and better understand asteroids and comets that could pose an impact hazard to Earth.",
@@ -846,6 +802,50 @@
     "relatedFactIds": [
       "asteroids-dart-changed-orbit",
       "asteroids-near-earth-tracking"
+    ]
+  },
+  {
+    "id": "asteroids-dart-changed-orbit",
+    "headline": "NASA Changed an Asteroid's Orbit on Purpose",
+    "body": "NASA's DART spacecraft intentionally crashed into the asteroid moonlet Dimorphos. Later research showed the impact changed the orbit of the asteroid system, proving spacecraft can alter the motion of small worlds.",
+    "summary": "NASA's DART mission changed the orbit of an asteroid system.",
+    "categoryId": "space",
+    "topic": "Asteroids",
+    "tags": [
+      "space",
+      "asteroids",
+      "dart",
+      "planetary-defense",
+      "nasa"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "asteroids-planetary-defense",
+      "asteroids-near-earth-tracking"
+    ]
+  },
+  {
+    "id": "asteroids-main-belt",
+    "headline": "Most Asteroids Live Between Mars and Jupiter",
+    "body": "Most asteroids orbit the Sun in a region called the main asteroid belt, located between Mars and Jupiter. It is the solar system's best-known gathering place for rocky leftovers from planetary formation.",
+    "summary": "Most asteroids are found in the main asteroid belt between Mars and Jupiter.",
+    "categoryId": "space",
+    "topic": "Asteroids",
+    "tags": [
+      "space",
+      "asteroids",
+      "main-belt",
+      "mars",
+      "jupiter"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": [
+      "asteroids-older-than-earth",
+      "asteroids-size-range"
     ]
   },
   {
@@ -889,50 +889,6 @@
     "featured": false,
     "relatedFactIds": [
       "asteroids-older-than-earth",
-      "asteroids-dart-changed-orbit"
-    ]
-  },
-  {
-    "id": "asteroids-named-minor-planets",
-    "headline": "Asteroids Are Sometimes Called Minor Planets",
-    "body": "Astronomers sometimes refer to asteroids as minor planets. Although they are much smaller than planets, they are still recognized as independent objects orbiting the Sun.",
-    "summary": "Asteroids are also known as minor planets.",
-    "categoryId": "space",
-    "topic": "Asteroids",
-    "tags": [
-      "space",
-      "asteroids",
-      "minor-planets",
-      "astronomy",
-      "science"
-    ],
-    "readTimeSeconds": 36,
-    "funScore": 7,
-    "featured": false,
-    "relatedFactIds": [
-      "asteroids-main-belt",
-      "asteroids-size-range"
-    ]
-  },
-  {
-    "id": "asteroids-bennu-mystery",
-    "headline": "One Asteroid Completely Surprised NASA",
-    "body": "Scientists expected asteroid Bennu to have a relatively smooth surface, but when NASA's OSIRIS-REx spacecraft arrived, it found an unexpectedly rugged landscape covered with rocks and boulders.",
-    "summary": "Asteroid Bennu turned out to be far rougher than scientists expected.",
-    "categoryId": "space",
-    "topic": "Asteroids",
-    "tags": [
-      "space",
-      "asteroids",
-      "bennu",
-      "osiris-rex",
-      "nasa"
-    ],
-    "readTimeSeconds": 40,
-    "funScore": 9,
-    "featured": false,
-    "relatedFactIds": [
-      "asteroids-robotic-exploration",
       "asteroids-dart-changed-orbit"
     ]
   },
@@ -999,28 +955,6 @@
     "featured": false,
     "relatedFactIds": [
       "exoplanets-strange-worlds",
-      "exoplanets-billions-exist"
-    ]
-  },
-  {
-    "id": "exoplanets-closest-four-light-years",
-    "headline": "The Closest Known Exoplanet Is Four Light-Years Away",
-    "body": "Proxima Centauri b, the nearest known exoplanet to Earth, is located about four light-years away. Even at that relatively close distance, reaching it with current technology would take thousands of years.",
-    "summary": "The nearest known exoplanet is about four light-years from Earth.",
-    "categoryId": "space",
-    "topic": "Exoplanets",
-    "tags": [
-      "space",
-      "exoplanets",
-      "proxima-centauri",
-      "distance",
-      "astronomy"
-    ],
-    "readTimeSeconds": 40,
-    "funScore": 9,
-    "featured": false,
-    "relatedFactIds": [
-      "exoplanets-trappist-seven-worlds",
       "exoplanets-billions-exist"
     ]
   },
@@ -1113,6 +1047,28 @@
     ]
   },
   {
+    "id": "exoplanets-closest-four-light-years",
+    "headline": "The Closest Known Exoplanet Is Still Four Light-Years Away",
+    "body": "Proxima Centauri b is the closest known exoplanet to Earth, but it is still about four light-years away. Even our nearest known alien world is separated from us by an enormous cosmic distance.",
+    "summary": "The nearest known exoplanet is about four light-years from Earth.",
+    "categoryId": "space",
+    "topic": "Exoplanets",
+    "tags": [
+      "space",
+      "exoplanets",
+      "proxima-centauri",
+      "distance",
+      "astronomy"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "exoplanets-trappist-seven-worlds",
+      "exoplanets-billions-exist"
+    ]
+  },
+  {
     "id": "exoplanets-billions-exist",
     "headline": "Billions of Alien Worlds Are Still Waiting to Be Found",
     "body": "Although scientists have confirmed more than 6,000 exoplanets, they estimate billions more remain undiscovered. Every new detection helps researchers understand how common worlds like Earth may be.",
@@ -1176,6 +1132,28 @@
     "relatedFactIds": [
       "comets-million-mile-tails",
       "comets-giant-heads"
+    ]
+  },
+  {
+    "id": "comets-oort-cloud",
+    "headline": "The Oort Cloud May Hold Countless Comets",
+    "body": "NASA says there are likely billions of comets orbiting the Sun in the Kuiper Belt and the even more distant Oort Cloud. Most of these icy objects remain far beyond the familiar planets.",
+    "summary": "The distant Oort Cloud may contain huge numbers of comets.",
+    "categoryId": "space",
+    "topic": "Comets",
+    "tags": [
+      "space",
+      "comets",
+      "oort-cloud",
+      "kuiper-belt",
+      "solar-system"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "comets-billions-exist",
+      "comets-interstellar-visitors"
     ]
   },
   {
@@ -1245,28 +1223,6 @@
     ]
   },
   {
-    "id": "comets-oort-cloud",
-    "headline": "The Oort Cloud May Contain an Enormous Cosmic Reservoir",
-    "body": "Far beyond Pluto lies the hypothetical Oort Cloud, a vast region thought to contain countless icy objects. Many long-period comets are believed to originate from this distant reservoir.",
-    "summary": "The Oort Cloud is believed to be the source of many comets.",
-    "categoryId": "space",
-    "topic": "Comets",
-    "tags": [
-      "space",
-      "comets",
-      "oort-cloud",
-      "astronomy",
-      "solar-system"
-    ],
-    "readTimeSeconds": 39,
-    "funScore": 9,
-    "featured": false,
-    "relatedFactIds": [
-      "comets-billions-exist",
-      "comets-long-period"
-    ]
-  },
-  {
     "id": "comets-spin-reversal",
     "headline": "A Comet Was Seen Reversing Its Spin for the First Time",
     "body": "Using the Hubble Space Telescope, astronomers discovered the first known comet whose rotation slowed down and then reversed direction. It was the first time such behavior had ever been observed.",
@@ -1308,50 +1264,6 @@
     "relatedFactIds": [
       "comets-spin-reversal",
       "comets-billions-exist"
-    ]
-  },
-  {
-    "id": "comets-shoemaker-jupiter",
-    "headline": "A Comet Once Crashed Into Jupiter",
-    "body": "Comet Shoemaker-Levy 9 famously collided with Jupiter in 1994. The impacts left enormous scars in the planet's atmosphere and provided astronomers with a rare opportunity to observe a planetary collision.",
-    "summary": "Scientists witnessed a comet collide with Jupiter in 1994.",
-    "categoryId": "space",
-    "topic": "Comets",
-    "tags": [
-      "space",
-      "comets",
-      "jupiter",
-      "shoemaker-levy",
-      "astronomy"
-    ],
-    "readTimeSeconds": 40,
-    "funScore": 10,
-    "featured": false,
-    "relatedFactIds": [
-      "comets-interstellar-visitors",
-      "comets-million-mile-tails"
-    ]
-  },
-  {
-    "id": "comets-source-of-meteors",
-    "headline": "Some Meteor Showers Come From Comets",
-    "body": "Meteor showers such as the Perseids are caused by Earth passing through streams of debris left behind by comets. Tiny particles burn up in our atmosphere, creating shooting stars.",
-    "summary": "Many meteor showers are created by debris left behind by comets.",
-    "categoryId": "space",
-    "topic": "Comets",
-    "tags": [
-      "space",
-      "comets",
-      "meteors",
-      "perseids",
-      "astronomy"
-    ],
-    "readTimeSeconds": 39,
-    "funScore": 10,
-    "featured": false,
-    "relatedFactIds": [
-      "comets-shoemaker-jupiter",
-      "comets-million-mile-tails"
     ]
   },
   {
@@ -1434,25 +1346,6 @@
     "relatedFactIds": []
   },
   {
-    "id": "dwarf-planets-haumea-fast-spin",
-    "headline": "Haumea Is One of the Fastest-Spinning Worlds Known",
-    "body": "Haumea rotates so quickly that its shape has been stretched into an oval rather than a sphere, making it one of the strangest objects in the solar system.",
-    "summary": "Haumea spins so fast that it is no longer spherical.",
-    "categoryId": "space",
-    "topic": "Dwarf Planets",
-    "tags": [
-      "space",
-      "haumea",
-      "dwarf-planets",
-      "rotation",
-      "astronomy"
-    ],
-    "readTimeSeconds": 38,
-    "funScore": 10,
-    "featured": false,
-    "relatedFactIds": []
-  },
-  {
     "id": "dwarf-planets-makemake-bright",
     "headline": "Makemake Is the Second-Brightest Object in the Kuiper Belt",
     "body": "Makemake is one of the brightest objects beyond Neptune and is second only to Pluto in brightness among known Kuiper Belt dwarf planets.",
@@ -1510,6 +1403,50 @@
     "relatedFactIds": []
   },
   {
+    "id": "dwarf-planets-haumea-fast-spin",
+    "headline": "Haumea Is One of the Fastest-Rotating Large Objects in the Solar System",
+    "body": "Haumea stands out because it is one of the fastest rotating large objects in our solar system. Among dwarf planets, that makes it one of the strangest worlds on NASA's list.",
+    "summary": "Haumea is one of the fastest rotating large objects in the solar system.",
+    "categoryId": "space",
+    "topic": "Dwarf Planets",
+    "tags": [
+      "space",
+      "haumea",
+      "dwarf-planets",
+      "rotation",
+      "astronomy"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": [
+      "dwarf-planets-hundreds-more",
+      "dwarf-planets-pluto-not-alone"
+    ]
+  },
+  {
+    "id": "dwarf-planets-eris-size",
+    "headline": "Eris Is One of the Largest Known Dwarf Planets",
+    "body": "Eris is one of the largest known dwarf planets in our solar system. Its size makes it one of the major worlds in the same category as Pluto, Ceres, Haumea, and Makemake.",
+    "summary": "Eris is one of the largest known dwarf planets.",
+    "categoryId": "space",
+    "topic": "Dwarf Planets",
+    "tags": [
+      "space",
+      "eris",
+      "dwarf-planets",
+      "pluto",
+      "astronomy"
+    ],
+    "readTimeSeconds": 38,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": [
+      "dwarf-planets-only-five-known",
+      "dwarf-planets-hundreds-more"
+    ]
+  },
+  {
     "id": "dwarf-planets-nearly-planets",
     "headline": "Dwarf Planets Are Surprisingly Similar to Regular Planets",
     "body": "Dwarf planets orbit the Sun and are nearly round, making them very similar to planets except for one key requirement involving their orbital neighborhoods.",
@@ -1525,25 +1462,6 @@
     ],
     "readTimeSeconds": 37,
     "funScore": 8,
-    "featured": false,
-    "relatedFactIds": []
-  },
-  {
-    "id": "dwarf-planets-eris-size",
-    "headline": "Eris Is One of the Largest Dwarf Planets Ever Found",
-    "body": "Eris is among the largest known dwarf planets and its discovery helped spark the debate that led to Pluto's reclassification.",
-    "summary": "The discovery of Eris helped redefine what a planet is.",
-    "categoryId": "space",
-    "topic": "Dwarf Planets",
-    "tags": [
-      "space",
-      "eris",
-      "dwarf-planets",
-      "pluto",
-      "astronomy"
-    ],
-    "readTimeSeconds": 38,
-    "funScore": 10,
     "featured": false,
     "relatedFactIds": []
   },
@@ -1643,25 +1561,6 @@
     "relatedFactIds": []
   },
   {
-    "id": "jupiter-ninety-five-moons",
-    "headline": "Jupiter Has 95 Officially Recognized Moons",
-    "body": "The International Astronomical Union currently recognizes 95 moons orbiting Jupiter, more than any other planet except Saturn.",
-    "summary": "Jupiter has an enormous family of moons.",
-    "categoryId": "space",
-    "topic": "Jupiter",
-    "tags": [
-      "space",
-      "jupiter",
-      "moons",
-      "solar-system",
-      "astronomy"
-    ],
-    "readTimeSeconds": 36,
-    "funScore": 10,
-    "featured": false,
-    "relatedFactIds": []
-  },
-  {
     "id": "jupiter-thousands-small-objects",
     "headline": "Jupiter Is Surrounded by Thousands of Smaller Objects",
     "body": "Beyond its moons, Jupiter's gravitational pull controls countless asteroids and smaller objects that orbit alongside the giant planet.",
@@ -1736,6 +1635,28 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "jupiter-ninety-five-moons",
+    "headline": "Jupiter Has 95 Officially Recognized Moons",
+    "body": "Jupiter has 95 moons officially recognized by the International Astronomical Union. That number only hints at how complex Jupiter's system of moons, rings, and small orbiting objects really is.",
+    "summary": "Jupiter has 95 officially recognized moons.",
+    "categoryId": "space",
+    "topic": "Jupiter",
+    "tags": [
+      "space",
+      "jupiter",
+      "moons",
+      "solar-system",
+      "astronomy"
+    ],
+    "readTimeSeconds": 36,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": [
+      "jupiter-four-galilean-moons",
+      "jupiter-auroras-moons"
+    ]
   },
   {
     "id": "jupiter-auroras-moons",
