@@ -77,16 +77,16 @@ Ocean Life,Seahorses,National Geographic,https://kids.nationalgeographic.com/ani
 Ocean Life,Starfish,National Geographic,https://www.nationalgeographic.com/animals/invertebrates/facts/starfish-1,1,complete
 Ocean Life,Ocean Currents,NOAA,https://oceanservice.noaa.gov/facts/current.html,1,complete
 
-Human Body,Brain,NIH News in Health,https://newsinhealth.nih.gov/2012/08/your-amazing-brain,1,pending
-Human Body,Heart,NHLBI,https://www.nhlbi.nih.gov/health/heart,1,pending
-Human Body,Skeletal System,Cleveland Clinic,https://my.clevelandclinic.org/health/body/24145-skeletal-system,1,pending
-Human Body,Muscular System,Cleveland Clinic,https://my.clevelandclinic.org/health/body/21887-muscular-system,1,pending
-Human Body,Eyes,NIH News in Health,https://newsinhealth.nih.gov/2022/08/keeping-eye-health,1,pending
-Human Body,Blood,NHLBI,https://www.nhlbi.nih.gov/health/blood,1,pending
-Human Body,Lungs,NHLBI,https://www.nhlbi.nih.gov/health/lungs,1,pending
-Human Body,DNA,Britannica,https://www.britannica.com/science/DNA,1,pending
-Human Body,Immune System,Britannica,https://www.britannica.com/science/immune-system,1,pending
-Human Body,Skin,Britannica,https://www.britannica.com/science/skin,1,pending
+Human Body,Brain,NIH News in Health,https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain,1,complete
+Human Body,Heart,NHLBI,https://www.nhlbi.nih.gov/health/heart,1,complete
+Human Body,Skeletal System,Cleveland Clinic,https://my.clevelandclinic.org/health/body/21048-skeletal-system,1,complete
+Human Body,Muscles,Cleveland Clinic,https://my.clevelandclinic.org/health/body/21887-muscle,1,complete
+Human Body,Eyes,Cleveland Clinic,https://my.clevelandclinic.org/health/body/21823-eyes,1,complete
+Human Body,Blood,Cleveland Clinic,https://my.clevelandclinic.org/health/body/24836-blood,1,complete
+Human Body,Lungs,NHLBI,https://www.nhlbi.nih.gov/health/lungs,1,complete
+Human Body,DNA,Britannica,https://www.britannica.com/science/DNA,1,complete
+Human Body,Immune System,Britannica,https://www.britannica.com/science/immune-system,1,complete
+Human Body,Skin,Britannica,https://www.britannica.com/science/skin,1,complete
 
 Psychology,Memory,Britannica,https://www.britannica.com/science/memory-psychology,1,pending
 Psychology,Emotions,Britannica,https://www.britannica.com/science/emotion,1,pending
