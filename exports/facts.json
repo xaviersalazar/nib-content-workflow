@@ -14039,5 +14039,1805 @@
     "funScore": 10,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "emotions-change-thinking",
+    "headline": "Emotions Change the Way You Think",
+    "body": "Emotions do much more than create feelings. They can influence how people interpret situations, make decisions, and judge events around them. Philosophers and psychologists have long recognized that emotions affect reasoning and behavior. Feelings such as fear, joy, or anger can shape the way people understand the world. Emotions are deeply connected to thought rather than existing separately from it.",
+    "summary": "Emotions influence the way people think and make decisions.",
+    "categoryId": "psychology",
+    "topic": "Emotions",
+    "tags": [
+      "psychology",
+      "emotions",
+      "thinking",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emotions-opposites-coexist",
+    "headline": "Opposite Emotions Can Exist at the Same Time",
+    "body": "People often think of emotions as opposites, but psychologists recognize that seemingly conflicting feelings can exist together. Love and hate, for example, may coexist rather than cancel each other out. Happiness and sadness can also appear simultaneously during important life events. Human emotions are far more complex than simple either-or categories. This complexity is one reason emotions can sometimes feel confusing.",
+    "summary": "People can experience opposite emotions simultaneously.",
+    "categoryId": "psychology",
+    "topic": "Emotions",
+    "tags": [
+      "psychology",
+      "emotions",
+      "feelings",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emotions-last-years",
+    "headline": "Some Emotions Can Last for Years",
+    "body": "Not all emotions are brief reactions. While some feelings last only seconds, others can persist for months or even years. Love, grief, resentment, and other emotional states may become long-lasting parts of a person's experience. In some cases, these emotions can influence personality and behavior over long periods. Human emotions range from fleeting moments to lifelong experiences.",
+    "summary": "Certain emotions can last for months or even years.",
+    "categoryId": "psychology",
+    "topic": "Emotions",
+    "tags": [
+      "psychology",
+      "emotions",
+      "feelings",
+      "personality"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emotions-influence-memory",
+    "headline": "Emotions Influence What You Notice and Remember",
+    "body": "Psychologists have found that emotions affect both perception and memory. People are more likely to notice and remember things they care about emotionally. Experiences linked to strong feelings often become especially memorable. This connection helps explain why emotional events can leave lasting impressions. Emotions shape how people experience and remember the world around them.",
+    "summary": "Emotions strongly influence memory and attention.",
+    "categoryId": "psychology",
+    "topic": "Emotions",
+    "tags": [
+      "psychology",
+      "emotions",
+      "memory",
+      "attention"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emotions-anger-not-always-negative",
+    "headline": "Anger Isn't Always a Negative Emotion",
+    "body": "Although anger is often considered a negative emotion, psychologists and philosophers recognize that it can serve useful purposes. Anger may motivate people to confront injustice, defend themselves, or bring about positive change. In the right context, feeling angry can be appropriate and constructive. Like many emotions, anger is more complicated than simply being good or bad. Its effects depend heavily on circumstances.",
+    "summary": "Anger can sometimes have positive effects.",
+    "categoryId": "psychology",
+    "topic": "Emotions",
+    "tags": [
+      "psychology",
+      "emotions",
+      "anger",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emotions-affect-judgment",
+    "headline": "Your Emotions Affect Your Judgments",
+    "body": "Emotions have a powerful influence on judgment and decision-making. Feelings can change how people evaluate situations, interpret events, and respond to others. This relationship has been recognized since ancient times by philosophers such as Aristotle. Emotions are closely tied to reasoning rather than being completely separate from it. Human decisions are often shaped by both logic and feelings.",
+    "summary": "Emotions influence the judgments people make.",
+    "categoryId": "psychology",
+    "topic": "Emotions",
+    "tags": [
+      "psychology",
+      "emotions",
+      "judgment",
+      "thinking"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emotions-drive-creativity",
+    "headline": "Emotions Help Drive Curiosity and Creativity",
+    "body": "Emotions play an important role in creativity, curiosity, and learning. Feelings can motivate people to explore new ideas, appreciate beauty, and seek understanding. Artistic expression and scientific discovery are often fueled by emotional experiences. Without emotions, many aspects of human creativity would be diminished. Feelings help inspire some of humanity's greatest achievements.",
+    "summary": "Emotions contribute to curiosity and creativity.",
+    "categoryId": "psychology",
+    "topic": "Emotions",
+    "tags": [
+      "psychology",
+      "emotions",
+      "creativity",
+      "curiosity"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emotions-unnoticed",
+    "headline": "People Can Experience Emotions Without Realizing It",
+    "body": "Not every emotional experience is fully conscious. Some emotions may pass quickly or remain unnoticed while still influencing behavior and perception. People are not always aware of every feeling they experience. Even subtle emotions can shape decisions and interactions. Much of emotional life occurs beneath conscious awareness.",
+    "summary": "People can experience emotions without fully noticing them.",
+    "categoryId": "psychology",
+    "topic": "Emotions",
+    "tags": [
+      "psychology",
+      "emotions",
+      "consciousness",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emotions-physical-reactions",
+    "headline": "Emotional Reactions Can Be Physical",
+    "body": "Emotions often produce noticeable physical changes in the body. Fear can increase heart rate, embarrassment may cause blushing, and happiness can trigger smiles and laughter. These bodily reactions are part of the emotional experience. Many emotions involve both psychological and physical components. Feelings are closely connected to the body as well as the mind.",
+    "summary": "Emotions often produce physical reactions.",
+    "categoryId": "psychology",
+    "topic": "Emotions",
+    "tags": [
+      "psychology",
+      "emotions",
+      "body",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emotions-build-relationships",
+    "headline": "Emotions Help Humans Build Relationships",
+    "body": "Love, compassion, respect, and empathy are essential emotional ingredients for healthy relationships. Emotions help people connect with one another and form social bonds. They influence communication, cooperation, and trust. Without emotions, many aspects of human society would function very differently. Feelings are fundamental to how humans interact with one another.",
+    "summary": "Emotions play a vital role in human relationships.",
+    "categoryId": "psychology",
+    "topic": "Emotions",
+    "tags": [
+      "psychology",
+      "emotions",
+      "relationships",
+      "society"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "memory-forgetting-helpful",
+    "headline": "Forgetting Is Actually Helpful",
+    "body": "Although forgetting is often viewed as a flaw, psychologists recognize that it serves important functions. Forgetting old or unnecessary information helps people adapt to new situations and maintain perspective. Without forgetting, memories could become overwhelming and interfere with everyday life. In some ways, forgetting is just as important as remembering. The ability to let memories fade helps keep the mind flexible.",
+    "summary": "Forgetting plays an important role in healthy memory.",
+    "categoryId": "psychology",
+    "topic": "Memory",
+    "tags": [
+      "psychology",
+      "memory",
+      "forgetting",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "memory-shapes-behavior",
+    "headline": "Memories Shape Almost Everything You Do",
+    "body": "Memory influences nearly every aspect of daily life. Activities such as reading, driving, solving problems, and recognizing people all depend on stored experiences. Remembering previous events allows humans to make decisions and adapt to their environment. Without memory, intelligent behavior would be impossible. Much of everyday life relies on information accumulated over time.",
+    "summary": "Memory influences nearly every daily activity.",
+    "categoryId": "psychology",
+    "topic": "Memory",
+    "tags": [
+      "psychology",
+      "memory",
+      "behavior",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "memory-working-scratchpad",
+    "headline": "Your Brain Uses Working Memory Like a Scratch Pad",
+    "body": "Psychologists often compare working memory to a mental scratch pad. It temporarily stores information needed for problem-solving and complex tasks. Information can be added, manipulated, and replaced as circumstances change. This system helps people perform calculations, follow conversations, and complete everyday activities. Working memory allows the brain to handle information in real time.",
+    "summary": "Working memory functions like a temporary scratch pad.",
+    "categoryId": "psychology",
+    "topic": "Memory",
+    "tags": [
+      "psychology",
+      "memory",
+      "working-memory",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "memory-attention-creates-memory",
+    "headline": "Attention Determines What Becomes a Memory",
+    "body": "Paying attention is one of the most important steps in creating memories. Events that receive greater focus are more likely to be stored and remembered later. Without attention, information often disappears quickly. This relationship explains why distractions can interfere with learning. Memory begins with attention.",
+    "summary": "Attention strongly influences memory formation.",
+    "categoryId": "psychology",
+    "topic": "Memory",
+    "tags": [
+      "psychology",
+      "memory",
+      "attention",
+      "learning"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "memory-limited-capacity",
+    "headline": "You Can Hold Only a Few Things in Mind at Once",
+    "body": "Working memory has limited capacity, meaning people can actively hold only a small amount of information at one time. Psychologists have long studied these limits and found that they vary among individuals. This restriction affects reasoning, learning, and problem-solving. The brain must constantly prioritize which information deserves attention. Mental capacity is powerful but not unlimited.",
+    "summary": "Working memory can hold only a limited amount of information.",
+    "categoryId": "psychology",
+    "topic": "Memory",
+    "tags": [
+      "psychology",
+      "memory",
+      "working-memory",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "memory-chunking",
+    "headline": "Grouping Information Helps You Remember More",
+    "body": "People can improve memory by organizing information into meaningful groups, a technique known as chunking. Instead of remembering many unrelated pieces of information, the brain treats grouped items as larger units. This strategy allows people to recall far more information than they otherwise could. Chunking plays a major role in learning and problem-solving. It is one of the brain's most useful memory tricks.",
+    "summary": "Grouping information helps improve memory.",
+    "categoryId": "psychology",
+    "topic": "Memory",
+    "tags": [
+      "psychology",
+      "memory",
+      "chunking",
+      "learning"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "memory-filters-information",
+    "headline": "Your Brain Filters Out Most Information Automatically",
+    "body": "The human brain receives an enormous amount of sensory information every second. Fortunately, much of this information is filtered automatically without conscious effort. This process allows attention to focus on what is most important. Without these filters, everyday life would become overwhelming. The brain constantly decides what deserves awareness and what can be ignored.",
+    "summary": "The brain automatically filters most incoming information.",
+    "categoryId": "psychology",
+    "topic": "Memory",
+    "tags": [
+      "psychology",
+      "memory",
+      "attention",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "memory-fading-helps-time",
+    "headline": "Memories Fade to Help You Tell Time",
+    "body": "The gradual fading of memories helps people distinguish between recent and distant events. Stronger recent memories and weaker older memories provide clues about the passage of time. This process helps humans organize experiences and adapt to changing circumstances. Forgetting contributes to orientation in time. Memory fading serves an important purpose rather than being merely a flaw.",
+    "summary": "Fading memories help people understand the passage of time.",
+    "categoryId": "psychology",
+    "topic": "Memory",
+    "tags": [
+      "psychology",
+      "memory",
+      "time",
+      "forgetting"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "memory-capacity-differences",
+    "headline": "Different People Have Different Working Memory Capacity",
+    "body": "Not everyone has the same working memory capacity. People differ in how much information they can actively manage and how effectively they control attention. These differences influence learning, reasoning, and problem-solving abilities. Researchers have found strong links between working memory and intelligence. Memory capacity varies from person to person.",
+    "summary": "Working memory capacity differs among individuals.",
+    "categoryId": "psychology",
+    "topic": "Memory",
+    "tags": [
+      "psychology",
+      "memory",
+      "working-memory",
+      "intelligence"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "memory-attention-strengthens",
+    "headline": "Strong Attention Improves Memory Formation",
+    "body": "The more attention people devote to information, the more likely it is to be remembered later. Repeated practice and focused concentration strengthen memories and improve recall. This principle explains why studying, rehearsal, and active engagement are effective learning strategies. Memory grows stronger when attention is maintained. Learning depends heavily on focused mental effort.",
+    "summary": "Focused attention strengthens memories.",
+    "categoryId": "psychology",
+    "topic": "Memory",
+    "tags": [
+      "psychology",
+      "memory",
+      "attention",
+      "learning"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "habits-learned-not-born",
+    "headline": "Habits Are Learned, Not Born",
+    "body": "Habits are behaviors that people acquire through experience rather than something they are born with. Whether it's brushing your teeth, checking your phone, or tying your shoes, repeated experiences gradually turn actions into habits. Psychologists define habits as learned behaviors that require little thought once established. Over time, repetition transforms deliberate actions into automatic routines. Many of the things people do every day began as behaviors that had to be consciously learned.",
+    "summary": "Habits are learned behaviors rather than innate ones.",
+    "categoryId": "psychology",
+    "topic": "Habits",
+    "tags": [
+      "psychology",
+      "habits",
+      "behavior",
+      "learning"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "habits-little-conscious-thought",
+    "headline": "Habits Require Little Conscious Thought",
+    "body": "One of the defining features of habits is that they can be performed with very little conscious effort. Once established, habits become automatic and require far less attention than when they were first learned. This efficiency allows the brain to focus on more demanding tasks. Everyday routines such as walking, driving familiar routes, or locking doors often happen almost without thinking. Habits help simplify daily life.",
+    "summary": "Habits require very little conscious effort.",
+    "categoryId": "psychology",
+    "topic": "Habits",
+    "tags": [
+      "psychology",
+      "habits",
+      "behavior",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "habits-repetition-automatic",
+    "headline": "Repetition Makes Behaviors Automatic",
+    "body": "Repeated actions gradually become more automatic over time. Every time a behavior is repeated under similar conditions, the brain becomes better at performing it efficiently. Eventually, the action may occur with almost no conscious awareness. This process explains why routines become easier the more they are practiced. Repetition is one of the most powerful forces behind habit formation.",
+    "summary": "Repeating behaviors makes them increasingly automatic.",
+    "categoryId": "psychology",
+    "topic": "Habits",
+    "tags": [
+      "psychology",
+      "habits",
+      "repetition",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "habits-rewards-strengthen",
+    "headline": "Rewards Strengthen Habits",
+    "body": "Psychologists have found that rewards help strengthen habits. When a behavior produces a satisfying result, people are more likely to repeat it in the future. Over time, this reinforcement makes the behavior increasingly automatic. Positive experiences encourage the brain to preserve successful routines. Rewards play a major role in building both good and bad habits.",
+    "summary": "Rewards help reinforce habits.",
+    "categoryId": "psychology",
+    "topic": "Habits",
+    "tags": [
+      "psychology",
+      "habits",
+      "reinforcement",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "habits-single-experience",
+    "headline": "Some Habits Form After a Single Experience",
+    "body": "Although most habits develop gradually, powerful emotional experiences can sometimes create habits after just one event. A particularly memorable or emotional experience may leave such a strong impression that future behavior changes immediately. Psychologists recognize that emotions can dramatically accelerate habit formation. In some cases, one experience is enough to create lasting behavioral patterns. Not every habit requires years of repetition.",
+    "summary": "Strong emotions can create habits after a single experience.",
+    "categoryId": "psychology",
+    "topic": "Habits",
+    "tags": [
+      "psychology",
+      "habits",
+      "emotions",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "habits-thoughts-and-actions",
+    "headline": "Habits Can Involve Thoughts as Well as Actions",
+    "body": "Habits are not limited to physical behaviors. People can also develop habitual ways of thinking, reacting, and interpreting situations. Repeated mental patterns can become just as automatic as repeated actions. This means habits influence not only what people do, but also how they think. Much of human behavior is shaped by routines occurring inside the mind.",
+    "summary": "Habits can affect thoughts as well as actions.",
+    "categoryId": "psychology",
+    "topic": "Habits",
+    "tags": [
+      "psychology",
+      "habits",
+      "thinking",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "habits-save-mental-energy",
+    "headline": "Habits Help Free Up Mental Energy",
+    "body": "William James noted that habits allow people to conserve higher mental processes for more challenging tasks. By automating routine behaviors, habits reduce the amount of conscious effort needed to get through everyday life. This efficiency allows the brain to devote attention to more important problems. Without habits, even simple activities would require constant concentration. Habits act as a form of mental shortcut.",
+    "summary": "Habits help conserve mental energy.",
+    "categoryId": "psychology",
+    "topic": "Habits",
+    "tags": [
+      "psychology",
+      "habits",
+      "brain",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "habits-good-and-bad-same-system",
+    "headline": "Good and Bad Habits Form the Same Way",
+    "body": "The psychological processes responsible for building healthy habits are the same ones that create unhealthy habits. Repetition and reinforcement strengthen behaviors regardless of whether they are beneficial or harmful. This means the brain does not automatically distinguish between good and bad routines. The same mechanisms that make exercise habitual can also make procrastination habitual. Habits themselves are neutral tools.",
+    "summary": "Good and bad habits develop through the same mechanisms.",
+    "categoryId": "psychology",
+    "topic": "Habits",
+    "tags": [
+      "psychology",
+      "habits",
+      "behavior",
+      "learning"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "habits-environment-matters",
+    "headline": "Changing Your Environment Can Help Break Habits",
+    "body": "One effective way to change unwanted habits is to alter the environment that triggers them. Removing cues associated with a behavior can make it easier to break old routines. Psychologists often recommend changing surroundings to reduce temptation or avoid triggers. Small environmental changes can have surprisingly powerful effects on behavior. Sometimes changing the situation is easier than relying on willpower alone.",
+    "summary": "Changing environments can help break habits.",
+    "categoryId": "psychology",
+    "topic": "Habits",
+    "tags": [
+      "psychology",
+      "habits",
+      "environment",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "habits-punishment-ineffective",
+    "headline": "Punishment Is One of the Least Effective Ways to Break Habits",
+    "body": "Psychologists generally consider punishment to be one of the least effective methods for changing habits. While punishment may temporarily suppress a behavior, it often fails to create lasting change. Replacing old habits with healthier alternatives tends to be more successful. Sustainable behavior change usually depends on building new routines rather than simply eliminating old ones. Positive approaches are often more effective than negative ones.",
+    "summary": "Punishment is usually ineffective for breaking habits.",
+    "categoryId": "psychology",
+    "topic": "Habits",
+    "tags": [
+      "psychology",
+      "habits",
+      "behavior",
+      "reinforcement"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "happiness-more-than-feeling-good",
+    "headline": "Happiness Means More Than Feeling Good",
+    "body": "Psychologists define happiness as more than simply experiencing pleasant emotions. It also includes how people evaluate their lives and accomplishments as a whole. A person may feel happy in a moment or develop a broader sense of satisfaction over time. This broader concept is often called subjective well-being. Happiness involves both emotions and thoughtful reflection about life.",
+    "summary": "Happiness is more than just feeling good.",
+    "categoryId": "psychology",
+    "topic": "Happiness",
+    "tags": [
+      "psychology",
+      "happiness",
+      "well-being",
+      "emotions"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "happiness-recognized-worldwide",
+    "headline": "People Around the World Recognize Happiness",
+    "body": "Research suggests that people from many different cultures share a similar understanding of happiness. Individuals around the world can recognize expressions of happiness in others and generally agree on what happiness looks like. Because of this consistency, psychologists consider happiness one of the fundamental human emotions. Despite cultural differences, people appear to share common emotional experiences. Happiness is a remarkably universal feeling.",
+    "summary": "People everywhere recognize happiness.",
+    "categoryId": "psychology",
+    "topic": "Happiness",
+    "tags": [
+      "psychology",
+      "happiness",
+      "emotions",
+      "culture"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "happiness-negative-emotions-too",
+    "headline": "Happy People Still Experience Negative Emotions",
+    "body": "Being happy does not mean never feeling sadness, fear, or anger. People who are generally satisfied with life still experience negative emotions from time to time. In fact, meaningful experiences can involve both positive and negative feelings simultaneously. Happiness is not the absence of unpleasant emotions but rather part of a broader emotional balance. Human emotions are far more complex than simple opposites.",
+    "summary": "Happy people still experience negative emotions.",
+    "categoryId": "psychology",
+    "topic": "Happiness",
+    "tags": [
+      "psychology",
+      "happiness",
+      "emotions",
+      "well-being"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "happiness-most-people-positive",
+    "headline": "Most People Report Being Slightly Happy Most of the Time",
+    "body": "Studies conducted around the world consistently show that most people report feeling mildly positive rather than miserable. Researchers have found that average happiness levels tend to remain above neutral across many populations and cultures. This pattern appears surprisingly consistent. Psychologists often study what separates very happy people from moderately happy people rather than happy people from unhappy people. Most people spend much of their lives in positive moods.",
+    "summary": "Most people are slightly happy most of the time.",
+    "categoryId": "psychology",
+    "topic": "Happiness",
+    "tags": [
+      "psychology",
+      "happiness",
+      "well-being",
+      "research"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "happiness-social-relationships",
+    "headline": "Strong Relationships Are Closely Linked to Happiness",
+    "body": "Among the many factors studied by psychologists, social relationships consistently show one of the strongest connections to happiness. People who maintain supportive friendships and close relationships tend to report higher levels of well-being. Social connections influence emotional health in powerful ways. Humans are deeply social creatures, and relationships play a central role in happiness. Strong bonds are one of the best predictors of well-being.",
+    "summary": "Strong relationships are linked to happiness.",
+    "categoryId": "psychology",
+    "topic": "Happiness",
+    "tags": [
+      "psychology",
+      "happiness",
+      "relationships",
+      "well-being"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "happiness-money-limited-effect",
+    "headline": "Money Has Less Effect on Happiness Than People Expect",
+    "body": "Although income influences happiness, research shows that the relationship is weaker than many people assume. Wealthier individuals tend to be somewhat happier, but the differences are often surprisingly small. As income increases, additional gains in happiness become smaller. Psychologists have found that factors such as relationships and personality often matter more. Money contributes to happiness, but it is far from the whole story.",
+    "summary": "Money affects happiness less than many people expect.",
+    "categoryId": "psychology",
+    "topic": "Happiness",
+    "tags": [
+      "psychology",
+      "happiness",
+      "money",
+      "well-being"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "happiness-personality-matters",
+    "headline": "Personality Plays a Major Role in Happiness",
+    "body": "Certain personality traits are strongly linked to happiness. People who are outgoing, optimistic, and emotionally stable tend to experience more positive emotions. Researchers have found that these personality differences remain fairly stable over time. Personality helps shape how individuals interpret the world around them. Internal factors often have a stronger effect on happiness than external circumstances.",
+    "summary": "Personality strongly influences happiness.",
+    "categoryId": "psychology",
+    "topic": "Happiness",
+    "tags": [
+      "psychology",
+      "happiness",
+      "personality",
+      "well-being"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "happiness-twins-similar-levels",
+    "headline": "Identical Twins Often Have Similar Happiness Levels",
+    "body": "Studies involving identical twins have revealed that genetics plays an important role in happiness. Even twins raised apart often show surprisingly similar levels of well-being. These findings suggest that inherited traits influence emotional tendencies. Researchers estimate that genetics accounts for a substantial portion of individual differences in happiness. Happiness is shaped by both biology and experience.",
+    "summary": "Genes influence levels of happiness.",
+    "categoryId": "psychology",
+    "topic": "Happiness",
+    "tags": [
+      "psychology",
+      "happiness",
+      "genetics",
+      "twins"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "happiness-live-longer",
+    "headline": "Happy People Tend to Live Longer",
+    "body": "Numerous studies have found that happier individuals often enjoy better health and longer lives. Positive emotions are associated with healthier behaviors, stronger relationships, and reduced stress. While happiness alone does not guarantee longevity, researchers consistently observe links between well-being and life expectancy. Feeling happy appears to provide benefits beyond simply feeling good. Emotional health and physical health are closely connected.",
+    "summary": "Happier people often live longer.",
+    "categoryId": "psychology",
+    "topic": "Happiness",
+    "tags": [
+      "psychology",
+      "happiness",
+      "health",
+      "longevity"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "happiness-encourages-exploration",
+    "headline": "Happiness Can Encourage Creativity and Exploration",
+    "body": "Psychologists propose that positive emotions help broaden thinking and encourage exploration. Happy people are often more willing to try new things, develop relationships, and pursue creative ideas. Over time, these behaviors can lead to valuable skills and opportunities. Happiness may help people build resources that benefit them in the future. Positive emotions do more than improve mood—they can shape growth and success.",
+    "summary": "Happiness promotes creativity and exploration.",
+    "categoryId": "psychology",
+    "topic": "Happiness",
+    "tags": [
+      "psychology",
+      "happiness",
+      "creativity",
+      "emotions"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "attention-cannot-focus-everything",
+    "headline": "You Can't Pay Attention to Everything at Once",
+    "body": "Although the world constantly bombards your senses with information, your brain cannot consciously process everything simultaneously. Psychologists describe attention as a limited resource that selects only a small portion of available information. This filtering allows people to focus on important tasks and avoid becoming overwhelmed. Without this limitation, everyday life would be chaotic. Attention acts like a spotlight that highlights only part of reality at any given moment.",
+    "summary": "Attention can focus on only a small portion of available information.",
+    "categoryId": "psychology",
+    "topic": "Attention",
+    "tags": [
+      "psychology",
+      "attention",
+      "brain",
+      "awareness"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "attention-controls-awareness",
+    "headline": "Attention Determines What Reaches Conscious Awareness",
+    "body": "Psychologists define attention as the concentration of awareness on some experiences while excluding others. Although countless events occur around and inside the body, only a fraction enters conscious awareness. What you notice depends heavily on where your attention is directed. This process shapes your experience of reality. In many ways, attention determines the contents of consciousness.",
+    "summary": "Attention influences what enters conscious awareness.",
+    "categoryId": "psychology",
+    "topic": "Attention",
+    "tags": [
+      "psychology",
+      "attention",
+      "awareness",
+      "consciousness"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "attention-unexpected-events-capture",
+    "headline": "Unexpected Events Can Hijack Your Attention",
+    "body": "People do not always control their own attention. Sudden sounds, flashing lights, or unexpected events can automatically capture awareness. Psychologists call this involuntary attention. Even when concentrating deeply, surprising events can interrupt focus. The brain evolved to quickly notice unexpected changes because they may signal danger or opportunity.",
+    "summary": "Unexpected events can automatically seize attention.",
+    "categoryId": "psychology",
+    "topic": "Attention",
+    "tags": [
+      "psychology",
+      "attention",
+      "awareness",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "attention-brain-filters-information",
+    "headline": "Your Brain Filters Out Most Sensory Information",
+    "body": "Every second, your senses receive far more information than your brain can consciously process. To cope with this flood of input, the brain automatically filters and prioritizes information. Most sights, sounds, and sensations never reach awareness. This filtering system helps people focus on what matters most. Without it, daily life would quickly become overwhelming.",
+    "summary": "The brain filters out most incoming information.",
+    "categoryId": "psychology",
+    "topic": "Attention",
+    "tags": [
+      "psychology",
+      "attention",
+      "brain",
+      "senses"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "attention-familiar-sounds-break-through",
+    "headline": "Familiar Sounds Can Break Through Distractions",
+    "body": "Certain sounds have special priority in the brain. Hearing your own name or a baby's cry can capture attention even when you are focused elsewhere. Psychologists have found that important or meaningful stimuli can break through distractions. This selective sensitivity helps people respond to important events. Not all information is treated equally by the brain.",
+    "summary": "Meaningful sounds can break through distractions.",
+    "categoryId": "psychology",
+    "topic": "Attention",
+    "tags": [
+      "psychology",
+      "attention",
+      "hearing",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "attention-memory-linked",
+    "headline": "Attention and Memory Work Together",
+    "body": "Memory and attention are closely connected. Information that receives greater attention is much more likely to be stored and remembered later. Without attention, memories often fail to form properly. This relationship explains why distractions interfere with learning and recall. Paying attention is one of the first steps toward creating lasting memories.",
+    "summary": "Attention is essential for forming memories.",
+    "categoryId": "psychology",
+    "topic": "Attention",
+    "tags": [
+      "psychology",
+      "attention",
+      "memory",
+      "learning"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "attention-multitasking-not-simultaneous",
+    "headline": "Multitasking Isn't Truly Simultaneous",
+    "body": "Although people often feel like they are multitasking, psychologists believe that attention usually shifts rapidly between tasks instead of handling them simultaneously. One activity may receive conscious focus while others run more automatically. This rapid switching creates the illusion of doing many things at once. In reality, attention has strict limits. True multitasking is far more difficult than most people realize.",
+    "summary": "Multitasking often involves rapidly switching attention.",
+    "categoryId": "psychology",
+    "topic": "Attention",
+    "tags": [
+      "psychology",
+      "attention",
+      "multitasking",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "attention-limited-capacity",
+    "headline": "Attention Has Limited Capacity",
+    "body": "The brain possesses impressive processing abilities, but those abilities are not unlimited. Attention has a limited capacity that restricts how much information can be consciously handled at once. Because of this limitation, people must constantly prioritize what deserves focus. These limits influence learning, memory, and performance. Attention is one of the brain's most valuable resources.",
+    "summary": "Attention is a limited mental resource.",
+    "categoryId": "psychology",
+    "topic": "Attention",
+    "tags": [
+      "psychology",
+      "attention",
+      "brain",
+      "cognition"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "attention-name-special",
+    "headline": "Your Name Is Special to Your Brain",
+    "body": "Researchers have found that people are remarkably sensitive to hearing their own names. Even in noisy environments or conversations they are not actively following, their name can quickly attract attention. This phenomenon demonstrates how certain stimuli receive special priority. The brain treats personally meaningful information differently from ordinary sounds. Few words are more attention-grabbing than your own name.",
+    "summary": "Your brain gives special priority to your name.",
+    "categoryId": "psychology",
+    "topic": "Attention",
+    "tags": [
+      "psychology",
+      "attention",
+      "brain",
+      "hearing"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "attention-involuntary-shifts",
+    "headline": "Attention Can Shift Without You Choosing It",
+    "body": "People often think they control their attention completely, but psychologists know this is not always true. Unexpected events, emotions, and environmental cues can redirect focus automatically. Attention sometimes moves without conscious intention. These involuntary shifts help humans react quickly to important changes. Not all attention is voluntary.",
+    "summary": "Attention can shift automatically without conscious control.",
+    "categoryId": "psychology",
+    "topic": "Attention",
+    "tags": [
+      "psychology",
+      "attention",
+      "awareness",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "decision-making-good-enough",
+    "headline": "Humans Rarely Search for the Perfect Choice",
+    "body": "Although people often imagine themselves making perfectly rational decisions, psychologists and economists recognize that this rarely happens. Gathering complete information would require too much time and effort. Instead, people usually stop searching once they find an acceptable option. This approach allows decisions to be made efficiently. Perfect choices are often less important than practical ones.",
+    "summary": "People rarely search endlessly for the perfect decision.",
+    "categoryId": "psychology",
+    "topic": "Decision Making",
+    "tags": [
+      "psychology",
+      "decision-making",
+      "choices",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "decision-making-satisficing",
+    "headline": "People Often Settle for 'Good Enough'",
+    "body": "Herbert Simon introduced the concept of satisficing to describe how people make decisions. Rather than searching for the absolute best option, individuals frequently choose the first alternative that satisfies their needs. This strategy reflects the limits of time, information, and mental resources. Good-enough decisions are often sufficient for everyday life. Human decision-making prioritizes practicality over perfection.",
+    "summary": "People often choose options that are simply good enough.",
+    "categoryId": "psychology",
+    "topic": "Decision Making",
+    "tags": [
+      "psychology",
+      "decision-making",
+      "satisficing",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "decision-making-imperfect-information",
+    "headline": "Perfect Information Doesn't Exist",
+    "body": "Every decision is made with incomplete information. People never possess complete knowledge about every possible outcome or alternative. Because information is costly and difficult to obtain, uncertainty is unavoidable. Psychologists and economists refer to these limitations as bounded rationality. Decision-making always involves some degree of uncertainty.",
+    "summary": "People make decisions with incomplete information.",
+    "categoryId": "psychology",
+    "topic": "Decision Making",
+    "tags": [
+      "psychology",
+      "decision-making",
+      "uncertainty",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "decision-making-context-matters",
+    "headline": "Decisions Depend on Context",
+    "body": "The same person may make different decisions depending on circumstances and social surroundings. Psychologists and sociologists emphasize that context strongly influences choices. Roles, expectations, and environments all shape behavior. Human decisions are rarely made in isolation. Context matters more than many people realize.",
+    "summary": "Context strongly influences decisions.",
+    "categoryId": "psychology",
+    "topic": "Decision Making",
+    "tags": [
+      "psychology",
+      "decision-making",
+      "context",
+      "society"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "decision-making-habits-influence",
+    "headline": "Habits Influence Decisions More Than You Realize",
+    "body": "Many decisions are not made from scratch. Instead, routines and habits guide behavior automatically. Familiar procedures reduce uncertainty and simplify daily life. Because habits absorb complexity, people often rely on them without noticing. Much of human behavior follows patterns established long ago.",
+    "summary": "Habits quietly influence many decisions.",
+    "categoryId": "psychology",
+    "topic": "Decision Making",
+    "tags": [
+      "psychology",
+      "decision-making",
+      "habits",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "decision-making-environment-shapes",
+    "headline": "Your Environment Can Shape Your Choices",
+    "body": "Surroundings play a powerful role in influencing decisions. Organizations, families, schools, and social groups can emphasize certain information and values while minimizing others. These influences help guide behavior without people always realizing it. Decisions emerge partly from the environments people inhabit. Choices are shaped by more than individual preferences.",
+    "summary": "Environments influence the decisions people make.",
+    "categoryId": "psychology",
+    "topic": "Decision Making",
+    "tags": [
+      "psychology",
+      "decision-making",
+      "environment",
+      "society"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "decision-making-not-always-rational",
+    "headline": "People Don't Always Act Rationally",
+    "body": "Traditional theories assumed that humans consistently act in perfectly rational ways. Modern psychology has shown that this assumption is unrealistic. Emotions, habits, incomplete information, and social influences all affect decisions. Human reasoning is powerful, but it has limits. People are not purely logical machines.",
+    "summary": "Human decisions are not always perfectly rational.",
+    "categoryId": "psychology",
+    "topic": "Decision Making",
+    "tags": [
+      "psychology",
+      "decision-making",
+      "rationality",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "decision-making-timing-matters",
+    "headline": "Timing Can Determine Decisions",
+    "body": "Sometimes the timing of events influences decisions as much as the facts themselves. Opportunities, problems, and solutions may come together by chance. Researchers studying organizations found that decisions often depend on who is paying attention at the right moment. Timing can shape outcomes in surprising ways. Being in the right place at the right time matters.",
+    "summary": "Timing can strongly affect decisions.",
+    "categoryId": "psychology",
+    "topic": "Decision Making",
+    "tags": [
+      "psychology",
+      "decision-making",
+      "time",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "decision-making-routines-simplify",
+    "headline": "Routines Help Simplify Complex Decisions",
+    "body": "Humans rely heavily on routines to manage complicated situations. Repeating familiar procedures allows people to focus on only the most important choices. These routines reduce mental effort and uncertainty. While they can sometimes create rigidity, they also make daily life manageable. Routines are essential tools for decision-making.",
+    "summary": "Routines help simplify difficult decisions.",
+    "categoryId": "psychology",
+    "topic": "Decision Making",
+    "tags": [
+      "psychology",
+      "decision-making",
+      "routines",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "decision-making-solutions-before-problems",
+    "headline": "Sometimes Solutions Exist Before Problems",
+    "body": "Researchers studying organizations discovered that ideas and solutions sometimes appear before anyone recognizes the problems they might solve. People may develop favorite approaches and later apply them when opportunities arise. Decisions are not always neat or orderly. In some cases, solutions search for problems rather than the other way around. Human decision-making can be surprisingly messy.",
+    "summary": "Sometimes solutions appear before the problems they solve.",
+    "categoryId": "psychology",
+    "topic": "Decision Making",
+    "tags": [
+      "psychology",
+      "decision-making",
+      "innovation",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "learning-changes-behavior",
+    "headline": "Learning Literally Changes Behavior",
+    "body": "Psychologists define learning as a change in behavior caused by experience. Whenever an organism perceives information and responds differently because of that experience, learning has occurred. These changes can involve simple habits or highly complex skills. Learning allows people and animals to adapt to their environments over time. Without learning, intelligent behavior would be impossible.",
+    "summary": "Learning is the process of changing behavior through experience.",
+    "categoryId": "psychology",
+    "topic": "Learning",
+    "tags": [
+      "psychology",
+      "learning",
+      "behavior",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "learning-many-types",
+    "headline": "There Are Many Different Types of Learning",
+    "body": "Learning is not a single process. Psychologists have identified many forms of learning, including imitation, conditioning, problem solving, concept formation, and perceptual learning. Each type helps organisms adapt in different ways. Some learning processes are automatic while others require conscious effort. Together, they allow humans to acquire an extraordinary range of skills.",
+    "summary": "There are many different kinds of learning.",
+    "categoryId": "psychology",
+    "topic": "Learning",
+    "tags": [
+      "psychology",
+      "learning",
+      "behavior",
+      "cognition"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "learning-habituation",
+    "headline": "Ignoring Repeated Stimuli Is a Form of Learning",
+    "body": "One of the simplest forms of learning is habituation, which occurs when repeated stimulation gradually stops producing a response. People often stop noticing background noises, smells, or other sensations after enough exposure. Rather than reacting to everything equally, the brain learns what can safely be ignored. This ability helps prevent sensory overload. Sometimes learning means paying less attention instead of more.",
+    "summary": "Ignoring repeated stimuli is a type of learning.",
+    "categoryId": "psychology",
+    "topic": "Learning",
+    "tags": [
+      "psychology",
+      "learning",
+      "habituation",
+      "attention"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "learning-association",
+    "headline": "Animals and Humans Learn by Association",
+    "body": "Many forms of learning involve connecting one experience with another. Psychologists call this associative learning. Through repeated experiences, previously unrelated events become linked together in the mind. This ability allows animals and humans to predict outcomes and adapt their behavior. Associations form the foundation of many habits and conditioned responses.",
+    "summary": "Learning often occurs through associations.",
+    "categoryId": "psychology",
+    "topic": "Learning",
+    "tags": [
+      "psychology",
+      "learning",
+      "association",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "learning-rewards-strengthen",
+    "headline": "Rewards Can Strengthen Learning",
+    "body": "Rewards play an important role in many learning processes. Behaviors followed by positive outcomes are more likely to be repeated in the future. This principle helps explain everything from classroom learning to habit formation. Reinforcement allows organisms to strengthen useful behaviors over time. Positive consequences often make learning more effective.",
+    "summary": "Rewards help strengthen learning.",
+    "categoryId": "psychology",
+    "topic": "Learning",
+    "tags": [
+      "psychology",
+      "learning",
+      "reinforcement",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "learning-physical-brain-changes",
+    "headline": "Learning Leaves Physical Changes in the Brain",
+    "body": "Scientists believe that learning produces lasting physical and chemical changes within the nervous system. Memories may begin through temporary processes before becoming more permanent through alterations in neurons and synapses. These changes allow experiences to influence future behavior. Learning is not just abstract—it leaves traces inside the brain itself. Every new experience can literally reshape neural connections.",
+    "summary": "Learning creates physical changes in the brain.",
+    "categoryId": "psychology",
+    "topic": "Learning",
+    "tags": [
+      "psychology",
+      "learning",
+      "brain",
+      "neurons"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "learning-unconscious",
+    "headline": "Not All Learning Requires Conscious Awareness",
+    "body": "People often assume learning requires deliberate effort, but psychologists know this isn't always true. Many behaviors are acquired automatically without conscious awareness. Habits, conditioned responses, and subtle associations can develop without people fully realizing it. The brain constantly absorbs information from experiences. Much of learning happens behind the scenes.",
+    "summary": "Learning can occur without conscious awareness.",
+    "categoryId": "psychology",
+    "topic": "Learning",
+    "tags": [
+      "psychology",
+      "learning",
+      "brain",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "learning-problem-solving",
+    "headline": "Problem Solving Is a Form of Learning",
+    "body": "Learning is not limited to memorizing facts. Solving problems and discovering new ways to approach challenges are also forms of learning. As people encounter obstacles, they develop strategies that improve future performance. Problem solving allows experiences to shape reasoning abilities. Learning and thinking are closely connected.",
+    "summary": "Problem solving is a type of learning.",
+    "categoryId": "psychology",
+    "topic": "Learning",
+    "tags": [
+      "psychology",
+      "learning",
+      "problem-solving",
+      "thinking"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "learning-imitation",
+    "headline": "Imitation Is One of Humanity's Most Powerful Learning Tools",
+    "body": "Humans learn an enormous amount simply by observing others. From childhood onward, imitation helps people acquire language, social behaviors, and practical skills. Watching others allows learning to occur without direct trial and error. This ability accelerates the spread of knowledge across generations. Much of civilization depends on the power of imitation.",
+    "summary": "Imitation is one of humanity's greatest learning tools.",
+    "categoryId": "psychology",
+    "topic": "Learning",
+    "tags": [
+      "psychology",
+      "learning",
+      "imitation",
+      "society"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "learning-no-single-theory",
+    "headline": "Scientists Never Found One Universal Theory of Learning",
+    "body": "For decades, psychologists searched for a single theory that could explain all learning. Eventually, researchers concluded that learning is too complex to be captured by one universal explanation. Different theories describe different aspects of how organisms acquire knowledge and skills. Modern psychology embraces multiple approaches instead. Learning is more diverse than early scientists imagined.",
+    "summary": "No single theory explains every kind of learning.",
+    "categoryId": "psychology",
+    "topic": "Learning",
+    "tags": [
+      "psychology",
+      "learning",
+      "science",
+      "psychology"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motivation-invisible",
+    "headline": "Motivation Can't Be Seen Directly",
+    "body": "Unlike physical objects, motivation cannot be observed directly. Psychologists infer motivation by studying changes in behavior and examining how people respond to internal and external influences. Because motivation itself is invisible, scientists must study its effects rather than the force itself. Much of what drives behavior exists beneath the surface. Motivation is known through what people do, not what can be seen.",
+    "summary": "Motivation is invisible and must be inferred from behavior.",
+    "categoryId": "psychology",
+    "topic": "Motivation",
+    "tags": [
+      "psychology",
+      "motivation",
+      "behavior",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motivation-constantly-changing",
+    "headline": "Motivation Is Constantly Changing",
+    "body": "Motivation is not a fixed characteristic. People can feel highly motivated one moment and lose interest the next. Internal states, emotions, and external circumstances all influence motivation over time. Because of this, motivation is considered a temporary performance variable rather than a permanent trait. Human drive constantly shifts with changing conditions.",
+    "summary": "Motivation changes over time.",
+    "categoryId": "psychology",
+    "topic": "Motivation",
+    "tags": [
+      "psychology",
+      "motivation",
+      "behavior",
+      "emotions"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motivation-many-types",
+    "headline": "Hunger Is Only One Type of Motivation",
+    "body": "Motivation includes far more than hunger and thirst. Psychologists recognize many motives, including achievement, power, curiosity, and social connection. Some motives are shared with animals, while others are uniquely human. These different drives influence behavior in countless ways. Motivation is much broader than most people realize.",
+    "summary": "Humans are motivated by many different drives.",
+    "categoryId": "psychology",
+    "topic": "Motivation",
+    "tags": [
+      "psychology",
+      "motivation",
+      "behavior",
+      "needs"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motivation-pushes-pulls",
+    "headline": "Humans Are Driven by Pushes and Pulls",
+    "body": "Psychologists often describe motivation as a combination of internal pushes and external pulls. Hunger may push someone toward food, while the sight and smell of a favorite meal can pull them toward eating. Most real-life motivations involve both kinds of forces working together. Human behavior results from the interaction between internal needs and external goals. Motivation is rarely caused by just one thing.",
+    "summary": "Motivation involves both pushes and pulls.",
+    "categoryId": "psychology",
+    "topic": "Motivation",
+    "tags": [
+      "psychology",
+      "motivation",
+      "behavior",
+      "goals"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motivation-nature-and-experience",
+    "headline": "Motivation Comes From Both Nature and Experience",
+    "body": "Scientists once debated whether motivation was entirely innate or completely learned. Modern research shows that both influences matter. Some motives are strongly rooted in biology, while others are shaped by experiences and culture. Human behavior emerges from the interaction between inherited tendencies and learning. Nature and nurture both contribute to motivation.",
+    "summary": "Motivation comes from both biology and experience.",
+    "categoryId": "psychology",
+    "topic": "Motivation",
+    "tags": [
+      "psychology",
+      "motivation",
+      "genetics",
+      "learning"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motivation-social-influence",
+    "headline": "Other People Can Affect Your Motivation",
+    "body": "Motivation is influenced not only by internal needs but also by social situations. The presence of teachers, friends, family, and coworkers can change how people behave. Social psychologists have shown that humans often respond differently depending on who is around them. Motivation is deeply connected to relationships and social environments. Other people can shape what drives us.",
+    "summary": "Social environments influence motivation.",
+    "categoryId": "psychology",
+    "topic": "Motivation",
+    "tags": [
+      "psychology",
+      "motivation",
+      "society",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motivation-learned",
+    "headline": "Some Motivations Are Learned",
+    "body": "Not all motives are present at birth. Through experiences and associations, people develop new desires and goals over time. Achievement, status, and many personal ambitions are shaped by learning rather than instinct. These acquired motives vary greatly between individuals. Experience helps determine what people value and pursue.",
+    "summary": "Many motivations are learned rather than innate.",
+    "categoryId": "psychology",
+    "topic": "Motivation",
+    "tags": [
+      "psychology",
+      "motivation",
+      "learning",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motivation-money-association",
+    "headline": "Money Became Motivating Through Association",
+    "body": "Money has no biological value on its own, yet it strongly motivates human behavior. Psychologists explain this by pointing to association. Because money is linked to food, comfort, security, and countless rewards, it acquires motivational power itself. Over time, a once-neutral object becomes highly desirable. Money's influence is largely learned.",
+    "summary": "Money became motivating through learned associations.",
+    "categoryId": "psychology",
+    "topic": "Motivation",
+    "tags": [
+      "psychology",
+      "motivation",
+      "money",
+      "association"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motivation-internal-external",
+    "headline": "Motivation Can Come From Internal or External Forces",
+    "body": "People may pursue goals because of internal desires or because of rewards and pressures from the outside world. These sources of motivation often work together. A student, for example, may enjoy learning while also seeking good grades. Human behavior is usually driven by multiple motivations at once. Internal and external influences constantly interact.",
+    "summary": "Motivation comes from both internal and external forces.",
+    "categoryId": "psychology",
+    "topic": "Motivation",
+    "tags": [
+      "psychology",
+      "motivation",
+      "goals",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motivation-still-debated",
+    "headline": "Psychologists Still Debate What Motivation Really Is",
+    "body": "Despite decades of research, scientists continue to debate the nature of motivation. Different theories emphasize biology, learning, cognition, and social influences. No single explanation has fully captured all aspects of what drives behavior. Motivation remains one of psychology's most fascinating and complex topics. Researchers are still uncovering how and why humans act as they do.",
+    "summary": "Scientists still debate how motivation works.",
+    "categoryId": "psychology",
+    "topic": "Motivation",
+    "tags": [
+      "psychology",
+      "motivation",
+      "psychology",
+      "science"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "perception-brain-creates-reality",
+    "headline": "Your Brain Creates Reality From Sensory Signals",
+    "body": "Perception is more than simply receiving information from the senses. Psychologists define it as the process through which the brain transforms sensory stimulation into organized experiences. Rather than recording reality like a camera, the brain actively interprets incoming signals and creates meaningful perceptions. This process allows humans to recognize objects, faces, and environments. In many ways, your experience of reality is constructed inside your brain.",
+    "summary": "Your brain actively creates your experience of reality.",
+    "categoryId": "psychology",
+    "topic": "Perception",
+    "tags": [
+      "psychology",
+      "perception",
+      "brain",
+      "senses"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "perception-people-see-differently",
+    "headline": "Two People Can Experience the Same Thing Differently",
+    "body": "Although people may observe the same event, their perceptions are not always identical. Experience, assumptions, learning, and cultural influences can shape how information is interpreted. Because perception involves both sensory input and mental processing, individuals can reach different conclusions from the same situation. This explains why people sometimes disagree about what they saw or experienced. Reality is filtered through the mind.",
+    "summary": "People can perceive the same thing in different ways.",
+    "categoryId": "psychology",
+    "topic": "Perception",
+    "tags": [
+      "psychology",
+      "perception",
+      "brain",
+      "behavior"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "perception-see-objects-not-details",
+    "headline": "You See Objects, Not Millions of Tiny Details",
+    "body": "According to Gestalt psychologists, people naturally perceive organized objects rather than isolated pieces of information. Instead of consciously seeing individual colors, lines, and dots, the brain combines them into meaningful wholes like faces, books, or trees. This ability makes perception remarkably efficient. Humans experience organized patterns instead of endless fragments. The brain prefers wholes over pieces.",
+    "summary": "Your brain automatically turns details into meaningful objects.",
+    "categoryId": "psychology",
+    "topic": "Perception",
+    "tags": [
+      "psychology",
+      "perception",
+      "gestalt",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "perception-partly-learned",
+    "headline": "Perception Is Partly Learned",
+    "body": "Scientists continue to debate how much of perception is innate and how much comes from experience. Research suggests that learning plays an important role in shaping how people interpret the world around them. Previous experiences influence expectations and assumptions, which can affect what people notice. Perception is not entirely hardwired. Experience helps teach the brain how to interpret reality.",
+    "summary": "Experience helps shape perception.",
+    "categoryId": "psychology",
+    "topic": "Perception",
+    "tags": [
+      "psychology",
+      "perception",
+      "learning",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "perception-optical-illusions",
+    "headline": "Optical Illusions Reveal How Your Brain Works",
+    "body": "Illusions are more than visual tricks. Psychologists study them because they reveal important clues about how perception operates. When the brain interprets information incorrectly, researchers gain insight into the rules and assumptions that guide perception. Illusions show that perception involves interpretation rather than simple recording. Sometimes the brain's shortcuts become visible through mistakes.",
+    "summary": "Optical illusions reveal how perception works.",
+    "categoryId": "psychology",
+    "topic": "Perception",
+    "tags": [
+      "psychology",
+      "perception",
+      "illusions",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "perception-organizes-patterns",
+    "headline": "Your Brain Organizes Information Into Patterns",
+    "body": "Human perception naturally organizes sensory information into meaningful patterns. Gestalt psychologists described principles that explain why people group certain objects together and recognize familiar forms. This organization allows the world to make sense despite enormous amounts of incoming information. Without these mental shortcuts, perception would be chaotic. Pattern recognition is one of the brain's greatest strengths.",
+    "summary": "Your brain automatically organizes information into patterns.",
+    "categoryId": "psychology",
+    "topic": "Perception",
+    "tags": [
+      "psychology",
+      "perception",
+      "patterns",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "perception-not-instant",
+    "headline": "Perception Doesn't Happen Instantly",
+    "body": "Although people usually experience perception as immediate, experiments show that percepts take time to develop. Scientists have demonstrated that visual experiences can be disrupted during their earliest stages before they fully emerge. This suggests that perception unfolds over measurable periods rather than appearing all at once. Even simple images require processing time. The brain builds perceptions surprisingly quickly, but not instantaneously.",
+    "summary": "Perception takes time to form.",
+    "categoryId": "psychology",
+    "topic": "Perception",
+    "tags": [
+      "psychology",
+      "perception",
+      "time",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "perception-ambiguous-images",
+    "headline": "Ambiguous Images Can Flip Between Multiple Meanings",
+    "body": "Certain pictures can be interpreted in more than one way, causing the brain to switch back and forth between different perceptions. One moment a person may see a vase, and the next two faces. These shifts demonstrate that perception is an active process rather than a fixed representation of reality. The same image can produce multiple experiences. The brain sometimes changes its mind.",
+    "summary": "One image can create multiple perceptions.",
+    "categoryId": "psychology",
+    "topic": "Perception",
+    "tags": [
+      "psychology",
+      "perception",
+      "illusions",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "perception-context-changes-experience",
+    "headline": "Context Can Change What You Perceive",
+    "body": "Perception does not occur in isolation. Surrounding information and previous experiences influence how the brain interprets sensory input. The same object may appear different depending on its environment or context. Psychologists have found that perception is highly sensitive to these influences. What surrounds an experience can change how it is understood.",
+    "summary": "Context affects perception.",
+    "categoryId": "psychology",
+    "topic": "Perception",
+    "tags": [
+      "psychology",
+      "perception",
+      "context",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "perception-brain-fills-gaps",
+    "headline": "Your Brain Can Fill In Missing Information",
+    "body": "People often perceive complete objects even when some information is missing. The brain automatically fills gaps and organizes incomplete sensory signals into meaningful experiences. This ability helps humans quickly recognize faces, words, and patterns. Rather than waiting for perfect information, the brain makes educated guesses. Perception often relies on intelligent assumptions.",
+    "summary": "Your brain fills in missing information automatically.",
+    "categoryId": "psychology",
+    "topic": "Perception",
+    "tags": [
+      "psychology",
+      "perception",
+      "brain",
+      "patterns"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sleep-active-process",
+    "headline": "Sleep Is an Active Process, Not a Shutdown",
+    "body": "Although sleep may seem like a period when the body simply turns off, scientists know it involves highly organized changes throughout the brain and body. Brain activity, hormones, and nervous system functions continue to operate in complex patterns during sleep. Researchers now view sleep as an active biological process rather than a passive state. Many important functions continue while we rest. Sleep is far more dynamic than it appears.",
+    "summary": "Sleep is an active process, not a shutdown.",
+    "categoryId": "psychology",
+    "topic": "Sleep",
+    "tags": [
+      "psychology",
+      "sleep",
+      "brain",
+      "biology"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sleep-third-of-life",
+    "headline": "You Spend About a Third of Your Life Sleeping",
+    "body": "Most humans spend roughly one-third of their lives asleep. Healthy adults typically sleep between seven and nine hours each night, which adds up to many years over a lifetime. Despite occupying such a large portion of human existence, scientists still debate sleep's exact purpose. Sleep influences nearly every aspect of physiology. Rest consumes more of life than many people realize.",
+    "summary": "Humans spend about a third of life sleeping.",
+    "categoryId": "psychology",
+    "topic": "Sleep",
+    "tags": [
+      "psychology",
+      "sleep",
+      "time",
+      "biology"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sleep-rem-dreams",
+    "headline": "Dreams Mostly Happen During REM Sleep",
+    "body": "Although dreams can occur during multiple stages of sleep, the most vivid and memorable dreams are usually associated with rapid eye movement, or REM, sleep. During this stage, brain activity becomes highly active and resembles wakefulness in certain ways. Scientists sometimes refer to REM sleep as paradoxical sleep because of these unusual characteristics. Many dream experiences originate during this phase. REM sleep is strongly connected to dreaming.",
+    "summary": "Most vivid dreams occur during REM sleep.",
+    "categoryId": "psychology",
+    "topic": "Sleep",
+    "tags": [
+      "psychology",
+      "sleep",
+      "dreams",
+      "rem"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sleep-babies-half-rem",
+    "headline": "Babies Spend Half Their Sleep Dreaming",
+    "body": "Newborn infants spend roughly half of their sleep time in REM sleep, far more than adults. Scientists believe these patterns may support the development of the nervous system and the brain. As children grow, the percentage of REM sleep gradually declines. Babies experience a very different sleep pattern from adults. Early sleep may play an important role in development.",
+    "summary": "Babies spend much more time in REM sleep than adults.",
+    "categoryId": "psychology",
+    "topic": "Sleep",
+    "tags": [
+      "psychology",
+      "sleep",
+      "babies",
+      "rem"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sleep-half-brain-awake",
+    "headline": "Some Animals Sleep With Half Their Brain Awake",
+    "body": "Certain marine mammals appear capable of sleeping with one half of the brain while the other half remains active. This unusual adaptation allows them to continue surfacing for air while still obtaining rest. Scientists view this as evidence that sleep can take many forms across species. Sleep is more flexible than once believed. Nature has evolved some remarkable solutions.",
+    "summary": "Some animals sleep with only half their brain.",
+    "categoryId": "psychology",
+    "topic": "Sleep",
+    "tags": [
+      "psychology",
+      "sleep",
+      "animals",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sleepwalking-movement",
+    "headline": "Sleepwalkers Can Move While Still Asleep",
+    "body": "Although sleep is usually associated with stillness, some people can perform surprisingly complex movements while remaining asleep. Sleepwalking demonstrates that parts of the brain may remain active while others stay in a sleep state. This unusual condition highlights the complexity of sleep. Being asleep does not always mean complete inactivity. The boundaries between sleep and wakefulness can blur.",
+    "summary": "People can move while still asleep.",
+    "categoryId": "psychology",
+    "topic": "Sleep",
+    "tags": [
+      "psychology",
+      "sleep",
+      "sleepwalking",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sleep-no-perfect-hours",
+    "headline": "There Is No Perfect Amount of Sleep for Everyone",
+    "body": "Scientists have found that sleep needs vary from person to person and across different stages of life. Although guidelines exist, there is no single number of hours that applies to everyone. Individual differences, health, and age all influence how much sleep a person needs. Feeling well-rested is often a better indicator than a specific number. Sleep requirements are highly personal.",
+    "summary": "There is no universal amount of sleep.",
+    "categoryId": "psychology",
+    "topic": "Sleep",
+    "tags": [
+      "psychology",
+      "sleep",
+      "health",
+      "biology"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sleep-cycles",
+    "headline": "Your Brain Cycles Through Different Kinds of Sleep",
+    "body": "Sleep is not a single uniform state. Throughout the night, the brain cycles through multiple stages, including light sleep, deep sleep, and REM sleep. Each stage is associated with different patterns of brain activity and physiological changes. These cycles repeat several times before morning. Sleep is a constantly changing process rather than a single state.",
+    "summary": "Sleep consists of multiple repeating stages.",
+    "categoryId": "psychology",
+    "topic": "Sleep",
+    "tags": [
+      "psychology",
+      "sleep",
+      "brain",
+      "rem"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sleep-polyphasic-aging",
+    "headline": "Older Adults Often Return to Multiple Sleep Periods",
+    "body": "As people age, their sleep patterns often become more fragmented. Older adults may nap more during the day and experience shorter stretches of sleep at night. Scientists refer to this pattern as a partial return to polyphasic sleep. Changes in sleep quality and circadian rhythms contribute to these differences. Aging can reshape the structure of sleep.",
+    "summary": "Sleep patterns often change with age.",
+    "categoryId": "psychology",
+    "topic": "Sleep",
+    "tags": [
+      "psychology",
+      "sleep",
+      "aging",
+      "circadian-rhythm"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sleep-purpose-mystery",
+    "headline": "Scientists Still Don't Fully Know Why We Sleep",
+    "body": "Despite decades of research, no single explanation fully accounts for why humans and other animals sleep. Scientists have proposed theories involving memory, brain development, restoration, and learning, but the complete picture remains uncertain. Sleep affects nearly every biological system, making it difficult to isolate one purpose. One of life's most familiar activities remains partly mysterious. Sleep still holds many secrets.",
+    "summary": "Scientists still debate why sleep exists.",
+    "categoryId": "psychology",
+    "topic": "Sleep",
+    "tags": [
+      "psychology",
+      "sleep",
+      "science",
+      "brain"
+    ],
+    "readTimeSeconds": 35,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
