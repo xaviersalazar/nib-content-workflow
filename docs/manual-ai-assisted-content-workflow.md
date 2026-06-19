@@ -20,7 +20,7 @@ For each source:
 
 1. Scrape source page with Firecrawl.
 2. Feed markdown into AI.
-3. Generate 7–10 candidate facts.
+3. Generate 3–5 candidate facts.
 4. Validate each fact using editorial rules.
 5. Classify each fact:
    - PASS
@@ -45,17 +45,17 @@ No outside information should be introduced.
 
 # Step 2: Generate Candidate Facts
 
-Generate approximately 7–10 candidate facts per source.
+Generate approximately 3–5 candidate facts per source.
 
-The exact number does not matter.
+Keep only the most interesting facts for the topic — 5 at the very most.
 
 Some topics may produce:
 
-- 6 excellent facts
-- 8 excellent facts
-- 12 excellent facts
+- 3 excellent facts
+- 4 excellent facts
+- 5 excellent facts
 
-Quality always wins over quantity.
+If a topic only yields 3 truly strong facts, stop there. Quality always wins over quantity, and showing the same topic too often in the app is worse than showing fewer, stronger facts.
 
 ---
 

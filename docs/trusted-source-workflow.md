@@ -232,7 +232,7 @@ Target:
 ```text
 1 page
 ↓
-1–3 facts
+3–5 facts
 ```
 
 Avoid:
@@ -256,19 +256,11 @@ Black Holes
 
 NASA
 ↓
-2 facts
-
-ESA
-↓
-2 facts
-
-Smithsonian
-↓
-2 facts
+3–5 facts
 
 Total:
 
-6 approved facts
+3–5 approved facts (keep only the most interesting)
 ```
 
 ---
@@ -283,7 +275,7 @@ Total:
 
 ↓
 
-40–60 approved facts
+60–100 approved facts
 
 ---
 

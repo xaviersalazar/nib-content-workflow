@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Generate 1–3 TIL fact candidates from trusted source material.
+Generate 3–5 TIL fact candidates from trusted source material.
 
 The model should act like a curious friend sharing something fascinating over coffee.
 
@@ -39,7 +39,7 @@ Return valid JSON only.
 
 # User Prompt
 
-Using ONLY the provided source text, generate 3 TIL-style fact candidates.
+Using ONLY the provided source text, generate 3–5 TIL-style fact candidates.
 
 Requirements:
 
@@ -104,7 +104,7 @@ Source Text:
 
 # Goal
 
-Generate 1–3 candidate facts.
+Generate 3–5 candidate facts.
 
 Quality is more important than quantity.
 

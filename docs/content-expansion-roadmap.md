@@ -28,11 +28,11 @@ Avoid running dry on the Categories and Collections screens.
 Snapshot at time of writing:
 
 - **35 categories**
-- **~364 topics**, most at 7–10 facts each
+- **~364 topics**, most at 3–5 facts each
 - **Space + Astronomy** scraped and complete; everything else `pending`
 - **~78% of topics source from Britannica** (283 of 364)
 
-At one fact per day, the launch set alone is **6–9 years** of daily content.
+At one fact per day, the launch set alone is **3–5 years** of daily content.
 
 The takeaway: expansion is **not** about avoiding a content shortage. It is about
 three things —
@@ -192,8 +192,8 @@ launch — shift the months to match the real launch date.
 
 ## Production Math
 
-Sustaining roughly one new category per month means **~70–100 validated
-facts/month** (10 topics x 7–10 facts).
+Sustaining roughly one new category per month means **~30–50 validated
+facts/month** (10 topics x 3–5 facts).
 
 - The bottleneck is the **human review pass**, not scraping. Keep drops to one
   marquee category, not three.
