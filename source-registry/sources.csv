@@ -1,7 +1,6 @@
 category,topic,institution,url,tier,status
 Space,Venus,NASA,https://science.nasa.gov/venus/,1,complete
 Space,Mars,NASA,https://science.nasa.gov/mars/,1,complete
-Space,Black Holes,NASA,https://science.nasa.gov/universe/black-holes/,1,complete
 Space,Asteroids,NASA,https://science.nasa.gov/solar-system/asteroids/,1,complete
 Space,Exoplanets,NASA,https://science.nasa.gov/exoplanets/,1,complete
 Space,Comets,NASA,https://science.nasa.gov/solar-system/comets/,1,complete
@@ -13,17 +12,27 @@ Space,Neptune,NASA,https://science.nasa.gov/neptune/,1,complete
 Space,Pluto,NASA,https://science.nasa.gov/dwarf-planets/pluto/,1,complete
 Space,Solar System,NASA,https://science.nasa.gov/solar-system/,1,complete
 Space,Sun,NASA,https://science.nasa.gov/sun/,1,complete
+Space,Kuiper Belt,NASA,https://science.nasa.gov/solar-system/kuiper-belt/facts/,1,pending
+Space,Oort Cloud,NASA,https://science.nasa.gov/solar-system/oort-cloud/facts/,1,pending
+Space,Voyager Program,NASA,https://science.nasa.gov/mission/voyager/fast-facts/,1,pending
+Space,Meteor Showers,NASA,https://science.nasa.gov/solar-system/meteors-meteorites/facts/,1,pending
+Space,Moons,NASA,https://science.nasa.gov/moons/,1,complete
 
+Astronomy,Black Holes,NASA,https://science.nasa.gov/universe/black-holes/,1,complete
 Astronomy,Stars,NASA,https://science.nasa.gov/universe/stars/,1,complete
 Astronomy,Galaxies,NASA,https://science.nasa.gov/universe/galaxies/,1,complete
 Astronomy,Nebulae,NASA Space Place,https://spaceplace.nasa.gov/nebula/en/,1,complete
 Astronomy,Constellations,NASA Space Place,https://spaceplace.nasa.gov/constellations/en/,1,complete
-Astronomy,Moons,NASA,https://science.nasa.gov/moons/,1,complete
 Astronomy,Supernovas,NASA Space Place,https://spaceplace.nasa.gov/supernova/en/,1,complete
 Astronomy,Milky Way,NASA Imagine,https://imagine.gsfc.nasa.gov/science/objects/milkyway1.html,1,complete
 Astronomy,Light Years,NASA Space Place,https://spaceplace.nasa.gov/light-year/en/,1,complete
 Astronomy,Hubble Space Telescope,NASA,https://science.nasa.gov/mission/hubble/,1,complete
 Astronomy,James Webb Space Telescope,NASA,https://science.nasa.gov/mission/webb/,1,complete
+Astronomy,Pulsars,NASA,https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html,1,pending
+Astronomy,Quasars,NASA,https://imagine.gsfc.nasa.gov/science/objects/active_galaxies1.html,1,pending
+Astronomy,Red Giants,NASA,https://science.nasa.gov/universe/stars/types/,1,pending
+Astronomy,White Dwarfs,NASA,https://imagine.gsfc.nasa.gov/science/objects/dwarfs1.html,1,pending
+Astronomy,Cosmic Microwave Background,NASA,https://map.gsfc.nasa.gov/universe/bb_tests_cmb.html,1,pending
 
 History,Roman Empire,Britannica,https://www.britannica.com/place/ancient-Rome,1,complete
 History,Vikings,Britannica,https://www.britannica.com/topic/Viking-people,1,complete
@@ -43,6 +52,11 @@ History,Printing Press,Britannica,https://www.britannica.com/technology/printing
 History,French Revolution,Britannica,https://www.britannica.com/event/French-Revolution,1,complete
 History,Cold War,Britannica,https://www.britannica.com/event/Cold-War,1,complete
 History,Space Race,Britannica,https://www.britannica.com/event/space-race,1,complete
+History,Titanic,Britannica,https://www.britannica.com/topic/Titanic,1,pending
+History,Salem Witch Trials,Britannica,https://www.britannica.com/event/Salem-witch-trials,1,pending
+History,Pirate Age,Royal Museums Greenwich,https://www.rmg.co.uk/stories/maritime-history/pirates-history-golden-age-piracy,1,pending
+History,Samurai,Britannica,https://www.britannica.com/topic/samurai,1,pending
+History,Knights,Britannica,https://www.britannica.com/topic/knight-cavalryman,1,pending
 
 Ancient Civilizations,Ancient Egypt,Britannica,https://www.britannica.com/place/ancient-Egypt,1,complete
 Ancient Civilizations,Maya,Britannica,https://www.britannica.com/topic/Maya-people,1,complete
@@ -54,6 +68,11 @@ Ancient Civilizations,Babylonians,Britannica,https://www.britannica.com/place/Ba
 Ancient Civilizations,Phoenicians,Britannica,https://www.britannica.com/topic/Phoenician,1,complete
 Ancient Civilizations,Indus Valley Civilization,Britannica,https://www.britannica.com/topic/Indus-civilization,1,complete
 Ancient Civilizations,Ancient Persia,Britannica,https://www.britannica.com/place/ancient-Iran,1,complete
+Ancient Civilizations,Ancient Rome,Britannica,https://www.britannica.com/place/ancient-Rome,1,pending
+Ancient Civilizations,Carthage,Britannica,https://www.britannica.com/place/Carthage-ancient-city-Tunisia,1,pending
+Ancient Civilizations,Minoans,Britannica,https://www.britannica.com/topic/Minoan-civilization,1,pending
+Ancient Civilizations,Olmecs,Britannica,https://www.britannica.com/topic/Olmec,1,pending
+Ancient Civilizations,Hittites,Britannica,https://www.britannica.com/topic/Hittite,1,pending
 
 Animals,Octopus,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals/animals-a-to-z/giant-pacific-octopus,1,complete
 Animals,Elephants,WWF,https://www.worldwildlife.org/species/elephant,1,complete
@@ -65,6 +84,11 @@ Animals,Wolves,National Geographic Kids,https://kids.nationalgeographic.com/anim
 Animals,Bees,National Geographic Kids,https://kids.nationalgeographic.com/animals/invertebrates/facts/honeybee,1,complete
 Animals,Sloths,National Geographic Kids,https://kids.nationalgeographic.com/animals/mammals/facts/sloth,1,complete
 Animals,Cheetahs,National Geographic Kids,https://kids.nationalgeographic.com/animals/mammals/facts/cheetah,1,complete
+Animals,Axolotls,National Geographic,https://kids.nationalgeographic.com/animals/amphibians/facts/axolotl,1,pending
+Animals,Platypus,National Geographic,https://kids.nationalgeographic.com/animals/mammals/facts/platypus,1,pending
+Animals,Ravens,Cornell Lab of Ornithology,https://www.allaboutbirds.org/guide/Common_Raven/lifehistory,1,pending
+Animals,Chameleons,National Geographic,https://kids.nationalgeographic.com/animals/reptiles/facts/chameleon,1,pending
+Animals,Mantis Shrimp,National Geographic,https://www.nationalgeographic.com/animals/invertebrates/facts/mantis-shrimp,1,pending
 
 Ocean Life,Sharks,Fisheries,https://www.fisheries.noaa.gov/feature-story/12-shark-facts-may-surprise-you,1,complete
 Ocean Life,Coral Reefs,NOAA,https://oceanservice.noaa.gov/facts/coral.html,1,complete
@@ -76,6 +100,11 @@ Ocean Life,Sea Turtles,NOAA Fisheries,https://www.fisheries.noaa.gov/sea-turtles
 Ocean Life,Seahorses,National Geographic,https://kids.nationalgeographic.com/animals/fish/facts/seahorse,1,complete
 Ocean Life,Starfish,National Geographic,https://www.nationalgeographic.com/animals/invertebrates/facts/starfish-1,1,complete
 Ocean Life,Ocean Currents,NOAA,https://oceanservice.noaa.gov/facts/current.html,1,complete
+Ocean Life,Giant Squid,Smithsonian Ocean,https://ocean.si.edu/ocean-life/invertebrates/giant-squid,1,pending
+Ocean Life,Anglerfish,National Geographic,https://www.nationalgeographic.com/animals/fish/facts/anglerfish,1,pending
+Ocean Life,Orcas,NOAA Fisheries,https://www.fisheries.noaa.gov/species/killer-whale,1,pending
+Ocean Life,Kelp Forests,NOAA,https://oceanservice.noaa.gov/facts/kelp.html,1,pending
+Ocean Life,Sea Otters,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-otter,1,pending
 
 Human Body,Brain,NIH News in Health,https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain,1,complete
 Human Body,Heart,NHLBI,https://www.nhlbi.nih.gov/health/heart,1,complete
@@ -87,6 +116,11 @@ Human Body,Lungs,NHLBI,https://www.nhlbi.nih.gov/health/lungs,1,complete
 Human Body,DNA,Britannica,https://www.britannica.com/science/DNA,1,complete
 Human Body,Immune System,Britannica,https://www.britannica.com/science/immune-system,1,complete
 Human Body,Skin,Britannica,https://www.britannica.com/science/skin,1,complete
+Human Body,Fingerprints,Britannica,https://www.britannica.com/science/fingerprint,1,pending
+Human Body,Taste Buds,Britannica,https://www.britannica.com/science/taste-bud,1,pending
+Human Body,Hair,Britannica,https://www.britannica.com/science/hair-anatomy,1,pending
+Human Body,Gut Microbiome,Harvard T.H. Chan School of Public Health,https://nutritionsource.hsph.harvard.edu/microbiome/,1,pending
+Human Body,Hormones,Britannica,https://www.britannica.com/science/hormone,1,pending
 
 Psychology,Memory,Britannica,https://www.britannica.com/science/memory-psychology,1,complete
 Psychology,Emotions,Britannica,https://www.britannica.com/science/emotion,1,complete
@@ -98,6 +132,11 @@ Psychology,Motivation,Britannica,https://www.britannica.com/topic/motivation,1,c
 Psychology,Learning,Britannica,https://www.britannica.com/science/learning,1,complete
 Psychology,Perception,Britannica,https://www.britannica.com/science/perception,1,complete
 Psychology,Sleep,Britannica,https://www.britannica.com/science/sleep,1,complete
+Psychology,Déjà Vu,Cleveland Clinic,https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern,1,pending
+Psychology,Optical Illusions,HowStuffWorks,https://science.howstuffworks.com/optical-illusions.htm,1,pending
+Psychology,Dreams,Britannica,https://www.britannica.com/science/dream-sleep-experience,1,pending
+Psychology,Phobias,Britannica,https://www.britannica.com/science/phobia,1,pending
+Psychology,Body Language,Psychology Today,https://www.psychologytoday.com/us/basics/body-language,1,pending
 
 Food,Honey,Smithsonian Magazine,https://www.britannica.com/topic/honey,1,complete
 Food,Chocolate,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/a-brief-history-of-chocolate-21860917/,1,complete
@@ -109,6 +148,11 @@ Food,Rice,Britannica,https://www.britannica.com/plant/rice,1,complete
 Food,Pasta,Britannica,https://www.britannica.com/topic/pasta,1,complete
 Food,Ice Cream,Britannica,https://www.britannica.com/topic/ice-cream,1,complete
 Food,Pizza,Britannica,https://www.britannica.com/topic/pizza,1,complete
+Food,Sushi,Britannica,https://www.britannica.com/topic/sushi,1,pending
+Food,Popcorn,Britannica,https://www.britannica.com/topic/popcorn,1,pending
+Food,Potatoes,Britannica,https://www.britannica.com/plant/potato,1,pending
+Food,Bananas,Britannica,https://www.britannica.com/plant/banana-plant,1,pending
+Food,Peanuts,Britannica,https://www.britannica.com/plant/peanut,1,pending
 
 Coffee,Coffee Plant,Britannica,https://www.britannica.com/plant/Coffea,1,pending
 Coffee,Caffeine,Britannica,https://www.britannica.com/science/caffeine,1,pending
@@ -120,6 +164,11 @@ Coffee,Decaf Coffee,National Coffee Association,https://www.ncausa.org/About-Cof
 Coffee,Cold Brew,National Coffee Association,https://www.ncausa.org/About-Coffee/How-to-Make-Cold-Brew-Coffee,1,pending
 Coffee,Latte,National Coffee Association,https://www.ncausa.org/About-Coffee/Types-of-Coffee,1,pending
 Coffee,Cappuccino,National Coffee Association,https://www.ncausa.org/About-Coffee/Types-of-Coffee,1,pending
+Coffee,Arabica Beans,National Coffee Association,https://www.aboutcoffee.org/beans/varieties/,1,pending
+Coffee,Robusta Beans,National Coffee Association,https://www.aboutcoffee.org/beans/varieties/,1,pending
+Coffee,Coffeehouses,Britannica,https://www.britannica.com/topic/cafe-eating-and-drinking-establishment,1,pending
+Coffee,Turkish Coffee,UNESCO Courier,https://courier.unesco.org/en/articles/turkish-coffee-not-just-drink-culture,1,pending
+Coffee,Coffee Origins,National Coffee Association,https://www.aboutcoffee.org/origins/history-of-coffee/,1,pending
 
 Technology,Internet,Britannica,https://www.britannica.com/topic/Internet,1,pending
 Technology,World Wide Web,Britannica,https://www.britannica.com/topic/World-Wide-Web,1,pending
@@ -131,6 +180,11 @@ Technology,Cloud Computing,Britannica,https://www.britannica.com/technology/clou
 Technology,Virtual Reality,Britannica,https://www.britannica.com/technology/virtual-reality,1,pending
 Technology,Blockchain,Britannica,https://www.britannica.com/topic/blockchain,1,pending
 Technology,Cryptography,Britannica,https://www.britannica.com/science/cryptology,1,pending
+Technology,Bluetooth,HowStuffWorks,https://electronics.howstuffworks.com/bluetooth.htm,1,pending
+Technology,USB,Britannica,https://www.britannica.com/technology/USB,1,pending
+Technology,CAPTCHA,Cloudflare,https://www.cloudflare.com/learning/bots/how-captchas-work/,1,pending
+Technology,Search Engines,Britannica,https://www.britannica.com/technology/search-engine,1,pending
+Technology,Data Centers,Cloudflare,https://www.cloudflare.com/learning/cdn/glossary/data-center/,1,pending
 
 Artificial Intelligence,Artificial Intelligence,Britannica,https://www.britannica.com/technology/artificial-intelligence,1,pending
 Artificial Intelligence,Machine Learning,Britannica,https://www.britannica.com/technology/machine-learning,1,pending
@@ -142,6 +196,11 @@ Artificial Intelligence,Generative AI,Britannica,https://www.britannica.com/tech
 Artificial Intelligence,Chatbots,Britannica,https://www.britannica.com/technology/chatbot,1,pending
 Artificial Intelligence,Deep Learning,Britannica,https://www.britannica.com/technology/deep-learning-artificial-intelligence,1,pending
 Artificial Intelligence,Turing Test,Britannica,https://www.britannica.com/science/Turing-test,1,pending
+Artificial Intelligence,AI Hallucinations,IBM,https://www.ibm.com/think/topics/ai-hallucinations,1,pending
+Artificial Intelligence,Recommendation Systems,IBM,https://www.ibm.com/topics/recommendation-engine,1,pending
+Artificial Intelligence,Reinforcement Learning,IBM,https://www.ibm.com/think/topics/reinforcement-learning,1,pending
+Artificial Intelligence,AI Ethics,IBM,https://www.ibm.com/think/topics/ai-ethics,1,pending
+Artificial Intelligence,Autonomous Vehicles,Britannica,https://www.britannica.com/technology/autonomous-vehicle,1,pending
 
 Internet Culture,Memes,Britannica,https://www.britannica.com/topic/meme,1,pending
 Internet Culture,Emojis,Britannica,https://www.britannica.com/topic/emoji,1,pending
@@ -153,6 +212,11 @@ Internet Culture,Streaming,Britannica,https://www.britannica.com/topic/streaming
 Internet Culture,Influencers,Britannica,https://www.britannica.com/topic/social-media-influencer,1,pending
 Internet Culture,Social Media,Britannica,https://www.britannica.com/topic/social-media,1,pending
 Internet Culture,Internet Communities,Britannica,https://www.britannica.com/topic/online-community,1,pending
+Internet Culture,Viral Challenges,The Falcon,https://thefalcon.kinkaid.org/2841/features/internet-challenges-came/,1,pending
+Internet Culture,Reaction GIFs,Smithsonian Magazine,https://www.smithsonianmag.com/history/brief-history-gif-early-internet-innovation-ubiquitous-relic-180963543/,1,pending
+Internet Culture,Reddit,Britannica,https://www.britannica.com/topic/Reddit,1,pending
+Internet Culture,Livestreaming,IBM,https://www.ibm.com/topics/live-streaming,1,pending
+Internet Culture,Internet Slang,McNutt & Partners,https://www.mcnuttpartners.com/linguistics-exploring-the-origins-of-internet-slang/,1,pending
 
 Video Games,Pac-Man,Britannica,https://www.britannica.com/topic/Pac-Man-video-game,1,pending
 Video Games,Nintendo,Britannica,https://www.britannica.com/topic/Nintendo-Company-Ltd,1,pending
@@ -161,9 +225,13 @@ Video Games,Minecraft,Britannica,https://www.britannica.com/topic/Minecraft-vide
 Video Games,Pokemon,Britannica,https://kids.britannica.com/students/article/Pokemon/633168,1,pending
 Video Games,Atari,Britannica,https://kids.britannica.com/students/article/Atari-Inc/273095,1,pending
 Video Games,Arcade Games,Britannica,https://www.britannica.com/topic/electronic-game,1,pending
-Video Games,Speedrunning,Red Bull,https://www.redbull.com/us-en/history-of-speedrunning,1,pending
 Video Games,Esports,Britannica,https://www.britannica.com/sports/esports,1,pending
 Video Games,Virtual Worlds,Britannica,https://www.britannica.com/topic/virtual-reality,1,pending
+Video Games,Tetris,Britannica,https://www.britannica.com/topic/Tetris,1,pending
+Video Games,Zelda,Britannica,https://www.britannica.com/topic/The-Legend-of-Zelda,1,pending
+Video Games,Mario,History,https://www.history.com/articles/super-mario-history-nintendo-donkey-kong-facts,1,pending
+Video Games,Speedrunning,BBC,https://www.bbc.co.uk/programmes/articles/3YmM2yrG4rp9ZHG54pcKjgf/speedrunning-a-brief-history-of-the-gaming-phenomenon,1,pending
+Video Games,Easter Eggs,BBC Bitesize,https://www.bbc.co.uk/bitesize/articles/zcts46f,1,pending
 
 Movies,Silent Films,Library of Congress,https://www.loc.gov/static/programs/national-film-preservation-board/documents/silent_films.pdf,1,pending
 Movies,Animation,Britannica,https://www.britannica.com/art/animation,1,pending
@@ -175,6 +243,11 @@ Movies,Film Editing,Encyclopedia.com,https://www.encyclopedia.com/arts/encyclope
 Movies,3D Movies,Britannica,https://www.britannica.com/art/3-D-film,1,pending
 Movies,Documentaries,Britannica,https://www.britannica.com/art/documentary-film,1,pending
 Movies,Film Festivals,Britannica,https://www.britannica.com/art/film-festival,1,pending
+Movies,Stop Motion,Fathom Entertainment,https://www.fathomentertainment.com/blog/masters-of-stop-motion/,1,pending
+Movies,Pixar,Britannica,https://www.britannica.com/topic/Pixar-Animation-Studios,1,pending
+Movies,Movie Trailers,MovieWeb,https://movieweb.com/movie-trailers-history-evolution/,1,pending
+Movies,Movie Makeup,Britannica,https://www.britannica.com/art/makeup-performing-arts,1,pending
+Movies,Technicolor,Hollywood Reporter,https://www.hollywoodreporter.com/business/business-news/technicolor-rise-fall-hollywood-1236159788/,1,pending
 
 Music,Vinyl Records,Britannica,https://www.britannica.com/art/sound-recording,1,pending
 Music,Synthesizers,Encyclopedia.com,https://www.encyclopedia.com/science-and-technology/computers-and-electrical-engineering/electrical-engineering/synthesizer,1,pending
@@ -186,6 +259,11 @@ Music,Classical Music,Britannica,https://www.britannica.com/art/Western-music,1,
 Music,Musical Instruments,Britannica,https://www.britannica.com/art/musical-instrument,1,pending
 Music,Streaming Music,Britannica,https://www.britannica.com/topic/streaming-media,1,pending
 Music,Recording Studios,Britannica,https://www.britannica.com/art/sound-recording,1,pending
+Music,Drum Machines,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/history-tr-808-drum-machine-180975205/,1,pending
+Music,Auto-Tune,Britannica,https://www.britannica.com/technology/Auto-Tune,1,pending
+Music,Sampling,Library of Congress / Citizen DJ,https://citizen-dj.labs.loc.gov/guide/,1,pending
+Music,DJ Culture,PBS,https://www.pbs.org/opb/historydetectives/feature/the-art-of-turntablism/,1,pending
+Music,Music Festivals,TIME,https://time.com/5651255/business-of-music-festivals/,1,pending
 
 Sports,Olympic Games,Britannica,https://www.britannica.com/sports/Olympic-Games,1,pending
 Sports,Soccer,Britannica,https://www.britannica.com/sports/football-soccer,1,pending
@@ -197,6 +275,11 @@ Sports,Track and Field,World Athletics,https://worldathletics.org/disciplines,1,
 Sports,Swimming,Britannica,https://www.britannica.com/sports/swimming-sport,1,pending
 Sports,Golf,Britannica,https://www.britannica.com/sports/golf,1,pending
 Sports,World Records,Guinness World Records,https://www.guinnessworldrecords.com/,1,pending
+Sports,Surfing,Olympics,https://www.olympics.com/en/sports/surfing/,1,pending
+Sports,Skateboarding,Olympics,https://www.olympics.com/en/sports/skateboarding/,1,pending
+Sports,Formula 1,Formula 1,https://www.formula1.com/en/latest/article/drivers-teams-cars-circuits-and-more-everything-you-need-to-know-about.7iQfL3Rivf1comzdqV5jwc,1,pending
+Sports,Chess,Britannica,https://www.britannica.com/topic/chess,1,pending
+Sports,Parkour,Britannica,https://www.britannica.com/sports/parkour,1,pending
 
 Engineering,Lever,Britannica,https://www.britannica.com/science/lever,1,pending
 Engineering,Pulley,Britannica,https://www.britannica.com/technology/pulley,1,pending
@@ -208,6 +291,11 @@ Engineering,Steel,Britannica,https://www.britannica.com/technology/steel,1,pendi
 Engineering,Dams,Britannica,https://www.britannica.com/technology/dam-engineering,1,pending
 Engineering,Hydroelectric Power,Britannica,https://www.britannica.com/science/hydroelectric-power,1,pending
 Engineering,Bearings,Britannica,https://www.britannica.com/technology/bearing-machine-component,1,pending
+Engineering,Suspension Bridges,Britannica,https://www.britannica.com/technology/suspension-bridge,1,pending
+Engineering,Tunnels,Britannica,https://www.britannica.com/technology/tunnel,1,pending
+Engineering,Elevators,Britannica,https://www.britannica.com/technology/elevator-vertical-transport,1,pending
+Engineering,Cranes,Britannica,https://www.britannica.com/technology/crane-materials-handling,1,pending
+Engineering,Earthquake Engineering,Britannica,https://www.britannica.com/technology/earthquake-resistant-structure,1,pending
 
 Aviation,Aerodynamics,Britannica,https://www.britannica.com/science/aerodynamics,1,pending
 Aviation,Airplanes,Britannica,https://www.britannica.com/technology/airplane,1,pending
@@ -219,6 +307,11 @@ Aviation,Gliders,Britannica,https://www.britannica.com/technology/glider-aircraf
 Aviation,Air Traffic Control,Britannica,https://www.britannica.com/topic/air-traffic-control,1,pending
 Aviation,Flight Recorders,Britannica,https://www.britannica.com/technology/flight-recorder,1,pending
 Aviation,Supersonic Flight,Britannica,https://www.britannica.com/science/supersonic-flight,1,pending
+Aviation,Winglets,NASA Glenn Research Center,https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/winglets/,1,pending
+Aviation,Flying Boats,Hartzell Propeller,https://hartzellprop.com/history-of-seaplanes/,1,pending
+Aviation,Ejection Seats,Martin-Baker,https://martin-baker.com/our-history/,1,pending
+Aviation,Drones,FAA,https://www.faa.gov/uas,1,pending
+Aviation,Autopilot,Britannica,https://www.britannica.com/technology/automatic-pilot,1,pending
 
 Cars,Automobiles,Britannica,https://www.britannica.com/technology/automobile,1,pending
 Cars,Internal Combustion Engines,Britannica,https://www.britannica.com/technology/internal-combustion-engine,1,pending
@@ -230,6 +323,11 @@ Cars,Cruise Control,Britannica,https://www.britannica.com/technology/cruise-cont
 Cars,Tires,Britannica,https://www.britannica.com/technology/tire,1,pending
 Cars,Transmission,Britannica,https://www.britannica.com/technology/automobile/Transmission,1,pending
 Cars,Brakes,Britannica,https://www.britannica.com/technology/brake,1,pending
+Cars,Airbags,NHTSA,https://www.nhtsa.gov/vehicle-safety/air-bags,1,pending
+Cars,Windshield Wipers,National Inventors Hall of Fame,https://www.invent.org/inductees/mary-anderson,1,pending
+Cars,Car Horns,Car and Driver,https://www.caranddriver.com/features/a20776837/meep-meep-the-history-and-evolution-of-car-horns-feature/,2,pending
+Cars,Crumple Zones,Travelers,https://www.travelers.com/resources/auto/safe-driving/how-crumple-zones-work,2,pending
+Cars,Crash Test Dummies,NHTSA,https://www.nhtsa.gov/nhtsas-crash-test-dummies,1,pending
 
 Physics,Gravity,Britannica,https://www.britannica.com/science/gravity-physics,1,pending
 Physics,Relativity,Britannica,https://www.britannica.com/science/relativity,1,pending
@@ -241,6 +339,11 @@ Physics,Magnetism,Britannica,https://www.britannica.com/science/magnetism,1,pend
 Physics,Energy,Britannica,https://www.britannica.com/science/energy,1,pending
 Physics,Motion,Britannica,https://www.britannica.com/science/motion-physics,1,pending
 Physics,Time,Britannica,https://www.britannica.com/science/time,1,pending
+Physics,Friction,Britannica,https://www.britannica.com/science/friction,1,pending
+Physics,Inertia,NASA Glenn Research Center,https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/,1,pending
+Physics,Waves,Britannica,https://www.britannica.com/science/wave-physics,1,pending
+Physics,Lasers,Britannica,https://www.britannica.com/technology/How-Does-a-Laser-Work,1,pending
+Physics,Superconductors,CERN,https://home.cern/science/physics/superconductivity/,1,pending
 
 Chemistry,Atoms,Britannica,https://www.britannica.com/science/atom,1,pending
 Chemistry,Molecules,Britannica,https://www.britannica.com/science/molecule,1,pending
@@ -252,6 +355,11 @@ Chemistry,Acids and Bases,Britannica,https://www.britannica.com/science/acid-bas
 Chemistry,States of Matter,Britannica,https://www.britannica.com/science/state-of-matter,1,pending
 Chemistry,Metals,Britannica,https://www.britannica.com/science/metal-chemistry,1,pending
 Chemistry,Radioactivity,Britannica,https://www.britannica.com/science/radioactivity,1,pending
+Chemistry,Combustion,Britannica,https://www.britannica.com/science/combustion,1,pending
+Chemistry,Oxidation,Britannica,https://www.britannica.com/science/oxidation-reduction-reaction,1,pending
+Chemistry,Polymers,Britannica,https://www.britannica.com/science/polymer,1,pending
+Chemistry,Catalysts,Britannica,https://www.britannica.com/science/catalyst,1,pending
+Chemistry,Crystals,Britannica,https://www.britannica.com/science/crystal,1,pending
 
 Mathematics,Pi,Britannica,https://www.britannica.com/science/pi-mathematics,1,pending
 Mathematics,Prime Numbers,Britannica,https://www.britannica.com/science/prime-number,1,pending
@@ -263,6 +371,11 @@ Mathematics,Geometry,Britannica,https://www.britannica.com/science/geometry,1,pe
 Mathematics,Algebra,Britannica,https://www.britannica.com/science/algebra,1,pending
 Mathematics,Calculus,Britannica,https://www.britannica.com/science/calculus-mathematics,1,pending
 Mathematics,Fractals,Britannica,https://www.britannica.com/science/fractal,1,pending
+Mathematics,Golden Ratio,Britannica,https://www.britannica.com/science/golden-ratio,1,pending
+Mathematics,Chaos Theory,Britannica,https://www.britannica.com/science/chaos-theory,1,pending
+Mathematics,Game Theory,Britannica,https://www.britannica.com/science/game-theory,1,pending
+Mathematics,Logarithms,Britannica,https://www.britannica.com/science/logarithm,1,pending
+Mathematics,Topology,Britannica,https://www.britannica.com/science/topology,1,pending
 
 Business,Entrepreneurship,Britannica,https://www.britannica.com/topic/entrepreneur-business,1,pending
 Business,Branding,Investopedia,https://www.investopedia.com/terms/b/brand.asp,1,pending
@@ -274,6 +387,11 @@ Business,Supply and Demand,Britannica,https://www.britannica.com/topic/supply-an
 Business,Trade,Britannica,https://www.britannica.com/topic/trade-economic-system,1,pending
 Business,Brands,Britannica,https://www.britannica.com/topic/trademark,1,pending
 Business,Corporations,Britannica,https://www.britannica.com/topic/corporation,1,pending
+Business,Monopolies,Britannica,https://www.britannica.com/money/monopoly-economics,1,pending
+Business,Patents,USPTO,https://www.uspto.gov/patents/basics/essentials,1,pending
+Business,Trademarks,USPTO,https://www.uspto.gov/trademarks/basics/what-trademark,1,pending
+Business,Business Cards,Smithsonian Magazine,https://www.smithsonianmag.com/smart-news/instead-cheesy-pickup-lines-19th-century-americans-gave-out-calling-cards-180957743/,1,pending
+Business,Trade Secrets,USPTO,https://www.uspto.gov/ip-policy/trade-secret-policy,1,pending
 
 Economics,Scarcity,Investopedia,https://www.investopedia.com/terms/s/scarcity.asp,1,pending
 Economics,Opportunity Cost,Investopedia,https://www.investopedia.com/terms/o/opportunitycost.asp,1,pending
@@ -285,6 +403,11 @@ Economics,Banking,Britannica,https://www.britannica.com/topic/bank,1,pending
 Economics,Currency,Britannica,https://www.britannica.com/topic/currency,1,pending
 Economics,Capitalism,Britannica,https://www.britannica.com/topic/capitalism,1,pending
 Economics,Globalization,Britannica,https://www.britannica.com/topic/globalization,1,pending
+Economics,Interest Rates,Britannica,https://www.britannica.com/money/interest-rates,1,pending
+Economics,Supply Chains,Britannica,https://www.britannica.com/money/what-is-supply-chain-management,1,pending
+Economics,Barter,Britannica,https://www.britannica.com/money/barter-trade,1,pending
+Economics,Economic Bubbles,Britannica,https://www.britannica.com/money/dot-com-bubble,1,pending
+Economics,Minimum Wage,Britannica,https://www.britannica.com/money/minimum-wage,1,pending
 
 Literature,Poetry,Britannica,https://www.britannica.com/art/poetry,1,pending
 Literature,Novels,Britannica,https://www.britannica.com/art/novel,1,pending
@@ -296,6 +419,11 @@ Literature,Libraries,Britannica,https://www.britannica.com/topic/library,1,pendi
 Literature,Comics,Britannica,https://www.britannica.com/art/comic-strip,1,pending
 Literature,Printing,Britannica,https://www.britannica.com/technology/printing-press,1,pending
 Literature,Storytelling,Britannica,https://www.britannica.com/art/storytelling,1,pending
+Literature,Banned Books,Britannica,https://www.britannica.com/topic/book-banning,1,pending
+Literature,Pulp Fiction Covers,Public Domain Review,https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914,1,pending
+Literature,Anonymous Authors,Royal Literary Fund,https://www.rlf.org.uk/posts/pseudonyms/,1,pending
+Literature,Epic Poems,Britannica,https://www.britannica.com/art/epic,1,pending
+Literature,Detective Fiction,Britannica,https://www.britannica.com/art/detective-story-narrative-genre,1,pending
 
 Languages,Writing Systems,Britannica,https://www.britannica.com/topic/writing,1,pending
 Languages,Alphabet,Britannica,https://www.britannica.com/topic/alphabet-writing-system,1,pending
@@ -307,6 +435,11 @@ Languages,Dictionaries,Britannica,https://www.britannica.com/topic/dictionary-re
 Languages,Translation,Britannica,https://www.britannica.com/topic/translation-language,1,pending
 Languages,Ancient Languages,Britannica,https://www.britannica.com/topic/language,1,pending
 Languages,Endangered Languages,Britannica,https://www.britannica.com/topic/language,1,pending
+Languages,Palindromes,Britannica,https://www.britannica.com/art/palindrome,1,pending
+Languages,Tongue Twisters,Britannica,https://www.britannica.com/topic/tongue-twister,1,pending
+Languages,Accents,Smithsonian Magazine,https://www.smithsonianmag.com/history/a-brief-history-of-the-united-states-accents-and-dialects-180983591/,1,pending
+Languages,Loanwords,Britannica,https://www.britannica.com/topic/loanword,1,pending
+Languages,Punctuation,The Punctuation Guide,https://www.thepunctuationguide.com/,2,pending
 
 Architecture,Skyscrapers,Britannica,https://www.britannica.com/technology/skyscraper,1,pending
 Architecture,Bridges,Britannica,https://www.britannica.com/technology/bridge-engineering,1,pending
@@ -318,6 +451,11 @@ Architecture,Urban Planning,Britannica,https://www.britannica.com/topic/urban-pl
 Architecture,Concrete,Britannica,https://www.britannica.com/technology/concrete-building-material,1,pending
 Architecture,Domes,Britannica,https://www.britannica.com/technology/dome-architecture,1,pending
 Architecture,Arches,Britannica,https://www.britannica.com/technology/arch-architecture,1,pending
+Architecture,Columns,Britannica,https://www.britannica.com/technology/column-architecture,1,pending
+Architecture,Courtyards,Britannica,https://www.britannica.com/technology/court-architecture,1,pending
+Architecture,Glass Buildings,Britannica,https://www.britannica.com/technology/curtain-wall,1,pending
+Architecture,Brutalism,Britannica,https://www.britannica.com/art/Brutalism-architecture,1,pending
+Architecture,Bauhaus,Britannica,https://www.britannica.com/topic/Bauhaus,1,pending
 
 Myths & Legends,Dragons,Britannica,https://www.britannica.com/topic/dragon-mythological-creature,1,pending
 Myths & Legends,Phoenix,Britannica,https://www.britannica.com/topic/phoenix-mythological-bird,1,pending
@@ -330,6 +468,11 @@ Myths & Legends,Atlantis,Britannica,https://www.britannica.com/topic/Atlantis-le
 Myths & Legends,Sasquatch,Britannica,https://www.britannica.com/topic/sasquatch,1,pending
 Myths & Legends,Loch Ness Monster,Britannica,https://www.britannica.com/topic/Loch-Ness-monster-legendary-creature,1,pending
 Myths & Legends,Yeti,Britannica,https://www.britannica.com/topic/Abominable-Snowman,1,pending
+Myths & Legends,Kraken,Britannica,https://www.britannica.com/topic/kraken,1,pending
+Myths & Legends,Minotaur,Britannica,https://www.britannica.com/topic/Minotaur,1,pending
+Myths & Legends,Werewolves,Britannica,https://www.britannica.com/art/werewolf,1,pending
+Myths & Legends,Fairies,Britannica,https://www.britannica.com/art/fairy,1,pending
+Myths & Legends,King Arthur,Britannica,https://www.britannica.com/topic/King-Arthur,1,pending
 
 Mysteries,Bermuda Triangle,Britannica,https://www.britannica.com/place/Bermuda-Triangle,1,pending
 Mysteries,Stonehenge,Britannica,https://www.britannica.com/topic/Stonehenge,1,pending
@@ -341,6 +484,11 @@ Mysteries,Area 51,Britannica,https://www.britannica.com/place/Area-51,1,pending
 Mysteries,Crop Circles,Britannica,https://www.britannica.com/topic/crop-circle,1,pending
 Mysteries,UFOs,Britannica,https://www.britannica.com/topic/unidentified-flying-object,1,pending
 Mysteries,Amelia Earhart,Britannica,https://www.britannica.com/biography/Amelia-Earhart,1,pending
+Mysteries,Dyatlov Pass,National Geographic,https://www.nationalgeographic.com/premium/article/has-science-solved-history-greatest-adventure-mystery-dyatlov,1,pending
+Mysteries,Oak Island,The Canadian Encyclopedia,https://thecanadianencyclopedia.ca/en/article/oak-island,1,pending
+Mysteries,Antikythera Mechanism,Britannica,https://www.britannica.com/topic/Antikythera-mechanism,1,pending
+Mysteries,Taos Hum,Live Science,https://www.livescience.com/43519-taos-hum.html,2,pending
+Mysteries,Wow! Signal,SETI Institute,https://www.seti.org/research/seti-101/the-wow-signal/,1,pending
 
 Medicine,Vaccines,Britannica,https://www.britannica.com/science/vaccine,1,pending
 Medicine,Antibiotics,Britannica,https://www.britannica.com/science/antibiotic,1,pending
@@ -352,6 +500,11 @@ Medicine,Germ Theory,Britannica,https://www.britannica.com/science/germ-theory,1
 Medicine,Stethoscope,Britannica,https://www.britannica.com/science/stethoscope,1,pending
 Medicine,Transplant Surgery,Britannica,https://www.britannica.com/science/transplant-surgery,1,pending
 Medicine,Diagnostic Imaging,Britannica,https://www.britannica.com/science/diagnostic-imaging,1,pending
+Medicine,Placebo Effect,Britannica,https://www.britannica.com/science/placebo-effect,1,pending
+Medicine,Insulin,Britannica,https://www.britannica.com/science/insulin,1,pending
+Medicine,Blood Transfusions,American Red Cross,https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood/blood-transfusions/history-blood-transfusion.html,1,pending
+Medicine,Prosthetics,Britannica,https://www.britannica.com/science/prosthesis,1,pending
+Medicine,Medical Robots,Cleveland Clinic,https://my.clevelandclinic.org/health/treatments/22178-robotic-surgery,1,pending
 
 Geography,Volcanoes,Britannica,https://www.britannica.com/science/volcano,1,pending
 Geography,Mountains,Britannica,https://www.britannica.com/science/mountain-landform,1,pending
@@ -363,6 +516,11 @@ Geography,Lakes,Britannica,https://www.britannica.com/science/lake,1,pending
 Geography,Valleys,Britannica,https://www.britannica.com/science/valley,1,pending
 Geography,Plate Tectonics,Britannica,https://www.britannica.com/science/plate-tectonics,1,pending
 Geography,Oceans,Britannica,https://www.britannica.com/science/ocean,1,pending
+Geography,Caves,National Park Service,https://www.nps.gov/subjects/caves/making-a-cave.htm,1,pending
+Geography,Waterfalls,National Geographic Education,https://education.nationalgeographic.org/resource/waterfall/,1,pending
+Geography,Fjords,National Geographic Education,https://education.nationalgeographic.org/resource/fjord/,1,pending
+Geography,Rainforests,National Geographic Education,https://education.nationalgeographic.org/resource/rain-forest/,1,pending
+Geography,Coral Islands,Britannica,https://www.britannica.com/science/coral-island,1,pending
 
 Weather,Tornadoes,Britannica,https://www.britannica.com/science/tornado,1,pending
 Weather,Hurricanes,Britannica,https://www.britannica.com/science/tropical-cyclone,1,pending
@@ -374,6 +532,11 @@ Weather,Thunder,Britannica,https://www.britannica.com/science/thunder,1,pending
 Weather,Climate,Britannica,https://www.britannica.com/science/climate-meteorology,1,pending
 Weather,Seasons,Britannica,https://www.britannica.com/science/season,1,pending
 Weather,Aurora,Britannica,https://www.britannica.com/science/aurora-atmospheric-phenomenon,1,pending
+Weather,Rainbows,NOAA NESDIS,https://www.nesdis.noaa.gov/about/k-12-education/optical-phenomena/what-causes-rainbow,1,pending
+Weather,Fog,National Weather Service,https://www.weather.gov/source/zhu/ZHU_Training_Page/fog_stuff/fog_definitions/Fog_definitions.html,1,pending
+Weather,Hail,NOAA National Severe Storms Laboratory,https://www.nssl.noaa.gov/education/svrwx101/hail/types/,1,pending
+Weather,Monsoons,National Geographic Education,https://education.nationalgeographic.org/resource/monsoon/,1,pending
+Weather,El Niño,NOAA Ocean Service,https://oceanservice.noaa.gov/facts/ninonina.html,1,pending
 
 Inventions,Wheel,Britannica,https://www.britannica.com/technology/wheel,1,pending
 Inventions,Printing Press,Britannica,https://www.britannica.com/technology/printing-press,1,pending
@@ -385,6 +548,11 @@ Inventions,GPS,Britannica,https://www.britannica.com/technology/GPS,1,pending
 Inventions,Internet,Britannica,https://www.britannica.com/topic/Internet,1,pending
 Inventions,QR Codes,Britannica,https://www.britannica.com/technology/QR-Code,1,pending
 Inventions,Batteries,Britannica,https://www.britannica.com/technology/battery-electronics,1,pending
+Inventions,Velcro,National Inventors Hall of Fame,https://www.invent.org/inductees/george-de-mestral,1,pending
+Inventions,Barcode,National Inventors Hall of Fame,https://www.invent.org/inductees/bernard-silver,1,pending
+Inventions,Ballpoint Pen,National Inventors Hall of Fame,https://www.invent.org/inductees/laszlo-josef-biro,1,pending
+Inventions,Safety Pin,National Inventors Hall of Fame,https://www.invent.org/inductees/walter-hunt,1,pending
+Inventions,Post-it Notes,National Inventors Hall of Fame,https://www.invent.org/blog/trends-stem/who-invented-post-it-notes,1,pending
 
 Religion & Beliefs,Myth,Britannica,https://www.britannica.com/topic/myth,1,pending
 Religion & Beliefs,Religion,Britannica,https://www.britannica.com/topic/religion,1,pending
@@ -397,3 +565,14 @@ Religion & Beliefs,Monotheism,Britannica,https://www.britannica.com/topic/monoth
 Religion & Beliefs,Iconography,Britannica,https://www.britannica.com/art/iconography,1,pending
 Religion & Beliefs,Pilgrimage,Britannica,https://www.britannica.com/topic/pilgrimage-religion,1,pending
 Religion & Beliefs,Ritual,Britannica,https://www.britannica.com/topic/ritual,1,pending
+Religion & Beliefs,Sacred Texts,Britannica,https://www.britannica.com/topic/scripture,1,pending
+Religion & Beliefs,Monasteries,Britannica,https://www.britannica.com/topic/monasticism,1,pending
+Religion & Beliefs,Prayer Beads,Britannica,https://www.britannica.com/topic/rosary,1,pending
+Religion & Beliefs,Religious Calendars,Britannica,https://www.britannica.com/science/calendar/Ancient-and-religious-calendar-systems,1,pending
+Religion & Beliefs,Fasting,Britannica,https://www.britannica.com/topic/fasting,1,pending
+
+Dinosaurs,Tyrannosaurus Rex,Britannica,https://www.britannica.com/animal/Tyrannosaurus-rex,1,pending
+Dinosaurs,Velociraptor,Britannica,https://www.britannica.com/animal/Velociraptor,1,pending
+Dinosaurs,Triceratops,Britannica,https://www.britannica.com/animal/Triceratops,1,pending
+Dinosaurs,Stegosaurus,Britannica,https://www.britannica.com/animal/Stegosaurus,1,pending
+Dinosaurs,Fossils,Britannica,https://www.britannica.com/science/fossil,1,pending
