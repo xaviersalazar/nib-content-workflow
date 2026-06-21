@@ -100,11 +100,11 @@ Ocean Life,Sea Turtles,NOAA Fisheries,https://www.fisheries.noaa.gov/sea-turtles
 Ocean Life,Seahorses,National Geographic,https://kids.nationalgeographic.com/animals/fish/facts/seahorse,1,complete
 Ocean Life,Starfish,National Geographic,https://www.nationalgeographic.com/animals/invertebrates/facts/starfish-1,1,complete
 Ocean Life,Ocean Currents,NOAA,https://oceanservice.noaa.gov/facts/current.html,1,complete
-Ocean Life,Giant Squid,Smithsonian Ocean,https://ocean.si.edu/ocean-life/invertebrates/giant-squid,1,pending
-Ocean Life,Anglerfish,National Geographic,https://www.nationalgeographic.com/animals/fish/facts/anglerfish,1,pending
-Ocean Life,Orcas,NOAA Fisheries,https://www.fisheries.noaa.gov/species/killer-whale,1,pending
-Ocean Life,Kelp Forests,NOAA,https://oceanservice.noaa.gov/facts/kelp.html,1,pending
-Ocean Life,Sea Otters,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-otter,1,pending
+Ocean Life,Giant Squid,Smithsonian Ocean,https://ocean.si.edu/ocean-life/invertebrates/giant-squid,1,complete
+Ocean Life,Anglerfish,National Geographic,https://www.nationalgeographic.com/animals/fish/facts/anglerfish,1,complete
+Ocean Life,Orcas,NOAA Fisheries,https://www.fisheries.noaa.gov/species/killer-whale,1,complete
+Ocean Life,Kelp Forests,NOAA,https://oceanservice.noaa.gov/facts/kelp.html,1,complete
+Ocean Life,Sea Otters,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-otter,1,complete
 
 Human Body,Brain,NIH News in Health,https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain,1,complete
 Human Body,Heart,NHLBI,https://www.nhlbi.nih.gov/health/heart,1,complete
