@@ -1199,6 +1199,312 @@
     "relatedFactIds": []
   },
   {
+    "id": "kuiper-belt-neptune-stopped-planet",
+    "headline": "Neptune May Have Stopped a Planet From Forming",
+    "body": "The Kuiper Belt is full of icy leftovers from the early solar system. NASA says these objects might have come together to form a planet if Neptune had not been there. Neptune's gravity stirred the region so much that the small icy bodies could not merge into one large world. Instead, they stayed scattered beyond Neptune, leaving behind a frozen zone of almost-planets.",
+    "summary": "A whole planet may have failed to form because Neptune kept stirring the pieces apart.",
+    "categoryId": "space",
+    "topic": "Kuiper Belt",
+    "tags": [
+      "space",
+      "solar system",
+      "kuiper belt",
+      "neptune",
+      "planet formation"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "kuiper-belt-huge-but-light",
+    "headline": "The Kuiper Belt Is Huge but Barely Weighs Anything",
+    "body": "The Kuiper Belt is one of the largest structures in our solar system. It begins near Neptune's orbit, around 30 AU from the Sun, and its main region reaches about 50 AU. A second region called the scattered disk stretches much farther, nearly to 1,000 AU. Even with all that space, NASA estimates the belt's total material is no more than about 10% of Earth's mass.",
+    "summary": "It stretches far beyond Neptune, but all its material adds up to only a small slice of Earth.",
+    "categoryId": "space",
+    "topic": "Kuiper Belt",
+    "tags": [
+      "space",
+      "solar system",
+      "kuiper belt",
+      "neptune",
+      "icy worlds"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "kuiper-belt-pluto-avoids-neptune",
+    "headline": "Pluto Crosses Neptune's Orbit but Avoids Neptune",
+    "body": "Pluto's path crosses Neptune's orbit, but the two worlds do not have close encounters. Pluto is locked in a stable pattern with Neptune called a resonance. For every three trips Neptune makes around the Sun, Pluto makes two. NASA says this keeps Pluto from getting close enough for Neptune's gravity to bother it much. Pluto even gets physically closer to Uranus than it ever does to Neptune.",
+    "summary": "Pluto crosses Neptune's orbit, yet its timing keeps it safely out of Neptune's way.",
+    "categoryId": "space",
+    "topic": "Kuiper Belt",
+    "tags": [
+      "space",
+      "solar system",
+      "pluto",
+      "kuiper belt",
+      "neptune"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "kuiper-belt-arrokoth-red-snowman",
+    "headline": "A Spacecraft Visited a Red Snowman World",
+    "body": "Arrokoth is a small Kuiper Belt object made of two lobes that touch. NASA calls this kind of object a contact binary. When New Horizons flew past it on Jan. 1, 2019, the images showed something like a partly flattened red snowman. NASA says Arrokoth is the most distant and most primitive object ever explored by a spacecraft.",
+    "summary": "New Horizons found a tiny double-lobed world that looked like a flattened red snowman.",
+    "categoryId": "space",
+    "topic": "Kuiper Belt",
+    "tags": [
+      "space",
+      "solar system",
+      "kuiper belt",
+      "arrokoth",
+      "new horizons"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "oort-cloud-voyager-300-years",
+    "headline": "Voyager 1 Still Has 300 Years to Reach the Oort Cloud",
+    "body": "The Oort Cloud is so far away that even Voyager 1 is nowhere near it yet. NASA says Voyager 1 travels about a million miles a day. At that speed, it will not enter the Oort Cloud for about 300 years. It may take another 30,000 years before the spacecraft exits the cloud's outer edge.",
+    "summary": "The farthest spacecraft from Earth still has centuries to go before it reaches this icy frontier.",
+    "categoryId": "space",
+    "topic": "Oort Cloud",
+    "tags": [
+      "space",
+      "solar system",
+      "oort cloud",
+      "voyager",
+      "distance"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "oort-cloud-sunlight-takes-days",
+    "headline": "Sunlight Takes Days to Reach the Oort Cloud",
+    "body": "Sunlight reaches Earth in a little over eight minutes. It reaches Neptune's orbit in about 4.5 hours, then passes beyond the Kuiper Belt a few hours later. But NASA says that same sunlight needs another 10 to 28 days to reach the inner edge of the Oort Cloud. It could take as much as a year and a half to pass beyond the cloud's outer edge.",
+    "summary": "Light can cross the inner solar system in hours, then spend days reaching this distant shell.",
+    "categoryId": "space",
+    "topic": "Oort Cloud",
+    "tags": [
+      "space",
+      "solar system",
+      "oort cloud",
+      "sunlight",
+      "distance"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "oort-cloud-bubble-not-belt",
+    "headline": "The Oort Cloud Is a Bubble Not a Belt",
+    "body": "The Oort Cloud is not shaped like a flat ring around the Sun. NASA says its objects can travel over, under, and at many angles around the solar system. That makes it more like a thick bubble of icy debris than a belt. This is also why long-period comets can seem to arrive from all directions, instead of from the same plane as the planets.",
+    "summary": "It surrounds the solar system like a giant icy bubble, which helps explain why some comets come from every direction.",
+    "categoryId": "space",
+    "topic": "Oort Cloud",
+    "tags": [
+      "space",
+      "solar system",
+      "oort cloud",
+      "comets",
+      "orbits"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "oort-cloud-comets-before-humans",
+    "headline": "Some Comets Last Visited Before Humans Existed",
+    "body": "The Oort Cloud may hold hundreds of billions, or even trillions, of icy bodies. Sometimes one is disturbed and begins a long fall toward the Sun as a comet. NASA says most known long-period comets have been seen only once in recorded history because their orbits are so long. Some last passed through the inner solar system before our species existed. Others may never have come near the Sun since they formed.",
+    "summary": "Some comets take so long to return that humans were not around the last time they visited.",
+    "categoryId": "space",
+    "topic": "Oort Cloud",
+    "tags": [
+      "space",
+      "solar system",
+      "oort cloud",
+      "comets",
+      "deep time"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "meteor-showers-comet-dust",
+    "headline": "Meteor Showers Are Earth Flying Through Comet Dust",
+    "body": "A meteor shower happens when Earth passes through a trail of dusty debris left by a comet. Those tiny bits rush into our atmosphere at high speed and burn up as meteors. NASA says most of this comet debris is only between the size of a grain of sand and a pea. So a night full of shooting stars can come from specks of old comet dust.",
+    "summary": "Those bright streaks in the sky can come from dust no bigger than sand or a pea.",
+    "categoryId": "space",
+    "topic": "Meteor Showers",
+    "tags": [
+      "space",
+      "meteor showers",
+      "meteors",
+      "comets",
+      "earth"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "meteor-showers-perseids-swift-tuttle",
+    "headline": "Every Perseid Meteor Is a Piece of One Comet",
+    "body": "The Perseids are one of the most famous meteor showers, and they peak around August 12 each year. NASA says every Perseid meteor is a tiny piece of comet Swift-Tuttle. That comet swings by the Sun every 135 years, leaving a dusty trail behind it. When Earth crosses that trail, pieces of the comet burn up above us as bright streaks.",
+    "summary": "A summer meteor shower is really Earth crossing the leftovers of comet Swift-Tuttle.",
+    "categoryId": "space",
+    "topic": "Meteor Showers",
+    "tags": [
+      "space",
+      "meteor showers",
+      "perseids",
+      "comets",
+      "swift-tuttle"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "meteor-showers-no-meteorites",
+    "headline": "Meteor Showers Usually Don't Drop Meteorites",
+    "body": "Meteor showers look dramatic, but they usually do not leave space rocks on the ground. NASA says most meteor showers come from comets, and comet material is fragile. Small comet fragments generally burn up before they can survive the trip through Earth's atmosphere. The Taurids and Geminids could, in theory, send meteorites down sometimes, but no remnants have been clearly traced to them.",
+    "summary": "A shower can fill the sky with meteors and still leave nothing to pick up afterward.",
+    "categoryId": "space",
+    "topic": "Meteor Showers",
+    "tags": [
+      "space",
+      "meteor showers",
+      "meteorites",
+      "comets",
+      "atmosphere"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "meteor-showers-tons-fall-daily",
+    "headline": "Earth Gets Tons of Space Material Every Day",
+    "body": "Space is not as empty as it looks from the ground. NASA says about 48.5 tons, or 44,000 kilograms, of meteoritic material falls on Earth each day. Much of it burns up in the atmosphere as meteors before anyone can notice it. Sometimes a meteor can even appear brighter than Venus, and that extra-bright streak is called a fireball.",
+    "summary": "Earth is quietly collecting space material every day, even when no meteor shower is happening.",
+    "categoryId": "space",
+    "topic": "Meteor Showers",
+    "tags": [
+      "space",
+      "meteors",
+      "meteorites",
+      "earth",
+      "fireballs"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "voyager-program-voyager-2-launched-first",
+    "headline": "Voyager 2 Launched Before Voyager 1",
+    "body": "The names make it sound like Voyager 1 should have launched first, but it didn't. NASA says Voyager 2 launched from Cape Canaveral on Aug. 20, 1977. Voyager 1 launched later, on Sept. 5, using a similar rocket. The two spacecraft became twins in one of the most famous space missions ever, even though the second-numbered Voyager left Earth first.",
+    "summary": "The spacecraft called Voyager 2 actually left Earth before Voyager 1.",
+    "categoryId": "space",
+    "topic": "Voyager Program",
+    "tags": [
+      "space",
+      "voyager",
+      "nasa",
+      "spacecraft",
+      "space exploration"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "voyager-program-giant-planet-tour",
+    "headline": "Voyager Visited Every Giant Planet",
+    "body": "Voyager was not just a trip to one faraway world. NASA says Voyager 1 and Voyager 2 explored all the giant planets in our solar system. Between them, they studied Jupiter, Saturn, Uranus, Neptune, 48 moons, and the rings and magnetic fields around those worlds. Voyager 2 even became the first spacecraft to fly by Neptune in the summer of 1989.",
+    "summary": "Two spacecraft gave humanity its first grand tour of the solar system's giant planets.",
+    "categoryId": "space",
+    "topic": "Voyager Program",
+    "tags": [
+      "space",
+      "voyager",
+      "giant planets",
+      "jupiter",
+      "saturn",
+      "uranus",
+      "neptune"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "voyager-program-most-distant-object",
+    "headline": "Voyager 1 Became the Most Distant Human-Made Object",
+    "body": "Voyager 1 is one of humanity's farthest-reaching machines. NASA says that on Feb. 17, 1998, it passed Pioneer 10 and became the most distant human-made object in space. That means a spacecraft launched in 1977 eventually moved farther away than anything people had ever built before. It kept going long after its original planetary tour was over.",
+    "summary": "A 1977 spacecraft became the farthest human-made object ever sent into space.",
+    "categoryId": "space",
+    "topic": "Voyager Program",
+    "tags": [
+      "space",
+      "voyager",
+      "voyager 1",
+      "spacecraft",
+      "space exploration"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "voyager-program-interstellar-space",
+    "headline": "Both Voyagers Reached Interstellar Space",
+    "body": "The Voyager spacecraft did not stop after visiting the outer planets. NASA says Voyager 1 entered interstellar space on Aug. 25, 2012. Voyager 2 reached interstellar space on Nov. 5, 2018. They are traveling away from the plane of the planets in different directions, carrying their mission beyond the region dominated by the Sun.",
+    "summary": "Both Voyager spacecraft have crossed into the space between stars.",
+    "categoryId": "space",
+    "topic": "Voyager Program",
+    "tags": [
+      "space",
+      "voyager",
+      "interstellar space",
+      "spacecraft",
+      "nasa"
+    ],
+    "readTimeSeconds": 39,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
     "id": "moon-volcanoes-io",
     "headline": "One Moon Has Hundreds of Active Volcanoes",
     "body": "Jupiter's moon Io is the most volcanic world in the solar system. Jupiter and its other moons constantly squeeze and stretch Io, heating its insides until hundreds of volcanoes erupt. Some blasts fling material hundreds of miles into space. Its surface is always changing, painted in yellow sulfur. Io proves moons can be wild, active places.",
