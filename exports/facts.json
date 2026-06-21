@@ -2514,6 +2514,386 @@
     "relatedFactIds": []
   },
   {
+    "id": "quasars-feeding-black-holes",
+    "headline": "Quasars Are Powered by Feeding Black Holes",
+    "body": "A quasar is a type of active galaxy with a very bright center. NASA says that extra energy comes from a supermassive black hole feeding on material from the galaxy's dense core. As the material falls inward, it forms a spinning accretion disk. Gravity and friction heat that disk, helping the galaxy's center shine far more brightly than normal.",
+    "summary": "A galaxy can blaze with extra energy because its central black hole is actively feeding.",
+    "categoryId": "astronomy",
+    "topic": "Quasars",
+    "tags": [
+      "astronomy",
+      "quasars",
+      "black holes",
+      "galaxies",
+      "active galaxies"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "quasars-near-light-speed-jets",
+    "headline": "Some Galaxy Jets Move Almost at Light Speed",
+    "body": "Some active galaxies launch narrow beams of energetic particles from their centers. NASA says these jets shoot outward in opposite directions away from the disk around the black hole. They emerge at nearly the speed of light and become powerful sources of radio waves. Quasars, blazars, and radio galaxies are all active galaxies with strong jets that can stretch into huge regions of space between galaxies.",
+    "summary": "Some black-hole-powered galaxies fire particle jets outward at nearly light speed.",
+    "categoryId": "astronomy",
+    "topic": "Quasars",
+    "tags": [
+      "astronomy",
+      "quasars",
+      "black holes",
+      "jets",
+      "active galaxies"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "quasars-angle-changes-view",
+    "headline": "A Quasar Can Depend on Where You're Looking From",
+    "body": "Quasars are part of a larger family called active galactic nuclei. NASA says the type we see depends on the black hole's mass, how fast it is feeding, whether it has a strong jet, and the angle from which we view it. Some apparent differences come from our viewing direction. With blazars and quasars, we are looking down the jet.",
+    "summary": "The same kind of active galaxy can look different depending on the viewing angle.",
+    "categoryId": "astronomy",
+    "topic": "Quasars",
+    "tags": [
+      "astronomy",
+      "quasars",
+      "blazars",
+      "active galaxies",
+      "black holes"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "quasars-x-rays-near-black-hole",
+    "headline": "X-Rays Come From Near a Quasar's Black Hole",
+    "body": "Quasars are studied across many kinds of light, not just what human eyes can see. NASA says X-ray and gamma-ray observations are especially important for high-energy quasars. The X-rays in active galaxies come from very near the black hole. That gives scientists a close look at the physical processes happening in the galaxy's central engine.",
+    "summary": "Some of a quasar's most useful clues come from X-rays made near its black hole.",
+    "categoryId": "astronomy",
+    "topic": "Quasars",
+    "tags": [
+      "astronomy",
+      "quasars",
+      "x-rays",
+      "black holes",
+      "active galaxies"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pulsars-sun-in-city",
+    "headline": "A Neutron Star Packs a Sun Into a City",
+    "body": "A pulsar is a spinning neutron star, and neutron stars are almost unbelievably dense. NASA says they can squeeze the mass of a sun into an object about the size of a city. These stellar leftovers are only about 12.5 miles, or 20 kilometers, across. They form after a massive star runs out of fuel and its core collapses.",
+    "summary": "A dead star can crush sun-like mass into something about the width of a city.",
+    "categoryId": "astronomy",
+    "topic": "Pulsars",
+    "tags": [
+      "astronomy",
+      "pulsars",
+      "neutron stars",
+      "stars",
+      "supernovae"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pulsars-sugar-cube-mountain",
+    "headline": "A Sugar Cube of Neutron Star Stuff Weighs Like a Mountain",
+    "body": "Neutron star material is so dense that normal comparisons almost break. NASA says one sugar cube of it would weigh about 1 trillion kilograms on Earth. That is about 1 billion tons, or roughly the mass of a mountain. Pulsars are spinning neutron stars, so every pulse comes from one of these city-sized objects packed with extreme matter.",
+    "summary": "One tiny cube of neutron star material would weigh about as much as a mountain.",
+    "categoryId": "astronomy",
+    "topic": "Pulsars",
+    "tags": [
+      "astronomy",
+      "pulsars",
+      "neutron stars",
+      "density",
+      "stars"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pulsars-cosmic-lighthouses",
+    "headline": "Pulsars Flash Like Cosmic Lighthouses",
+    "body": "Pulsars do not blink because they are turning on and off. NASA says they are spinning neutron stars with strong magnetic fields that send beams of radiation into space. If one of those beams sweeps across Earth, we see a pulse. It works like a lighthouse: the light is always shining, but you only see it when the beam points your way.",
+    "summary": "A pulsar's flash is a beam sweeping past Earth like a lighthouse in space.",
+    "categoryId": "astronomy",
+    "topic": "Pulsars",
+    "tags": [
+      "astronomy",
+      "pulsars",
+      "neutron stars",
+      "magnetic fields",
+      "space"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pulsars-magnetar-burst-sunlight",
+    "headline": "One Magnetar Burst Beat 100,000 Years of Sunlight",
+    "body": "Magnetars are a special kind of neutron star with extreme magnetic fields. NASA says a normal neutron star's magnetic field is already trillions of times stronger than Earth's, but a magnetar's field is another 1,000 times stronger. One magnetar, called SGR 1806-20, released a huge burst in one-tenth of a second. That burst gave off more energy than the Sun had emitted in the last 100,000 years.",
+    "summary": "One tiny starquake-like burst released more energy than the Sun had made in 100,000 years.",
+    "categoryId": "astronomy",
+    "topic": "Pulsars",
+    "tags": [
+      "astronomy",
+      "pulsars",
+      "magnetars",
+      "neutron stars",
+      "energy"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "white-dwarfs-sun-earth-size",
+    "headline": "A White Dwarf Packs a Sun Into Earth's Size",
+    "body": "A white dwarf is what remains after some stars reach the end of their lives. NASA says a typical white dwarf is about as massive as the Sun, but only slightly bigger than Earth. That makes it one of the densest forms of matter, behind only neutron stars and black holes. It is basically a dead stellar core squeezed into a planet-sized space.",
+    "summary": "A star's leftover core can hold Sun-like mass in something only a little bigger than Earth.",
+    "categoryId": "astronomy",
+    "topic": "White Dwarfs",
+    "tags": [
+      "astronomy",
+      "white dwarfs",
+      "stars",
+      "stellar remnants",
+      "density"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "white-dwarfs-sun-future",
+    "headline": "The Sun Will End as a White Dwarf",
+    "body": "The Sun will not shine the way it does forever. NASA says that after it becomes a red giant, it will eventually blow off its outer layers. The core will remain intact and become a white dwarf. That white dwarf will sit inside an expanding shell of gas called a planetary nebula before slowly cooling over time.",
+    "summary": "Our Sun's final form will be a small dead core surrounded by gas it once threw away.",
+    "categoryId": "astronomy",
+    "topic": "White Dwarfs",
+    "tags": [
+      "astronomy",
+      "white dwarfs",
+      "sun",
+      "stars",
+      "planetary nebula"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "white-dwarfs-no-black-dwarfs-yet",
+    "headline": "The Universe May Be Too Young for Black Dwarfs",
+    "body": "White dwarfs slowly cool by sending their heat into space. NASA says that after enough time, they should fade into black lumps of carbon called black dwarfs. But this cooling takes billions of years. Scientists do not think the universe is old enough yet for many, if any, white dwarfs to have become black dwarfs.",
+    "summary": "Some dead stars may cool into black dwarfs, but the universe may not be old enough to have many yet.",
+    "categoryId": "astronomy",
+    "topic": "White Dwarfs",
+    "tags": [
+      "astronomy",
+      "white dwarfs",
+      "black dwarfs",
+      "universe",
+      "stars"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "white-dwarfs-sirius-hidden-star",
+    "headline": "Sirius Wobbled Because of a Hidden Dead Star",
+    "body": "The first discovered white dwarf was found because Sirius seemed to wobble. NASA says astronomer Friedrich Bessel noticed in 1844 that Sirius had a slight back-and-forth motion, as if it were orbiting something unseen. In 1863, Alvan Clark spotted the mysterious companion. That object was later identified as Sirius B, a white dwarf next to the brighter Sirius A.",
+    "summary": "Astronomers found a dead star because the brightest star in the night sky was wobbling.",
+    "categoryId": "astronomy",
+    "topic": "White Dwarfs",
+    "tags": [
+      "astronomy",
+      "white dwarfs",
+      "sirius",
+      "stars",
+      "binary systems"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "red-giants-sun-future",
+    "headline": "The Sun Will Become a Red Giant",
+    "body": "The Sun is a main sequence star now, but NASA says it will not stay that way forever. In about 5 billion years, it will become a red giant. That happens after a star like the Sun runs out of hydrogen in its core and its outer layers expand. The result is a much larger star that would appear more orange than red.",
+    "summary": "The Sun has about 5 billion years before it swells into a giant star.",
+    "categoryId": "astronomy",
+    "topic": "Red Giants",
+    "tags": [
+      "astronomy",
+      "red giants",
+      "sun",
+      "stars",
+      "stellar evolution"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "red-giants-make-carbon",
+    "headline": "Red Giants Make Carbon After Hydrogen Runs Out",
+    "body": "A red giant begins when a star less than eight times the Sun's mass runs low on hydrogen in its core. NASA says the core starts to collapse because fusion is the force fighting gravity. As the core gets squeezed, its temperature and pressure rise. Then helium begins fusing into carbon, releasing energy while hydrogen fusion moves into the star's outer layers.",
+    "summary": "When hydrogen runs out in the core, a star can start turning helium into carbon.",
+    "categoryId": "astronomy",
+    "topic": "Red Giants",
+    "tags": [
+      "astronomy",
+      "red giants",
+      "stars",
+      "fusion",
+      "carbon"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "red-giants-blow-off-layers",
+    "headline": "Red Giants Can Puff Off Their Outer Layers",
+    "body": "A red giant does not stay calm forever. NASA says it eventually becomes unstable and starts pulsating, periodically expanding and ejecting some of its atmosphere. Over time, all of its outer layers blow away. Those lost layers create an expanding cloud of dust and gas called a planetary nebula, while the remaining core becomes a white dwarf.",
+    "summary": "A dying star can pulse, shed its atmosphere, and leave a glowing cloud behind.",
+    "categoryId": "astronomy",
+    "topic": "Red Giants",
+    "tags": [
+      "astronomy",
+      "red giants",
+      "planetary nebula",
+      "white dwarfs",
+      "stars"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "red-giants-cooler-when-bigger",
+    "headline": "A Red Giant Is Cooler Because It Gets Bigger",
+    "body": "When a star grows into a red giant, its outer layers expand far outward. NASA explains that as a star gets bigger, its heat spreads out, making its overall temperature cooler. That is why red giants are cooler than they might sound, even though their cores are heating up. They can look orange-red while deep inside, the star is still changing through intense fusion.",
+    "summary": "A star can grow enormous and still have a cooler-looking outer surface.",
+    "categoryId": "astronomy",
+    "topic": "Red Giants",
+    "tags": [
+      "astronomy",
+      "red giants",
+      "stars",
+      "temperature",
+      "sun"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cosmic-microwave-background-oldest-light",
+    "headline": "The Oldest Light in the Universe Is Still Around",
+    "body": "The cosmic microwave background is ancient light from the early universe. NASA says this microwave radiation was released about 375,000 years after the birth of the universe. WMAP mapped it across the full sky to study tiny temperature differences. That light has traveled through space for billions of years, carrying clues from a time long before stars and galaxies existed.",
+    "summary": "A glow from the baby universe is still traveling through space today.",
+    "categoryId": "astronomy",
+    "topic": "Cosmic Microwave Background",
+    "tags": [
+      "astronomy",
+      "cosmic microwave background",
+      "wmap",
+      "early universe",
+      "big bang"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cosmic-microwave-background-tiny-temperature-differences",
+    "headline": "Tiny Temperature Differences Grew Into Galaxies",
+    "body": "WMAP studied very small temperature changes in the cosmic microwave background. NASA gives an example where one part of the sky is 2.7251 Kelvin and another is 2.7249 Kelvin. Those differences may sound almost meaningless, but they reveal the early structure of the universe. NASA says the clumped matter from this early pattern eventually went on to form stars and galaxies.",
+    "summary": "Tiny differences in ancient light helped reveal the seeds of stars and galaxies.",
+    "categoryId": "astronomy",
+    "topic": "Cosmic Microwave Background",
+    "tags": [
+      "astronomy",
+      "cosmic microwave background",
+      "wmap",
+      "galaxies",
+      "early universe"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cosmic-microwave-background-universe-age",
+    "headline": "WMAP Measured the Universe's Age",
+    "body": "WMAP helped turn cosmology into a much more precise science. By mapping tiny fluctuations in the cosmic microwave background, NASA says WMAP revealed the universe's size, matter content, age, geometry, and fate. One of its major results was measuring the universe as 13.77 billion years old. NASA says that number was determined to within half a percent.",
+    "summary": "A map of ancient microwave light helped pin down the age of the universe.",
+    "categoryId": "astronomy",
+    "topic": "Cosmic Microwave Background",
+    "tags": [
+      "astronomy",
+      "cosmic microwave background",
+      "wmap",
+      "universe",
+      "cosmology"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cosmic-microwave-background-atoms-five-percent",
+    "headline": "Ordinary Atoms Are Only About 5% of the Universe",
+    "body": "WMAP did more than make a map of ancient light. NASA says it helped complete a census of the universe. Its results found that ordinary atoms, also called baryons, make up only about 5% of everything. Dark matter makes up about 25%, while dark energy makes up about 70% and is causing the expansion of the universe to speed up.",
+    "summary": "The stuff that makes stars, planets, and people is only a small slice of the universe.",
+    "categoryId": "astronomy",
+    "topic": "Cosmic Microwave Background",
+    "tags": [
+      "astronomy",
+      "cosmic microwave background",
+      "wmap",
+      "dark matter",
+      "dark energy"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
     "id": "roman-empire-small-town",
     "headline": "Rome Grew From a Small Town Into a Massive Empire",
     "body": "Roman tradition says Rome began as a small village along the Tiber River in Italy. Over centuries, it grew through war, trade, and deal-making into one of the mightiest empires ever. At its peak, Rome ruled across Europe, North Africa, and parts of the Middle East. Millions of people lived under the same laws, roads, and rulers. Few civilizations have shaped the world as deeply.",
