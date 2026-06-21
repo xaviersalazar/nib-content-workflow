@@ -132,6 +132,43 @@ Examples:
 
 ---
 
+### Write all three parts with purpose
+
+Each fact has three pieces of text, and each has a job:
+
+- **headline** — catchy and curiosity-creating. Lead with the surprise, not a definition.
+  Punch up flat ones ("The Maya Were Skilled Astronomers" → "The Maya Predicted Eclipses
+  Centuries Ahead").
+- **summary** — a **teaser**, never an echo of the headline. Add a number, a twist, or a
+  concrete image so the reader taps to read more. (Headline: *Gunpowder Began as a Chinese
+  Discovery* → Summary: *"They were hunting for a potion to live forever. They found
+  something explosive instead."*)
+- **body** — the payoff, easy to read (see below).
+
+---
+
+### Be easy to read (teen/child-friendly)
+
+Write so an average reader — even a curious teen or child — gets it instantly.
+Target a **Flesch–Kincaid grade of ~6–8**.
+
+- Short, declarative sentences. Break up long, multi-clause ones.
+- Plain words: "seen as" not "regarded as", "have" not "possess", "use" not "utilize".
+- 4–5 sentences, ~60–90 words.
+
+---
+
+### Don't end on a vague aphorism
+
+Cut abstract filler closers. End on a concrete, interesting point instead.
+
+Avoid:
+
+- "Great ideas sometimes come from simple beginnings."
+- "Nature has evolved some remarkable solutions."
+
+---
+
 # Step 4: Validation
 
 Every fact must pass these tests.
@@ -368,19 +405,22 @@ Black Holes
 
 ## headline
 
-Title shown in the app.
+Title shown in the app. Catchy and curiosity-creating; lead with the surprise, not a
+definition.
 
 ---
 
 ## body
 
-Full fact.
+Full fact. Easy to read (grade ~6–8), 4–5 short sentences, ~60–90 words. No vague
+filler-closer sentence.
 
 ---
 
 ## summary
 
-Single-sentence summary.
+One-sentence **teaser** for the notification — adds intrigue, never just restates the
+headline.
 
 ---
 

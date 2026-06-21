@@ -128,15 +128,37 @@ Bad:
 
 ---
 
+## ✅ Teaser Summaries (NOT an echo of the headline)
+
+The `headline` + `summary` are what a user sees in a daily push notification.
+
+The summary must **add** intrigue — a number, a twist, a "wait" angle, or a concrete image.
+
+It must **never** just restate the headline.
+
+Bad (echoes the headline):
+
+> Headline: Salt Is the Only Rock Humans Commonly Eat
+> Summary: Salt is the only rock humans commonly eat.
+
+Good (teases, makes you tap):
+
+> Headline: Salt Is the Only Rock Humans Commonly Eat
+> Summary: It's a mineral you sprinkle on dinner — and the only rock people eat on purpose.
+
+Keep it to one short sentence that fits a notification line.
+
+---
+
 ## ✅ 30–60 Second Body Length
 
 Body text should be roughly:
 
-4–6 sentences
+4–5 sentences
 
 Target:
 
-~80–120 words
+~60–90 words
 
 Long enough to feel substantial.
 
@@ -176,18 +198,42 @@ Those are too short.
 
 ---
 
+### Easy to Read (teen/child-friendly)
+
+Write so an average reader — even a curious teen or child — gets it instantly.
+
+Target a **Flesch–Kincaid grade of ~6–8**.
+
+- Short, declarative sentences. Break up long, multi-clause ones.
+- Plain words over encyclopedic ones: "seen as" not "regarded as", "have" not "possess",
+  "use" not "utilize", "about" not "approximately".
+- Lead with — or land on — the surprising concrete detail.
+
+### Cut Abstract Filler Closers
+
+Do NOT end the body with a vague life-lesson sentence. Delete these:
+
+- ❌ "Great ideas sometimes come from simple beginnings."
+- ❌ "Nature has evolved some remarkable solutions."
+- ❌ "Few foods are as unusual as the one people sprinkle on nearly every meal."
+
+End on a concrete, interesting point instead.
+
 ### Desired Style
 
-Natural and educational.
+Like a curious friend explaining something cool over coffee — warm, conversational, a
+little playful. Calm, not hypey. Use contractions.
 
-Similar to:
+In the spirit of:
 
-- Britannica
 - National Geographic
 - Smithsonian
 - Mental Floss
 
-Should feel conversational, not academic.
+…but simpler. Conversational, never academic.
+
+> Full voice + field rules and the review-then-promote workflow live in
+> `docs/fact-rewrite-style-guide.md`. Read it before generating or rewriting facts.
 
 ---
 

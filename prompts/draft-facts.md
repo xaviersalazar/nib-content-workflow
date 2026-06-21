@@ -43,11 +43,14 @@ Using ONLY the provided source text, generate 3–5 TIL-style fact candidates.
 
 Requirements:
 
-- 50–120 words
-- 30–60 second read
-- Conversational tone
-- Middle school reading level
-- Interesting and memorable
+- Use ONLY facts from the source text — never invent specifics, numbers, or names
+- body: 4–5 short sentences, ~60–90 words, 30–60 second read
+- Reading level: grade 6–8 (teen/child-friendly) — short sentences, plain words
+- headline: catchy, leads with the surprise (not a definition)
+- summary: a one-sentence teaser that adds intrigue — NEVER an echo of the headline
+- Do not end the body with a vague filler-closer sentence
+- Conversational tone, like a curious friend over coffee
+- Interesting and memorable; prefer "wait… really?" facts
 - Evergreen
 - No politics
 - No medical advice
