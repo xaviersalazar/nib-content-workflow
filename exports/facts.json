@@ -11924,5 +11924,385 @@
     "funScore": 10,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "popcorn-steam-trapped-inside",
+    "headline": "Popcorn Pops Because Steam Gets Trapped Inside",
+    "body": "Popcorn does not pop because the outside simply burns open. Britannica says each kernel has an extremely hard hull around moist, starchy material inside. When heated to about 400 degrees Fahrenheit, or 200 degrees Celsius, that moisture turns into steam. Pressure builds until the kernel explodes inside out into the fluffy white shape people recognize.",
+    "summary": "A popcorn kernel pops when trapped steam finally bursts it from the inside out.",
+    "categoryId": "food",
+    "topic": "Popcorn",
+    "tags": [
+      "food",
+      "popcorn",
+      "corn",
+      "steam",
+      "snacks"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "popcorn-expands-40-times",
+    "headline": "A Popcorn Kernel Can Grow 40 Times Bigger",
+    "body": "A popped kernel is much larger than the tiny seed it came from. Britannica says popcorn can expand into a fluffy mass about 20 to 40 times its original size. That dramatic change happens when heat turns moisture inside the kernel into steam. In a split second, a small hard grain becomes a light, irregular snack.",
+    "summary": "One tiny popcorn kernel can puff up to 40 times its original size.",
+    "categoryId": "food",
+    "topic": "Popcorn",
+    "tags": [
+      "food",
+      "popcorn",
+      "corn",
+      "snacks",
+      "food science"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "popcorn-thousands-years-old",
+    "headline": "People Ate Popcorn Thousands of Years Ago",
+    "body": "Popcorn is not just a modern movie snack. Britannica says popcorn is native to the Western Hemisphere, and archaeologists have found thousand-year-old popcorn kernels in Peru and Utah. Early European explorers also described Indigenous people toasting popcorn for food, using it in religious ceremonies, and even wearing it as hair decoration. This snack has a much older story than theaters and microwaves.",
+    "summary": "Popcorn was around thousands of years before it became a movie-theater snack.",
+    "categoryId": "food",
+    "topic": "Popcorn",
+    "tags": [
+      "food",
+      "popcorn",
+      "corn",
+      "history",
+      "indigenous peoples"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "popcorn-right-moisture",
+    "headline": "Popcorn Needs the Right Moisture to Pop",
+    "body": "A popcorn kernel needs more than heat to become fluffy. Britannica says the moisture inside the kernel is optimally about 13.5 percent. When the kernel is heated, that moisture turns into steam and builds pressure under the hard hull. Too little useful moisture, and the dramatic inside-out explosion cannot happen the same way.",
+    "summary": "Popcorn works best when the kernel has just the right amount of hidden moisture.",
+    "categoryId": "food",
+    "topic": "Popcorn",
+    "tags": [
+      "food",
+      "popcorn",
+      "corn",
+      "moisture",
+      "food science"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sushi-about-the-rice",
+    "headline": "Sushi Is Really About the Rice",
+    "body": "Sushi is often linked with raw fish, but Britannica defines it first as a rice dish. The rice is cooked, flavored with vinegar, and served cold with toppings or garnishes. Those toppings can include vegetables, egg, or raw seafood. That means sushi is not simply another word for raw fish. The vinegared rice is the foundation that makes it sushi.",
+    "summary": "Raw fish is not the defining feature of sushi. Vinegared rice is.",
+    "categoryId": "food",
+    "topic": "Sushi",
+    "tags": [
+      "food",
+      "sushi",
+      "rice",
+      "japanese cuisine",
+      "seafood"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sushi-nigiri-shaped-by-hand",
+    "headline": "Nigiri Is Shaped by Hand",
+    "body": "Nigiri-zushi is one of the best-known forms of sushi. Britannica describes it as a hand-formed oblong of rice topped with sliced raw seafood and a dab of wasabi. The shape matters because this type is built piece by piece, not rolled or scattered. Each bite is a small construction of vinegared rice, seafood, and heat from wasabi.",
+    "summary": "Nigiri sushi is shaped by hand instead of rolled or pressed in a mold.",
+    "categoryId": "food",
+    "topic": "Sushi",
+    "tags": [
+      "food",
+      "sushi",
+      "nigiri",
+      "japanese cuisine",
+      "wasabi"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sushi-maki-rolled-seaweed",
+    "headline": "Maki Is Rolled in Seaweed and Sliced",
+    "body": "Maki-zushi is the rolled form many people picture when they think of sushi. Britannica says it starts with a sheet of nori, a type of seaweed, spread with rice. Seafood, vegetables, or garnishes are added, then the whole thing is rolled into a cylinder. After that, it is sliced into individual pieces.",
+    "summary": "Maki sushi begins as a seaweed-wrapped cylinder before it becomes neat round slices.",
+    "categoryId": "food",
+    "topic": "Sushi",
+    "tags": [
+      "food",
+      "sushi",
+      "maki",
+      "nori",
+      "japanese cuisine"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sushi-ginger-clears-palate",
+    "headline": "Pickled Ginger Clears the Palate",
+    "body": "The small pile of ginger served with sushi has a specific job. Britannica says vinegar-pickled ginger root, called sushoga, is a traditional palate-clearing accompaniment to sushi. That means it helps refresh your taste between bites. Instead of being just decoration, the ginger works like a reset button for your mouth.",
+    "summary": "That pink ginger beside sushi is meant to refresh your taste between bites.",
+    "categoryId": "food",
+    "topic": "Sushi",
+    "tags": [
+      "food",
+      "sushi",
+      "ginger",
+      "japanese cuisine",
+      "palate cleanser"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "bananas-modern-clones",
+    "headline": "Modern Bananas Are Basically Clones",
+    "body": "Modern domesticated bananas do not have functional seeds. Britannica says they are essentially sterile and reproduce through suckers or shoots that grow from the underground rhizome after the main plant fruits. That means banana plants of the same variety are clones of one another. This helps growers keep a consistent fruit, but it also makes bananas especially vulnerable when a disease can attack that variety.",
+    "summary": "The bananas people buy are often from plants copied again and again without seeds.",
+    "categoryId": "food",
+    "topic": "Bananas",
+    "tags": [
+      "food",
+      "bananas",
+      "clones",
+      "fruit",
+      "agriculture"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "bananas-giant-herb",
+    "headline": "A Banana Plant Is a Giant Herb",
+    "body": "A banana plant may look like a tree, but Britannica describes it as a gigantic herb. It grows from an underground stem called a rhizome and forms a false trunk 10 to 20 feet high. That trunk is made from the bases of leaf sheaths, not wood. After one trunk produces its bunch of fruit, it is cut down and replaced by new shoots from the rhizome.",
+    "summary": "The banana \"tree\" is really a giant herb with a false trunk.",
+    "categoryId": "food",
+    "topic": "Bananas",
+    "tags": [
+      "food",
+      "bananas",
+      "plants",
+      "fruit",
+      "rhizomes"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "bananas-gros-michel-disease",
+    "headline": "One Banana Variety Was Nearly Wiped Out by Disease",
+    "body": "Before Cavendish bananas became common, Gros Michel dominated the commercial banana trade. Britannica says Gros Michel was richer and sweeter than modern Cavendish bananas, but it was devastated in the late 1950s by Panama disease, a soil fungus. Because the plants were sterile clones, farmers could not easily breed resistance into them. They were forced to abandon Gros Michel for the hardier Cavendish.",
+    "summary": "A sweeter commercial banana once dominated the market until disease pushed it aside.",
+    "categoryId": "food",
+    "topic": "Bananas",
+    "tags": [
+      "food",
+      "bananas",
+      "gros michel",
+      "panama disease",
+      "cavendish"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "bananas-more-than-fruit",
+    "headline": "Banana Plants Are Useful Beyond the Fruit",
+    "body": "Banana plants are useful in far more ways than a peel-and-eat snack. Britannica says banana leaves are used as natural wrappers for cooking, steaming, and storing food, and as makeshift plates. The plant's false trunk can yield strong fibers for textiles, ropes, mats, and paper. Dried fronds can even be used for roofing materials or fabrics.",
+    "summary": "Banana plants can provide food wrappers, fibers, mats, paper, and more.",
+    "categoryId": "food",
+    "topic": "Bananas",
+    "tags": [
+      "food",
+      "bananas",
+      "banana leaves",
+      "plants",
+      "culture"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "potatoes-underground-stem",
+    "headline": "A Potato Is an Underground Stem",
+    "body": "A potato may seem like a root, but Britannica says the edible tuber is actually the swollen end of an underground stem. Potato stems extend underground into structures called stolons. The ends of those stolons can enlarge into tubers, which are the potatoes people harvest and eat. So the familiar potato is a storage structure from the plant's stem system, not a true root.",
+    "summary": "The part of the potato plant people eat is a swollen underground stem.",
+    "categoryId": "food",
+    "topic": "Potatoes",
+    "tags": [
+      "food",
+      "potatoes",
+      "tubers",
+      "plants",
+      "vegetables"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "potatoes-poisonous-berries",
+    "headline": "Potato Plants Can Grow Poisonous Berries",
+    "body": "The potato plant can produce something that looks nothing like the potato in your kitchen. Britannica says potato flowers may develop into a small poisonous berry with numerous seeds. The edible part is the underground tuber, not the fruit. That means the same plant can give people a major food crop below ground while growing unsafe berries above ground.",
+    "summary": "A potato plant can grow poisonous berries even though its underground tubers are food.",
+    "categoryId": "food",
+    "topic": "Potatoes",
+    "tags": [
+      "food",
+      "potatoes",
+      "berries",
+      "plants",
+      "nightshade"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "potatoes-incas-cultivated",
+    "headline": "The Incas Grew Potatoes 1,800 Years Ago",
+    "body": "Potatoes began as a crop of the Andes, not Europe. Britannica says the potato is native to the Peruvian-Bolivian Andes and was cultivated in South America by the Incas as early as 1,800 years ago. Spanish colonizers later introduced potatoes to Europe in the second half of the 16th century. From there, potatoes spread into one of the world's main food crops.",
+    "summary": "Long before potatoes became a European staple, they were cultivated in the Andes.",
+    "categoryId": "food",
+    "topic": "Potatoes",
+    "tags": [
+      "food",
+      "potatoes",
+      "incas",
+      "andes",
+      "history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "potatoes-famine-dependence",
+    "headline": "Potato Dependence Helped Fuel a Famine",
+    "body": "The potato became so important in Ireland that the economy grew heavily dependent on it. Britannica says potato crop failures in the mid-19th century, especially in 1846 and 1848, were caused by late blight. Those failures helped produce the Irish Potato Famine. The disaster created a more cautious attitude toward relying too heavily on one crop.",
+    "summary": "A plant that helped feed millions also showed the danger of depending on one crop.",
+    "categoryId": "food",
+    "topic": "Potatoes",
+    "tags": [
+      "food",
+      "potatoes",
+      "irish potato famine",
+      "late blight",
+      "history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "peanuts-not-true-nuts",
+    "headline": "Peanuts Are Not True Nuts",
+    "body": "Peanuts have nut in the name, but Britannica says they are not true nuts. The peanut is a tropical South American legume, meaning it belongs with plants like beans and peas. Its edible seeds are rich in protein and fat, which helps explain why they feel so nut-like as food. Botanically, though, a peanut is closer to a bean pod than an almond or walnut.",
+    "summary": "The peanut's name is misleading because it is really a legume, not a true nut.",
+    "categoryId": "food",
+    "topic": "Peanuts",
+    "tags": [
+      "food",
+      "peanuts",
+      "legumes",
+      "nuts",
+      "plants"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "peanuts-bury-their-fruit",
+    "headline": "Peanut Plants Bury Their Own Fruit",
+    "body": "Peanuts have one of the strangest fruiting habits in common food plants. Britannica says peanut legumes ripen underground, a phenomenon called geocarpy. After pollination, a stalklike structure called a peg grows downward from the flower toward the soil. It carries the fertilized ovules underground, where the tip develops into the peanut pod people harvest.",
+    "summary": "A peanut flower can send a peg into the soil so the pod forms underground.",
+    "categoryId": "food",
+    "topic": "Peanuts",
+    "tags": [
+      "food",
+      "peanuts",
+      "geocarpy",
+      "plants",
+      "legumes"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "peanuts-add-nitrogen-soil",
+    "headline": "Peanuts Help Add Nitrogen to Soil",
+    "body": "Peanuts are not just useful because people eat them. Britannica says that, like other legumes, peanut plants add nitrogen to the soil through nitrogen-fixing bacteria. That makes them valuable as a soil-enriching crop. In farming, that matters because nitrogen is one of the key nutrients plants need for healthy growth.",
+    "summary": "Peanut plants can help enrich soil by working with nitrogen-fixing bacteria.",
+    "categoryId": "food",
+    "topic": "Peanuts",
+    "tags": [
+      "food",
+      "peanuts",
+      "legumes",
+      "nitrogen",
+      "agriculture"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "peanuts-hundreds-products",
+    "headline": "Peanuts Became Hundreds of Products",
+    "body": "Peanuts can become much more than roasted snacks or peanut butter. Britannica says they are used to produce edible oil with a high smoke point and are widely used in candy and bakery products. Peanut plant tops can also be fed to livestock as hay. Research by George Washington Carver helped lead to about 300 peanut-derived products, including flour, soaps, and plastics.",
+    "summary": "The peanut has been turned into everything from food oil to soap and plastics.",
+    "categoryId": "food",
+    "topic": "Peanuts",
+    "tags": [
+      "food",
+      "peanuts",
+      "george washington carver",
+      "peanut oil",
+      "agriculture"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
