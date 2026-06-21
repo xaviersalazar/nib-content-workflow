@@ -12304,5 +12304,1145 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "caffeine-naturally-bitter",
+    "headline": "Caffeine Is Naturally Bitter",
+    "body": "Caffeine is not just an energy buzz hidden in drinks. Britannica describes it as a nitrogenous organic compound in the alkaloid group, found in coffee, tea, guarana, mate, kola nuts, and cacao. In pure form, caffeine is odorless but has a bitter taste. That bitterness is part of the chemistry behind one of the world's most familiar stimulants.",
+    "summary": "The same compound that helps wake people up also naturally tastes bitter.",
+    "categoryId": "coffee",
+    "topic": "Caffeine",
+    "tags": [
+      "coffee",
+      "caffeine",
+      "alkaloids",
+      "coffee",
+      "tea"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "caffeine-coffee-100-mg",
+    "headline": "One Coffee Cup Averages About 100 mg of Caffeine",
+    "body": "The caffeine in coffee is small by weight but powerful in effect. Britannica says ground coffee contains about 0.75 to 1.5 percent caffeine by weight. The average cup of coffee contains about 100 milligrams of caffeine. Tea varies by strength, but averages about 40 milligrams, similar to the amount in a 12-ounce glass of cola.",
+    "summary": "A typical cup of coffee carries about 100 milligrams of caffeine.",
+    "categoryId": "coffee",
+    "topic": "Caffeine",
+    "tags": [
+      "coffee",
+      "caffeine",
+      "coffee",
+      "tea",
+      "cola"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "caffeine-stimulates-body",
+    "headline": "Caffeine Stimulates More Than Your Brain",
+    "body": "Caffeine is famous for alertness, but its effects reach beyond the brain. Britannica says it stimulates the central nervous system, heart, blood vessels, and kidneys. It can improve alertness, decrease fatigue, and enhance sensory activity, but it can also cause irritability, nervousness, jitteriness, headaches, and insomnia. That is why the same cup can feel helpful or uncomfortable depending on the person and amount.",
+    "summary": "Caffeine can affect your brain, heart, blood vessels, kidneys, and sleep.",
+    "categoryId": "coffee",
+    "topic": "Caffeine",
+    "tags": [
+      "coffee",
+      "caffeine",
+      "stimulants",
+      "nervous system",
+      "alertness"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "caffeine-decaf-control",
+    "headline": "Decaf Exists So People Can Control Caffeine",
+    "body": "People wanted the taste and ritual of caffeinated drinks without always taking in the stimulant. Britannica says decaffeinated coffee and soft drinks had become widely available by the mid-1980s. That gave consumers a way to regulate caffeine intake while still enjoying those beverages. Decaf is less about removing the culture of coffee and more about giving people control over the chemical inside it.",
+    "summary": "Decaf lets people keep the drink ritual while lowering the stimulant.",
+    "categoryId": "coffee",
+    "topic": "Caffeine",
+    "tags": [
+      "coffee",
+      "caffeine",
+      "decaf",
+      "coffee",
+      "beverages"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-plant-beans-are-seeds",
+    "headline": "Coffee Beans Are Actually Seeds",
+    "body": "Coffee beans are not beans in the usual grocery-store sense. Britannica says the fruit of Coffea plants is called a coffee cherry and is a one- or two-seeded drupe. The coffee beans are the rounded oblong seeds inside, each with a flat face and a lengthwise groove. So every roasted coffee bean started as a seed inside a fruit.",
+    "summary": "The bean in your coffee began as a seed inside a coffee cherry.",
+    "categoryId": "coffee",
+    "topic": "Coffee Plant",
+    "tags": [
+      "coffee",
+      "coffee plant",
+      "coffee beans",
+      "seeds",
+      "coffee cherry"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-plant-coffee-cherries",
+    "headline": "Coffee Grows as Cherries on Shrubs and Small Trees",
+    "body": "Coffee begins on evergreen shrubs or small trees, not in bags of roasted beans. Britannica says Coffea plants often live in the understory of tropical forests and produce small fragrant white or pink flowers. Their fruit is known as a coffee cherry and can mature in colors such as red, purple, yellow, orange, blue, or black depending on the species. The drink starts as a colorful fruit.",
+    "summary": "Before coffee is roasted and brewed, it grows as fruit on tropical plants.",
+    "categoryId": "coffee",
+    "topic": "Coffee Plant",
+    "tags": [
+      "coffee",
+      "coffee plant",
+      "coffee cherry",
+      "tropical plants",
+      "fruit"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-plant-arabica-delicate",
+    "headline": "Arabica Is Tastier but More Delicate",
+    "body": "Arabica and Robusta dominate the coffee world, but they are not the same plant. Britannica says Arabica beans are flatter and more elongated, and the brewed coffee is considered milder, more flavorful, and more aromatic than Robusta. The tradeoff is that Arabica is more delicate and vulnerable to pests. It also needs higher elevations, moisture, and specific shade conditions.",
+    "summary": "Arabica is prized for flavor, but it is harder to grow well.",
+    "categoryId": "coffee",
+    "topic": "Coffee Plant",
+    "tags": [
+      "coffee",
+      "arabica",
+      "robusta",
+      "coffee plant",
+      "agriculture"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-plant-robusta-twice-caffeine",
+    "headline": "Robusta Has Twice the Caffeine of Arabica",
+    "body": "Robusta coffee lives up to its name in more than one way. Britannica says Robusta beans are rounder and more convex than Arabica beans, and the plant is hardier. It can grow at lower elevations and is cheaper to produce. Robusta also has twice the caffeine content of Arabica, which helps explain why different coffee beans can feel and taste noticeably different.",
+    "summary": "Robusta coffee is hardier, cheaper to grow, and packs about twice Arabica's caffeine.",
+    "categoryId": "coffee",
+    "topic": "Coffee Plant",
+    "tags": [
+      "coffee",
+      "robusta",
+      "arabica",
+      "caffeine",
+      "coffee beans"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "instant-coffee-starts-brewed",
+    "headline": "Instant Coffee Starts as Real Brewed Coffee",
+    "body": "Instant coffee can seem like a totally different product from regular coffee, but it begins with the same basic idea. The National Coffee Association describes instant coffee as coffee that has already been brewed and then processed for quick use. Instead of starting with grounds at home, the brewing has already happened before it reaches the jar. You add water later to bring it back into drinkable form.",
+    "summary": "Instant coffee is not fake coffee. It is brewed coffee made ready to rehydrate later.",
+    "categoryId": "coffee",
+    "topic": "Instant Coffee",
+    "tags": [
+      "coffee",
+      "instant coffee",
+      "brewing",
+      "coffee",
+      "beverages"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "instant-coffee-brewed-then-dried",
+    "headline": "Instant Coffee Is Brewed, Then Dried",
+    "body": "Instant coffee is made by turning brewed coffee into a dry form. The National Coffee Association explains that the coffee is brewed first, then dried into soluble coffee particles. Those particles are what people scoop from a jar or packet. The trick is that the flavor has been concentrated into something dry enough to store, ship, and quickly dissolve when hot water is added.",
+    "summary": "Instant coffee works because brewed coffee is dried into soluble particles.",
+    "categoryId": "coffee",
+    "topic": "Instant Coffee",
+    "tags": [
+      "coffee",
+      "instant coffee",
+      "soluble coffee",
+      "brewing",
+      "food science"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "instant-coffee-built-for-convenience",
+    "headline": "Instant Coffee Was Built for Convenience",
+    "body": "Instant coffee is designed around speed. The National Coffee Association presents it as a convenient form of coffee that does not require grinding beans, measuring grounds, or waiting for a full brewing process at home. Because the coffee has already been brewed and dried, the final step is simple. Add water, stir, and the drink is ready much faster than most brewing methods.",
+    "summary": "Instant coffee saves time because most of the brewing work happened before you opened it.",
+    "categoryId": "coffee",
+    "topic": "Instant Coffee",
+    "tags": [
+      "coffee",
+      "instant coffee",
+      "convenience",
+      "coffee",
+      "beverages"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "instant-coffee-crystals-rehydrate",
+    "headline": "Coffee Crystals Wake Back Up in Water",
+    "body": "Instant coffee works because its dry particles are soluble. The National Coffee Association explains that instant coffee has already been brewed and dried, so the remaining particles can dissolve back into water. That is why a spoonful of crystals or powder can turn into coffee without using a filter, press, or espresso machine. The cup is basically rehydrated brewed coffee.",
+    "summary": "A spoonful of instant coffee can dissolve because the coffee was brewed and dried earlier.",
+    "categoryId": "coffee",
+    "topic": "Instant Coffee",
+    "tags": [
+      "coffee",
+      "instant coffee",
+      "coffee crystals",
+      "soluble coffee",
+      "brewing"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "espresso-pressure-brewing",
+    "headline": "Espresso Is Made With Pressure",
+    "body": "Espresso is not just coffee served in a tiny cup. Britannica defines it as a strong brew made by forcing boiled water under pressure through finely ground coffee. The fine grind gives the water more surface contact with the coffee. That contact helps produce a highly flavored and aromatic brew in a small amount of liquid.",
+    "summary": "Espresso gets its intensity from pressure pushing water through finely ground coffee.",
+    "categoryId": "coffee",
+    "topic": "Espresso",
+    "tags": [
+      "coffee",
+      "espresso",
+      "pressure",
+      "brewing",
+      "coffee"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "espresso-early-fast-food",
+    "headline": "Espresso Was an Early Kind of Fast Food",
+    "body": "Espresso feels classic and old-world, but Britannica says it was actually an innovation of the late 19th and early 20th centuries. Its name is tied to speed, and Britannica even calls it arguably the first example of fast food. The goal was to make coffee faster for workers who did not have time for slow brewing during short coffee breaks.",
+    "summary": "Espresso became popular partly because it made coffee fast.",
+    "categoryId": "coffee",
+    "topic": "Espresso",
+    "tags": [
+      "coffee",
+      "espresso",
+      "coffee history",
+      "italy",
+      "fast food"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "espresso-30-second-brew",
+    "headline": "Espresso Cut Brewing Time to 30 Seconds",
+    "body": "Early espresso machines were built to solve a time problem. Britannica says Italian inventor Luigi Bezzera created a machine that forced steam and hot water through ground coffee into an individual cup. This gave each customer a fresh brew quickly. It reduced the brewing time from a few minutes to about 30 seconds, changing coffee service into something much faster.",
+    "summary": "One early espresso machine shrank coffee brewing from minutes to about 30 seconds.",
+    "categoryId": "coffee",
+    "topic": "Espresso",
+    "tags": [
+      "coffee",
+      "espresso",
+      "luigi bezzera",
+      "coffee machines",
+      "coffee history"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "espresso-crema-traps-aroma",
+    "headline": "Crema Helps Trap Espresso Aroma",
+    "body": "A good espresso shot often has a golden to reddish-brown foam on top called crema. Britannica says crema can linger on the surface for a minute or two instead of disappearing right away. Because it blankets the surface, it helps trap aromatics in the liquid below. That is one reason espresso is usually meant to be drunk immediately, before those aromas fade.",
+    "summary": "The foam on espresso can help hold aroma in the liquid underneath.",
+    "categoryId": "coffee",
+    "topic": "Espresso",
+    "tags": [
+      "coffee",
+      "espresso",
+      "crema",
+      "aroma",
+      "barista"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-roasting-green-beans-grassy",
+    "headline": "Green Coffee Beans Do Not Smell Like Coffee Yet",
+    "body": "Before roasting, coffee beans do not smell like the drink people know. The National Coffee Association says a green coffee bean is hard as a rock and smells grassy. Roasting unlocks the aroma and flavor sealed inside those raw beans. That means the familiar coffee smell is not really there until heat transforms the bean.",
+    "summary": "Coffee does not smell like coffee until roasting unlocks the aroma inside the bean.",
+    "categoryId": "coffee",
+    "topic": "Coffee Roasting",
+    "tags": [
+      "coffee",
+      "coffee roasting",
+      "green coffee beans",
+      "aroma",
+      "flavor"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-roasting-over-400-degrees",
+    "headline": "Roasting Pushes Beans Past 400°F",
+    "body": "Coffee roasting is a controlled heat transformation. The National Coffee Association says green coffee beans are rapidly brought to an internal temperature over 400 degrees Fahrenheit, then quickly cooled. That heat removes nearly all moisture from the beans, making them lighter and crunchy to bite. Only after that do they look, smell, and behave like the coffee beans used for brewing.",
+    "summary": "Coffee beans become familiar and fragrant after being heated past 400 degrees Fahrenheit.",
+    "categoryId": "coffee",
+    "topic": "Coffee Roasting",
+    "tags": [
+      "coffee",
+      "coffee roasting",
+      "heat",
+      "green coffee beans",
+      "food science"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-roasting-short-rest",
+    "headline": "Fresh Roast Flavor Peaks After a Short Rest",
+    "body": "Freshly roasted coffee is not always best the instant it leaves the roaster. The National Coffee Association says roasted beans should rest for about 2 to 3 days before they are ready to be ground and brewed. Ideally, coffee beans are ground and brewed about 2 to 7 days after roasting. That window helps capture freshly roasted flavor at its peak.",
+    "summary": "Freshly roasted coffee usually tastes best after a short rest, not immediately.",
+    "categoryId": "coffee",
+    "topic": "Coffee Roasting",
+    "tags": [
+      "coffee",
+      "coffee roasting",
+      "fresh coffee",
+      "brewing",
+      "flavor"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-roasting-dark-not-more-caffeine",
+    "headline": "Dark Roast Does Not Mean More Caffeine",
+    "body": "Dark roast coffee can taste strong, but that does not mean it has more caffeine. The National Coffee Association says light roasts have a slightly higher amount of caffeine. Dark roasts have a richer, stronger flavor because of the roasting style, not because they are more caffeinated. So the boldest-tasting cup is not automatically the biggest caffeine hit.",
+    "summary": "A darker, stronger-tasting roast does not mean a stronger caffeine boost.",
+    "categoryId": "coffee",
+    "topic": "Coffee Roasting",
+    "tags": [
+      "coffee",
+      "coffee roasting",
+      "dark roast",
+      "caffeine",
+      "light roast"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-beans-top-world-drink",
+    "headline": "Coffee Is One of the World's Top Drinks",
+    "body": "Coffee is far more than a morning habit. Britannica describes coffee as one of the three most popular beverages in the world, alongside water and tea. It is also one of the most profitable international commodities. That means the small roasted seeds in a cup of coffee connect to a huge global system of farms, trade, roasting, and daily routines.",
+    "summary": "Coffee ranks with water and tea as one of the world's most popular drinks.",
+    "categoryId": "coffee",
+    "topic": "Coffee Beans",
+    "tags": [
+      "coffee",
+      "coffee beans",
+      "beverages",
+      "global trade",
+      "coffee"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-beans-ethiopia-arabia-origin",
+    "headline": "Coffee's Story Runs Through Ethiopia and Arabia",
+    "body": "Coffee's early story begins in Africa and Arabia. Britannica says wild coffee plants, probably from Kefa in Ethiopia, were taken to southern Arabia and cultivated in the 15th century. From there, coffee drinking spread among Arabs and their neighbors. Long before coffee became a global cafe drink, it was already moving across cultures and trade routes.",
+    "summary": "Coffee likely began with Ethiopian wild plants before cultivation spread in Arabia.",
+    "categoryId": "coffee",
+    "topic": "Coffee Beans",
+    "tags": [
+      "coffee",
+      "coffee beans",
+      "ethiopia",
+      "arabia",
+      "coffee history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-beans-coffeehouse-culture",
+    "headline": "Coffeehouses Became a New Social Space",
+    "body": "Coffee did not just create a drink. It helped create a new kind of gathering place. Britannica says coffee drinking spread rapidly among Arabs and their neighbors and gave rise to the coffeehouse as a social and cultural entity. The first coffeehouses appeared in Mecca and then Constantinople in the 15th and 16th centuries, and later spread across Europe.",
+    "summary": "Coffee helped turn drinking a beverage into a public social culture.",
+    "categoryId": "coffee",
+    "topic": "Coffee Beans",
+    "tags": [
+      "coffee",
+      "coffee beans",
+      "coffeehouses",
+      "coffee history",
+      "culture"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-beans-decaf-not-caffeine-free",
+    "headline": "Decaf Coffee Is Never Completely Caffeine-Free",
+    "body": "Decaf coffee still begins with real coffee beans, but the caffeine is removed before roasting. Britannica says decaffeination happens in the green bean stage, using methods based on solvents, carbon filtering, carbon dioxide extraction, or triglycerides. But decaf is not perfect. No matter which method is used, coffee is never 100 percent caffeine-free.",
+    "summary": "Decaf lowers caffeine, but it does not remove every last bit.",
+    "categoryId": "coffee",
+    "topic": "Coffee Beans",
+    "tags": [
+      "coffee",
+      "coffee beans",
+      "decaf",
+      "caffeine",
+      "green coffee beans"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cold-brew-without-hot-water",
+    "headline": "Cold Brew Is Made Without Hot Water",
+    "body": "Cold brew is not just hot coffee poured over ice. The National Coffee Association explains that cold brew is made by steeping coffee grounds in cold or room-temperature water. Because heat is not doing the extraction, the process works differently from a standard hot brew. The result is coffee made slowly through time instead of quickly through hot water.",
+    "summary": "Cold brew gets its flavor from time and cool water, not heat.",
+    "categoryId": "coffee",
+    "topic": "Cold Brew",
+    "tags": [
+      "coffee",
+      "cold brew",
+      "brewing",
+      "coffee",
+      "water"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cold-brew-hours-not-minutes",
+    "headline": "Cold Brew Takes Hours, Not Minutes",
+    "body": "Cold brew is one of the slowest everyday ways to make coffee. The National Coffee Association says cold brew is usually steeped for many hours before it is ready. That long contact time helps pull flavor from the grounds without hot water. So while espresso can be made in seconds and drip coffee in minutes, cold brew is built around waiting.",
+    "summary": "Cold brew trades hot-water speed for a long, slow steep.",
+    "categoryId": "coffee",
+    "topic": "Cold Brew",
+    "tags": [
+      "coffee",
+      "cold brew",
+      "brewing",
+      "steeping",
+      "coffee grounds"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cold-brew-concentrate",
+    "headline": "Cold Brew Can Be Made as a Concentrate",
+    "body": "Cold brew is often made stronger than a ready-to-drink cup. The National Coffee Association explains that cold brew can be prepared as a concentrate and then diluted before serving. That means one batch can become different drinks depending on how much water, milk, or ice is added. The same brew can be bold, mellow, or somewhere in between.",
+    "summary": "A cold brew batch can start concentrated and be adjusted cup by cup.",
+    "categoryId": "coffee",
+    "topic": "Cold Brew",
+    "tags": [
+      "coffee",
+      "cold brew",
+      "concentrate",
+      "brewing",
+      "coffee drinks"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cold-brew-stored-cold",
+    "headline": "Cold Brew Should Be Stored Cold",
+    "body": "Cold brew is made slowly, but it still needs careful storage. The National Coffee Association recommends keeping cold brew refrigerated after it is prepared. That helps preserve the finished drink and keeps it ready to serve cold. Unlike a quick hot cup, cold brew is often made in batches, so storing it properly is part of the method.",
+    "summary": "Cold brew is usually batch-made, so keeping it chilled matters after brewing.",
+    "categoryId": "coffee",
+    "topic": "Cold Brew",
+    "tags": [
+      "coffee",
+      "cold brew",
+      "storage",
+      "refrigeration",
+      "brewing"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "decaf-removes-97-percent",
+    "headline": "Decaf Removes About 97% of Caffeine",
+    "body": "Decaf coffee is not made by using a totally different kind of bean. The National Coffee Association says the decaffeination process typically removes around 97 percent of the caffeine naturally found in coffee beans. That is why decaf can taste and feel like coffee while having much less caffeine. The goal is reduction, not a completely different drink.",
+    "summary": "Decaf coffee starts with coffee beans and removes most of their caffeine.",
+    "categoryId": "coffee",
+    "topic": "Decaf Coffee",
+    "tags": [
+      "coffee",
+      "decaf coffee",
+      "caffeine",
+      "coffee beans",
+      "decaffeination"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "decaf-little-caffeine-left",
+    "headline": "Decaf Still Has a Little Caffeine",
+    "body": "Decaf does not mean zero caffeine. The National Coffee Association says a typical 8-ounce cup of caffeinated coffee has about 95 milligrams of caffeine, while decaf coffee has about 2 to 15 milligrams. That remaining amount is small, but it is still there. So decaf is best understood as much lower caffeine, not caffeine-free.",
+    "summary": "A cup of decaf usually still contains a tiny amount of caffeine.",
+    "categoryId": "coffee",
+    "topic": "Decaf Coffee",
+    "tags": [
+      "coffee",
+      "decaf coffee",
+      "caffeine",
+      "coffee",
+      "beverages"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "decaf-before-roasting",
+    "headline": "Decaf Happens Before Roasting",
+    "body": "Decaffeination happens early in the coffee process. The National Coffee Association says all coffee begins as green, unroasted beans, and decaf is made by removing caffeine from those green beans. After the caffeine is removed, the beans are dried and roasted like caffeinated coffee beans. That means decaf is not regular roasted coffee with caffeine somehow removed afterward.",
+    "summary": "Coffee is decaffeinated while the beans are still green and unroasted.",
+    "categoryId": "coffee",
+    "topic": "Decaf Coffee",
+    "tags": [
+      "coffee",
+      "decaf coffee",
+      "green coffee beans",
+      "roasting",
+      "decaffeination"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "decaf-caffeine-reused",
+    "headline": "Removed Caffeine Can Be Reused Elsewhere",
+    "body": "Decaffeination does not simply make caffeine disappear. The National Coffee Association describes a process where beans are rinsed with a solvent that bonds to and removes caffeine. The caffeine is then extracted from that rinsing solution for use in other products. The solution is also captured and reused to decaffeinate more beans in a closed system.",
+    "summary": "The caffeine removed from decaf beans can be collected for other uses.",
+    "categoryId": "coffee",
+    "topic": "Decaf Coffee",
+    "tags": [
+      "coffee",
+      "decaf coffee",
+      "caffeine",
+      "decaffeination",
+      "coffee processing"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cappuccino-three-equal-parts",
+    "headline": "A Cappuccino Is Built From Three Equal Parts",
+    "body": "A cappuccino has a simple structure hiding under all that foam. Britannica describes it as being made of equal parts espresso, steamed milk, and frothed milk. That balance gives the drink a layered feel instead of turning it into mostly milk. It is one reason a cappuccino can taste bolder than a latte, even though both drinks start with espresso.",
+    "summary": "A cappuccino is built from espresso, steamed milk, and foam in equal parts.",
+    "categoryId": "coffee",
+    "topic": "Cappuccino",
+    "tags": [
+      "coffee",
+      "cappuccino",
+      "espresso",
+      "steamed milk",
+      "milk foam"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cappuccino-stronger-than-latte",
+    "headline": "Cappuccino Tastes Stronger Because It Has Less Milk",
+    "body": "A cappuccino and a latte can look similar, but the milk balance changes the whole drink. Britannica explains that cappuccinos have a more balanced ratio of espresso to milk, which gives them a stronger coffee taste. A latte has more milk, making it creamier and milder. So the difference is not just size. It is how much the milk softens the espresso.",
+    "summary": "A cappuccino can taste bolder because milk does not dominate the espresso as much.",
+    "categoryId": "coffee",
+    "topic": "Cappuccino",
+    "tags": [
+      "coffee",
+      "cappuccino",
+      "latte",
+      "espresso",
+      "milk"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cappuccino-morning-italy",
+    "headline": "Italians Usually Drink Cappuccino in the Morning",
+    "body": "Cappuccino culture is not the same everywhere. Britannica says that in Italy, cappuccinos are traditionally enjoyed at breakfast and rarely consumed after 10:00 or 11:00 in the morning. That custom is tied to the belief that milk can interfere with digestion after a meal. In other places, people order cappuccinos at almost any time of day.",
+    "summary": "In Italy, cappuccino is often treated as a morning drink, not an all-day order.",
+    "categoryId": "coffee",
+    "topic": "Cappuccino",
+    "tags": [
+      "coffee",
+      "cappuccino",
+      "italy",
+      "coffee culture",
+      "breakfast"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cappuccino-starts-with-espresso",
+    "headline": "Cappuccino Starts With Espresso",
+    "body": "A cappuccino is not a separate kind of coffee bean. It is an espresso-based drink. The National Coffee Association explains that espresso is made by forcing nearly boiling water through finely ground coffee under high pressure. That concentrated shot becomes the base for drinks such as cappuccinos and lattes. The milk changes the texture, but espresso gives the drink its backbone.",
+    "summary": "The cappuccino begins as a concentrated espresso shot before milk and foam are added.",
+    "categoryId": "coffee",
+    "topic": "Cappuccino",
+    "tags": [
+      "coffee",
+      "cappuccino",
+      "espresso",
+      "coffee drinks",
+      "brewing"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "latte-milkier-espresso-drink",
+    "headline": "A Latte Is the Milkier Espresso Drink",
+    "body": "A latte and a cappuccino are both espresso-and-milk drinks, but a latte leans much harder into the milk. Britannica says the primary difference is composition and texture: a latte has more milk, while a cappuccino has equal parts espresso, steamed milk, and frothed milk. That extra milk makes the latte smoother and less intense.",
+    "summary": "A latte is the creamier espresso drink because it uses more milk than a cappuccino.",
+    "categoryId": "coffee",
+    "topic": "Latte",
+    "tags": [
+      "coffee",
+      "latte",
+      "espresso",
+      "milk",
+      "cappuccino"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "latte-milder-flavor",
+    "headline": "More Milk Makes a Latte Taste Milder",
+    "body": "A latte is usually the softer-tasting choice on an espresso menu. Britannica says its higher milk content tends to make it sweeter and richer in calories, fat, and protein. That makes the coffee flavor milder compared with a cappuccino. The espresso is still there, but the milk stretches it into a creamier, smoother drink.",
+    "summary": "The extra milk in a latte makes the espresso taste gentler and creamier.",
+    "categoryId": "coffee",
+    "topic": "Latte",
+    "tags": [
+      "coffee",
+      "latte",
+      "espresso",
+      "milk",
+      "flavor"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "latte-anytime-drink",
+    "headline": "Lattes Are More Flexible Than Cappuccinos",
+    "body": "Coffee customs can shape when people order different drinks. Britannica notes that cappuccinos are traditionally morning drinks in Italy, but lattes are more versatile. In places such as the United States and the United Kingdom, lattes can be enjoyed at many times of day. The same espresso-and-milk idea becomes a very different social habit depending on the culture.",
+    "summary": "A latte is treated as an anytime coffee drink in many places.",
+    "categoryId": "coffee",
+    "topic": "Latte",
+    "tags": [
+      "coffee",
+      "latte",
+      "coffee culture",
+      "espresso",
+      "milk"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "latte-popular-espresso-drink",
+    "headline": "Lattes Are a Top Espresso-Based Drink in the U.S.",
+    "body": "Lattes are not just a cafe menu staple. The National Coffee Association reported that latte consumption increased from 17 percent to 21 percent in past-week consumption, while espresso rose from 16 percent to 20 percent. It also said espresso-based beverage consumption overall increased from 40 percent in 2022 to 45 percent. That makes lattes one of the major drivers of specialty coffee habits.",
+    "summary": "Lattes help lead the growth of espresso-based coffee drinks in the U.S.",
+    "categoryId": "coffee",
+    "topic": "Latte",
+    "tags": [
+      "coffee",
+      "latte",
+      "espresso",
+      "specialty coffee",
+      "coffee trends"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "robusta-beans-more-caffeine",
+    "headline": "Robusta Beans Have 50–60% More Caffeine",
+    "body": "Robusta coffee often tastes stronger, and part of that difference comes from what is inside the bean. The National Coffee Association says Robusta beans produce coffee with a bolder flavor and about 50 to 60 percent more caffeine than Arabica. That extra caffeine helps explain why Robusta can feel more intense. It is also one reason different coffee species can create noticeably different cups.",
+    "summary": "Robusta beans can carry much more caffeine than Arabica beans.",
+    "categoryId": "coffee",
+    "topic": "Robusta Beans",
+    "tags": [
+      "coffee",
+      "robusta beans",
+      "caffeine",
+      "arabica beans",
+      "coffee varieties"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "robusta-beans-tougher-plant",
+    "headline": "Robusta Is the Tougher Coffee Plant",
+    "body": "Robusta lives up to its name. The National Coffee Association says Robusta trees are heartier and more resistant to plant disease and parasites than Arabica. They can also handle slightly hotter, more humid climates and grow at far lower altitudes. That makes Robusta easier and cheaper to cultivate in many places.",
+    "summary": "Robusta coffee is easier to grow because the plant is tougher than Arabica.",
+    "categoryId": "coffee",
+    "topic": "Robusta Beans",
+    "tags": [
+      "coffee",
+      "robusta beans",
+      "coffee plants",
+      "agriculture",
+      "coffee varieties"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "robusta-beans-instant-espresso",
+    "headline": "Robusta Often Goes Into Instant Coffee",
+    "body": "Robusta is not just a cheaper version of Arabica. The National Coffee Association says Robusta is known for strong, bold flavors with bitter undertones and is primarily used in blends and instant coffees. It is also a common component in Italian espresso blends. That means Robusta may be hiding in some everyday coffee products, even when people do not think about the bean species.",
+    "summary": "Robusta commonly shows up in instant coffee and some espresso blends.",
+    "categoryId": "coffee",
+    "topic": "Robusta Beans",
+    "tags": [
+      "coffee",
+      "robusta beans",
+      "instant coffee",
+      "espresso",
+      "coffee blends"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "robusta-beans-production-growing",
+    "headline": "Robusta Production Is Growing",
+    "body": "Robusta is a major part of the global coffee supply. The National Coffee Association says it makes up about 38 percent of world coffee production, and production is increasing. Historically, it has been less expensive than Arabica, but its resistance to climate change gives farmers another reason to improve its quality. The tougher bean may become even more important as growing conditions shift.",
+    "summary": "Robusta already makes up a large share of coffee, and its production is increasing.",
+    "categoryId": "coffee",
+    "topic": "Robusta Beans",
+    "tags": [
+      "coffee",
+      "robusta beans",
+      "coffee production",
+      "climate",
+      "agriculture"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "arabica-beans-ethiopia-original",
+    "headline": "Arabica Comes From Ethiopia's Original Coffee Trees",
+    "body": "Arabica has a direct link to coffee's earliest story. The National Coffee Association says Coffea arabica is descended from the original coffee trees discovered in Ethiopia. These trees produce fine, mild, aromatic coffees that bring the highest prices on the world market. So the bean behind many specialty cups traces back to coffee's original homeland.",
+    "summary": "Arabica coffee descends from the original coffee trees discovered in Ethiopia.",
+    "categoryId": "coffee",
+    "topic": "Arabica Beans",
+    "tags": [
+      "coffee",
+      "arabica beans",
+      "ethiopia",
+      "coffee history",
+      "coffee varieties"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "arabica-beans-62-percent",
+    "headline": "Arabica Makes About 62% of Global Coffee",
+    "body": "Arabica is the most common coffee species in global production. The National Coffee Association says Arabica represents about 62 percent of the world's coffee production. Together, Arabica and Robusta make up more than 99 percent of commercially grown coffee worldwide. That means most coffee drinkers are usually drinking one of these two species, with Arabica leading the pair.",
+    "summary": "Arabica alone accounts for most of the world's coffee production.",
+    "categoryId": "coffee",
+    "topic": "Arabica Beans",
+    "tags": [
+      "coffee",
+      "arabica beans",
+      "coffee production",
+      "robusta beans",
+      "coffee varieties"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "arabica-beans-high-steep-terrain",
+    "headline": "Arabica Often Grows High on Steep Terrain",
+    "body": "High-quality Arabica is often tied to elevation. The National Coffee Association says it is commonly associated with coffees grown between 2,000 and 6,000 feet above sea level, though the best altitude depends on distance from the equator. Arabica trees can be costly to cultivate because the ideal terrain tends to be steep and hard to access. Flavor can come with a difficult climb.",
+    "summary": "Some prized Arabica coffee grows high on steep terrain that is hard to farm.",
+    "categoryId": "coffee",
+    "topic": "Arabica Beans",
+    "tags": [
+      "coffee",
+      "arabica beans",
+      "altitude",
+      "coffee farms",
+      "coffee varieties"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "arabica-beans-mild-fragile",
+    "headline": "Arabica Is Mild and Aromatic but Fragile",
+    "body": "Arabica is loved for flavor, but it is not the easiest coffee to grow. The National Coffee Association says Arabica trees produce fine, mild, aromatic coffees, but they are more disease-prone than Robusta and need more care. They prefer steady mild temperatures, good drainage, and about 60 inches of rainfall each year. The result is a prized bean with a more demanding plant behind it.",
+    "summary": "Arabica can taste refined, but the plant needs careful growing conditions.",
+    "categoryId": "coffee",
+    "topic": "Arabica Beans",
+    "tags": [
+      "coffee",
+      "arabica beans",
+      "flavor",
+      "coffee plants",
+      "agriculture"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "turkish-coffee-unesco-culture",
+    "headline": "Turkish Coffee Is UNESCO-Recognized Culture",
+    "body": "Turkish coffee is not just a way to drink caffeine. UNESCO says Turkish coffee culture and tradition were added to its Representative List of the Intangible Cultural Heritage in 2013. The recognition highlighted its special preparation, brewing methods, and communal traditions. In Turkish culture, coffee can stand for friendship, hospitality, refinement, and social connection.",
+    "summary": "Turkish coffee is recognized as cultural heritage, not just a beverage.",
+    "categoryId": "coffee",
+    "topic": "Turkish Coffee",
+    "tags": [
+      "coffee",
+      "turkish coffee",
+      "unesco",
+      "culture",
+      "coffee tradition"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "turkish-coffee-foam",
+    "headline": "Good Turkish Coffee Is Known by Its Foam",
+    "body": "Turkish coffee has a quality marker that sits right on top. UNESCO describes its preparation as a slow brewing process in a small pot called a cezve. As the coffee starts to boil, foam rises on the surface. That foam is considered the distinctive feature of a good Turkish coffee, which is traditionally served in small cups with water and Turkish delight.",
+    "summary": "The foam on Turkish coffee is one sign that it was brewed well.",
+    "categoryId": "coffee",
+    "topic": "Turkish Coffee",
+    "tags": [
+      "coffee",
+      "turkish coffee",
+      "foam",
+      "cezve",
+      "brewing"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "turkish-coffee-fortune-grounds",
+    "headline": "Coffee Grounds Can Become Fortune-Telling",
+    "body": "Turkish coffee does not end when the cup is empty. UNESCO describes a ritual in which the grounds left behind are used to tell a person's fortune. Friends may read the patterns, and some people even consult professional fortune-tellers. Modern versions can be digital too, with apps that interpret a photo of the empty cup within seconds.",
+    "summary": "In Turkish coffee culture, the leftover grounds can turn into a fortune-telling ritual.",
+    "categoryId": "coffee",
+    "topic": "Turkish Coffee",
+    "tags": [
+      "coffee",
+      "turkish coffee",
+      "fortune telling",
+      "coffee grounds",
+      "culture"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "turkish-coffee-salty-groom",
+    "headline": "Some Grooms Drink Salty Coffee as a Test",
+    "body": "Turkish coffee plays a role in wedding rituals. UNESCO says that when a groom's family visits the bride's house, the bride is expected to prepare Turkish coffee. In the past, if she liked the groom-to-be, she made sweet coffee; if not, she put salt in it. Today, some brides still serve salty coffee to see whether the groom will drink it as a sign of love.",
+    "summary": "A salty cup of coffee can become part of a Turkish wedding ritual.",
+    "categoryId": "coffee",
+    "topic": "Turkish Coffee",
+    "tags": [
+      "coffee",
+      "turkish coffee",
+      "wedding rituals",
+      "salt",
+      "culture"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffeehouses-originally-only-coffee",
+    "headline": "Cafés Originally Served Only Coffee",
+    "body": "The word cafe has a coffee-filled history. Britannica says a cafe was historically a coffeehouse and originally served only coffee. The English word comes from French and ultimately from the Turkish word kahve, meaning coffee. So before cafes became places for pastries, meals, laptops, and long menus, they were centered on one drink.",
+    "summary": "The cafe began as a coffeehouse built around coffee itself.",
+    "categoryId": "coffee",
+    "topic": "Coffeehouses",
+    "tags": [
+      "coffee",
+      "coffeehouses",
+      "cafes",
+      "coffee history",
+      "language"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffeehouses-london-news-hubs",
+    "headline": "London Coffeehouses Worked Like News Hubs",
+    "body": "London coffeehouses once did far more than serve drinks. Britannica says that for about 200 years after the mid-17th century, Europe's famous coffeehouses flourished in London as points for news, discussion, and political factions. Proprietors even competed for Whig and Tory newspapers. Before modern media habits, coffeehouses helped people gather, argue, and stay informed.",
+    "summary": "Old London coffeehouses worked like busy news and discussion hubs.",
+    "categoryId": "coffee",
+    "topic": "Coffeehouses",
+    "tags": [
+      "coffee",
+      "coffeehouses",
+      "london",
+      "newspapers",
+      "coffee history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffeehouses-business-deals",
+    "headline": "Business Deals Happened in Coffeehouses",
+    "body": "Coffeehouses were once places where serious business got handled. Britannica says buying and selling insurance, ships, stocks, commodities, and sometimes even enslaved people took place in coffeehouses. They also became informal stations for collecting and distributing packets and letters. A cup of coffee could sit beside news, trade, mail, and major financial decisions.",
+    "summary": "Some coffeehouses doubled as meeting places for trade, mail, and finance.",
+    "categoryId": "coffee",
+    "topic": "Coffeehouses",
+    "tags": [
+      "coffee",
+      "coffeehouses",
+      "business",
+      "trade",
+      "coffee history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffeehouses-internet-cafes",
+    "headline": "Internet Cafés Were a Modern Coffeehouse Twist",
+    "body": "Coffeehouses kept changing long after their early European days. Britannica says that in the late 20th century, as espresso and specialty coffees became popular in the United States, many coffee-focused restaurants opened. In the 1990s and early 2000s, some cafes began offering public Internet access. That created the Internet cafe, a modern version of coffee as a shared social space.",
+    "summary": "The Internet cafe turned the coffeehouse idea into a place for public online access.",
+    "categoryId": "coffee",
+    "topic": "Coffeehouses",
+    "tags": [
+      "coffee",
+      "coffeehouses",
+      "internet cafes",
+      "espresso",
+      "cafe culture"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-origins-discovery-mystery",
+    "headline": "Coffee's Discovery Is Still a Mystery",
+    "body": "Coffee has a famous origin story, but the truth is less certain. The National Coffee Association says there is no official documentation confirming exactly who first discovered coffee trees or invented coffee as a beverage. One legend credits Kaldi, an Ethiopian goat herder, who noticed his goats became energetic after eating coffee cherries. The story is memorable, but coffee's real beginning remains partly mysterious.",
+    "summary": "Coffee's origin story starts with legend because no one documented the first cup.",
+    "categoryId": "coffee",
+    "topic": "Coffee Origins",
+    "tags": [
+      "coffee",
+      "coffee origins",
+      "kaldi",
+      "ethiopia",
+      "coffee history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-origins-schools-of-wise",
+    "headline": "Coffeehouses Were Called Schools of the Wise",
+    "body": "Early coffeehouses were not just places to drink coffee. The National Coffee Association says public coffee houses, called qahveh khaneh, appeared across the Middle East as coffee culture grew. People could sip coffee, talk, listen to music, watch performances, play chess, and catch up on news. Because they were so important for sharing information, they were known as \"Schools of the Wise.\"",
+    "summary": "Early coffeehouses acted like social hubs for news, games, music, and ideas.",
+    "categoryId": "coffee",
+    "topic": "Coffee Origins",
+    "tags": [
+      "coffee",
+      "coffee origins",
+      "coffeehouses",
+      "middle east",
+      "culture"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-origins-one-seedling-americas",
+    "headline": "One Coffee Seedling Changed the Americas",
+    "body": "Coffee's spread through the Americas may trace back to one dramatic voyage. The National Coffee Association says Gabriel de Clieu carried a coffee seedling from a tree in France to Martinique in 1723, surviving bad weather, a pirate attack, and even a saboteur. That seedling thrived and helped spread coffee through the Caribbean, South America, and Central America.",
+    "summary": "A single coffee seedling helped launch coffee growing across the Americas.",
+    "categoryId": "coffee",
+    "topic": "Coffee Origins",
+    "tags": [
+      "coffee",
+      "coffee origins",
+      "martinique",
+      "gabriel de clieu",
+      "coffee history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coffee-origins-boston-tea-party",
+    "headline": "The Boston Tea Party Helped Push Coffee in America",
+    "body": "Coffee was not always America's favorite hot drink. The National Coffee Association says tea remained favored in the New World until King George III imposed a heavy tax in 1773. That tax helped spark the Boston Tea Party. According to the source, the protest changed more than politics. It also shifted Americans' beverage preference toward coffee.",
+    "summary": "A tax on tea helped coffee become part of American drinking culture.",
+    "categoryId": "coffee",
+    "topic": "Coffee Origins",
+    "tags": [
+      "coffee",
+      "coffee origins",
+      "boston tea party",
+      "american history",
+      "tea"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
