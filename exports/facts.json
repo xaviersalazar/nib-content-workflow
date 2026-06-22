@@ -13444,5 +13444,2285 @@
     "funScore": 10,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "internet-network-of-networks",
+    "headline": "The Internet Is a Network of Networks",
+    "body": "The Internet is not one giant computer or one single cable system. Britannica describes it as a network of networks, because it lets many computer networks around the world interconnect. That design is what allows people to communicate, share information, stream media, use e-mail, and access websites from almost anywhere. The Internet is more like a global connection system than one central machine.",
+    "summary": "The Internet works by linking many separate networks into one global system.",
+    "categoryId": "technology",
+    "topic": "Internet",
+    "tags": [
+      "technology",
+      "internet",
+      "computer networks",
+      "communication",
+      "digital technology"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "internet-arpanet-first-connection",
+    "headline": "The First ARPANET Connection Happened in 1969",
+    "body": "The Internet grew out of earlier research networks, especially ARPANET. Britannica says ARPANET established its first host-to-host network connection on October 29, 1969. It was created by the Advanced Research Projects Agency of the U.S. Department of Defense. That early connection linked time-sharing computers at research sites and helped build the foundation for today’s global Internet.",
+    "summary": "A research network made its first host-to-host connection in 1969.",
+    "categoryId": "technology",
+    "topic": "Internet",
+    "tags": [
+      "technology",
+      "internet",
+      "arpanet",
+      "computer history",
+      "networks"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "internet-data-packets",
+    "headline": "Internet Data Travels in Packets",
+    "body": "The Internet does not usually send one big message in one piece. Britannica explains that packet switching breaks large messages or chunks of computer data into smaller pieces called packets. Those packets can travel independently through available routes and are reassembled at the destination. This lets computers communicate efficiently without needing one dedicated circuit between every pair of users.",
+    "summary": "Your online data can be split into packets, routed separately, and rebuilt later.",
+    "categoryId": "technology",
+    "topic": "Internet",
+    "tags": [
+      "technology",
+      "internet",
+      "packet switching",
+      "data",
+      "computer networks"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "internet-public-1990s",
+    "headline": "The Internet Was Not Publicly Visible Until the 1990s",
+    "body": "The Internet started earlier than many people realize. Britannica says it emerged in the United States in the 1970s, but it did not become visible to the general public until the early 1990s. Before that, much of its development happened through research, government, and academic networks. The familiar public Internet arrived only after decades of hidden groundwork.",
+    "summary": "The Internet existed for years before most people ever saw it.",
+    "categoryId": "technology",
+    "topic": "Internet",
+    "tags": [
+      "technology",
+      "internet",
+      "computer history",
+      "networks",
+      "1990s"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "world-wide-web-not-internet",
+    "headline": "The Web Is Not the Same as the Internet",
+    "body": "People often use the Web and the Internet as if they mean the same thing, but they are different. Britannica calls the World Wide Web the leading information retrieval service of the Internet. The Internet is the underlying worldwide computer network. The Web is one major way people use that network to access linked pages, media, and other content.",
+    "summary": "The Web is something that runs on the Internet, not the whole Internet itself.",
+    "categoryId": "technology",
+    "topic": "World Wide Web",
+    "tags": [
+      "technology",
+      "world wide web",
+      "internet",
+      "websites",
+      "digital technology"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "world-wide-web-hyperlinks",
+    "headline": "Hyperlinks Made the Web Feel Connected",
+    "body": "The Web became powerful because information could link to other information. Britannica says the World Wide Web connects content through hypertext or hypermedia links, better known as hyperlinks. A user can select a word, phrase, image, or other linked item and jump to related material. That simple linking idea helped turn separate documents into a giant connected information space.",
+    "summary": "Hyperlinks turned online documents into a connected web of information.",
+    "categoryId": "technology",
+    "topic": "World Wide Web",
+    "tags": [
+      "technology",
+      "world wide web",
+      "hyperlinks",
+      "hypertext",
+      "websites"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "world-wide-web-cern-1989",
+    "headline": "The Web Began at CERN in 1989",
+    "body": "The World Wide Web began as a research project, not a social media platform or shopping tool. Britannica says Tim Berners-Lee and colleagues at CERN began developing the Web in 1989. They created HTTP, a protocol that standardized communication between servers and clients. Their text-based Web browser was released for general use in January 1992.",
+    "summary": "The Web started at a scientific research organization before spreading worldwide.",
+    "categoryId": "technology",
+    "topic": "World Wide Web",
+    "tags": [
+      "technology",
+      "world wide web",
+      "tim berners-lee",
+      "cern",
+      "http"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "world-wide-web-mosaic-browser",
+    "headline": "Mosaic Made the Web Point-and-Click",
+    "body": "The early Web became much easier to use after Mosaic arrived. Britannica says Mosaic was released in September 1993 by Marc Andreessen and others at the National Center for Supercomputing Applications. It gave Web users the kind of point-and-click graphical controls already familiar from personal computers. That helped the World Wide Web gain rapid acceptance and millions of users by the mid-1990s.",
+    "summary": "A graphical browser helped turn the Web from a technical tool into something millions could use.",
+    "categoryId": "technology",
+    "topic": "World Wide Web",
+    "tags": [
+      "technology",
+      "world wide web",
+      "mosaic",
+      "browsers",
+      "internet history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "wi-fi-radio-waves",
+    "headline": "Wi-Fi Uses Radio Waves",
+    "body": "Wi-Fi may feel invisible, but it works through radio waves. Britannica defines Wi-Fi as a networking technology that uses radio waves to transfer data at high speed over short distances. That is how laptops, phones, tablets, and game consoles can connect without a cable. The device is not magically online. It is exchanging data through wireless signals nearby.",
+    "summary": "Wi-Fi gets devices online by sending data through short-range radio waves.",
+    "categoryId": "technology",
+    "topic": "Wi-Fi",
+    "tags": [
+      "technology",
+      "wi-fi",
+      "radio waves",
+      "wireless networks",
+      "internet"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "wi-fi-not-wireless-fidelity",
+    "headline": "Wi-Fi Does Not Mean Wireless Fidelity",
+    "body": "The name Wi-Fi sounds like it should stand for something technical. Britannica says it is not an abbreviation for \"wireless fidelity.\" The name was created by a marketing firm hired by the Wireless Ethernet Compatibility Alliance, partly because it sounded pleasing and resembled hi-fi. So one of the most familiar tech terms was shaped by branding, not an engineering acronym.",
+    "summary": "Wi-Fi sounds like an acronym, but the name was chosen for branding.",
+    "categoryId": "technology",
+    "topic": "Wi-Fi",
+    "tags": [
+      "technology",
+      "wi-fi",
+      "wireless networks",
+      "branding",
+      "technology history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "wi-fi-speed-leap",
+    "headline": "Early Wi-Fi Was Much Slower Than Wi-Fi 6",
+    "body": "Wi-Fi has changed dramatically since its first shared standard. Britannica says the original 802.11 standard allowed a maximum data rate of only 2 megabits per second. Wi-Fi 6, introduced in 2019, has a maximum theoretical rate of 9.6 gigabits per second. That jump shows how much invisible wireless networking had to improve to support modern devices.",
+    "summary": "The first Wi-Fi standard topped out at 2 Mbps, while Wi-Fi 6 can theoretically reach 9.6 Gbps.",
+    "categoryId": "technology",
+    "topic": "Wi-Fi",
+    "tags": [
+      "technology",
+      "wi-fi",
+      "wi-fi 6",
+      "802.11",
+      "wireless networks"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "wi-fi-signals-bounce",
+    "headline": "Indoor Wi-Fi Signals Bounce Around Rooms",
+    "body": "Wi-Fi signals do not always travel straight from router to device. Britannica says indoor Wi-Fi signals can reflect off walls, furniture, and other obstacles. Those reflections can arrive at different times and create a problem called multipath interference. Wi-Fi reduces that problem by combining different ways of transmitting the signal, helping wireless data survive messy indoor spaces.",
+    "summary": "Your Wi-Fi signal can bounce off walls and furniture before reaching your device.",
+    "categoryId": "technology",
+    "topic": "Wi-Fi",
+    "tags": [
+      "technology",
+      "wi-fi",
+      "radio waves",
+      "routers",
+      "wireless networks"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "email-more-than-text",
+    "headline": "E-mail Can Send More Than Text",
+    "body": "E-mail is often thought of as typed messages, but it can carry more than plain words. Britannica says an e-mail system lets computer users on a network send text, graphics, sounds, and animated images to other users. That made e-mail more than a digital letter. It became a flexible way to move different kinds of information across networks.",
+    "summary": "E-mail can carry text, images, sounds, and other digital content through a network.",
+    "categoryId": "technology",
+    "topic": "E-mail",
+    "tags": [
+      "technology",
+      "email",
+      "e-mail",
+      "digital communication",
+      "computer networks"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "email-at-symbol-icon",
+    "headline": "The @ Symbol Became an Internet Icon",
+    "body": "The @ symbol became famous because of e-mail addresses. Britannica says it appears in the middle of an e-mail address, separating the name of the sender from the domain name of the hosting terminal. Today it is one of the most recognizable symbols in the world. A small mark once used in other contexts became a global sign of digital identity.",
+    "summary": "The @ symbol became globally recognizable because e-mail put it in every address.",
+    "categoryId": "technology",
+    "topic": "E-mail",
+    "tags": [
+      "technology",
+      "email",
+      "e-mail",
+      "at sign",
+      "internet"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "email-digital-mailbox",
+    "headline": "E-mail Uses Digital Mailboxes",
+    "body": "E-mail works partly because users have electronic mailboxes. Britannica says network users typically have an electronic mailbox that receives, stores, and manages their correspondence. From there, recipients can view, print, save, edit, answer, or forward messages. The idea feels simple now, but it turned correspondence into something instantly manageable inside a computer system.",
+    "summary": "An e-mail inbox is basically a digital mailbox for receiving and managing messages.",
+    "categoryId": "technology",
+    "topic": "E-mail",
+    "tags": [
+      "technology",
+      "email",
+      "e-mail",
+      "inbox",
+      "digital communication"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "email-one-or-many",
+    "headline": "E-mail Can Go to One Person or Many",
+    "body": "E-mail made digital messages flexible in a way paper mail could not match as easily. Britannica says data can be sent through networks to a universe of users or to a select group or individual. That means the same system can support a private note, a team update, or a large announcement. One message can scale from personal to massive.",
+    "summary": "The same e-mail system can send a message to one person, a group, or many users.",
+    "categoryId": "technology",
+    "topic": "E-mail",
+    "tags": [
+      "technology",
+      "email",
+      "e-mail",
+      "computer networks",
+      "digital communication"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "smartphones-handheld-computers",
+    "headline": "A Smartphone Is Basically a Handheld Computer",
+    "body": "A smartphone is more than a phone with a screen. Britannica says it combines a mobile telephone with a display, personal information tools, and an operating system that can install other software. That software can handle web browsing, email, music, video, and many other apps. In simple terms, a smartphone is a handheld computer built into a mobile phone.",
+    "summary": "A smartphone is really a small computer built into a phone.",
+    "categoryId": "technology",
+    "topic": "Smartphones",
+    "tags": [
+      "technology",
+      "smartphones",
+      "mobile phones",
+      "computers",
+      "apps"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "smartphones-first-1993",
+    "headline": "The First Smartphone Was Sold in 1993",
+    "body": "Smartphones are older than the iPhone era. Britannica says the first smartphone was designed by IBM and sold by BellSouth in 1993. It included a touchscreen interface for tools such as a calendar, address book, calculator, and other functions. Long before modern app stores, the idea of combining a phone with computer-like tools was already on the market.",
+    "summary": "The first smartphone arrived in 1993, years before modern touch-screen phones became normal.",
+    "categoryId": "technology",
+    "topic": "Smartphones",
+    "tags": [
+      "technology",
+      "smartphones",
+      "ibm",
+      "mobile phones",
+      "technology history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "smartphones-3g-media-leap",
+    "headline": "3G Made Phones Much More Than Call Machines",
+    "body": "Before 3G, most mobile phones could only send and receive data fast enough for calls and text messages. Britannica says third-generation mobile phone networks, introduced in 2001, made higher bit-rate communication common. That allowed phones to send and receive photos, video clips, music files, emails, and more. The phone started becoming a pocket media device, not just a talking device.",
+    "summary": "3G helped turn mobile phones into devices for photos, video, music, and email.",
+    "categoryId": "technology",
+    "topic": "Smartphones",
+    "tags": [
+      "technology",
+      "smartphones",
+      "3g",
+      "mobile networks",
+      "digital media"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "smartphones-augmented-reality",
+    "headline": "Smartphones Can Overlay Information on the Real World",
+    "body": "Smartphones can use sensors and software to blend digital information with the physical world. Britannica gives augmented reality as an example, where a phone's GPS location chip can help overlay the camera view of a street with local details. Those details might identify stores, points of interest, or real estate listings. The phone becomes a lens that adds information to what you are seeing.",
+    "summary": "A smartphone can turn a camera view into a layer of real-world information.",
+    "categoryId": "technology",
+    "topic": "Smartphones",
+    "tags": [
+      "technology",
+      "smartphones",
+      "augmented reality",
+      "gps",
+      "mobile apps"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "qr-codes-car-parts",
+    "headline": "QR Codes Were Invented to Track Car Parts",
+    "body": "QR Codes were not originally created for restaurant menus or ads. Britannica says they were developed in 1994 by Denso Wave, a division of Denso, which is a subsidiary of Toyota Motor Corporation. The goal was to track automobile parts during the assembly process. A tool built for factory logistics later became something people scan with phones every day.",
+    "summary": "QR Codes began as a way to track automobile parts in factories.",
+    "categoryId": "technology",
+    "topic": "QR Codes",
+    "tags": [
+      "technology",
+      "qr codes",
+      "barcodes",
+      "toyota",
+      "denso wave"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "qr-codes-finder-pattern",
+    "headline": "Three Corners Tell Scanners Which Way Is Up",
+    "body": "The big square patterns in a QR Code are not decoration. Britannica says three corners contain a finder pattern made of nested black and white squares. When a scanner detects that pattern, software can determine the orientation of the code. That helps the device read the QR Code even if the printed square is turned sideways or upside down.",
+    "summary": "The three large corner squares help scanners orient a QR Code correctly.",
+    "categoryId": "technology",
+    "topic": "QR Codes",
+    "tags": [
+      "technology",
+      "qr codes",
+      "barcodes",
+      "scanners",
+      "data"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "qr-codes-thousands-characters",
+    "headline": "The Largest QR Code Can Hold Thousands of Characters",
+    "body": "A QR Code can store more information than it looks like. Britannica says the largest standard QR Code, Version 40, is a 177 by 177 pixel matrix. It can contain 7,089 numeric characters or 4,296 alphanumeric characters. That means a square of black and white blocks can encode far more than a short link.",
+    "summary": "The largest standard QR Code can hold thousands of characters inside one square.",
+    "categoryId": "technology",
+    "topic": "QR Codes",
+    "tags": [
+      "technology",
+      "qr codes",
+      "data",
+      "barcodes",
+      "digital codes"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "qr-codes-micro-version",
+    "headline": "Tiny Micro QR Codes Exist for Small Objects",
+    "body": "QR Codes have a smaller cousin. Britannica says Denso Wave created Micro QR Code for tracking small objects. It comes in four versions ranging from 11 by 11 pixels to 17 by 17 pixels. That tiny format shows that QR-style codes are not only for posters, signs, or menus. They can also be scaled down for small items.",
+    "summary": "Micro QR Codes shrink the same basic idea for tracking smaller objects.",
+    "categoryId": "technology",
+    "topic": "QR Codes",
+    "tags": [
+      "technology",
+      "qr codes",
+      "micro qr code",
+      "barcodes",
+      "denso wave"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "virtual-reality-feeling-there",
+    "headline": "VR Tricks Your Brain Into Feeling There",
+    "body": "Virtual reality is not just a screen close to your face. Britannica describes VR as computer modeling and simulation that lets a person interact with an artificial 3-D visual or sensory environment. Motion sensors track the user's movements and adjust the view in real time. That creates telepresence, the illusion of actually being inside the simulated place.",
+    "summary": "VR works by matching what you see to how your body moves.",
+    "categoryId": "technology",
+    "topic": "Virtual Reality",
+    "tags": [
+      "technology",
+      "virtual reality",
+      "vr",
+      "simulation",
+      "telepresence"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "virtual-reality-term-1987",
+    "headline": "The Term Virtual Reality Was Coined in 1987",
+    "body": "Virtual reality feels like a modern phrase, but its name has a specific origin. Britannica says the term virtual reality was coined in 1987 by Jaron Lanier. His research and engineering helped shape the early VR industry. Before VR became a gaming and headset buzzword, it was already forming as a field built around immersion, simulation, and interaction.",
+    "summary": "The phrase virtual reality was coined in 1987 by Jaron Lanier.",
+    "categoryId": "technology",
+    "topic": "Virtual Reality",
+    "tags": [
+      "technology",
+      "virtual reality",
+      "jaron lanier",
+      "vr history",
+      "simulation"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "virtual-reality-heavy-headset",
+    "headline": "An Early VR Headset Was Too Heavy to Wear Normally",
+    "body": "One early head-mounted display showed how ambitious VR was before the hardware was comfortable. Britannica says Ivan Sutherland worked on a tethered display with goggles that showed computer-generated graphics. The device was too heavy to be worn comfortably, so it had to be held in place by a suspension system. Early VR literally needed support from above.",
+    "summary": "An early VR headset was so heavy it had to hang from a suspension system.",
+    "categoryId": "technology",
+    "topic": "Virtual Reality",
+    "tags": [
+      "technology",
+      "virtual reality",
+      "head-mounted display",
+      "ivan sutherland",
+      "vr history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "virtual-reality-flight-training",
+    "headline": "VR Training Goes Back to Flight Simulators",
+    "body": "Virtual reality has always had a practical side. Britannica says an important use of VR systems has been training for real-life activities, because simulations can provide practice at lower cost and with greater safety. Flight simulators were especially important, letting pilots train in a closed mechanical system on the ground. VR was not only about fantasy worlds. It was also about practicing dangerous tasks safely.",
+    "summary": "VR grew partly from the need to practice real skills without real-world risk.",
+    "categoryId": "technology",
+    "topic": "Virtual Reality",
+    "tags": [
+      "technology",
+      "virtual reality",
+      "flight simulators",
+      "training",
+      "simulation"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cloud-computing-central-systems",
+    "headline": "The Cloud Is Really Someone Else's Computer System",
+    "body": "Cloud computing can sound like data floating in the sky, but the reality is more concrete. Britannica defines it as running application software and storing related data in central computer systems, then giving users access through the Internet. That means your files or apps may live on remote machines instead of only on your own device. The cloud is invisible to you, but the computers are real.",
+    "summary": "Cloud computing stores and runs things on remote computer systems accessed through the Internet.",
+    "categoryId": "technology",
+    "topic": "Cloud Computing",
+    "tags": [
+      "technology",
+      "cloud computing",
+      "internet",
+      "servers",
+      "data storage"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cloud-computing-name-diagrams",
+    "headline": "The Cloud Name Came From Network Diagrams",
+    "body": "The name cloud computing did not come from actual clouds. Britannica says the origin of the expression is obscure, but it appears to come from the practice of using stylized cloud drawings to represent networks in computing and communications diagrams. The term became popular in 2008. A simple diagram symbol helped name one of the biggest shifts in modern computing.",
+    "summary": "The cloud got its name from cloud-shaped network symbols in technical diagrams.",
+    "categoryId": "technology",
+    "topic": "Cloud Computing",
+    "tags": [
+      "technology",
+      "cloud computing",
+      "networks",
+      "technology history",
+      "internet"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cloud-computing-utility-idea",
+    "headline": "Cloud Computing Was Imagined Like a Utility",
+    "body": "The idea behind cloud computing is older than the term. Britannica says remote access to computing functions dates back to mainframe time-sharing systems of the 1960s and 1970s. In 1966, Douglas F. Parkhill predicted that computing would resemble a public utility, with many remote users connected to one central computing facility. That prediction sounds a lot like the cloud services people use today.",
+    "summary": "Cloud computing was imagined decades earlier as computing delivered like a utility.",
+    "categoryId": "technology",
+    "topic": "Cloud Computing",
+    "tags": [
+      "technology",
+      "cloud computing",
+      "time-sharing",
+      "computer history",
+      "utilities"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cloud-computing-thousands-servers",
+    "headline": "Cloud Data Centers Can Hold Thousands of Servers",
+    "body": "The cloud depends on massive physical infrastructure. Britannica says large cloud-computing data centers often require investments of hundreds of millions of dollars. They typically contain thousands of server computers networked together into parallel-processing or grid-computing systems. So a simple online app may be backed by enormous buildings full of machines, power, cooling, and network equipment.",
+    "summary": "Behind cloud services are huge data centers filled with thousands of servers.",
+    "categoryId": "technology",
+    "topic": "Cloud Computing",
+    "tags": [
+      "technology",
+      "cloud computing",
+      "data centers",
+      "servers",
+      "infrastructure"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cryptography-hidden-writing",
+    "headline": "Cryptography Means Hidden Writing",
+    "body": "Cryptography has a name that points back to secrecy. Britannica says the word comes from the Greek kryptos, meaning hidden, and graphein, meaning to write. At first, cryptography focused on hiding information in ciphers and revealing it only to legitimate users with a secret key. Today it covers much more, but the basic idea still begins with making information unreadable to outsiders.",
+    "summary": "Cryptography started as the art of hidden writing protected by secret keys.",
+    "categoryId": "technology",
+    "topic": "Cryptography",
+    "tags": [
+      "technology",
+      "cryptography",
+      "cryptology",
+      "ciphers",
+      "secrecy"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cryptography-codes-vs-ciphers",
+    "headline": "Codes and Ciphers Are Not the Same Thing",
+    "body": "People often use code and cipher as if they mean the same thing, but Britannica says they are different. A code replaces information with another symbol, word, or pattern according to a fixed rule. A cipher also replaces information, but the rule depends on a secret key known by the sender and receiver. That key is what makes a cipher harder for outsiders to undo.",
+    "summary": "A code follows a fixed rule, while a cipher depends on a secret key.",
+    "categoryId": "technology",
+    "topic": "Cryptography",
+    "tags": [
+      "technology",
+      "cryptography",
+      "codes",
+      "ciphers",
+      "encryption"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cryptography-plaintext-ciphertext",
+    "headline": "Encryption Turns Plaintext Into Ciphertext",
+    "body": "Cryptography has its own language for hiding information. Britannica says the original information is called plaintext, even if it is a stream of computer 1s and 0s. Encryption transforms that plaintext into a cipher, also called ciphertext, under control of a key. Decryption reverses the process so a legitimate receiver can recover the concealed information.",
+    "summary": "Encryption changes readable plaintext into ciphertext that needs a key to undo.",
+    "categoryId": "technology",
+    "topic": "Cryptography",
+    "tags": [
+      "technology",
+      "cryptography",
+      "encryption",
+      "decryption",
+      "ciphertext"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cryptography-digital-signatures",
+    "headline": "Digital Signatures Became Legally Equal to Written Ones",
+    "body": "Modern cryptography is not only about secret messages. Britannica says digital signatures became legally equal to written signatures in the United States when Congress passed legislation in June 2000. In digital settings, cryptology helps prove identity, origin, and authenticity without relying on physical documents. That means cryptography now supports trust in everyday electronic agreements.",
+    "summary": "Digital signatures gained the same legal status as written signatures in the U.S. in 2000.",
+    "categoryId": "technology",
+    "topic": "Cryptography",
+    "tags": [
+      "technology",
+      "cryptography",
+      "digital signatures",
+      "e-commerce",
+      "authentication"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "blockchain-distributed-ledger",
+    "headline": "A Blockchain Is a Distributed Ledger",
+    "body": "A blockchain is not just a buzzword for cryptocurrency. Britannica describes it as a database technology based on a ledger distributed throughout a computer network. The records in that ledger are called blocks. Instead of one central record keeper holding everything alone, copies of the ledger exist across the network, which helps make the system useful for shared record-keeping.",
+    "summary": "A blockchain stores records in blocks across a distributed computer network.",
+    "categoryId": "technology",
+    "topic": "Blockchain",
+    "tags": [
+      "technology",
+      "blockchain",
+      "database",
+      "distributed ledger",
+      "computer networks"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "blockchain-built-for-bitcoin",
+    "headline": "Blockchain Was Built for Bitcoin",
+    "body": "Blockchain technology became famous through Bitcoin. Britannica says it was devised by the anonymous programmer or group of programmers known as Satoshi Nakamoto as part of Bitcoin's architecture in 2009. The design was created to support cryptocurrency transactions without relying on one central authority. A technology now discussed far beyond crypto began as part of one digital currency system.",
+    "summary": "Blockchain was first designed as part of Bitcoin's architecture in 2009.",
+    "categoryId": "technology",
+    "topic": "Blockchain",
+    "tags": [
+      "technology",
+      "blockchain",
+      "bitcoin",
+      "satoshi nakamoto",
+      "cryptocurrency"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "blockchain-public-private-keys",
+    "headline": "Bitcoin Uses Public and Private Keys",
+    "body": "Bitcoin depends on cryptography to move value. Britannica says users have a public key that anyone can see and a private key known only to their computers. When Bitcoins are transferred, the receiver sends a public key, and the sender signs the transaction with a private key. That pairing helps prove control without revealing the secret key itself.",
+    "summary": "Bitcoin transactions use public keys people can share and private keys they must protect.",
+    "categoryId": "technology",
+    "topic": "Blockchain",
+    "tags": [
+      "technology",
+      "blockchain",
+      "bitcoin",
+      "public-key cryptography",
+      "cryptocurrency"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "blockchain-blocks-time-order",
+    "headline": "Blocks Are Arranged in Time Order",
+    "body": "A blockchain gets its name from how its records are organized. Britannica says transactions are grouped into blocks, and those blocks are arranged in a chronological sequence called the blockchain. New blocks are added through a mathematical process that makes the chain extremely difficult for one user to alter. The order matters because the ledger is a history, not just a pile of records.",
+    "summary": "Blockchain records are grouped into blocks and linked in chronological order.",
+    "categoryId": "technology",
+    "topic": "Blockchain",
+    "tags": [
+      "technology",
+      "blockchain",
+      "blocks",
+      "database",
+      "cryptocurrency"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "usb-replaced-many-ports",
+    "headline": "USB Replaced a Mess of Computer Ports",
+    "body": "Before USB became common, plugging things into a computer was much messier. Britannica says a typical PC might have serial ports, a parallel port, mouse and keyboard ports, and sometimes a joystick port. USB offered one standardized way to connect many kinds of devices. That made adding hardware simpler for both computer makers and everyday users.",
+    "summary": "USB simplified computer connections by replacing several specialized ports with one standard.",
+    "categoryId": "technology",
+    "topic": "USB",
+    "tags": [
+      "technology",
+      "usb",
+      "computer ports",
+      "hardware",
+      "personal computers"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "usb-imac-mainstream",
+    "headline": "The iMac Helped Push USB Into the Mainstream",
+    "body": "USB was introduced in 1996, but it did not take off immediately. Britannica says computer makers hesitated to include USB ports before many USB devices existed, while device makers waited for USB ports to become standard. Apple’s first iMac changed that in 1998 by using only USB ports. That popular computer pushed other manufacturers toward the same standard.",
+    "summary": "The first iMac helped turn USB from a slow-starting standard into a mainstream connection.",
+    "categoryId": "technology",
+    "topic": "USB",
+    "tags": [
+      "technology",
+      "usb",
+      "imac",
+      "apple",
+      "technology history"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "usb-flash-drives-replaced-floppies",
+    "headline": "USB Flash Drives Helped Replace Floppy Disks",
+    "body": "USB did not just make old devices easier to plug in. It helped create new portable storage devices. Britannica says the standard led to USB flash drives, which replaced floppy disks. Flash drives could carry far more data in a smaller, sturdier form. A tiny stick in a pocket became more useful than stacks of fragile disks.",
+    "summary": "USB flash drives helped end the floppy disk era.",
+    "categoryId": "technology",
+    "topic": "USB",
+    "tags": [
+      "technology",
+      "usb",
+      "flash drives",
+      "floppy disks",
+      "data storage"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "usb-backward-compatible",
+    "headline": "USB Kept Getting Faster Without Leaving Old Devices Behind",
+    "body": "USB has changed many times since its debut, but it was designed to keep older devices useful. Britannica says each USB revision increased connection speed while staying backward-compatible with older revisions. That means newer USB technology could improve performance without instantly making older accessories useless. It is one reason the standard lasted through so many generations of devices.",
+    "summary": "USB improved over time while still supporting older versions of the standard.",
+    "categoryId": "technology",
+    "topic": "USB",
+    "tags": [
+      "technology",
+      "usb",
+      "backward compatibility",
+      "hardware",
+      "computer standards"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "bluetooth-direct-device-talk",
+    "headline": "Bluetooth Devices Talk Directly to Each Other",
+    "body": "Bluetooth is different from Wi-Fi in a simple but important way. HowStuffWorks explains that Bluetooth devices communicate directly with each other instead of sending traffic through an in-between device such as a wireless router. That makes Bluetooth useful for headphones, keyboards, smartwatches, cars, and other nearby devices. The connection is meant for device-to-device communication, not just getting online.",
+    "summary": "Bluetooth lets nearby devices communicate directly without a wireless router in the middle.",
+    "categoryId": "technology",
+    "topic": "Bluetooth",
+    "tags": [
+      "technology",
+      "bluetooth",
+      "wireless devices",
+      "radio waves",
+      "personal area networks"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "bluetooth-low-power-radio",
+    "headline": "Bluetooth Uses Low-Power Radio Waves",
+    "body": "Bluetooth feels invisible, but it is built on radio communication. HowStuffWorks says Bluetooth devices use low-power radio waves on a frequency band between 2.400 GHz and 2.483.5 GHz. That low-power design helps keep battery use down, which matters for small devices like wireless headphones, mice, keyboards, watches, and activity trackers. Bluetooth works because short-range communication does not always need a huge signal.",
+    "summary": "Bluetooth uses low-power radio waves so small wireless devices can save battery.",
+    "categoryId": "technology",
+    "topic": "Bluetooth",
+    "tags": [
+      "technology",
+      "bluetooth",
+      "radio waves",
+      "wireless communication",
+      "battery life"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "bluetooth-viking-king-name",
+    "headline": "Bluetooth Was Named After a Viking King",
+    "body": "Bluetooth has one of the stranger names in modern tech. HowStuffWorks explains that Harald Bluetooth was a Danish king in the late 900s who united Denmark and part of Norway. The name was chosen for the wireless standard as a nod to Nordic companies' importance in communications technology. The name says little about the radio system, but it gives the technology a memorable historical twist.",
+    "summary": "Bluetooth is named after Harald Bluetooth, a Viking-age king who united parts of Scandinavia.",
+    "categoryId": "technology",
+    "topic": "Bluetooth",
+    "tags": [
+      "technology",
+      "bluetooth",
+      "harald bluetooth",
+      "technology history",
+      "wireless standards"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "bluetooth-frequency-hopping",
+    "headline": "Bluetooth Hops Frequencies to Avoid Interference",
+    "body": "Bluetooth devices can share crowded wireless spaces because they do not stay locked on one bad channel. HowStuffWorks says devices in a Bluetooth piconet hop radio frequencies together so they can stay connected and avoid interference from other Bluetooth groups or Wi-Fi. Bluetooth can also learn which channels are working well and avoid bad ones. This process is called adaptive frequency hopping.",
+    "summary": "Bluetooth devices can hop between radio channels to dodge interference.",
+    "categoryId": "technology",
+    "topic": "Bluetooth",
+    "tags": [
+      "technology",
+      "bluetooth",
+      "frequency hopping",
+      "piconet",
+      "wireless communication"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "search-engines-bots-crawl-web",
+    "headline": "Search Engines Use Bots to Explore the Web",
+    "body": "Search engines do not manually read the Web one page at a time. Britannica says they use bots, also called crawlers, to search for data far faster than a human can. These programs move from page to page by following links and recording information from each page. That hidden crawling work helps make search results appear almost instantly later.",
+    "summary": "Search engines rely on crawlers that explore web pages long before you search.",
+    "categoryId": "technology",
+    "topic": "Search Engines",
+    "tags": [
+      "technology",
+      "search engines",
+      "bots",
+      "crawlers",
+      "web"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "search-engines-index-results",
+    "headline": "Search Results Come From an Index",
+    "body": "When you search the Web, the engine usually is not searching the entire live Internet in that exact moment. Britannica explains that crawlers collect page information to build a weighted index. The search interface then checks that index for the keywords or phrases a user enters. Results are ranked by presumed relevance, which is why search feels fast even though the Web is enormous.",
+    "summary": "Search engines answer quickly because they search a prepared index, not the whole Web from scratch.",
+    "categoryId": "technology",
+    "topic": "Search Engines",
+    "tags": [
+      "technology",
+      "search engines",
+      "index",
+      "web search",
+      "algorithms"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "search-engines-archie-not-web-pages",
+    "headline": "The First Search Engine Did Not Search Web Pages",
+    "body": "The first search engine arrived before the Web was ready for normal searching. Britannica says Archie was created in 1990 by Alan Emtage, Bill Heelan, and Peter Deutsch at McGill University. It did not search Web pages, because the World Wide Web would not exist for another year. Instead, Archie searched names of files hosted on FTP servers.",
+    "summary": "The first search engine searched FTP file names, not web pages.",
+    "categoryId": "technology",
+    "topic": "Search Engines",
+    "tags": [
+      "technology",
+      "search engines",
+      "archie",
+      "ftp",
+      "internet history"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "search-engines-google-backrub",
+    "headline": "Google Began as BackRub",
+    "body": "Google did not start with the name Google. Britannica says Larry Page and Sergey Brin tested their search engine on Stanford University's network in August 1996 under the name BackRub. They later changed the name and launched Google in 1998. With a clean design and PageRank algorithm, it quickly became one of the most important tools on the Web.",
+    "summary": "Before it was Google, the search engine was tested under the name BackRub.",
+    "categoryId": "technology",
+    "topic": "Search Engines",
+    "tags": [
+      "technology",
+      "search engines",
+      "google",
+      "backrub",
+      "pagerank"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "captcha-automated-human-test",
+    "headline": "CAPTCHA Is an Automated Test for Humans",
+    "body": "A CAPTCHA is a strange kind of gatekeeper: an automated test meant to detect automation. Cloudflare explains that CAPTCHA stands for \"Completely Automated Public Turing test to tell Computers and Humans Apart.\" It is designed to decide whether an online user is really human and not a bot. The test itself is automatic, but its job is to catch automated visitors.",
+    "summary": "CAPTCHAs are automated tests designed to spot automated bots.",
+    "categoryId": "technology",
+    "topic": "CAPTCHA",
+    "tags": [
+      "technology",
+      "captcha",
+      "bots",
+      "turing test",
+      "web security"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "captcha-distorted-letters",
+    "headline": "Old CAPTCHAs Distorted Letters to Confuse Bots",
+    "body": "Classic CAPTCHAs worked by asking users to identify distorted letters. Cloudflare explains that the letters were warped so bots were less likely to read them correctly, while humans could usually recognize them from experience with fonts, handwriting, and messy text. A user typed the letters into a field to pass. If the letters did not match, the test failed.",
+    "summary": "Classic CAPTCHAs used warped letters because humans handled messy text better than bots.",
+    "categoryId": "technology",
+    "topic": "CAPTCHA",
+    "tags": [
+      "technology",
+      "captcha",
+      "bots",
+      "text recognition",
+      "web security"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "captcha-checkbox-movement",
+    "headline": "The Checkbox Test Is Not Really About the Checkbox",
+    "body": "The familiar \"I'm not a robot\" checkbox is more subtle than it looks. Cloudflare says the test is not the checkbox click itself, but everything leading up to it. reCAPTCHA can examine cursor movement as the user approaches the box, looking for tiny human-like randomness that bots have trouble copying. A simple click can hide a behavior test.",
+    "summary": "The checkbox CAPTCHA may judge how your cursor moves, not just whether you clicked.",
+    "categoryId": "technology",
+    "topic": "CAPTCHA",
+    "tags": [
+      "technology",
+      "captcha",
+      "recaptcha",
+      "bots",
+      "web security"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "captcha-trains-ai",
+    "headline": "CAPTCHA Answers Can Help Train AI",
+    "body": "CAPTCHA tests can do more than block bots. Cloudflare explains that when millions of users identify hard-to-read text or objects in blurry images, that data can feed AI programs so they improve at those tasks. Human answers provide examples for machine learning systems. The small puzzle you solve online may also help computers get better at recognizing the world.",
+    "summary": "Some CAPTCHA answers become training data for AI image and text recognition.",
+    "categoryId": "technology",
+    "topic": "CAPTCHA",
+    "tags": [
+      "technology",
+      "captcha",
+      "artificial intelligence",
+      "machine learning",
+      "recaptcha"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "data-centers-internet-physical",
+    "headline": "Data Centers Are Where the Internet Gets Physical",
+    "body": "The Internet can feel weightless, but data centers make it very physical. Cloudflare defines a data center as a facility filled with many networked computers that work together to process, store, and share data. Major tech companies rely on these facilities to deliver online services. Every video stream, file sync, app request, or website visit may depend on real machines running in a real building.",
+    "summary": "Data centers are physical facilities where networked computers process and store online data.",
+    "categoryId": "technology",
+    "topic": "Data Centers",
+    "tags": [
+      "technology",
+      "data centers",
+      "internet",
+      "servers",
+      "infrastructure"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "data-centers-pop-difference",
+    "headline": "A PoP Can Be Smaller Than a Data Center",
+    "body": "Data center and point-of-presence are sometimes used like the same term, but Cloudflare explains that they can mean different things. A point-of-presence may refer to a company having a single server presence in a location. A data center usually refers to a location that houses multiple servers. That means a data center can be a larger physical hub, while a PoP can be a smaller network presence.",
+    "summary": "A point-of-presence may be one server location, while a data center usually houses many servers.",
+    "categoryId": "technology",
+    "topic": "Data Centers",
+    "tags": [
+      "technology",
+      "data centers",
+      "point of presence",
+      "pop",
+      "networking"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "data-centers-small-town-electricity",
+    "headline": "Big Data Centers Can Use Small-Town Levels of Electricity",
+    "body": "Data centers are not just server rooms. They can be major power users. Cloudflare says the amount of electricity used at a large data center can rival that of a small town. That is why efficiency matters so much, from better cooling to energy-saving hardware. Keeping the Internet running can take an enormous amount of hidden electricity.",
+    "summary": "A large data center can consume as much electricity as a small town.",
+    "categoryId": "technology",
+    "topic": "Data Centers",
+    "tags": [
+      "technology",
+      "data centers",
+      "electricity",
+      "servers",
+      "energy efficiency"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "data-centers-avoid-downtime",
+    "headline": "Data Centers Are Designed to Avoid Downtime",
+    "body": "A data center has to be built for things going wrong. Cloudflare says modern data center planning includes redundancy, backup systems, security, environmental controls, maintenance, monitoring, and enough bandwidth for heavy traffic. High-tier data centers can include multiple redundancies for power and backup servers. The goal is simple: keep services available even when hardware or power systems fail.",
+    "summary": "Data centers use backups, monitoring, cooling, and security to keep online services running.",
+    "categoryId": "technology",
+    "topic": "Data Centers",
+    "tags": [
+      "technology",
+      "data centers",
+      "redundancy",
+      "uptime",
+      "infrastructure"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "artificial-intelligence-human-like-tasks",
+    "headline": "AI Means Computers Doing Human-Like Thinking Tasks",
+    "body": "Artificial intelligence is not just robots or chatbots. Britannica defines AI as the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. These can include reasoning, discovering meaning, generalizing, and learning from past experience. In other words, AI is about making machines perform tasks that usually seem tied to human intelligence.",
+    "summary": "AI is about computers performing tasks normally associated with human intelligence.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "ai",
+      "computers",
+      "robots",
+      "intelligence"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "artificial-intelligence-human-flexibility",
+    "headline": "Today's AI Still Lacks Full Human Flexibility",
+    "body": "AI can be impressive without being human-like in every way. Britannica says no AI programs yet match full human flexibility across wide domains or tasks that require much everyday knowledge. At the same time, some AI systems can match human experts at specific tasks, such as medical diagnosis, search engines, recognition, and chatbots. Modern AI is powerful, but often narrow.",
+    "summary": "AI can be expert-level at specific tasks while still lacking broad human flexibility.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "ai",
+      "human intelligence",
+      "chatbots",
+      "expert systems"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "artificial-intelligence-wasp-example",
+    "headline": "A Wasp Helped Explain What Intelligence Is Not",
+    "body": "Britannica uses a wasp to show why intelligence is more than complex behavior. A female digger wasp checks her burrow before dragging food inside, but if the food is moved while she checks, she repeats the same routine again and again. The behavior looks organized, but it does not adapt well to a changed situation. Intelligence, Britannica explains, must include adapting to new circumstances.",
+    "summary": "A digger wasp's repeated routine helps show why true intelligence requires adaptation.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "ai",
+      "intelligence",
+      "wasps",
+      "behavior"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "artificial-intelligence-language-understanding",
+    "headline": "Fluent AI Language Does Not Prove Understanding",
+    "body": "Large language models can sound remarkably human, but Britannica draws an important line. It says models like ChatGPT can respond fluently in human language, yet they do not actually understand language as humans do. Instead, they select words that are more probable than others. That raises a difficult question: what counts as genuine understanding if fluent language alone is not enough?",
+    "summary": "An AI can use language fluently without understanding it the way humans do.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Artificial Intelligence",
+    "tags": [
+      "artificial intelligence",
+      "ai",
+      "large language models",
+      "language",
+      "chatbots"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "machine-learning-pattern-learning",
+    "headline": "Machine Learning Lets Computers Learn From Patterns",
+    "body": "Machine learning is one way computers get better without a programmer writing instructions for every possible case. Britannica describes it as a process that lets computers learn autonomously by identifying patterns and making data-based decisions. This is especially useful when detailed rules would be impractical to write. Instead of hand-coding every answer, the system learns from data.",
+    "summary": "Machine learning helps computers improve by finding patterns in data.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Machine Learning",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "patterns",
+      "data",
+      "algorithms"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "machine-learning-subset-ai",
+    "headline": "Machine Learning Is Part of AI, Not the Same Thing",
+    "body": "Artificial intelligence and machine learning are closely related, but they are not identical. Britannica explains that machine learning is a subset of artificial intelligence. It is a method for training computers to learn from inputs without explicit programming for every circumstance. Machine learning can help a computer achieve AI, but AI is the broader field.",
+    "summary": "Machine learning is one path toward AI, not another name for all AI.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Machine Learning",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "ai",
+      "computer science",
+      "algorithms"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "machine-learning-neural-networks",
+    "headline": "Neural Networks Use Weighted Decision Paths",
+    "body": "One common machine learning approach is the artificial neural network. Britannica describes neural networks as weighted decision paths that process information. They are inspired by the way the human brain operates, though they are not the same as an actual brain. These weighted paths help machine learning systems make decisions, classify information, and improve performance over time.",
+    "summary": "Neural networks process information through weighted decision paths.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Machine Learning",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "neural networks",
+      "algorithms",
+      "computer science"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "machine-learning-genetic-algorithms",
+    "headline": "Genetic Algorithms Borrow From Natural Selection",
+    "body": "Some machine learning methods take inspiration from nature. Britannica says genetic algorithms simulate natural selection by having symbols or programs be bred and refined by algorithms. Over time, the process produces increasingly effective programs, almost like selecting fitter versions across generations. It is a computer-science twist on survival of the fittest.",
+    "summary": "Genetic algorithms improve programs by borrowing the logic of natural selection.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Machine Learning",
+    "tags": [
+      "artificial intelligence",
+      "machine learning",
+      "genetic algorithms",
+      "natural selection",
+      "algorithms"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "neural-networks-weighted-paths",
+    "headline": "Neural Networks Use Weighted Decision Paths",
+    "body": "A neural network is not a tiny digital brain, but it does process information through connected paths. Britannica describes artificial neural networks as weighted decision paths used in machine learning. Those weights help the system decide how strongly one piece of information should influence the next step. By adjusting those paths, a machine learning system can get better at handling patterns.",
+    "summary": "Neural networks process information through weighted paths that can be adjusted over time.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Neural Networks",
+    "tags": [
+      "artificial intelligence",
+      "neural networks",
+      "machine learning",
+      "algorithms",
+      "patterns"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "neural-networks-brain-inspired",
+    "headline": "Neural Networks Are Inspired by the Brain",
+    "body": "Artificial neural networks take inspiration from human biology without copying it perfectly. Britannica says these systems mimic the way the human brain operates by using weighted decision paths to process information. That makes them useful for pattern-based tasks where writing every rule by hand would be impractical. The idea is not to recreate a brain, but to borrow a useful structure from one.",
+    "summary": "Neural networks borrow the idea of connected decision paths from the brain.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Neural Networks",
+    "tags": [
+      "artificial intelligence",
+      "neural networks",
+      "brain",
+      "machine learning",
+      "computer science"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "neural-networks-image-recognition",
+    "headline": "Some Neural Networks Learn to Recognize Images",
+    "body": "Neural networks help computers make sense of pictures. Britannica says many image classification systems use machine learning, including specialized neural networks called convolutional neural networks. These systems are trained to recognize and categorize images. That is part of how AI can sort photos, identify objects, and support visual tasks that once seemed natural only for humans.",
+    "summary": "Specialized neural networks can be trained to recognize and classify images.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Neural Networks",
+    "tags": [
+      "artificial intelligence",
+      "neural networks",
+      "image recognition",
+      "cnn",
+      "machine learning"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "neural-networks-improve-algorithms",
+    "headline": "Neural Networks Help Algorithms Improve Over Time",
+    "body": "Neural networks are one of the common tools that make machine learning useful. Britannica says expert systems and data mining programs often use machine learning to improve algorithms, and artificial neural networks are among the most common approaches. The system looks for useful patterns and adjusts its decision paths. That lets software improve through data instead of only through hand-written rules.",
+    "summary": "Neural networks help machine learning systems improve by learning from patterns in data.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Neural Networks",
+    "tags": [
+      "artificial intelligence",
+      "neural networks",
+      "machine learning",
+      "data mining",
+      "algorithms"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "robotics-not-human-looking",
+    "headline": "Robots Do Not Have to Look Human",
+    "body": "Robots in movies often look like people, but real robots usually do not. Britannica says today’s industrial robots do not resemble human beings. A robot in human form is specifically called an android. That means a robotic welding arm, factory machine, or specialized tool can be just as much a robot as a walking humanoid.",
+    "summary": "Most real industrial robots are not human-shaped; human-like robots are called androids.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Robotics",
+    "tags": [
+      "artificial intelligence",
+      "robotics",
+      "robots",
+      "androids",
+      "industrial robots"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "robotics-dangerous-repetitive-work",
+    "headline": "Robots Often Do Dangerous or Repetitive Work",
+    "body": "Robotics is not only about futuristic machines. Britannica describes robotics as the design, construction, and use of machines that perform tasks traditionally done by humans. Robots are widely used in automobile manufacturing for simple repetitive tasks. They are also useful in industries where work must happen in environments hazardous to people. A robot can repeat, lift, weld, or enter danger without getting tired or injured like a human worker.",
+    "summary": "Robots often handle repetitive factory work or jobs too dangerous for humans.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Robotics",
+    "tags": [
+      "artificial intelligence",
+      "robotics",
+      "industrial robots",
+      "automation",
+      "manufacturing"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "robotics-sense-and-decide",
+    "headline": "Some Robots Can Sense and Decide",
+    "body": "Robots can be more than machines following fixed motions. Britannica says many aspects of robotics involve artificial intelligence, and robots may have equivalents of human senses such as vision, touch, and temperature sensing. Some are even capable of simple decision-making. That is why robotics research often focuses on self-sufficiency, mobility, and decisions in messy real-world environments.",
+    "summary": "Some robots use AI-like senses and simple decisions to act in the real world.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Robotics",
+    "tags": [
+      "artificial intelligence",
+      "robotics",
+      "robot senses",
+      "decision making",
+      "ai"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "robotics-uncanny-valley",
+    "headline": "Too-Human Robots Can Feel Creepy",
+    "body": "Making a robot look more human does not always make people like it more. Britannica explains Masahiro Mori’s idea of the uncanny valley: as a design becomes more humanlike, people may feel more affinity for it, until it becomes almost human and suddenly feels eerie. Affinity rises again only when the likeness reaches true human realism. That emotional dip is the valley.",
+    "summary": "A robot that looks almost human can feel creepier than one that looks clearly artificial.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Robotics",
+    "tags": [
+      "artificial intelligence",
+      "robotics",
+      "uncanny valley",
+      "androids",
+      "robot design"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "computer-vision-machines-see",
+    "headline": "Computer Vision Lets Machines \"See\" Images",
+    "body": "Computer vision is the AI field that tries to give computers a kind of sight. Britannica describes it as programs attempting to identify objects represented in digitized images from cameras. That does not mean the computer sees like a person. It means software can process visual information and recognize patterns in images well enough to make useful decisions.",
+    "summary": "Computer vision helps computers identify objects inside digital images.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Computer Vision",
+    "tags": [
+      "artificial intelligence",
+      "computer vision",
+      "images",
+      "cameras",
+      "ai"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "computer-vision-visual-patterns",
+    "headline": "AI Can Learn Visual Patterns From Huge Image Sets",
+    "body": "Computer vision often improves by learning from many examples. Britannica says computers can be given a large dataset of visual images and identify features and patterns within those images. Then the computer can apply what it learned to other images. This is why training data matters so much: the system needs examples before it can recognize visual patterns elsewhere.",
+    "summary": "Computer vision systems learn by finding patterns in large sets of images.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Computer Vision",
+    "tags": [
+      "artificial intelligence",
+      "computer vision",
+      "datasets",
+      "patterns",
+      "machine learning"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "computer-vision-facial-recognition",
+    "headline": "Facial Recognition Depends on Computer Vision",
+    "body": "Facial recognition is one of the clearest examples of computer vision in everyday life. Britannica says processes such as facial recognition rely on computer vision. The software must analyze digitized images, detect visual features, and connect patterns to an identity or category. A phone unlock or security scan may look instant, but it depends on AI interpreting visual data.",
+    "summary": "Facial recognition works because computer vision can analyze patterns in faces.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Computer Vision",
+    "tags": [
+      "artificial intelligence",
+      "computer vision",
+      "facial recognition",
+      "ai",
+      "pattern recognition"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "computer-vision-augmented-reality",
+    "headline": "Augmented Reality Needs Computer Vision",
+    "body": "Augmented reality depends on computers understanding what a camera is seeing. Britannica says augmented reality relies on computer vision. For digital labels, objects, or effects to line up with the real world, software has to interpret visual information from the camera. That means AR is not only graphics on a screen. It is also computer vision working underneath.",
+    "summary": "AR needs computer vision so digital objects can connect to the real world.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Computer Vision",
+    "tags": [
+      "artificial intelligence",
+      "computer vision",
+      "augmented reality",
+      "ai",
+      "cameras"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "natural-language-processing-more-than-speech",
+    "headline": "Language Is More Than Spoken Words",
+    "body": "Language is not limited to people talking out loud. Britannica explains that a language is a system of signs that have meaning by convention, and it does not have to be confined to spoken words. Traffic signs can even form a mini-language. For AI, this matters because language processing is really about handling meaningful signs, not just sounds or typed words.",
+    "summary": "Language can include any shared sign system, not only spoken words.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Natural Language Processing",
+    "tags": [
+      "artificial intelligence",
+      "natural language processing",
+      "language",
+      "ai",
+      "meaning"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "natural-language-processing-endless-sentences",
+    "headline": "Human Language Can Create Endless Sentences",
+    "body": "One reason language is hard for AI is that full human language is productive. Britannica says a productive language can formulate an unlimited variety of sentences. That means understanding language is not just memorizing a fixed list of phrases. A system has to handle new combinations, new contexts, and sentences it has never seen before.",
+    "summary": "Human language can generate endless new sentences, which makes it hard for computers.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Natural Language Processing",
+    "tags": [
+      "artificial intelligence",
+      "natural language processing",
+      "language",
+      "ai",
+      "linguistics"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "natural-language-processing-probable-words",
+    "headline": "LLMs Choose Probable Words",
+    "body": "Large language models can sound fluent because they are very good at predicting language patterns. Britannica says models like ChatGPT select words that are more probable than others. That can produce humanlike answers, but it is different from understanding language the way a person does. The fluency comes from statistical prediction over words, not human experience.",
+    "summary": "LLMs can sound fluent by choosing likely words rather than understanding like humans.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Natural Language Processing",
+    "tags": [
+      "artificial intelligence",
+      "natural language processing",
+      "llms",
+      "chatgpt",
+      "language models"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "natural-language-processing-fluency-understanding",
+    "headline": "Fluent AI Does Not Guarantee Understanding",
+    "body": "A computer can use language well enough to seem human and still raise deep questions about understanding. Britannica says large language models can respond fluently in human language, yet there is no universally agreed answer to what genuine understanding requires if fluent language alone is not enough. That makes language AI both useful and philosophically strange.",
+    "summary": "AI fluency forces a hard question: what counts as real understanding?",
+    "categoryId": "artificial-intelligence",
+    "topic": "Natural Language Processing",
+    "tags": [
+      "artificial intelligence",
+      "natural language processing",
+      "language understanding",
+      "llms",
+      "ai"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chatbots-older-than-expected",
+    "headline": "Chatbots Are Older Than Most People Think",
+    "body": "Chatbots did not begin with modern AI apps. Britannica says rudimentary chatbots were first developed in the mid-to-late 20th century, long before the late 2010s and early 2020s made them widely available. The idea grew from earlier questions about whether computers could imitate human conversation. Today's chatbots feel new, but the dream of talking to machines is decades old.",
+    "summary": "Chatbots became mainstream recently, but the idea goes back decades.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Chatbots",
+    "tags": [
+      "artificial intelligence",
+      "chatbots",
+      "ai history",
+      "turing test",
+      "computer science"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chatbots-eliza-first",
+    "headline": "Eliza Was the First Recognized Chatbot",
+    "body": "The first software program recognized as a chatbot was Eliza. Britannica says computer scientist Joseph Weizenbaum developed it in 1966. A user typed a phrase through an electric typewriter connected to a mainframe, and Eliza used pattern recognition and rules to generate a typewritten response. It was historically important, even though its replies could be incoherent and it could not pass the Turing test.",
+    "summary": "The first recognized chatbot answered typed messages through a mainframe-connected typewriter.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Chatbots",
+    "tags": [
+      "artificial intelligence",
+      "chatbots",
+      "eliza",
+      "joseph weizenbaum",
+      "ai history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chatbots-voice-assistants-mainstream",
+    "headline": "Voice Assistants Made Chatbots Mainstream",
+    "body": "Chatbots became part of everyday life through voice assistants. Britannica says Apple released Siri on the iPhone 4S in 2011, and Amazon followed with Alexa on Echo devices in 2014. These bots were not designed mainly for convincing conversation. They were built to follow voice commands for tasks like searching online, setting alarms, sending texts, playing music, and adding calendar events.",
+    "summary": "Siri and Alexa helped move chatbot technology into everyday use.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Chatbots",
+    "tags": [
+      "artificial intelligence",
+      "chatbots",
+      "siri",
+      "alexa",
+      "voice assistants"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chatbots-human-but-wrong",
+    "headline": "ChatGPT Can Sound Human and Still Be Wrong",
+    "body": "ChatGPT can respond in ways that feel close to human communication, but fluency does not guarantee truth. Britannica says ChatGPT uses probability to predict words or sentences a user may expect. It can write articles, emails, and code, but it also has a reputation for false or misleading answers called hallucinations. A chatbot can sound confident while still being incorrect.",
+    "summary": "A chatbot can produce humanlike writing while also making false claims.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Chatbots",
+    "tags": [
+      "artificial intelligence",
+      "chatbots",
+      "chatgpt",
+      "hallucinations",
+      "large language models"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "generative-ai-new-content-prompts",
+    "headline": "Generative AI Creates New Content From Prompts",
+    "body": "Generative AI is designed to make new material, not just classify existing information. Britannica describes generative AI models as machine learning models that can create text, images, and other content from the data they were trained on. They can also respond to prompts written in natural language instead of code. That makes creation feel conversational: describe what you want, and the model tries to generate it.",
+    "summary": "Generative AI can create text, images, and other content from natural-language prompts.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Generative AI",
+    "tags": [
+      "artificial intelligence",
+      "generative ai",
+      "prompts",
+      "machine learning",
+      "content generation"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "generative-ai-llms-text-prediction",
+    "headline": "LLMs Predict and Generate Text",
+    "body": "Large language models are one major form of generative AI. Britannica describes an LLM as a deep-learning algorithm that uses massive amounts of parameters and training data to understand and predict text. These models can do more than simple text generation, including revising and translating content. Their power comes from learning language patterns at huge scale.",
+    "summary": "Large language models generate text by learning and predicting language patterns.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Generative AI",
+    "tags": [
+      "artificial intelligence",
+      "generative ai",
+      "large language models",
+      "llms",
+      "text generation"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "generative-ai-deepfakes",
+    "headline": "Deepfakes Are Synthetic Media Made by AI",
+    "body": "Generative AI can create media that shows things that never actually happened. Britannica defines deepfakes as synthetic media, including images, videos, or audio, generated by AI technology. Deepfakes can portray events or people in ways that do not exist in reality. That makes generative AI powerful for creativity, but also risky when fake media looks believable.",
+    "summary": "Deepfakes use AI to create realistic-looking media of things that never happened.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Generative AI",
+    "tags": [
+      "artificial intelligence",
+      "generative ai",
+      "deepfakes",
+      "synthetic media",
+      "ai images"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "generative-ai-misinformation-risk",
+    "headline": "Generative AI Can Spread False Information",
+    "body": "Generative AI tools make it easier to create and spread false information. Britannica notes that these tools are powerful and impressive, but they also have major limitations and pitfalls. AI chatbots can make up false information and may use copyrighted material without permission. The same tools that help people create quickly can also make misinformation faster and more convincing.",
+    "summary": "Generative AI can speed up both creativity and the spread of misinformation.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Generative AI",
+    "tags": [
+      "artificial intelligence",
+      "generative ai",
+      "misinformation",
+      "hallucinations",
+      "ai ethics"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "deep-learning-many-layers",
+    "headline": "Deep Learning Uses Neural Networks With Many Layers",
+    "body": "Deep learning is a type of machine learning built on layered neural networks. Britannica explains that deep learning uses neural networks with four or more layers, including the input layer and final output layer. Those layers let the system process information in stages. The deeper structure helps AI systems work on complex tasks that simpler models may struggle to handle.",
+    "summary": "Deep learning uses neural networks with four or more layers.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Deep Learning",
+    "tags": [
+      "artificial intelligence",
+      "deep learning",
+      "neural networks",
+      "machine learning",
+      "ai"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "deep-learning-finds-features",
+    "headline": "Deep Learning Can Find Features Without Being Told",
+    "body": "Deep learning can be powerful because it does not always need someone to point out every feature in advance. Britannica says deep-learning networks can learn unsupervised, discovering features in data without initial prompting. That means the system can find useful patterns through exposure to data. Instead of only following hand-written rules, it can uncover signals people may not have labeled first.",
+    "summary": "Deep-learning systems can discover features in data without being directly told what to find.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Deep Learning",
+    "tags": [
+      "artificial intelligence",
+      "deep learning",
+      "unsupervised learning",
+      "patterns",
+      "data"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "deep-learning-cnns-images",
+    "headline": "CNNs Help AI Recognize Images",
+    "body": "One major achievement of deep learning is image classification. Britannica says specialized neural networks called convolutional neural networks, or CNNs, can be trained on features found in many types of images. After training, a CNN can compare a new image with learned features and classify it, such as identifying a cat or an apple. This is one way AI turns pixels into categories.",
+    "summary": "CNNs help AI classify images by comparing them with learned visual features.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Deep Learning",
+    "tags": [
+      "artificial intelligence",
+      "deep learning",
+      "cnn",
+      "image classification",
+      "computer vision"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "deep-learning-hard-to-explain",
+    "headline": "Big Neural Networks Can Be Hard to Explain",
+    "body": "Deep learning can become difficult to inspect as networks grow. Britannica notes that for large neural networks, it can be extremely difficult to follow exactly how an output was determined. That means a model may produce a useful answer while still being hard for humans to fully trace step by step. This is part of why advanced AI can feel like a black box.",
+    "summary": "Large neural networks can make decisions that are hard to trace exactly.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Deep Learning",
+    "tags": [
+      "artificial intelligence",
+      "deep learning",
+      "neural networks",
+      "black box ai",
+      "machine learning"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "turing-test-seem-human",
+    "headline": "The Turing Test Asked if a Computer Could Seem Human",
+    "body": "The Turing test does not look inside a machine's mind. Britannica says Alan Turing proposed it in 1950 as a way to determine whether a computer can think. In the test, a remote human interrogator questions both a computer and a human subject and tries to tell them apart from their replies. The computer succeeds by being mistaken for the human.",
+    "summary": "The Turing test judges machine intelligence by whether a computer can be mistaken for a human.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Turing Test",
+    "tags": [
+      "artificial intelligence",
+      "turing test",
+      "alan turing",
+      "ai history",
+      "computer science"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "turing-test-avoided-thinking-definition",
+    "headline": "Turing Avoided Defining Thinking Directly",
+    "body": "Turing knew that defining thinking was a difficult debate. Britannica explains that instead of trying to set an objective rule for original thought, Turing proposed a practical test based on behavior. If a computer acts, reacts, and interacts like a sentient being, then the test treats it as sentient. The question shifted from \"Can it think?\" to \"Can it pass as human?\"",
+    "summary": "Turing sidestepped the definition of thinking by testing behavior instead.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Turing Test",
+    "tags": [
+      "artificial intelligence",
+      "turing test",
+      "alan turing",
+      "thinking",
+      "ai philosophy"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "turing-test-chinese-room",
+    "headline": "The Chinese Room Challenges the Test",
+    "body": "The Chinese room argument pushes back against the Turing test. Britannica says John Searle proposed it in 1981 as a challenge to the idea that passing the test proves a machine can think. In the thought experiment, a person who knows no Chinese follows a manual to produce correct Chinese replies. Outsiders may think the room understands Chinese, but the person is only following rules.",
+    "summary": "The Chinese room asks whether correct answers prove real understanding.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Turing Test",
+    "tags": [
+      "artificial intelligence",
+      "turing test",
+      "chinese room",
+      "john searle",
+      "ai philosophy"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "turing-test-2000-prediction",
+    "headline": "Turing Made a Prediction for the Year 2000",
+    "body": "Alan Turing made a bold prediction about machine conversation. Britannica says he predicted that by the year 2000, a computer would play the imitation game so well that an average interrogator would have no more than a 70-percent chance of identifying machine versus human after five minutes of questioning. Britannica notes that no computer has come close to that standard.",
+    "summary": "Turing predicted a five-minute imitation game benchmark for computers by 2000.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Turing Test",
+    "tags": [
+      "artificial intelligence",
+      "turing test",
+      "alan turing",
+      "ai history",
+      "imitation game"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ai-hallucinations-not-real",
+    "headline": "AI Can Confidently Produce Things That Are Not Real",
+    "body": "An AI hallucination happens when an AI system produces an output that is nonsensical or inaccurate. IBM explains that this can happen when a model perceives patterns or objects that are nonexistent or imperceptible to human observers. The result may sound confident, polished, or visually convincing even when it is wrong. That makes hallucinations especially tricky, because the mistake can look like a real answer.",
+    "summary": "AI hallucinations can sound or look convincing even when the output is false.",
+    "categoryId": "artificial-intelligence",
+    "topic": "AI Hallucinations",
+    "tags": [
+      "artificial intelligence",
+      "ai hallucinations",
+      "generative ai",
+      "large language models",
+      "ai risks"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ai-hallucinations-real-world-harm",
+    "headline": "Hallucinations Can Cause Real-World Harm",
+    "body": "AI hallucinations are not just weird chatbot mistakes. IBM says they can have serious consequences in real-world applications. A healthcare AI model, for example, might incorrectly identify a benign skin lesion as malignant, leading to unnecessary medical interventions. Hallucinating news bots could also spread unverified information during an emergency. When AI is used in serious contexts, false confidence can become dangerous.",
+    "summary": "A hallucinating AI can create real harm if people act on its false output.",
+    "categoryId": "artificial-intelligence",
+    "topic": "AI Hallucinations",
+    "tags": [
+      "artificial intelligence",
+      "ai hallucinations",
+      "healthcare",
+      "misinformation",
+      "ai safety"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ai-hallucinations-adversarial-attacks",
+    "headline": "Tiny Input Changes Can Fool AI Systems",
+    "body": "AI systems can sometimes be tricked by changes that look small to humans. IBM explains that adversarial attacks can manipulate an AI model by subtly tweaking input data. In image recognition, that might mean adding specially crafted noise to an image so the AI misclassifies it. A barely noticeable change can push a model toward the wrong answer.",
+    "summary": "Small, carefully designed input changes can make an AI misclassify what it sees.",
+    "categoryId": "artificial-intelligence",
+    "topic": "AI Hallucinations",
+    "tags": [
+      "artificial intelligence",
+      "ai hallucinations",
+      "adversarial attacks",
+      "computer vision",
+      "ai security"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ai-hallucinations-human-backstop",
+    "headline": "Human Review Is a Final Backstop",
+    "body": "One way to reduce AI hallucination risk is to keep humans in the loop. IBM says human oversight is a final backstop measure because a reviewer can validate, filter, and correct AI outputs. A human can also bring subject matter expertise to judge whether an answer is accurate and relevant. AI can generate quickly, but people still matter when truth matters.",
+    "summary": "Human review helps catch AI hallucinations before they cause bigger problems.",
+    "categoryId": "artificial-intelligence",
+    "topic": "AI Hallucinations",
+    "tags": [
+      "artificial intelligence",
+      "ai hallucinations",
+      "human oversight",
+      "ai safety",
+      "governance"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "recommendation-systems-guess-next",
+    "headline": "Recommendation Engines Guess What You Might Want Next",
+    "body": "A recommendation engine is AI working quietly in the background. IBM defines it as an AI system that suggests items to a user. It can recommend the next movie to watch, a song to hear, a search result to click, or a product that goes with an order. The goal is to predict what feels relevant before the user has to search for it manually.",
+    "summary": "Recommendation engines use AI to suggest content, products, or services you might want next.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Recommendation Systems",
+    "tags": [
+      "artificial intelligence",
+      "recommendation systems",
+      "recommenders",
+      "machine learning",
+      "personalization"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "recommendation-systems-hidden-signals",
+    "headline": "Recommenders Learn From Obvious and Hidden Signals",
+    "body": "Recommendation systems learn from more than star ratings. IBM says they gather explicit data, such as comments, likes, ratings, and reviews, along with implicit data, such as browsing history, cart events, clicks, purchases, and search history. That means a recommender can learn from what people say they like and from what they quietly do. Your behavior becomes part of the prediction engine.",
+    "summary": "Recommenders learn from both direct feedback and hidden behavior patterns.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Recommendation Systems",
+    "tags": [
+      "artificial intelligence",
+      "recommendation systems",
+      "user behavior",
+      "data",
+      "machine learning"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "recommendation-systems-collaborative-filtering",
+    "headline": "Collaborative Filtering Looks for People Like You",
+    "body": "Collaborative filtering is one way recommendation engines make suggestions. IBM explains that it filters recommendations based on a user’s likeness to others. The assumption is that users with similar preferences may be interested in the same items and interact with them in similar ways later. In simple terms, the system asks: what did people like you also enjoy?",
+    "summary": "Collaborative filtering recommends things by comparing your preferences with similar users.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Recommendation Systems",
+    "tags": [
+      "artificial intelligence",
+      "recommendation systems",
+      "collaborative filtering",
+      "personalization",
+      "user data"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "recommendation-systems-cold-start",
+    "headline": "New Users Create a Cold Start Problem",
+    "body": "Recommendation engines can struggle when they do not have enough history. IBM says collaborative filtering is prone to the cold start problem, which happens when the system has limited historical data, especially for new users. Without past clicks, purchases, ratings, or behavior, the system has less evidence to work with. A recommender needs clues before it can personalize well.",
+    "summary": "A new user can be hard to recommend for because the system has little behavior data.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Recommendation Systems",
+    "tags": [
+      "artificial intelligence",
+      "recommendation systems",
+      "cold start problem",
+      "collaborative filtering",
+      "machine learning"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ai-ethics-help-harm",
+    "headline": "AI Ethics Is About Maximizing Help and Reducing Harm",
+    "body": "AI ethics is not only about asking whether AI is good or bad. IBM defines it as a multidisciplinary field that studies how to optimize the beneficial impact of artificial intelligence while reducing risks and harmful outcomes. That means thinking about privacy, fairness, transparency, accountability, misuse, and more. The goal is to build AI that helps people without creating avoidable damage.",
+    "summary": "AI ethics focuses on making AI more helpful while reducing risks and harm.",
+    "categoryId": "artificial-intelligence",
+    "topic": "AI Ethics",
+    "tags": [
+      "artificial intelligence",
+      "ai ethics",
+      "responsible ai",
+      "trust",
+      "technology ethics"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ai-ethics-biased-data",
+    "headline": "Biased Data Can Lead to Biased AI",
+    "body": "AI systems can inherit unfairness from the data used to build them. IBM explains that biased datasets and algorithms can lead to discriminatory outcomes. One example it gives is Amazon scrapping an AI recruiting tool after it was found to score women lower than men, because it had been trained on resumes drawn largely from men. AI can scale a bias if its training data already contains one.",
+    "summary": "AI can repeat or amplify bias when its training data is unfair.",
+    "categoryId": "artificial-intelligence",
+    "topic": "AI Ethics",
+    "tags": [
+      "artificial intelligence",
+      "ai ethics",
+      "bias",
+      "datasets",
+      "fairness"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ai-ethics-synthetic-content-trust",
+    "headline": "Synthetic Content Makes Trust Harder",
+    "body": "Generative AI has made it easier to create realistic fake text, images, audio, and video. IBM says this has increased concerns around deepfakes, automated misinformation, and the erosion of trust in digital information. As AI-made content becomes harder to distinguish from human-made content, people need better ways to trace and label it. Trust now depends partly on knowing where digital content came from.",
+    "summary": "AI-generated content can make it harder to know what is real online.",
+    "categoryId": "artificial-intelligence",
+    "topic": "AI Ethics",
+    "tags": [
+      "artificial intelligence",
+      "ai ethics",
+      "synthetic content",
+      "deepfakes",
+      "misinformation"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ai-ethics-ongoing-governance",
+    "headline": "AI Ethics Needs Ongoing Governance",
+    "body": "AI ethics is not something teams can check off once and forget. IBM describes AI ethics as an ongoing capability built across the AI lifecycle. That includes assessing risk, documenting design decisions, monitoring deployed systems, and responding to unexpected harms. Because AI systems can change over time, ethical oversight has to keep changing with them.",
+    "summary": "AI ethics requires ongoing monitoring, documentation, and accountability across an AI system's life.",
+    "categoryId": "artificial-intelligence",
+    "topic": "AI Ethics",
+    "tags": [
+      "artificial intelligence",
+      "ai ethics",
+      "ai governance",
+      "accountability",
+      "responsible ai"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "reinforcement-learning-trial-error",
+    "headline": "Reinforcement Learning Learns by Trial and Error",
+    "body": "Reinforcement learning is a machine learning process where autonomous agents learn by interacting with their environment. IBM says these agents learn to perform tasks by trial and error without guidance from a human user. Instead of being shown labeled examples, the agent tries actions and learns from the results. It is a way for AI to learn how to act, not just how to classify.",
+    "summary": "Reinforcement learning teaches AI agents through trial and error.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Reinforcement Learning",
+    "tags": [
+      "artificial intelligence",
+      "reinforcement learning",
+      "machine learning",
+      "agents",
+      "trial and error"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "reinforcement-learning-reward-signal",
+    "headline": "Rewards Teach an Agent What to Do Again",
+    "body": "In reinforcement learning, an agent learns from feedback. IBM explains that when an agent takes an action and receives a reward signal from the environment, it is encouraged to take that action again in a similar future state. Over time, the agent learns which actions help it meet its goal. The reward works like a training signal for behavior.",
+    "summary": "Reward signals help reinforcement learning agents decide which actions to repeat.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Reinforcement Learning",
+    "tags": [
+      "artificial intelligence",
+      "reinforcement learning",
+      "reward signal",
+      "agents",
+      "machine learning"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "reinforcement-learning-explore-exploit",
+    "headline": "AI Must Balance Exploring and Exploiting",
+    "body": "A reinforcement learning agent faces a tricky choice. IBM says it must exploit actions that have already produced rewards, while also exploring new actions and states that might work better. If it only repeats what worked before, it may miss a better strategy. If it only explores, it may ignore reliable rewards. Learning requires both curiosity and focus.",
+    "summary": "Reinforcement learning agents must balance trying new actions with using what already works.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Reinforcement Learning",
+    "tags": [
+      "artificial intelligence",
+      "reinforcement learning",
+      "exploration",
+      "exploitation",
+      "machine learning"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "reinforcement-learning-autonomous-agents",
+    "headline": "Robots and Self-Driving Cars Are Autonomous Agents",
+    "body": "Reinforcement learning often deals with autonomous agents. IBM defines an autonomous agent as a system that can make decisions and act in response to its environment without direct instruction from a human user. Robots and self-driving cars are examples. That makes reinforcement learning especially useful for systems that must respond to changing real-world conditions instead of following one fixed script.",
+    "summary": "Robots and self-driving cars are examples of agents that can act without direct human instructions.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Reinforcement Learning",
+    "tags": [
+      "artificial intelligence",
+      "reinforcement learning",
+      "autonomous agents",
+      "robots",
+      "self-driving cars"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "autonomous-vehicles-not-fully-here",
+    "headline": "Fully Autonomous Cars Still Are Not Here",
+    "body": "Self-driving cars exist, but fully autonomous cars are not something people can simply buy and use everywhere. Britannica says that as of 2025, there are no fully autonomous cars. Some vehicles can operate at the fourth stage of automation, where they drive without a human driver inside set boundaries. But stage 5, with no driver help and no boundaries, is still not available.",
+    "summary": "Some driverless cars exist in limited areas, but fully autonomous cars are still not here.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Autonomous Vehicles",
+    "tags": [
+      "artificial intelligence",
+      "autonomous vehicles",
+      "self-driving cars",
+      "automation",
+      "ai"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "autonomous-vehicles-automation-levels",
+    "headline": "Self-Driving Cars Have Automation Levels",
+    "body": "Autonomous vehicles are not all equally autonomous. Britannica describes six stages of vehicle automation, from stage 0 with no automation to stage 5 with fully automated self-driving. Stage 1 might assist with one feature, while stage 2 can combine features like steering, braking, or acceleration. Stage 4 can drive itself only within set boundaries. The word self-driving can hide a wide range of abilities.",
+    "summary": "Vehicle automation ranges from no automation to fully self-driving stage 5.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Autonomous Vehicles",
+    "tags": [
+      "artificial intelligence",
+      "autonomous vehicles",
+      "self-driving cars",
+      "automation levels",
+      "transportation"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "autonomous-vehicles-3d-map",
+    "headline": "Autonomous Vehicles Build a 3-D Map While Driving",
+    "body": "A self-driving vehicle has to understand the world around it in real time. Britannica says autonomous vehicles use radar, GPS, cameras, and lidar to monitor and create a 3-D map of their environment. That environment can include streets, vehicles, pedestrians, traffic lights, and road signs. Powerful computers then use that data to adjust steering, speed, acceleration, and braking.",
+    "summary": "Autonomous vehicles use sensors to build a live 3-D picture of the road around them.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Autonomous Vehicles",
+    "tags": [
+      "artificial intelligence",
+      "autonomous vehicles",
+      "lidar",
+      "radar",
+      "gps"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "autonomous-vehicles-connected-cars",
+    "headline": "Connected Cars Can See Beyond Their Own Cameras",
+    "body": "Some vehicle technology is about communication, not just sensors. Britannica says connected vehicles can use radio signals to communicate with other vehicles and infrastructure. This helps them create a fuller picture of the environment, including road users and infrastructure that may not be in direct visual view. In that sense, a connected car can gain awareness beyond what its own camera can see.",
+    "summary": "Connected vehicles can use radio signals to detect things outside direct visual view.",
+    "categoryId": "artificial-intelligence",
+    "topic": "Autonomous Vehicles",
+    "tags": [
+      "artificial intelligence",
+      "autonomous vehicles",
+      "connected cars",
+      "radio signals",
+      "vehicle technology"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
