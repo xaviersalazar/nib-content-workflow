@@ -13839,5 +13839,746 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "olympic-games-ancient-greek-festival",
+    "headline": "The Olympics Began as an Ancient Greek Festival",
+    "body": "The Olympic Games started long before modern stadiums and television broadcasts. Britannica describes them as an athletic festival that originated in ancient Greece and later became the world’s foremost sports competition. The ancient Games were held at Olympia in honor of Zeus and were part of a religious festival. What began as sacred competition became one of the biggest sporting traditions on Earth.",
+    "summary": "The Olympics began as an ancient Greek athletic festival held in honor of Zeus.",
+    "categoryId": "sports",
+    "topic": "Olympic Games",
+    "tags": [
+      "sports",
+      "olympic games",
+      "ancient greece",
+      "olympia",
+      "zeus"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "olympic-games-first-champion-cook",
+    "headline": "The First Recorded Olympic Champion Was a Cook",
+    "body": "The first recorded Olympic winner was not a modern superstar athlete. Britannica says the first Olympic champion listed in the records was Coroebus of Elis, a cook who won the sprint race in 776 bce. At that early meeting, there was apparently only one event: a footrace covering one length of the track at Olympia. Olympic history begins with a cook winning a sprint.",
+    "summary": "The first recorded Olympic champion was Coroebus of Elis, a cook who won a sprint in 776 bce.",
+    "categoryId": "sports",
+    "topic": "Olympic Games",
+    "tags": [
+      "sports",
+      "olympic games",
+      "coroebus",
+      "ancient olympics",
+      "sprint"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "olympic-games-modern-revival",
+    "headline": "The Modern Olympics Were Revived in 1896",
+    "body": "The Olympics disappeared for centuries before returning as a modern event. Britannica explains that the ancient Games lost popularity after Greece was conquered by Rome and were officially abolished about 400 ce because of their pagan associations. The Olympics were revived in the late 19th century, with the first modern Games held in Athens in 1896. The modern Olympics are both ancient revival and global reinvention.",
+    "summary": "The ancient Olympics were abolished for centuries before being revived in Athens in 1896.",
+    "categoryId": "sports",
+    "topic": "Olympic Games",
+    "tags": [
+      "sports",
+      "olympic games",
+      "athens 1896",
+      "modern olympics",
+      "sports history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "soccer-worlds-most-popular-ball-game",
+    "headline": "Soccer Is the World’s Most Popular Ball Game",
+    "body": "Soccer’s simple rules helped it become a global sport. Britannica calls football, or soccer, the world’s most popular ball game in numbers of participants and spectators. It can be played almost anywhere, from official pitches to streets, school playgrounds, parks, and beaches. Few sports travel as easily because the basic idea only needs a ball, space, and goals.",
+    "summary": "Soccer became the world’s most popular ball game partly because it can be played almost anywhere.",
+    "categoryId": "sports",
+    "topic": "Soccer",
+    "tags": [
+      "sports",
+      "soccer",
+      "football",
+      "global sports",
+      "world cup"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "soccer-standardized-britain",
+    "headline": "Modern Soccer Was Standardized in 19th-Century Britain",
+    "body": "Modern soccer grew out of older local games with many different rules. Britannica explains that football originated in Britain in the 19th century, after folk football had long been played in towns and villages. Public schools helped shape the game, but each school had its own rules at first. The sport became easier to spread once rules began to be standardized and codified.",
+    "summary": "Modern soccer developed in 19th-century Britain as older local football games became standardized.",
+    "categoryId": "sports",
+    "topic": "Soccer",
+    "tags": [
+      "sports",
+      "soccer",
+      "football",
+      "britain",
+      "football association"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "soccer-rugby-rule-split",
+    "headline": "Soccer Split From Rugby Over Handling the Ball",
+    "body": "One major rule helped separate soccer from rugby. Britannica says that meetings in 1863 produced printed football rules that prohibited carrying the ball, leaving the handling game of rugby outside the newly formed Football Association. By 1870, all handling of the ball except by the goalkeeper was prohibited by the FA. A simple hand rule helped define an entire sport.",
+    "summary": "Soccer separated from rugby when Football Association rules banned carrying the ball.",
+    "categoryId": "sports",
+    "topic": "Soccer",
+    "tags": [
+      "sports",
+      "soccer",
+      "rugby",
+      "football association",
+      "rules"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "marathons-26-miles-385-yards",
+    "headline": "The Marathon Is 26 Miles and 385 Yards",
+    "body": "The marathon has one of the most specific distances in sports. World Athletics says it is the longest race on the Olympic programme, with athletes running 26 miles and 385 yards, or 42.195 kilometers. The race takes place on roads, and finishing order is determined by time. Refuelling stations appear every 5 kilometers to help athletes survive the distance.",
+    "summary": "A marathon is exactly 26 miles and 385 yards, or 42.195 kilometers.",
+    "categoryId": "sports",
+    "topic": "Marathons",
+    "tags": [
+      "sports",
+      "marathons",
+      "running",
+      "olympics",
+      "road racing"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "marathons-greek-legend",
+    "headline": "The Marathon Name Comes From a Greek Legend",
+    "body": "The marathon’s name comes from a dramatic ancient story. World Athletics explains that the event is named after the legendary run of Philippides, also known as Pheidippides, from Marathon to Athens. According to the story, he announced the defeat of the invading Persians and then died of exhaustion. The modern race turned that legend into an endurance event.",
+    "summary": "The marathon is named after the legendary run from Marathon to Athens.",
+    "categoryId": "sports",
+    "topic": "Marathons",
+    "tags": [
+      "sports",
+      "marathons",
+      "pheidippides",
+      "ancient greece",
+      "endurance"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "marathons-london-distance",
+    "headline": "London Helped Create the Modern Marathon Distance",
+    "body": "The marathon’s odd distance comes from Olympic history. World Athletics says the first modern Olympic marathon in 1896 was about 40 kilometers, but the 1908 London Olympics extended it to 26 miles. Another 385 yards were added so the start could be seen by children in the Royal Nursery at Windsor and the race could still finish before Queen Alexandra. That distance was standardized in 1921.",
+    "summary": "The modern marathon distance traces back to a 1908 London Olympics route adjustment.",
+    "categoryId": "sports",
+    "topic": "Marathons",
+    "tags": [
+      "sports",
+      "marathons",
+      "london 1908",
+      "olympics",
+      "running history"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tennis-french-palm-game",
+    "headline": "Tennis Started as a French Palm Game",
+    "body": "Tennis began before rackets became the star. Britannica traces the game’s origins to a 12th- or 13th-century French handball game called jeu de paume, meaning game of the palm. That older game later developed into a complex indoor racket-and-ball sport known as real tennis. Modern tennis grew from a much older tradition of hitting a ball across a court.",
+    "summary": "Tennis traces back to a medieval French handball game called jeu de paume.",
+    "categoryId": "sports",
+    "topic": "Tennis",
+    "tags": [
+      "sports",
+      "tennis",
+      "jeu de paume",
+      "real tennis",
+      "sports history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tennis-wingfield-patent",
+    "headline": "Modern Tennis Was Patented in the 1870s",
+    "body": "The invention of modern tennis has been debated, but one figure became central to its official history. Britannica says the game’s recognized centennial in 1973 commemorated Major Walter Clopton Wingfield’s introduction of tennis in 1873. Wingfield published the first book of rules that year and patented his game in 1874. Modern tennis arrived with rules, branding, and a patent.",
+    "summary": "Major Walter Clopton Wingfield helped introduce modern tennis with rules and a patent.",
+    "categoryId": "sports",
+    "topic": "Tennis",
+    "tags": [
+      "sports",
+      "tennis",
+      "walter wingfield",
+      "lawn tennis",
+      "rules"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tennis-wimbledon-modern-rules",
+    "headline": "Wimbledon Helped Shape Modern Tennis Rules",
+    "body": "Wimbledon helped lock in tennis as people know it today. Britannica explains that in 1877 the All England Club held a tennis championship and chose a rectangular court measuring 78 by 27 feet. The club also adapted the real tennis scoring system of 15, 30, 40, game and allowed servers one fault. Those decisions remain part of modern tennis rules.",
+    "summary": "Wimbledon’s first championship helped establish court dimensions and scoring still used today.",
+    "categoryId": "sports",
+    "topic": "Tennis",
+    "tags": [
+      "sports",
+      "tennis",
+      "wimbledon",
+      "scoring",
+      "all england club"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "swimming-thousands-of-years",
+    "headline": "Swimming Goes Back Thousands of Years",
+    "body": "Swimming is much older than modern pools and Olympic lanes. Britannica says archaeological and other evidence shows swimming was practiced as early as 2500 bce in Egypt, and later in Assyrian, Greek, and Roman civilizations. In Greece and Rome, swimming was part of martial training and elementary education for males. Long before it was a competitive sport, swimming was a survival skill, exercise, and cultural practice.",
+    "summary": "Swimming has been practiced since ancient Egypt and later became part of Greek and Roman training.",
+    "categoryId": "sports",
+    "topic": "Swimming",
+    "tags": [
+      "sports",
+      "swimming",
+      "ancient egypt",
+      "ancient greece",
+      "olympics"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "swimming-olympic-obstacle-race",
+    "headline": "Olympic Swimming Once Had an Obstacle Race",
+    "body": "Early Olympic swimming included events that would look strange today. Britannica says swimming was part of the modern Olympic Games from their beginning in 1896, but before FINA took charge, the Games included unusual contests. In 1900, when swimming events were held in the Seine River in France, a 200-meter obstacle race required swimmers to climb over a pole and a line of boats and swim under them. Olympic swimming was once part race, part obstacle course.",
+    "summary": "The 1900 Olympics included a swimming obstacle race in the Seine River.",
+    "categoryId": "sports",
+    "topic": "Swimming",
+    "tags": [
+      "sports",
+      "swimming",
+      "olympics",
+      "seine river",
+      "obstacle race"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "swimming-crawl-fastest-stroke",
+    "headline": "The Crawl Became the Fastest Stroke",
+    "body": "The fastest swimming stroke has roots far from today’s Olympic pools. Britannica says the crawl was used in the Pacific at the end of the 19th century, then taken up by Australian swimmer Henry Wickham around 1893. It later spread through Europe and the United States and became the stroke used in competitive freestyle. Since 1896, the crawl has been used in more races than any other stroke.",
+    "summary": "The crawl became the fastest stroke and the dominant choice for freestyle races.",
+    "categoryId": "sports",
+    "topic": "Swimming",
+    "tags": [
+      "sports",
+      "swimming",
+      "freestyle",
+      "crawl",
+      "competitive swimming"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "track-and-field-many-events",
+    "headline": "Track and Field Is Really Many Sports in One",
+    "body": "Track and field is not one event but a whole family of athletic contests. World Athletics groups the sport into sprints, middle and long-distance races, hurdles, jumps, throws, combined events, race walks, relays, cross country, mountain and trail running, ultra running, and road running. That range means athletes can specialize in speed, endurance, jumping, throwing, or technical rhythm. One sport contains many different athletic worlds.",
+    "summary": "Track and field includes many event families, from sprints and jumps to throws and distance races.",
+    "categoryId": "sports",
+    "topic": "Track and Field",
+    "tags": [
+      "sports",
+      "track and field",
+      "world athletics",
+      "sprints",
+      "jumps"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "track-and-field-combined-events",
+    "headline": "Combined Events Test All-Around Athletes",
+    "body": "Some track and field competitions are built to find the best all-around athlete. World Athletics lists combined events as part of the sport, including the heptathlon and decathlon. Instead of focusing on one skill, competitors must handle multiple disciplines across running, jumping, and throwing events. Combined events reward versatility, stamina, technique, and the ability to stay consistent across very different challenges.",
+    "summary": "The heptathlon and decathlon test athletes across multiple track and field disciplines.",
+    "categoryId": "sports",
+    "topic": "Track and Field",
+    "tags": [
+      "sports",
+      "track and field",
+      "decathlon",
+      "heptathlon",
+      "combined events"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "track-and-field-relays",
+    "headline": "Relays Turn Running Into a Team Event",
+    "body": "Most running races are individual, but relays make speed a team effort. World Athletics lists the 4x100-meter relay and 4x400-meter relay as official relay disciplines. In these events, runners share one race by passing the baton from athlete to athlete. A relay can be won or lost not only by raw speed, but by timing, teamwork, and clean exchanges.",
+    "summary": "Relays turn sprinting into a team event built around speed and baton exchanges.",
+    "categoryId": "sports",
+    "topic": "Track and Field",
+    "tags": [
+      "sports",
+      "track and field",
+      "relays",
+      "4x100",
+      "4x400"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "world-records-pub-argument",
+    "headline": "Guinness World Records Started From a Pub Argument",
+    "body": "Guinness World Records began with the kind of debate people still have today. According to Guinness World Records, Sir Hugh Beaver got into an argument in the early 1950s about which game bird was the fastest in Europe. When he could not find a reliable answer in reference books, he imagined a book that could settle similar arguments. A trivia dispute helped launch one of the world’s most famous fact books.",
+    "summary": "Guinness World Records began as an idea for settling hard-to-answer pub arguments.",
+    "categoryId": "sports",
+    "topic": "World Records",
+    "tags": [
+      "sports",
+      "world records",
+      "guinness world records",
+      "sir hugh beaver",
+      "trivia"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "world-records-first-book-1955",
+    "headline": "The First Guinness Book Arrived in 1955",
+    "body": "The first Guinness Book of Records turned record-breaking into a publishing phenomenon. Guinness World Records says the first edition was published on August 27, 1955, with a preface by co-founders Norris and Ross McWhirter. Another official account says the first copy was completed earlier that year and the slim edition was packed with facts, tables, and some pictures. A book made to answer arguments became an annual global tradition.",
+    "summary": "The first Guinness Book of Records was published in 1955 by Norris and Ross McWhirter.",
+    "categoryId": "sports",
+    "topic": "World Records",
+    "tags": [
+      "sports",
+      "world records",
+      "guinness book of records",
+      "norris mcwhirter",
+      "ross mcwhirter"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "world-records-global-brand",
+    "headline": "World Records Became a Global Brand",
+    "body": "Guinness World Records is no longer just a book. The organization says it is now a global brand with offices in London, New York, Beijing, Tokyo, and Dubai, plus ambassadors and adjudicators around the world. Its mission still appears in the annual book, but also through TV shows, social media, and live events. Record-breaking moved from reference pages into global entertainment.",
+    "summary": "Guinness World Records grew from an annual book into a global record-breaking brand.",
+    "categoryId": "sports",
+    "topic": "World Records",
+    "tags": [
+      "sports",
+      "world records",
+      "guinness world records",
+      "record breaking",
+      "global culture"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "golf-origins-debated",
+    "headline": "Golf’s Origins Are Still Debated",
+    "body": "Golf’s origin story is not as simple as many people think. Britannica says the origins of golf are obscure and much debated, with theories pointing to older stick-and-ball games in Rome, China, France, the Low Countries, and elsewhere. The article notes that evidence now suggests early forms of golf were played in the Netherlands before Scotland. The modern game has roots that are older and messier than one national myth.",
+    "summary": "Golf’s beginnings are debated, with evidence pointing beyond the common Scotland-only origin story.",
+    "categoryId": "sports",
+    "topic": "Golf",
+    "tags": [
+      "sports",
+      "golf",
+      "origins",
+      "netherlands",
+      "scotland"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "golf-scotland-real-golf",
+    "headline": "Scotland Helped Shape “Real” Golf",
+    "body": "Even if golf may not have started in Scotland, Scotland helped define the game people recognize today. Britannica says King James IV became the first authenticated player of “real” golf, with records of payments for golf clubs, balls, and equipment in the early 1500s. The game also gained royal attention through figures such as Mary, Queen of Scots. Scotland became central to golf’s identity and development.",
+    "summary": "Scotland helped shape recognizable golf even if the sport’s earliest origins are debated.",
+    "categoryId": "sports",
+    "topic": "Golf",
+    "tags": [
+      "sports",
+      "golf",
+      "scotland",
+      "king james iv",
+      "mary queen of scots"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "golf-olympic-comeback",
+    "headline": "Golf Disappeared From the Olympics for Over a Century",
+    "body": "Golf had a strange Olympic gap. Britannica says golf appeared in the Paris 1900 Olympic Games and the St. Louis 1904 Games, then was discontinued as an Olympic sport for more than a century. It finally returned at the Rio de Janeiro 2016 Games as a 72-hole event for men and women. One of the world’s most famous sports spent most of modern Olympic history off the program.",
+    "summary": "Golf appeared in the Olympics in 1900 and 1904, then returned more than a century later in 2016.",
+    "categoryId": "sports",
+    "topic": "Golf",
+    "tags": [
+      "sports",
+      "golf",
+      "olympics",
+      "rio 2016",
+      "st louis 1904"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "skateboarding-surfing-without-waves",
+    "headline": "Skateboarding Started as Surfing Without Waves",
+    "body": "Skateboarding began as a land-based answer to flat ocean days. Olympics.com says the sport first originated in 1950s California when surfers attached roller skates to boards so they had something to do when the waves were flat. That connection gave early skateboarding its surf-like feel and style. What started as sidewalk surfing grew into its own sport and culture.",
+    "summary": "Skateboarding began when California surfers looked for a way to ride when the waves were flat.",
+    "categoryId": "sports",
+    "topic": "Skateboarding",
+    "tags": [
+      "sports",
+      "skateboarding",
+      "surfing",
+      "california",
+      "extreme sports"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "skateboarding-kicktail-tricks",
+    "headline": "The Kicktail Helped Invent Skate Tricks",
+    "body": "One small design change helped skateboarding become more creative. Olympics.com says the modern-day skateboard is attributed to Larry Stevenson, who founded Makaha in 1963 and helped revolutionize the board’s design. He created a short surfboard-like shape and later added a kicktail, an upward curve at the back of the board. That curve helped make tricks easier to invent and control.",
+    "summary": "The skateboard kicktail gave riders more control and helped unlock modern tricks.",
+    "categoryId": "sports",
+    "topic": "Skateboarding",
+    "tags": [
+      "sports",
+      "skateboarding",
+      "larry stevenson",
+      "kicktail",
+      "makaha"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "skateboarding-olympic-debut",
+    "headline": "Skateboarding Became an Olympic Sport at Tokyo 2020",
+    "body": "Skateboarding’s Olympic rise happened quickly after decades of street and park culture. Olympics.com says skateboarding debuted on the Olympic stage at the Nanjing 2014 Youth Olympic Games, then became one of five sports to make an Olympic debut at Tokyo 2020. The Olympic program included street and park events for men and women. A sport born from youth culture rolled onto the world’s biggest sports stage.",
+    "summary": "Skateboarding moved from Youth Olympics to full Olympic debut at Tokyo 2020.",
+    "categoryId": "sports",
+    "topic": "Skateboarding",
+    "tags": [
+      "sports",
+      "skateboarding",
+      "olympics",
+      "tokyo 2020",
+      "street skating"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "surfing-ancient-pacific-roots",
+    "headline": "Surfing Has Ancient Pacific Roots",
+    "body": "Surfing is far older than modern beach culture. Olympics.com says surfing is believed to have been practiced by fishermen in ancient Peru and later across Polynesia around 400 AD. The sport was written about in Hawaii in 1779 by James King, who served under Captain James Cook. Riding waves has deep roots across ocean cultures.",
+    "summary": "Surfing traces back to ancient Peru and Polynesia long before modern competitions.",
+    "categoryId": "sports",
+    "topic": "Surfing",
+    "tags": [
+      "sports",
+      "surfing",
+      "polynesia",
+      "peru",
+      "hawaii"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "surfing-kahanamoku-global",
+    "headline": "Duke Kahanamoku Helped Surfing Go Global",
+    "body": "One Olympic swimmer helped turn surfing into a worldwide sport. Olympics.com says Duke Kahanamoku, a three-time Olympic swimming champion, helped spread surfing across the United States and took it to Australia. He also advocated for surfing to be added to the Olympic Games. A century later, that wish finally came true.",
+    "summary": "Duke Kahanamoku helped spread surfing internationally and pushed for its Olympic future.",
+    "categoryId": "sports",
+    "topic": "Surfing",
+    "tags": [
+      "sports",
+      "surfing",
+      "duke kahanamoku",
+      "olympics",
+      "australia"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "surfing-best-two-waves",
+    "headline": "Olympic Surfing Scores Only the Best Two Waves",
+    "body": "Competitive surfing is not about catching the most waves. Olympics.com explains that athletes compete in heats of two to four surfers, usually lasting 20 to 30 minutes, and judges score each wave out of 10. Only a surfer’s two best rides count toward the final heat score. That makes wave choice, timing, and execution just as important as raw skill.",
+    "summary": "In Olympic-style surfing heats, only each surfer’s two best waves count.",
+    "categoryId": "sports",
+    "topic": "Surfing",
+    "tags": [
+      "sports",
+      "surfing",
+      "olympics",
+      "judging",
+      "waves"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chess-indian-war-game",
+    "headline": "Chess Began as an Indian War Game",
+    "body": "Chess traces back to a game with battlefield roots. Britannica says chess first appeared in India around the 6th century CE as chaturanga, a Sanskrit name for a battle formation. The game is considered the earliest precursor of modern chess because different pieces had different powers and victory centered on one key piece. A board game built around armies eventually became a global test of strategy.",
+    "summary": "Chess began in India as chaturanga, a strategy game inspired by battle formations.",
+    "categoryId": "sports",
+    "topic": "Chess",
+    "tags": [
+      "sports",
+      "chess",
+      "chaturanga",
+      "india",
+      "strategy games"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chess-queen-power-upgrade",
+    "headline": "The Queen Was Not Always the Most Powerful Piece",
+    "body": "The queen was not always chess’s strongest piece. Britannica explains that before major rule changes after 1475, the counselor piece could move only one square diagonally. Under the new rules, that piece transformed into the modern queen and gained far greater mobility, becoming the most powerful piece on the board. One rule change made chess much faster and more dangerous.",
+    "summary": "The modern queen became powerful only after major chess rule changes in the late 1400s.",
+    "categoryId": "sports",
+    "topic": "Chess",
+    "tags": [
+      "sports",
+      "chess",
+      "queen",
+      "chess rules",
+      "board games"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chess-royal-game",
+    "headline": "Chess Became Known as the “Royal Game”",
+    "body": "Chess has long carried an elite reputation. Britannica says that since at least the 15th century, chess has been known as the royal game because of its popularity among the nobility. Chess sets were associated with wealth, knowledge, and power, even as the game was sometimes banned by kings and religious leaders. A simple board became a symbol of status and intellect.",
+    "summary": "Chess became known as the royal game because it was popular among nobles and rulers.",
+    "categoryId": "sports",
+    "topic": "Chess",
+    "tags": [
+      "sports",
+      "chess",
+      "royal game",
+      "nobility",
+      "history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "formula-1-first-race-silverstone",
+    "headline": "Formula 1’s First Championship Race Was at Silverstone",
+    "body": "Formula 1 became an official World Championship in 1950. Formula1.com says the first-ever championship race was held on May 13, 1950, at Silverstone Circuit in the United Kingdom, a former Royal Air Force station. That first season had seven rounds and ended with Alfa Romeo driver Giuseppe “Nino” Farina becoming the first World Champion. Modern F1 began on a former airfield.",
+    "summary": "Formula 1’s official World Championship began at Silverstone in 1950.",
+    "categoryId": "sports",
+    "topic": "Formula 1",
+    "tags": [
+      "sports",
+      "formula 1",
+      "f1",
+      "silverstone",
+      "motorsport"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "formula-1-name-rules",
+    "headline": "“Formula” Means the Rules Everyone Must Follow",
+    "body": "Formula 1’s name is more literal than it sounds. Formula1.com explains that the “Formula” refers to the set of rules competitors must follow, covering areas such as car design, engine size, and component usage. The “1” simply marks it as the premier formula. The name basically means the top racing class built around a shared rulebook.",
+    "summary": "Formula 1 is named for the rule formula that defines the top level of single-seater racing.",
+    "categoryId": "sports",
+    "topic": "Formula 1",
+    "tags": [
+      "sports",
+      "formula 1",
+      "f1",
+      "motorsport",
+      "racing rules"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "formula-1-upside-down-airplane",
+    "headline": "F1 Cars Act Like Upside-Down Airplanes",
+    "body": "A Formula 1 car is designed to grip the track at extreme speed. Formula1.com explains that when the engine powers it forward, an F1 car acts like an airplane flipped upside down. Its front wing, rear wing, and bodywork push the car down instead of lifting it up, giving it huge grip through corners. The car is not just fast because of power; it is fast because air helps pin it to the road.",
+    "summary": "F1 cars use aerodynamics like upside-down airplanes to create downforce and cornering grip.",
+    "categoryId": "sports",
+    "topic": "Formula 1",
+    "tags": [
+      "sports",
+      "formula 1",
+      "aerodynamics",
+      "downforce",
+      "race cars"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "parkour-fastest-efficient-route",
+    "headline": "Parkour Is About the Fastest Efficient Route",
+    "body": "Parkour is not just jumping off walls for style. Britannica defines it as moving through natural or man-made obstacles using running, vaulting, jumping, climbing, rolling, and other movements. The goal is to travel from one point to another as quickly and efficiently as possible without equipment. At its core, parkour treats the world like a problem-solving course for the body.",
+    "summary": "Parkour is built around moving through obstacles quickly, efficiently, and without equipment.",
+    "categoryId": "sports",
+    "topic": "Parkour",
+    "tags": [
+      "sports",
+      "parkour",
+      "freerunning",
+      "movement",
+      "obstacles"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "parkour-french-obstacle-training",
+    "headline": "Parkour Grew From French Obstacle Training",
+    "body": "Parkour’s roots reach back to practical physical training. Britannica traces its origins to Georges Hébert’s early 20th-century methods, known as la méthode naturelle. His training included running, jumping, climbing, balancing, swimming, defending, and obstacle courses called parcours du combattant. Those ideas later influenced French military training and helped shape the movement discipline that became parkour.",
+    "summary": "Parkour grew partly from French natural-method training and military-style obstacle courses.",
+    "categoryId": "sports",
+    "topic": "Parkour",
+    "tags": [
+      "sports",
+      "parkour",
+      "georges hebert",
+      "france",
+      "obstacle training"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "parkour-yamakasi-movement",
+    "headline": "The Yamakasi Helped Turn Parkour Into a Movement",
+    "body": "Parkour became visible through a small group pushing movement in public spaces. Britannica says David Belle, generally credited as the father of parkour, trained with his father Raymond Belle and later practiced with friends who called themselves the Yamakasi. By the late 1990s, the group was giving public performances. Their visibility helped parkour spread through videos, commercials, documentaries, and films.",
+    "summary": "David Belle and the Yamakasi helped parkour grow from training practice into a visible movement.",
+    "categoryId": "sports",
+    "topic": "Parkour",
+    "tags": [
+      "sports",
+      "parkour",
+      "david belle",
+      "yamakasi",
+      "freerunning"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
