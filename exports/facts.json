@@ -17928,5 +17928,1145 @@
     "funScore": 10,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "animation-still-things-alive",
+    "headline": "Animation Makes Still Things Feel Alive",
+    "body": "Animation is built on a kind of visual magic. Britannica defines animation as the art of making inanimate objects appear to move. A drawing, puppet, model, or digital object can seem alive when images are shown in carefully controlled sequence. That simple illusion has made animation one of film’s most flexible ways to show imagination, emotion, and impossible worlds.",
+    "summary": "Animation makes still drawings, objects, or digital figures appear to move and live.",
+    "categoryId": "movies",
+    "topic": "Animation",
+    "tags": [
+      "movies",
+      "animation",
+      "film",
+      "visual illusion",
+      "movie history"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "animation-before-cinema",
+    "headline": "Animated Cartoons Started Before Cinema",
+    "body": "Animation is older than movies themselves. Britannica says the theory of the animated cartoon came about half a century before cinema was invented. Early devices such as the phenakistoscope and zoetrope used fast sequences of still images to create the illusion of motion. Long before movie theaters, people were already fascinated by pictures that seemed to move.",
+    "summary": "The idea behind animation existed decades before cinema became a public entertainment medium.",
+    "categoryId": "movies",
+    "topic": "Animation",
+    "tags": [
+      "movies",
+      "animation",
+      "zoetrope",
+      "phenakistoscope",
+      "early cinema"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "animation-gertie-cartoon-star",
+    "headline": "Gertie the Dinosaur Became an Early Cartoon Star",
+    "body": "One early animated dinosaur helped prove that cartoons could have personality. Britannica says Winsor McCay’s Gertie the Dinosaur, created for his 1914 tour, transformed the art of animation. McCay’s draftsmanship, movement, and character work made Gertie seem to have a presence and life of her own. Britannica calls Gertie the first cartoon star.",
+    "summary": "Gertie the Dinosaur showed that animated characters could feel alive and expressive.",
+    "categoryId": "movies",
+    "topic": "Animation",
+    "tags": [
+      "movies",
+      "animation",
+      "gertie the dinosaur",
+      "winsor mccay",
+      "cartoons"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "animation-steamboat-willie-sound",
+    "headline": "Steamboat Willie Made Animation Feel More Alive",
+    "body": "Sound changed animation in a huge way. Britannica says Walt Disney’s Steamboat Willie from 1928 was Mickey Mouse’s third film and featured synchronized sound. The cartoon took the country by storm because sound made the illusion of life feel more complete and magical. Mickey was not just moving on screen; he was moving in rhythm with music and effects.",
+    "summary": "Steamboat Willie helped make animated characters feel more alive through synchronized sound.",
+    "categoryId": "movies",
+    "topic": "Animation",
+    "tags": [
+      "movies",
+      "animation",
+      "steamboat willie",
+      "mickey mouse",
+      "walt disney"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "silent-films-movie-language",
+    "headline": "Silent Films Built Movie Language Before Sound",
+    "body": "Silent films were not just incomplete sound movies. Britannica says the silent film era began in the mid-1890s and lasted until sound films became the industry standard in the early 1930s. During that era, filmmakers created many fundamental shooting and editing techniques still used today. They also helped establish classic genres such as horror, science fiction, westerns, historical epics, and slapstick comedy.",
+    "summary": "Silent filmmakers created many of the techniques and genres movies still use today.",
+    "categoryId": "movies",
+    "topic": "Silent Films",
+    "tags": [
+      "movies",
+      "silent films",
+      "cinema history",
+      "editing",
+      "film genres"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "silent-films-kinetoscope-viewer",
+    "headline": "Edison’s Kinetoscope Was a One-Person Movie Viewer",
+    "body": "Early movies were not always projected for a crowd. Britannica says Thomas Edison had W.K.L. Dickson design the Kinetoscope, a peep-show viewing device where a film loop ran between a lamp and shutter for individual viewing. Kinetoscope parlors charged customers to look into machines one at a time. Before movie theaters became standard, film could be a personal viewing experience.",
+    "summary": "The Kinetoscope let one viewer watch a short moving image through a machine.",
+    "categoryId": "movies",
+    "topic": "Silent Films",
+    "tags": [
+      "movies",
+      "silent films",
+      "kinetoscope",
+      "thomas edison",
+      "early cinema"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "silent-films-cinematographe-portable",
+    "headline": "The Cinématographe Made Movies Portable",
+    "body": "The Lumière brothers helped make movies easier to show and record. Britannica says their cinématographe functioned as a camera, printer, and projector. Unlike Edison’s heavy battery-driven Kinetograph, the cinématographe was hand-cranked, lightweight, and portable. That portability helped camera operators film real scenes outdoors and carry the technology around the world.",
+    "summary": "The Lumière cinématographe combined camera, printer, and projector in a portable machine.",
+    "categoryId": "movies",
+    "topic": "Silent Films",
+    "tags": [
+      "movies",
+      "silent films",
+      "lumiere brothers",
+      "cinematographe",
+      "early cinema"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "silent-films-living-pictures",
+    "headline": "Early Movies Were Called Living Pictures",
+    "body": "Early audiences did not always think of films the way we do now. Britannica says early silent films were often perceived as animated photographs or living pictures, emphasizing their connection to familiar media of the time. The movement itself was the main attraction. Before complex plots became standard, seeing lifelike motion on a screen could feel astonishing on its own.",
+    "summary": "Early silent films amazed audiences as living pictures before modern movie storytelling took over.",
+    "categoryId": "movies",
+    "topic": "Silent Films",
+    "tags": [
+      "movies",
+      "silent films",
+      "living pictures",
+      "early cinema",
+      "movie history"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "special-effects-not-always-digital",
+    "headline": "Special Effects Are Not Always Digital",
+    "body": "Special effects are not just computer graphics. Encyclopedia.com explains that cinema effects can be divided into physical effects and optical effects, with physical effects done in front of the camera and optical effects created after the negative has been exposed. Modern movies often mix practical elements, camera tricks, postproduction work, and digital tools. Movie magic can be built, filmed, painted, composited, or rendered.",
+    "summary": "Special effects can be physical, optical, practical, digital, or a mix of several methods.",
+    "categoryId": "movies",
+    "topic": "Special Effects",
+    "tags": [
+      "movies",
+      "special effects",
+      "visual effects",
+      "practical effects",
+      "film technology"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "special-effects-practical-camera",
+    "headline": "Practical Effects Happen in Front of the Camera",
+    "body": "Some movie illusions happen right on set. Encyclopedia.com says practical effects, also called physical effects, include rigged explosions, pyrotechnics, animatronics, puppetry, makeup effects, and similar techniques. Their advantage is that they occur where the actors and cameras are, directly inside the shot. Instead of adding everything later, filmmakers can give performers something real to react to.",
+    "summary": "Practical effects are physical movie illusions created on set in front of the camera.",
+    "categoryId": "movies",
+    "topic": "Special Effects",
+    "tags": [
+      "movies",
+      "special effects",
+      "practical effects",
+      "pyrotechnics",
+      "animatronics"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "special-effects-miniature-physics",
+    "headline": "Miniatures Have to Fake Physics Too",
+    "body": "Miniature effects are harder than simply building a tiny version of something. Encyclopedia.com explains that miniatures create special lighting problems because water, fire, smoke, and other materials behave differently at small scale. Water may need additives to break surface tension, and miniature fire may need lighting tricks. To make a small model look huge, filmmakers sometimes have to fake physics itself.",
+    "summary": "Miniature effects must adjust water, fire, smoke, and lighting so small models look believable.",
+    "categoryId": "movies",
+    "topic": "Special Effects",
+    "tags": [
+      "movies",
+      "special effects",
+      "miniatures",
+      "model work",
+      "film illusions"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "special-effects-invisible-effects",
+    "headline": "Digital Effects Can Hide in Plain Sight",
+    "body": "Not every special effect is meant to be obvious. Encyclopedia.com explains that some effects are invisible effects, showing things like background buildings, smoke, building extensions, or erased objects that do not call attention to themselves. Wire removal is one example, where wires used to move or fly an actor are digitally erased. Sometimes the best effect is the one viewers never notice.",
+    "summary": "Invisible effects quietly add, alter, or remove parts of a scene without drawing attention.",
+    "categoryId": "movies",
+    "topic": "Special Effects",
+    "tags": [
+      "movies",
+      "special effects",
+      "digital effects",
+      "invisible effects",
+      "wire removal"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "academy-awards-since-1929",
+    "headline": "The Oscars Have Honored Movies Since 1929",
+    "body": "The Academy Awards have been part of movie history for nearly a century. The Oscars official site says that since 1929, the Oscars have recognized excellence in cinematic achievements. That makes the awards a long-running record of what the film industry has celebrated across changing eras. Each ceremony becomes a snapshot of movie culture at that moment.",
+    "summary": "The Oscars have recognized cinematic achievement since 1929.",
+    "categoryId": "movies",
+    "topic": "Academy Awards",
+    "tags": [
+      "movies",
+      "academy awards",
+      "oscars",
+      "film history",
+      "hollywood"
+    ],
+    "readTimeSeconds": 40,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "academy-awards-ceremony-records",
+    "headline": "Oscar Winners Are Tracked Ceremony by Ceremony",
+    "body": "The Oscars are not just a televised event; they are also a historical record. The official Oscars site links to ceremony pages, including a complete list of winners for the 98th Oscars in 2026. Tracking winners by ceremony lets people follow how film tastes, categories, stars, and studios change over time. The archive turns award nights into searchable movie history.",
+    "summary": "Oscar ceremony records help preserve winners and film history year by year.",
+    "categoryId": "movies",
+    "topic": "Academy Awards",
+    "tags": [
+      "movies",
+      "academy awards",
+      "oscars",
+      "winners",
+      "film archive"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "academy-awards-rules-eligibility",
+    "headline": "The Oscars Use Rules and Eligibility Standards",
+    "body": "Winning an Oscar starts long before the envelope opens. The official Oscars site includes sections for voting, rules, and eligibility, showing that the awards depend on formal processes instead of simple popularity. Films have to qualify, voters have to follow procedures, and categories have defined standards. Behind the glamour is a structured system for deciding what can compete.",
+    "summary": "The Oscars rely on voting rules and eligibility standards before winners are chosen.",
+    "categoryId": "movies",
+    "topic": "Academy Awards",
+    "tags": [
+      "movies",
+      "academy awards",
+      "oscars",
+      "voting",
+      "film industry"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "academy-awards-more-than-night",
+    "headline": "The Oscars Are More Than One Big Night",
+    "body": "The Oscars are bigger than the red carpet and acceptance speeches. The official Oscars site organizes ceremonies, voting, rules, eligibility, awards databases, and representation and inclusion standards. That makes the Academy Awards both a show and an institution. The public sees the glamorous ceremony, but the system also includes archives, policies, voting, and industry standards.",
+    "summary": "The Oscars are an awards ceremony, archive, voting process, and film-industry institution.",
+    "categoryId": "movies",
+    "topic": "Academy Awards",
+    "tags": [
+      "movies",
+      "academy awards",
+      "oscars",
+      "film industry",
+      "cinema"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "movie-cameras-light-tight-box",
+    "headline": "A Camera Is Basically a Light-Tight Box",
+    "body": "A camera can seem complicated, but its core idea is simple. Britannica defines a camera as a device that records an image on a light-sensitive surface. At its most basic, it is a light-tight box with an opening that admits light focused onto film, a plate, or a digital sensor. Movie cameras build cinematic images from the same basic need: control the light before it becomes a picture.",
+    "summary": "A camera is essentially a light-tight box that controls light to record an image.",
+    "categoryId": "movies",
+    "topic": "Movie Cameras",
+    "tags": [
+      "movies",
+      "movie cameras",
+      "camera",
+      "cinematography",
+      "film technology"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "movie-cameras-five-core-parts",
+    "headline": "Every Camera Needs Five Core Parts",
+    "body": "Different cameras can look wildly different, but Britannica says all cameras include five indispensable components. They need a box to protect the recording medium, a recording surface, light controls such as an aperture and shutter, a lens to focus light, and a viewing system. Whether the image lands on film or a sensor, these parts work together to capture a scene. The magic starts with a surprisingly consistent machine.",
+    "summary": "All cameras share core parts: a box, recording medium, light controls, lens, and viewing system.",
+    "categoryId": "movies",
+    "topic": "Movie Cameras",
+    "tags": [
+      "movies",
+      "movie cameras",
+      "camera",
+      "lenses",
+      "cinematography"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "movie-cameras-camera-obscura",
+    "headline": "Cameras Grew From the Camera Obscura",
+    "body": "The camera has roots in an older optical trick. Britannica says the earliest camera was the camera obscura, which projected images before photography made them permanent. In the 1820s and 1830s, Joseph-Nicéphore Niépce and Louis-Jacques-Mandé Daguerre adapted that idea to record lasting images. Before cameras saved pictures, people already knew how to make light project the world into a dark space.",
+    "summary": "Modern cameras grew from the camera obscura, an older device that projected images with light.",
+    "categoryId": "movies",
+    "topic": "Movie Cameras",
+    "tags": [
+      "movies",
+      "movie cameras",
+      "camera obscura",
+      "photography",
+      "cinema history"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "movie-cameras-creative-control",
+    "headline": "Cameras Do Not Simply Record Reality",
+    "body": "Cameras may feel automatic, but photography is full of creative choices. Britannica notes that a photographer can alter an image through lenses, filters, sensitive materials, development, printing, vantage point, and timing. In movies, those choices become cinematography: where the camera sits, how it focuses, how it handles light, and when it captures action. A camera records reality, but it also interprets it.",
+    "summary": "Camera images depend on creative choices about light, lens, angle, timing, and exposure.",
+    "categoryId": "movies",
+    "topic": "Movie Cameras",
+    "tags": [
+      "movies",
+      "movie cameras",
+      "cinematography",
+      "photography",
+      "camera techniques"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "imax-sideways-film",
+    "headline": "IMAX Film Runs Sideways Through the Projector",
+    "body": "IMAX film is unusual because it does not move like standard film. Film Atlas describes IMAX as a 15-perforation, 70mm format projected horizontally with a rolling-loop system. The print is 70mm wide, but it runs through the projector sideways rather than vertically. That sideways movement creates a much larger frame, giving IMAX its huge, detailed image.",
+    "summary": "IMAX uses 70mm film that runs horizontally through the projector instead of vertically.",
+    "categoryId": "movies",
+    "topic": "IMAX",
+    "tags": [
+      "movies",
+      "imax",
+      "film format",
+      "70mm",
+      "cinema technology"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "imax-giant-screens",
+    "headline": "IMAX Was Built for Giant Screens",
+    "body": "IMAX was designed to overwhelm the viewer’s field of vision. Film Atlas says IMAX uses very large screens between six and eight stories high and requires specialized camera, projection, sound, and theater technologies. The image is designed to occupy up to a 120-degree lateral view and an 80-degree vertical view. IMAX is not just bigger film; it is a theater system built around immersion.",
+    "summary": "IMAX combines large-format film, huge screens, and specialized sound to create immersion.",
+    "categoryId": "movies",
+    "topic": "IMAX",
+    "tags": [
+      "movies",
+      "imax",
+      "giant screens",
+      "large format",
+      "cinema"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "imax-worlds-fair-origin",
+    "headline": "IMAX Came From World’s Fair Experiments",
+    "body": "IMAX grew out of experimental filmmaking and Expo spectacle. Film Atlas says IMAX emerged from late-1960s custom-format films created for World’s Fairs, especially immersive multi-image projections at Expo 67 in Montreal. Those experiments led Graeme Ferguson, Roman Kroitor, William Shaw, and Robert Kerr to form the company that became IMAX. The first IMAX film, Tiger Child, appeared at Expo ’70 in Osaka.",
+    "summary": "IMAX evolved from immersive World’s Fair film experiments in the late 1960s and 1970.",
+    "categoryId": "movies",
+    "topic": "IMAX",
+    "tags": [
+      "movies",
+      "imax",
+      "worlds fair",
+      "expo 70",
+      "tiger child"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "imax-heavy-reels",
+    "headline": "IMAX Reels Can Weigh Hundreds of Pounds",
+    "body": "IMAX projection is physically massive behind the scenes. Film Atlas says IMAX booths can need large projection rooms, and a single projector can weigh at least 1,900 kilograms. To handle commercial feature films, IMAX enlarged platters and modified equipment for bigger, heavier loads. Projection booths can even use forklifts to load individual IMAX reels weighing up to 272 kilograms, or 600 pounds.",
+    "summary": "IMAX reels can be so heavy that projection booths may use forklifts to load them.",
+    "categoryId": "movies",
+    "topic": "IMAX",
+    "tags": [
+      "movies",
+      "imax",
+      "projection",
+      "film reels",
+      "cinema technology"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "three-d-movies-two-eyes",
+    "headline": "3D Movies Trick Your Two Eyes Separately",
+    "body": "3D movies work because your eyes do not see the world from the exact same place. Britannica explains that 3D film is based on human depth perception, where each eye receives a slightly different view. A 3D movie recreates that difference so the brain combines two images into one scene with depth. The screen is flat, but your vision helps make it feel layered.",
+    "summary": "3D movies create depth by sending slightly different views to each eye.",
+    "categoryId": "movies",
+    "topic": "3D Movies",
+    "tags": [
+      "movies",
+      "3d movies",
+      "stereoscopic film",
+      "depth perception",
+      "cinema technology"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "three-d-movies-eye-distance",
+    "headline": "3D Cameras Mimic the Distance Between Human Eyes",
+    "body": "The spacing of 3D cameras is designed to copy human vision. Britannica says 3D films use two cameras or a twin-lensed camera, with one view representing the left eye and the other representing the right. The lenses are spaced about 2.5 inches apart, similar to the distance between a person’s eyes. Movie depth begins with copying the geometry of your face.",
+    "summary": "3D cameras often space their lenses about as far apart as human eyes.",
+    "categoryId": "movies",
+    "topic": "3D Movies",
+    "tags": [
+      "movies",
+      "3d movies",
+      "cameras",
+      "stereoscopy",
+      "film technology"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "three-d-movies-television-threat",
+    "headline": "3D Was a 1950s Answer to TV Competition",
+    "body": "3D movies were once part of Hollywood’s fight to make theaters feel special. Britannica notes that early experiments with stereoscopic 3D in 1952 provoked audience interest during the period when television threatened movie attendance. Studios explored visual experiences that home TV could not easily match. The idea was simple: make the movie screen feel bigger, deeper, and more exciting than the living room.",
+    "summary": "Stereoscopic 3D gained attention in the 1950s as movies competed with television.",
+    "categoryId": "movies",
+    "topic": "3D Movies",
+    "tags": [
+      "movies",
+      "3d movies",
+      "1950s cinema",
+      "television",
+      "hollywood history"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "three-d-movies-two-images",
+    "headline": "3D Needs Two Slightly Different Images",
+    "body": "A 3D movie is really built from two views. Britannica explains that each lens in a 3D setup records a slightly different image, matching the different view each eye sees in normal vision. Projection then separates those views so the right image reaches the right eye and the left image reaches the left eye. The depth effect depends on the brain fusing the pair together.",
+    "summary": "3D cinema depends on two slightly different images being combined by the viewer’s brain.",
+    "categoryId": "movies",
+    "topic": "3D Movies",
+    "tags": [
+      "movies",
+      "3d movies",
+      "stereoscopic cinema",
+      "projection",
+      "film technology"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "film-editing-piece-by-piece",
+    "headline": "Editing Builds Movies Piece by Piece",
+    "body": "Film editing is where separate shots become a sequence. Britannica defines montage as the editing technique of assembling separate pieces of thematically related film and putting them together. A director, editor, and sound or visual technicians can carefully build parts of a movie piece by piece. The audience sees a flowing scene, but it may be constructed from many separate fragments.",
+    "summary": "Editing turns separate pieces of film into a coherent movie sequence.",
+    "categoryId": "movies",
+    "topic": "Film Editing",
+    "tags": [
+      "movies",
+      "film editing",
+      "montage",
+      "cinema",
+      "filmmaking"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "film-editing-meaning-from-shots",
+    "headline": "Montage Can Create Meaning From Separate Shots",
+    "body": "Editing can do more than connect action. Britannica explains that montage joins thematically related film pieces into a sequence, allowing meaning to build through arrangement. A shot can feel different depending on what comes before or after it. Editors can shape emotion, tension, humor, or ideas simply by deciding which images touch each other.",
+    "summary": "Montage creates meaning by arranging separate shots into a purposeful sequence.",
+    "categoryId": "movies",
+    "topic": "Film Editing",
+    "tags": [
+      "movies",
+      "film editing",
+      "montage",
+      "visual storytelling",
+      "cinema language"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "film-editing-montage-types",
+    "headline": "Montage Comes in Different Types",
+    "body": "Montage is not just one technique. Britannica says three types of montage can be distinguished: narrative, graphic, and ideational. Narrative montage follows a subject from point to point, graphic montage emphasizes visual relationships, and ideational montage builds ideas through the collision or connection of images. Editing can organize story, shape visuals, or make an argument without saying a word.",
+    "summary": "Montage can shape story, visuals, or ideas depending on how shots are arranged.",
+    "categoryId": "movies",
+    "topic": "Film Editing",
+    "tags": [
+      "movies",
+      "film editing",
+      "montage",
+      "narrative montage",
+      "cinema techniques"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "film-editing-movie-time",
+    "headline": "Editing Changes How Movie Time Feels",
+    "body": "Movies do not have to follow real time. Britannica describes film as images of space arranged in time, and montage lets filmmakers shape how that time is experienced. Editing can compress a long journey into seconds, stretch a tense moment, or jump between places as if they are connected. The cut is one of cinema’s strongest tools because it controls how time moves.",
+    "summary": "Editing lets filmmakers compress, stretch, or rearrange time on screen.",
+    "categoryId": "movies",
+    "topic": "Film Editing",
+    "tags": [
+      "movies",
+      "film editing",
+      "movie time",
+      "cinema language",
+      "montage"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "documentaries-shape-facts",
+    "headline": "Documentaries Shape Facts Into Stories",
+    "body": "A documentary is not just raw reality placed on screen. Britannica defines documentary film as a motion picture that shapes and interprets factual material for education or entertainment. That means documentaries use real people, places, events, or evidence, but still make choices about structure, emphasis, tone, and meaning. The genre sits between record and storytelling.",
+    "summary": "Documentaries use factual material but shape it into an interpreted film experience.",
+    "categoryId": "movies",
+    "topic": "Documentaries",
+    "tags": [
+      "movies",
+      "documentaries",
+      "documentary film",
+      "realism",
+      "film history"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "documentaries-word-origin",
+    "headline": "The Word Documentary Came From a French Term",
+    "body": "The word documentary has a specific film-history origin. Britannica says Scottish educator John Grierson adapted the term in the mid-1920s from the French word documentaire. Grierson later helped lead the British documentary film movement, which influenced world film production in the 1930s. A borrowed word became the name for one of cinema’s most important nonfiction forms.",
+    "summary": "John Grierson helped adapt the word documentary from the French documentaire.",
+    "categoryId": "movies",
+    "topic": "Documentaries",
+    "tags": [
+      "movies",
+      "documentaries",
+      "john grierson",
+      "documentary film",
+      "film terms"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "documentaries-nanook-prototype",
+    "headline": "Nanook of the North Became a Documentary Prototype",
+    "body": "One early documentary became a model for many that followed. Britannica says Robert Flaherty’s Nanook of the North, released in 1922, recorded Eskimo life based on personal observation and became the prototype of many documentary films. Its importance was not just that it showed real life, but that it shaped observed life into a cinematic form. Documentaries were becoming a recognizable kind of movie.",
+    "summary": "Nanook of the North became an early prototype for documentary filmmaking.",
+    "categoryId": "movies",
+    "topic": "Documentaries",
+    "tags": [
+      "movies",
+      "documentaries",
+      "nanook of the north",
+      "robert flaherty",
+      "film history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "documentaries-wartime-persuasion",
+    "headline": "World War II Turned Documentaries Into Persuasion Tools",
+    "body": "Documentaries became especially important during World War II. Britannica says the Nazi government used Germany’s nationalized film industry to produce propaganda documentaries, while Frank Capra made the Why We Fight series for the U.S. Army Signal Corps. Britain and Canada also released wartime educational and national-interest films. The documentary format could inform, persuade, and rally public feeling.",
+    "summary": "World War II showed how documentaries could be used for education, propaganda, and national morale.",
+    "categoryId": "movies",
+    "topic": "Documentaries",
+    "tags": [
+      "movies",
+      "documentaries",
+      "world war ii",
+      "propaganda",
+      "why we fight"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "film-festivals-venice-first",
+    "headline": "The First Film Festival Was Held in Venice",
+    "body": "Film festivals have been shaping movie culture for nearly a century. Britannica says the first film festival was held in Venice in 1932. What began as a gathering to evaluate new or outstanding motion pictures became a model copied around the world. Today, festivals can launch careers, elevate national cinemas, and turn small films into international talking points.",
+    "summary": "The first film festival was held in Venice in 1932.",
+    "categoryId": "movies",
+    "topic": "Film Festivals",
+    "tags": [
+      "movies",
+      "film festivals",
+      "venice film festival",
+      "cinema history",
+      "motion picture industry"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "film-festivals-find-buyers",
+    "headline": "Festivals Help Films Find Buyers",
+    "body": "Film festivals are not only about red carpets. Britannica says festivals let filmmakers, distributors, critics, and others attend screenings and discuss current artistic developments in film. They also give distributors a chance to purchase films they think can be marketed successfully in their own countries. A festival can be both a cultural event and a marketplace.",
+    "summary": "Film festivals help connect filmmakers, critics, audiences, and distributors looking for films to buy.",
+    "categoryId": "movies",
+    "topic": "Film Festivals",
+    "tags": [
+      "movies",
+      "film festivals",
+      "film industry",
+      "distributors",
+      "cannes"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "film-festivals-rashomon-global",
+    "headline": "Rashomon Helped Bring Japanese Cinema Global Attention",
+    "body": "A festival prize can change how the world sees a country’s films. Britannica says Akira Kurosawa’s Rashomon won the Golden Lion at Venice in 1951, focusing attention on Japanese films. That win helped international audiences and critics look more closely at Japanese cinema. A single festival victory became a doorway into a wider film culture.",
+    "summary": "Rashomon’s 1951 Venice win helped draw global attention to Japanese cinema.",
+    "categoryId": "movies",
+    "topic": "Film Festivals",
+    "tags": [
+      "movies",
+      "film festivals",
+      "rashomon",
+      "akira kurosawa",
+      "venice film festival"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "film-festivals-niche-gatherings",
+    "headline": "Some Festivals Are Built Around Tiny Niches",
+    "body": "Not every film festival tries to cover all of cinema. Britannica says some festivals focus on films from one country, student filmmakers, short subjects, documentaries, underwater photography, or specific subjects such as mountain climbing. That range shows how flexible festivals can be. A festival can celebrate global prestige, a local community, or one very specific kind of movie obsession.",
+    "summary": "Film festivals can focus on everything from documentaries to underwater photography or mountain climbing.",
+    "categoryId": "movies",
+    "topic": "Film Festivals",
+    "tags": [
+      "movies",
+      "film festivals",
+      "documentaries",
+      "student films",
+      "film culture"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pixar-computer-graphics-roots",
+    "headline": "Pixar Started as a Computer Graphics Team",
+    "body": "Pixar did not begin as a normal movie studio. Britannica says it originated in the 1970s at the New York Institute of Technology, where computer scientists including Ed Catmull helped develop the emerging field of computer graphics. Catmull later led Lucasfilm’s computer division, which created technology for high-resolution 3D color images. Pixar’s movie future grew out of computer science research.",
+    "summary": "Pixar began with computer graphics research before becoming a famous animation studio.",
+    "categoryId": "movies",
+    "topic": "Pixar",
+    "tags": [
+      "movies",
+      "pixar",
+      "computer animation",
+      "ed catmull",
+      "computer graphics"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pixar-steve-jobs-buyout",
+    "headline": "Steve Jobs Bought Pixar Before It Was Famous",
+    "body": "Pixar’s rise has a surprising Steve Jobs chapter. Britannica says Lucasfilm’s computer division was spun off as an independent company in 1986, and Apple cofounder Steve Jobs acquired the controlling interest. Jobs became chairman of the board while Ed Catmull became president and CEO. Before Pixar became known for beloved movies, it was a risky graphics-technology company trying to find its path.",
+    "summary": "Steve Jobs bought controlling interest in Pixar years before Toy Story made it famous.",
+    "categoryId": "movies",
+    "topic": "Pixar",
+    "tags": [
+      "movies",
+      "pixar",
+      "steve jobs",
+      "lucasfilm",
+      "animation history"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pixar-toy-story-first",
+    "headline": "Toy Story Was the First Fully Computer-Animated Feature",
+    "body": "Toy Story changed animation history. Britannica says Pixar worked for years on the film after entering an agreement with Disney to develop, produce, and distribute feature-length animated movies. When Toy Story opened in theaters in 1995, it was the first entirely computer-animated feature film. A movie about toys secretly coming alive also helped prove computer animation could carry a full theatrical story.",
+    "summary": "Toy Story became the first entirely computer-animated feature film in 1995.",
+    "categoryId": "movies",
+    "topic": "Pixar",
+    "tags": [
+      "movies",
+      "pixar",
+      "toy story",
+      "computer animation",
+      "disney"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pixar-storytelling-innovation",
+    "headline": "Pixar Mixed Technical Innovation With Emotional Storytelling",
+    "body": "Pixar became famous for more than just new animation tools. Britannica says the studio was instrumental in developing computer-animated films in the late 20th and early 21st centuries, and that its features were praised for both visual innovation and intelligent, emotional storytelling. That combination helped Pixar stand out. Its films made technology feel invisible by putting character and feeling at the center.",
+    "summary": "Pixar built its reputation by pairing visual innovation with emotional storytelling.",
+    "categoryId": "movies",
+    "topic": "Pixar",
+    "tags": [
+      "movies",
+      "pixar",
+      "animation",
+      "storytelling",
+      "computer animation"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stop-motion-frame-by-frame",
+    "headline": "Stop-Motion Moves Still Objects One Frame at a Time",
+    "body": "Stop-motion animation turns still objects into moving characters through patience and precision. Fathom Entertainment describes stop-motion as a photographic method where static objects simulate movement through frame-by-frame manipulation. An animator moves a puppet, model, or object a tiny amount, captures a frame, and repeats the process. When the frames play quickly, the object appears alive.",
+    "summary": "Stop-motion creates movement by photographing tiny changes one frame at a time.",
+    "categoryId": "movies",
+    "topic": "Stop-Motion",
+    "tags": [
+      "movies",
+      "stop motion",
+      "animation",
+      "frame by frame",
+      "filmmaking"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stop-motion-1890s-origin",
+    "headline": "Stop-Motion Dates Back to the 1890s",
+    "body": "Stop-motion has been part of film history since the medium’s early days. Fathom Entertainment says some of the earliest examples trace back to the 1890s, when Albert E. Smith and J. Stuart Blackton made The Humpty Dumpty Circus in 1898. That small experiment helped inspire later artists to push the technique further. Long before digital animation, filmmakers were making objects move by hand.",
+    "summary": "Early stop-motion examples date back to The Humpty Dumpty Circus in 1898.",
+    "categoryId": "movies",
+    "topic": "Stop-Motion",
+    "tags": [
+      "movies",
+      "stop motion",
+      "film history",
+      "j stuart blackton",
+      "animation"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stop-motion-king-kong-model",
+    "headline": "King Kong Used an 18-Inch Model to Feel Huge",
+    "body": "King Kong looked enormous on screen, but the model was surprisingly small. Fathom Entertainment says Willis H. O’Brien used models and frame-by-frame movement to create the illusion of life in live-action films such as King Kong. The Kong model was only 18 inches tall, yet camera techniques and painted glass helped make him feel like a giant. Movie scale can be pure illusion.",
+    "summary": "King Kong used a small stop-motion model that camera tricks made feel gigantic.",
+    "categoryId": "movies",
+    "topic": "Stop-Motion",
+    "tags": [
+      "movies",
+      "stop motion",
+      "king kong",
+      "willis obrien",
+      "special effects"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stop-motion-coraline-3d",
+    "headline": "Coraline Was a 3D Stop-Motion Breakthrough",
+    "body": "Coraline pushed stop-motion into a new visual space. Fathom Entertainment says Henry Selick worked with LAIKA Studios and chose to shoot Coraline in 3D, making it the first stop-motion film shot that way. Selick and cinematographer Peter Kozachik wanted a visual language that could contrast Coraline’s different worlds. The technique helped make the handmade animation feel even more immersive.",
+    "summary": "Coraline became the first stop-motion film shot in 3D.",
+    "categoryId": "movies",
+    "topic": "Stop-Motion",
+    "tags": [
+      "movies",
+      "stop motion",
+      "coraline",
+      "henry selick",
+      "laika"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "movie-makeup-subtle-closeups",
+    "headline": "Movie Makeup Had to Be Subtler Than Stage Makeup",
+    "body": "Stage makeup did not work well for movies. Britannica explains that heavy theatrical makeup looked unnatural in close-ups, where an actor’s face could be magnified many times larger than life. Colors made for stage lighting also did not match the needs of film lighting and film emulsions. Movie makeup had to become more delicate, subtle, and camera-friendly.",
+    "summary": "Movie makeup had to become subtler because close-ups made heavy stage makeup obvious.",
+    "categoryId": "movies",
+    "topic": "Movie Makeup",
+    "tags": [
+      "movies",
+      "movie makeup",
+      "close-ups",
+      "film lighting",
+      "makeup history"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "movie-makeup-max-factor",
+    "headline": "Max Factor Created Makeup Specifically for Movies",
+    "body": "Movie makeup became its own craft when film needed different materials than theater. Britannica says the first makeup designed expressly for motion pictures was created by Max Factor in 1910. It was a light, semiliquid greasepaint sold in jars in carefully graduated tan tones. The product was made to suit the lighting and film emulsion used at the time.",
+    "summary": "Max Factor created makeup specifically designed for motion pictures in 1910.",
+    "categoryId": "movies",
+    "topic": "Movie Makeup",
+    "tags": [
+      "movies",
+      "movie makeup",
+      "max factor",
+      "hollywood",
+      "film history"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "movie-makeup-panchromatic-problems",
+    "headline": "New Film Stock Created New Makeup Problems",
+    "body": "Changes in film technology changed actors’ faces on screen. Britannica says panchromatic film and incandescent lighting made it possible to standardize the most effective film, lighting, and makeup colors. After tests by the Society of Motion Picture Engineers in 1928, Max Factor created a new range called panchromatic makeup. A technical shift in film stock created a whole new makeup solution.",
+    "summary": "Panchromatic film pushed makeup artists to create new colors that worked better on camera.",
+    "categoryId": "movies",
+    "topic": "Movie Makeup",
+    "tags": [
+      "movies",
+      "movie makeup",
+      "panchromatic film",
+      "max factor",
+      "cinematography"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "movie-makeup-corrective-creative",
+    "headline": "Movie Makeup Is Both Corrective and Creative",
+    "body": "Movie makeup does two jobs at once. Britannica explains that as a corrective art, it can cover blemishes, smooth skin tone, define features, make performers more attractive, and create uniform camera appearance. As a creative art, it can transform actors into almost any kind of character, from aged faces to horror wounds or science-fiction creatures. Makeup can hide reality or invent it.",
+    "summary": "Movie makeup can correct how actors appear on camera or creatively transform them into characters.",
+    "categoryId": "movies",
+    "topic": "Movie Makeup",
+    "tags": [
+      "movies",
+      "movie makeup",
+      "prosthetics",
+      "character design",
+      "film effects"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "movie-trailers-after-movie",
+    "headline": "Trailers Originally Played After the Movie",
+    "body": "Movie trailers got their name because they once came after the feature. Brown Film Magazine says the first trailer premiered in 1913 and was true to its name because it trailed the movie instead of playing before it. Publicist Nils Granlund made a short promo for the Broadway show The Pleasure Seekers, and it succeeded in theaters. The format eventually became a movie-marketing staple.",
+    "summary": "Trailers were originally called trailers because they played after the main attraction.",
+    "categoryId": "movies",
+    "topic": "Movie Trailers",
+    "tags": [
+      "movies",
+      "movie trailers",
+      "film marketing",
+      "1913",
+      "nils granlund"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "movie-trailers-nss-monopoly",
+    "headline": "One Company Dominated Trailers for Decades",
+    "body": "For much of Hollywood history, trailers had a central gatekeeper. Brown Film Magazine says the National Screen Service was founded in 1919 and grew into a movie trailer monopoly that lasted nearly forty years. Its trailers were formulaic but effective, often making huge claims, explaining plots, and spotlighting stars. The trailer became an industry product with its own style rules.",
+    "summary": "The National Screen Service dominated Hollywood trailers for nearly forty years.",
+    "categoryId": "movies",
+    "topic": "Movie Trailers",
+    "tags": [
+      "movies",
+      "movie trailers",
+      "national screen service",
+      "hollywood",
+      "film marketing"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "movie-trailers-auteur-style",
+    "headline": "Auteur Directors Changed Trailer Style",
+    "body": "Movie trailers became more artistic as directors gained more creative influence. Brown Film Magazine notes that after the National Screen Service monopoly was broken up in 1955, auteur theory was rising, emphasizing directors’ artistic control. Trailers like Orson Welles’s Citizen Kane and Stanley Kubrick’s Dr. Strangelove used more unusual, story-driven, or stylized approaches. Trailers could sell a film’s personality, not just its plot.",
+    "summary": "Auteur-era trailers leaned into style, mystery, and director personality instead of only plot summary.",
+    "categoryId": "movies",
+    "topic": "Movie Trailers",
+    "tags": [
+      "movies",
+      "movie trailers",
+      "auteur theory",
+      "citizen kane",
+      "dr strangelove"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "movie-trailers-sound-design",
+    "headline": "Modern Trailers Use Sound Like a Weapon",
+    "body": "Modern trailers often grab attention through sound as much as images. Brown Film Magazine points to trailers such as Inception, The Dark Knight Rises, and Mad Max: Fury Road as examples of sound editing shaping tension and excitement. Booming hits, muted action, rising notes, whispered lines, and rhythmic cuts can make a trailer feel huge. Sometimes the sound of a trailer becomes part of its identity.",
+    "summary": "Modern trailers use sound design to build tension, rhythm, emotion, and spectacle.",
+    "categoryId": "movies",
+    "topic": "Movie Trailers",
+    "tags": [
+      "movies",
+      "movie trailers",
+      "sound design",
+      "inception",
+      "film marketing"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "technicolor-hollywood-selling-point",
+    "headline": "Technicolor Made Color a Hollywood Selling Point",
+    "body": "Technicolor did not invent cinematic color, but it made color feel like an event. The Hollywood Reporter notes that Technicolor was often billed in opening credits, celebrated with title cards, and advertised on posters in splashy red-blue-yellow lettering. Films such as The Wizard of Oz and Gone With the Wind helped show audiences how dramatic color could feel. Color became part of the movie’s promise.",
+    "summary": "Technicolor helped turn movie color into a major Hollywood attraction and marketing feature.",
+    "categoryId": "movies",
+    "topic": "Technicolor",
+    "tags": [
+      "movies",
+      "technicolor",
+      "color film",
+      "hollywood",
+      "the wizard of oz"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "technicolor-three-strip-light",
+    "headline": "Three-Strip Technicolor Split Light Into Three Negatives",
+    "body": "Classic Technicolor relied on an elaborate three-strip process. The Hollywood Reporter explains that the 1932 breakthrough exposed three negatives inside the camera, with a prism splitting the image’s light into green, red, and blue records. In the lab, dyes were applied separately to the film base through the imbibition process. The result was the rich color look people usually mean when they say Technicolor.",
+    "summary": "Three-strip Technicolor used a prism and three negatives to build its famous color image.",
+    "categoryId": "movies",
+    "topic": "Technicolor",
+    "tags": [
+      "movies",
+      "technicolor",
+      "three-strip technicolor",
+      "color film",
+      "film technology"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "technicolor-heavy-cameras",
+    "headline": "Technicolor Cameras Were Huge and Expensive",
+    "body": "Shooting in Technicolor required a serious commitment. The Hollywood Reporter says Hollywood studios had to rent Technicolor cameras that cost $30,000 and weighed 750 pounds. The process was also three to four times more expensive than dependable black-and-white filmmaking. Behind those glowing colors was heavy equipment, special labs, and a budget big enough to risk on color.",
+    "summary": "Technicolor cameras were expensive, extremely heavy, and part of a costly color process.",
+    "categoryId": "movies",
+    "topic": "Technicolor",
+    "tags": [
+      "movies",
+      "technicolor",
+      "cameras",
+      "film production",
+      "hollywood history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "technicolor-lasting-color",
+    "headline": "Old Technicolor Prints Can Still Look Vivid",
+    "body": "Technicolor’s legacy is partly about survival. The Hollywood Reporter contrasts vintage Technicolor prints, which can retain their luster and color separation, with old Eastmancolor prints from about 1950 to 1975 that often fade into washed-out pinks. That durability made Technicolor prints feel almost like museum objects. Some of the color magic lasted longer than the technology itself.",
+    "summary": "Vintage Technicolor prints can preserve vivid color better than some later color-film processes.",
+    "categoryId": "movies",
+    "topic": "Technicolor",
+    "tags": [
+      "movies",
+      "technicolor",
+      "film preservation",
+      "eastmancolor",
+      "color film"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
