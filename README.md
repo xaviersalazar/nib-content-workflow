@@ -127,7 +127,7 @@ Notes:
 2. Run Firecrawl extraction (`pnpm scrape:source`, `pnpm scrape:next`, or `pnpm scrape:batch`).
 3. Draft 3–5 fact candidates per source using your AI assistant.
 4. Validate claims against source text only.
-5. Perform human review and keep approved facts.
+5. Perform human review and approve only the best **3 facts per topic** (max).
 6. Store approved rows in `approved-content/approved-facts.csv`.
 7. Export with `pnpm export:facts`.
 

@@ -112,3 +112,5 @@ Generate 3–5 candidate facts.
 Quality is more important than quantity.
 
 If uncertain, generate fewer facts.
+
+Note: only the best **3 facts per topic** are approved downstream (hard cap), so lead with your strongest candidates.

@@ -18,6 +18,16 @@ The goal is not simply factual accuracy. The goal is **high-quality curiosity co
 
 ---
 
+# Facts Per Topic (Hard Cap)
+
+Every topic ships **at most 3 facts** — the best 3, most interesting only.
+
+- Over-generating candidates is fine (aim for ~3–5 per source), but **approve no more than 3 per topic**.
+- A topic with 1 or 2 genuinely strong facts is fine — do not pad to 3 with weak or redundant facts.
+- Prefer fewer, stronger, distinct facts over more, overlapping ones. Showing the same topic too often in the app is worse than showing fewer, stronger facts.
+
+---
+
 # Current Workflow
 
 We work through categories **two topics at a time**.

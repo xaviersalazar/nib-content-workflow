@@ -232,7 +232,7 @@ Target:
 ```text
 1 page
 ↓
-3–5 facts
+3–5 candidate facts
 ```
 
 Avoid:
@@ -256,11 +256,11 @@ Black Holes
 
 NASA
 ↓
-3–5 facts
+3–5 candidate facts
 
 Total:
 
-3–5 approved facts (keep only the most interesting)
+3 approved facts max (keep only the best, most interesting)
 ```
 
 ---

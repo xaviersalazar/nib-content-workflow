@@ -41,10 +41,10 @@ The current target is:
 ↓
 1 source page
 ↓
-3–5 excellent facts
+3 excellent facts (the best 3 — hard cap)
 ```
 
-Do not optimize for 7–10 facts per topic anymore.
+Cap each topic at 3 facts. Do not optimize for 5, 7, or 10 facts per topic anymore.
 
 The goal is to ship more topics at launch and reduce the chance that users repeatedly see facts from the same topic.
 
@@ -73,7 +73,7 @@ Markdown source file
 ↓
 Fact generation agent
 ↓
-3–5 approved facts
+3 approved facts max (the best 3)
 ↓
 App
 ```
@@ -289,7 +289,7 @@ A topic may be replaced if:
 
 # Curiosity Density Rule
 
-A source page should support 3–5 strong facts.
+A source page should support at least 3 strong facts (ideally a few candidates, so you can approve the best 3).
 
 Reject pages that are technically accurate but likely to produce only generic facts.
 
@@ -684,7 +684,7 @@ Before showing a verification table, confirm:
 - URL is not guessed.
 - URL appears to be a dedicated content page.
 - Source is trustworthy enough.
-- Page likely supports 3–5 interesting facts.
+- Page likely supports at least 3 interesting facts (the best 3 are kept).
 - Page is not too technical or too thin.
 - Page is likely scrape-friendly.
 

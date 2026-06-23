@@ -45,17 +45,17 @@ No outside information should be introduced.
 
 # Step 2: Generate Candidate Facts
 
-Generate approximately 3–5 candidate facts per source.
+Generate approximately 3–5 candidate facts per source. Over-generating a few candidates is fine — you then approve only the best.
 
-Keep only the most interesting facts for the topic — 5 at the very most.
+Approve only the best facts for the topic — **3 at the very most**.
 
-Some topics may produce:
+A topic may end up with:
 
-- 3 excellent facts
-- 4 excellent facts
-- 5 excellent facts
+- 1 excellent fact
+- 2 excellent facts
+- 3 excellent facts (the cap)
 
-If a topic only yields 3 truly strong facts, stop there. Quality always wins over quantity, and showing the same topic too often in the app is worse than showing fewer, stronger facts.
+If a topic only yields 1–2 truly strong facts, stop there. Quality always wins over quantity, and approving a weak fact just to reach 3 — or showing the same topic too often in the app — is worse than showing fewer, stronger facts.
 
 ---
 

@@ -28,7 +28,7 @@ Avoid running dry on the Categories and Collections screens.
 Snapshot at time of writing (June 2026):
 
 - **56 categories**
-- **737 topics**, most at 3–5 facts each
+- **737 topics**, capped at 3 facts each (the best 3 per topic)
 - **102 topics scraped/`complete`**; the rest `pending` (the launch backlog)
 - **Britannica = ~63% of topics** (463 of 737) — down from ~78%, and trending
   the right way as specialist institutions come online (NASA, Smithsonian,
@@ -230,8 +230,8 @@ echo "Britannica: $brit / $total"
 
 # Production Math
 
-Sustaining one new category (or one deep expansion) per month means **~30–50
-validated facts/month** (8–10 topics × 3–5 facts). The monthly Collection adds
+Sustaining one new category (or one deep expansion) per month means **~24–30
+validated facts/month** (8–10 topics × 3 facts). The monthly Collection adds
 **zero** drafting load — it's curation of facts that already shipped.
 
 - The bottleneck is the **human review pass**, not scraping. Keep each drop to one

@@ -127,7 +127,7 @@ This is the safe process used for both the trim and the reword:
 ---
 
 ## Related docs
-- `docs/contet-generation-rules.md` — fact validation rules + the **3–5 facts per topic**
-  cap (most interesting facts only).
+- `docs/content-generation-rules.md` — fact validation rules + the **3 facts per topic**
+  cap (the best 3, most interesting facts only).
 - `docs/manual-ai-assisted-content-workflow.md` — drafting/validation workflow.
 - `prompts/draft-facts.md` — the drafting prompt.
