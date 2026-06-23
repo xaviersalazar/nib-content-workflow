@@ -15724,5 +15724,1145 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "memes-cultural-genes",
+    "headline": "Memes Were First Treated Like Cultural Genes",
+    "body": "Memes were not originally just funny images online. Britannica says Richard Dawkins introduced the term in 1976 and imagined memes as the cultural parallel to biological genes. In that view, memes carry information, replicate, and pass from person to person. A joke, phrase, idea, or behavior can spread through culture almost like a gene spreads through biology.",
+    "summary": "Memes began as a theory about ideas spreading like cultural genes.",
+    "categoryId": "internet-culture",
+    "topic": "Memes",
+    "tags": [
+      "internet culture",
+      "memes",
+      "richard dawkins",
+      "culture",
+      "imitation"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "memes-copied-cultural-ideas",
+    "headline": "A Meme Is Any Cultural Idea That Gets Copied",
+    "body": "A meme can be much broader than a viral picture. Britannica defines a meme as a unit of cultural information spread by imitation. Within a culture, memes can include an idea, skill, behavior, phrase, or fashion. The key is copying: one person picks up a piece of cultural information from another, and the pattern spreads.",
+    "summary": "A meme is any piece of culture that spreads because people copy it.",
+    "categoryId": "internet-culture",
+    "topic": "Memes",
+    "tags": [
+      "internet culture",
+      "memes",
+      "culture",
+      "imitation",
+      "communication"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "memes-internet-remix",
+    "headline": "Internet Memes Break the Original Meme Rules",
+    "body": "Internet memes are similar to Dawkins’s original idea, but with a twist. Britannica says Internet memes spread through imitation online, often as pictures, videos, or other media. Unlike Dawkins’s original version, they are often deliberately altered by people instead of mutating randomly. That remixing is why one image can become hundreds of jokes, references, and variations.",
+    "summary": "Internet memes spread by imitation, but people intentionally remix them along the way.",
+    "categoryId": "internet-culture",
+    "topic": "Memes",
+    "tags": [
+      "internet culture",
+      "memes",
+      "internet memes",
+      "remix",
+      "social media"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "memes-cultural-power",
+    "headline": "Memes Can Become Socially Powerful",
+    "body": "Memes may look silly, but they can influence culture. Britannica says Internet memes have shown immense cultural and social power because they are so common. One example it gives is Dogecoin, a cryptocurrency originally created as a joke based on the Doge meme. A funny image format can turn into a shared symbol, a movement, or even a financial phenomenon.",
+    "summary": "A meme can jump from joke to cultural force when enough people copy it.",
+    "categoryId": "internet-culture",
+    "topic": "Memes",
+    "tags": [
+      "internet culture",
+      "memes",
+      "dogecoin",
+      "social media",
+      "culture"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emojis-picture-character",
+    "headline": "Emoji Literally Means Picture Character",
+    "body": "The word emoji has a simple meaning hidden inside it. Britannica says it comes from two Japanese words: e, meaning picture, and moji, meaning written character. That makes emoji a fitting name for tiny digital pictograms that represent feelings, objects, food, animals, flags, and ideas. Every emoji is basically a small picture used like part of digital writing.",
+    "summary": "Emoji comes from Japanese words meaning picture and written character.",
+    "categoryId": "internet-culture",
+    "topic": "Emojis",
+    "tags": [
+      "internet culture",
+      "emojis",
+      "japanese",
+      "digital communication",
+      "pictograms"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emojis-unicode-standard",
+    "headline": "Unicode Helps Emojis Work Across Devices",
+    "body": "Emojis can travel between phones because they are standardized. Britannica says the Unicode Consortium reviews and releases proposed emojis and other characters. Companies like Apple, Google, and Samsung use those standardized emoji codes, even though their art styles may look different. That is why someone can send an emoji from one platform and still have it show up recognizably on another.",
+    "summary": "Unicode standardization lets emojis stay recognizable across different devices and platforms.",
+    "categoryId": "internet-culture",
+    "topic": "Emojis",
+    "tags": [
+      "internet culture",
+      "emojis",
+      "unicode",
+      "digital communication",
+      "smartphones"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emojis-missing-body-language",
+    "headline": "Emojis Replace Missing Body Language",
+    "body": "Text messages can be short, fast, and easy to misunderstand. Britannica explains that emojis help because they work on a nonverbal level that computer-mediated communication used to lack. They can stand in for body language, facial expressions, and other cues people use face-to-face. A tiny symbol can make the difference between a joke, a warning, or a warm message.",
+    "summary": "Emojis help digital messages carry tone that plain text can miss.",
+    "categoryId": "internet-culture",
+    "topic": "Emojis",
+    "tags": [
+      "internet culture",
+      "emojis",
+      "texting",
+      "body language",
+      "communication"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emojis-japanese-origin",
+    "headline": "The First Emoji Sets Came From Japan",
+    "body": "Modern emojis grew out of Japanese mobile culture. Britannica says Shigetaka Kurita created 176 colorful pictorial icons in 1999 for NTT DOCOMO, though SoftBank is now thought to have released an earlier smaller set of 90 black-and-white icons in 1997. These early icons represented simple, universal ideas like weather, moods, food, and animals. Today’s emoji keyboards trace back to those compact phone symbols.",
+    "summary": "Early emoji sets came from Japanese phone companies in the late 1990s.",
+    "categoryId": "internet-culture",
+    "topic": "Emojis",
+    "tags": [
+      "internet culture",
+      "emojis",
+      "japan",
+      "ntt docomo",
+      "softbank"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hashtags-clickable-labels",
+    "headline": "Hashtags Turn Words Into Clickable Filing Labels",
+    "body": "A hashtag is more than a word with a # in front of it. Britannica defines it as a metadata label followed by a word or phrase without spaces, special characters, or punctuation. Once posted, it becomes a hyperlink that leads to related content. In practice, hashtags turn messy social media posts into searchable topic clusters.",
+    "summary": "A hashtag works like a clickable filing label for related social media posts.",
+    "categoryId": "internet-culture",
+    "topic": "Hashtags",
+    "tags": [
+      "internet culture",
+      "hashtags",
+      "social media",
+      "metadata",
+      "hyperlinks"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hashtags-symbol-older-social-media",
+    "headline": "The # Symbol Is Older Than Social Media",
+    "body": "The hashtag symbol existed long before Twitter. Britannica says the hash symbol is believed to trace back to Roman times, when the letters lb were written together as an abbreviation for libra pondo, or pound in weight. Over time, that quick handwritten mark evolved into the # symbol. A sign now used for online trends began as a weight abbreviation.",
+    "summary": "The # symbol began long before social media as a mark connected to weight.",
+    "categoryId": "internet-culture",
+    "topic": "Hashtags",
+    "tags": [
+      "internet culture",
+      "hashtags",
+      "hash symbol",
+      "octothorpe",
+      "history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hashtags-too-nerdy-twitter",
+    "headline": "Twitter Was Told Hashtags Were Too Nerdy",
+    "body": "Hashtags almost sounded too niche to catch on. Britannica says technology developer Chris Messina suggested using hashtags on Twitter in 2007 after seeing the hash symbol used to organize chat rooms on Internet Relay Chat. When he pitched the idea to Twitter cofounders, he was told hashtags were for \"nerds\" and would never catch on. The nerdy idea became a global social media habit.",
+    "summary": "Hashtags were once dismissed as too nerdy before becoming a social media standard.",
+    "categoryId": "internet-culture",
+    "topic": "Hashtags",
+    "tags": [
+      "internet culture",
+      "hashtags",
+      "twitter",
+      "chris messina",
+      "social media"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hashtags-social-movements",
+    "headline": "Hashtags Can Turn Into Movements",
+    "body": "Hashtags can organize more than jokes or trends. Britannica says hashtags are used to bring awareness to protests and social movements. It gives #BlackLivesMatter and #MeToo as examples of hashtags that promoted major movements and helped people share stories, outrage, and support. A short tag can become a public rallying point across millions of posts.",
+    "summary": "Some hashtags become rallying points for major social movements.",
+    "categoryId": "internet-culture",
+    "topic": "Hashtags",
+    "tags": [
+      "internet culture",
+      "hashtags",
+      "activism",
+      "social media",
+      "online movements"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "viral-content-before-youtube-tiktok",
+    "headline": "Viral Videos Spread Before YouTube and TikTok",
+    "body": "Viral videos existed before YouTube, TikTok, or modern social feeds. MadeDaily describes the early \"Bad Day\" video, where a frustrated office worker smashes his computer, as one of the first viral videos passed around digitally. Instead of appearing on a recommendation page, it spread through email chains. People forwarded it to coworkers and friends until it became part of early internet pop culture.",
+    "summary": "Early viral videos spread through email chains before modern video platforms existed.",
+    "categoryId": "internet-culture",
+    "topic": "Viral Content",
+    "tags": [
+      "internet culture",
+      "viral content",
+      "email chains",
+      "early internet",
+      "videos"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "viral-content-small-enough-email",
+    "headline": "Early Viral Videos Had to Be Small Enough to Email",
+    "body": "Early viral content had a very real size limit. MadeDaily explains that the \"Bad Day\" video had to be shared in a smaller MPEG format because it spread through email. That is a huge contrast with today’s instant high-resolution streaming culture. Before feeds and autoplay, a video had to be compressed enough for someone to send it along.",
+    "summary": "Some early viral videos had to be compressed into small files so people could email them.",
+    "categoryId": "internet-culture",
+    "topic": "Viral Content",
+    "tags": [
+      "internet culture",
+      "viral content",
+      "mpeg",
+      "email",
+      "early internet"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "viral-content-cross-platform-speed",
+    "headline": "Modern Viral Content Spreads Across Platforms Fast",
+    "body": "Viral content used to crawl through inboxes, but now it can jump across platforms almost instantly. MadeDaily contrasts early email-forwarded videos with modern viral hits spreading across YouTube, Twitter, Instagram, and other platforms. A single clip can move from one app to another, gather remixes, reach news coverage, and become a shared cultural reference much faster than older internet videos could.",
+    "summary": "Modern viral content can spread rapidly across many platforms at once.",
+    "categoryId": "internet-culture",
+    "topic": "Viral Content",
+    "tags": [
+      "internet culture",
+      "viral content",
+      "social media",
+      "youtube",
+      "instagram"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "viral-content-ocean-spray-doggface",
+    "headline": "A Skateboarding Cranberry Juice Video Became a Global Moment",
+    "body": "One casual TikTok became a perfect example of modern virality. MadeDaily describes Nathan Apodaca, known as Doggface, skateboarding while drinking Ocean Spray cranberry juice and listening to Fleetwood Mac’s \"Dreams.\" The video quickly became a global sensation, and Mick Fleetwood even recreated it. During the COVID-19 pandemic, the clip became a symbol of optimism and shared connection.",
+    "summary": "The Ocean Spray skateboarding TikTok became a viral symbol of optimism during the pandemic.",
+    "categoryId": "internet-culture",
+    "topic": "Viral Content",
+    "tags": [
+      "internet culture",
+      "viral content",
+      "tiktok",
+      "doggface",
+      "ocean spray"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "podcasts-automatic-downloads",
+    "headline": "Podcasts Were Built Around Automatic Downloads",
+    "body": "A podcast is not just any audio file online. Britannica defines a podcast as an audio program distributed over the Internet that people can subscribe to so future programs in the series are automatically downloaded. Listeners can then transfer or play those files on smartphones or computers later. The subscription part is what made podcasts feel different from simply clicking one audio clip.",
+    "summary": "Podcasts are audio programs people can subscribe to for automatic future downloads.",
+    "categoryId": "internet-culture",
+    "topic": "Podcasts",
+    "tags": [
+      "internet culture",
+      "podcasts",
+      "audio",
+      "internet",
+      "subscriptions"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "podcasts-ipod-broadcast-name",
+    "headline": "Podcast Comes From iPod and Broadcast",
+    "body": "The word podcast carries a little early-2000s tech history inside it. Britannica says the name comes from combining iPod and broadcast. At the time, Apple’s iPod portable media player was one of the most popular devices for listening to podcasts. The name stuck even after podcasts spread far beyond iPods.",
+    "summary": "Podcast is a blend of iPod and broadcast from the early days of portable listening.",
+    "categoryId": "internet-culture",
+    "topic": "Podcasts",
+    "tags": [
+      "internet culture",
+      "podcasts",
+      "ipod",
+      "broadcast",
+      "audio"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "podcasts-amateur-start",
+    "headline": "Amateurs Helped Kickstart Podcasting",
+    "body": "Podcasting did not begin only with big media companies. Britannica says an early push came from amateurs who produced their own special-interest programs. That made podcasting feel open and personal compared with traditional radio or television. Anyone with a topic, recording setup, and internet access could help build a new kind of audio culture.",
+    "summary": "Early podcasting was fueled partly by amateurs making special-interest shows.",
+    "categoryId": "internet-culture",
+    "topic": "Podcasts",
+    "tags": [
+      "internet culture",
+      "podcasts",
+      "amateur media",
+      "audio",
+      "internet"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "podcasts-itunes-boom",
+    "headline": "iTunes Helped Podcasts Take Off",
+    "body": "Podcasts became much easier to discover in the mid-2000s. Britannica says they really took off around mid-2005, when Apple’s iTunes online store added tens of thousands of podcasts to its offerings. After that, newspapers, radio networks, and television networks began producing podcasts too. A format that started with smaller creators became a mainstream media habit.",
+    "summary": "Podcasting grew rapidly after iTunes added tens of thousands of shows in 2005.",
+    "categoryId": "internet-culture",
+    "topic": "Podcasts",
+    "tags": [
+      "internet culture",
+      "podcasts",
+      "itunes",
+      "apple",
+      "digital media"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gifs-color-images-faster",
+    "headline": "GIFs Were Invented to Move Color Images Faster",
+    "body": "GIFs were not originally invented just for funny reactions. Discover Magazine explains that CompuServe needed a way to transfer colorful images that were too large for computer systems of the time. Stephen Wilhite and his team worked on compressing images while keeping their color and sharpness. The result became the graphics interchange format, better known as the GIF.",
+    "summary": "GIFs began as a practical way to compress and transfer color images online.",
+    "categoryId": "internet-culture",
+    "topic": "GIFs",
+    "tags": [
+      "internet culture",
+      "gifs",
+      "compuserve",
+      "image format",
+      "early internet"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gifs-created-1987",
+    "headline": "The GIF Was Created in 1987",
+    "body": "The GIF is older than many of the social platforms that made it famous. Discover Magazine says Stephen Wilhite created the graphics interchange format in 1987 using a compression algorithm. At first, GIFs were a fast way to hold and transfer multiple still color images. They could even be woven together like a digital flipbook before becoming the looping animations people know today.",
+    "summary": "Stephen Wilhite created the GIF in 1987 as a compressed image format.",
+    "categoryId": "internet-culture",
+    "topic": "GIFs",
+    "tags": [
+      "internet culture",
+      "gifs",
+      "stephen wilhite",
+      "graphics interchange format",
+      "early internet"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gifs-patent-fight",
+    "headline": "A Patent Fight Slowed GIFs Down",
+    "body": "GIFs had a surprisingly dramatic legal chapter. Discover Magazine says the compression algorithm used to create GIFs had already been patented by Unisys. When Unisys wanted to charge fees for GIF use, a patent war broke out and developers began leaning toward other formats like PNG. The GIF survived, but not without a fight.",
+    "summary": "A patent dispute pushed some developers away from GIFs before their comeback.",
+    "categoryId": "internet-culture",
+    "topic": "GIFs",
+    "tags": [
+      "internet culture",
+      "gifs",
+      "patents",
+      "png",
+      "web history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gifs-reaction-language",
+    "headline": "Reaction GIFs Became Instant Emotional Replies",
+    "body": "GIFs became internet shorthand for feelings. Discover Magazine says reaction GIFs took over instant messaging and social media apps, often using quick, funny clips from movies or TV scenes. Their instant delivery and relatability made them popular because they could express a reaction without typing a single word. A looped image became a tiny emotional performance.",
+    "summary": "Reaction GIFs let people answer messages with instant, relatable emotion.",
+    "categoryId": "internet-culture",
+    "topic": "GIFs",
+    "tags": [
+      "internet culture",
+      "gifs",
+      "reaction gifs",
+      "social media",
+      "messaging"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "influencers-attention-persuasion",
+    "headline": "Influencers Turn Attention Into Persuasion",
+    "body": "An influencer is not just someone with a large following. Britannica defines an influencer as a person who exerts influence to guide the actions of others. Online, the term usually refers to people who generate interest in products, services, or experiences by posting about them on social media. Their power comes from attention, trust, and the ability to move an audience toward action.",
+    "summary": "Influencers use social media attention to guide what followers notice, want, or do.",
+    "categoryId": "internet-culture",
+    "topic": "Influencers",
+    "tags": [
+      "internet culture",
+      "influencers",
+      "social media",
+      "marketing",
+      "audience"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "influencers-brands-pay-trust",
+    "headline": "Brands Pay Influencers for Trust",
+    "body": "Influencer marketing works because followers may trust a creator more than a regular advertisement. Britannica says influencers are often paid by companies to use and describe products and services, encouraging followers to buy them. Brands may also offer free products in exchange for posts, reviews, or mentions. A casual-looking post can actually be part of a paid marketing strategy.",
+    "summary": "Brands often pay influencers because their recommendations can feel more personal than ads.",
+    "categoryId": "internet-culture",
+    "topic": "Influencers",
+    "tags": [
+      "internet culture",
+      "influencers",
+      "brands",
+      "social media marketing",
+      "advertising"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "influencers-specific-topics",
+    "headline": "Influencers Build Audiences Around Specific Topics",
+    "body": "Many influencers become influential by focusing on a niche. Britannica describes a social media influencer as a content creator who has built a following for a specific topic on platforms such as TikTok, Instagram, and YouTube. That topic could be fashion, fitness, finance, food, gaming, travel, or almost anything else. The tighter the audience, the more powerful the recommendation can feel.",
+    "summary": "Influencers often grow by becoming trusted voices around specific topics.",
+    "categoryId": "internet-culture",
+    "topic": "Influencers",
+    "tags": [
+      "internet culture",
+      "influencers",
+      "content creators",
+      "niche audiences",
+      "social media"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "influencers-instagram-era",
+    "headline": "Instagram Helped Launch the Influencer Era",
+    "body": "The influencer era grew with visual social media. Britannica says Instagram’s popularity helped launch the era of the influencer, meaning people with large social media followings who use that influence to advertise products or services. Brands began courting these creators with money, free products, and promotional opportunities. A photo-sharing app helped turn personal style and daily life into a marketing channel.",
+    "summary": "Instagram helped turn social media popularity into a major advertising force.",
+    "categoryId": "internet-culture",
+    "topic": "Influencers",
+    "tags": [
+      "internet culture",
+      "influencers",
+      "instagram",
+      "social media",
+      "creator economy"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "streaming-starts-before-full-file",
+    "headline": "Streaming Starts Before the Whole File Arrives",
+    "body": "Streaming feels instant because the whole file does not need to arrive first. Britannica explains that streaming media is more efficient than downloading because playback can begin after only a small portion of the file is copied. That portion is then deleted to make room for the next part after it is consumed. Instead of waiting for a full download, you watch or listen as the file flows in.",
+    "summary": "Streaming lets playback begin before the entire media file is saved.",
+    "categoryId": "internet-culture",
+    "topic": "Streaming",
+    "tags": [
+      "internet culture",
+      "streaming",
+      "media",
+      "internet",
+      "downloads"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "streaming-data-packets",
+    "headline": "Streaming Media Travels in Data Packets",
+    "body": "A streamed movie or song does not travel as one giant file. Britannica says streaming media is broken down into numerous data packets, then reconstructed by the user’s streaming media player. This packet-by-packet delivery helps audio and video move across the Internet for instant use. What looks like one smooth video is actually many tiny pieces being assembled quickly.",
+    "summary": "Streaming media is delivered as packets that are rebuilt by the player.",
+    "categoryId": "internet-culture",
+    "topic": "Streaming",
+    "tags": [
+      "internet culture",
+      "streaming",
+      "data packets",
+      "internet",
+      "media players"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "streaming-buffering-future",
+    "headline": "Buffering Loads the Future Before You Watch It",
+    "body": "Buffering is the reason a video can keep playing even if the connection briefly slows down. Britannica says streaming media players load a few seconds of the file ahead of time to prevent interruptions from slow or intermittent Internet connections. In other words, the player tries to stay slightly ahead of you. It quietly stores the next moments before you reach them.",
+    "summary": "Buffering keeps playback smooth by loading a few seconds ahead.",
+    "categoryId": "internet-culture",
+    "topic": "Streaming",
+    "tags": [
+      "internet culture",
+      "streaming",
+      "buffering",
+      "internet",
+      "video"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "streaming-first-livestream-concert",
+    "headline": "The First Livestream Was a Garage Rock Concert",
+    "body": "The first livestreamed event was not a huge sports game or movie premiere. Britannica says it was a concert by the American garage rock band Severe Tire Damage in June 1993. The broadcast helped prove that MBone streaming technology worked. The Rolling Stones were streamed the next year, but only about 200 computers could receive those early events.",
+    "summary": "The first livestream was a 1993 garage rock concert used to test streaming technology.",
+    "categoryId": "internet-culture",
+    "topic": "Streaming",
+    "tags": [
+      "internet culture",
+      "streaming",
+      "livestreaming",
+      "severe tire damage",
+      "early internet"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "internet-communities-before-social-media",
+    "headline": "Online Communities Started Before Modern Social Media",
+    "body": "Internet communities are older than Instagram, TikTok, or Facebook. Britannica says the earliest forms of social media appeared almost as soon as technology could support them, with e-mail and chat programs arriving in the early 1970s. Persistent communities came later with discussion networks. Long before feeds and likes, people were already using computers to gather around shared conversations.",
+    "summary": "Online communities began long before modern social media platforms existed.",
+    "categoryId": "internet-culture",
+    "topic": "Internet Communities",
+    "tags": [
+      "internet culture",
+      "internet communities",
+      "early internet",
+      "email",
+      "chat"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "internet-communities-usenet-newsgroups",
+    "headline": "USENET Organized Conversation Into Newsgroups",
+    "body": "One early internet community system was USENET. Britannica says USENET was created in 1979 and allowed users to post and receive messages within subject areas called newsgroups. That made online discussion feel organized around topics instead of only one-to-one messages. It was an early version of the idea that strangers could gather online because they cared about the same thing.",
+    "summary": "USENET let people join topic-based conversations through newsgroups.",
+    "categoryId": "internet-culture",
+    "topic": "Internet Communities",
+    "tags": [
+      "internet culture",
+      "internet communities",
+      "usenet",
+      "newsgroups",
+      "online forums"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "internet-communities-closed-systems",
+    "headline": "Early Communities Were Often Closed Systems",
+    "body": "Early online communities were not as easy to move through as today’s web. Britannica says USENET and privately hosted bulletin board systems let people interact, but each was essentially a closed system. Users could gather and talk, yet the experience was separated from other spaces. The open, click-through feeling of the web had not fully arrived yet.",
+    "summary": "Early forums and bulletin board systems connected people but were often separate closed spaces.",
+    "categoryId": "internet-culture",
+    "topic": "Internet Communities",
+    "tags": [
+      "internet culture",
+      "internet communities",
+      "bbs",
+      "usenet",
+      "early web"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "internet-communities-mosaic-web-browser",
+    "headline": "The Web Made Communities Easier to Navigate",
+    "body": "Online communities became easier to explore when the web became more visual. Britannica says the 1993 release of the Mosaic web browser joined earlier systems with an easy-to-use graphical interface. The World Wide Web also made it possible to navigate from one site to another with a click. That helped online spaces feel less like isolated systems and more like a connected world.",
+    "summary": "The Mosaic browser helped make online spaces easier to explore with clicks and graphics.",
+    "categoryId": "internet-culture",
+    "topic": "Internet Communities",
+    "tags": [
+      "internet culture",
+      "internet communities",
+      "mosaic browser",
+      "world wide web",
+      "early internet"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "social-media-sharing-audiences",
+    "headline": "Social Media Is About Sharing and Building Audiences",
+    "body": "Social media is more than posting selfies or scrolling feeds. Britannica defines it as Internet-based mass media communication where users share information, ideas, personal messages, videos, and other content. It also notes that social networking is usually about building communities, while social media is more about using platforms to build an audience. The same app can do both at once.",
+    "summary": "Social media lets users share content while building communities and audiences online.",
+    "categoryId": "internet-culture",
+    "topic": "Social Media",
+    "tags": [
+      "internet culture",
+      "social media",
+      "social networking",
+      "audience",
+      "online communication"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "social-media-before-platforms",
+    "headline": "E-mail and Chat Came Before Social Networks",
+    "body": "Social media did not appear all at once with Facebook. Britannica says e-mail and chat programs debuted in the early 1970s, while persistent online communities came later. Those early tools helped people communicate through computers before modern profiles, feeds, and follower counts existed. Today’s platforms built on decades of digital conversation habits.",
+    "summary": "E-mail and chat helped create digital social habits before modern social networks.",
+    "categoryId": "internet-culture",
+    "topic": "Social Media",
+    "tags": [
+      "internet culture",
+      "social media",
+      "email",
+      "chat",
+      "early internet"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "social-media-sixdegrees-profiles",
+    "headline": "SixDegrees Had Profiles and Friend Lists in 1997",
+    "body": "Many core social-network features existed in the 1990s. Britannica says SixDegrees.com launched in 1997 and was the first true social networking site. Members could create profiles, maintain lists of friends, and contact one another through private messages. It claimed more than three million users by 2000, but collapsed when the dot-com bubble burst.",
+    "summary": "SixDegrees had profiles, friend lists, and private messages years before Facebook.",
+    "categoryId": "internet-culture",
+    "topic": "Social Media",
+    "tags": [
+      "internet culture",
+      "social media",
+      "sixdegrees",
+      "dot com bubble",
+      "social networks"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "social-media-connected-lonely",
+    "headline": "Social Media Can Connect People and Still Feel Lonely",
+    "body": "Social media can connect people while also creating new emotional problems. Britannica notes that concerns about social media have grown alongside the technology. Some studies suggest a strong tie between heavy social media use and increased depression, anxiety, loneliness, suicidal tendencies, and feelings of inadequacy. The same platforms that help people connect can also make comparison and isolation feel worse.",
+    "summary": "Social media can build connection while also contributing to loneliness and comparison.",
+    "categoryId": "internet-culture",
+    "topic": "Social Media",
+    "tags": [
+      "internet culture",
+      "social media",
+      "mental health",
+      "loneliness",
+      "online life"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "reaction-gifs-emotional-shortcut",
+    "headline": "GIFs Became a Shortcut for Emotion",
+    "body": "Reaction GIFs work because they can say what plain text struggles to show. Smithsonian Magazine notes that GIFs capture emotions both big and small in animated image form. A tiny loop can express excitement, awkwardness, disbelief, or frustration without typing a sentence. In group chats, Slack rooms, and social feeds, a reaction GIF turns a feeling into a quick visual reply.",
+    "summary": "Reaction GIFs let people answer with emotion instead of words.",
+    "categoryId": "internet-culture",
+    "topic": "Reaction GIFs",
+    "tags": [
+      "internet culture",
+      "reaction gifs",
+      "gifs",
+      "digital communication",
+      "emotions"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "reaction-gifs-save-memory",
+    "headline": "GIFs Started as a Way to Save Memory",
+    "body": "GIFs were not invented for jokes or reactions. Smithsonian Magazine explains that Steve Wilhite and his team at CompuServe were trying to make computers display images while saving memory. In 1987, Wilhite created the Graphics Interchange Format using compression and a limited color palette. A format built for practical image sharing eventually became one of the internet’s favorite emotional tools.",
+    "summary": "The GIF began as a memory-saving image format before becoming internet shorthand.",
+    "categoryId": "internet-culture",
+    "topic": "Reaction GIFs",
+    "tags": [
+      "internet culture",
+      "reaction gifs",
+      "gifs",
+      "compuserve",
+      "early internet"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "reaction-gifs-silent-loop",
+    "headline": "The GIF Survived Because It Looped Silently",
+    "body": "The GIF survived because it owned a very specific internet niche. Smithsonian Magazine explains that other formats became better for static pictures, but GIFs held on because nothing fully replaced their short, continuous, soundless animation loop. That loop made them perfect for reactions. A GIF does not need audio, context, or a full video player to land the feeling.",
+    "summary": "GIFs stayed useful because short silent loops are perfect for quick reactions.",
+    "categoryId": "internet-culture",
+    "topic": "Reaction GIFs",
+    "tags": [
+      "internet culture",
+      "reaction gifs",
+      "gifs",
+      "loops",
+      "social media"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "reaction-gifs-source-detached",
+    "headline": "GIFs Can Break Away From Their Original Source",
+    "body": "A reaction GIF can become famous even when people forget where it came from. Smithsonian Magazine notes that GIFs often become divorced from their source material and turn into their own entity. Someone might recognize a looping expression without knowing the movie, show, or clip behind it. On the internet, a tiny excerpt can become more familiar than its original scene.",
+    "summary": "Reaction GIFs can become cultural objects separate from their original source.",
+    "categoryId": "internet-culture",
+    "topic": "Reaction GIFs",
+    "tags": [
+      "internet culture",
+      "reaction gifs",
+      "gifs",
+      "pop culture",
+      "remix culture"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "viral-challenges-copy-task",
+    "headline": "Viral Challenges Invite Everyone to Copy the Task",
+    "body": "A viral challenge spreads by asking people to join in. The Falcon describes internet challenges as videos where a person or group records themselves performing a task, posts it online, and invites others to make their own version with a related hashtag. The format is simple: watch, copy, post, tag, repeat. That participation loop is what turns one video into a trend.",
+    "summary": "Viral challenges spread when people copy a task and post their own version online.",
+    "categoryId": "internet-culture",
+    "topic": "Viral Challenges",
+    "tags": [
+      "internet culture",
+      "viral challenges",
+      "social media",
+      "hashtags",
+      "internet trends"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "viral-challenges-social-wildfire",
+    "headline": "Social Media Made Challenges Spread Like Wildfire",
+    "body": "Viral challenges depend on social media’s speed. The Falcon says these challenges spiked in popularity because of social media, where a new idea can spread like wildfire through reposts and hashtags. A challenge can start with one small group, then jump across schools, celebrities, teams, and platforms. The hashtag becomes the trail people follow to join the trend.",
+    "summary": "Reposts and hashtags help viral challenges move quickly across social media.",
+    "categoryId": "internet-culture",
+    "topic": "Viral Challenges",
+    "tags": [
+      "internet culture",
+      "viral challenges",
+      "social media",
+      "reposts",
+      "hashtags"
+    ],
+    "readTimeSeconds": 42,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "viral-challenges-three-types",
+    "headline": "Viral Challenges Fall Into Different Types",
+    "body": "Not every viral challenge works the same way. The Falcon divides internet challenges into three categories: choreographed, stunt-based, and awareness-based. Choreographed challenges often involve groups and catchy songs, while stunt challenges can involve risky tasks. Awareness-based challenges try to boost attention for a cause. The same internet format can be silly, dangerous, or charitable.",
+    "summary": "Viral challenges can be dances, risky stunts, or awareness campaigns.",
+    "categoryId": "internet-culture",
+    "topic": "Viral Challenges",
+    "tags": [
+      "internet culture",
+      "viral challenges",
+      "dance challenges",
+      "stunts",
+      "awareness campaigns"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "viral-challenges-ice-bucket-donations",
+    "headline": "The Ice Bucket Challenge Turned a Dare Into Donations",
+    "body": "The ALS Ice Bucket Challenge showed that a viral challenge could do more than entertain. The Falcon says more than 17 million people joined the challenge, including celebrities such as Mark Zuckerberg, Oprah Winfrey, and Leonardo DiCaprio. According to the article, the ALS Association received more than $115 million in donations in 2014 alone. A freezing dare became a massive awareness and fundraising campaign.",
+    "summary": "The Ice Bucket Challenge turned a viral dare into major ALS awareness and donations.",
+    "categoryId": "internet-culture",
+    "topic": "Viral Challenges",
+    "tags": [
+      "internet culture",
+      "viral challenges",
+      "als ice bucket challenge",
+      "charity",
+      "social media"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "reddit-front-page-internet",
+    "headline": "Reddit Was Built as the Front Page of the Internet",
+    "body": "Reddit was originally designed to save people from visiting every news site separately. Britannica says it was meant to be a \"front page of the Internet,\" which was also its motto for some time. Users could submit the best articles from news outlets, journals, and other sites. The idea was simple: let the crowd surface what mattered most online.",
+    "summary": "Reddit began as a crowd-powered front page for interesting things on the Internet.",
+    "categoryId": "internet-culture",
+    "topic": "Reddit",
+    "tags": [
+      "internet culture",
+      "reddit",
+      "social media",
+      "news aggregation",
+      "internet history"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "reddit-upvotes-not-likes",
+    "headline": "Upvotes Are Not Supposed to Mean Likes",
+    "body": "Reddit’s voting system is not exactly the same as a like button. Britannica explains that Reddit instructs users to vote based on whether content should be promoted or demoted in a discussion, not simply whether they like or dislike it. Popular posts rise, but their popularity also decreases over time unless people keep upvoting them. Reddit turns attention into a constantly shifting ranking system.",
+    "summary": "Reddit upvotes are meant to promote useful discussion, not just show personal approval.",
+    "categoryId": "internet-culture",
+    "topic": "Reddit",
+    "tags": [
+      "internet culture",
+      "reddit",
+      "upvotes",
+      "social media",
+      "online forums"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "reddit-millions-subreddits",
+    "headline": "Reddit Is Made of Millions of Topic Forums",
+    "body": "Reddit is less like one giant room and more like millions of smaller rooms. Britannica says Reddit consists of millions of individual forums called subreddits, which are mostly user-created and organized by topic. They all begin with r/, from broad spaces like r/music to oddly specific ones like r/BreadStapledToTrees. The platform’s weirdness comes from how specific its communities can get.",
+    "summary": "Reddit is organized into millions of topic-based communities called subreddits.",
+    "categoryId": "internet-culture",
+    "topic": "Reddit",
+    "tags": [
+      "internet culture",
+      "reddit",
+      "subreddits",
+      "online communities",
+      "forums"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "reddit-real-time-news-machine",
+    "headline": "Reddit Can Become a Real-Time News Machine",
+    "body": "Reddit can turn into a live information hub during major events. Britannica says users often collaborate during breaking news, such as natural disasters or mass shootings, to build running timelines using eyewitness accounts, police scanners, news outlets, and other sources. That can make Reddit powerful, but also messy. A forum can become a crowd-built newsroom in real time.",
+    "summary": "Reddit users can collaborate to build real-time timelines during major events.",
+    "categoryId": "internet-culture",
+    "topic": "Reddit",
+    "tags": [
+      "internet culture",
+      "reddit",
+      "breaking news",
+      "crowdsourcing",
+      "online communities"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "livestreaming-real-time-online",
+    "headline": "Livestreaming Sends Events Online in Real Time",
+    "body": "Livestreaming is broadcasting for the internet age. IBM defines live streaming as transmitting video and audio content over the internet in real time or near real time. That can include concerts, sports broadcasts, product launches, webinars, video game streams, and more. Instead of waiting for an edited upload later, viewers can experience the event as it happens.",
+    "summary": "Livestreaming delivers video and audio online as an event is happening.",
+    "categoryId": "internet-culture",
+    "topic": "Livestreaming",
+    "tags": [
+      "internet culture",
+      "livestreaming",
+      "video",
+      "real time",
+      "internet"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "livestreaming-two-way-media",
+    "headline": "Livestreaming Can Be Two-Way Media",
+    "body": "Livestreaming is different from old-school broadcasting because the audience can often talk back. IBM explains that traditional broadcasting is mostly one-way communication, while live streaming can allow viewers to interact through chat, comments, and reactions. That changes the feeling of the event. A stream is not only watched; it can be participated in while it is happening.",
+    "summary": "Livestreaming often lets viewers react and comment while the event unfolds.",
+    "categoryId": "internet-culture",
+    "topic": "Livestreaming",
+    "tags": [
+      "internet culture",
+      "livestreaming",
+      "chat",
+      "comments",
+      "audience interaction"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "livestreaming-cdns-reduce-lag",
+    "headline": "CDNs Help Live Streams Reach Viewers Faster",
+    "body": "A live stream has to travel fast, especially when viewers are spread across the world. IBM explains that content delivery networks, or CDNs, store copies of content on servers closer to end users. Instead of every viewer connecting to one distant origin server, they can receive content from a nearby CDN server. That helps reduce lag, load times, bandwidth costs, and buffering problems.",
+    "summary": "CDNs make livestreaming smoother by serving content from servers closer to viewers.",
+    "categoryId": "internet-culture",
+    "topic": "Livestreaming",
+    "tags": [
+      "internet culture",
+      "livestreaming",
+      "cdn",
+      "latency",
+      "streaming technology"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "livestreaming-severe-tire-damage",
+    "headline": "One Early Livestream Was a Garage Rock Concert",
+    "body": "One of the earliest successful livestreams was not a giant media event. IBM says it was a 1993 concert by the band Severe Tire Damage, streamed during the early days of internet video experiments. Engineers were testing whether live video broadcasts online could work despite slow speeds, limited bandwidth, and poor video quality. Internet livestreaming started with a garage rock band proving the tech was possible.",
+    "summary": "An early successful livestream was a 1993 concert by Severe Tire Damage.",
+    "categoryId": "internet-culture",
+    "topic": "Livestreaming",
+    "tags": [
+      "internet culture",
+      "livestreaming",
+      "severe tire damage",
+      "early internet",
+      "streaming"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "internet-slang-pre-internet-roots",
+    "headline": "Internet Slang Has Pre-Internet Roots",
+    "body": "Internet slang feels modern, but some of its habits came from older media. McNutt & Partners notes that radio, phones, and TV helped shape short forms and catchphrases before online chat took over. Radio used brief codes like 10-4, phones gave us phrases like \"Give me the 4-1-1,\" and TV popularized words such as \"d'oh.\" The internet inherited a long tradition of fast, situational language.",
+    "summary": "Internet slang grew from older shortcuts used in radio, phones, and TV.",
+    "categoryId": "internet-culture",
+    "topic": "Internet Slang",
+    "tags": [
+      "internet culture",
+      "internet slang",
+      "online language",
+      "radio",
+      "television"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "internet-slang-lol-spoken",
+    "headline": "LOL Started Online Before Becoming Spoken Language",
+    "body": "LOL is one of the most recognizable pieces of internet slang. McNutt & Partners says LOL had surfaced by 1989 as a way to mean \"laughing out loud.\" It is still used online, but it also jumped into spoken language, with people saying \"LOL\" out loud to show something is funny. A typed shortcut became a word people could actually speak.",
+    "summary": "LOL began as an online shortcut and later moved into spoken conversation.",
+    "categoryId": "internet-culture",
+    "topic": "Internet Slang",
+    "tags": [
+      "internet culture",
+      "internet slang",
+      "lol",
+      "online language",
+      "acronyms"
+    ],
+    "readTimeSeconds": 45,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "internet-slang-missing-emotion",
+    "headline": "Internet Slang Helped Replace Missing Body Language",
+    "body": "Early internet communication had a problem: people could type words, but they could not easily show physical emotion. McNutt & Partners says that before FaceTime and Skype, users wrote things like *smiles* or *shrugs* to show emotive action. Acronyms such as LOL and ROFL later helped express reactions quickly. Internet slang helped fill the emotional gaps left by text-only communication.",
+    "summary": "Internet slang helped people show emotion when online messages lacked facial expressions and gestures.",
+    "categoryId": "internet-culture",
+    "topic": "Internet Slang",
+    "tags": [
+      "internet culture",
+      "internet slang",
+      "online communication",
+      "emotion",
+      "texting"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "internet-slang-fast-evolution",
+    "headline": "Internet Slang Changes as Fast as People Message",
+    "body": "Internet slang moves quickly because online communication moves quickly. McNutt & Partners notes that many older acronyms from MSN and AOL messenger days, such as G2G, BRB, and TTYL, have faded as new generations created their own ways of talking online. The article argues that internet speech evolves as quickly as people can trade messages. Today’s slang can become tomorrow’s time capsule.",
+    "summary": "Internet slang changes fast because each generation invents new ways to talk online.",
+    "categoryId": "internet-culture",
+    "topic": "Internet Slang",
+    "tags": [
+      "internet culture",
+      "internet slang",
+      "aol",
+      "msn",
+      "online language"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
