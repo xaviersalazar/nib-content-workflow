@@ -14580,5 +14580,974 @@
     "funScore": 10,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "levers-multiply-force-distance",
+    "headline": "A Lever Multiplies Force With Distance",
+    "body": "A lever is one of the simplest ways to make a small force do bigger work. Britannica explains that a lever turns around a fulcrum and can multiply the force applied at one point to overcome a heavier load at another point. If one side of the lever is five times longer than the other, the applied force can be multiplied five times. The tradeoff is distance: you move farther so the load can move with more force.",
+    "summary": "A lever multiplies force by using distance around a pivot point called a fulcrum.",
+    "categoryId": "engineering",
+    "topic": "Levers",
+    "tags": [
+      "engineering",
+      "levers",
+      "simple machines",
+      "fulcrum",
+      "mechanical advantage"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "levers-ancient-water-lifters",
+    "headline": "Ancient Water Lifters Used Lever Power",
+    "body": "Levers were useful long before modern engineering. Britannica says the lever principle was used in the swape, or shaduf, a long lever with a water container on one arm and counterweights on the other. A person could lift several times their own weight by pulling down on the long arm. Devices like this were used in Egypt and India for raising water as early as 1500 bc.",
+    "summary": "Ancient shadufs used lever action and counterweights to lift water more easily.",
+    "categoryId": "engineering",
+    "topic": "Levers",
+    "tags": [
+      "engineering",
+      "levers",
+      "shaduf",
+      "ancient egypt",
+      "simple machines"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "levers-balance-beams",
+    "headline": "Balance Beams Were Early Lever Machines",
+    "body": "Some of the oldest lever machines helped people measure weight. Britannica says a balance beam probably used in Egypt around 5000 bc had a bar pivoted at its center. Weights were hung on one end to balance an object on the other. The same basic lever principle that can lift a rock can also compare weight with surprising precision.",
+    "summary": "Ancient balance beams used a center pivot to compare the weight of objects.",
+    "categoryId": "engineering",
+    "topic": "Levers",
+    "tags": [
+      "engineering",
+      "levers",
+      "balance beam",
+      "ancient egypt",
+      "measurement"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pulleys-flexible-motion",
+    "headline": "Pulleys Move Power Through Flexible Loops",
+    "body": "A pulley looks simple, but it can redirect motion and transmit power. Britannica defines a pulley as a wheel that carries a flexible rope, cord, cable, chain, or belt on its rim. Pulleys can be used alone or together to transmit energy and motion. In belt drives, belts run over pulleys to move power between rotating shafts.",
+    "summary": "Pulleys use wheels and flexible materials to redirect motion and transmit power.",
+    "categoryId": "engineering",
+    "topic": "Pulleys",
+    "tags": [
+      "engineering",
+      "pulleys",
+      "simple machines",
+      "belt drive",
+      "motion"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pulleys-block-and-tackle",
+    "headline": "A Block and Tackle Combines Pulleys for Strength",
+    "body": "Pulleys become more powerful when they work together. Britannica explains that one or more independently rotating pulleys can be used to gain mechanical advantage, especially when lifting weights. A combination of pulleys, blocks, and rope or another flexible material is called a block and tackle. By sharing the load across multiple rope sections, the system makes heavy lifting easier.",
+    "summary": "A block and tackle combines pulleys and rope to create mechanical advantage for lifting.",
+    "categoryId": "engineering",
+    "topic": "Pulleys",
+    "tags": [
+      "engineering",
+      "pulleys",
+      "block and tackle",
+      "mechanical advantage",
+      "lifting"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pulleys-archimedes-ship",
+    "headline": "Archimedes Reportedly Pulled a Ship With Pulleys",
+    "body": "One famous pulley story shows how impressive simple machines can be. Britannica says Archimedes is reported to have used compound pulleys in the 3rd century bc to pull a ship onto dry land. Whether remembered as legend or demonstration, the point is clear: a clever pulley system can turn manageable force into heavy movement. Ancient engineering could feel almost magical.",
+    "summary": "Archimedes is reported to have used compound pulleys to pull a ship onto dry land.",
+    "categoryId": "engineering",
+    "topic": "Pulleys",
+    "tags": [
+      "engineering",
+      "pulleys",
+      "archimedes",
+      "compound pulleys",
+      "ancient engineering"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "wheels-oldest-wooden-disks",
+    "headline": "The Oldest Wheels Were Wooden Disks",
+    "body": "The first wheels were not sleek metal circles with spokes. Britannica says the oldest known wheels were wooden disks made from three carved planks clamped together by transverse struts. A Sumerian pictograph from about 3500 bc shows a sledge fitted with wheels, suggesting wheeled transport was already being imagined or used. Early wheels were simple, heavy, and revolutionary.",
+    "summary": "The oldest known wheels were solid wooden disks made from carved planks.",
+    "categoryId": "engineering",
+    "topic": "Wheels",
+    "tags": [
+      "engineering",
+      "wheels",
+      "ancient technology",
+      "sumer",
+      "simple machines"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "wheels-pottery-turntable",
+    "headline": "Pottery Wheels Appeared as Early as Transport Wheels",
+    "body": "Wheels did more than move carts. Britannica says the use of a wheel, or turntable, for pottery had developed in Mesopotamia by 3500 bc. That means early wheel technology was not only about transportation, but also about shaping materials with controlled rotation. The same circular motion that helped move loads also helped artisans make smoother, more consistent pottery.",
+    "summary": "Pottery turntables were already being used in Mesopotamia by about 3500 bc.",
+    "categoryId": "engineering",
+    "topic": "Wheels",
+    "tags": [
+      "engineering",
+      "wheels",
+      "pottery wheel",
+      "mesopotamia",
+      "ancient technology"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "wheels-continuous-rotary-motion",
+    "headline": "Wheels Made Continuous Machine Motion Possible",
+    "body": "The wheel changed engineering because it made controlled rotary motion possible. Britannica says this was decisively important in machine design, especially for rotating machines that performed repetitive operations during the Industrial Revolution. Unlike linear motion, which must reverse direction, rotary motion can continue smoothly in one direction. That made wheels central to mills, engines, factories, and modern machines.",
+    "summary": "Wheels made continuous rotary motion possible, which became crucial to machine design.",
+    "categoryId": "engineering",
+    "topic": "Wheels",
+    "tags": [
+      "engineering",
+      "wheels",
+      "rotary motion",
+      "industrial revolution",
+      "machines"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gears-speed-torque-tradeoff",
+    "headline": "Gears Trade Speed for Torque",
+    "body": "Gears are mechanical tradeoff machines. Britannica explains that gears work in pairs to transmit and modify rotary motion and torque without slipping. If a small gear drives a larger gear, the pair reduces speed and increases torque; if the small gear is driven by the larger one, it increases speed and reduces torque. That is why gears are so useful in machines that need different kinds of motion.",
+    "summary": "Gears can trade speed for torque depending on which gear drives the pair.",
+    "categoryId": "engineering",
+    "topic": "Gears",
+    "tags": [
+      "engineering",
+      "gears",
+      "torque",
+      "rotary motion",
+      "machines"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gears-teeth-prevent-slip",
+    "headline": "Gear Teeth Keep Motion From Slipping",
+    "body": "Gears work because their teeth physically lock motion together. Britannica defines a gear as a toothed wheel attached to a rotating shaft, with one gear’s teeth engaging the teeth of another. That contact lets gears transmit rotary motion and torque without slip. Unlike smooth wheels or belts, properly shaped gear teeth keep timing and motion tightly connected.",
+    "summary": "Gear teeth mesh together so rotary motion can transfer without slipping.",
+    "categoryId": "engineering",
+    "topic": "Gears",
+    "tags": [
+      "engineering",
+      "gears",
+      "gear teeth",
+      "shafts",
+      "motion transfer"
+    ],
+    "readTimeSeconds": 46,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gears-worm-big-ratio",
+    "headline": "Worm Gears Can Create Huge Speed Changes",
+    "body": "Some gears are built for extreme speed changes in a compact space. Britannica explains that a worm gear works because the worm resembles a screw, and it may have only one thread, or tooth. This makes worm-and-gear systems well suited for producing a large speed ratio in a single gear pair. A screw-like gear can turn fast motion into slow, powerful movement.",
+    "summary": "Worm gears use a screw-like shape to create large speed changes in one gear pair.",
+    "categoryId": "engineering",
+    "topic": "Gears",
+    "tags": [
+      "engineering",
+      "gears",
+      "worm gear",
+      "speed ratio",
+      "mechanical advantage"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "wheels-oldest-wooden-disks",
+    "headline": "The Oldest Wheels Were Wooden Disks",
+    "body": "The first wheels were not sleek metal circles with spokes. Britannica says the oldest known wheels were wooden disks made from three carved planks clamped together by transverse struts. A Sumerian pictograph from about 3500 bc shows a sledge fitted with wheels, suggesting wheeled transport was already being imagined or used. Early wheels were simple, heavy, and revolutionary.",
+    "summary": "The oldest known wheels were solid wooden disks made from carved planks.",
+    "categoryId": "engineering",
+    "topic": "Wheels",
+    "tags": [
+      "engineering",
+      "wheels",
+      "ancient technology",
+      "sumer",
+      "simple machines"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "wheels-pottery-turntable",
+    "headline": "Pottery Wheels Appeared as Early as Transport Wheels",
+    "body": "Wheels did more than move carts. Britannica says the use of a wheel, or turntable, for pottery had developed in Mesopotamia by 3500 bc. That means early wheel technology was not only about transportation, but also about shaping materials with controlled rotation. The same circular motion that helped move loads also helped artisans make smoother, more consistent pottery.",
+    "summary": "Pottery turntables were already being used in Mesopotamia by about 3500 bc.",
+    "categoryId": "engineering",
+    "topic": "Wheels",
+    "tags": [
+      "engineering",
+      "wheels",
+      "pottery wheel",
+      "mesopotamia",
+      "ancient technology"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "wheels-continuous-rotary-motion",
+    "headline": "Wheels Made Continuous Machine Motion Possible",
+    "body": "The wheel changed engineering because it made controlled rotary motion possible. Britannica says this was decisively important in machine design, especially for rotating machines that performed repetitive operations during the Industrial Revolution. Unlike linear motion, which must reverse direction, rotary motion can continue smoothly in one direction. That made wheels central to mills, engines, factories, and modern machines.",
+    "summary": "Wheels made continuous rotary motion possible, which became crucial to machine design.",
+    "categoryId": "engineering",
+    "topic": "Wheels",
+    "tags": [
+      "engineering",
+      "wheels",
+      "rotary motion",
+      "industrial revolution",
+      "machines"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gears-speed-torque-tradeoff",
+    "headline": "Gears Trade Speed for Torque",
+    "body": "Gears are mechanical tradeoff machines. Britannica explains that gears work in pairs to transmit and modify rotary motion and torque without slipping. If a small gear drives a larger gear, the pair reduces speed and increases torque; if the small gear is driven by the larger one, it increases speed and reduces torque. That is why gears are so useful in machines that need different kinds of motion.",
+    "summary": "Gears can trade speed for torque depending on which gear drives the pair.",
+    "categoryId": "engineering",
+    "topic": "Gears",
+    "tags": [
+      "engineering",
+      "gears",
+      "torque",
+      "rotary motion",
+      "machines"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gears-teeth-prevent-slip",
+    "headline": "Gear Teeth Keep Motion From Slipping",
+    "body": "Gears work because their teeth physically lock motion together. Britannica defines a gear as a toothed wheel attached to a rotating shaft, with one gear’s teeth engaging the teeth of another. That contact lets gears transmit rotary motion and torque without slip. Unlike smooth wheels or belts, properly shaped gear teeth keep timing and motion tightly connected.",
+    "summary": "Gear teeth mesh together so rotary motion can transfer without slipping.",
+    "categoryId": "engineering",
+    "topic": "Gears",
+    "tags": [
+      "engineering",
+      "gears",
+      "gear teeth",
+      "shafts",
+      "motion transfer"
+    ],
+    "readTimeSeconds": 46,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gears-worm-big-ratio",
+    "headline": "Worm Gears Can Create Huge Speed Changes",
+    "body": "Some gears are built for extreme speed changes in a compact space. Britannica explains that a worm gear works because the worm resembles a screw, and it may have only one thread, or tooth. This makes worm-and-gear systems well suited for producing a large speed ratio in a single gear pair. A screw-like gear can turn fast motion into slow, powerful movement.",
+    "summary": "Worm gears use a screw-like shape to create large speed changes in one gear pair.",
+    "categoryId": "engineering",
+    "topic": "Gears",
+    "tags": [
+      "engineering",
+      "gears",
+      "worm gear",
+      "speed ratio",
+      "mechanical advantage"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "concrete-not-cement",
+    "headline": "Concrete Is Not the Same as Cement",
+    "body": "People often call sidewalks cement, but that is not quite right. Britannica explains that concrete is made from aggregate, usually sand and gravel, bonded together by cement and water. Cement is the ingredient that binds the mixture, while concrete is the finished building material. So the sidewalk is concrete, and cement is only part of the recipe.",
+    "summary": "Concrete is the finished material, while cement is just one ingredient that binds it together.",
+    "categoryId": "engineering",
+    "topic": "Concrete",
+    "tags": [
+      "engineering",
+      "concrete",
+      "cement",
+      "building materials",
+      "construction"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "concrete-less-water-stronger",
+    "headline": "Less Water Can Make Concrete Stronger",
+    "body": "Concrete strength depends heavily on how much water is in the mix. Britannica says that in ordinary structural concrete, the lower the water content, all else being equal, the stronger the concrete. But the mixture still needs enough water to surround every aggregate particle and make the concrete pourable. Too much water can weaken the final structure, while too little makes it hard to work with.",
+    "summary": "Concrete is generally stronger with less water, but it still needs enough to mix and pour properly.",
+    "categoryId": "engineering",
+    "topic": "Concrete",
+    "tags": [
+      "engineering",
+      "concrete",
+      "water cement ratio",
+      "strength",
+      "construction"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "concrete-steel-reinforcement",
+    "headline": "Steel Gives Concrete Its Missing Strength",
+    "body": "Concrete is strong in compression but weak against pulling and bending forces. Britannica explains that reinforced concrete uses steel rods, bars, or mesh to add tensile strength. The concrete handles compression, while the steel helps resist tension from wind, earthquakes, vibration, and bending. Together, the two materials make structures possible that plain concrete could not safely handle alone.",
+    "summary": "Reinforced concrete combines concrete’s compressive strength with steel’s tensile strength.",
+    "categoryId": "engineering",
+    "topic": "Concrete",
+    "tags": [
+      "engineering",
+      "concrete",
+      "reinforced concrete",
+      "steel",
+      "structural engineering"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hydraulics-pressure-everywhere",
+    "headline": "Hydraulics Sends Pressure Everywhere at Once",
+    "body": "Hydraulics works because liquids transmit pressure through a confined space. Britannica explains that Pascal’s principle, formulated around 1650, says pressure applied to a liquid in a closed container is transmitted equally in all directions. That means a push in one place can create useful force somewhere else in the same system. Hydraulic machines turn trapped liquid into a force messenger.",
+    "summary": "Pascal’s principle says pressure in a closed liquid is transmitted equally in all directions.",
+    "categoryId": "engineering",
+    "topic": "Hydraulics",
+    "tags": [
+      "engineering",
+      "hydraulics",
+      "pascals principle",
+      "fluid mechanics",
+      "pressure"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hydraulics-small-piston-big-load",
+    "headline": "Small Pistons Can Lift Huge Loads",
+    "body": "Hydraulic systems can turn a small force into a much larger one. Britannica explains that in a hydraulic press, a small force applied to a small piston is transmitted through liquid to a larger cylinder and piston. Because the larger piston has more area, the same pressure creates a larger force. That is how a relatively small input can help lift something as heavy as a car.",
+    "summary": "A hydraulic press uses piston area differences to multiply force.",
+    "categoryId": "engineering",
+    "topic": "Hydraulics",
+    "tags": [
+      "engineering",
+      "hydraulics",
+      "hydraulic press",
+      "pistons",
+      "mechanical advantage"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hydraulics-modern-fluid-power",
+    "headline": "Modern Machines Run on Fluid Power",
+    "body": "Hydraulics is hidden inside many powerful machines. Britannica says hydraulic power systems are used across industrial, agricultural, and defense activity. Aircraft use hydraulics for controls, landing gear, and brakes, while automobiles use hydraulic systems in transmissions, brakes, and steering. Fluid power became a major way to move force through machines with flexibility and control.",
+    "summary": "Hydraulic power systems help operate aircraft, automobiles, machinery, and industrial equipment.",
+    "categoryId": "engineering",
+    "topic": "Hydraulics",
+    "tags": [
+      "engineering",
+      "hydraulics",
+      "fluid power",
+      "machines",
+      "aircraft"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dams-many-purposes",
+    "headline": "One Dam Can Serve Many Purposes",
+    "body": "A dam is more than a wall holding back water. Britannica explains that dams can provide drinking water, irrigate dry land, support industrial processes, generate hydroelectric power, reduce flood peaks, improve navigation, and create lakes for recreation. Many dams are designed for more than one of these jobs at the same time. That is why a single reservoir can become part power plant, part water bank, part flood-control system, and part public lake.",
+    "summary": "Many dams are multipurpose structures that store, control, and redirect water for several human needs.",
+    "categoryId": "engineering",
+    "topic": "Dams",
+    "tags": [
+      "engineering",
+      "dams",
+      "reservoirs",
+      "hydroelectric power",
+      "water control"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dams-oldest-known-jordan",
+    "headline": "The Oldest Known Dam Was Built in Ancient Jordan",
+    "body": "Dam engineering goes back thousands of years. Britannica says the oldest known dam in the world is a masonry and earthen embankment at Jawa in the Black Desert of modern Jordan. It was built in the 4th millennium bce to hold back a small stream and support irrigation downstream. Long before modern concrete megaprojects, people were already reshaping water to grow food.",
+    "summary": "The oldest known dam was built at Jawa in modern Jordan during the 4th millennium bce.",
+    "categoryId": "engineering",
+    "topic": "Dams",
+    "tags": [
+      "engineering",
+      "dams",
+      "ancient engineering",
+      "jordan",
+      "irrigation"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dams-spillways-prevent-failure",
+    "headline": "Spillways Help Keep Dams From Failing",
+    "body": "A dam also needs a safe way to release extra water. Britannica notes that auxiliary works such as spillways, gates, and valves help control surplus water downstream. One ancient Egyptian dam, Sadd el-Kafara, failed shortly after completion when floodwater overtopped it because it lacked a spillway that could resist erosion. The lesson is simple: storing water is only half the engineering problem; safely releasing it matters too.",
+    "summary": "Spillways help dams survive floods by giving excess water a controlled path downstream.",
+    "categoryId": "engineering",
+    "topic": "Dams",
+    "tags": [
+      "engineering",
+      "dams",
+      "spillways",
+      "flood control",
+      "dam safety"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "steel-iron-carbon-alloy",
+    "headline": "Steel Is Iron Transformed by Carbon",
+    "body": "Steel begins with iron, but carbon changes everything. Britannica defines steel as an alloy of iron and carbon, with carbon content up to 2 percent. The source also notes that when iron is combined with carbon, it changes character completely and becomes steel. A small amount of another element can turn a common metal into one of engineering’s most useful materials.",
+    "summary": "Steel is an iron-carbon alloy, and carbon dramatically changes how iron behaves.",
+    "categoryId": "engineering",
+    "topic": "Steel",
+    "tags": [
+      "engineering",
+      "steel",
+      "iron",
+      "carbon",
+      "metallurgy"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "steel-builds-almost-everything",
+    "headline": "Steel Builds Almost Everything",
+    "body": "Steel is one of the backbone materials of modern life. Britannica says it is by far the most widely used material for building the world’s infrastructure and industries. It is used for everything from sewing needles to oil tankers, and even many of the tools used to manufacture those objects are made of steel. Few materials cover such a huge range of size, strength, and purpose.",
+    "summary": "Steel is used across infrastructure, industry, tools, ships, and tiny everyday objects.",
+    "categoryId": "engineering",
+    "topic": "Steel",
+    "tags": [
+      "engineering",
+      "steel",
+      "infrastructure",
+      "materials",
+      "manufacturing"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "steel-strength-through-control",
+    "headline": "Steel’s Strength Comes From Control",
+    "body": "Steel is useful because engineers can tune it in many ways. Britannica says steel’s popularity comes partly from its unparalleled range of mechanical properties. Those properties depend on factors such as carbon content, heat-treating, alloying, and testing. By changing ingredients and processing, metallurgists can make steels suited for bridges, tools, bearings, electrical equipment, stainless products, and wear-resistant parts.",
+    "summary": "Steel can be tuned through composition and treatment to fit many different engineering jobs.",
+    "categoryId": "engineering",
+    "topic": "Steel",
+    "tags": [
+      "engineering",
+      "steel",
+      "alloys",
+      "heat treating",
+      "materials science"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "bearings-smooth-machine-motion",
+    "headline": "Bearings Let Machine Parts Move Smoothly",
+    "body": "Bearings are small machine parts with a huge job. Britannica defines a bearing as a connector or support that lets connected parts rotate or move in a straight line relative to one another. Many bearings support rotating shafts against sideways radial loads or pushing axial loads. Without bearings, moving parts would rub, wear down faster, and waste more energy through friction.",
+    "summary": "Bearings support moving machine parts so they can rotate or slide with less friction.",
+    "categoryId": "engineering",
+    "topic": "Bearings",
+    "tags": [
+      "engineering",
+      "bearings",
+      "machines",
+      "shafts",
+      "friction"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "bearings-rolling-friction",
+    "headline": "Ball Bearings Replace Sliding With Rolling",
+    "body": "One way bearings reduce friction is by changing how surfaces touch. Britannica explains that bearing surfaces may be separated by balls or rollers, which are known as rolling bearings. Instead of two surfaces sliding directly against each other, rolling elements carry the load while turning. That simple idea helps machines move more smoothly and efficiently.",
+    "summary": "Rolling bearings use balls or rollers to reduce sliding contact between machine parts.",
+    "categoryId": "engineering",
+    "topic": "Bearings",
+    "tags": [
+      "engineering",
+      "bearings",
+      "ball bearings",
+      "roller bearings",
+      "friction"
+    ],
+    "readTimeSeconds": 46,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "bearings-oil-film",
+    "headline": "Some Bearings Ride on a Film of Oil",
+    "body": "Some bearings work by keeping metal surfaces from touching at all. Britannica says sliding bearings can separate contacting surfaces with a film of liquid, usually oil, or sometimes gas. Under the right load, speed, viscosity, and geometry, a hydrodynamic film forms and keeps the surfaces apart. In other systems, pressurized oil is pumped in to create a hydrostatic film.",
+    "summary": "Some bearings reduce friction by floating moving surfaces on a thin film of oil or gas.",
+    "categoryId": "sports",
+    "topic": "Bearings",
+    "tags": [
+      "engineering",
+      "bearings",
+      "oil film",
+      "lubrication",
+      "hydrodynamic film"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hydroelectric-power-falling-water",
+    "headline": "Falling Water Can Become Electricity",
+    "body": "Hydroelectric power turns moving water into usable electricity. Britannica explains that generators are driven by turbines that convert the potential energy of falling or fast-flowing water into mechanical energy. The turbine spins, the generator converts that motion into electricity, and transformers raise the voltage for long-distance transmission. Gravity becomes motion, and motion becomes power.",
+    "summary": "Hydroelectric plants use falling or fast-flowing water to spin turbines and generate electricity.",
+    "categoryId": "engineering",
+    "topic": "Hydroelectric Power",
+    "tags": [
+      "engineering",
+      "hydroelectric power",
+      "turbines",
+      "generators",
+      "renewable energy"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hydroelectric-power-head-height",
+    "headline": "More Height Means More Hydropower",
+    "body": "In hydropower, height matters. Britannica explains that water stored at a higher elevation is led downward through pipes or tunnels called penstocks, and the elevation difference is called the head. The potential power from a volume of water is directly proportional to this working head. A high-head installation can produce the same power with less water than a low-head one.",
+    "summary": "Hydroelectric power depends partly on head, the height difference water falls before reaching turbines.",
+    "categoryId": "engineering",
+    "topic": "Hydroelectric Power",
+    "tags": [
+      "engineering",
+      "hydroelectric power",
+      "head",
+      "penstocks",
+      "dams"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hydroelectric-power-water-battery",
+    "headline": "Pumped Storage Works Like a Water Battery",
+    "body": "Some hydropower stations store energy by moving water uphill. Britannica explains that during off-peak periods, extra power can run a generator like a motor, driving a turbine to pump water into an elevated reservoir. During peak demand, the water flows back down through the turbine to generate electricity again. It is basically a giant rechargeable battery made of water and gravity.",
+    "summary": "Pumped-storage hydropower stores energy by pumping water uphill, then releasing it when power is needed.",
+    "categoryId": "engineering",
+    "topic": "Hydroelectric Power",
+    "tags": [
+      "engineering",
+      "hydroelectric power",
+      "pumped storage",
+      "renewable energy",
+      "energy storage"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tunnels-under-euphrates",
+    "headline": "Ancient Engineers Built a Tunnel Under the Euphrates",
+    "body": "Tunnel engineering is far older than modern subways. Britannica says a brick-lined pedestrian passage about 3,000 feet long was built under the Euphrates River around 2180 to 2160 bce. It connected a royal palace with a temple, and construction was done by diverting the river during the dry season. Ancient builders were already solving problems that still challenge tunnel engineers today.",
+    "summary": "Ancient builders created a brick-lined tunnel under the Euphrates River more than 4,000 years ago.",
+    "categoryId": "engineering",
+    "topic": "Tunnels",
+    "tags": [
+      "engineering",
+      "tunnels",
+      "ancient engineering",
+      "euphrates",
+      "babylonia"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tunnels-shield-underwater",
+    "headline": "Shields Made Underwater Tunnels Possible",
+    "body": "For a long time, tunneling under rivers was considered impossible. Britannica says that changed when Marc Brunel developed a protective shield in England. Brunel and his son Isambard used it in 1825 on the Wapping-Rotherhithe Tunnel under the Thames River. After flooding, delays, and years of work, they completed the world’s first true subaqueous tunnel in 1841.",
+    "summary": "Protective tunneling shields helped engineers build the first true tunnel under a river.",
+    "categoryId": "engineering",
+    "topic": "Tunnels",
+    "tags": [
+      "engineering",
+      "tunnels",
+      "thames tunnel",
+      "marc brunel",
+      "subaqueous tunnel"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tunnels-boring-machines-speed",
+    "headline": "Tunnel Boring Machines Changed Digging Speed",
+    "body": "Modern tunneling became much faster when machines began cutting the ground directly. Britannica says the first modern tunnel boring machines, or moles, were developed at Oahe Dam in South Dakota in the 1950s. Since 1960, these machines have been widely adopted and increased tunneling speeds from about 25 to 50 feet per day to several hundred feet per day. A rotating machine turned tunneling into a faster industrial process.",
+    "summary": "Tunnel boring machines helped increase tunneling speeds from dozens to hundreds of feet per day.",
+    "categoryId": "engineering",
+    "topic": "Tunnels",
+    "tags": [
+      "engineering",
+      "tunnels",
+      "tunnel boring machines",
+      "tbms",
+      "excavation"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "suspension-bridges-upside-down-arch",
+    "headline": "A Suspension Bridge Is Like an Upside-Down Arch",
+    "body": "A suspension bridge carries weight in a surprisingly elegant way. Britannica explains that vertical loads travel through curved cables in tension, then into towers and anchorages. The towers carry compression down into the ground, while the anchorages resist the pull of the cables. In simple terms, a suspension bridge can be viewed as an upside-down arch made of tension.",
+    "summary": "A suspension bridge works like an upside-down arch, using cable tension and tower compression.",
+    "categoryId": "engineering",
+    "topic": "Suspension Bridges",
+    "tags": [
+      "engineering",
+      "suspension bridges",
+      "bridges",
+      "tension",
+      "compression"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "suspension-bridges-spun-cables",
+    "headline": "Bridge Cables Are Spun From Thousands of Wires",
+    "body": "The main cables of a suspension bridge are not usually one giant rope. Britannica says modern suspension bridge cables are generally made of thousands of steel wires spun together at the construction site. Rope pulleys carry each wire across the towers to the opposite anchorage and back, and the wires are then bundled and covered to prevent corrosion. Huge bridges rely on many tiny strands working together.",
+    "summary": "Modern suspension bridge cables are often spun from thousands of steel wires bundled together.",
+    "categoryId": "engineering",
+    "topic": "Suspension Bridges",
+    "tags": [
+      "engineering",
+      "suspension bridges",
+      "cables",
+      "steel wires",
+      "bridge construction"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "suspension-bridges-tacoma-narrows",
+    "headline": "Tacoma Narrows Changed Bridge Aerodynamics",
+    "body": "One famous bridge failure changed how engineers thought about wind. Britannica says the Tacoma Narrows Bridge failed in 1940 under aerodynamic forces after engineers had experimented with a narrow solid girder instead of a web truss. The collapse pushed designers back toward more stable stiffening systems. Later, aerodynamically stable box girders became an important solution for modern suspension bridges.",
+    "summary": "The Tacoma Narrows collapse helped engineers take bridge aerodynamics much more seriously.",
+    "categoryId": "engineering",
+    "topic": "Suspension Bridges",
+    "tags": [
+      "engineering",
+      "suspension bridges",
+      "tacoma narrows",
+      "aerodynamics",
+      "bridge design"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cranes-lift-and-shift-sideways",
+    "headline": "Cranes Lift and Move Loads Sideways",
+    "body": "A crane does more than lift something straight up. Britannica defines cranes as machines that lift heavy objects and also shift them horizontally. That makes them different from hoists, passenger elevators, and other devices mainly designed for vertical lifting. A crane is useful because it can pick up a load, move it across a work area, and place it somewhere else.",
+    "summary": "Cranes are designed to lift heavy objects and move them horizontally across a work area.",
+    "categoryId": "engineering",
+    "topic": "Cranes",
+    "tags": [
+      "engineering",
+      "cranes",
+      "materials handling",
+      "lifting machines",
+      "construction"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cranes-boom-pulley-system",
+    "headline": "A Crane Boom Uses Pulleys to Lift Loads",
+    "body": "Many cranes use a long reinforced beam called a jib or boom. Britannica explains that a pulley system runs along the jib, with cables or chains wound around a motor-driven drum at the base. The cable drops from the top of the jib, attaches to the load, and lifts it vertically. The boom can also pivot around the mast, letting the crane move loads side to side.",
+    "summary": "A crane boom uses cables, pulleys, and a drum to lift and position heavy loads.",
+    "categoryId": "engineering",
+    "topic": "Cranes",
+    "tags": [
+      "engineering",
+      "cranes",
+      "pulleys",
+      "boom",
+      "jib crane"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cranes-ballast-stability",
+    "headline": "Heavy Cranes Need Ballast to Avoid Tipping",
+    "body": "Cranes have to fight gravity in more than one direction. Britannica says stability problems always arise with jib cranes, especially when large cranes lift heavy loads far from the base. To prevent tipping, cranes may use machinery placement to counterbalance part of the load and add special ballast weights. A crane is not just strong; it has to stay balanced while holding weight out in space.",
+    "summary": "Large cranes often need counterweights and ballast to keep from tipping under heavy loads.",
+    "categoryId": "engineering",
+    "topic": "Cranes",
+    "tags": [
+      "engineering",
+      "cranes",
+      "ballast",
+      "counterweight",
+      "stability"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "elevators-otis-safety-brake",
+    "headline": "A Safety Brake Made Passenger Elevators Possible",
+    "body": "Passenger elevators depended on trust before people would ride them. Britannica says Elisha Graves Otis introduced a safety device in 1853 that gripped the guide rails if tension was released from the hoist rope. Before that, unreliable hemp ropes made lifting platforms risky for passengers. Otis’s safety brake helped turn elevators from freight equipment into something people could use.",
+    "summary": "Elisha Otis’s 1853 safety device made passenger elevators practical and trustworthy.",
+    "categoryId": "engineering",
+    "topic": "Elevators",
+    "tags": [
+      "engineering",
+      "elevators",
+      "elisha otis",
+      "safety brake",
+      "vertical transport"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "elevators-created-skylines",
+    "headline": "Elevators Helped Create Modern City Skylines",
+    "body": "The elevator changed the shape of cities. Britannica says elevators played a decisive role in creating the characteristic urban geography of many modern cities, especially in the United States. By making higher buildings practical, elevators helped cities grow upward instead of only outward. Skyscrapers are as much a vertical transportation story as they are an architecture story.",
+    "summary": "Elevators made tall buildings practical and helped shape modern city skylines.",
+    "categoryId": "engineering",
+    "topic": "Elevators",
+    "tags": [
+      "engineering",
+      "elevators",
+      "skyscrapers",
+      "cities",
+      "high-rise buildings"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "elevators-traction-drive-height",
+    "headline": "Traction Drives Let Elevators Rise Higher",
+    "body": "Early elevators were limited by winding drums, but traction drives changed that. Britannica explains that in 1895 a system applied power to the sheave, or pulley, at the top of the shaft. Because the car and counterweight provided traction, the mechanism removed the limitations of winding drums and allowed taller shafts and greater speeds. A better drive system helped elevators climb into the skyscraper age.",
+    "summary": "Traction-drive elevators removed winding-drum limits and made taller, faster elevator travel possible.",
+    "categoryId": "engineering",
+    "topic": "Elevators",
+    "tags": [
+      "engineering",
+      "elevators",
+      "traction drive",
+      "sheaves",
+      "skyscrapers"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "earthquake-engineering-not-damage-proof",
+    "headline": "Earthquake-Resistant Buildings Are Not Damage-Proof",
+    "body": "Earthquake engineering is not always about keeping a building perfectly unharmed. Britannica describes earthquake-resistant structures as buildings designed to prevent total collapse, preserve life, and minimize damage during an earthquake or tremor. That means some structural damage may be acceptable if the building stays standing long enough to protect people. The goal is survival first, perfection second.",
+    "summary": "Earthquake-resistant buildings are designed mainly to prevent collapse, preserve life, and reduce damage.",
+    "categoryId": "engineering",
+    "topic": "Earthquake Engineering",
+    "tags": [
+      "engineering",
+      "earthquake engineering",
+      "earthquake-resistant structures",
+      "seismic design",
+      "building safety"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "earthquake-engineering-ductile-buildings",
+    "headline": "Ductile Buildings Bend Instead of Breaking",
+    "body": "A good earthquake-resistant building needs some ability to move. Britannica explains that earthquake-resistant designs often use ductility, which lets a building bend, sway, and deform without collapsing. Steel is naturally ductile, and brittle concrete can be made more ductile by adding steel reinforcement. In an earthquake, controlled bending can be safer than brittle cracking.",
+    "summary": "Ductility helps earthquake-resistant buildings bend and deform without collapsing.",
+    "categoryId": "engineering",
+    "topic": "Earthquake Engineering",
+    "tags": [
+      "engineering",
+      "earthquake engineering",
+      "ductility",
+      "steel",
+      "reinforced concrete"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "earthquake-engineering-strong-joints",
+    "headline": "Weak Joints Can Doom a Strong Design",
+    "body": "A building’s earthquake resistance depends heavily on how its parts connect. Britannica says earthquake forces create lateral and shear loading, which can produce tensile and torsional forces at corners and joints. Strong construction joints help the structure act as one integrated unit, allowing earthquake forces to move from one section to another without catastrophic failure. Even a smart design can fail if the connections are weak.",
+    "summary": "Earthquake-resistant construction depends on strong joints that let a building act as one connected unit.",
+    "categoryId": "engineering",
+    "topic": "Earthquake Engineering",
+    "tags": [
+      "engineering",
+      "earthquake engineering",
+      "joints",
+      "seismic forces",
+      "construction quality"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
