@@ -15549,5 +15549,936 @@
     "funScore": 10,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "aerodynamics-air-pushes-back",
+    "headline": "Air Can Push Back Harder Than It Seems",
+    "body": "Air feels invisible until something moves through it fast. Britannica explains that aerodynamics studies the motion of air and other gases, along with the forces acting on bodies passing through them. Early thinkers often imagined air as something that helped motion, but later experiments showed that air also resists moving objects. By the late 17th century, Huygens and Newton connected air resistance to the square of velocity.",
+    "summary": "Aerodynamics reveals that air is not empty space; it pushes, resists, and shapes motion.",
+    "categoryId": "aviation",
+    "topic": "Aerodynamics",
+    "tags": [
+      "aviation",
+      "aerodynamics",
+      "air resistance",
+      "fluid mechanics",
+      "flight"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aerodynamics-pressure-lift",
+    "headline": "Lift Comes From Pressure Differences",
+    "body": "Airplane wings lift because air pressure changes around them. Britannica explains that lift is an upward force on an aircraft wing or airfoil. It happens because airflow creates lower pressure above the airfoil and higher pressure below it. That pressure difference helps push the wing upward, making controlled flight possible.",
+    "summary": "Lift forms when airflow creates lower pressure above a wing and higher pressure below it.",
+    "categoryId": "aviation",
+    "topic": "Aerodynamics",
+    "tags": [
+      "aviation",
+      "aerodynamics",
+      "lift",
+      "airfoil",
+      "air pressure"
+    ],
+    "readTimeSeconds": 46,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aerodynamics-modern-theory-flight",
+    "headline": "Modern Aerodynamics Took Off With Airplanes",
+    "body": "Modern aerodynamics grew alongside powered flight. Britannica says the field emerged around the time the Wright brothers made their first powered flight in 1903. Frederick Lanchester and Ludwig Prandtl developed key theories of lift and wing behavior, with Prandtl often regarded as the father of modern aerodynamics. Flight did not just use aerodynamics; it pushed the science forward.",
+    "summary": "Powered flight helped turn aerodynamics into a modern science of lift, wings, and airflow.",
+    "categoryId": "aviation",
+    "topic": "Aerodynamics",
+    "tags": [
+      "aviation",
+      "aerodynamics",
+      "wright brothers",
+      "ludwig prandtl",
+      "flight science"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "airplanes-four-forces",
+    "headline": "Four Forces Keep Airplanes Flying",
+    "body": "An airplane in steady flight is balanced by four major forces. Britannica explains that lift acts upward, weight pulls downward, thrust pushes forward, and drag resists motion through the air. Lift and thrust are created so the aircraft can fly, while weight and drag are always present. Flying is really a constant balancing act between these forces.",
+    "summary": "Airplanes fly by balancing lift, weight, thrust, and drag.",
+    "categoryId": "aviation",
+    "topic": "Airplanes",
+    "tags": [
+      "aviation",
+      "airplanes",
+      "flight",
+      "lift",
+      "drag"
+    ],
+    "readTimeSeconds": 46,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "airplanes-wing-airfoils",
+    "headline": "Wings Are Carefully Shaped Airfoils",
+    "body": "An airplane wing is not just a flat board. Britannica explains that a wing’s airfoil is shaped to get a useful reaction from the air moving over it. Air moving over the curved top surface can speed up and lower the pressure above the wing, while higher pressure below helps push the wing upward. Shape, speed, and angle all matter.",
+    "summary": "Airplane wings use airfoil shapes to create useful lift from moving air.",
+    "categoryId": "aviation",
+    "topic": "Airplanes",
+    "tags": [
+      "aviation",
+      "airplanes",
+      "wings",
+      "airfoils",
+      "lift"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "airplanes-stall-airflow-breaks",
+    "headline": "A Stall Happens When Lift Breaks Down",
+    "body": "A stall is not the engine simply stopping. Britannica explains that as a wing’s angle of attack increases, drag also rises, and at a critical point airflow breaks over the upper surface of the wing. When that happens, lift is lost while drag increases. A stall is really an airflow failure over the wing.",
+    "summary": "An airplane stall happens when airflow separates over the wing and lift drops sharply.",
+    "categoryId": "aviation",
+    "topic": "Airplanes",
+    "tags": [
+      "aviation",
+      "airplanes",
+      "stall",
+      "angle of attack",
+      "flight safety"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "helicopters-spinning-wings",
+    "headline": "Helicopters Can Hover Because Their Wings Spin",
+    "body": "A helicopter does not need a runway because its main lifting surface is always moving. Britannica explains that helicopters use one or more power-driven horizontal rotors that let them take off and land vertically, move in any direction, or remain stationary in the air. The rotor is a rotating airfoil, meaning it works like a spinning wing. Instead of the whole aircraft moving fast to make lift, the rotor blades move through the air for it.",
+    "summary": "Helicopters hover because their rotors act like spinning wings that create lift.",
+    "categoryId": "aviation",
+    "topic": "Helicopters",
+    "tags": [
+      "aviation",
+      "helicopters",
+      "rotors",
+      "vertical flight",
+      "lift"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "helicopters-centuries-old-dream",
+    "headline": "Vertical Flight Was a Centuries-Old Dream",
+    "body": "People imagined helicopter-like flight long before useful helicopters existed. Britannica says historical references to a Chinese kite using a rotary wing go back to about 400 ce, and Leonardo da Vinci later drew a flying machine using a spiral airscrew. But vertical flight proved much harder than regular airplane flight because it demanded more power, control, and structural sophistication. The dream was old, but the engineering took centuries to catch up.",
+    "summary": "Helicopter-like ideas appeared centuries before engineers could make vertical flight practical.",
+    "categoryId": "aviation",
+    "topic": "Helicopters",
+    "tags": [
+      "aviation",
+      "helicopters",
+      "vertical flight",
+      "leonardo da vinci",
+      "aviation history"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "helicopters-sikorsky-vs300",
+    "headline": "Sikorsky’s VS-300 Shaped Modern Helicopters",
+    "body": "Many modern helicopters owe something to Igor Sikorsky’s experimental VS-300. Britannica says Sikorsky made successful test flights with the VS-300 from 1939 to 1941. The aircraft had features that characterize most modern helicopters, including a single main three-bladed rotor, collective pitch, and a tail rotor. It was small and difficult, but it helped point helicopter design toward the layout still familiar today.",
+    "summary": "Sikorsky’s VS-300 helped establish the main-rotor and tail-rotor layout of many modern helicopters.",
+    "categoryId": "aviation",
+    "topic": "Helicopters",
+    "tags": [
+      "aviation",
+      "helicopters",
+      "igor sikorsky",
+      "vs-300",
+      "aviation history"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "jet-engines-throw-air-backward",
+    "headline": "Jet Engines Push Aircraft by Throwing Air Backward",
+    "body": "A jet engine moves an aircraft by accelerating fluid backward. Britannica defines a jet engine as an internal-combustion engine that propels aircraft by discharging a rearward jet of fluid, usually hot exhaust gases from fuel burned with air. The reaction to that high-speed stream becomes thrust on the aircraft. In simple terms, the engine throws air and exhaust backward so the aircraft moves forward.",
+    "summary": "Jet engines create thrust by sending a high-speed stream of gases backward.",
+    "categoryId": "aviation",
+    "topic": "Jet Engines",
+    "tags": [
+      "aviation",
+      "jet engines",
+      "thrust",
+      "propulsion",
+      "aircraft"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "jet-engines-compress-burn-expand",
+    "headline": "Jet Engines Compress, Burn, and Expand Air",
+    "body": "A jet engine is basically a fast, continuous energy converter. Britannica explains that air enters the inlet, is compressed by a turbocompressor, then flows into a combustion chamber where fuel is burned at roughly constant pressure. The hot high-pressure gases pass through a turbine, which helps drive the compressor, and the remaining energy can be used for propulsion. The whole process turns fuel and air into a powerful moving gas stream.",
+    "summary": "Jet engines compress air, burn fuel in it, and use the hot gases to produce propulsion.",
+    "categoryId": "aviation",
+    "topic": "Jet Engines",
+    "tags": [
+      "aviation",
+      "jet engines",
+      "gas turbine",
+      "combustion",
+      "compressor"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "jet-engines-speed-matching",
+    "headline": "Jet Engines Are Matched to Aircraft Speed",
+    "body": "Different aircraft need different kinds of jet engines. Britannica explains that high propulsive efficiency depends on matching the exiting jet velocity to the aircraft’s flight speed. Slow aircraft use engines with lower jet velocities and larger propulsors, while faster aircraft use smaller propulsors and higher jet velocities. That is why helicopters, turboprops, turbofans, and turbojets are built so differently.",
+    "summary": "Jet engine designs vary because efficient thrust depends on matching jet speed to aircraft speed.",
+    "categoryId": "aviation",
+    "topic": "Jet Engines",
+    "tags": [
+      "aviation",
+      "jet engines",
+      "turbofan",
+      "turbojet",
+      "propulsive efficiency"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hot-air-balloons-hot-air-lighter",
+    "headline": "Hot-Air Balloons Rise Because Hot Air Weighs Less",
+    "body": "A hot-air balloon flies because heated air is less dense than cooler surrounding air. Britannica explains that the balloon rises when the weight of the balloon and hot air is less than the weight of the air it displaces. This is buoyancy, the same basic idea behind Archimedes’ principle. Instead of wings or engines, the balloon uses warm air and gravity’s rules to float upward.",
+    "summary": "Hot-air balloons rise when heated air becomes light enough to create buoyancy.",
+    "categoryId": "aviation",
+    "topic": "Hot-Air Balloons",
+    "tags": [
+      "aviation",
+      "hot-air balloons",
+      "buoyancy",
+      "archimedes principle",
+      "flight"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hot-air-balloons-animal-passengers",
+    "headline": "The First Balloon Passengers Were Animals",
+    "body": "Before people flew in a hot-air balloon, animals took the risk first. Britannica says the Montgolfier brothers sent a sheep, a rooster, and a duck aloft at Versailles on September 19, 1783. The balloon floated for about eight minutes and landed safely around 3.2 kilometers from the launch site. That animal flight helped prove balloon travel could be survivable before humans tried it.",
+    "summary": "A sheep, rooster, and duck flew in a Montgolfier balloon before the first human passengers.",
+    "categoryId": "aviation",
+    "topic": "Hot-Air Balloons",
+    "tags": [
+      "aviation",
+      "hot-air balloons",
+      "montgolfier brothers",
+      "aviation history",
+      "versailles"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hot-air-balloons-altitude-control",
+    "headline": "Pilots Steer Mostly by Changing Altitude",
+    "body": "Hot-air balloons do not steer like airplanes. Britannica explains that pilots control buoyancy by heating the air inside the envelope or changing ballast, which makes the balloon rise or descend. Changing altitude lets the balloon catch different wind currents, and those winds can move in different directions at different heights. Balloon pilots navigate by choosing layers of air.",
+    "summary": "Hot-air balloon pilots use heat and altitude changes to catch different wind directions.",
+    "categoryId": "aviation",
+    "topic": "Hot-Air Balloons",
+    "tags": [
+      "aviation",
+      "hot-air balloons",
+      "wind currents",
+      "altitude",
+      "ballooning"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "concorde-mach-two-passengers",
+    "headline": "Concorde Flew Passengers at Twice the Speed of Sound",
+    "body": "Concorde made supersonic travel a real passenger experience. Britannica says the aircraft had a maximum cruising speed of 2,179 kilometers per hour, or Mach 2.04, which is more than twice the speed of sound. It was the first supersonic passenger-carrying commercial airplane. For a time, regular travelers could cross the ocean faster than sound itself.",
+    "summary": "Concorde carried passengers at Mach 2.04, more than twice the speed of sound.",
+    "categoryId": "aviation",
+    "topic": "Concorde",
+    "tags": [
+      "aviation",
+      "concorde",
+      "supersonic flight",
+      "mach 2",
+      "air travel"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "concorde-three-hour-atlantic",
+    "headline": "Concorde Cut London-to-New York to About Three Hours",
+    "body": "Concorde’s speed made long-distance travel feel almost unreal. Britannica says its Mach 2.04 cruising speed allowed it to reduce the flight time between London and New York to about three hours. It first crossed the Atlantic in 1973 and entered scheduled supersonic passenger service in 1976. A trip that usually consumed much of a day became closer to a long movie.",
+    "summary": "Concorde could fly between London and New York in about three hours.",
+    "categoryId": "aviation",
+    "topic": "Concorde",
+    "tags": [
+      "aviation",
+      "concorde",
+      "london",
+      "new york",
+      "supersonic transport"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "concorde-brilliant-not-profitable",
+    "headline": "Concorde Was Brilliant but Not Profitable",
+    "body": "Concorde proved that technological success is not always business success. Britannica calls it a technological masterpiece, but says its development costs were so great they could never be recovered from operations. Noise and operating expense limited service, and only 14 aircraft actually went into service. Concorde showed what aviation could do, even if the economics could not keep up.",
+    "summary": "Concorde was a technological masterpiece, but high costs and limited routes kept it from being profitable.",
+    "categoryId": "aviation",
+    "topic": "Concorde",
+    "tags": [
+      "aviation",
+      "concorde",
+      "supersonic transport",
+      "airline economics",
+      "aircraft history"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "air-traffic-control-air-and-ground",
+    "headline": "Air Traffic Control Manages Planes in the Air and on the Ground",
+    "body": "Air traffic control is not just about planes already flying. Britannica defines air-traffic control as the supervision of aircraft movements both in the air and on the ground near an airport. That means controllers help organize arrivals, departures, taxiing, and nearby flight paths. Their job is to keep many moving aircraft separated and coordinated in a crowded aviation environment.",
+    "summary": "Air traffic control supervises aircraft movement both in the sky and on the ground near airports.",
+    "categoryId": "aviation",
+    "topic": "Air Traffic Control",
+    "tags": [
+      "aviation",
+      "air traffic control",
+      "airports",
+      "flight safety",
+      "aviation systems"
+    ],
+    "readTimeSeconds": 44,
+    "funScore": 8,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gliders-fly-without-engines",
+    "headline": "Gliders Fly Without Engines",
+    "body": "A glider is an aircraft that can stay in the air without an engine. Britannica defines it as a nonpowered heavier-than-air craft capable of sustained flight. To fly, a glider must first be accelerated to flying speed so its wings can generate enough lift to overcome gravity. Once airborne, it uses the energy of height, wind, and rising air instead of engine thrust.",
+    "summary": "Gliders are nonpowered aircraft that use lift, altitude, and moving air to stay aloft.",
+    "categoryId": "aviation",
+    "topic": "Gliders",
+    "tags": [
+      "aviation",
+      "gliders",
+      "unpowered flight",
+      "lift",
+      "sailplanes"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gliders-lilienthal-human-flight",
+    "headline": "Otto Lilienthal Helped Prove Human Gliding Was Possible",
+    "body": "Otto Lilienthal was one of the most famous pioneers of glider flight. Britannica says he and his brother Gustav began experiments in 1867 on the buoyancy and resistance of air. Lilienthal studied camber, wing sections, and stability, then built his first person-carrying craft in 1891. He could launch by running downhill into the wind, showing that controlled human gliding was possible.",
+    "summary": "Otto Lilienthal’s glider experiments helped prove that humans could fly heavier-than-air craft.",
+    "categoryId": "aviation",
+    "topic": "Gliders",
+    "tags": [
+      "aviation",
+      "gliders",
+      "otto lilienthal",
+      "aviation history",
+      "early flight"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gliders-wright-control",
+    "headline": "The Wright Brothers Solved Control With Gliders First",
+    "body": "The Wright brothers did not jump straight from idea to powered airplane. Britannica says their most successful early glider, built in 1902, used a movable vertical rudder, a horizontal elevator, and wing-warping to control the aircraft in every direction. That perfect control made their gliding safe and let them move on to powered flight. Their airplane breakthrough started with learning how to steer without an engine.",
+    "summary": "The Wright brothers used gliders to solve aircraft control before adding an engine.",
+    "categoryId": "aviation",
+    "topic": "Gliders",
+    "tags": [
+      "aviation",
+      "gliders",
+      "wright brothers",
+      "wing warping",
+      "powered flight"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "air-traffic-control-first-controller-flags",
+    "headline": "The First Air Traffic Controller Used Flags",
+    "body": "The first air traffic controller did not sit in a tower with radar screens. According to the FAA, Archie W. League is usually regarded as the first air traffic controller. In 1929, he worked at the St. Louis airport to help prevent aircraft collisions. His tools were simple: a red flag for “hold” and a checkered flag for “go.”",
+    "summary": "The first air traffic controller used simple flags to direct aircraft at a St. Louis airport.",
+    "categoryId": "aviation",
+    "topic": "Air Traffic Control",
+    "tags": [
+      "aviation",
+      "air traffic control",
+      "archie league",
+      "faa",
+      "aviation history"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "air-traffic-control-maps-blackboards",
+    "headline": "Early Controllers Tracked Planes on Maps and Blackboards",
+    "body": "Early air traffic control looked more like a classroom than a control room. The FAA says the first Airway Traffic Control Station opened in December 1935 to keep aircraft safely separated between airports. Controllers tracked planes with maps, blackboards, and pointed markers called “shrimp boats.” They had no direct radio link with aircraft, so instructions were relayed through dispatchers and radio operators.",
+    "summary": "Early en route controllers used maps, blackboards, and relayed messages to separate aircraft.",
+    "categoryId": "aviation",
+    "topic": "Air Traffic Control",
+    "tags": [
+      "aviation",
+      "air traffic control",
+      "airways",
+      "flight tracking",
+      "aviation history"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "air-traffic-control-radar-revolution",
+    "headline": "Radar Revolutionized Air Traffic Control",
+    "body": "Radar changed air traffic control more than any earlier tool. The FAA says nothing revolutionized ATC more than radar, which the British first developed for air defense before World War II. After the war, U.S. aviation officials began using radar to help keep civilian flights safely separated. Instead of relying only on reports and calculations, controllers could watch aircraft positions appear as blips on scopes.",
+    "summary": "Radar transformed air traffic control by letting controllers see aircraft positions directly on scopes.",
+    "categoryId": "aviation",
+    "topic": "Air Traffic Control",
+    "tags": [
+      "aviation",
+      "air traffic control",
+      "radar",
+      "flight safety",
+      "airspace"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gliders-fly-without-engines",
+    "headline": "Gliders Fly Without Engines",
+    "body": "A glider is an aircraft that can stay in the air without an engine. Britannica defines it as a nonpowered heavier-than-air craft capable of sustained flight. To fly, a glider must first be accelerated to flying speed so its wings can generate enough lift to overcome gravity. Once airborne, it uses the energy of height, wind, and rising air instead of engine thrust.",
+    "summary": "Gliders are nonpowered aircraft that use lift, altitude, and moving air to stay aloft.",
+    "categoryId": "aviation",
+    "topic": "Gliders",
+    "tags": [
+      "aviation",
+      "gliders",
+      "unpowered flight",
+      "lift",
+      "sailplanes"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gliders-lilienthal-human-flight",
+    "headline": "Otto Lilienthal Helped Prove Human Gliding Was Possible",
+    "body": "Otto Lilienthal was one of the most famous pioneers of glider flight. Britannica says he and his brother Gustav began experiments in 1867 on the buoyancy and resistance of air. Lilienthal studied camber, wing sections, and stability, then built his first person-carrying craft in 1891. He could launch by running downhill into the wind, showing that controlled human gliding was possible.",
+    "summary": "Otto Lilienthal’s glider experiments helped prove that humans could fly heavier-than-air craft.",
+    "categoryId": "aviation",
+    "topic": "Gliders",
+    "tags": [
+      "aviation",
+      "gliders",
+      "otto lilienthal",
+      "aviation history",
+      "early flight"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gliders-wright-control",
+    "headline": "The Wright Brothers Solved Control With Gliders First",
+    "body": "The Wright brothers did not jump straight from idea to powered airplane. Britannica says their most successful early glider, built in 1902, used a movable vertical rudder, a horizontal elevator, and wing-warping to control the aircraft in every direction. That perfect control made their gliding safe and let them move on to powered flight. Their airplane breakthrough started with learning how to steer without an engine.",
+    "summary": "The Wright brothers used gliders to solve aircraft control before adding an engine.",
+    "categoryId": "aviation",
+    "topic": "Gliders",
+    "tags": [
+      "aviation",
+      "gliders",
+      "wright brothers",
+      "wing warping",
+      "powered flight"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supersonic-flight-sonic-boom",
+    "headline": "Supersonic Flight Creates a Sonic Boom",
+    "body": "Supersonic flight means traveling faster than the local speed of sound. Britannica explains that Mach 1 depends on atmospheric pressure and temperature, but at sea level in 15 °C air, sound travels about 1,225 kilometers per hour. When an object moves through Earth’s atmosphere at supersonic speed, it generates a shock wave. On the ground, that shock wave is heard as a sonic boom, like a loud explosion.",
+    "summary": "Supersonic aircraft create sonic booms because they generate shock waves while moving faster than sound.",
+    "categoryId": "aviation",
+    "topic": "Supersonic Flight",
+    "tags": [
+      "aviation",
+      "supersonic flight",
+      "sonic boom",
+      "mach number",
+      "sound barrier"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supersonic-flight-yeager-x1",
+    "headline": "Chuck Yeager First Broke the Sound Barrier",
+    "body": "The first aircraft to fly supersonic was not an airliner or fighter jet. Britannica says Major Charles E. Yeager flew the Bell X-1 rocket-powered research plane past the sound barrier on October 14, 1947. The aircraft was dropped from a Boeing B-29 mother ship before reaching Mach 1.06. That flight proved controlled supersonic flight was possible.",
+    "summary": "Chuck Yeager broke the sound barrier in the Bell X-1 on October 14, 1947.",
+    "categoryId": "aviation",
+    "topic": "Supersonic Flight",
+    "tags": [
+      "aviation",
+      "supersonic flight",
+      "chuck yeager",
+      "bell x-1",
+      "sound barrier"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supersonic-flight-hypersonic-mach-five",
+    "headline": "Hypersonic Flight Starts Around Mach 5",
+    "body": "Supersonic is fast, but hypersonic is another level. Britannica defines supersonic flight as traveling faster than the local speed of sound. It also notes that speeds beyond about five times the speed of sound are called hypersonic flight. So Mach 2 is already beyond sound, but Mach 5 marks a much more extreme speed range where heating, materials, and control become even harder engineering problems.",
+    "summary": "Hypersonic flight begins at about Mach 5, or five times the speed of sound.",
+    "categoryId": "aviation",
+    "topic": "Supersonic Flight",
+    "tags": [
+      "aviation",
+      "supersonic flight",
+      "hypersonic flight",
+      "mach 5",
+      "aerospace"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "flight-recorders-orange-black-box",
+    "headline": "Black Boxes Are Actually Bright Orange",
+    "body": "The famous airplane “black box” is not usually black. Britannica explains that flight recorders are painted a highly visible vermilion color called international orange. The bright color helps investigators find them after a crash. The nickname “black box” stuck anyway, even though the device is designed to be seen, recovered, and read after an accident.",
+    "summary": "Flight recorders are called black boxes, but they are painted bright international orange.",
+    "categoryId": "aviation",
+    "topic": "Flight Recorders",
+    "tags": [
+      "aviation",
+      "flight recorders",
+      "black box",
+      "air safety",
+      "crash investigation"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "flight-recorders-two-devices",
+    "headline": "Flight Recorders Are Really Two Devices",
+    "body": "A flight recorder is usually a system made of two main recorders. Britannica explains that the flight data recorder tracks aircraft conditions such as airspeed, altitude, heading, vertical acceleration, pitch, and many instrument readings. The cockpit voice recorder captures crew conversation, radio transmissions, and cockpit sounds. Together, they help investigators reconstruct what an aircraft was doing and what was happening inside the cockpit.",
+    "summary": "Flight recorders combine flight data and cockpit audio to help investigators understand aviation incidents.",
+    "categoryId": "aviation",
+    "topic": "Flight Recorders",
+    "tags": [
+      "aviation",
+      "flight recorders",
+      "flight data recorder",
+      "cockpit voice recorder",
+      "aviation safety"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "flight-recorders-crash-survivable-memory",
+    "headline": "Flight Recorder Memory Is Built to Survive Crashes",
+    "body": "The most protected part of a flight recorder is its crash-survivable memory unit. Britannica says this memory unit is expected to survive impacts of 3,400 g, flame temperatures as high as 1,100 °C, and underwater pressures at 6,000 meters. It stores data on solid-state memory boards, while other recorder components are not needed to recover the data. The recorder is built for the moment everything else fails.",
+    "summary": "Flight recorder memory units are engineered to survive extreme impact, fire, and underwater pressure.",
+    "categoryId": "aviation",
+    "topic": "Flight Recorders",
+    "tags": [
+      "aviation",
+      "flight recorders",
+      "black box",
+      "crash survivability",
+      "air safety"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "flying-boats-fuselage-hull",
+    "headline": "A Flying Boat Uses Its Body Like a Boat Hull",
+    "body": "Flying boats are different from floatplanes. Hartzell explains that floatplanes use floats mounted under the aircraft’s fuselage, while a flying boat gets its main buoyancy from the fuselage itself. The body is shaped to act like the hull of a ship. Some flying boats also use small wing floats for extra stability on the water.",
+    "summary": "A flying boat floats because its fuselage is shaped like a boat hull.",
+    "categoryId": "aviation",
+    "topic": "Flying Boats",
+    "tags": [
+      "aviation",
+      "flying boats",
+      "seaplanes",
+      "floatplanes",
+      "aircraft design"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "flying-boats-first-powered-seaplane",
+    "headline": "The First Powered Seaplane Flew in 1910",
+    "body": "The first successful powered seaplane flight happened only a few years after the Wright brothers flew. Hartzell says Henri Fabre piloted the Hydravion in Marseilles, France, in 1910. The aircraft used plywood floats that let it take off from water, fly about half a kilometer, and land safely back on water. Early aviation was already trying to turn lakes and harbors into runways.",
+    "summary": "Henri Fabre’s Hydravion made the first successful powered seaplane flight in 1910.",
+    "categoryId": "aviation",
+    "topic": "Flying Boats",
+    "tags": [
+      "aviation",
+      "flying boats",
+      "seaplanes",
+      "henri fabre",
+      "aviation history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "flying-boats-luxury-ocean-travel",
+    "headline": "Flying Boats Once Made Ocean Travel Feel Luxurious",
+    "body": "Before long concrete runways were common, flying boats were a practical way to cross oceans. Hartzell says that by the late 1930s, seaplanes were among the largest and fastest aircraft in the world. Their ability to stop at coastal stations made long-distance transportation safer and more dependable. Pan American Airways’ Boeing 314 “Clipper” flying boats became symbols of luxury transatlantic flight.",
+    "summary": "Large flying boats once helped make long-distance ocean air travel safer, dependable, and luxurious.",
+    "categoryId": "aviation",
+    "topic": "Flying Boats",
+    "tags": [
+      "aviation",
+      "flying boats",
+      "boeing 314",
+      "clipper",
+      "transatlantic flight"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "winglets-fight-vortices",
+    "headline": "Winglets Fight Wingtip Vortices",
+    "body": "Winglets help solve a problem created at the ends of wings. NASA explains that three-dimensional wings produce induced drag, partly because of tip vortices near the wing tips. Winglets bend upward at the tips to reduce the strength of those vortices and make airflow across the wing more two-dimensional. A small-looking shape change can reduce wasted energy in the air behind the plane.",
+    "summary": "Winglets reduce wingtip vortices, which helps lower induced drag.",
+    "categoryId": "aviation",
+    "topic": "Winglets",
+    "tags": [
+      "aviation",
+      "winglets",
+      "aerodynamics",
+      "induced drag",
+      "wingtip vortices"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "winglets-reduce-fuel-use",
+    "headline": "Winglets Can Reduce Fuel Use",
+    "body": "Winglets are not just decorative fins on airplane wings. NASA says Richard Whitcomb of NASA Langley tested and analyzed winglets in the mid-1970s. Later flight tests at NASA Dryden found a 6.5 percent reduction in fuel use on a Boeing 707-type airliner using winglets. That means a visible change at the wingtip can become a measurable fuel-saving tool.",
+    "summary": "NASA flight tests found winglets could reduce fuel use on a Boeing 707-type airliner by 6.5 percent.",
+    "categoryId": "aviation",
+    "topic": "Winglets",
+    "tags": [
+      "aviation",
+      "winglets",
+      "nasa",
+      "fuel efficiency",
+      "airliners"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "winglets-total-wing-design",
+    "headline": "Winglets Must Match the Whole Wing",
+    "body": "Winglets only work well when they fit the aircraft’s full wing design. NASA notes that winglets must be carefully integrated into the total wing design, which is why many different winglet shapes appear on airliners. Some test designs had little effect, and some made drag worse by adding surface area. A winglet is not automatically better; it has to be the right shape for the right wing.",
+    "summary": "Winglets can help or hurt depending on how well they fit the overall wing design.",
+    "categoryId": "aviation",
+    "topic": "Winglets",
+    "tags": [
+      "aviation",
+      "winglets",
+      "aircraft design",
+      "aerodynamic drag",
+      "airliners"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "drones-national-airspace",
+    "headline": "Drones Are Becoming Part of National Airspace",
+    "body": "Drones are no longer just small gadgets flown in open fields. The FAA says it works with industry and communities to advance drone operations and integrate them into the national airspace. That means drones have to fit into a larger aviation system already used by airplanes, helicopters, airports, and pilots. The future of aviation includes machines that may not have anyone onboard.",
+    "summary": "The FAA is working to integrate drones into the larger national airspace system.",
+    "categoryId": "aviation",
+    "topic": "Drones",
+    "tags": [
+      "aviation",
+      "drones",
+      "faa",
+      "national airspace",
+      "uas"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "drones-rules-by-pilot-type",
+    "headline": "Drone Pilots Follow Different Rules by Use Case",
+    "body": "Not every drone pilot flies under the same situation. The FAA organizes drone resources for recreational flyers, certificated remote pilots, public safety operators, educational users, and other groups. It also notes that drone safety is the law, whether someone flies for fun or work. A backyard flyer, drone racer, police department, and commercial operator may all use drones, but they need different guidance.",
+    "summary": "Drone rules and resources vary depending on whether someone flies for fun, work, education, or public safety.",
+    "categoryId": "aviation",
+    "topic": "Drones",
+    "tags": [
+      "aviation",
+      "drones",
+      "drone pilots",
+      "uas safety",
+      "remote pilots"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "drones-advanced-operations",
+    "headline": "Drone Aviation Goes Beyond Hobby Flying",
+    "body": "Drones are part of a much bigger aviation shift than hobby flight. The FAA lists advanced operations such as urban air mobility, advanced air mobility, package delivery by drone, certification, and even dispensing chemicals and agricultural products. These uses show how drones can connect to transportation, farming, emergency response, and logistics. A drone can be a toy, but it can also be an aircraft in a working airspace system.",
+    "summary": "Drones are being developed for advanced roles such as delivery, air mobility, and agricultural operations.",
+    "categoryId": "aviation",
+    "topic": "Drones",
+    "tags": [
+      "aviation",
+      "drones",
+      "advanced air mobility",
+      "package delivery",
+      "uas"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ejection-seats-pilot-safety-origin",
+    "headline": "A Test Pilot’s Death Changed Martin-Baker’s Mission",
+    "body": "Martin-Baker did not begin as an ejection-seat company. Its founders built aircraft, but in 1942 Capt Valentine Baker was killed during a test flight of the Martin-Baker MB3 prototype. According to Martin-Baker, his death deeply affected Sir James Martin. Martin then dedicated the rest of his life, and the future of the company, toward pilot safety.",
+    "summary": "Martin-Baker’s focus on pilot safety grew from the death of co-founder Capt Valentine Baker.",
+    "categoryId": "aviation",
+    "topic": "Ejection Seats",
+    "tags": [
+      "aviation",
+      "ejection seats",
+      "martin-baker",
+      "pilot safety",
+      "aviation history"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ejection-seats-first-live-test",
+    "headline": "The First Live Ejection Test Happened in 1945",
+    "body": "Testing an ejection seat required someone brave enough to try it. Martin-Baker says employee Bernard “Benny” Lynch attempted the first static ejection from a specially built tower on January 24, 1945. He later performed the first mid-flight test ejection on July 24, 1946, from a modified Meteor 3 at 320 mph and 8,000 feet. Lynch landed safely and went on to make more test ejections.",
+    "summary": "Bernard Lynch performed Martin-Baker’s early live ejection tests, including a mid-flight test in 1946.",
+    "categoryId": "aviation",
+    "topic": "Ejection Seats",
+    "tags": [
+      "aviation",
+      "ejection seats",
+      "bernard lynch",
+      "test flight",
+      "martin-baker"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ejection-seats-thousands-saved",
+    "headline": "Martin-Baker Seats Have Saved Thousands of Aircrew",
+    "body": "Ejection seats are built for the worst few seconds of a pilot’s life. Martin-Baker says the first live non-test ejection happened on May 30, 1949, when Jo Lancaster ejected from an Armstrong Whitworth AW52 using a pre-Mk1 seat. The company says its seats have saved more than 7,700 aircrew members since then. That makes the ejection seat one of aviation’s most dramatic safety devices.",
+    "summary": "Martin-Baker says its ejection seats have saved more than 7,700 aircrew members.",
+    "categoryId": "aviation",
+    "topic": "Ejection Seats",
+    "tags": [
+      "aviation",
+      "ejection seats",
+      "aircrew safety",
+      "jo lancaster",
+      "martin-baker"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "autopilot-straight-level-flight",
+    "headline": "Early Autopilots Mostly Held Planes Straight and Level",
+    "body": "The first autopilots were much simpler than the systems pilots use today. Britannica explains that the earliest automatic pilots could do little more than keep an aircraft in straight and level flight. They controlled pitch, yaw, and roll so the plane would not drift from a basic stable attitude. Even that simple help mattered because it relieved pilots during routine cruising.",
+    "summary": "Early autopilots mainly helped aircraft maintain straight and level flight during routine cruising.",
+    "categoryId": "aviation",
+    "topic": "Autopilot",
+    "tags": [
+      "aviation",
+      "autopilot",
+      "automatic pilot",
+      "flight control",
+      "aircraft systems"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "autopilot-complex-flight-plans",
+    "headline": "Modern Autopilots Can Fly Complex Plans",
+    "body": "Modern autopilots can do far more than hold a steady course. Britannica says they can execute complex maneuvers or flight plans, bring aircraft into approach and landing paths, and help control aircraft that are naturally unstable. That means autopilot is not just a convenience feature. It can be part of how advanced aircraft remain manageable, precise, and safe.",
+    "summary": "Modern autopilots can guide complex flight plans, approaches, landings, and unstable aircraft.",
+    "categoryId": "aviation",
+    "topic": "Autopilot",
+    "tags": [
+      "aviation",
+      "autopilot",
+      "flight plans",
+      "aircraft control",
+      "landing systems"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "autopilot-manual-override",
+    "headline": "Autopilots Are Designed With Manual Override",
+    "body": "Autopilot does not mean pilots lose control. Britannica explains that automatic pilots for manned aircraft are designed to be fail-safe. No failure in the automatic pilot can be allowed to prevent effective manual override. In other words, the system can help fly the aircraft, but the human crew must still be able to take over when needed.",
+    "summary": "Manned-aircraft autopilots are designed so pilots can manually override them if needed.",
+    "categoryId": "aviation",
+    "topic": "Autopilot",
+    "tags": [
+      "aviation",
+      "autopilot",
+      "manual override",
+      "fail-safe",
+      "flight safety"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]

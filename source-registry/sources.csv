@@ -297,21 +297,21 @@ Engineering,Elevators,Britannica,https://www.britannica.com/technology/elevator-
 Engineering,Cranes,Britannica,https://www.britannica.com/technology/crane-materials-handling,1,complete
 Engineering,Earthquake Engineering,Britannica,https://www.britannica.com/technology/earthquake-resistant-structure,1,complete
 
-Aviation,Aerodynamics,Britannica,https://www.britannica.com/science/aerodynamics,1,pending
-Aviation,Airplanes,Britannica,https://www.britannica.com/technology/airplane,1,pending
-Aviation,Jet Engines,Britannica,https://www.britannica.com/technology/jet-engine,1,pending
-Aviation,Helicopters,Britannica,https://www.britannica.com/technology/helicopter,1,pending
-Aviation,Concorde,Britannica,https://www.britannica.com/topic/Concorde,1,pending
-Aviation,Hot Air Balloons,Britannica,https://www.britannica.com/technology/hot-air-balloon,1,pending
-Aviation,Gliders,Britannica,https://www.britannica.com/technology/glider-aircraft,1,pending
-Aviation,Air Traffic Control,Britannica,https://www.britannica.com/topic/air-traffic-control,1,pending
-Aviation,Flight Recorders,Britannica,https://www.britannica.com/technology/flight-recorder,1,pending
-Aviation,Supersonic Flight,Britannica,https://www.britannica.com/science/supersonic-flight,1,pending
-Aviation,Winglets,NASA Glenn Research Center,https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/winglets/,1,pending
-Aviation,Flying Boats,Hartzell Propeller,https://hartzellprop.com/history-of-seaplanes/,1,pending
-Aviation,Ejection Seats,Martin-Baker,https://martin-baker.com/our-history/,1,pending
-Aviation,Drones,FAA,https://www.faa.gov/uas,1,pending
-Aviation,Autopilot,Britannica,https://www.britannica.com/technology/automatic-pilot,1,pending
+Aviation,Aerodynamics,Britannica,https://www.britannica.com/science/aerodynamics,1,complete
+Aviation,Airplanes,Britannica,https://www.britannica.com/technology/airplane,1,complete
+Aviation,Jet Engines,Britannica,https://www.britannica.com/technology/jet-engine,1,complete
+Aviation,Helicopters,Britannica,https://www.britannica.com/technology/helicopter,1,complete
+Aviation,Concorde,Britannica,https://www.britannica.com/topic/Concorde,1,complete
+Aviation,Hot Air Balloons,Britannica,https://www.britannica.com/technology/hot-air-balloon,1,complete
+Aviation,Gliders,Britannica,https://www.britannica.com/technology/glider-aircraft,1,complete
+Aviation,Air Traffic Control,FAA,https://www.faa.gov/about/history/photo_album/air_traffic_control,1,complete
+Aviation,Flight Recorders,Britannica,https://www.britannica.com/technology/flight-recorder,1,complete
+Aviation,Supersonic Flight,Britannica,https://www.britannica.com/science/supersonic-flight,1,complete
+Aviation,Winglets,NASA Glenn Research Center,https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/winglets/,1,complete
+Aviation,Flying Boats,Hartzell Propeller,https://hartzellprop.com/history-of-seaplanes/,1,complete
+Aviation,Ejection Seats,Martin-Baker,https://martin-baker.com/our-history/,1,complete
+Aviation,Drones,FAA,https://www.faa.gov/uas,1,complete
+Aviation,Autopilot,Britannica,https://www.britannica.com/technology/automatic-pilot,1,complete
 
 Cars,Automobiles,Britannica,https://www.britannica.com/technology/automobile,1,pending
 Cars,Internal Combustion Engines,Britannica,https://www.britannica.com/technology/internal-combustion-engine,1,pending
