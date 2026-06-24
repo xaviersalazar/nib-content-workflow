@@ -16480,5 +16480,860 @@
     "funScore": 10,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "automobiles-thousands-of-parts",
+    "headline": "Modern Cars Are Systems of Thousands of Parts",
+    "body": "A car is not just one machine; it is a collection of systems working together. Britannica describes the modern automobile as a complex technical system made of subsystems with specific design functions. Some of those subsystems contain thousands of component parts. Safety laws, air pollution rules, computer technology, stronger plastics, and new metal alloys have all helped shape the cars people drive today.",
+    "summary": "Modern cars are complex systems made of many specialized subsystems and thousands of parts.",
+    "categoryId": "cars",
+    "topic": "Automobiles",
+    "tags": [
+      "cars",
+      "automobiles",
+      "car design",
+      "vehicle systems",
+      "engineering"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "automobiles-unibody-construction",
+    "headline": "Many Modern Cars Combine Body and Frame",
+    "body": "Older passenger cars often used a separate steel chassis frame with the body bolted on top. Britannica explains that many modern passenger cars instead use unit-body, or unibody, construction. In this design, the chassis frame and body are combined into one structural element, with braces reinforcing the steel shell. The shape you see is also part of the strength holding the vehicle together.",
+    "summary": "Unibody construction combines a car’s body and frame into one reinforced structure.",
+    "categoryId": "cars",
+    "topic": "Automobiles",
+    "tags": [
+      "cars",
+      "automobiles",
+      "unibody",
+      "chassis",
+      "car construction"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "automobiles-early-electric-cars",
+    "headline": "Electric Cars Were Popular Before Gas Won",
+    "body": "Electric cars are not a new idea. Britannica says that after the first success of gasoline engines, carmakers widely experimented with steam and electricity. For a brief period, electric automobiles had the greatest acceptance because they were quiet and easy to operate. Battery limits eventually made them less competitive, but electric cars remained in limited production into the 1920s.",
+    "summary": "Electric cars were once popular because they were quiet and easy to operate, long before their modern comeback.",
+    "categoryId": "cars",
+    "topic": "Automobiles",
+    "tags": [
+      "cars",
+      "automobiles",
+      "electric cars",
+      "automotive history",
+      "batteries"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "internal-combustion-engines-combustion-inside",
+    "headline": "Combustion Happens Inside the Engine",
+    "body": "An internal-combustion engine gets its name from where the burning happens. Britannica defines it as a device in which fuel and oxidizer burn inside the engine as part of its thermodynamic cycle. The engine gains energy from heat released by combustion. That makes it different from systems like steam engines, where heat is produced outside and transferred to a separate working fluid.",
+    "summary": "Internal-combustion engines release heat by burning fuel inside the engine itself.",
+    "categoryId": "cars",
+    "topic": "Internal-Combustion Engines",
+    "tags": [
+      "cars",
+      "internal combustion engines",
+      "engines",
+      "combustion",
+      "car technology"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "internal-combustion-engines-hot-gas-work",
+    "headline": "Hot Gas Pushes the Engine’s Moving Parts",
+    "body": "Internal-combustion engines turn burning fuel into motion through expanding gas. Britannica explains that useful work comes from hot combustion products acting on moving engine surfaces. In different engines, those surfaces might be the face of a piston, a turbine blade, or even a nozzle. The basic idea is simple: hot gas expands, pushes, and the machine captures that push as work.",
+    "summary": "Internal-combustion engines use expanding hot gases to push moving parts and create useful work.",
+    "categoryId": "cars",
+    "topic": "Internal-Combustion Engines",
+    "tags": [
+      "cars",
+      "internal combustion engines",
+      "pistons",
+      "turbines",
+      "engine work"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "internal-combustion-engines-continuous-intermittent",
+    "headline": "Engines Can Burn Fuel Continuously or in Pulses",
+    "body": "Internal-combustion engines do not all burn fuel the same way. Britannica divides them into continuous-combustion engines and intermittent-combustion engines. Jet engines keep a steady flow of fuel and oxidizer burning, while piston gasoline and diesel engines ignite air and fuel in repeated cycles. One kind burns like a steady flame, while the other works through timed bursts.",
+    "summary": "Internal-combustion engines can use steady combustion or repeated ignition cycles depending on the design.",
+    "categoryId": "cars",
+    "topic": "Internal-Combustion Engines",
+    "tags": [
+      "cars",
+      "internal combustion engines",
+      "gasoline engines",
+      "diesel engines",
+      "jet engines"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "automobile-racing-started-early",
+    "headline": "Car Racing Began Almost as Soon as Gas Cars Existed",
+    "body": "Automobile racing did not wait for cars to become normal. Britannica says racing began soon after the gasoline-fueled internal-combustion engine appeared in the 1880s. The first organized automobile competition was an 1894 reliability test from Paris to Rouen, France, over about 80 kilometers. Before cars had fully changed daily life, people were already testing which ones could go farther and faster.",
+    "summary": "Automobile racing began soon after gasoline-powered cars appeared in the 1880s.",
+    "categoryId": "cars",
+    "topic": "Automobile Racing",
+    "tags": [
+      "cars",
+      "automobile racing",
+      "gasoline cars",
+      "auto racing history",
+      "internal combustion"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "automobile-racing-first-true-race",
+    "headline": "The First True Auto Race Was Over 700 Miles",
+    "body": "The first true automobile race was not a short sprint around a track. Britannica says it was held in 1895 from Paris to Bordeaux and back, covering 1,178 kilometers. The winner averaged 24.15 kilometers per hour, which sounds slow today but was impressive for early cars. Racing began as a test of endurance as much as speed.",
+    "summary": "The first true automobile race covered 1,178 kilometers from Paris to Bordeaux and back.",
+    "categoryId": "cars",
+    "topic": "Automobile Racing",
+    "tags": [
+      "cars",
+      "automobile racing",
+      "paris bordeaux",
+      "early cars",
+      "auto racing history"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "automobile-racing-first-speedway",
+    "headline": "The First Purpose-Built Speedway Opened in 1906",
+    "body": "Early races often used public roads, but racing eventually needed spaces built for speed. Britannica says the first speedway made specifically for automobile racing was Brooklands, built in 1906 near Weybridge, Surrey, England. The track was 4.45 kilometers long, 30 meters wide, and had banked curves. It turned racing from road adventure into a purpose-built spectator sport.",
+    "summary": "Brooklands opened in 1906 as the first purpose-built automobile racing speedway.",
+    "categoryId": "cars",
+    "topic": "Automobile Racing",
+    "tags": [
+      "cars",
+      "automobile racing",
+      "brooklands",
+      "speedway",
+      "racing history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "electric-cars-early-competitive",
+    "headline": "Electric Cars Were Competitive Before 1920",
+    "body": "Electric cars are older than many people think. Britannica says electric cars originated in the late 1880s and were competitive with petroleum-fueled cars until about 1920. They were especially useful as luxury urban cars and delivery vehicles, where low speed and limited range were less of a problem. Early drivers liked them because they were quiet and required less maintenance.",
+    "summary": "Electric cars competed with gasoline cars in the early automotive era, especially for urban use.",
+    "categoryId": "cars",
+    "topic": "Electric Cars",
+    "tags": [
+      "cars",
+      "electric cars",
+      "evs",
+      "automotive history",
+      "urban transportation"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "electric-cars-self-starter-shift",
+    "headline": "The Self-Starter Helped Gas Cars Beat Electrics",
+    "body": "One small convenience helped change the future of cars. Britannica says electric cars were popular partly because gasoline cars were harder to operate, but the Kettering electric self-starter weakened that advantage. It was first used in 1912 Cadillacs and then spread to other gasoline cars. Once gas cars became easier to start and mass production made them cheaper, early electric cars lost ground.",
+    "summary": "The electric self-starter made gasoline cars easier to use, helping them overtake early electric cars.",
+    "categoryId": "cars",
+    "topic": "Electric Cars",
+    "tags": [
+      "cars",
+      "electric cars",
+      "self starter",
+      "cadillac",
+      "automotive history"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "electric-cars-tesla-roadster-comeback",
+    "headline": "Tesla’s Roadster Helped Spark the Modern EV Era",
+    "body": "Modern electric cars gained momentum after decades of false starts. Britannica says interest rose in the late 1990s partly because of climate-change concerns, and hybrids like the Toyota Prius helped bring battery power back into the mainstream. In 2008, Tesla released the all-electric Roadster, a luxury sports car that could travel 394 kilometers on one charge. Its success pushed other automakers to design all-electric vehicles too.",
+    "summary": "Tesla’s 2008 Roadster helped prove that modern electric cars could be desirable and high-performing.",
+    "categoryId": "cars",
+    "topic": "Electric Cars",
+    "tags": [
+      "cars",
+      "electric cars",
+      "tesla roadster",
+      "ev history",
+      "battery power"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hybrid-cars-two-power-sources",
+    "headline": "Hybrid Cars Blend Gas and Electric Power",
+    "body": "A hybrid car does not rely on only one kind of power. Britannica explains that hybrids combine an internal-combustion engine with an electric motor to improve fuel efficiency and reduce emissions. The vehicle can switch between the two systems or blend them depending on driving conditions. An onboard computer coordinates the engine and motor so the car can use power more efficiently.",
+    "summary": "Hybrid cars combine a gasoline engine and electric motor to improve efficiency and reduce emissions.",
+    "categoryId": "cars",
+    "topic": "Hybrid Cars",
+    "tags": [
+      "cars",
+      "hybrid cars",
+      "electric motor",
+      "internal combustion",
+      "fuel efficiency"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hybrid-cars-regenerative-braking",
+    "headline": "Regenerative Braking Reuses Energy",
+    "body": "In a traditional car, much of the energy from braking turns into wasted heat. Britannica explains that hybrid cars use regenerative braking to capture some of that energy instead. The system stores it in a high-voltage battery, which can later power the electric motor. A hybrid gets extra efficiency by recycling energy that would normally disappear every time the driver slows down.",
+    "summary": "Regenerative braking lets hybrid cars recover some braking energy and store it in the battery.",
+    "categoryId": "cars",
+    "topic": "Hybrid Cars",
+    "tags": [
+      "cars",
+      "hybrid cars",
+      "regenerative braking",
+      "batteries",
+      "energy efficiency"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hybrid-cars-no-plug-needed",
+    "headline": "Standard Hybrids Do Not Need Plugging In",
+    "body": "A standard hybrid is not the same as a fully electric car. Britannica says hybrid batteries recharge automatically through regenerative braking and the engine, which uses a generator instead of a traditional alternator. That means a standard hybrid does not need to be plugged in. Plug-in hybrids do exist, but they use larger batteries that can be charged from an external power source.",
+    "summary": "Standard hybrids recharge their batteries automatically and do not need to be plugged in.",
+    "categoryId": "cars",
+    "topic": "Hybrid Cars",
+    "tags": [
+      "cars",
+      "hybrid cars",
+      "plug-in hybrids",
+      "batteries",
+      "generator"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "seat-belts-prevent-ejection",
+    "headline": "Seat Belts Keep People From Being Thrown Around",
+    "body": "A seat belt is a simple device with a critical job. Britannica describes it as a strap that fastens a rider to a moving vehicle. In a crash, it helps prevent the person from being thrown out of the vehicle or against the interior. The belt works by keeping the body restrained when the vehicle suddenly changes speed.",
+    "summary": "Seat belts restrain passengers so they are not thrown out of a vehicle or into its interior during a crash.",
+    "categoryId": "cars",
+    "topic": "Seat Belts",
+    "tags": [
+      "cars",
+      "seat belts",
+      "car safety",
+      "restraint systems",
+      "crash safety"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "seat-belts-lap-shoulder-common",
+    "headline": "Lap and Shoulder Belts Became the Common Restraint",
+    "body": "The most common car restraint is not just a belt across the waist. Britannica says a combination of lap and shoulder belts is the most common restraint system. The lap belt helps hold the pelvis, while the shoulder belt helps control upper-body movement. Together, they spread crash forces across stronger parts of the body better than a simple single belt.",
+    "summary": "Lap-and-shoulder belts became the most common automobile restraint system.",
+    "categoryId": "cars",
+    "topic": "Seat Belts",
+    "tags": [
+      "cars",
+      "seat belts",
+      "lap belts",
+      "shoulder belts",
+      "restraint systems"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "seat-belts-webbing-strength",
+    "headline": "Seat Belt Webbing Has to Withstand Huge Loads",
+    "body": "Seat belts look like ordinary straps, but they are engineered for extreme force. Britannica says the web fabrics used in belts are required by regulations in various countries to withstand a 6,000-pound, or 2,700-kilogram, test load. The belts are bolted to strong parts of the car, including the underbody and roof rail. A seat belt is lightweight enough to wear, but strong enough for crash forces.",
+    "summary": "Seat belt webbing can be required to withstand test loads of 6,000 pounds.",
+    "categoryId": "cars",
+    "topic": "Seat Belts",
+    "tags": [
+      "cars",
+      "seat belts",
+      "webbing",
+      "car safety",
+      "crash forces"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tires-compressed-air-load",
+    "headline": "Pneumatic Tires Ride on Compressed Air",
+    "body": "A modern car tire is not really carrying the vehicle by rubber alone. Britannica explains that pneumatic tires depend on compressed air to carry the load and absorb shocks. The rubber cover holds and protects that air, while the tread handles road contact, grip, wear, and puncture resistance. Every smooth ride depends on a controlled pocket of pressurized air.",
+    "summary": "Pneumatic tires carry loads and absorb shocks mainly through compressed air inside the tire.",
+    "categoryId": "cars",
+    "topic": "Tires",
+    "tags": [
+      "cars",
+      "tires",
+      "pneumatic tires",
+      "compressed air",
+      "vehicle design"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tires-radial-ply-handling",
+    "headline": "Radial Tires Changed How Cars Handle",
+    "body": "A tire’s internal cord pattern affects how a car feels on the road. Britannica says radial-ply tires arrange reinforcing cords almost perpendicular to the tire tube, with belts running around the tire. This gives greater resistance to side-to-side distortion when cornering. Radial tires also tend to provide better steering, lower rolling resistance, cooler running, safer bad-weather performance, and longer mileage.",
+    "summary": "Radial tires improve steering and reduce rolling resistance by changing the internal cord layout.",
+    "categoryId": "cars",
+    "topic": "Tires",
+    "tags": [
+      "cars",
+      "tires",
+      "radial tires",
+      "steering",
+      "rolling resistance"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tires-sidewall-code",
+    "headline": "Tire Codes Reveal Size and Speed",
+    "body": "The letters and numbers on a tire are not random. Britannica gives the example P215/70R15, where P means passenger-vehicle tire, 215 is the tire width in millimeters, 70 is the aspect ratio, R means radial construction, and 15 is the wheel rim diameter in inches. Tires can also carry speed ratings such as S, T, H, V, and Z. A tire sidewall is basically a tiny technical label.",
+    "summary": "Tire sidewall codes reveal the tire’s size, construction, rim diameter, and speed rating.",
+    "categoryId": "cars",
+    "topic": "Tires",
+    "tags": [
+      "cars",
+      "tires",
+      "tire codes",
+      "radial tires",
+      "speed rating"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cruise-control-set-speed",
+    "headline": "Cruise Control Holds a Driver’s Chosen Speed",
+    "body": "Cruise control is built around one simple promise: hold the speed the driver selects. Britannica defines cruise control as a device in a vehicle that lets a driver make the vehicle continue at a chosen speed. Once activated, the driver does not have to keep pressing the accelerator to maintain that speed. It turns steady highway driving into a controlled automatic task.",
+    "summary": "Cruise control keeps a vehicle moving at a driver-selected speed without constant accelerator input.",
+    "categoryId": "cars",
+    "topic": "Cruise Control",
+    "tags": [
+      "cars",
+      "cruise control",
+      "driver assistance",
+      "vehicle speed",
+      "car technology"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cruise-control-feedback-system",
+    "headline": "Cruise Control Is a Feedback System",
+    "body": "Cruise control is a classic example of a control system. HowStuffWorks explains that the system needs sensors to know the vehicle’s speed and throttle position, then controls speed by adjusting the throttle. If the car is slower than the set speed, the system adds throttle; if it is too fast, it reduces throttle. It constantly compares what is happening with what the driver requested.",
+    "summary": "Cruise control uses feedback from speed and throttle sensors to maintain a set speed.",
+    "categoryId": "cars",
+    "topic": "Cruise Control",
+    "tags": [
+      "cars",
+      "cruise control",
+      "feedback systems",
+      "throttle",
+      "sensors"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cruise-control-hills-throttle",
+    "headline": "Cruise Control Adjusts the Throttle for Hills",
+    "body": "Cruise control has to react when the road changes. HowStuffWorks explains that a good system maintains the chosen speed with little variation, even if the car has extra weight or climbs a steep hill. It does that by changing throttle position to add or reduce engine power. The driver feels steady speed, but the system is constantly making small corrections.",
+    "summary": "Cruise control keeps speed steady by adjusting throttle when hills, load, or road conditions change.",
+    "categoryId": "cars",
+    "topic": "Cruise Control",
+    "tags": [
+      "cars",
+      "cruise control",
+      "throttle",
+      "hills",
+      "vehicle control"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "brakes-motion-into-heat",
+    "headline": "Brakes Turn Motion Into Heat",
+    "body": "Brakes stop a vehicle by taking energy out of motion. Britannica explains that most brakes act on rotating mechanical parts and absorb kinetic energy. Mechanical brakes do this through friction between a spinning drum or disc and a stationary friction element. That friction turns the vehicle’s motion into heat, which is why brakes can fade if they get too hot.",
+    "summary": "Brakes slow vehicles by converting kinetic energy into heat through friction.",
+    "categoryId": "cars",
+    "topic": "Brakes",
+    "tags": [
+      "cars",
+      "brakes",
+      "friction",
+      "kinetic energy",
+      "vehicle safety"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "brakes-hydraulic-balance",
+    "headline": "Hydraulic Brakes Help Balance Stopping Force",
+    "body": "Early mechanical brakes were hard to keep evenly adjusted on every wheel. Britannica explains that this became a problem when several brakes had to be operated from one source, as in an automobile. Hydraulic brakes solved much of that issue by using oil under the same pressure to act on all brakes. Instead of cables trying to pull evenly, fluid pressure helps distribute braking force.",
+    "summary": "Hydraulic brakes use shared fluid pressure to help apply braking force more evenly across wheels.",
+    "categoryId": "cars",
+    "topic": "Brakes",
+    "tags": [
+      "cars",
+      "brakes",
+      "hydraulic brakes",
+      "brake fluid",
+      "vehicle systems"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "brakes-abs-fast-pulsing",
+    "headline": "ABS Pumps Brakes Faster Than a Driver Can",
+    "body": "Antilock braking systems help keep wheels from locking during hard braking. Britannica explains that ABS uses wheel-mounted sensors to send rotation-speed data to a microprocessor. When the system detects impending lockup, it tells a modulator to regulate brake pressure. The brake rapidly releases and reapplies pressure, similar to a driver pumping the pedal, but much faster.",
+    "summary": "ABS rapidly adjusts brake pressure to help prevent wheel lockup and preserve steering control.",
+    "categoryId": "cars",
+    "topic": "Brakes",
+    "tags": [
+      "cars",
+      "brakes",
+      "abs",
+      "antilock braking system",
+      "wheel sensors"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "transmission-engine-speed",
+    "headline": "Transmissions Let Engines Work at Useful Speeds",
+    "body": "A car engine cannot simply be connected to the wheels at one fixed ratio. Britannica explains that an automobile transmission sits between the engine and the driving wheels as a speed-changing device. It lets the engine run faster when full power is needed and slower when less power is required. The transmission helps match engine behavior to real driving conditions.",
+    "summary": "A transmission changes the relationship between engine speed and wheel speed so the engine can work efficiently.",
+    "categoryId": "cars",
+    "topic": "Transmission",
+    "tags": [
+      "cars",
+      "transmission",
+      "power train",
+      "engine speed",
+      "drivetrain"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "transmission-torque-multiplication",
+    "headline": "Low Gears Multiply Engine Torque",
+    "body": "A car needs extra turning force when starting from rest or climbing a steep hill. Britannica explains that under some conditions, engine torque is not enough by itself, so amplification is needed. Devices that change the ratio between engine speed and wheel speed can multiply engine torque by the same factor that engine speed is increased. Low gears trade speed for pulling power.",
+    "summary": "Low gears help cars start and climb by multiplying engine torque.",
+    "categoryId": "cars",
+    "topic": "Transmission",
+    "tags": [
+      "cars",
+      "transmission",
+      "torque",
+      "gears",
+      "drivetrain"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "transmission-torque-converter",
+    "headline": "Torque Converters Can Multiply Engine Force",
+    "body": "Automatic transmissions often use a hydraulic torque converter instead of a driver-operated clutch. Britannica explains that oil moving through the pump, turbine, and stator transfers force from the engine. The stator redirects the oil flow so it can provide more torque to turn the turbine than the engine originally applied to the pump. In some cases, it can multiply engine torque by up to 2.5 to 1.",
+    "summary": "A torque converter can hydraulically transfer and multiply engine torque in an automatic transmission.",
+    "categoryId": "cars",
+    "topic": "Transmission",
+    "tags": [
+      "cars",
+      "transmission",
+      "torque converter",
+      "automatic transmission",
+      "hydraulics"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "windshield-wipers-snowy-trolley",
+    "headline": "Windshield Wipers Came From a Snowy Trolley Ride",
+    "body": "Windshield wipers began with a very everyday problem. The National Inventors Hall of Fame says Mary Anderson got the idea while riding a trolley in snowy New York City in the early 1900s. She noticed streetcar drivers had to open windows, stop, or go outside just to clear the glass. A bad-weather inconvenience became the spark for one of driving’s most familiar safety features.",
+    "summary": "Mary Anderson imagined windshield wipers after seeing trolley drivers struggle to see in snowy weather.",
+    "categoryId": "cars",
+    "topic": "Windshield Wipers",
+    "tags": [
+      "cars",
+      "windshield wipers",
+      "mary anderson",
+      "inventions",
+      "car safety"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "windshield-wipers-inside-lever",
+    "headline": "The First Effective Wiper Used an Inside Lever",
+    "body": "Mary Anderson’s windshield wiper was simple but clever. The National Inventors Hall of Fame explains that her design used a lever inside the vehicle to control a spring-loaded arm with a rubber blade. A counterweight helped keep the blade pressed against the window while it swept away rain or snow. Her 1903 patent became the first effective windshield-clearing device.",
+    "summary": "Mary Anderson’s patented wiper let drivers clear rain or snow using a lever inside the vehicle.",
+    "categoryId": "cars",
+    "topic": "Windshield Wipers",
+    "tags": [
+      "cars",
+      "windshield wipers",
+      "mary anderson",
+      "patents",
+      "vehicle safety"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "windshield-wipers-cadillac-standard",
+    "headline": "Cadillac Made Wipers Standard Equipment",
+    "body": "The windshield wiper did not instantly appear on every car. The National Inventors Hall of Fame says Anderson’s invention was later adapted for automobiles as driving became more common. In 1922, Cadillac began installing windshield wipers as standard equipment on its cars. A feature inspired by trolley drivers became expected equipment for everyday drivers.",
+    "summary": "Cadillac began installing windshield wipers as standard equipment in 1922.",
+    "categoryId": "cars",
+    "topic": "Windshield Wipers",
+    "tags": [
+      "cars",
+      "windshield wipers",
+      "cadillac",
+      "automotive history",
+      "standard equipment"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "air-bags-supplement-seat-belts",
+    "headline": "Air Bags Are Supplemental, Not Replacements",
+    "body": "Air bags are important, but they are not meant to replace seat belts. NHTSA says air bags are supplemental protection and are designed to work best with seat belts. They help reduce the chance that a person’s head or upper body will strike the vehicle interior during a crash. The strongest protection comes from using both systems together.",
+    "summary": "Air bags are supplemental safety devices designed to work with seat belts, not replace them.",
+    "categoryId": "cars",
+    "topic": "Air Bags",
+    "tags": [
+      "cars",
+      "air bags",
+      "seat belts",
+      "vehicle safety",
+      "nhtsa"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "air-bags-blink-deployment",
+    "headline": "Air Bags Inflate in Less Than 1/20th of a Second",
+    "body": "An air bag has to work almost instantly. NHTSA explains that in a moderate to severe crash, the air bag system sends a signal to an inflator inside the air bag module. An igniter starts a chemical reaction that produces gas and inflates the bag in the blink of an eye, or less than 1/20th of a second. That speed is why sitting too close can be dangerous.",
+    "summary": "Air bags can inflate in less than 1/20th of a second during a crash.",
+    "categoryId": "cars",
+    "topic": "Air Bags",
+    "tags": [
+      "cars",
+      "air bags",
+      "inflators",
+      "crash safety",
+      "nhtsa"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "air-bags-one-time-use",
+    "headline": "Air Bags Can Only Deploy Once",
+    "body": "An air bag is a one-time safety device. NHTSA says air bags can only deploy once and must be replaced right away after a crash. They should be replaced only at an authorized repair center before the vehicle is driven again. After a crash, safety depends not just on surviving the impact, but also on restoring the protection system correctly.",
+    "summary": "Air bags cannot be reused after deployment and must be replaced before the car is driven again.",
+    "categoryId": "cars",
+    "topic": "Air Bags",
+    "tags": [
+      "cars",
+      "air bags",
+      "crash repair",
+      "vehicle safety",
+      "authorized repair"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "crumple-zones-designed-to-crumple",
+    "headline": "Safer Cars Are Designed to Crumple",
+    "body": "A car that crumples can actually be safer than one that stays perfectly rigid. Travelers explains that crumple zones transfer some of a crash’s kinetic energy into controlled deformation. That makes the vehicle take slightly longer to stop, which lowers the average impact force on belted passengers. The car may look worse after the crash, but the people inside can be better protected.",
+    "summary": "Crumple zones help protect passengers by absorbing crash energy through controlled deformation.",
+    "categoryId": "cars",
+    "topic": "Crumple Zones",
+    "tags": [
+      "cars",
+      "crumple zones",
+      "car safety",
+      "crash energy",
+      "vehicle design"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "crumple-zones-mercedes-1959",
+    "headline": "Mercedes-Benz Helped Popularize Crumple Zones",
+    "body": "Crumple zones were not always part of car design. Travelers says early car bodies were built to be rigid, with less concern for what happened to occupants in a crash. In 1959, Mercedes-Benz began manufacturing cars designed to absorb impact energy using the crumple-zone concept. Later safety ratings helped push nearly all passenger-car and light-truck manufacturers toward the design.",
+    "summary": "Mercedes-Benz began making cars with crumple-zone impact absorption in 1959.",
+    "categoryId": "cars",
+    "topic": "Crumple Zones",
+    "tags": [
+      "cars",
+      "crumple zones",
+      "mercedes-benz",
+      "automotive history",
+      "crash safety"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "crumple-zones-safety-cage",
+    "headline": "Crumple Zones Work With a Safety Cage",
+    "body": "Crumple zones are only part of the crash-safety system. Travelers explains that an engineered crumple zone works best with a rigid occupant compartment, also called a safety cage. The outer parts of the vehicle are designed to deform and absorb energy, while the passenger area is designed to preserve survival space. Good crash design means sacrificing some parts of the car to protect the people inside.",
+    "summary": "Crumple zones absorb impact energy while a rigid safety cage helps preserve passenger space.",
+    "categoryId": "cars",
+    "topic": "Crumple Zones",
+    "tags": [
+      "cars",
+      "crumple zones",
+      "safety cage",
+      "occupant compartment",
+      "car safety"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "car-horns-early-courtesy",
+    "headline": "Early Drivers Were Expected to Honk",
+    "body": "Car horns were not always seen as rude or aggressive. Car and Driver says horns were among the first accessories fitted to horseless carriages. In the early days of automobiles, using the horn was considered courteous because drivers were expected to warn pedestrians that a car was coming. Not honking could be seen as rude, which is almost the opposite of how many drivers think today.",
+    "summary": "Early car horns were used as polite warnings for pedestrians and other road users.",
+    "categoryId": "cars",
+    "topic": "Car Horns",
+    "tags": [
+      "cars",
+      "car horns",
+      "automotive history",
+      "pedestrians",
+      "road safety"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "car-horns-klaxon-ahooga",
+    "headline": "The Klaxon Made the Famous “Ahooga” Sound",
+    "body": "One early car horn became famous for its unforgettable voice. Car and Driver says inventor Miller Reese Hutchison patented the Klaxon in 1908. It became closely associated with the Ford Model T and made the well-known “ahooga” sound. The sound came from a diaphragm struck by teeth on a rotating wheel as an electric motor sped up and slowed down.",
+    "summary": "The Klaxon horn gave early cars their famous “ahooga” sound.",
+    "categoryId": "cars",
+    "topic": "Car Horns",
+    "tags": [
+      "cars",
+      "car horns",
+      "klaxon",
+      "model t",
+      "miller reese hutchison"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "car-horns-vibrating-diaphragm",
+    "headline": "Modern Horns Make Sound by Vibrating Metal",
+    "body": "A modern car horn is a small electrical vibration machine. Car and Driver explains that current flows through a coil to create an electromagnet, which pulls an armature and flexes a metal diaphragm. That motion breaks the circuit, the armature springs back, and the process repeats. The rapid oscillation of the diaphragm creates the horn’s sound.",
+    "summary": "Modern car horns create sound by rapidly vibrating a metal diaphragm with an electromagnet.",
+    "categoryId": "cars",
+    "topic": "Car Horns",
+    "tags": [
+      "cars",
+      "car horns",
+      "electromagnet",
+      "diaphragm",
+      "vehicle safety"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "crash-test-dummies-different-bodies",
+    "headline": "Crash Test Dummies Represent Different Bodies",
+    "body": "Crash test dummies are not all shaped like the same average adult. NHTSA says its family of dummies represents a wide range of bodies, from a newborn infant to 6-year-old children, small females, and average males. Each dummy is designed differently because people vary in size and weight. A safer car has to protect more than one kind of passenger.",
+    "summary": "Crash test dummies are built in different sizes to represent infants, children, small adults, and average adults.",
+    "categoryId": "cars",
+    "topic": "Crash Test Dummies",
+    "tags": [
+      "cars",
+      "crash test dummies",
+      "nhtsa",
+      "vehicle safety",
+      "body size"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "crash-test-dummies-measure-crashes",
+    "headline": "Dummies Help Measure What Happens Inside a Crash",
+    "body": "Crash test dummies help engineers see what the human body might experience in a crash. NHTSA explains that its dummies help measure body movement during a crash and show how people fare with different vehicle safety features. Advanced biomechanics research and measurement technologies have improved dummy development over time. The goal is not just to wreck cars, but to learn how to save lives.",
+    "summary": "Crash test dummies measure body movement so engineers can improve vehicle safety features.",
+    "categoryId": "cars",
+    "topic": "Crash Test Dummies",
+    "tags": [
+      "cars",
+      "crash test dummies",
+      "biomechanics",
+      "crash testing",
+      "vehicle safety"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "crash-test-dummies-vince-larry",
+    "headline": "Vince and Larry Made Dummies Famous",
+    "body": "Crash test dummies became part of pop culture through a safety campaign. NHTSA says many people remember the tagline “You Could Learn a Lot From a Dummy.” The campaign used Vince and Larry, two crash test dummy characters, to encourage seat belt use through TV, print, and radio ads. They became so recognizable that they were inducted into the Smithsonian’s Museum of American History.",
+    "summary": "Vince and Larry helped turn crash test dummies into memorable seat belt safety messengers.",
+    "categoryId": "cars",
+    "topic": "Crash Test Dummies",
+    "tags": [
+      "cars",
+      "crash test dummies",
+      "vince and larry",
+      "seat belts",
+      "car safety"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
