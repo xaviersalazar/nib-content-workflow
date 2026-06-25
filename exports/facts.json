@@ -19407,5 +19407,770 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "advertising-persuades-public",
+    "headline": "Listerine Invented a Disease to Sell Mouthwash",
+    "body": "Listerine started life as a surgical antiseptic and even a floor cleaner. Sales were sluggish until, in the 1920s, its makers seized on an obscure medical word for bad breath: halitosis. Their ads recast everyday morning breath as a shameful social condition that kept people single and unhired. Within years, revenue jumped from tens of thousands to millions. They didn't just sell a product; they sold the fear of a problem.",
+    "summary": "Listerine's sales exploded once its ads turned ordinary bad breath into a dreaded 'medical' condition.",
+    "categoryId": "business",
+    "topic": "Advertising",
+    "tags": [
+      "advertising",
+      "marketing",
+      "persuasion"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "advertising-funds-media",
+    "headline": "One Ad Campaign Convinced the World to Buy Diamond Rings",
+    "body": "Diamond engagement rings feel like an ancient tradition, but they're largely a 20th-century invention. In 1947, an ad agency working for De Beers coined the slogan 'A Diamond Is Forever,' tying the gem to eternal love and quietly discouraging anyone from ever reselling theirs. Demand soared, and a 'two months' salary' rule appeared out of thin air. One of history's most successful campaigns manufactured a global custom.",
+    "summary": "The diamond engagement ring isn't an old tradition, it's the result of a brilliant 1947 ad slogan.",
+    "categoryId": "business",
+    "topic": "Advertising",
+    "tags": [
+      "advertising",
+      "de beers",
+      "diamonds"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "advertising-modern-printing",
+    "headline": "The First Web Banner Ad Got Almost Half Its Viewers to Click",
+    "body": "In October 1994, the website HotWired ran what's considered the first paid banner ad, a simple bar reading 'Have you ever clicked your mouse right here? You will.' It worked astonishingly well: about 44% of the people who saw it clicked. Today's banner ads are lucky to get a single click from a thousand viewers. The internet's very first ad may still be its most successful one ever.",
+    "summary": "The internet's first banner ad in 1994 had a 44% click rate, thousands of times today's average.",
+    "categoryId": "business",
+    "topic": "Advertising",
+    "tags": [
+      "advertising",
+      "internet",
+      "digital marketing"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "brands-identity-not-logo",
+    "headline": "Coca-Cola Could Burn Down and Rebuild on Its Name Alone",
+    "body": "A company's most valuable asset often isn't its factories or its cash, it's its name. A Coca-Cola executive once boasted that if every plant, truck, and building the company owned burned to the ground overnight, he could walk into any bank and borrow the money to rebuild it all, purely on the strength of the brand. That intangible reputation is regularly valued in the tens of billions of dollars.",
+    "summary": "A Coca-Cola executive claimed the brand name alone could rebuild the entire company from ashes.",
+    "categoryId": "business",
+    "topic": "Brands",
+    "tags": [
+      "brands",
+      "coca-cola",
+      "brand value"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "brands-shape-perception",
+    "headline": "People Prefer Pepsi in Blind Tests but Coke on the Shelf",
+    "body": "In blind taste tests, more people tend to pick Pepsi, drawn to its sweeter hit. Yet Coca-Cola outsells it. Scientists scanned testers' brains to find out why: when people could see the Coke label, the brand lit up memory and reward areas that overpowered the taste itself. Dubbed the Pepsi Paradox, it shows a brand can literally change how good something tastes inside your head.",
+    "summary": "Brain scans show the Coca-Cola label can override taste itself, making Coke 'win' despite losing blind tests.",
+    "categoryId": "business",
+    "topic": "Brands",
+    "tags": [
+      "brands",
+      "neuroscience",
+      "perception"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "brands-build-equity",
+    "headline": "The Nike Swoosh Cost Just $35",
+    "body": "In 1971, Nike's co-founder asked a graphic-design student named Carolyn Davidson to create a logo. She billed him $35 for the now-iconic swoosh. He reportedly wasn't even thrilled, saying, 'I don't love it, but it'll grow on me.' It grew into one of the most recognized symbols on Earth. Years later the company gave Davidson stock as a proper thank-you. A $35 doodle became priceless brand equity.",
+    "summary": "One of the world's most valuable logos, the Nike swoosh, was designed by a student for $35.",
+    "categoryId": "business",
+    "topic": "Brands",
+    "tags": [
+      "brands",
+      "nike",
+      "logo"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "corporations-exist-legally",
+    "headline": "The Most Valuable Company Ever Existed 400 Years Ago",
+    "body": "We think of today's tech giants as the biggest businesses in history, but they may not be. The Dutch East India Company, founded in 1602, grew so powerful it had its own army, minted its own money, and waged war. At its peak, adjusted for inflation, some estimate it was worth several trillion dollars, more than today's largest corporations combined. It was a private company that behaved like an empire.",
+    "summary": "The 1602 Dutch East India Company may have been worth more, adjusted for inflation, than today's biggest firms combined.",
+    "categoryId": "business",
+    "topic": "Corporations",
+    "tags": [
+      "corporations",
+      "history",
+      "dutch east india company"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "corporations-owned-by-shareholders",
+    "headline": "One Share of This Company Costs Over Half a Million Dollars",
+    "body": "Most stocks trade for tens or hundreds of dollars a share, kept affordable so ordinary people can buy in. Warren Buffett refused to play along. He never split the stock of his company, Berkshire Hathaway, partly to discourage short-term traders. The result: a single Class A share has climbed past $600,000, more than the price of a house. It is, by far, the most expensive stock in America.",
+    "summary": "Warren Buffett never split Berkshire Hathaway's stock, so one share now costs more than a house.",
+    "categoryId": "business",
+    "topic": "Corporations",
+    "tags": [
+      "corporations",
+      "stocks",
+      "warren buffett"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "corporations-limit-owner-risk",
+    "headline": "The World's Oldest Company Ran for Over 1,400 Years",
+    "body": "Most businesses are lucky to last a few decades. A Japanese construction firm called Kongo Gumi lasted from 578 CE until 2006, more than fourteen centuries, building Buddhist temples through generations of the same family. It survived wars, disasters, and changing dynasties before finally being absorbed by a larger company. Dozens of businesses in Japan are over a thousand years old, often inns and temple builders.",
+    "summary": "A Japanese temple-building firm stayed in business for over 1,400 years before closing in 2006.",
+    "categoryId": "business",
+    "topic": "Corporations",
+    "tags": [
+      "corporations",
+      "history",
+      "japan"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "entrepreneurship-risk-profit",
+    "headline": "He Built 5,127 Vacuums Before One Worked",
+    "body": "Frustrated with a vacuum that kept losing suction, James Dyson set out to design a better one. It took him fifteen years and 5,126 failed prototypes; the 5,127th finally worked. He was deep in debt by the time it succeeded, and no manufacturer wanted his bagless design, so he launched his own company. Today he's a billionaire. Entrepreneurship often looks less like a flash of genius and more like stubborn failure.",
+    "summary": "James Dyson made 5,126 failed prototypes over 15 years before his bagless vacuum finally worked.",
+    "categoryId": "business",
+    "topic": "Entrepreneurship",
+    "tags": [
+      "entrepreneurship",
+      "dyson",
+      "persistence"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "entrepreneurship-combines-resources",
+    "headline": "Why So Many Giant Companies Started in a Garage",
+    "body": "Apple, Amazon, Disney, Google, and Hewlett-Packard all share a humble origin story: they began in a garage. The appeal makes sense. A garage is cheap, available, and lets a founder turn whatever's on hand, a spare room, a few tools, a single idea, into a working business. The 'garage startup' became such a powerful symbol that HP later bought and restored its original garage as a monument.",
+    "summary": "Apple, Amazon, Disney, and Google all began in garages, the cheapest way to turn an idea into a business.",
+    "categoryId": "business",
+    "topic": "Entrepreneurship",
+    "tags": [
+      "entrepreneurship",
+      "startups",
+      "history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "entrepreneurship-schumpeter-growth",
+    "headline": "Capitalism Grows by Destroying Itself",
+    "body": "Economist Joseph Schumpeter argued that progress isn't gentle; it's violent. He called it creative destruction: each new innovation wipes out the businesses that came before. Cars destroyed the horse-and-buggy trade, streaming flattened video rental, smartphones erased whole shelves of gadgets. In his view, this churn isn't a flaw in capitalism, it's the engine. The entrepreneur's job is to keep tearing down the old to make room for the new.",
+    "summary": "Schumpeter said capitalism advances through 'creative destruction,' with each innovation killing off what came before.",
+    "categoryId": "business",
+    "topic": "Entrepreneurship",
+    "tags": [
+      "entrepreneurship",
+      "schumpeter",
+      "economics"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "monopolies-one-seller-power",
+    "headline": "The Game Monopoly Was Invented to Attack Monopolies",
+    "body": "The board game began as 'The Landlord's Game,' patented in 1904 by Elizabeth Magie. She designed it to show how landlords and monopolists grow rich by squeezing everyone else, a pointed warning against concentrated wealth. Decades later a man sold a nearly identical game to Parker Brothers as his own, and it became Monopoly, a celebration of bankrupting your rivals. The original anti-monopoly lesson got completely flipped.",
+    "summary": "Monopoly started as a game designed to warn players about the evils of monopolists, then became a tribute to them.",
+    "categoryId": "business",
+    "topic": "Monopolies",
+    "tags": [
+      "monopolies",
+      "history",
+      "board games"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "monopolies-entry-barriers",
+    "headline": "Breaking Up His Monopoly Made Rockefeller Richer",
+    "body": "By 1900, John D. Rockefeller's Standard Oil controlled about 90% of America's oil. In 1911, the Supreme Court declared it an illegal monopoly and split it into 34 separate companies, ancestors of today's ExxonMobil and Chevron. Here's the twist: Rockefeller owned shares in every piece, and as those new companies thrived on their own, his fortune actually grew. The breakup meant to humble him helped make him the richest man alive.",
+    "summary": "When Standard Oil was broken into 34 companies, Rockefeller owned them all and grew even richer.",
+    "categoryId": "business",
+    "topic": "Monopolies",
+    "tags": [
+      "monopolies",
+      "standard oil",
+      "rockefeller"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "monopolies-competition-spectrum",
+    "headline": "You Used to Have to Rent Your Telephone",
+    "body": "For most of the 20th century, one company, AT&T, so completely dominated US phone service that you couldn't even own your home telephone. You rented it, month after month, and were forbidden from attaching any device the company hadn't approved. This near-total monopoly, nicknamed Ma Bell, was finally broken up in 1984 into regional 'Baby Bells.' Only then could Americans freely buy and own their own phones.",
+    "summary": "Under AT&T's old monopoly, Americans rented their telephones and couldn't legally own one until the 1984 breakup.",
+    "categoryId": "business",
+    "topic": "Monopolies",
+    "tags": [
+      "monopolies",
+      "att",
+      "telecommunications"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supply-demand-price-signal",
+    "headline": "In 2020, Oil Was Worth Less Than Nothing",
+    "body": "Prices almost always stay above zero, but in April 2020 something bizarre happened: the price of US oil went negative, plunging to about minus $37 a barrel. With the pandemic crushing demand and storage tanks overflowing, traders stuck holding oil they couldn't store were willing to pay other people to take it off their hands. For one strange day, supply so overwhelmed demand that oil became a liability, not an asset.",
+    "summary": "In April 2020, US oil prices crashed below zero, so sellers paid buyers to haul it away.",
+    "categoryId": "business",
+    "topic": "Supply and Demand",
+    "tags": [
+      "supply and demand",
+      "oil",
+      "prices"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supply-demand-demand-curve",
+    "headline": "Some Products Sell Better When You Raise the Price",
+    "body": "Normally, raising a price scares buyers off. But a few goods do the opposite. For luxury items, a high price is the whole point: a watch or handbag that costs more signals status and exclusivity, so demand can actually rise as the price climbs. Economists call these Veblen goods. Slash the price and shoppers may suspect it's fake or cheap. Sometimes expensive is the feature, not the bug.",
+    "summary": "For luxury 'Veblen goods,' a higher price can boost demand, because the cost itself signals status.",
+    "categoryId": "business",
+    "topic": "Supply and Demand",
+    "tags": [
+      "supply and demand",
+      "luxury",
+      "veblen goods"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supply-demand-equilibrium",
+    "headline": "Capping Prices Can Empty the Shelves",
+    "body": "When governments freeze prices below what a market would set, the result is often the opposite of what's intended. In the 1970s, US price caps on gasoline led to hours-long lines and 'sorry, no gas' signs. With prices held artificially low, demand outran supply, and the shortage showed up as endless waiting and empty pumps instead of higher costs. The price tag may stay friendly, but the product can vanish.",
+    "summary": "Holding prices below market levels tends to create shortages, like the 1970s gas lines, not bargains.",
+    "categoryId": "business",
+    "topic": "Supply and Demand",
+    "tags": [
+      "supply and demand",
+      "price controls",
+      "shortages"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "trade-crosses-borders",
+    "headline": "Not a Single Person on Earth Can Make a Pencil",
+    "body": "It sounds absurd, but it's true. A simple wooden pencil requires cedar from one country, graphite mined in another, rubber for the eraser, brass for the band, and machinery to assemble it all. No single individual knows how to do every step, from felling the tree to refining the metal. The humble pencil exists only because millions of strangers, who will never meet, unknowingly cooperate through trade.",
+    "summary": "No single human knows how to make a pencil from scratch; it takes a hidden global web of cooperation.",
+    "categoryId": "business",
+    "topic": "Trade",
+    "tags": [
+      "trade",
+      "economics",
+      "globalization"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "trade-comparative-advantage",
+    "headline": "Even If You're Better at Everything, You Should Still Specialize",
+    "body": "Imagine a lawyer who also happens to type faster than any assistant she could hire. Should she do her own typing? No, because every hour spent typing is an hour stolen from far more valuable legal work. She comes out ahead by hiring a slower typist and focusing on law. This is comparative advantage, and it's the surprising reason countries that are more productive at everything still gain from trading.",
+    "summary": "A lawyer who types faster than her assistant should still hire one, the same logic that drives global trade.",
+    "categoryId": "business",
+    "topic": "Trade",
+    "tags": [
+      "trade",
+      "comparative advantage",
+      "economics"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "trade-not-just-nations",
+    "headline": "A Simple Steel Box Built the Modern World",
+    "body": "Before the 1950s, loading a ship meant dockworkers hauling barrels and crates by hand for days. Then a trucker named Malcolm McLean had a plain idea: pack everything into standardized steel boxes that lift straight from truck to ship to train. The shipping container cut loading costs by more than 90% and made it cheap to manufacture almost anything anywhere. That dull metal box quietly powered globalization.",
+    "summary": "The standardized shipping container slashed freight costs over 90% and quietly made global trade possible.",
+    "categoryId": "business",
+    "topic": "Trade",
+    "tags": [
+      "trade",
+      "shipping container",
+      "globalization"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "branding-memory-tool",
+    "headline": "The Word 'Brand' Comes From Burning Cattle",
+    "body": "Today a brand means a polished corporate identity, but the word's roots are far more literal. 'Brand' originally meant to burn, and ranchers branded their livestock by searing a unique mark into the animal's hide with a hot iron, proving ownership and telling one herd from another. Modern branding does exactly the same job, minus the fire: it marks what's yours and makes it instantly recognizable.",
+    "summary": "Branding once meant literally searing an ownership mark onto cattle with a hot iron.",
+    "categoryId": "business",
+    "topic": "Branding",
+    "tags": [
+      "branding",
+      "etymology",
+      "history"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "branding-protected-by-trademarks",
+    "headline": "Why So Many Fast-Food Logos Are Red and Yellow",
+    "body": "Look at McDonald's, Burger King, KFC, Wendy's: red and yellow everywhere. It's no accident. Marketers lean on color psychology, the idea that certain hues nudge our feelings. Red is thought to stir appetite and urgency, while yellow grabs attention and feels cheerful and quick. Together they're sometimes called the 'ketchup and mustard' effect. The colors are picked to make you hungry and to keep you moving along.",
+    "summary": "Fast-food chains flood their branding with red and yellow because the colors are thought to spark hunger and urgency.",
+    "categoryId": "business",
+    "topic": "Branding",
+    "tags": [
+      "branding",
+      "color psychology",
+      "fast food"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "branding-consistency-builds-trust",
+    "headline": "A New Logo Lasted Just Six Days",
+    "body": "Changing a beloved brand is risky business. In 2010, Gap swapped its classic blue-box logo for a plain new design. The online backlash was so fierce that the company reversed course in just six days. Tropicana learned the same lesson in 2009: a redesigned orange-juice carton confused shoppers so badly that sales dropped about 20%, costing tens of millions, before the old look returned. Familiarity, it turns out, is valuable.",
+    "summary": "Gap's redesigned logo survived only six days, and a Tropicana redesign cost millions before both were reversed.",
+    "categoryId": "business",
+    "topic": "Branding",
+    "tags": [
+      "branding",
+      "rebranding",
+      "marketing"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "franchises-license-a-business",
+    "headline": "McDonald's Makes More From Real Estate Than Burgers",
+    "body": "McDonald's may look like a burger company, but at its core it acts like a landlord. The corporation often owns or leases the land and building beneath each franchised restaurant, then rents it to the franchisee, frequently earning more from that rent than from food royalties. As one executive put it, the business they're really in is real estate. The burgers mostly help fill the buildings the company profits from.",
+    "summary": "McDonald's earns much of its money as a landlord, renting land to franchisees rather than selling burgers.",
+    "categoryId": "business",
+    "topic": "Franchises",
+    "tags": [
+      "franchises",
+      "mcdonalds",
+      "real estate"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "franchises-fees-and-royalties",
+    "headline": "The McDonald's You Know Was Taken From Two Brothers",
+    "body": "Richard and Maurice McDonald built a fast, efficient burger stand in California. A milkshake-machine salesman named Ray Kroc saw it, talked his way into franchising it nationwide, and eventually bought the brothers out, then opened a competing restaurant right near theirs and squeezed them out of the business they'd created. He even disputed their original handshake deal. The empire still bears their name, but Kroc made it his.",
+    "summary": "Ray Kroc franchised the McDonald brothers' restaurant, then bought them out and pushed them aside.",
+    "categoryId": "business",
+    "topic": "Franchises",
+    "tags": [
+      "franchises",
+      "mcdonalds",
+      "ray kroc"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "franchises-support-control-tradeoff",
+    "headline": "The World's Biggest Chain Is Japanese-Owned 7-Eleven",
+    "body": "No restaurant or retail brand has more locations than 7-Eleven, which operates well over 80,000 stores worldwide, more than McDonald's or any other chain. Here's the twist: although 7-Eleven was founded in Texas, the brand is now owned by a Japanese company, and Japan has more 7-Elevens than the United States does. The convenience store that defined American late-night runs is, today, largely a Japanese empire.",
+    "summary": "7-Eleven has more locations than any chain on Earth, and the Texas-born brand is now Japanese-owned.",
+    "categoryId": "business",
+    "topic": "Franchises",
+    "tags": [
+      "franchises",
+      "7-eleven",
+      "retail"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "startups-early-risk",
+    "headline": "Most Startups Fail for One Avoidable Reason",
+    "body": "Roughly 90% of startups eventually fail, and the most common cause isn't running out of cash or facing fierce rivals. Studies of failed founders find the number one reason is brutally simple: there was no market need. They built something clever that not enough people actually wanted. It's a humbling reminder that the hardest part of a business isn't making the product, it's making sure anyone cares.",
+    "summary": "About 90% of startups fail, and the top reason is building something nobody actually wanted.",
+    "categoryId": "business",
+    "topic": "Startups",
+    "tags": [
+      "startups",
+      "failure",
+      "product market fit"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "startups-need-capital",
+    "headline": "A 'Unicorn' Startup Was Named for Being Rare",
+    "body": "In 2013, an investor coined the term unicorn for a startup worth a billion dollars or more, choosing the mythical creature precisely because such companies were supposed to be almost impossible to find. The name stuck, but the rarity didn't. Within a decade there were more than a thousand unicorns worldwide. When the magical beast became a crowd, investors reached for a bigger word: the decacorn, worth ten billion.",
+    "summary": "The word 'unicorn' was coined in 2013 because billion-dollar startups were rare; now there are over a thousand.",
+    "categoryId": "business",
+    "topic": "Startups",
+    "tags": [
+      "startups",
+      "unicorn",
+      "venture capital"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "startups-first-years-matter",
+    "headline": "Instagram Started as a Check-In App, YouTube as a Dating Site",
+    "body": "Many famous companies began as something completely different and pivoted when their first idea flopped. Instagram started as a clunky location check-in app called Burbn before stripping down to just photos. YouTube launched as a video dating site where almost no one uploaded a date. Slack was the leftover chat tool from a failed video game. Sometimes the real business is hiding inside the wreckage of the original plan.",
+    "summary": "Instagram, YouTube, and Slack each began as a different failing idea before pivoting into what we know.",
+    "categoryId": "business",
+    "topic": "Startups",
+    "tags": [
+      "startups",
+      "pivot",
+      "tech history"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stock-market-company-ownership",
+    "headline": "Wall Street Began Under a Tree in 1792",
+    "body": "The New York Stock Exchange, now a global financial titan, started outdoors. In 1792, two dozen stockbrokers gathered beneath a buttonwood tree on Wall Street and signed a short agreement, just two sentences, to trade securities among themselves and fix their commissions. That handshake deal, called the Buttonwood Agreement, grew into the largest stock exchange on Earth. The world's financial center literally took root under a tree.",
+    "summary": "The New York Stock Exchange began in 1792 as 24 brokers signing a pact under a buttonwood tree.",
+    "categoryId": "business",
+    "topic": "Stock Market",
+    "tags": [
+      "stock market",
+      "nyse",
+      "history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stock-market-primary-secondary",
+    "headline": "Machines Now Trade Stocks in Millionths of a Second",
+    "body": "The image of traders shouting on a floor is mostly history. Today the majority of stock trades are executed by computer algorithms, many in microseconds, far faster than you can blink. It mostly runs smoothly, until it doesn't. On May 6, 2010, automated trading triggered the 'Flash Crash,' wiping nearly a trillion dollars off the market in minutes before it bounced back almost as fast. The fastest market is also the most fragile.",
+    "summary": "Most stock trades are now made by algorithms in microseconds, which once erased nearly $1 trillion in minutes.",
+    "categoryId": "business",
+    "topic": "Stock Market",
+    "tags": [
+      "stock market",
+      "algorithmic trading",
+      "flash crash"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stock-market-fuels-growth",
+    "headline": "A Single Tulip Bulb Once Cost More Than a House",
+    "body": "The first great speculative bubble wasn't about stocks or crypto, it was about flowers. In 1630s Holland, tulips became a craze, and prices for rare bulbs spiraled to insane heights, with a single prized bulb reportedly trading for more than a grand Amsterdam house. Then, in early 1637, the market collapsed almost overnight, ruining buyers left holding worthless bulbs. 'Tulip mania' is still invoked as a warning about crowds and greed.",
+    "summary": "In 1630s Holland, speculation drove a single tulip bulb's price above that of a house, then it crashed.",
+    "categoryId": "business",
+    "topic": "Stock Market",
+    "tags": [
+      "stock market",
+      "bubble",
+      "tulip mania"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "business-cards-calling-card-origin",
+    "headline": "Business Cards Are Over 500 Years Old",
+    "body": "Handing someone your card feels modern, but the practice is ancient. Visiting cards appeared in China as far back as the 15th century, used to announce yourself and request a meeting before arriving at someone's home. The custom later spread to Europe, where aristocrats traded ornate calling cards. Long before phones or email, a small printed card was simply how you said, 'I would like to see you.'",
+    "summary": "The business card traces back to 15th-century China, where visiting cards announced a guest before arrival.",
+    "categoryId": "business",
+    "topic": "Business Cards",
+    "tags": [
+      "business cards",
+      "history",
+      "china"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "business-cards-first-impression",
+    "headline": "Folding a Calling Card's Corner Sent a Secret Message",
+    "body": "In Victorian society, calling cards carried a hidden language. The way you folded a card's corners conveyed meaning the name alone couldn't. A folded top-left corner might mean you'd come in person rather than sending a servant; other folds signaled congratulations, sympathy, or a farewell before a long journey. Visitors and hosts both knew the code. A bent piece of cardstock could quietly say what etiquette forbade aloud.",
+    "summary": "Victorians folded the corners of calling cards in coded ways to send messages their names couldn't.",
+    "categoryId": "business",
+    "topic": "Business Cards",
+    "tags": [
+      "business cards",
+      "victorian",
+      "etiquette"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "business-cards-networking-before-digital",
+    "headline": "In Japan, You Receive a Business Card With Both Hands",
+    "body": "In Japan, exchanging business cards, called meishi, is a small ceremony, not a casual toss. You offer and receive a card with both hands, pause to read it respectfully, and never stuff it carelessly into a back pocket or scribble on it in front of the giver. The card is treated as an extension of the person. Fumble the ritual and you can damage a relationship before it has even started.",
+    "summary": "Japan's meishi custom treats a business card as an extension of the person, exchanged with both hands and real care.",
+    "categoryId": "business",
+    "topic": "Business Cards",
+    "tags": [
+      "business cards",
+      "japan",
+      "etiquette"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "patents-right-to-exclude",
+    "headline": "Abraham Lincoln Is the Only US President With a Patent",
+    "body": "Long before the White House, Abraham Lincoln invented a device to lift riverboats over sandbars using inflatable chambers, earning Patent No. 6,469 in 1849. His boat lifter was never actually built, but he remains the only US president ever to hold a patent. Lincoln loved the system, once saying it 'added the fuel of interest to the fire of genius.' For him, protecting ideas was central to human progress.",
+    "summary": "Abraham Lincoln patented a boat-lifting device in 1849, making him the only US president to ever hold a patent.",
+    "categoryId": "business",
+    "topic": "Patents",
+    "tags": [
+      "patents",
+      "abraham lincoln",
+      "inventions"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "patents-three-main-types",
+    "headline": "Someone Patented Swinging Sideways on a Swing",
+    "body": "Patents are supposed to protect genuine inventions, but odd ones slip through. In 2002, the US patent office actually granted a patent for a 'method of swinging on a swing', side to side instead of back and forth, filed on behalf of a five-year-old. It was later revoked after public mockery. Other real patents have covered a stick for throwing to a dog and the combover hairstyle. The system isn't foolproof.",
+    "summary": "The US once granted a patent for swinging sideways on a swing, filed for a five-year-old, before revoking it.",
+    "categoryId": "business",
+    "topic": "Patents",
+    "tags": [
+      "patents",
+      "oddities",
+      "intellectual property"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "patents-protect-innovation-cycle",
+    "headline": "A Patent War Nearly Grounded American Aviation",
+    "body": "Patents are meant to spur invention, but they can also smother it. After their 1903 flight, the Wright brothers fought aggressive patent battles to control airplane design, suing rivals and demanding hefty licensing fees. The legal warfare so slowed US aircraft development that America fell behind Europe. When World War I loomed and the country needed planes, the government forced the feuding companies into a shared patent pool just to get them built.",
+    "summary": "The Wright brothers' fierce patent battles stalled US aviation so badly the government forced a patent pool in WWI.",
+    "categoryId": "business",
+    "topic": "Patents",
+    "tags": [
+      "patents",
+      "wright brothers",
+      "aviation"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "trade-secrets-valuable-because-secret",
+    "headline": "Coca-Cola's Recipe Sits in a Bank Vault",
+    "body": "Coca-Cola has guarded its formula as a trade secret for more than a century, never patenting it, because a patent would have forced the company to publish the recipe for all to see. Instead the formula lives behind heavy security; the company even moved it into a purpose-built vault in Atlanta that you can visit. Legend says only a couple of executives know it. Secrecy, not the law, is what keeps it safe.",
+    "summary": "Coca-Cola never patented its formula, guarding it as a trade secret locked in an Atlanta vault for over a century.",
+    "categoryId": "business",
+    "topic": "Trade Secrets",
+    "tags": [
+      "trade secrets",
+      "coca-cola",
+      "intellectual property"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "trade-secrets-require-effort",
+    "headline": "WD-40 Was Never Patented on Purpose",
+    "body": "WD-40, the spray in nearly every garage, has never been patented, and that's a deliberate strategy. Patenting it would have meant publicly revealing the exact formula, then losing all protection after about 20 years. By keeping the recipe a trade secret instead, the company has shielded it since 1953 with no expiration date in sight. The blend is reportedly mixed at a single facility. What you can't read, you can't copy.",
+    "summary": "WD-40 deliberately avoided a patent so it would never have to publish its formula, keeping it secret since 1953.",
+    "categoryId": "business",
+    "topic": "Trade Secrets",
+    "tags": [
+      "trade secrets",
+      "wd-40",
+      "business strategy"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "trade-secrets-can-last-indefinitely",
+    "headline": "KFC Splits Its Secret Recipe Between Two Companies",
+    "body": "A patent protects an invention for about 20 years, then expires. A trade secret can last forever, as long as it stays secret, which is why some recipes are guarded obsessively. KFC reportedly keeps its blend of '11 herbs and spices' locked away, with the formula split so that two separate companies each mix only part of it, and neither knows the whole thing. Decades later, it's still a closely held mystery.",
+    "summary": "Unlike a 20-year patent, a trade secret can last forever, which is why KFC splits its recipe between two firms.",
+    "categoryId": "business",
+    "topic": "Trade Secrets",
+    "tags": [
+      "trade secrets",
+      "kfc",
+      "confidentiality"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "trademarks-identify-source",
+    "headline": "You Can Trademark a Sound, a Color, or Even a Smell",
+    "body": "Trademarks aren't just logos and names. Companies have legally protected all sorts of sensory signatures: the three NBC chimes, the MGM lion's roar, and the Harley-Davidson engine rumble have all been claimed as sound marks. T-Mobile owns a specific shade of magenta, and UPS a particular brown. There's even been a trademarked scent for a brand of modeling clay. If customers link a sensation to one source, it can be protected.",
+    "summary": "Trademarks can cover sounds, colors, and even smells, from the NBC chimes to UPS brown to a scented toy.",
+    "categoryId": "business",
+    "topic": "Trademarks",
+    "tags": [
+      "trademarks",
+      "branding",
+      "intellectual property"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "trademarks-protect-brands",
+    "headline": "Aspirin and Escalator Were Once Brand Names",
+    "body": "A trademark can be too successful. When a brand name becomes the everyday word for the whole product, the company can lose its exclusive rights, a fate called genericide. Aspirin, escalator, thermos, trampoline, and zipper were all once protected brand names that slipped into common speech and lost their trademarks. It's exactly why companies nervously remind us to 'search on a search engine' rather than just google something.",
+    "summary": "Aspirin, escalator, and thermos were all trademarks lost to 'genericide' when the names became everyday words.",
+    "categoryId": "business",
+    "topic": "Trademarks",
+    "tags": [
+      "trademarks",
+      "genericide",
+      "brands"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "trademarks-not-own-word",
+    "headline": "Nestle Spent Years Failing to Trademark the KitKat Shape",
+    "body": "Trademark protection has limits, and you can't lock up just anything. Nestle fought a long legal battle in Europe to trademark the very shape of a KitKat, those four joined fingers, hoping to stop rivals from copying it. Courts repeatedly refused, ruling the shape wasn't distinctive enough to belong to one company. After years of effort and millions in legal fees, Nestle lost. A familiar shape isn't automatically yours.",
+    "summary": "Nestle spent years and lost trying to trademark the four-finger shape of a KitKat bar.",
+    "categoryId": "business",
+    "topic": "Trademarks",
+    "tags": [
+      "trademarks",
+      "nestle",
+      "intellectual property"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]

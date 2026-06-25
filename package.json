@@ -9,6 +9,7 @@
      "scrape:next": "tsx scripts/scrape-next.ts",
      "scrape:next-two": "tsx scripts/scrape-next-two.ts",
      "scrape:batch": "tsx scripts/scrape-batch.ts",
+     "scrape:category": "tsx scripts/scrape-category.ts",
      "export:facts": "tsx scripts/export-facts.ts"
   },
   "keywords": [],
