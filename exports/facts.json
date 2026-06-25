@@ -20937,5 +20937,770 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "banned-books-ideas-under-pressure",
+    "headline": "Alice in Wonderland Was Banned for Its Talking Animals",
+    "body": "Censors have targeted some surprisingly gentle books. In 1931, a governor in China's Hunan province banned Alice's Adventures in Wonderland, objecting that animals shouldn't be shown using human language as equals with people. Putting beasts and humans on the same level, he argued, was an insult. A whimsical children's classic was treated as a threat to the social order. Bans often say more about the censor's fears than about the book.",
+    "summary": "Alice in Wonderland was banned in 1930s China for the crime of letting animals talk like people.",
+    "categoryId": "literature",
+    "topic": "Banned Books",
+    "tags": [
+      "banned books",
+      "censorship",
+      "alice in wonderland"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "banned-books-history-old",
+    "headline": "The Catholic Church Kept a Banned-Books List for 400 Years",
+    "body": "From 1559 until 1966, the Catholic Church maintained an official Index of Forbidden Books, naming works Catholics were not allowed to read. Over four centuries it condemned an astonishing roster of thinkers, including Galileo, Kant, Descartes, and Voltaire. Authors could be added long after their deaths. The list was finally abolished in 1966, but for centuries some of history's greatest minds shared one official label: forbidden.",
+    "summary": "For four centuries the Church's Index of Forbidden Books outlawed reading Galileo, Kant, Descartes, and more.",
+    "categoryId": "literature",
+    "topic": "Banned Books",
+    "tags": [
+      "banned books",
+      "censorship",
+      "catholic church"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "banned-books-can-increase-interest",
+    "headline": "Putting a Book on Trial Made It a Bestseller",
+    "body": "In 1960, British publisher Penguin was prosecuted for obscenity over D.H. Lawrence's Lady Chatterley's Lover. The trial became a sensation, with the prosecutor famously asking jurors whether it was a book they would let their servants read. Penguin won. The moment the verdict cleared it, the novel went on sale and flew off shelves, around two million copies within weeks. Trying to bury a book can be the best publicity it ever gets.",
+    "summary": "After winning its 1960 obscenity trial, Lady Chatterley's Lover sold roughly two million copies in weeks.",
+    "categoryId": "literature",
+    "topic": "Banned Books",
+    "tags": [
+      "banned books",
+      "obscenity trial",
+      "publishing"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "comics-sequential-art",
+    "headline": "A 10-Cent Comic Now Sells for Millions",
+    "body": "In 1938, a comic book called Action Comics #1 hit newsstands for ten cents and introduced a new character: Superman. Most copies were read to tatters or thrown out. Today a single well-preserved copy is among the most valuable comics on Earth, with one selling for more than $3 million. The humble dime that launched the entire superhero genre became one of the best investments in pop-culture history.",
+    "summary": "Action Comics #1, the 1938 dime comic that introduced Superman, has sold for more than $3 million.",
+    "categoryId": "literature",
+    "topic": "Comics",
+    "tags": [
+      "comics",
+      "superman",
+      "collecting"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "comics-newspaper-roots",
+    "headline": "The Term 'Yellow Journalism' Came From a Comic Strip",
+    "body": "In the 1890s, two New York newspapers waged a vicious circulation war, and at the center of it was a popular comic character known as the Yellow Kid, drawn in his signature yellow nightshirt. Both papers fought to print him. Their sensational, scandal-chasing style became linked to the strip, giving us the phrase 'yellow journalism,' still used today for trashy, attention-grabbing news. A cartoon kid ended up naming an entire media sin.",
+    "summary": "'Yellow journalism' is named after the Yellow Kid, a comic at the heart of an 1890s newspaper war.",
+    "categoryId": "literature",
+    "topic": "Comics",
+    "tags": [
+      "comics",
+      "yellow journalism",
+      "newspapers"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "comics-grew-up",
+    "headline": "A Comic About the Holocaust Won a Pulitzer Prize",
+    "body": "For decades comics were dismissed as kids' stuff. Then in 1992, Art Spiegelman's Maus, a graphic novel retelling his father's survival of the Holocaust with Jews drawn as mice and Nazis as cats, won a Pulitzer Prize, the first graphic novel ever to do so. It proved that panels and speech balloons could carry history's heaviest subjects. The form once mocked as the funny pages had become serious literature.",
+    "summary": "Maus, a graphic novel about the Holocaust, became the first comic to win a Pulitzer Prize in 1992.",
+    "categoryId": "literature",
+    "topic": "Comics",
+    "tags": [
+      "comics",
+      "maus",
+      "graphic novels"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "detective-fiction-reader-sleuth",
+    "headline": "The Detective Story Was Invented Before the Word Existed",
+    "body": "When Edgar Allan Poe published 'The Murders in the Rue Morgue' in 1841, he created the template for nearly every mystery since: a brilliant amateur, a baffled police force, and a crime cracked by pure reasoning. Remarkably, the word 'detective' had barely entered English yet, and real police detective forces were brand new. Poe essentially invented a whole genre about a profession that hardly existed at the time.",
+    "summary": "Poe wrote the first modern detective story in 1841, before the word 'detective' was even common in English.",
+    "categoryId": "literature",
+    "topic": "Detective Fiction",
+    "tags": [
+      "detective fiction",
+      "edgar allan poe",
+      "mystery"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "detective-fiction-poe-origin",
+    "headline": "Readers Forced an Author to Resurrect Sherlock Holmes",
+    "body": "By 1893, Arthur Conan Doyle was so tired of Sherlock Holmes that he killed him off, sending the detective plunging over a waterfall. The public reacted with fury and grief; some readers reportedly wore black mourning bands, and thousands canceled their magazine subscriptions. The pressure was relentless. Years later, Conan Doyle gave in and brought Holmes back from the dead. Fans had simply refused to let a fictional character stay buried.",
+    "summary": "When Conan Doyle killed Sherlock Holmes, outraged fans mourned in the streets until he resurrected the detective.",
+    "categoryId": "literature",
+    "topic": "Detective Fiction",
+    "tags": [
+      "detective fiction",
+      "sherlock holmes",
+      "conan doyle"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "detective-fiction-hard-boiled",
+    "headline": "The Queen of Mystery Vanished for 11 Days",
+    "body": "Agatha Christie, the best-selling novelist in history, once became a real-life mystery. In 1926 she disappeared; her car was found abandoned, and a manhunt thousands strong searched the countryside. Eleven days later she turned up at a hotel, registered under a false name, claiming she could not remember how she got there. The truth was never fully explained. The author who plotted countless puzzles left behind one of her own.",
+    "summary": "In 1926 Agatha Christie vanished for 11 days, sparking a national manhunt she never fully explained.",
+    "categoryId": "literature",
+    "topic": "Detective Fiction",
+    "tags": [
+      "detective fiction",
+      "agatha christie",
+      "mystery"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "epic-poems-heroic-scale",
+    "headline": "The Oldest Epic Has a Flood Story Older Than Noah's",
+    "body": "The Epic of Gilgamesh, written in Mesopotamia over 4,000 years ago, is among the oldest stories humans have. Buried inside it is a startling scene: a man is warned of a world-destroying flood, builds a great boat, loads it with animals, and later releases a bird to find dry land. The parallels to Noah's Ark are unmistakable, and Gilgamesh's version was written down many centuries earlier.",
+    "summary": "The 4,000-year-old Epic of Gilgamesh contains a flood-and-ark tale strikingly like Noah's, written centuries before it.",
+    "categoryId": "literature",
+    "topic": "Epic Poems",
+    "tags": [
+      "epic poems",
+      "gilgamesh",
+      "ancient literature"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "epic-poems-oral-formulas",
+    "headline": "We Don't Know If Homer Ever Really Existed",
+    "body": "The Iliad and the Odyssey are credited to a poet named Homer, yet scholars aren't sure he was one person, or a single person at all. The epics grew out of centuries of oral performance, sung from memory by traveling bards who used repeated phrases as building blocks. In the 1930s, a researcher found illiterate singers in the Balkans who could still perform epic-length poems this way, hinting that 'Homer' may be a whole tradition.",
+    "summary": "Homer may never have existed as one person; the epics came from centuries of bards singing from memory.",
+    "categoryId": "literature",
+    "topic": "Epic Poems",
+    "tags": [
+      "epic poems",
+      "homer",
+      "oral tradition"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "epic-poems-gilgamesh-old",
+    "headline": "The Longest Poem Ever Runs to 1.8 Million Words",
+    "body": "The ancient Indian epic the Mahabharata isn't just long, it's staggering. At roughly 1.8 million words, it's about ten times the combined length of Homer's Iliad and Odyssey, and many times longer than the Bible. It weaves together war, philosophy, family, and the famous spiritual dialogue of the Bhagavad Gita. Reading it straight through would take weeks. It may well be the longest poem humanity has ever composed.",
+    "summary": "India's Mahabharata, at about 1.8 million words, is roughly ten times the Iliad and Odyssey combined.",
+    "categoryId": "literature",
+    "topic": "Epic Poems",
+    "tags": [
+      "epic poems",
+      "mahabharata",
+      "ancient literature"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fairy-tales-not-always-fairies",
+    "headline": "The Original Grimm Fairy Tales Were Gruesome",
+    "body": "The Brothers Grimm didn't write gentle bedtime stories. In their early versions, Cinderella's stepsisters slice off parts of their own feet to squeeze into the slipper, then have their eyes pecked out by birds. Snow White's queen is forced to dance to death in red-hot iron shoes. The Grimms softened these horrors in later editions for younger readers. The cheerful fairy tales we know today are the cleaned-up rewrites.",
+    "summary": "In the Grimms' originals, Cinderella's stepsisters mutilate their feet and get their eyes pecked out.",
+    "categoryId": "literature",
+    "topic": "Fairy Tales",
+    "tags": [
+      "fairy tales",
+      "brothers grimm",
+      "folklore"
+    ],
+    "readTimeSeconds": 49,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fairy-tales-folk-and-art",
+    "headline": "Some Fairy Tales Are Thousands of Years Old",
+    "body": "Fairy tales feel timeless, and it turns out some literally are. Researchers using techniques borrowed from biology, tracing how stories change as languages split apart, estimate that certain tales are astonishingly ancient. One, 'The Smith and the Devil,' may date back around 6,000 years, older than the Bible or the classical Greek myths. These stories were being told around fires long before anyone could write them down.",
+    "summary": "Researchers traced some fairy tales back roughly 6,000 years, older than the Bible or Greek mythology.",
+    "categoryId": "literature",
+    "topic": "Fairy Tales",
+    "tags": [
+      "fairy tales",
+      "folklore",
+      "ancient stories"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fairy-tales-childlike-dark",
+    "headline": "The Original Little Mermaid Dissolves Into Sea Foam",
+    "body": "Disney's Little Mermaid marries the prince and lives happily ever after. Hans Christian Andersen's 1837 original is heartbreaking. The mermaid trades her tongue for legs that feel like walking on knives, the prince marries someone else, and she is given a terrible choice: kill him to save herself, or die. She refuses to hurt him, throws herself into the sea, and dissolves into foam. The fairy tale was always a tragedy.",
+    "summary": "In Andersen's original, the Little Mermaid loses the prince and dissolves into sea foam, far from Disney's ending.",
+    "categoryId": "literature",
+    "topic": "Fairy Tales",
+    "tags": [
+      "fairy tales",
+      "hans christian andersen",
+      "little mermaid"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "legends-place-person-history",
+    "headline": "Atlantis Came From a Single Ancient Author",
+    "body": "People have hunted for the lost city of Atlantis for centuries, mounting expeditions and writing thousands of books. Yet every trace of it leads back to one source: the Greek philosopher Plato, who described the sunken civilization around 360 BCE, probably as a moral fable about pride and downfall. No earlier mention exists. An invented illustration in a philosophy lesson became one of history's most enduring and obsessively searched-for legends.",
+    "summary": "Every Atlantis legend traces to a single Plato passage from around 360 BCE, likely invented as a moral fable.",
+    "categoryId": "literature",
+    "topic": "Legends",
+    "tags": [
+      "legends",
+      "atlantis",
+      "plato"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "legends-between-history-and-myth",
+    "headline": "Dracula Was Based on a Real, Brutal Prince",
+    "body": "Count Dracula feels like pure invention, but Bram Stoker borrowed the name and some of the menace from history. Vlad III, a 15th-century ruler of Wallachia, was nicknamed Vlad the Impaler for his favorite method of executing enemies, and his father belonged to the Order of the Dragon, 'Dracul.' Stoker stitched that grim reputation onto his vampire. The world's most famous fictional bloodsucker has roots in a very real, very feared warlord.",
+    "summary": "Bram Stoker's Dracula draws his name and menace from Vlad the Impaler, a real and brutal 15th-century prince.",
+    "categoryId": "literature",
+    "topic": "Legends",
+    "tags": [
+      "legends",
+      "dracula",
+      "vlad the impaler"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "legends-travel-and-change",
+    "headline": "The Pied Piper May Record a Real Tragedy",
+    "body": "The Pied Piper of Hamelin sounds like pure fable: a piper lures away a town's children after he isn't paid. But a Hamelin town record from 1284 soberly notes that 130 of its children 'left' and were lost, with no rats or magic mentioned at all. Historians still argue over what really happened, plague, emigration, some disaster, but the eerie detail is that the town seems to be remembering something that genuinely occurred.",
+    "summary": "A 1284 Hamelin record says 130 children were lost, hinting the Pied Piper legend recalls a real tragedy.",
+    "categoryId": "literature",
+    "topic": "Legends",
+    "tags": [
+      "legends",
+      "pied piper",
+      "medieval history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "libraries-store-memory",
+    "headline": "The World's Oldest Library Was Founded by a Woman",
+    "body": "In 859 CE, a woman named Fatima al-Fihri used her inheritance to found a place of learning in Fez, Morocco. It grew into al-Qarawiyyin, home to a library that has been operating ever since, making it widely recognized as the oldest working library on Earth. Its shelves still hold manuscripts more than a thousand years old. A library older than most modern nations was the gift of a single determined woman.",
+    "summary": "The world's oldest still-working library, in Fez, Morocco, was founded by a woman, Fatima al-Fihri, in 859 CE.",
+    "categoryId": "literature",
+    "topic": "Libraries",
+    "tags": [
+      "libraries",
+      "history",
+      "morocco"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "libraries-alexandria-symbol",
+    "headline": "Alexandria Stole Books From Every Passing Ship",
+    "body": "The Library of Alexandria was so hungry for knowledge that, by some accounts, every ship docking in the city had to surrender its books to be copied. The library often kept the originals and handed back the copies. And despite the famous image of it burning down in a single dramatic blaze, historians think it faded slowly over centuries of neglect, war, and budget cuts. The greatest library died not in flames, but from indifference.",
+    "summary": "Alexandria seized books off docking ships to copy, and likely declined slowly rather than burning in one fire.",
+    "categoryId": "literature",
+    "topic": "Libraries",
+    "tags": [
+      "libraries",
+      "alexandria",
+      "ancient world"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "libraries-changing-role",
+    "headline": "A Library Tried to Save Every Public Tweet",
+    "body": "In 2010, the US Library of Congress, the largest library in the world, struck a deal to archive every public tweet ever posted. The idea was that these tiny messages were a record of how people actually lived and spoke. But the flood was overwhelming, billions upon billions of tweets, and in 2017 the library scaled the project back to saving only select ones. Even a national library can drown in the modern firehose of words.",
+    "summary": "The Library of Congress set out to archive every public tweet in 2010, then gave up on the deluge by 2017.",
+    "categoryId": "literature",
+    "topic": "Libraries",
+    "tags": [
+      "libraries",
+      "library of congress",
+      "archives"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "myths-explain-world",
+    "headline": "Some Myths Remember the Coastline From 10,000 Years Ago",
+    "body": "Aboriginal Australian oral traditions include stories of a time when the sea was lower and the shoreline lay far out from where it is now. Scientists checking these tales against the geological record found they match real sea-level rise from the end of the last Ice Age, roughly 7,000 to 10,000 years ago. Passed down by voice across hundreds of generations, these may be the oldest accurate stories humanity has ever kept.",
+    "summary": "Aboriginal myths accurately describe coastlines from up to 10,000 years ago, possibly Earth's oldest true stories.",
+    "categoryId": "literature",
+    "topic": "Myths",
+    "tags": [
+      "myths",
+      "aboriginal australia",
+      "oral history"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "myths-culture-validation",
+    "headline": "You Name Norse Gods Every Day of the Week",
+    "body": "The days of the week are a hidden roll call of ancient gods. Tuesday honors Tiw, a Norse war god; Wednesday is Woden's day, for Odin; Thursday belongs to Thor; and Friday to the goddess Frigg. Saturday still carries the Roman god Saturn, while Sunday and Monday tip their hats to the sun and moon. Every time you check a calendar, you're quietly invoking a pantheon most people forgot they ever named.",
+    "summary": "Tuesday through Friday are named for Norse gods, and Saturday for Saturn, hidden in your weekly calendar.",
+    "categoryId": "literature",
+    "topic": "Myths",
+    "tags": [
+      "myths",
+      "norse mythology",
+      "language"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "myths-not-just-false",
+    "headline": "Star Wars Was Built on an Ancient Story Pattern",
+    "body": "A scholar named Joseph Campbell studied myths from around the world and noticed they often share one underlying shape: an ordinary hero is called to adventure, faces trials, and returns transformed. He called it the 'hero's journey.' George Lucas read Campbell's work and deliberately built Star Wars on that ancient skeleton. Luke Skywalker follows the same path as countless mythic heroes before him. Old myths never died; they just got lightsabers.",
+    "summary": "George Lucas built Star Wars on the 'hero's journey,' a story pattern Joseph Campbell found in myths worldwide.",
+    "categoryId": "literature",
+    "topic": "Myths",
+    "tags": [
+      "myths",
+      "heros journey",
+      "star wars"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "novels-long-prose-worlds",
+    "headline": "The First Novel May Have Been Written by a Woman in 1000 CE",
+    "body": "Long before Europe's celebrated novels, a Japanese noblewoman known as Murasaki Shikibu wrote The Tale of Genji around the year 1000. Following the loves and intrigues of a prince across more than a thousand pages, with deep psychological detail, it is often called the world's first real novel. It was written by a woman, in a royal court, roughly 600 years before authors like Cervantes. The novel may well have begun in Japan.",
+    "summary": "Japan's Tale of Genji, written by a woman around 1000 CE, is often called the world's first true novel.",
+    "categoryId": "literature",
+    "topic": "Novels",
+    "tags": [
+      "novels",
+      "tale of genji",
+      "murasaki shikibu"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "novels-character-depth",
+    "headline": "The Longest Novel Ever Runs to 1.2 Million Words",
+    "body": "Marcel Proust's In Search of Lost Time holds a record few would want to challenge: at around 1.2 million words across seven volumes, it is recognized as one of the longest novels ever written. Famously, it opens with the narrator dunking a small cake in tea, and a flood of memory pours out across thousands of pages. Reading the whole thing is a months-long commitment. Proust spent his final years racing to finish it.",
+    "summary": "Proust's In Search of Lost Time, at roughly 1.2 million words, is among the longest novels ever written.",
+    "categoryId": "literature",
+    "topic": "Novels",
+    "tags": [
+      "novels",
+      "marcel proust",
+      "records"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "novels-can-change-thought",
+    "headline": "A Novel Helped Push a Nation Toward War",
+    "body": "When Harriet Beecher Stowe published Uncle Tom's Cabin in 1852, its searing portrait of slavery became a phenomenon, selling hundreds of thousands of copies and hardening Northern opposition to slavery. Legend says that when Abraham Lincoln met Stowe during the Civil War, he greeted her as 'the little woman who wrote the book that started this great war.' Whether he said it or not, few novels have ever moved history so directly.",
+    "summary": "Uncle Tom's Cabin so inflamed anti-slavery feeling that Lincoln reportedly called Stowe the woman who started the war.",
+    "categoryId": "literature",
+    "topic": "Novels",
+    "tags": [
+      "novels",
+      "uncle toms cabin",
+      "social change"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "poetry-compressed-language",
+    "headline": "The First Author in History Was a Woman Poet",
+    "body": "We know the names of very few ancient writers, but the earliest one we can name at all was a poet, and a woman. Enheduanna, a high priestess in Mesopotamia around 2300 BCE, wrote hymns and poems and signed her name to them, more than four thousand years ago. That makes her the first known author in human history. Long before Homer or the Bible, the written word's first credited voice belonged to her.",
+    "summary": "Enheduanna, a Mesopotamian priestess writing around 2300 BCE, is the earliest author known by name, and a woman.",
+    "categoryId": "literature",
+    "topic": "Poetry",
+    "tags": [
+      "poetry",
+      "enheduanna",
+      "ancient literature"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "poetry-not-just-rhyme",
+    "headline": "A Great Poet Published Almost Nothing While Alive",
+    "body": "Emily Dickinson wrote nearly 1,800 poems in her lifetime, tucked away in handmade booklets and letters. Yet fewer than a dozen were published while she lived, often anonymously and altered by editors. Only after she died in 1886, when her sister discovered the hidden trove, did the world learn what it had. One of America's greatest poets spent her life almost entirely unread, her masterpieces waiting quietly in a drawer.",
+    "summary": "Emily Dickinson wrote about 1,800 poems but published fewer than a dozen; the rest were found after her death.",
+    "categoryId": "literature",
+    "topic": "Poetry",
+    "tags": [
+      "poetry",
+      "emily dickinson",
+      "literary history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "poetry-vs-prose",
+    "headline": "A 13th-Century Persian Poet Is a US Bestseller Today",
+    "body": "Rumi, a Persian poet and mystic who lived in the 1200s, has become one of the best-selling poets in the United States, eight centuries after his death. His verses about love, longing, and the divine are shared endlessly online, quoted at weddings, and printed on countless cards and mugs. Written in medieval Persian and translated again and again, his words still move millions. Few modern poets reach the audience this medieval one still commands.",
+    "summary": "Rumi, a 13th-century Persian poet, ranks among the best-selling poets in America 800 years later.",
+    "categoryId": "literature",
+    "topic": "Poetry",
+    "tags": [
+      "poetry",
+      "rumi",
+      "bestsellers"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "printing-gutenberg-revolution",
+    "headline": "Books Were Once So Precious They Were Chained Down",
+    "body": "Before printing, every book was copied by hand, a single one taking a scribe months and costing as much as a small farm. Books were treasures, and libraries protected them like jewels, literally chaining the volumes to the shelves so no one could walk off with them. A few of these chained libraries still survive in Europe today. The idea of a cheap, disposable book would have seemed absurd, even a little obscene.",
+    "summary": "Before printing, hand-copied books were so valuable that libraries chained them to the shelves.",
+    "categoryId": "literature",
+    "topic": "Printing",
+    "tags": [
+      "printing",
+      "books",
+      "medieval history"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "printing-literacy-spread",
+    "headline": "Printing Made More Books in 50 Years Than the Past 1,000",
+    "body": "Once the printing press took hold in Europe in the mid-1400s, the explosion was almost unimaginable. Historians estimate that within just fifty years, European presses produced around 20 million books, more than all the scribes of the previous thousand years had managed to copy by hand. Knowledge that had once trickled now flooded. The sudden abundance of cheap text helped fuel the Renaissance, the Reformation, and the modern world.",
+    "summary": "In its first 50 years, the printing press made an estimated 20 million books, more than the prior millennium.",
+    "categoryId": "literature",
+    "topic": "Printing",
+    "tags": [
+      "printing",
+      "books",
+      "renaissance"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "printing-press-idea-machine",
+    "headline": "Cheap 'Penny Dreadfuls' Sparked a Panic Over Trashy Books",
+    "body": "In the 1800s, new printing made fiction dirt cheap. Britain got 'penny dreadfuls,' lurid serialized tales of crime and horror sold for a penny; America got 'dime novels' full of outlaws and adventure. Working-class readers, including children, devoured them. Respectable society was horrified, warning that this trashy reading would corrupt the young, the same panic later aimed at comics, radio, and video games. Cheap stories created the first true mass readers.",
+    "summary": "Cheap Victorian 'penny dreadfuls' and 'dime novels' created mass readers and the first panic over 'trashy' fiction.",
+    "categoryId": "literature",
+    "topic": "Printing",
+    "tags": [
+      "printing",
+      "penny dreadfuls",
+      "popular fiction"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "shakespeare-theatre-career",
+    "headline": "Shakespeare Left His Wife His 'Second-Best Bed'",
+    "body": "For the most famous writer in English, Shakespeare's life is oddly murky. We have only a handful of his signatures, and he seems to have spelled his own name several different ways. Whole years of his life are simply blank to historians. And in his will, he left his wife Anne a curious bequest: his 'second-best bed.' Scholars have argued for centuries over whether that was an insult, a tender gesture, or just routine paperwork.",
+    "summary": "Shakespeare's life is so murky he spelled his name several ways and willed his wife only his 'second-best bed.'",
+    "categoryId": "literature",
+    "topic": "Shakespeare",
+    "tags": [
+      "shakespeare",
+      "biography",
+      "mystery"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "shakespeare-language-lives",
+    "headline": "You Quote Shakespeare Without Knowing It",
+    "body": "Shakespeare didn't just use English, he expanded it. He's credited with coining or popularizing well over a thousand words, including 'eyeball,' 'lonely,' 'swagger,' and 'gossip.' Everyday phrases pour from his plays too: 'break the ice,' 'wild-goose chase,' 'heart of gold,' and 'in a pickle.' If you've ever vanished 'into thin air' or refused to 'budge an inch,' you've quoted a playwright who died four centuries ago.",
+    "summary": "Shakespeare coined over a thousand words and phrases, from 'eyeball' to 'break the ice,' that we still use daily.",
+    "categoryId": "literature",
+    "topic": "Shakespeare",
+    "tags": [
+      "shakespeare",
+      "english language",
+      "phrases"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "shakespeare-borrowed-sources",
+    "headline": "Half of Shakespeare's Plays Were Nearly Lost",
+    "body": "Shakespeare never bothered to publish his plays; they were scripts for performance, not books. When he died, many existed only as scattered, fragile copies. Seven years later, in 1623, two of his fellow actors gathered them into a single collection now called the First Folio. Without it, about eighteen plays, including Macbeth, Twelfth Night, and The Tempest, might have vanished entirely. Two loyal friends quietly saved half the Shakespeare we have.",
+    "summary": "Without the 1623 First Folio compiled by two friends, about 18 Shakespeare plays, including Macbeth, might be lost.",
+    "categoryId": "literature",
+    "topic": "Shakespeare",
+    "tags": [
+      "shakespeare",
+      "first folio",
+      "publishing"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "storytelling-older-than-writing",
+    "headline": "The Oldest Known Story Is Painted on a Cave Wall",
+    "body": "Deep in a cave on the Indonesian island of Sulawesi, archaeologists found a painting at least 44,000 years old showing part-human, part-animal figures hunting wild pigs and buffalo. It isn't just decoration; it appears to depict a scene, a narrative, making it possibly the oldest recorded story on Earth. Tens of thousands of years before writing, our ancestors were already doing the most human thing of all: telling tales.",
+    "summary": "A 44,000-year-old hunting scene painted in an Indonesian cave may be the oldest recorded story ever found.",
+    "categoryId": "literature",
+    "topic": "Storytelling",
+    "tags": [
+      "storytelling",
+      "cave art",
+      "prehistory"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "storytelling-can-be-sung",
+    "headline": "She Told Stories to Stay Alive",
+    "body": "In the frame of One Thousand and One Nights, a king takes a new bride each night and executes her by morning. A clever woman named Scheherazade volunteers, then begins a thrilling tale, but stops at dawn on a cliffhanger. Desperate to hear the ending, the king spares her another day. Night after night she does it again, for years, until he abandons his cruel plan. It's storytelling itself as a matter of life and death.",
+    "summary": "In 1,001 Nights, Scheherazade survives by ending each night's story on a cliffhanger the king must hear resolved.",
+    "categoryId": "literature",
+    "topic": "Storytelling",
+    "tags": [
+      "storytelling",
+      "1001 nights",
+      "scheherazade"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "storytelling-griots-memory",
+    "headline": "When a Griot Dies, 'a Library Burns'",
+    "body": "In parts of West Africa, griots are living archives. These hereditary storytellers memorize generations of genealogy, history, and music, reciting a community's entire past from memory and passing it to the next griot in line. A famous saying captures their value: when a griot dies, it is as if a whole library has burned to the ground. In a world without written records, a single trained mind could hold centuries.",
+    "summary": "West African griots memorize centuries of history, so it's said that when one dies, 'a library burns.'",
+    "categoryId": "literature",
+    "topic": "Storytelling",
+    "tags": [
+      "storytelling",
+      "griots",
+      "oral tradition"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "book-covers-became-sales-tools",
+    "headline": "The Great Gatsby's Cover Was Painted Before the Book Was Done",
+    "body": "One of the most famous book covers ever, the haunting eyes and red lips floating over a glowing city on The Great Gatsby, was created before F. Scott Fitzgerald had even finished writing. He saw an early version, loved it, and reportedly told his editor he had 'written it into' the book; many readers connect the image to the novel's looming billboard eyes. The cover didn't just illustrate the story, it helped shape it.",
+    "summary": "The iconic eyes on The Great Gatsby's cover were painted before the novel was finished, and Fitzgerald wrote them in.",
+    "categoryId": "literature",
+    "topic": "Book Covers",
+    "tags": [
+      "book covers",
+      "great gatsby",
+      "design"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "book-covers-cloth-design",
+    "headline": "Paperbacks Once Cost the Same as a Pack of Cigarettes",
+    "body": "In 1935, Penguin Books launched cheap, pocket-sized paperbacks priced at sixpence, about the cost of a pack of cigarettes, so ordinary people could afford good books. Their covers used a simple, bold system of horizontal bands and color codes: orange for fiction, green for crime, blue for biography. You could spot a book's genre across a shop. Clean design plus a cigarette-pack price helped put serious reading into everyone's pocket.",
+    "summary": "Penguin's 1935 paperbacks cost about a pack of cigarettes and used color-coded covers, orange for fiction, to sort genres.",
+    "categoryId": "literature",
+    "topic": "Book Covers",
+    "tags": [
+      "book covers",
+      "penguin books",
+      "paperbacks"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "book-covers-before-dust-jackets",
+    "headline": "The Wrapper People Threw Away Is Now Worth a Fortune",
+    "body": "Early dust jackets were considered disposable, just protective paper wrapping meant to be tossed once you got the book home. So almost no one kept them. That is exactly why surviving original jackets on famous first editions are now wildly valuable. For some classic novels, the fragile paper jacket can be worth far more than the book inside it, sometimes the difference between a few hundred dollars and a small fortune.",
+    "summary": "Dust jackets were once thrown away as trash; today an original jacket can be worth far more than the book itself.",
+    "categoryId": "literature",
+    "topic": "Book Covers",
+    "tags": [
+      "book covers",
+      "dust jackets",
+      "rare books"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pseudonyms-author-mask",
+    "headline": "J.K. Rowling Has Hidden Behind Two Pen Names",
+    "body": "When Harry Potter was first published, the author Joanne Rowling was urged to use initials, becoming 'J.K.,' over fears that boys wouldn't read a book by a woman. Years later, already world-famous, she secretly published crime novels under a completely different name, 'Robert Galbraith,' just to be judged fresh. The disguise lasted only months before a leak from a law firm exposed her. One author, at least two carefully built masks.",
+    "summary": "Rowling became 'J.K.' to hide her gender, then secretly wrote crime novels as 'Robert Galbraith' until she was outed.",
+    "categoryId": "literature",
+    "topic": "Pseudonyms",
+    "tags": [
+      "pseudonyms",
+      "jk rowling",
+      "pen names"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pseudonyms-famous-hidden-names",
+    "headline": "'Mark Twain' Is Really a Riverboat Command",
+    "body": "Samuel Clemens took his pen name from his years on the Mississippi River. 'Mark twain' was a boatman's call meaning the water was two fathoms deep, just safe enough for a steamboat to pass. Clemens borrowed the phrase and turned it into one of the most famous names in American literature. The author of Tom Sawyer literally named himself after a measurement of how deep the river ran beneath him.",
+    "summary": "Mark Twain took his pen name from a riverboat call meaning the water was two fathoms deep and safe to pass.",
+    "categoryId": "literature",
+    "topic": "Pseudonyms",
+    "tags": [
+      "pseudonyms",
+      "mark twain",
+      "authors"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pseudonyms-genre-expectations",
+    "headline": "Nancy Drew's Author Never Actually Existed",
+    "body": "Generations grew up reading Nancy Drew mysteries by 'Carolyn Keene,' but she was never a real person. The name was a house pseudonym owned by a publishing syndicate, and the books were churned out by a rotating team of ghostwriters following strict outlines. The Hardy Boys' 'Franklin W. Dixon' was the very same trick. Behind some of the most beloved children's series stands not a single author, but a faceless fiction factory.",
+    "summary": "'Carolyn Keene' of Nancy Drew was never real, just a publisher's pen name shared by a team of ghostwriters.",
+    "categoryId": "literature",
+    "topic": "Pseudonyms",
+    "tags": [
+      "pseudonyms",
+      "nancy drew",
+      "ghostwriters"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
