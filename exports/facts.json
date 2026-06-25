@@ -17016,5 +17016,1631 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "relativity-redefined-space-time",
+    "headline": "Travel Near Light Speed and You'd Age Slower",
+    "body": "Time isn't the same for everyone. According to relativity, the faster you move, the slower your time runs compared with those you left behind. In the famous 'twin paradox,' one twin rockets off near the speed of light while the other stays home. When the traveler returns, they've aged only a little — while the twin on Earth has grown old. It isn't a trick; it's how time actually works.",
+    "summary": "Rocket away near light speed and you'd return younger than the twin who stayed on Earth.",
+    "categoryId": "physics",
+    "topic": "Relativity",
+    "tags": [
+      "physics",
+      "relativity",
+      "time-dilation",
+      "einstein"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "relativity-speed-of-light-limit",
+    "headline": "You Can Never Catch Up to a Beam of Light",
+    "body": "Here's something that broke physics wide open: no matter how fast you chase a beam of light, it always speeds away from you at the exact same rate. Fly at 99% of light speed toward a flashlight, and the light still passes you at full speed, as if you were standing still. Speeds don't add up the way intuition says. This bizarre fact is the foundation Einstein built relativity on.",
+    "summary": "Chase light at 99% of its speed and it still races away from you at full speed.",
+    "categoryId": "physics",
+    "topic": "Relativity",
+    "tags": [
+      "physics",
+      "relativity",
+      "light",
+      "speed"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "relativity-gps-everyday-use",
+    "headline": "GPS Needs Relativity to Stay Accurate",
+    "body": "Relativity sounds like distant cosmic physics, but it matters on Earth too. Britannica lists the global positioning system as one application of relativistic ideas. GPS satellites carry clocks that do not tick exactly like clocks on Earth because of their speed and weaker gravity. Without relativistic corrections, location calculations would drift and become less accurate.",
+    "summary": "GPS depends on relativity because satellite clocks tick differently from clocks on Earth.",
+    "categoryId": "physics",
+    "topic": "Relativity",
+    "tags": [
+      "physics",
+      "relativity",
+      "gps",
+      "satellites",
+      "time dilation"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gravity-weak-universe-shaping",
+    "headline": "A Fridge Magnet Beats the Entire Planet's Gravity",
+    "body": "Gravity feels powerful, but it's actually the weakest force in nature by far. The proof is on your fridge. A tiny magnet can hold a piece of paper up against the gravitational pull of the entire Earth — all six trillion trillion kilograms of it. Gravity only seems mighty because it adds up across planets and stars. Up close, it loses to a magnet you can buy for pennies.",
+    "summary": "A cheap magnet holds paper against the pull of the whole planet — gravity is that weak.",
+    "categoryId": "physics",
+    "topic": "Gravity",
+    "tags": [
+      "physics",
+      "gravity",
+      "forces",
+      "magnetism"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gravity-free-fall-acceleration",
+    "headline": "A Feather and a Hammer Fall at the Same Speed",
+    "body": "Drop a feather and a hammer and the hammer wins — but only because air slows the feather down. Remove the air, and gravity pulls both at exactly the same rate. An astronaut famously proved it on the Moon in 1971, releasing a hammer and a falcon feather together. With no air to interfere, they hit the lunar dust at the same instant. Gravity doesn't care how heavy you are.",
+    "summary": "With no air to slow it, a feather hits the ground at the same instant as a hammer.",
+    "categoryId": "physics",
+    "topic": "Gravity",
+    "tags": [
+      "physics",
+      "gravity",
+      "free-fall",
+      "moon"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gravity-weight-vs-mass",
+    "headline": "Your Weight Changes, but Your Mass Does Not",
+    "body": "Weight and mass are not the same thing. Britannica explains that the same body has the same mass on Earth and on the Moon, but its weight changes because gravity is different. On the Moon, a body weighs only about one-sixth of what it weighs on Earth. Astronauts in orbit can even feel weightless while their mass remains unchanged.",
+    "summary": "Mass stays the same, but weight changes depending on the strength of gravity.",
+    "categoryId": "physics",
+    "topic": "Gravity",
+    "tags": [
+      "physics",
+      "gravity",
+      "weight",
+      "mass",
+      "moon"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "light-tiny-visible-slice",
+    "headline": "Visible Light Is Only a Tiny Slice of Radiation",
+    "body": "Light is the part of electromagnetic radiation humans can see. Britannica explains that electromagnetic radiation spans a huge range, from gamma rays with wavelengths smaller than about 1 × 10^-11 meters to radio waves measured in meters. Human-visible light occupies only a narrow band, from about 700 nanometers for red to about 400 nanometers for violet. Our eyes see just a tiny window of a much larger spectrum.",
+    "summary": "Visible light is only the small part of the electromagnetic spectrum detectable by human eyes.",
+    "categoryId": "physics",
+    "topic": "Light",
+    "tags": [
+      "physics",
+      "light",
+      "electromagnetic spectrum",
+      "visible light",
+      "wavelength"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "light-exact-speed",
+    "headline": "Light Could Circle the Earth 7 Times in One Second",
+    "body": "The speed of light is hard to picture until you put it to work. Light travels so fast that in a single second, a beam could loop all the way around the Earth's equator more than seven times. It crosses from your phone screen to your eyes instantly, and races from the Sun to your face in about eight minutes. Nothing in the universe moves faster.",
+    "summary": "In the time it takes to say 'one,' light could lap the planet more than seven times.",
+    "categoryId": "physics",
+    "topic": "Light",
+    "tags": [
+      "physics",
+      "light",
+      "speed",
+      "scale"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "light-wave-particle-duality",
+    "headline": "Light Acts Like Both a Wave and a Particle",
+    "body": "Light refuses to fit into one everyday category. Britannica explains that classical electromagnetism describes light as traveling electric and magnetic fields, but very low-intensity light requires quantum theory. In quantum theory, light comes in discrete packets of energy called photons. Neither a simple wave model nor a simple particle model fully explains it, which is why light is described as having wave-particle duality.",
+    "summary": "Light has wave-like and particle-like behavior, revealed through quantum mechanics.",
+    "categoryId": "physics",
+    "topic": "Light",
+    "tags": [
+      "physics",
+      "light",
+      "photons",
+      "wave particle duality",
+      "quantum theory"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "quantum-mechanics-microscopic-predictions",
+    "headline": "A Particle Can Be in Two Places at Once",
+    "body": "In the quantum world, the rules get strange. A tiny particle like an electron doesn't have to be in one spot — it can exist in a blur of many places at the same time, a state called superposition. Only when you actually measure it does it 'pick' a single location. Until you look, it's genuinely everywhere it could be. Reality, at the smallest scale, is fuzzier than it seems.",
+    "summary": "Until you measure it, a single particle can occupy many places at the same time.",
+    "categoryId": "physics",
+    "topic": "Quantum Mechanics",
+    "tags": [
+      "physics",
+      "quantum-mechanics",
+      "superposition",
+      "particles"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "quantum-mechanics-hilbert-space",
+    "headline": "Two Particles Can Stay Linked Across the Galaxy",
+    "body": "When two particles become 'entangled,' they share a single fate. Measure one and you instantly know the other, no matter how far apart they are — across a room or across the galaxy. Change one and the partner seems to respond at once, faster than light could carry a message. Einstein hated this idea and called it 'spooky action at a distance.' Experiments keep proving it's real.",
+    "summary": "Measure one entangled particle and its partner instantly responds — even galaxies away.",
+    "categoryId": "physics",
+    "topic": "Quantum Mechanics",
+    "tags": [
+      "physics",
+      "quantum-mechanics",
+      "entanglement",
+      "einstein"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "quantum-mechanics-measurement-probabilities",
+    "headline": "Particles Can Pass Straight Through Solid Walls",
+    "body": "In the quantum world, a particle can sometimes appear on the far side of a barrier it shouldn't be able to cross — like a ball passing through a wall. It's called quantum tunneling, and it's not science fiction. It's how the Sun shines: particles in its core tunnel through barriers to fuse and release energy. Without this ghostly trick, the stars wouldn't burn.",
+    "summary": "Quantum particles can slip through solid barriers — and it's the reason the Sun shines.",
+    "categoryId": "physics",
+    "topic": "Quantum Mechanics",
+    "tags": [
+      "physics",
+      "quantum-mechanics",
+      "tunneling",
+      "sun"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "electricity-electric-charges",
+    "headline": "Lightning Is Five Times Hotter Than the Sun",
+    "body": "A bolt of lightning unleashes an astonishing burst of electricity, and with it, astonishing heat. For a split second, the air inside a lightning channel can reach around 30,000 degrees Celsius — roughly five times hotter than the surface of the Sun. That sudden, violent heating is what makes the air explode outward, creating the crack of thunder. A flash you can blink away is briefly hotter than a star.",
+    "summary": "For a split second, a lightning bolt's channel is about five times hotter than the Sun's surface.",
+    "categoryId": "physics",
+    "topic": "Electricity",
+    "tags": [
+      "physics",
+      "electricity",
+      "lightning",
+      "heat"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "electricity-static-electron-transfer",
+    "headline": "That Doorknob Shock Is a Tiny Lightning Bolt",
+    "body": "Shuffle across a carpet and touch a doorknob, and — zap. That little jolt is essentially miniature lightning. By rubbing your feet, you've scraped off electrons and built up a charge, sometimes thousands of volts. When you near the metal, those electrons leap the gap all at once in a tiny spark. It's the same basic physics as a thunderstorm, just shrunk down to fit your fingertip.",
+    "summary": "The little zap from a doorknob is thousands of volts jumping the gap — tiny lightning.",
+    "categoryId": "physics",
+    "topic": "Electricity",
+    "tags": [
+      "physics",
+      "electricity",
+      "static",
+      "voltage"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "electricity-fields-across-space",
+    "headline": "Your Body Runs on Electricity",
+    "body": "You are an electrical machine. Every heartbeat, every twitch of a muscle, and every thought firing through your brain is carried by tiny electrical signals zipping along your nerves. Your cells pump charged particles back and forth to create these pulses. It's why doctors can read your heart with an ECG or your brain with an EEG. You don't just use electricity — you're made to generate it.",
+    "summary": "Every heartbeat and thought is a tiny electrical signal firing through your body.",
+    "categoryId": "physics",
+    "topic": "Electricity",
+    "tags": [
+      "physics",
+      "electricity",
+      "biology",
+      "nerves"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sound-needs-medium",
+    "headline": "In Space, No One Can Hear You Scream",
+    "body": "The movie tagline is actually good physics. Sound is a vibration that travels by jostling particles of air, water, or solid material. Space is a near-perfect vacuum with almost nothing to carry those vibrations. So a massive explosion in deep space would be utterly silent — no boom, no roar, nothing. The sci-fi battles full of thunderous blasts get this completely wrong. Space is silent.",
+    "summary": "A giant explosion in deep space would make no sound at all — there's nothing to carry it.",
+    "categoryId": "physics",
+    "topic": "Sound",
+    "tags": [
+      "physics",
+      "sound",
+      "vacuum",
+      "space"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sound-pressure-waves",
+    "headline": "The Loudest Sound Ever Was Heard 3,000 Miles Away",
+    "body": "When the volcano Krakatoa erupted in 1883, it produced what may be the loudest sound in recorded history. The blast was heard nearly 3,000 miles away — as if a sound in New York reached Los Angeles and kept going. Close to the eruption, the pressure wave was strong enough to rupture eardrums dozens of miles away, and it circled the globe several times. The planet quite literally rang.",
+    "summary": "An 1883 volcano made a sound so loud it was heard 3,000 miles away and circled the globe.",
+    "categoryId": "physics",
+    "topic": "Sound",
+    "tags": [
+      "physics",
+      "sound",
+      "krakatoa",
+      "volcano"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sound-human-frequency-range",
+    "headline": "Some Sounds Only Teenagers Can Hear",
+    "body": "As you age, your ears quietly lose their highest notes first. Young people can usually hear very high-pitched tones that most adults simply can't detect anymore. This gap has been used in clever ways: some shops have played piercing 'mosquito' tones to drive off loitering teens, and students have used the same tones as ringtones their teachers can't hear. Your age is written into what you can hear.",
+    "summary": "High-pitched 'mosquito' tones can ring out to teenagers while most adults hear nothing.",
+    "categoryId": "physics",
+    "topic": "Sound",
+    "tags": [
+      "physics",
+      "sound",
+      "hearing",
+      "age"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "energy-capacity-to-work",
+    "headline": "The Matter in a Paperclip Could Level a City",
+    "body": "Einstein's famous equation, E=mc squared, says matter and energy are two forms of the same thing — and that even a speck of matter holds a staggering amount of energy. If you could fully convert the matter in an ordinary paperclip into energy, it would release a blast comparable to a large bomb, enough to flatten a city. Everyday objects are quietly packed with unimaginable power.",
+    "summary": "Fully unlocked, the matter in a single paperclip holds enough energy to flatten a city.",
+    "categoryId": "physics",
+    "topic": "Energy",
+    "tags": [
+      "physics",
+      "energy",
+      "einstein",
+      "mass-energy"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "energy-conservation-law",
+    "headline": "The Energy in Your Body Came From the Sun",
+    "body": "Trace the energy powering your every move and it leads straight back to the Sun. Plants capture sunlight and store it as sugars; you eat the plants, or animals that ate the plants. Even the gasoline in a car is ancient sunlight, locked into plants that died millions of years ago. Energy never appears from nowhere — it just changes hands. Almost all of yours is borrowed starlight.",
+    "summary": "Every move you make is powered by sunlight, captured by plants and passed up the food chain.",
+    "categoryId": "physics",
+    "topic": "Energy",
+    "tags": [
+      "physics",
+      "energy",
+      "sun",
+      "conservation"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "energy-joule-force-distance",
+    "headline": "Your Resting Body Glows Like a Light Bulb",
+    "body": "Even doing absolutely nothing, your body is busy burning energy — and most of it comes out as heat. At rest, an average adult radiates roughly 100 watts, about the same as an old-fashioned light bulb. Pack a crowded room with people and all that body heat adds up fast, which is why a full auditorium gets warm. You're a quiet, steady little furnace.",
+    "summary": "Sitting still, you give off about as much heat as a 100-watt light bulb.",
+    "categoryId": "physics",
+    "topic": "Energy",
+    "tags": [
+      "physics",
+      "energy",
+      "heat",
+      "body"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "magnetism-moving-charges",
+    "headline": "Earth's Magnetic Poles Have Flipped Many Times",
+    "body": "The Earth is a giant magnet, but it's a restless one. Its magnetic north pole constantly wanders, drifting hundreds of miles over a lifetime. Stranger still, every few hundred thousand years the field flips entirely — north becomes south and back again. It has happened hundreds of times in Earth's history, recorded in ancient rocks. A compass needle that points 'north' would have pointed the other way in the deep past.",
+    "summary": "Earth's magnetic field has completely flipped north-and-south hundreds of times.",
+    "categoryId": "physics",
+    "topic": "Magnetism",
+    "tags": [
+      "physics",
+      "magnetism",
+      "earth",
+      "poles"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "magnetism-field-lines-close",
+    "headline": "Cut a Magnet in Half and You Get Two Magnets",
+    "body": "Every magnet has a north pole and a south pole, so you might think cutting one in half would separate them. It doesn't. Slice a magnet and each piece instantly becomes a complete magnet with its own north and south. Cut those again, and again, down to a single atom, and you still never get a lone pole. A single isolated magnetic pole has never been found in nature.",
+    "summary": "Slice a magnet as small as you like and every piece still has both a north and south pole.",
+    "categoryId": "physics",
+    "topic": "Magnetism",
+    "tags": [
+      "physics",
+      "magnetism",
+      "poles",
+      "monopole"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "magnetism-domains-powerful-magnets",
+    "headline": "Animals Navigate Using Earth's Magnetism",
+    "body": "Many animals carry a built-in compass. Migrating birds, sea turtles, and even some bacteria can sense the Earth's magnetic field and use it to find their way across thousands of miles. Sea turtles return to the very beach where they hatched, partly by reading the magnetic signature of the coastline. We're still figuring out exactly how they do it. Nature invented GPS long before we did.",
+    "summary": "Birds and sea turtles cross thousands of miles by sensing Earth's invisible magnetic field.",
+    "categoryId": "physics",
+    "topic": "Magnetism",
+    "tags": [
+      "physics",
+      "magnetism",
+      "animals",
+      "navigation"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "time-hard-to-define",
+    "headline": "Time Runs Faster at Your Head Than Your Feet",
+    "body": "Gravity slows down time — and the effect is so real that even a small difference in height matters. Clocks closer to the ground, where gravity is very slightly stronger, tick a hair slower than clocks higher up. Scientists have measured this difference across a height of just a foot or two. So your head is, ever so slightly, aging faster than your feet. The gap is tiny, but it's genuinely there.",
+    "summary": "Gravity makes your head age a tiny bit faster than your feet — and we can measure it.",
+    "categoryId": "physics",
+    "topic": "Time",
+    "tags": [
+      "physics",
+      "time",
+      "gravity",
+      "relativity"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "time-relativity-observer-dependent",
+    "headline": "Days Are Slowly Getting Longer",
+    "body": "A day hasn't always been 24 hours. The Moon's gravity gently drags on Earth's spin, slowing it down a tiny bit each year. The effect is slow — a day lengthens by a fraction of a second per century — but over deep time it adds up. Hundreds of millions of years ago, when early dinosaurs roamed, a day lasted only around 23 hours. Far in the future, days will be longer still.",
+    "summary": "When dinosaurs roamed, a day was only about 23 hours — Earth's spin is slowly winding down.",
+    "categoryId": "physics",
+    "topic": "Time",
+    "tags": [
+      "physics",
+      "time",
+      "earth",
+      "moon"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "time-atomic-clocks-precision",
+    "headline": "The Best Clocks Won't Lose a Second in Billions of Years",
+    "body": "Modern atomic clocks keep time by counting the incredibly steady vibrations of atoms. The most advanced ones are so precise that they would gain or lose less than a single second over the entire age of the universe — nearly 14 billion years. This staggering accuracy isn't just for show. It's what makes GPS, the internet, and global finance run on the same heartbeat.",
+    "summary": "The finest atomic clocks would lose under a second across the whole 14-billion-year life of the universe.",
+    "categoryId": "physics",
+    "topic": "Time",
+    "tags": [
+      "physics",
+      "time",
+      "atomic-clock",
+      "precision"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motion-force-changes-motion",
+    "headline": "In Space, a Thrown Object Coasts Forever",
+    "body": "On Earth, anything you throw eventually stops, slowed by air and friction. But those forces are what stop it — motion itself never needs to end. In the emptiness of deep space, with nothing to push back, an object you toss would keep gliding in a straight line forever, at the same speed, for billions of years. This is exactly why spacecraft can drift across the solar system on almost no fuel.",
+    "summary": "Throw something in deep space and, with nothing to slow it, it glides on forever.",
+    "categoryId": "physics",
+    "topic": "Motion",
+    "tags": [
+      "physics",
+      "motion",
+      "newton",
+      "space"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motion-velocity-has-direction",
+    "headline": "You're Hurtling Through Space Right Now",
+    "body": "You may feel perfectly still, but you're moving at dizzying speeds. The Earth spins at about 1,000 miles per hour at the equator, and it races around the Sun at roughly 67,000 miles per hour. The whole solar system, in turn, is sweeping around the galaxy even faster. Sitting motionless in your chair, you're actually one of the fastest-moving things you'll ever experience.",
+    "summary": "Sitting perfectly still, you're racing around the Sun at about 67,000 miles per hour.",
+    "categoryId": "physics",
+    "topic": "Motion",
+    "tags": [
+      "physics",
+      "motion",
+      "earth",
+      "speed"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motion-acceleration-changing-velocity",
+    "headline": "Astronauts Float Because They're Constantly Falling",
+    "body": "It's a common myth that there's no gravity in space. Up at the Space Station, gravity is still nearly as strong as on the ground. So why do astronauts float? Because they — and the station — are continuously falling toward Earth, while also moving sideways so fast that they keep missing it. They're in a perpetual free fall around the planet. Floating in orbit is really endless falling.",
+    "summary": "Astronauts don't float because gravity is gone — they're endlessly falling around the Earth.",
+    "categoryId": "physics",
+    "topic": "Motion",
+    "tags": [
+      "physics",
+      "motion",
+      "orbit",
+      "gravity"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inertia-resists-motion-change",
+    "headline": "Inertia Is Why You Lurch Forward When a Car Brakes",
+    "body": "Slam on the brakes and your body pitches forward — that's inertia in action. When the car suddenly slows, your body 'wants' to keep moving at the old speed, because objects resist any change to their motion. Only your seat belt yanks you back in line. The same stubbornness is why you're pressed into your seat when a car speeds up. Your body is always trying to keep doing what it was doing.",
+    "summary": "When a car stops short, your body keeps moving — that's inertia, and why seat belts exist.",
+    "categoryId": "physics",
+    "topic": "Inertia",
+    "tags": [
+      "physics",
+      "inertia",
+      "motion",
+      "safety"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inertia-no-net-force",
+    "headline": "The Tablecloth Trick Works Because of Inertia",
+    "body": "Yank a tablecloth out fast enough and the dishes stay put, barely wobbling. It looks like magic, but it's pure physics. The dishes have inertia — a resistance to changing their motion — so a quick enough pull slips the cloth away before it can drag them along. The brief tug simply isn't enough to overcome their tendency to stay at rest. Heavy plates make it easier, not harder.",
+    "summary": "Whip a tablecloth away fast and the dishes' inertia keeps them sitting still.",
+    "categoryId": "physics",
+    "topic": "Inertia",
+    "tags": [
+      "physics",
+      "inertia",
+      "motion",
+      "demonstration"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inertia-mass-resists-acceleration",
+    "headline": "A Supertanker Can Take Miles to Stop",
+    "body": "A fully loaded oil supertanker is so massive that stopping it is a slow-motion ordeal. Even with engines thrown into full reverse, one of these giants can take several miles and 15 minutes or more to come to a halt. Its enormous mass means enormous inertia, and that much momentum simply can't be erased quickly. Captains have to start 'braking' long before they reach port.",
+    "summary": "A loaded supertanker has so much inertia it can take miles to stop, even in full reverse.",
+    "categoryId": "physics",
+    "topic": "Inertia",
+    "tags": [
+      "physics",
+      "inertia",
+      "momentum",
+      "ships"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "friction-tiny-surface-interactions",
+    "headline": "In Space, Metal Parts Can Weld Themselves Together",
+    "body": "On Earth, two pieces of metal touch without sticking because a thin layer of oxide and grime keeps them apart. But in the vacuum of space, with no air to form that layer, clean metal surfaces pressed together can fuse into a single piece — a phenomenon called cold welding. It has actually jammed spacecraft parts. Engineers have to design around an effect that almost never happens on the ground.",
+    "summary": "In the vacuum of space, two clean pieces of bare metal can spontaneously fuse into one.",
+    "categoryId": "physics",
+    "topic": "Friction",
+    "tags": [
+      "physics",
+      "friction",
+      "space",
+      "materials"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "friction-static-harder-than-kinetic",
+    "headline": "Static Friction Is Harder to Beat Than Sliding Friction",
+    "body": "Starting motion can be harder than keeping it going. Britannica explains that static friction acts between surfaces at rest relative to each other. Its value can increase up to the smallest force needed to start motion, and that required starting force is always greater than the force needed to continue motion against kinetic friction. That is why a stuck object may suddenly slide once it finally breaks free.",
+    "summary": "Static friction usually requires more force to overcome than kinetic friction does.",
+    "categoryId": "physics",
+    "topic": "Friction",
+    "tags": [
+      "physics",
+      "friction",
+      "static friction",
+      "kinetic friction",
+      "motion"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "friction-rolling-less-than-sliding",
+    "headline": "Rolling Wastes Much Less Energy Than Sliding",
+    "body": "Wheels are powerful because rolling friction is much smaller than sliding friction. Britannica explains that rolling friction happens when a wheel, ball, or cylinder rolls freely over a surface. Its main source is energy lost as the rolling object and surface deform. Coefficients of sliding friction are generally 100 to 1,000 times greater than rolling friction for corresponding materials, which helps explain the historical shift from sledges to wheels.",
+    "summary": "Rolling friction is often hundreds of times lower than sliding friction.",
+    "categoryId": "physics",
+    "topic": "Friction",
+    "tags": [
+      "physics",
+      "friction",
+      "rolling friction",
+      "wheels",
+      "energy loss"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "lasers-light-copy-itself",
+    "headline": "We Fire Lasers at the Moon to Measure Its Distance",
+    "body": "Astronauts left special mirrors on the Moon, and ever since, scientists have bounced laser beams off them. By timing how long the light takes to return, they can measure the distance to the Moon to within a fraction of an inch. The measurements revealed something surprising: the Moon is slowly drifting away from us, about an inch and a half farther each year. A laser turned the sky into a tape measure.",
+    "summary": "Lasers bounced off Moon mirrors reveal it's drifting about an inch and a half farther each year.",
+    "categoryId": "physics",
+    "topic": "Lasers",
+    "tags": [
+      "physics",
+      "lasers",
+      "moon",
+      "measurement"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "lasers-population-inversion",
+    "headline": "'Laser' Is Actually an Acronym",
+    "body": "The word 'laser' is so common it feels like an ordinary noun, but it began as an acronym. It stands for 'Light Amplification by Stimulated Emission of Radiation.' Each part describes how it works: a laser builds an intense, focused beam by getting atoms to emit light in perfect lockstep. Its cousin the 'maser' does the same with microwaves. An everyday word hides a tidy little physics lesson.",
+    "summary": "The everyday word 'laser' is really a mouthful of physics: Light Amplification by Stimulated Emission of Radiation.",
+    "categoryId": "physics",
+    "topic": "Lasers",
+    "tags": [
+      "physics",
+      "lasers",
+      "acronym",
+      "language"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "lasers-mirrors-build-beam",
+    "headline": "The Strongest Lasers Briefly Out-Power the Sun",
+    "body": "For a tiny fraction of a second, the most powerful lasers on Earth can deliver more power than all the sunlight hitting the planet at once. Scientists focus these immense pulses onto a target smaller than a pea to recreate the crushing heat and pressure found inside stars. They're used to study nuclear fusion — the same reaction that powers the Sun. A flash of light briefly out-muscles a star.",
+    "summary": "For an instant, the most powerful lasers pack more power than all the sunlight hitting Earth.",
+    "categoryId": "physics",
+    "topic": "Lasers",
+    "tags": [
+      "physics",
+      "lasers",
+      "fusion",
+      "power"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "waves-disturbance-travels",
+    "headline": "Ocean Waves Barely Move the Water Forward",
+    "body": "Watch a wave roll across the sea and it looks like water rushing toward shore. But the water itself mostly stays put. As a wave passes, each bit of water bobs in a small circle — up, forward, down, back — and ends up roughly where it began. What actually travels is the energy, passing from one patch of water to the next. A floating gull rises and falls but hardly drifts at all.",
+    "summary": "A wave crossing the ocean carries energy, not water — the sea mostly just bobs in place.",
+    "categoryId": "physics",
+    "topic": "Waves",
+    "tags": [
+      "physics",
+      "waves",
+      "ocean",
+      "energy"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "waves-matter-or-vacuum",
+    "headline": "Ripples in Space Itself Were Detected in 2015",
+    "body": "A century ago, Einstein predicted that violent cosmic events could send ripples through the fabric of space itself, like waves spreading on a pond. They're called gravitational waves, and for decades they were too faint to catch. Then in 2015, scientists finally detected one — from two black holes that collided over a billion light-years away. The ripple stretched space on Earth by less than the width of a proton.",
+    "summary": "In 2015 we caught a ripple in space itself, from two black holes colliding a billion light-years away.",
+    "categoryId": "physics",
+    "topic": "Waves",
+    "tags": [
+      "physics",
+      "waves",
+      "gravitational-waves",
+      "black-holes"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "waves-add-or-cancel",
+    "headline": "Noise-Canceling Headphones Fight Sound With Sound",
+    "body": "Noise-canceling headphones don't just block sound — they erase it with more sound. A tiny microphone listens to the noise around you, and the headphones instantly produce a mirror-image wave: where the noise pushes, the new wave pulls. When the two waves meet, they cancel out, leaving near silence. It's a clever trick called destructive interference — defeating noise by adding precisely the right anti-noise.",
+    "summary": "Noise-canceling headphones silence sound by blasting a perfect mirror-image wave to cancel it.",
+    "categoryId": "physics",
+    "topic": "Waves",
+    "tags": [
+      "physics",
+      "waves",
+      "interference",
+      "sound"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "superconductivity-zero-resistance",
+    "headline": "A Current in a Superconductor Could Flow Forever",
+    "body": "In a normal wire, electricity meets resistance and steadily loses energy as heat. But cool certain materials cold enough and the resistance vanishes completely. Start an electric current looping through such a superconductor, and it would keep circulating essentially forever — for billions of years — with no battery and no fading. The energy just never leaks away. It's about as close to perpetual motion as physics allows.",
+    "summary": "Get a current looping in a superconductor and it could circle for billions of years, no battery needed.",
+    "categoryId": "physics",
+    "topic": "Superconductivity",
+    "tags": [
+      "physics",
+      "superconductivity",
+      "electricity",
+      "resistance"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "superconductivity-meissner-effect",
+    "headline": "Superconductors Can Make Magnets Float in Midair",
+    "body": "Superconductors don't just carry electricity perfectly — they also shove magnetic fields away from themselves. Place a magnet above a cold superconductor and it will hover in midair, locked in place as if held by an invisible hand. This eerie levitation isn't just a lab trick. It's the principle behind maglev trains, which float frictionlessly above their tracks and glide at hundreds of miles per hour.",
+    "summary": "Chill a superconductor and a magnet will hover above it in midair — the science behind maglev trains.",
+    "categoryId": "physics",
+    "topic": "Superconductivity",
+    "tags": [
+      "physics",
+      "superconductivity",
+      "levitation",
+      "maglev"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "superconductivity-cooper-pairs",
+    "headline": "A Room-Temperature Superconductor Is a Holy Grail",
+    "body": "Superconductors have a catch: most only work at brutally cold temperatures, hundreds of degrees below zero, which makes them expensive and awkward to use. A material that could superconduct at ordinary room temperature would be revolutionary — enabling lossless power grids, cheap maglev, and far more. Scientists have chased it for decades. Every promising claim is met with fierce scrutiny, because the prize is so enormous.",
+    "summary": "A superconductor that works at room temperature would transform technology — and no one's nailed it yet.",
+    "categoryId": "physics",
+    "topic": "Superconductivity",
+    "tags": [
+      "physics",
+      "superconductivity",
+      "research",
+      "materials"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "atoms-mostly-empty-space",
+    "headline": "If an Atom Were a Stadium, the Nucleus Would Be a Marble",
+    "body": "Atoms feel solid, but they're almost entirely empty. Nearly all the mass sits in a tiny nucleus at the center, while the electrons buzz far, far away. If you blew an atom up to the size of a sports stadium, the nucleus would be a marble on the center spot and the rest would be empty air. Tap a table and you're really feeling electric forces, not solid stuff.",
+    "summary": "The solid world around you is, atom for atom, almost entirely empty space.",
+    "categoryId": "chemistry",
+    "topic": "Atoms",
+    "tags": [
+      "chemistry",
+      "atoms",
+      "nucleus",
+      "electrons"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "atoms-atomic-number-identity",
+    "headline": "Steal One Proton From Gold and It Becomes Platinum",
+    "body": "An element's whole identity comes down to one number: how many protons sit in its nucleus. Six protons make carbon. Seventy-nine make gold. Knock one proton off gold and you've literally got platinum. This is the dream the old alchemists chased, and it's actually real, it just takes a particle accelerator instead of a magic spell. Change the proton count and you change the element itself.",
+    "summary": "Medieval alchemists wanted to turn one metal into another, and the only thing in their way was a single proton.",
+    "categoryId": "chemistry",
+    "topic": "Atoms",
+    "tags": [
+      "chemistry",
+      "atoms",
+      "protons",
+      "elements"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "atoms-outer-electrons-chemistry",
+    "headline": "Why Helium Refuses to React With Anything",
+    "body": "Whether an atom is wildly reactive or completely aloof comes down to its outermost ring of electrons. Atoms behave as if they want a full outer shell. Most have gaps, so they grab, dump, or share electrons, and that scramble is what chemistry is. But helium, neon, and the other noble gases are born with full shells. Having nothing to gain, they ignore everything, which is why helium floats in a balloon for days without reacting.",
+    "summary": "Some elements are chemical hermits that ignore everything around them, all because of a full outer shell.",
+    "categoryId": "chemistry",
+    "topic": "Atoms",
+    "tags": [
+      "chemistry",
+      "atoms",
+      "electrons",
+      "noble gases"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "molecules-smallest-identity-unit",
+    "headline": "A Single Glass of Water Outnumbers the Oceans",
+    "body": "A molecule is the smallest piece of a substance that's still that substance. Split water down and down and you eventually reach a single H2O molecule; break that, and you just have hydrogen and oxygen, not water. The wild part is how small they are. One ordinary glass of water holds more molecules than there are glasses of water in every ocean on Earth combined.",
+    "summary": "Molecules are so small that one glass of water contains more of them than the oceans hold glasses.",
+    "categoryId": "chemistry",
+    "topic": "Molecules",
+    "tags": [
+      "chemistry",
+      "molecules",
+      "water",
+      "scale"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "molecules-bond-lower-energy",
+    "headline": "Atoms Bond Because It's Downhill",
+    "body": "Atoms don't bond out of friendliness, they bond because it lowers their energy. Picture two atoms rolling toward a valley: if sticking together drops them into a lower, calmer spot, they stick, and the leftover energy is released as heat or light. That released energy is exactly why burning fuel warms you and why food can power your body. Bonding is really just nature rolling downhill.",
+    "summary": "Every time atoms bond they shed energy by settling lower, and that's where your food's fuel comes from.",
+    "categoryId": "chemistry",
+    "topic": "Molecules",
+    "tags": [
+      "chemistry",
+      "molecules",
+      "bonding",
+      "energy"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "molecules-same-atoms-different-arrangements",
+    "headline": "The Same Molecule, Mirror-Flipped, Can Be a Poison",
+    "body": "Take the exact same atoms in the exact same amounts and bond them a little differently, and you get a totally different substance. These twins are called isomers. Some are even mirror images of each other, identical but flipped like your left and right hands. In one infamous case, one version of a drug eased morning sickness while its mirror image caused birth defects. Same recipe, opposite result.",
+    "summary": "Two molecules can share every atom and still be as different as a medicine and a poison.",
+    "categoryId": "chemistry",
+    "topic": "Molecules",
+    "tags": [
+      "chemistry",
+      "molecules",
+      "isomers",
+      "chirality"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "periodic-table-proton-order",
+    "headline": "The Periodic Table Is Really a Map of Protons",
+    "body": "The elements aren't lined up by name, weight, or when they were discovered. They march in order of one thing: how many protons each atom carries, from hydrogen's single proton up to oganesson's 118. That single rule is why the table works as a map of matter instead of an alphabetical list. Read it left to right, top to bottom, and you're literally counting protons one at a time.",
+    "summary": "Every step across the periodic table adds exactly one proton, turning the chart into a map of matter.",
+    "categoryId": "chemistry",
+    "topic": "Periodic Table",
+    "tags": [
+      "chemistry",
+      "periodic table",
+      "protons",
+      "elements"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "periodic-table-group-patterns",
+    "headline": "A Whole Column of the Table Explodes in Water",
+    "body": "Elements in the same vertical column behave like family because they share the same number of outer electrons. Take the far-left column, the alkali metals. Drop a lump of sodium in water and it fizzes and pops; potassium bursts into purple flame; cesium explodes violently. They all react the same way, just more dramatically as you go down the column. The position predicts the personality.",
+    "summary": "Elements in a periodic-table column act like siblings, which is why an entire column reacts violently with water.",
+    "categoryId": "chemistry",
+    "topic": "Periodic Table",
+    "tags": [
+      "chemistry",
+      "periodic table",
+      "alkali metals",
+      "reactivity"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "periodic-table-mendeleev-predictions",
+    "headline": "He Left Blanks in the Table for Elements Nobody Had Found",
+    "body": "When Dmitri Mendeleev built his table in 1869, he did something bold: he left empty gaps where the pattern demanded elements that didn't exist yet, and even predicted their weights and properties. When gallium was later discovered, its measured density didn't match his prediction, so Mendeleev told the discoverer to re-measure. He did, and Mendeleev was right. The table didn't just organize chemistry; it told scientists what to go find.",
+    "summary": "Mendeleev was so sure of his table that he corrected the man who discovered an element he'd only predicted.",
+    "categoryId": "chemistry",
+    "topic": "Periodic Table",
+    "tags": [
+      "chemistry",
+      "periodic table",
+      "mendeleev",
+      "history"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chemical-elements-cannot-break-down",
+    "headline": "You Are Mostly Just Six Elements",
+    "body": "An element is a pure substance you can't break into anything simpler by chemistry, and only about 90 of them occur in nature. From that short list comes everything: oceans, mountains, air, and you. In fact, about 99% of your body is just six elements, oxygen, carbon, hydrogen, nitrogen, calcium, and phosphorus. The whole dazzling variety of the world is built from a surprisingly tiny set of ingredients.",
+    "summary": "The entire material world, your body included, is built from only about 90 basic ingredients.",
+    "categoryId": "chemistry",
+    "topic": "Chemical Elements",
+    "tags": [
+      "chemistry",
+      "elements",
+      "human body",
+      "matter"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chemical-elements-synthetic-trace",
+    "headline": "Some Elements Vanish Almost the Instant They're Made",
+    "body": "Not every element is sitting in the ground waiting to be dug up. Roughly a fifth of the known elements barely exist in nature; scientists forge them in labs by smashing atoms together. Many are wildly unstable. The heaviest ones flicker into existence and fall apart in a fraction of a second. Even natural francium is so fleeting that less than an ounce exists on the whole planet at any moment.",
+    "summary": "Some elements are so unstable they exist for only a sliver of a second before falling apart.",
+    "categoryId": "chemistry",
+    "topic": "Chemical Elements",
+    "tags": [
+      "chemistry",
+      "elements",
+      "synthetic elements",
+      "radioactivity"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chemical-elements-compounds-transform-properties",
+    "headline": "A Poison Gas Plus a Metal That Explodes Equals Table Salt",
+    "body": "Bond two elements together and the result can behave nothing like either one. Sodium is a soft metal so reactive it bursts into flame in water. Chlorine is a green gas so toxic it was once used as a weapon. Combine these two killers and you get sodium chloride, ordinary table salt, the stuff you sprinkle on fries. The new compound erases the old identities completely.",
+    "summary": "Two of chemistry's most dangerous elements combine into the harmless salt on your dinner table.",
+    "categoryId": "chemistry",
+    "topic": "Chemical Elements",
+    "tags": [
+      "chemistry",
+      "elements",
+      "compounds",
+      "salt"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "covalent-bonds-share-electrons",
+    "headline": "Some Atoms Bond by Sharing Instead of Stealing",
+    "body": "There are two main ways atoms stick together. They can hand electrons off completely, or they can share a pair right in the middle, like two kids gripping the same rope. That shared-electron grip is a covalent bond, and it holds together water, the air you breathe, and every molecule in your body. The atoms hang on because sharing leaves them calmer than going it alone.",
+    "summary": "The bonds inside water, air, and your own cells all come down to atoms sharing electrons instead of stealing them.",
+    "categoryId": "chemistry",
+    "topic": "Covalent Bonds",
+    "tags": [
+      "chemistry",
+      "covalent bonds",
+      "electrons",
+      "bonding"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "covalent-bonds-polar-sharing",
+    "headline": "Water's Lopsided Bonds Are Why Ice Floats",
+    "body": "When two atoms share electrons, they don't always share evenly. In water, oxygen hogs the shared electrons, so it turns slightly negative while the hydrogens go slightly positive. This lopsidedness, called polarity, makes water molecules lock into an open, roomy pattern when they freeze. That's why ice is less dense than liquid water and floats, a small quirk that keeps lakes from freezing solid and killing the life inside.",
+    "summary": "A tiny imbalance in how water shares its electrons is the reason ice floats and lakes don't freeze solid.",
+    "categoryId": "chemistry",
+    "topic": "Covalent Bonds",
+    "tags": [
+      "chemistry",
+      "covalent bonds",
+      "polarity",
+      "water"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "covalent-bonds-resonance",
+    "headline": "A Diamond Is One Single Giant Molecule",
+    "body": "Most molecules are small clusters of a few atoms. A diamond isn't. It's a single, unbroken web of carbon atoms, each one locked to four neighbors by covalent bonds, repeating across the whole stone. That rigid 3-D network is why diamond is the hardest natural material on Earth. The astonishing part: it's nothing but carbon, the same element as the soft graphite in your pencil. Arrangement is everything.",
+    "summary": "A diamond is technically one enormous molecule of carbon, the very same element as pencil lead.",
+    "categoryId": "chemistry",
+    "topic": "Covalent Bonds",
+    "tags": [
+      "chemistry",
+      "covalent bonds",
+      "diamond",
+      "carbon"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chemical-reactions-rearrange-atoms",
+    "headline": "A Burning Log Doesn't Vanish, It Floats Away",
+    "body": "A chemical reaction never makes atoms appear or disappear; it just reconnects them. Burn a log and it seems to mostly vanish into a little pile of ash. But the missing mass didn't disappear, it sailed off as invisible carbon dioxide and water vapor. Capture and weigh the smoke and gases and everything is still there. Reactions are just nature shuffling the same atoms into new arrangements.",
+    "summary": "The wood that seems to disappear in a fire is really just floating away as invisible gas.",
+    "categoryId": "chemistry",
+    "topic": "Chemical Reactions",
+    "tags": [
+      "chemistry",
+      "reactions",
+      "combustion",
+      "conservation of matter"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chemical-reactions-not-physical-change",
+    "headline": "Melting Ice Isn't Chemistry at All",
+    "body": "It's tempting to call any change a chemical reaction, but melting, freezing, and boiling aren't. When ice melts, the water molecules simply loosen up and start sliding around; not a single bond inside them breaks. It's still H2O whether it's a solid cube, a liquid, or steam. A real chemical change rearranges the atoms themselves, like wood turning to ash, which you can never just melt back.",
+    "summary": "Boiling, freezing, and melting all leave the molecules untouched, which is why they aren't chemical reactions.",
+    "categoryId": "chemistry",
+    "topic": "Chemical Reactions",
+    "tags": [
+      "chemistry",
+      "reactions",
+      "physical change",
+      "states of matter"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chemical-reactions-balanced-equations",
+    "headline": "Nothing Is Ever Lost in a Chemical Reaction",
+    "body": "In the 1700s, Antoine Lavoisier obsessively weighed everything before and after his experiments and found the totals never changed. Atoms are never created or destroyed in a reaction, only rearranged. That's why chemists must balance equations, making sure every atom on the left shows up again on the right. When a candle burns down to almost nothing, its atoms haven't vanished; they've slipped into the air as gas, weighing exactly the same.",
+    "summary": "Lavoisier proved by weighing everything that a reaction's atoms are only rearranged, never lost.",
+    "categoryId": "chemistry",
+    "topic": "Chemical Reactions",
+    "tags": [
+      "chemistry",
+      "reactions",
+      "conservation of matter",
+      "lavoisier"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "states-of-matter-heat-changes-state",
+    "headline": "Glass Is Technically a Frozen Liquid",
+    "body": "We sort matter into tidy boxes, solid, liquid, gas, but some materials refuse to behave. Glass is the famous oddball. Its atoms are locked in place like a solid, yet they're jumbled in the random arrangement of a liquid, never forming the neat repeating pattern of a true crystal. Scientists call it an amorphous solid. It's frozen mid-pour, a liquid caught and held before it could ever organize itself.",
+    "summary": "Glass is rigid like a solid but disordered like a liquid, sitting in a strange category of its own.",
+    "categoryId": "chemistry",
+    "topic": "States of Matter",
+    "tags": [
+      "chemistry",
+      "states of matter",
+      "glass",
+      "amorphous solids"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "states-of-matter-familiar-three",
+    "headline": "There Are Far More Than Three States of Matter",
+    "body": "Solid, liquid, gas, and maybe plasma is where most people stop. But matter has many more moods. Cool atoms to nearly absolute zero and they merge into a Bose-Einstein condensate that acts like a single super-atom. Squeeze a gas hard enough and it becomes a supercritical fluid, part liquid and part gas. There's even superfluid helium that flows uphill and creeps out of its own container. Three states barely scratches the surface.",
+    "summary": "Beyond the familiar three lie exotic states, including a superfluid that can climb up and out of its container.",
+    "categoryId": "chemistry",
+    "topic": "States of Matter",
+    "tags": [
+      "chemistry",
+      "states of matter",
+      "bose-einstein condensate",
+      "superfluid"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "states-of-matter-plasma-fourth",
+    "headline": "The Most Common State of Matter Is One You Rarely See",
+    "body": "On Earth, solids, liquids, and gases rule, so plasma feels exotic. Zoom out, though, and plasma wins by a landslide. Heat a gas until its atoms tear apart into a glowing soup of charged particles and you get plasma, the stuff of every star, including our Sun. Since stars make up most of the visible universe, plasma is actually the most common state of matter there is. You just live in a rare, cool pocket.",
+    "summary": "Plasma seems rare on Earth, yet it's the state that makes up the stars and most of the visible universe.",
+    "categoryId": "chemistry",
+    "topic": "States of Matter",
+    "tags": [
+      "chemistry",
+      "states of matter",
+      "plasma",
+      "stars"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "acids-bases-hydrogen-ion-exchange",
+    "headline": "Acids and Bases Are Just Passing Protons Around",
+    "body": "Strip away the warning labels and acid-base chemistry is a simple game of hand-offs. A hydrogen ion is really just a lone proton, and acids are substances eager to give one away while bases are eager to grab one. That single transfer explains a sour lemon, a slippery bar of soap, and the antacid that calms your stomach. All that drama, just one proton changing hands.",
+    "summary": "Every acid and base, from lemon juice to soap, comes down to a single proton being handed off.",
+    "categoryId": "chemistry",
+    "topic": "Acids & Bases",
+    "tags": [
+      "chemistry",
+      "acids and bases",
+      "protons",
+      "ions"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "acids-bases-ph-scale",
+    "headline": "Each Step on the pH Scale Means Ten Times Stronger",
+    "body": "The pH scale looks like a gentle ruler from 0 to 14, but it's secretly steep. Each single step is a tenfold jump, so it isn't adding, it's multiplying. That means your stomach acid, sitting near pH 2, isn't a little more acidic than pure water at 7, it's about 100,000 times more acidic. The cozy-looking numbers hide an enormous range of strength.",
+    "summary": "The pH scale's small numbers hide huge jumps: stomach acid is roughly 100,000 times stronger than water.",
+    "categoryId": "chemistry",
+    "topic": "Acids & Bases",
+    "tags": [
+      "chemistry",
+      "acids and bases",
+      "ph",
+      "logarithmic scale"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "acids-bases-neutralization-salts",
+    "headline": "Mix an Acid and a Base and You Get Salt and Water",
+    "body": "Put a strong acid and a strong base together and they cancel each other out, each destroying what made the other dangerous. What's left behind is surprisingly tame: a salt and plain water. Table salt itself can be made by neutralizing hydrochloric acid with a base. It's the same idea behind an antacid tablet, a mild base, quieting the acid churning in your stomach. Two opposites meet and make something harmless.",
+    "summary": "Two dangerous opposites, an acid and a base, neutralize each other into nothing scarier than salt and water.",
+    "categoryId": "chemistry",
+    "topic": "Acids & Bases",
+    "tags": [
+      "chemistry",
+      "acids and bases",
+      "neutralization",
+      "salt"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "radioactivity-unstable-nuclei",
+    "headline": "Bananas Are Slightly Radioactive",
+    "body": "Radioactivity isn't some rare lab phenomenon; it's in your fruit bowl. Bananas are rich in potassium, and a tiny fraction of that potassium is a naturally unstable form that throws off radiation as it decays. The dose is so small that scientists half-jokingly measure minor radiation exposure in banana equivalent doses. The radiation comes from deep in the atom's core, where a too-jittery nucleus is trying to settle down.",
+    "summary": "Your fruit bowl is mildly radioactive, which is why scientists joke about the banana equivalent dose.",
+    "categoryId": "chemistry",
+    "topic": "Radioactivity",
+    "tags": [
+      "chemistry",
+      "radioactivity",
+      "nucleus",
+      "potassium"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "radioactivity-particles-energy",
+    "headline": "Some Radiation Is Stopped by Paper, Some Needs Lead",
+    "body": "Not all radiation is equally hard to block. Alpha particles are heavy and clumsy, so a sheet of paper or your skin stops them cold, but they're dangerous if swallowed. The 1920s Radium Girls, who licked glowing radium paint to tip their brushes, learned that the deadly way. Beta particles need a sheet of metal to stop. Gamma rays, pure high-energy light, can punch through and demand thick lead or concrete.",
+    "summary": "Radiation ranges from rays a sheet of paper can block to gamma rays that need thick lead to stop.",
+    "categoryId": "chemistry",
+    "topic": "Radioactivity",
+    "tags": [
+      "chemistry",
+      "radioactivity",
+      "radiation",
+      "radium girls"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "radioactivity-half-life",
+    "headline": "Some Atoms Decay in a Blink, Others Outlast the Universe",
+    "body": "Radioactive atoms don't all vanish at once; each kind has a half-life, the time for half a sample to decay. The range is staggering. Some unstable atoms fall apart in less than a trillionth of a second, while others have half-lives longer than the age of the universe, over 10^24 years. This steady, predictable ticking is exactly what lets scientists carbon-date a bone or a mummy.",
+    "summary": "Half-lives stretch from a trillionth of a second to longer than the universe has existed.",
+    "categoryId": "chemistry",
+    "topic": "Radioactivity",
+    "tags": [
+      "chemistry",
+      "radioactivity",
+      "half-life",
+      "carbon dating"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "metals-free-electrons-conduct",
+    "headline": "A Metal That Melts in Your Hand",
+    "body": "Metals conduct heat and electricity because their outer electrons aren't tied to any one atom; they roam freely through the whole chunk like a shared sea. That same loose, social bonding makes some metals shockingly soft. Gallium looks like ordinary aluminum but melts at around 30 degrees Celsius, so a solid lump turns to liquid right in your warm palm. Mercury skips the trick entirely and is liquid at room temperature.",
+    "summary": "Metals share a sea of roaming electrons, and one metal is so loosely held it melts in your hand.",
+    "categoryId": "chemistry",
+    "topic": "Metals",
+    "tags": [
+      "chemistry",
+      "metals",
+      "electrons",
+      "gallium"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "metals-most-elements",
+    "headline": "Most of the Periodic Table Is Metal",
+    "body": "Picture the periodic table and you might imagine a balanced mix, but it's lopsided. About three out of every four known elements are metals. Tucked among the familiar iron, copper, and gold are oddballs you'd never guess: there are metals soft enough to cut with a butter knife, metals that float on water, and metals that catch fire in plain air. The table is overwhelmingly a metal's world.",
+    "summary": "Roughly three-quarters of all known elements are metals, including ones soft enough to slice with a knife.",
+    "categoryId": "chemistry",
+    "topic": "Metals",
+    "tags": [
+      "chemistry",
+      "metals",
+      "periodic table",
+      "elements"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "metals-ores-and-free-state",
+    "headline": "Aluminum Was Once More Precious Than Gold",
+    "body": "Most metals hide inside rocky ores and take real effort to extract. Aluminum is everywhere in the Earth's crust, yet for a long time no one could cheaply separate it out. That made pure aluminum a luxury rarer than gold. Emperor Napoleon III reportedly served his most honored guests with aluminum cutlery while everyone else made do with mere gold. Then a new process made it cheap, and it became foil.",
+    "summary": "Aluminum was once so hard to extract that an emperor saved his aluminum cutlery for the most important guests.",
+    "categoryId": "chemistry",
+    "topic": "Metals",
+    "tags": [
+      "chemistry",
+      "metals",
+      "aluminum",
+      "ores"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "oxidation-reduction-paired",
+    "headline": "Rust, a Browning Apple, and a Green Statue Are the Same Reaction",
+    "body": "Oxidation sounds technical, but you watch it happen all day. Iron rusting, a sliced apple turning brown, and the Statue of Liberty's copper going green are all the same basic process: a substance handing off electrons, usually to oxygen. And it never happens alone. Every time one substance is oxidized, another grabs those electrons and is reduced. It's always a paired trade, never a solo act.",
+    "summary": "Rust, a browning apple, and the Statue of Liberty's green skin are all the same electron-swapping reaction.",
+    "categoryId": "chemistry",
+    "topic": "Oxidation",
+    "tags": [
+      "chemistry",
+      "oxidation",
+      "redox",
+      "rust"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "oxidation-electron-loss",
+    "headline": "Oxidation Doesn't Actually Need Oxygen",
+    "body": "The word oxidation comes from oxygen, but chemists later realized oxygen was beside the point. What really defines oxidation is losing electrons, full stop. Drop a strip of zinc into a copper solution and the zinc gives up electrons to the copper ions, with no oxygen anywhere. This electron hand-off is exactly what a battery harnesses: one metal loses electrons, another gains them, and the flow between them powers your phone.",
+    "summary": "Despite its name, oxidation is really about losing electrons, and that hand-off is what powers every battery.",
+    "categoryId": "chemistry",
+    "topic": "Oxidation",
+    "tags": [
+      "chemistry",
+      "oxidation",
+      "electrons",
+      "batteries"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "oxidation-numbers-track-change",
+    "headline": "Breathing Is Just Slow-Motion Burning",
+    "body": "A campfire and your own body run on the same chemistry. Burning wood combines fuel with oxygen and releases energy fast, in flames. Your cells do the identical thing to sugar, just slowly and carefully, releasing the energy in tiny controlled steps instead of one blaze. Both are oxidation, fuel losing electrons to oxygen. In a real sense, you're gently burning your breakfast all day long just to stay alive.",
+    "summary": "Your cells stay alive by oxidizing sugar, the same reaction as a fire, just slowed to a gentle smolder.",
+    "categoryId": "chemistry",
+    "topic": "Oxidation",
+    "tags": [
+      "chemistry",
+      "oxidation",
+      "respiration",
+      "energy"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "combustion-oxygen-reaction",
+    "headline": "In Space, a Flame Is a Tiny Blue Sphere",
+    "body": "A candle flame is teardrop-shaped for one reason: gravity. Hot gases rise and pull fresh oxygen up from below, stretching the flame into its familiar point. Take gravity away, as on the Space Station, and that updraft vanishes. Oxygen can only creep in slowly from every side, so the flame becomes a small, dim, blue sphere that barely flickers. Fire needs gravity just to look like fire.",
+    "summary": "Without gravity to feed it oxygen from below, a flame becomes a dim blue ball instead of a flickering point.",
+    "categoryId": "chemistry",
+    "topic": "Combustion",
+    "tags": [
+      "chemistry",
+      "combustion",
+      "fire",
+      "gravity"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "combustion-heat-accelerates-reaction",
+    "headline": "Fire Is a Chain Reaction That Powers Itself",
+    "body": "A fire is its own engine. Once it gets going, the heat it throws off raises the temperature of nearby fuel, which makes that fuel burn, which throws off even more heat. This runaway loop is why a single match can consume an entire forest. It also explains how to stop a fire: break any link, by removing the fuel, smothering the oxygen, or cooling it down, and the chain collapses.",
+    "summary": "A fire keeps itself alive in a self-feeding loop, which is exactly why breaking one link puts it out.",
+    "categoryId": "chemistry",
+    "topic": "Combustion",
+    "tags": [
+      "chemistry",
+      "combustion",
+      "fire",
+      "chain reaction"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "combustion-modern-chemistry",
+    "headline": "Solving Fire Launched Modern Chemistry, Then Cost Him His Head",
+    "body": "For centuries, people thought burning released a mystery substance called phlogiston. In the 1770s Antoine Lavoisier proved the opposite, that fire actually consumes oxygen, and by weighing everything precisely he turned chemistry into a measured science. His reward from history was grim: during the French Revolution he was sent to the guillotine. A judge supposedly sneered that the Republic had no need of scientists. Chemistry had just lost its founder.",
+    "summary": "The chemist who finally explained fire founded modern chemistry, then lost his head in the French Revolution.",
+    "categoryId": "chemistry",
+    "topic": "Combustion",
+    "tags": [
+      "chemistry",
+      "combustion",
+      "lavoisier",
+      "history"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "catalysts-speed-without-consuming",
+    "headline": "Your Enzymes Do in a Second What Would Take Centuries",
+    "body": "A catalyst speeds up a reaction without being used up, coming back ready to do it again and again. Your body runs on them. Enzymes are biological catalysts, and some are almost unbelievably fast. One enzyme can take a reaction that would crawl along for millions of years on its own and finish it in a fraction of a second. Without these tiny helpers, the chemistry of life would simply be too slow to live.",
+    "summary": "Enzymes are catalysts so powerful they finish in a heartbeat reactions that would otherwise take millions of years.",
+    "categoryId": "chemistry",
+    "topic": "Catalysts",
+    "tags": [
+      "chemistry",
+      "catalysts",
+      "enzymes",
+      "reactions"
+    ],
+    "readTimeSeconds": 48,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "catalysts-temporary-intermediates",
+    "headline": "Your Car Turns Poison Into Harmless Gas as You Drive",
+    "body": "Bolted onto every modern car is a quiet chemistry lab: the catalytic converter. Engine exhaust is full of poisons like carbon monoxide. As those gases pass over a honeycomb coated in precious metals like platinum and rhodium, the metal acts as a catalyst, rearranging the toxic molecules into far safer carbon dioxide, nitrogen, and water. The metal does the work over and over without being used up, scrubbing the air mile after mile.",
+    "summary": "A honeycomb of precious metal in your exhaust pipe quietly converts poisonous fumes into harmless gas.",
+    "categoryId": "chemistry",
+    "topic": "Catalysts",
+    "tags": [
+      "chemistry",
+      "catalysts",
+      "catalytic converter",
+      "platinum"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "catalysts-industrial-chemistry",
+    "headline": "Half the Nitrogen in Your Body Was Made in a Factory",
+    "body": "Air is nearly 80% nitrogen, yet plants can't use it straight from the sky. For most of history that bottleneck limited how much food the world could grow. Then the Haber-Bosch process used a metal catalyst to pull nitrogen from the air and turn it into fertilizer. It worked so well that today roughly half the nitrogen atoms in your body once passed through one of those reactors. A catalyst quietly feeds billions.",
+    "summary": "A catalyst-driven reaction pulls fertilizer from thin air, and about half the nitrogen in your body came from it.",
+    "categoryId": "chemistry",
+    "topic": "Catalysts",
+    "tags": [
+      "chemistry",
+      "catalysts",
+      "haber-bosch",
+      "fertilizer"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "polymers-giant-monomer-chains",
+    "headline": "Two Meters of DNA Are Coiled Inside Every Cell",
+    "body": "A polymer is a giant molecule built by linking thousands of small repeating units into a long chain, like beads on a string. They're not just plastics. Your DNA is a polymer, and the strand packed into a single one of your cells, if unwound, would stretch about two meters. Multiply that by your trillions of cells and the total DNA in your body could reach to the Sun and back many times over.",
+    "summary": "DNA is a polymer chain so long that the strand in one tiny cell stretches about two meters.",
+    "categoryId": "chemistry",
+    "topic": "Polymers",
+    "tags": [
+      "chemistry",
+      "polymers",
+      "dna",
+      "molecules"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "polymers-life-natural-polymers",
+    "headline": "Spider Silk Is a Polymer Stronger Than Steel",
+    "body": "Polymers aren't a human invention; nature has been spinning them forever. Proteins, starch, and the cellulose in wood are all natural polymers, long chains of repeating units. The showstopper is spider silk, a protein polymer that, weight for weight, is tougher than steel and stretchier than rubber. Engineers have spent decades trying to copy what a spider whips up in seconds just to catch a fly.",
+    "summary": "Many of nature's materials are polymers, including spider silk that's tougher than steel for its weight.",
+    "categoryId": "chemistry",
+    "topic": "Polymers",
+    "tags": [
+      "chemistry",
+      "polymers",
+      "spider silk",
+      "proteins"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "polymers-tunable-materials",
+    "headline": "Teflon and Vulcanized Rubber Were Both Lucky Accidents",
+    "body": "By tweaking how the chains are built, chemists can dial a polymer to be soft, stretchy, or bulletproof. Some of the greatest hits were total accidents. Teflon's slippery coating was discovered when a gas mysteriously vanished and left a slick residue behind. Vulcanized rubber came from a careless spill onto a hot stove. From those happy mistakes came nonstick pans, car tires, and Kevlar vests, all just chains tuned to a purpose.",
+    "summary": "From nonstick pans to bulletproof vests, many world-changing polymers were discovered entirely by accident.",
+    "categoryId": "chemistry",
+    "topic": "Polymers",
+    "tags": [
+      "chemistry",
+      "polymers",
+      "teflon",
+      "materials science"
+    ],
+    "readTimeSeconds": 56,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "crystals-hidden-internal-order",
+    "headline": "A Crystal's Shape Is Its Atoms Showing Their Work",
+    "body": "A crystal's flat faces and sharp angles aren't decoration; they're a direct readout of the atoms inside. In a crystal, atoms stack in a strict, repeating 3-D pattern, and that hidden order pushes outward to shape the whole visible form. That's why salt grains are tiny cubes and quartz grows into six-sided points. The geometry you see with your eyes is really the atomic blueprint, scaled up.",
+    "summary": "A crystal's outer shape is a faithful enlargement of the neat atomic pattern hidden inside it.",
+    "categoryId": "chemistry",
+    "topic": "Crystals",
+    "tags": [
+      "chemistry",
+      "crystals",
+      "symmetry",
+      "atoms"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "crystals-unit-cells-repeat",
+    "headline": "Every Snowflake Has Six Sides for the Same Reason",
+    "body": "A whole crystal grows from one tiny repeating block, called a unit cell, copied over and over in every direction. In ice, the water molecules lock into a six-sided pattern, and that single rule echoes outward across the entire snowflake. That's why every snowflake, however different, has six points. The branches vary because each one forms in slightly different air, but the six-fold rule never breaks.",
+    "summary": "Snowflakes all have six sides because one six-sided ice pattern repeats across the whole crystal.",
+    "categoryId": "chemistry",
+    "topic": "Crystals",
+    "tags": [
+      "chemistry",
+      "crystals",
+      "snowflakes",
+      "unit cell"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "crystals-structure-changes-strength",
+    "headline": "Cold Can Turn Solid Tin Into Crumbling Powder",
+    "body": "The same atoms can make a strong material or a crumbly one depending only on how their crystals are arranged. Tin has a nasty trick: in deep cold its atoms rearrange into a brittle crystal form, and the solid metal slowly disintegrates into gray powder, a process nicknamed tin pest. Legend even blames it for Napoleon's army, whose tin coat buttons supposedly crumbled in the Russian winter. Same metal, different crystal, total collapse.",
+    "summary": "In extreme cold, tin's crystals rearrange and the solid metal crumbles to powder, a fate once blamed on Napoleon's buttons.",
+    "categoryId": "chemistry",
+    "topic": "Crystals",
+    "tags": [
+      "chemistry",
+      "crystals",
+      "tin pest",
+      "materials science"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
