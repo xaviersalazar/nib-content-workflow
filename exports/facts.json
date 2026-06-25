@@ -20172,5 +20172,770 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "banking-deposits-become-loans",
+    "headline": "Banks Create Most Money Out of Thin Air",
+    "body": "Here's a fact that surprises most people: banks don't just lend out money that others deposited. When a bank approves a loan, it largely creates new money by typing the amount into the borrower's account. That freshly made money didn't exist a moment before. Governments print only a sliver of the cash supply; the vast majority of money in a modern economy is conjured into being by commercial banks making loans.",
+    "summary": "Most money isn't printed by governments, it's created by commercial banks the moment they make a loan.",
+    "categoryId": "economics",
+    "topic": "Banking",
+    "tags": [
+      "banking",
+      "money creation",
+      "loans"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "banking-creates-bank-money",
+    "headline": "Your Bank Doesn't Actually Have Your Money",
+    "body": "If everyone with an account showed up tomorrow demanding their cash, the bank couldn't pay. Banks keep only a small fraction of deposits on hand and lend the rest out, so the money on your screen isn't sitting in a vault, it's circulating in loans. When savers panic and rush to withdraw all at once, it's called a bank run, and it can topple even a healthy bank. Deposit insurance was invented to calm the panic.",
+    "summary": "Banks lend out most of your deposit, so if everyone withdrew at once, the cash simply wouldn't be there.",
+    "categoryId": "economics",
+    "topic": "Banking",
+    "tags": [
+      "banking",
+      "bank runs",
+      "deposits"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "banking-central-banks-last-resort",
+    "headline": "The World's Oldest Bank Has Operated Since 1472",
+    "body": "Banking is older than most countries. Banca Monte dei Paschi di Siena, founded in the Italian city of Siena in 1472, is still in business today, making it the oldest surviving bank on Earth. It opened two decades before Columbus sailed. Behind such longevity sits a modern safety net: central banks, which can step in as a 'lender of last resort,' pumping emergency money into struggling banks to stop a panic from spreading.",
+    "summary": "The oldest bank still operating, Italy's Monte dei Paschi, opened in 1472, before Columbus crossed the Atlantic.",
+    "categoryId": "economics",
+    "topic": "Banking",
+    "tags": [
+      "banking",
+      "history",
+      "central banks"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "barter-direct-exchange",
+    "headline": "The 'Barter Before Money' Story Is Probably a Myth",
+    "body": "Textbooks love to say money was invented to fix barter: people got tired of swapping chickens for shoes. But anthropologists have looked, and they've never found a society that actually ran on pure barter. Instead, early communities mostly used credit and informal IOUs, keeping loose track of who owed whom. Barter mostly shows up when normal money breaks down. The tidy origin story for money may simply never have happened.",
+    "summary": "Anthropologists have never found a real barter economy; the classic 'money replaced barter' tale appears to be a myth.",
+    "categoryId": "economics",
+    "topic": "Barter",
+    "tags": [
+      "barter",
+      "money",
+      "economic history"
+    ],
+    "readTimeSeconds": 49,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "barter-oldest-commerce",
+    "headline": "In POW Camps, Cigarettes Became Real Money",
+    "body": "When official money disappears, people invent their own. In World War II prisoner-of-war camps, cigarettes spontaneously became the currency. Prices for food, clothes, and services were quoted in cigarettes, even by prisoners who didn't smoke. They were durable, portable, and came in handy small units, everything money needs to be. An economist who lived it later wrote a famous paper describing how a tiny cashless economy reinvented money from scratch.",
+    "summary": "In WWII prison camps, cigarettes became a full-blown currency, even among prisoners who never smoked.",
+    "categoryId": "economics",
+    "topic": "Barter",
+    "tags": [
+      "barter",
+      "currency",
+      "history"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "barter-gift-exchange-different",
+    "headline": "Some Cultures Gained Status by Giving Wealth Away",
+    "body": "Not every economy chases profit. Among Indigenous peoples of the Pacific Northwest, the potlatch was a grand ceremony where hosts boosted their status by giving away, or even destroying, enormous amounts of property: blankets, food, canoes, sometimes burning valuables outright. The more you gave up, the higher you rose. Colonial governments found it so baffling and threatening that Canada and the US actually banned the practice for decades.",
+    "summary": "In the potlatch, leaders raised their status by giving away or destroying wealth, a custom governments once banned.",
+    "categoryId": "economics",
+    "topic": "Barter",
+    "tags": [
+      "barter",
+      "gift economy",
+      "potlatch"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "capitalism-private-ownership",
+    "headline": "Your Dinner Depends on the Baker's Self-Interest, Not Kindness",
+    "body": "In 1776, Adam Smith captured the strange magic of markets in a single line: we get our dinner not from the kindness of the butcher, brewer, or baker, but from their regard for their own interest. Each person chasing personal gain, he argued, is led 'as if by an invisible hand' to serve everyone else. No one plans it, yet bread appears, shoes get made, and a vast economy quietly coordinates itself.",
+    "summary": "Adam Smith's 'invisible hand': bakers feed you not from kindness but self-interest, and the whole economy self-organizes.",
+    "categoryId": "economics",
+    "topic": "Capitalism",
+    "tags": [
+      "capitalism",
+      "adam smith",
+      "markets"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "capitalism-growth-not-guaranteed",
+    "headline": "Two Koreas Look Like Night and Day From Space",
+    "body": "One of history's starkest economic experiments is visible from orbit. Satellite photos of the Korean Peninsula at night show South Korea blazing with electric light while North Korea sits in near-total darkness, a black void between China and the glowing south. The two share a language, a history, and a people, split in 1945. The dramatic difference in brightness is, in large part, a difference in economic systems.",
+    "summary": "From space at night, prosperous South Korea glows while North Korea is dark, a vivid map of two economic systems.",
+    "categoryId": "economics",
+    "topic": "Capitalism",
+    "tags": [
+      "capitalism",
+      "north korea",
+      "economic systems"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "capitalism-debated-equity",
+    "headline": "The Richest 1% Own More Than Everyone Else Combined",
+    "body": "Markets create enormous wealth, but not evenly. By some widely cited estimates, the richest 1% of people now own more wealth than the entire rest of humanity put together. A handful of billionaires can hold as much as the poorest half of the planet, billions of people, combined. Whether that gap is a fair reward for value created or a flaw to be fixed is one of capitalism's oldest and fiercest arguments.",
+    "summary": "By some estimates the wealthiest 1% own more than the other 99% combined, fueling capitalism's oldest debate.",
+    "categoryId": "economics",
+    "topic": "Capitalism",
+    "tags": [
+      "capitalism",
+      "inequality",
+      "wealth"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "currency-more-than-cash",
+    "headline": "There Are More $100 Bills Than $1 Bills",
+    "body": "You see one-dollar bills constantly and rarely handle a hundred, so it feels like small bills must dominate. They don't. There are actually more $100 bills in existence than $1 bills. The catch: most of those hundreds aren't in American wallets at all. A large share of US cash circulates overseas, hoarded abroad as a stable store of value. The bill you see least is the one there's the most of.",
+    "summary": "There are more $100 bills in circulation than $1 bills, and most of them sit outside the United States.",
+    "categoryId": "economics",
+    "topic": "Currency",
+    "tags": [
+      "currency",
+      "cash",
+      "money supply"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "currency-can-be-unusual",
+    "headline": "This Island Used Giant Stone Coins Too Heavy to Move",
+    "body": "On the Pacific island of Yap, money came in the form of rai: enormous carved stone discs, some twelve feet across and weighing tons. They were far too heavy to carry, so they simply stayed put while everyone agreed on who owned which stone. Ownership could change hands without the stone ever moving an inch. One famous rai sank to the sea floor, and the islanders kept treating it as valuable anyway.",
+    "summary": "The island of Yap used stone discs the size of cars as money, including one at the bottom of the sea.",
+    "categoryId": "economics",
+    "topic": "Currency",
+    "tags": [
+      "currency",
+      "yap stones",
+      "money"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "currency-digital-without-central-authority",
+    "headline": "Two Pizzas Once Cost 10,000 Bitcoin",
+    "body": "In May 2010, a programmer made the first real-world purchase with Bitcoin, paying 10,000 coins for two pizzas. At the time it seemed like a fun novelty trade. As Bitcoin's price later exploded, those 10,000 coins would be worth hundreds of millions of dollars. The day is now celebrated every year as 'Bitcoin Pizza Day,' a monument to what may be the most expensive takeout order in history.",
+    "summary": "The first Bitcoin purchase, two pizzas for 10,000 coins in 2010, would later be worth hundreds of millions.",
+    "categoryId": "economics",
+    "topic": "Currency",
+    "tags": [
+      "currency",
+      "bitcoin",
+      "cryptocurrency"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "economic-bubbles-dot-com-surge",
+    "headline": "Adding '.com' to Your Name Could Pump Your Stock",
+    "body": "The late-1990s dot-com frenzy got so irrational that a name alone could move markets. Studies found that companies which simply added '.com' or 'internet' to their names saw their share prices jump, often with no real change to the underlying business. Investors poured billions into websites with no profits and barely a plan. When reality caught up around 2000, trillions in value evaporated and most of those companies vanished.",
+    "summary": "During the dot-com mania, just adding '.com' to a company's name could send its stock soaring.",
+    "categoryId": "economics",
+    "topic": "Economic Bubbles",
+    "tags": [
+      "economic bubbles",
+      "dot-com",
+      "stock market"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "economic-bubbles-boom-and-bust",
+    "headline": "The World Believed House Prices Could Never Fall",
+    "body": "In the mid-2000s, a near-universal faith took hold: US home prices only ever go up. Banks handed out risky mortgages to almost anyone, then bundled and sold them as supposedly safe investments. When house prices did fall, the whole tower wobbled and collapsed, triggering the 2008 financial crisis and the worst downturn since the Great Depression. A single shared assumption, that prices couldn't drop, nearly broke the global economy.",
+    "summary": "The 2008 crash grew from one shared belief, that US house prices could never fall nationwide.",
+    "categoryId": "economics",
+    "topic": "Economic Bubbles",
+    "tags": [
+      "economic bubbles",
+      "2008 crisis",
+      "housing"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "economic-bubbles-name-matters",
+    "headline": "Isaac Newton Lost a Fortune in a Stock Bubble",
+    "body": "Even history's greatest genius wasn't immune to market mania. In 1720, Isaac Newton invested in the booming South Sea Company, sold early for a tidy profit, then watched prices keep climbing and jumped back in near the top, just before the bubble burst. He lost a fortune, perhaps millions in today's money. He reportedly grumbled that he could calculate the motions of the heavens but not the madness of people.",
+    "summary": "Isaac Newton was wiped out by the 1720 South Sea Bubble, saying he could predict planets but not human madness.",
+    "categoryId": "economics",
+    "topic": "Economic Bubbles",
+    "tags": [
+      "economic bubbles",
+      "south sea bubble",
+      "isaac newton"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "globalization-world-integration",
+    "headline": "The World Was Already 'Globalized' Over a Century Ago",
+    "body": "Globalization can feel like a recent, unstoppable force, but the world was deeply connected once before. By 1913, goods, money, and people flowed across borders so freely that some economists think the global economy was nearly as integrated as today's. Then two world wars and the Great Depression slammed the doors shut for decades. Our current era is really the second great wave, and the first one proved it can reverse.",
+    "summary": "The world economy was nearly as connected in 1913 as now, until wars and depression reversed it for decades.",
+    "categoryId": "economics",
+    "topic": "Globalization",
+    "tags": [
+      "globalization",
+      "history",
+      "trade"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "globalization-term-levitt",
+    "headline": "Your Valentine's Roses Probably Flew In From the Equator",
+    "body": "That bouquet of fresh roses likely began life thousands of miles away. Much of the world's cut flowers are grown in sunny, high-altitude regions near the equator, such as Kenya, Colombia, and Ecuador, then rushed by refrigerated plane to shops in Europe and North America within a day or two. A delicate, perishable rose has become a globe-trotting product, proof that even flowers now ride a worldwide supply network.",
+    "summary": "Most cut flowers are grown near the equator and flown thousands of miles to reach shops within a day or two.",
+    "categoryId": "economics",
+    "topic": "Globalization",
+    "tags": [
+      "globalization",
+      "flowers",
+      "trade"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "globalization-industrial-revolution",
+    "headline": "The 'Victorian Internet' Connected Continents in 1866",
+    "body": "Before 1866, a message between America and Europe traveled by ship and took about ten days. Then engineers laid a telegraph cable across the floor of the Atlantic Ocean. Suddenly news, prices, and orders could cross in minutes instead. Markets on two continents began moving together for the first time. Historians sometimes call the telegraph network the 'Victorian Internet,' because it shrank the world just as dramatically as the web later would.",
+    "summary": "The 1866 transatlantic telegraph cable cut messages between continents from ten days to minutes.",
+    "categoryId": "economics",
+    "topic": "Globalization",
+    "tags": [
+      "globalization",
+      "telegraph",
+      "history"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gdp-measures-output",
+    "headline": "Disasters and Car Crashes Can Make GDP Go Up",
+    "body": "GDP counts money spent, not whether the spending is good or bad. So a hurricane that flattens a city can actually raise GDP, because rebuilding means construction, jobs, and sales. A car crash boosts it through repairs, hospital bills, and lawyers. Even an oil spill lifts GDP via the cleanup. The measure can't tell creation from mere repair, which is one reason economists warn against treating GDP as a scoreboard for well-being.",
+    "summary": "Because GDP just counts spending, hurricanes, car crashes, and oil-spill cleanups can all push it higher.",
+    "categoryId": "economics",
+    "topic": "GDP",
+    "tags": [
+      "gdp",
+      "economic measurement",
+      "well-being"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gdp-final-goods-only",
+    "headline": "GDP's Inventor Warned Us Not to Use It This Way",
+    "body": "The modern measure of GDP was largely built by economist Simon Kuznets in the 1930s to help make sense of the Great Depression. But Kuznets gave a blunt warning: the welfare of a nation can hardly be inferred from this number. He knew it ignored too much. A century later, we routinely treat GDP as the headline score of a country's success, doing exactly what its own creator cautioned against.",
+    "summary": "Simon Kuznets built GDP in the 1930s, then warned a nation's welfare 'can hardly be inferred' from it.",
+    "categoryId": "economics",
+    "topic": "GDP",
+    "tags": [
+      "gdp",
+      "kuznets",
+      "history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "gdp-not-whole-story",
+    "headline": "One Country Measures Happiness Instead of GDP",
+    "body": "While most nations chase economic growth, the small Himalayan kingdom of Bhutan decided to measure something else: Gross National Happiness. Rather than ranking success by output alone, it weighs things like health, education, culture, the environment, and people's sense of well-being. The idea, made official policy, was that a country can grow richer while its citizens grow no happier. Bhutan chose to track exactly what GDP leaves out.",
+    "summary": "Bhutan officially measures 'Gross National Happiness' instead of judging its success by GDP alone.",
+    "categoryId": "economics",
+    "topic": "GDP",
+    "tags": [
+      "gdp",
+      "bhutan",
+      "well-being"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inflation-weakens-buying-power",
+    "headline": "Germans Once Burned Cash to Stay Warm",
+    "body": "In 1923, runaway inflation in Germany made money nearly worthless almost overnight. Prices doubled every few days, and workers were paid twice a day so they could spend before their wages lost value. People hauled wheelbarrows of banknotes just to buy a loaf of bread, and some found it cheaper to burn stacks of cash in the stove than to buy firewood with it. Money had literally become fuel.",
+    "summary": "During Germany's 1923 hyperinflation, cash grew so worthless that burning it for heat was cheaper than buying wood.",
+    "categoryId": "economics",
+    "topic": "Inflation",
+    "tags": [
+      "inflation",
+      "hyperinflation",
+      "weimar germany"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inflation-has-multiple-causes",
+    "headline": "One Country's Prices Doubled Every 15 Hours",
+    "body": "Germany's famous inflation looks mild next to the all-time record. In Hungary in 1946, prices doubled roughly every 15 hours, the fastest inflation ever recorded, forcing the government to print a banknote worth 100 quintillion pengo. Decades later Zimbabwe came close, issuing a single 100-trillion-dollar bill that could barely buy a bus ticket. When trust in money collapses, the zeros pile up faster than anyone can spend them.",
+    "summary": "Hungary's 1946 inflation doubled prices every 15 hours, the fastest ever, with a 100-quintillion-pengo note.",
+    "categoryId": "economics",
+    "topic": "Inflation",
+    "tags": [
+      "inflation",
+      "hyperinflation",
+      "hungary"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "inflation-demand-pull",
+    "headline": "Central Banks Actually Want a Little Inflation",
+    "body": "It sounds backwards, but most central banks aim for steady, mild inflation, usually around 2% a year, on purpose. A little inflation nudges people to spend and invest rather than hoard cash. What they truly fear is the opposite: deflation, or falling prices. If people expect things to keep getting cheaper, they delay buying, businesses cut back, and the economy can spiral downward. A slowly shrinking dollar is the lesser danger.",
+    "summary": "Central banks deliberately target about 2% inflation, because falling prices, deflation, are considered far more dangerous.",
+    "categoryId": "economics",
+    "topic": "Inflation",
+    "tags": [
+      "inflation",
+      "deflation",
+      "central banks"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "interest-rates-price-of-borrowing",
+    "headline": "Charging Interest Was Once a Sin",
+    "body": "For much of history, lending money at interest was considered deeply immoral. Medieval Christianity condemned 'usury' as a sin, and a known moneylender could even be denied a proper burial. Islamic finance still forbids interest today, and has built an entire banking system around the rule, using profit-sharing and asset deals instead of straightforward loans. The everyday cost of borrowing was, for centuries, treated as a moral scandal.",
+    "summary": "Lending at interest was condemned as the sin of 'usury' for centuries, and Islamic finance still forbids it today.",
+    "categoryId": "economics",
+    "topic": "Interest Rates",
+    "tags": [
+      "interest rates",
+      "usury",
+      "history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "interest-rates-compounding",
+    "headline": "That $24 for Manhattan Could've Beaten Owning It",
+    "body": "Legend says Manhattan was sold by Native Americans in 1626 for about $24 in goods, often told as history's greatest bargain. But here's the twist of compound interest: if that $24 had instead been invested at a healthy annual return, earning interest on top of interest for nearly 400 years, it could now be worth more than all the real estate on the island. Compounding turns tiny sums into staggering ones, given enough time.",
+    "summary": "If the legendary $24 paid for Manhattan had earned compound interest since 1626, it might now top the island's value.",
+    "categoryId": "economics",
+    "topic": "Interest Rates",
+    "tags": [
+      "interest rates",
+      "compound interest",
+      "investing"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "interest-rates-risk-priced",
+    "headline": "Some Banks Paid People to Borrow Money",
+    "body": "We assume borrowers always pay and savers always earn, but in the 2010s several economies flipped that on its head with negative interest rates. In parts of Europe and Japan, banks were effectively charged to park money at the central bank, and savers could be charged just to hold deposits. In Denmark, some homeowners briefly got mortgages with negative rates, meaning the bank paid them, slightly, to borrow.",
+    "summary": "In the 2010s, negative interest rates meant some savers were charged to hold money and some borrowers were paid.",
+    "categoryId": "economics",
+    "topic": "Interest Rates",
+    "tags": [
+      "interest rates",
+      "negative rates",
+      "banking"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "minimum-wage-sets-floor",
+    "headline": "The US Minimum Wage Hasn't Risen Since 2009",
+    "body": "The federal minimum wage in the United States has been stuck at $7.25 an hour since July 2009, the longest stretch without a raise since it was created in 1938. Because prices keep climbing, that frozen number buys less every year, so the real minimum wage has quietly fallen for over a decade. Many states and cities set higher floors of their own, but the national one simply hasn't budged.",
+    "summary": "America's federal minimum wage has been frozen at $7.25 since 2009, its longest stretch ever without an increase.",
+    "categoryId": "economics",
+    "topic": "Minimum Wage",
+    "tags": [
+      "minimum wage",
+      "wages",
+      "policy"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "minimum-wage-global-policy",
+    "headline": "A Famous Study Found Higher Wages Didn't Kill Jobs",
+    "body": "Basic textbooks long taught that raising the minimum wage must cost jobs. Then in the early 1990s, economists David Card and Alan Krueger compared fast-food restaurants in New Jersey, which raised its minimum wage, with neighboring Pennsylvania, which didn't. To many people's surprise, employment didn't drop in New Jersey. The study upended a piece of conventional wisdom and helped earn Card a Nobel Prize decades later.",
+    "summary": "Card and Krueger's fast-food study found raising the minimum wage didn't cut jobs, challenging textbook theory.",
+    "categoryId": "economics",
+    "topic": "Minimum Wage",
+    "tags": [
+      "minimum wage",
+      "economics",
+      "research"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "minimum-wage-alternatives-debate",
+    "headline": "Some Rich Countries Have No Minimum Wage at All",
+    "body": "It's easy to assume every advanced economy sets a legal wage floor, but several don't. Countries like Sweden, Denmark, Norway, and Switzerland have no national minimum wage. Instead, pay is set through powerful unions negotiating directly with employers, industry by industry. The result can be high wages without a single legislated number on the books. There's clearly more than one way to keep paychecks from falling too low.",
+    "summary": "Sweden, Denmark, and Switzerland have no legal minimum wage, relying on union bargaining to set pay instead.",
+    "categoryId": "economics",
+    "topic": "Minimum Wage",
+    "tags": [
+      "minimum wage",
+      "labor unions",
+      "global economy"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "recession-business-cycle-downturn",
+    "headline": "The 'Two Bad Quarters' Recession Rule Is a Myth",
+    "body": "People often say a recession means two straight quarters of shrinking GDP, but that's just a rule of thumb, not the official definition. In the US, a small committee of economists at the NBER actually decides, weighing jobs, income, and spending, not GDP alone. And they call it in hindsight: a recession is often only declared months, or even a year, after it had secretly already begun.",
+    "summary": "The popular 'two negative quarters' rule isn't official; a committee declares US recessions, often a year after they start.",
+    "categoryId": "economics",
+    "topic": "Recession",
+    "tags": [
+      "recession",
+      "gdp",
+      "business cycle"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "recession-ripples-through-economy",
+    "headline": "Everyone Saving Money Can Make a Recession Worse",
+    "body": "In hard times, saving money is the sensible personal move. But here's the trap, called the paradox of thrift: if everyone tightens their belt at once, total spending plunges. One person's spending cut is another person's lost income, so businesses earn less, lay off workers, and the downturn deepens. What's wise for a single household can be harmful for the whole economy when everybody does it at the same time.",
+    "summary": "The paradox of thrift: when everyone sensibly saves during a downturn, the falling spending makes the recession worse.",
+    "categoryId": "economics",
+    "topic": "Recession",
+    "tags": [
+      "recession",
+      "paradox of thrift",
+      "spending"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "recession-not-depression",
+    "headline": "'Depression' Was Picked Because It Sounded Gentle",
+    "body": "Earlier downturns were bluntly called 'panics' or 'crises.' When the economy cratered around 1929, President Herbert Hoover and others preferred the word 'depression,' reportedly because it sounded milder and less alarming than panic. The irony is brutal: the slump grew so catastrophic, with unemployment near 25%, that 'the Great Depression' became the very byword for economic disaster the soft word was meant to avoid.",
+    "summary": "Leaders chose the word 'depression' because it sounded gentler than 'panic', just before the Great Depression made it terrifying.",
+    "categoryId": "economics",
+    "topic": "Recession",
+    "tags": [
+      "recession",
+      "great depression",
+      "history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supply-chains-raw-to-retail",
+    "headline": "One Stuck Ship Jammed $10 Billion of Trade a Day",
+    "body": "In March 2021, a single colossal container ship, the Ever Given, wedged itself sideways across Egypt's Suez Canal and got stuck for six days. The canal is a chokepoint for roughly 12% of global trade, so the blockage froze an estimated $10 billion worth of goods every day, with hundreds of ships backed up waiting. It was a vivid reminder of how the world's supply chains can hinge on one narrow waterway.",
+    "summary": "When the Ever Given wedged across the Suez Canal in 2021, it stalled an estimated $10 billion in trade per day.",
+    "categoryId": "economics",
+    "topic": "Supply Chains",
+    "tags": [
+      "supply chains",
+      "suez canal",
+      "global trade"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supply-chains-management-coordination",
+    "headline": "A Missing Chip Can Halt an Entire Car Factory",
+    "body": "Many companies run on 'just-in-time' production, pioneered by Toyota: instead of stockpiling parts, they have components arrive only hours before they're needed. It saves enormous money, but it's fragile. When a 2021 shortage of cheap computer chips hit, automakers couldn't finish cars missing a single small part, and factories worldwide sat idle. A modern vehicle needs thousands of chips, and lacking even one can stop the whole line.",
+    "summary": "Under 'just-in-time' production, a shortage of one cheap computer chip idled car factories around the world in 2021.",
+    "categoryId": "economics",
+    "topic": "Supply Chains",
+    "tags": [
+      "supply chains",
+      "just-in-time",
+      "chip shortage"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "supply-chains-ev-complexity",
+    "headline": "Why a Small Demand Blip Causes Huge Shortages",
+    "body": "Supply chains have a strange amplifier built in, called the bullwhip effect. When shoppers buy just a bit more of something, each link up the chain, retailer, wholesaler, factory, over-orders to stay safe, and the signal grows wildly with every step. A tiny wiggle in demand becomes a violent swing in factory orders. It's a big reason a brief run on toilet paper in 2020 spiraled into months of empty shelves.",
+    "summary": "The 'bullwhip effect' magnifies small shifts in demand into wild swings upstream, like 2020's toilet-paper shortages.",
+    "categoryId": "economics",
+    "topic": "Supply Chains",
+    "tags": [
+      "supply chains",
+      "bullwhip effect",
+      "shortages"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "taxes-fund-public-needs",
+    "headline": "England Once Taxed You by Your Windows",
+    "body": "In 1696, England introduced a tax based on how many windows a house had, an easy way to estimate wealth without prying into people's income. The result was predictable: homeowners bricked up their windows to dodge the charge, and you can still spot the blocked-up openings on old British buildings today. Some say the resulting gloom gave us the phrase 'daylight robbery.' Tax people on something visible, and they will hide it.",
+    "summary": "England's old window tax led people to brick up their windows, and may be the origin of 'daylight robbery.'",
+    "categoryId": "economics",
+    "topic": "Taxes",
+    "tags": [
+      "taxes",
+      "window tax",
+      "history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "taxes-direct-indirect",
+    "headline": "The Income Tax Was Sold as Temporary",
+    "body": "For most of US history, there was no income tax at all. It first appeared as a temporary measure to help fund the Civil War, then disappeared. It only became permanent in 1913 with a constitutional amendment, and at first it touched just the richest sliver of Americans, with most people paying nothing. The tax now central to government funding is barely a century old and was once meant to be a brief, rich-only levy.",
+    "summary": "The US income tax began as a temporary Civil War measure and, when made permanent in 1913, hit only the wealthy.",
+    "categoryId": "economics",
+    "topic": "Taxes",
+    "tags": [
+      "taxes",
+      "income tax",
+      "history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "taxes-burden-can-shift",
+    "headline": "A Napkin Sketch Reshaped Tax Policy",
+    "body": "In 1974, economist Arthur Laffer reportedly drew a simple curve on a cocktail napkin for two officials over dinner. His point: tax rates of both 0% and 100% raise no money (at 100%, why bother working?), so somewhere between lies a rate that maximizes revenue, and cutting rates can sometimes raise it. The 'Laffer curve' became a cornerstone argument for tax cuts, one of the most influential doodles in economic history.",
+    "summary": "Arthur Laffer's curve, said to be sketched on a napkin in 1974, became a powerful argument that lower tax rates can raise revenue.",
+    "categoryId": "economics",
+    "topic": "Taxes",
+    "tags": [
+      "taxes",
+      "laffer curve",
+      "policy"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "opportunity-cost-next-best",
+    "headline": "College's Biggest Cost Isn't Tuition",
+    "body": "Add up the price of a college degree and the tuition bill is only half the story. The hidden, often larger cost is the money you don't earn during those years spent studying instead of working full time. Economists call these forgone wages, and for many students they exceed tuition itself. The true cost of any choice includes the best thing you gave up to make it, not just what you paid out of pocket.",
+    "summary": "The real cost of college includes the years of wages you give up by studying instead of working, often more than tuition.",
+    "categoryId": "economics",
+    "topic": "Opportunity Cost",
+    "tags": [
+      "opportunity cost",
+      "education",
+      "tradeoffs"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "opportunity-cost-better-decisions",
+    "headline": "Bill Gates Shouldn't Stop to Pick Up a $100 Bill",
+    "body": "There's a famous thought experiment about the value of time. If Bill Gates earns so much that bending down to grab a $100 bill would cost him a couple of seconds he could spend earning far more, then in pure economic terms, it isn't worth his time to pick it up. The point isn't really about Gates. It's that every minute you spend on one thing carries the cost of whatever else it could have bought.",
+    "summary": "A classic thought experiment: Bill Gates earns so fast that grabbing a $100 bill could 'cost' him more in lost time.",
+    "categoryId": "economics",
+    "topic": "Opportunity Cost",
+    "tags": [
+      "opportunity cost",
+      "time",
+      "value"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "opportunity-cost-not-accounting",
+    "headline": "Why 'We've Come This Far' Is a Costly Trap",
+    "body": "Opportunity cost has an evil twin: the sunk-cost fallacy. People keep pouring money or time into a failing plan simply because they've already invested so much, even when quitting would clearly be smarter. The classic example is the Concorde jet, which Britain and France kept funding for years despite knowing it would never pay off. Money already spent is gone; the only question that matters is what's worth doing next.",
+    "summary": "The sunk-cost fallacy keeps people funding doomed projects, like the Concorde, just because they've already spent so much.",
+    "categoryId": "economics",
+    "topic": "Opportunity Cost",
+    "tags": [
+      "opportunity cost",
+      "sunk cost",
+      "decision making"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "scarcity-limited-resources",
+    "headline": "Why Useless Diamonds Cost More Than Vital Water",
+    "body": "Water keeps you alive; diamonds do almost nothing useful. So why does water cost pennies while diamonds cost fortunes? This puzzle, the diamond-water paradox, stumped early thinkers like Adam Smith. The answer is scarcity at the margin: water is so abundant that one more glass is nearly worthless, while diamonds are rare, so one more is precious. Price tracks not how vital something is, but how scarce the next unit happens to be.",
+    "summary": "Water is essential yet cheap and diamonds are useless yet costly, because price follows scarcity, not importance.",
+    "categoryId": "economics",
+    "topic": "Scarcity",
+    "tags": [
+      "scarcity",
+      "value",
+      "diamond-water paradox"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "scarcity-raises-value",
+    "headline": "Companies Invent Scarcity on Purpose",
+    "body": "Not all shortages are natural; some are manufactured to drive desire. Disney famously locked its classic films 'in the vault,' releasing them only briefly so families felt they had to buy now. Sneaker brands drop tiny batches, luxury makers cap production, and 'limited editions' are everywhere, all engineering artificial rarity. Because scarcity raises perceived value, making something feel hard to get can be more profitable than simply making more of it.",
+    "summary": "From the Disney 'vault' to limited sneaker drops, companies engineer artificial scarcity because rarity raises value.",
+    "categoryId": "economics",
+    "topic": "Scarcity",
+    "tags": [
+      "scarcity",
+      "marketing",
+      "artificial scarcity"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "scarcity-forces-choices",
+    "headline": "Being Short on Money Can Tax Your Brain",
+    "body": "Scarcity isn't only about resources; it changes how we think. Research suggests that worrying about a pressing shortage, especially of money, consumes mental bandwidth, leaving less capacity for everything else. In one striking finding, the stress of scarcity reduced people's effective problem-solving as much as losing a full night's sleep. Poverty, in this view, isn't just a lack of cash; it imposes a hidden tax on attention and decision-making.",
+    "summary": "Studies suggest the mental strain of scarcity, especially financial, drains brainpower as much as a sleepless night.",
+    "categoryId": "economics",
+    "topic": "Scarcity",
+    "tags": [
+      "scarcity",
+      "psychology",
+      "poverty"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]

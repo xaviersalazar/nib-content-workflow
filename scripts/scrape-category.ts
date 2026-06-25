@@ -65,11 +65,11 @@ async function main() {
     );
 
     if (result.status !== 0) {
-      console.error(`✗ Failed: ${source.url}\n`);
+      console.error(`❌ Failed: ${source.url}\n`);
       failed++;
     } else {
       console.log(
-        `✓ Done: ${source.institution} - ${source.topic} scraped successfully.\n`,
+        `✅ Done: ${source.institution} - ${source.topic} scraped successfully.\n`,
       );
       completed++;
     }
