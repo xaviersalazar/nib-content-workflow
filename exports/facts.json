@@ -18642,5 +18642,770 @@
     "funScore": 10,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "pi-never-repeats",
+    "headline": "You Only Need 40 Digits of Pi to Measure the Universe",
+    "body": "Pi's digits famously run on forever without repeating, and people have now computed trillions of them. But here's the twist: you almost never need them. NASA steers spacecraft across the solar system using just 15 digits of pi. And with only about 40 digits, you could calculate the circumference of the entire observable universe accurate to the width of a single hydrogen atom. The endless digits are mostly for fun.",
+    "summary": "Pi runs on forever, yet 40 digits is enough to size the whole universe to an atom's width.",
+    "categoryId": "mathematics",
+    "topic": "Pi",
+    "tags": [
+      "pi",
+      "circles",
+      "space"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pi-ancient-approximations",
+    "headline": "A US State Once Nearly Made Pi Equal 3.2",
+    "body": "In 1897, an amateur mathematician convinced Indiana's legislature to consider a bill that effectively redefined pi as 3.2. The state House passed it unanimously. It was only halted when a real mathematician happened to be visiting the statehouse, overheard the debate, and quietly coached the senators to kill it. Pi is fixed by nature, not by vote, but Indiana came surprisingly close to legislating bad geometry.",
+    "summary": "In 1897 a legislature almost voted pi into being 3.2, stopped only by a visiting mathematician.",
+    "categoryId": "mathematics",
+    "topic": "Pi",
+    "tags": [
+      "pi",
+      "history",
+      "oddities"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pi-beyond-circles",
+    "headline": "You Can Find Pi by Dropping Needles on the Floor",
+    "body": "Pi hides in the strangest places, including pure chance. Drop a bunch of needles onto a floor of evenly spaced lines, then count how many land touching a line. Plug that fraction into a simple formula and out pops pi, with no circle in sight. This 18th-century experiment, called Buffon's needle, links a famous circle constant to plain probability. Pi turns up far beyond geometry class.",
+    "summary": "Randomly tossing needles onto a lined floor can reveal pi, with no circle anywhere in the experiment.",
+    "categoryId": "mathematics",
+    "topic": "Pi",
+    "tags": [
+      "pi",
+      "probability",
+      "buffon needle"
+    ],
+    "readTimeSeconds": 55,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "prime-numbers-building-blocks",
+    "headline": "Cicadas Survive Using Prime Numbers",
+    "body": "Some cicadas spend exactly 13 or 17 years underground, then emerge all at once to breed. Those numbers aren't random; they're prime. A life cycle that's a prime number of years is hard for predators with shorter cycles to sync up with, so the cicadas rarely surface in step with a boom in their enemies. Evolution, it seems, stumbled onto number theory long before mathematicians named it.",
+    "summary": "13- and 17-year cicadas may use prime-numbered life cycles to keep from syncing up with predators.",
+    "categoryId": "mathematics",
+    "topic": "Prime Numbers",
+    "tags": [
+      "prime numbers",
+      "cicadas",
+      "nature"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "prime-numbers-infinite",
+    "headline": "Euclid's 2,300-Year-Old Proof That Primes Never End",
+    "body": "Around 300 BCE, Euclid proved primes go on forever with a trick still admired today. Suppose there were only a finite list of primes. Multiply them all together and add 1. That new number isn't evenly divisible by any prime on your list, so either it's a brand-new prime or it has one as a factor. Either way, your 'complete' list was missing some. Primes never run out.",
+    "summary": "Euclid showed primes are endless with one elegant move: multiply them all and add one.",
+    "categoryId": "mathematics",
+    "topic": "Prime Numbers",
+    "tags": [
+      "prime numbers",
+      "euclid",
+      "proofs"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "prime-numbers-cryptography",
+    "headline": "Your Online Security Rests on Hard-to-Factor Primes",
+    "body": "For ages, hunting giant prime numbers looked like a hobby with no purpose. Then cryptographers realized something: multiplying two huge primes is easy, but working backward to find them from the result is brutally hard, even for supercomputers. That one-way difficulty quietly guards your bank logins and private messages. The largest prime ever found has over 41 million digits, and printing it would fill thousands of books.",
+    "summary": "Online encryption leans on a quirk of primes: easy to multiply, nearly impossible to pull back apart.",
+    "categoryId": "mathematics",
+    "topic": "Prime Numbers",
+    "tags": [
+      "prime numbers",
+      "cryptography",
+      "security"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "infinity-different-sizes",
+    "headline": "Some Infinities Are Bigger Than Others",
+    "body": "Infinity sounds like one single endless amount, but in the 1800s Georg Cantor proved it comes in different sizes. The counting numbers, 1, 2, 3, and on forever, are infinite. Yet the decimals between just 0 and 1 form a strictly larger infinity that can never be paired up one-to-one with them. One endlessness genuinely dwarfs another. Cantor's peers found the idea so disturbing they called it a disease.",
+    "summary": "Georg Cantor proved that the infinity of decimals is strictly larger than the infinity of counting numbers.",
+    "categoryId": "mathematics",
+    "topic": "Infinity",
+    "tags": [
+      "infinity",
+      "cantor",
+      "set theory"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "infinity-ancient-potential",
+    "headline": "A Hotel With Infinite Rooms Is Never Full",
+    "body": "Imagine a hotel with infinitely many rooms, every one occupied. A new guest walks in. No problem: move room 1's guest to room 2, room 2's to room 3, and so on forever, freeing up room 1. You can even fit infinitely many new guests this way. This brain-teaser, dreamed up by David Hilbert, shows how infinity breaks the everyday rule that 'full' means 'no more room.'",
+    "summary": "Hilbert's infinite hotel can always make room for more guests, even when every room is already taken.",
+    "categoryId": "mathematics",
+    "topic": "Infinity",
+    "tags": [
+      "infinity",
+      "hilberts hotel",
+      "paradoxes"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "infinity-twice-still-infinity",
+    "headline": "0.999 Repeating Equals Exactly 1",
+    "body": "It looks like 0.999, going on forever, should sit just a hair below 1. It doesn't; it equals 1 exactly. Here's one way to see it: one-third is 0.333 repeating, and three times one-third is 1, so three times 0.333 forever must be 0.999 forever and also 1. They're simply two ways of writing the same number. Infinity has a habit of bending what 'obvious' means.",
+    "summary": "The endlessly repeating 0.999 isn't almost 1, it is 1, exactly.",
+    "categoryId": "mathematics",
+    "topic": "Infinity",
+    "tags": [
+      "infinity",
+      "decimals",
+      "paradoxes"
+    ],
+    "readTimeSeconds": 55,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fibonacci-number-pattern",
+    "headline": "Fibonacci Numbers Secretly Convert Miles to Kilometers",
+    "body": "The Fibonacci sequence, where each number is the sum of the two before it, runs 1, 2, 3, 5, 8, 13, 21. Here's a hidden bonus: neighboring Fibonacci numbers convert miles to kilometers almost perfectly. Five miles is about 8 kilometers, 8 miles is about 13, and 13 miles is about 21. It works because the ratio between Fibonacci neighbors is close to the real 1.609 conversion factor.",
+    "summary": "Consecutive Fibonacci numbers double as a miles-to-kilometers converter, thanks to a lucky ratio.",
+    "categoryId": "mathematics",
+    "topic": "Fibonacci Sequence",
+    "tags": [
+      "fibonacci sequence",
+      "conversion",
+      "number patterns"
+    ],
+    "readTimeSeconds": 49,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fibonacci-rabbit-origin",
+    "headline": "Math's Most Famous Sequence Began With Breeding Rabbits",
+    "body": "In 1202, Fibonacci posed a puzzle: start with one pair of rabbits that breeds a new pair every month, and count how many pairs you have over time. The answer marched out as 1, 1, 2, 3, 5, 8, and the sequence took his name. The funny part: Indian scholars had described the very same numbers centuries earlier. Fibonacci popularized them in Europe; he didn't actually discover them.",
+    "summary": "The Fibonacci sequence came from a medieval rabbit-breeding puzzle, though Indian scholars knew it first.",
+    "categoryId": "mathematics",
+    "topic": "Fibonacci Sequence",
+    "tags": [
+      "fibonacci sequence",
+      "rabbits",
+      "math history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fibonacci-golden-ratio",
+    "headline": "A Male Bee's Family Tree Is Pure Fibonacci",
+    "body": "Male honeybees have an odd quirk: they hatch from unfertilized eggs, so a male has a mother but no father, while females have two parents. Trace a male bee's ancestry back generation by generation and count the bees in each level: 1, 1, 2, 3, 5, 8, the Fibonacci sequence, exactly. A simple rule about who has how many parents produces math's most famous pattern inside a family tree.",
+    "summary": "Because male bees have a mother but no father, their family tree counts out the Fibonacci sequence.",
+    "categoryId": "mathematics",
+    "topic": "Fibonacci Sequence",
+    "tags": [
+      "fibonacci sequence",
+      "bees",
+      "nature"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "probability-gambling-origin",
+    "headline": "In a Room of 23 People, Two Probably Share a Birthday",
+    "body": "It feels like you'd need hundreds of people for a birthday match, since there are 365 days. But you only need 23 for better-than-even odds. The trick is that you're not comparing yourself to everyone; you're comparing every possible pair, and 23 people make 253 pairs. By 70 people, a shared birthday is nearly certain. Our gut sense of chance is often wildly off.",
+    "summary": "It takes just 23 people for a coin-flip chance that two of them share a birthday.",
+    "categoryId": "mathematics",
+    "topic": "Probability",
+    "tags": [
+      "probability",
+      "birthday paradox",
+      "statistics"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "probability-unfinished-bet",
+    "headline": "Switching Doors Doubles Your Odds on a Game Show",
+    "body": "You pick one of three doors; a car hides behind one, goats behind the others. The host, who knows where the car is, opens a different door to reveal a goat, then asks if you want to switch. It feels like a 50/50 toss, so why bother. But switching wins two times out of three, because the host's choice leaks information. This Monty Hall puzzle fooled thousands, including professional mathematicians.",
+    "summary": "On the Monty Hall problem, switching doors wins two-thirds of the time, a result that stumped even experts.",
+    "categoryId": "mathematics",
+    "topic": "Probability",
+    "tags": [
+      "probability",
+      "monty hall",
+      "counterintuitive"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "probability-logic-uncertainty",
+    "headline": "Roulette Once Hit Black 26 Times in a Row",
+    "body": "In 1913, a roulette wheel in Monte Carlo landed on black 26 spins straight. Gamblers crowded in betting on red, certain it was 'due,' and lost fortunes as black kept coming. But the wheel has no memory: each spin is independent, and red was never any more likely. This is the gambler's fallacy, the false belief that past random results change future ones. The odds simply don't care.",
+    "summary": "A 26-spin black streak in 1913 bankrupted bettors who wrongly thought red was 'due.'",
+    "categoryId": "mathematics",
+    "topic": "Probability",
+    "tags": [
+      "probability",
+      "gamblers fallacy",
+      "gambling"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "zero-nothing-and-number",
+    "headline": "Why You Can Never Divide by Zero",
+    "body": "Division asks how many times one number fits inside another. Ten divided by two is five. But how many times does zero fit into ten? No pile of zeros ever adds up to ten, so there's simply no answer. Worse, allowing division by zero would let you 'prove' nonsense, like 1 equals 2, and collapse arithmetic. Mathematicians don't dodge the question to be difficult; the operation truly has no meaning.",
+    "summary": "Dividing by zero isn't banned by rule, it genuinely has no answer, and allowing it would break math.",
+    "categoryId": "mathematics",
+    "topic": "Zero",
+    "tags": [
+      "zero",
+      "division",
+      "arithmetic"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "zero-placeholder-power",
+    "headline": "One Small Zero Tells 12 From 120",
+    "body": "Zero's quietest job is also its most powerful: holding an empty slot. In our place-value system, the difference between 12, 102, and 120 comes entirely down to where the zeros sit. Without a placeholder, ancient scribes had to guess from context whether a symbol meant tens or thousands. A digit standing for nothing is exactly what lets us write any number, however enormous, using only ten symbols.",
+    "summary": "Zero's role as an empty placeholder is what lets ten digits express every number there is.",
+    "categoryId": "mathematics",
+    "topic": "Zero",
+    "tags": [
+      "zero",
+      "place value",
+      "numerals"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "zero-cultural-journey",
+    "headline": "Europe Spent Centuries Resisting Zero",
+    "body": "Zero had a long, bumpy road into everyday math. Indian mathematicians treated it as a true number around the 600s, even writing rules for calculating with it. But when zero and Arabic numerals reached medieval Europe, officials grew suspicious; the city of Florence banned them in 1299, fearing the easily altered symbols invited fraud. The number that means nothing was once treated as something close to dangerous.",
+    "summary": "India embraced zero as a number while medieval Europe distrusted and even banned it.",
+    "categoryId": "mathematics",
+    "topic": "Zero",
+    "tags": [
+      "zero",
+      "math history",
+      "numerals"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "algebra-symbols-generalize-math",
+    "headline": "The Words 'Algebra' and 'Algorithm' Come From One Man",
+    "body": "Around 820 CE, a Persian scholar named al-Khwarizmi wrote a book whose title included the word al-jabr, meaning 'the reunion of broken parts.' That word became 'algebra.' And his own name, passed through Latin, became 'algorithm.' A thousand years later, both terms run through every math class and every computer on Earth. Two of the most important words in modern math trace back to one medieval mathematician.",
+    "summary": "Both 'algebra' and 'algorithm' descend from a single 9th-century scholar, al-Khwarizmi.",
+    "categoryId": "mathematics",
+    "topic": "Algebra",
+    "tags": [
+      "algebra",
+      "etymology",
+      "math history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "algebra-equations-took-centuries",
+    "headline": "The Equals Sign Was Invented by a Bored Writer",
+    "body": "Before 1557, mathematicians wrote out 'is equal to' in full, over and over. A Welsh mathematician named Robert Recorde finally got fed up and invented a symbol: two short parallel lines. He reasoned that no two things could be more equal than a matched pair of lines. It took a while to catch on, but his little '=' eventually became one of the most recognized symbols in the world.",
+    "summary": "The '=' sign exists because a 16th-century writer got tired of spelling out 'is equal to.'",
+    "categoryId": "mathematics",
+    "topic": "Algebra",
+    "tags": [
+      "algebra",
+      "equals sign",
+      "math history"
+    ],
+    "readTimeSeconds": 55,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "algebra-before-symbols",
+    "headline": "Babylonians Solved Quadratics 3,800 Years Ago",
+    "body": "Long before the letter x, Babylonian scribes were doing serious algebra on clay tablets. Around 1800 BCE they could solve quadratic equations, the kind students still wrestle with today, using step-by-step recipes written entirely in words. One famous tablet, Plimpton 322, lists Pythagorean number triples a thousand years before Pythagoras was born. They had no symbols and no zero, yet their math was startlingly advanced.",
+    "summary": "Babylonian scribes were solving quadratic equations in words on clay tablets nearly 4,000 years ago.",
+    "categoryId": "mathematics",
+    "topic": "Algebra",
+    "tags": [
+      "algebra",
+      "babylonians",
+      "ancient math"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "geometry-earth-measurement",
+    "headline": "He Measured the Whole Earth With a Stick and a Shadow",
+    "body": "Around 240 BCE, Eratosthenes noticed that at noon on the longest day, the sun lit the bottom of a well in one Egyptian city but cast a shadow in another. From the shadow's angle and the distance between the cities, he calculated the Earth's circumference. His answer landed within a few percent of the modern value. No satellites, no instruments, just shadows, geometry, and a clever mind.",
+    "summary": "Using only shadows and geometry, Eratosthenes sized up the entire Earth and got remarkably close.",
+    "categoryId": "mathematics",
+    "topic": "Geometry",
+    "tags": [
+      "geometry",
+      "eratosthenes",
+      "ancient math"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "geometry-euclid-proof-system",
+    "headline": "One Geometry Book Was a Bestseller for 2,000 Years",
+    "body": "Around 300 BCE, Euclid wrote the Elements, starting from a handful of simple assumptions and logically building hundreds of proofs on top of them. It worked so well that it became the standard geometry textbook for over two thousand years, one of the most printed and studied books in history, behind perhaps only the Bible. Generations learned from it not just shapes, but how to reason step by careful step.",
+    "summary": "Euclid's 'Elements' served as the world's geometry textbook for more than two thousand years.",
+    "categoryId": "mathematics",
+    "topic": "Geometry",
+    "tags": [
+      "geometry",
+      "euclid",
+      "proofs"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "geometry-beyond-flat-space",
+    "headline": "Bending One Rule Gave Einstein the Shape of Gravity",
+    "body": "For 2,000 years, mathematicians assumed Euclid's rule that parallel lines never meet was unbreakable. In the 1800s, a few dared to drop it and discovered entirely new, curved geometries that were perfectly consistent. It looked like pure abstraction, until Einstein used exactly that math to describe gravity as the curving of space and time. Bending a single geometric rule ended up reshaping our whole picture of the universe.",
+    "summary": "Discarding Euclid's parallel-line rule produced the curved geometry Einstein used to explain gravity.",
+    "categoryId": "mathematics",
+    "topic": "Geometry",
+    "tags": [
+      "geometry",
+      "non-euclidean",
+      "relativity"
+    ],
+    "readTimeSeconds": 55,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fractals-repeat-shape",
+    "headline": "How Long Is Britain's Coastline? It Depends",
+    "body": "Measure Britain's coastline with a long ruler and you get one length. Measure it with a shorter ruler that catches every bay and inlet and you get a longer one. Shrink the ruler further and the length keeps growing, with no final answer. Coastlines are fractals: jagged at every scale, the same kind of crinkle repeating as you zoom in. A coastline has no single true length.",
+    "summary": "A coastline gets longer the more finely you measure it, because its crinkles repeat at every scale.",
+    "categoryId": "mathematics",
+    "topic": "Fractals",
+    "tags": [
+      "fractals",
+      "coastline paradox",
+      "self-similarity"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fractals-fractional-dimensions",
+    "headline": "Some Shapes Have 1.26 Dimensions",
+    "body": "We're taught a line is one-dimensional and a square is two. Fractals refuse to fit. The Koch curve, made by endlessly adding smaller triangular bumps to a line, gets so wrinkled it's more than a line yet never fills an area. Its dimension works out to about 1.26, a value stuck between whole numbers. It sounds impossible, but fractional dimensions are a real, measurable property of these crinkly shapes.",
+    "summary": "Fractals can have dimensions like 1.26 that fall between the whole numbers we learn in school.",
+    "categoryId": "mathematics",
+    "topic": "Fractals",
+    "tags": [
+      "fractals",
+      "dimension",
+      "geometry"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fractals-model-messy-nature",
+    "headline": "Sci-Fi Built Its First Fractal World in 1982",
+    "body": "Nature rarely uses clean circles and squares, but fractals capture its messy mountains, clouds, and rivers beautifully, which makes them perfect for computer graphics. The first fully fractal landscape on film was the Genesis planet in 1982's Star Trek II. From a short mathematical rule, computers could grow endless realistic terrain. Today fractals shape the mountains and coastlines in countless movies and video games.",
+    "summary": "The first computer-generated fractal landscape in film was the Genesis planet in Star Trek II.",
+    "categoryId": "mathematics",
+    "topic": "Fractals",
+    "tags": [
+      "fractals",
+      "computer graphics",
+      "movies"
+    ],
+    "readTimeSeconds": 55,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "calculus-instant-change",
+    "headline": "Why Achilles Can Never Catch the Tortoise",
+    "body": "An ancient riddle: give a tortoise a head start, and by the time fast Achilles reaches where it was, it has crept a little farther ahead. Repeat forever and he seems never to catch up. Yet obviously he does. The fix is calculus: adding infinitely many ever-shrinking gaps can still total a finite distance. A puzzle that stumped the Greeks dissolves the moment you can sum an endless series.",
+    "summary": "Zeno's paradox says Achilles can't pass a tortoise; calculus shows infinitely many shrinking steps add to a finite distance.",
+    "categoryId": "mathematics",
+    "topic": "Calculus",
+    "tags": [
+      "calculus",
+      "zeno paradox",
+      "infinity"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "calculus-tiny-pieces-whole",
+    "headline": "The Integral Sign Is a 300-Year-Old Letter S",
+    "body": "Integral calculus finds a whole by adding up countless tiny pieces, like slicing the area under a curve into infinitely thin strips and summing them all. That's why its symbol is a long, stretched-out S, chosen by Leibniz in the 1670s to stand for 'sum.' Every time you spot that elegant curl in a physics equation, you're looking at a centuries-old shorthand for adding up the infinitely small.",
+    "summary": "Calculus's stretched-S integral sign was picked by Leibniz to mean 'sum' of infinitely thin slices.",
+    "categoryId": "mathematics",
+    "topic": "Calculus",
+    "tags": [
+      "calculus",
+      "integrals",
+      "leibniz"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "calculus-motion-and-geometry",
+    "headline": "Two Men Invented Calculus and Then Went to War",
+    "body": "Isaac Newton and Gottfried Leibniz each developed calculus independently in the late 1600s, then spent years in a bitter feud over who did it first. Accusations of plagiarism flew across Europe and split the math world along national lines for generations. Historians now credit both. Ironically, the notation we all use today, including the integral sign, came mostly from Leibniz, the very man Newton's camp attacked.",
+    "summary": "Newton and Leibniz invented calculus separately, then waged a bitter decades-long feud over the credit.",
+    "categoryId": "mathematics",
+    "topic": "Calculus",
+    "tags": [
+      "calculus",
+      "newton",
+      "leibniz"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chaos-theory-rules-unpredictable",
+    "headline": "A Double Pendulum Never Swings the Same Way Twice",
+    "body": "Attach one pendulum to the bottom of another and set it swinging. Despite following simple, exact physics, its motion turns wild and unpredictable, flipping and looping in patterns that never repeat. Start it from a position a hair's breadth different and it soon traces a completely different path. The double pendulum is a favorite demonstration of chaos: total determinism producing behavior no one can forecast.",
+    "summary": "A double pendulum obeys exact physics yet swings so unpredictably it never retraces the same path.",
+    "categoryId": "mathematics",
+    "topic": "Chaos Theory",
+    "tags": [
+      "chaos theory",
+      "double pendulum",
+      "unpredictability"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chaos-theory-butterfly-effect",
+    "headline": "A Rounding Error Gave Us the Butterfly Effect",
+    "body": "In 1961, meteorologist Edward Lorenz reran a weather simulation and typed in 0.506 instead of the full 0.506127 the computer had stored. That tiny shortcut produced a wildly different forecast. Lorenz realized that in some systems, microscopic differences explode into enormous ones, an idea he captured as the butterfly effect: a butterfly flapping its wings could, in principle, help set off a distant storm weeks later.",
+    "summary": "Edward Lorenz discovered the butterfly effect by accident, when rounding one number reshaped an entire forecast.",
+    "categoryId": "mathematics",
+    "topic": "Chaos Theory",
+    "tags": [
+      "chaos theory",
+      "butterfly effect",
+      "weather"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chaos-theory-strange-attractors",
+    "headline": "Three Orbiting Bodies Have No Tidy Solution",
+    "body": "Predicting the motion of two objects pulled together by gravity, like a planet and its star, is straightforward. Add a third body and everything falls apart: there's no general formula that predicts how three gravitating objects will move. Their paths can turn chaotic, sensitive to the tiniest nudge. This three-body problem has frustrated mathematicians since Newton's day and still has no neat, all-purpose answer.",
+    "summary": "Two gravitating bodies are easy to predict; add a third and the motion turns chaotic with no general solution.",
+    "categoryId": "mathematics",
+    "topic": "Chaos Theory",
+    "tags": [
+      "chaos theory",
+      "three-body problem",
+      "gravity"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "golden-ratio-one-point-six-one-eight",
+    "headline": "Sunflowers Use the 'Most Irrational' Number",
+    "body": "The golden ratio, about 1.618, is sometimes called the most irrational number, meaning it's the hardest of all numbers to approximate with simple fractions. That sounds abstract, but it's exactly why sunflowers love it. By spacing each seed at a golden-ratio turn around the center, the plant never lets seeds line up in wasteful rows, packing the most seeds into the least space. Math as efficient gardening.",
+    "summary": "Sunflowers space their seeds by the golden ratio because it's the 'most irrational' number, giving the tightest packing.",
+    "categoryId": "mathematics",
+    "topic": "Golden Ratio",
+    "tags": [
+      "golden ratio",
+      "phi",
+      "nature"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "golden-ratio-euclid-origin",
+    "headline": "The Golden Ratio in Famous Art Is Mostly a Myth",
+    "body": "You've probably heard the golden ratio secretly governs the Parthenon, the Mona Lisa, and the 'perfect' face. Most of those claims fall apart under scrutiny: the rectangles are drawn loosely, the data cherry-picked, and there's little evidence the artists intended it. The proportion is real and genuinely appears in nature, but its starring role in art and beauty was largely invented by enthusiastic writers much later.",
+    "summary": "The golden ratio's supposed role in the Parthenon and Mona Lisa is mostly a modern myth, not history.",
+    "categoryId": "mathematics",
+    "topic": "Golden Ratio",
+    "tags": [
+      "golden ratio",
+      "art",
+      "myths"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "golden-ratio-fibonacci-connection",
+    "headline": "Divide Neighboring Fibonacci Numbers to Find Phi",
+    "body": "The golden ratio and the Fibonacci sequence are secretly the same story. Take any two side-by-side Fibonacci numbers and divide the larger by the smaller: 8 over 5 is 1.6, 13 over 8 is 1.625, 21 over 13 is about 1.615. The further along the sequence you go, the closer the answer creeps to phi, roughly 1.618. A simple counting list quietly homes in on math's most celebrated proportion.",
+    "summary": "Dividing consecutive Fibonacci numbers zeroes in on the golden ratio, tying a counting list to a famous proportion.",
+    "categoryId": "mathematics",
+    "topic": "Golden Ratio",
+    "tags": [
+      "golden ratio",
+      "fibonacci",
+      "phi"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "logarithms-ask-what-power",
+    "headline": "A Magnitude 7 Quake Is 1,000 Times a Magnitude 4",
+    "body": "Earthquake magnitudes, sound in decibels, and the pH of acids all use logarithmic scales, where each step up multiplies rather than adds. On the old Richter scale, a magnitude 5 quake shakes ten times harder than a 4, and a 7 is a thousand times a 4, even though the numbers look close together. Logarithms let us squeeze enormous ranges, from whispers to jet engines, onto one friendly little scale.",
+    "summary": "Earthquake, decibel, and pH scales are logarithmic, so each step is a tenfold jump, not a small one.",
+    "categoryId": "mathematics",
+    "topic": "Logarithms",
+    "tags": [
+      "logarithms",
+      "richter scale",
+      "decibels"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "logarithms-multiplication-addition",
+    "headline": "Slide Rules Ran on Logarithms and Helped Fly Apollo",
+    "body": "Logarithms have a magic trick: they turn hard multiplication into simple addition. That let engineers build the slide rule, a ruler-like device where you multiply huge numbers just by sliding scales and adding lengths. For 300 years it was the calculator. NASA engineers used slide rules to help plan the Apollo missions, and astronauts even carried them to the Moon as backup. All of it powered by logarithms.",
+    "summary": "Logarithms turn multiplication into addition, the trick behind slide rules that helped send Apollo to the Moon.",
+    "categoryId": "mathematics",
+    "topic": "Logarithms",
+    "tags": [
+      "logarithms",
+      "slide rule",
+      "apollo"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "logarithms-saved-time",
+    "headline": "The Number e Is Hiding in Your Bank Account",
+    "body": "Imagine 1 dollar earning 100% interest a year. Paid once, you end with 2 dollars. Compounded monthly you get a bit more, daily more still. But it doesn't grow without limit; it closes in on a special number, about 2.718, called e. This constant, the base of natural logarithms, governs almost anything that grows or decays smoothly, from populations to radioactive atoms to compound interest. It quietly runs the math of growth.",
+    "summary": "Compound interest, taken to its limit, lands on the number e, about 2.718, the heartbeat of growth and decay.",
+    "categoryId": "mathematics",
+    "topic": "Logarithms",
+    "tags": [
+      "logarithms",
+      "number e",
+      "growth"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "game-theory-strategic-choices",
+    "headline": "Two Prisoners, and Why They Both Lose",
+    "body": "Two suspects are questioned in separate rooms. If both stay silent, each gets a light sentence. If one betrays the other, the snitch walks free while the silent one suffers. If both betray, both get hit hard. The cold logic: no matter what your partner does, betraying looks safer, so both betray and both end up worse than if they'd simply trusted each other. That's the prisoner's dilemma.",
+    "summary": "In the prisoner's dilemma, two people each acting rationally betray each other and both end up worse off.",
+    "categoryId": "mathematics",
+    "topic": "Game Theory",
+    "tags": [
+      "game theory",
+      "prisoners dilemma",
+      "strategy"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "game-theory-new-math-economics",
+    "headline": "The 'Beautiful Mind' Idea That Won a Nobel",
+    "body": "Mathematician John Nash described a kind of standoff now called a Nash equilibrium: a situation where no player can do better by changing their move alone, given what everyone else is doing. It pinpoints the stable outcome of a strategic game, from price wars to traffic jams. The insight earned Nash a Nobel Prize and inspired the film A Beautiful Mind. A few pages of math quietly reshaped economics.",
+    "summary": "John Nash's equilibrium identifies when no player can gain by changing strategy alone, an idea that won a Nobel.",
+    "categoryId": "mathematics",
+    "topic": "Game Theory",
+    "tags": [
+      "game theory",
+      "nash equilibrium",
+      "economics"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "game-theory-not-winning-alone",
+    "headline": "A Simple 'Be Nice' Strategy Beat All the Sharks",
+    "body": "In 1980, a political scientist ran a tournament pitting strategies against each other in repeated prisoner's dilemmas. Brainy, ruthless programs poured in. The winner was the simplest: tit-for-tat, which just cooperates first, then copies whatever the opponent did last. By being nice but never a pushover, it quietly outscored every cutthroat rival. The result suggested cooperation can win, even in a contest built around betrayal.",
+    "summary": "In a famous tournament, a simple cooperate-first strategy called tit-for-tat beat every more ruthless rival.",
+    "categoryId": "mathematics",
+    "topic": "Game Theory",
+    "tags": [
+      "game theory",
+      "tit-for-tat",
+      "cooperation"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "topology-rubber-sheet-geometry",
+    "headline": "A Mobius Strip Has Only One Side",
+    "body": "Take a strip of paper, give it a single half-twist, and tape the ends together. Run your finger along the surface and you'll travel both 'sides' and return to the start without ever lifting it. You've made a Mobius strip, a loop with just one side and one edge. Cut it down the middle and, instead of two loops, you get one longer twisted band. It's geometry that quietly defies common sense.",
+    "summary": "A strip of paper with a half-twist becomes a Mobius strip: a surface with only one side and one edge.",
+    "categoryId": "mathematics",
+    "topic": "Topology",
+    "tags": [
+      "topology",
+      "mobius strip",
+      "surfaces"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "topology-doughnut-coffee-cup",
+    "headline": "To a Topologist, a Doughnut Is a Coffee Mug",
+    "body": "Topology cares about one thing: how many holes a shape has, not its exact form. A doughnut and a coffee mug each have exactly one hole, the doughnut's center and the mug's handle. Made of imaginary clay, one could be squished into the other without ever tearing it or punching a new hole. That's why mathematicians joke a topologist can't tell their breakfast from their coffee cup.",
+    "summary": "Because each has exactly one hole, a doughnut and a coffee mug count as the same shape in topology.",
+    "categoryId": "mathematics",
+    "topic": "Topology",
+    "tags": [
+      "topology",
+      "doughnut",
+      "coffee cup"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "topology-loops-cannot-shrink",
+    "headline": "Somewhere on Earth, the Wind Is Always Still",
+    "body": "There's a theorem nicknamed the hairy ball theorem: you can't comb the hair flat on a fuzzy ball without leaving at least one cowlick somewhere. Now picture Earth's winds as that hair. The math guarantees that at any moment there must be at least one point on the planet where the horizontal wind is exactly zero, a calm spot, somewhere. You simply can't smooth it all away. Topology says so.",
+    "summary": "The hairy ball theorem proves there's always at least one spot on Earth with no horizontal wind.",
+    "categoryId": "mathematics",
+    "topic": "Topology",
+    "tags": [
+      "topology",
+      "hairy ball theorem",
+      "wind"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
