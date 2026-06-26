@@ -21702,5 +21702,668 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "accents-not-same-as-dialects",
+    "headline": "A Head Injury Can Give You a Foreign Accent",
+    "body": "It sounds like science fiction, but it's a real, documented condition. After a stroke or brain injury, a small number of people suddenly start speaking their own native language with what sounds like a foreign accent, a Brit waking up sounding French, an American sounding British. It's called foreign accent syndrome. Their brain hasn't learned a new language; subtle damage has shifted how they form sounds, and listeners' ears do the rest.",
+    "summary": "Foreign accent syndrome can leave someone speaking their native language in what sounds like a foreign accent after a brain injury.",
+    "categoryId": "languages",
+    "topic": "Accents",
+    "tags": [
+      "accents",
+      "foreign accent syndrome",
+      "neuroscience"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "accents-trace-migration",
+    "headline": "Shakespeare Sounded Nothing Like a Posh Englishman",
+    "body": "We imagine Shakespeare's lines in a refined British accent, but linguists who reconstruct 'original pronunciation' think Elizabethan English sounded earthier, closer to a rural or even pirate-like burr. Rhymes and puns that fall flat today suddenly work in the old accent: 'prove' rhymed with 'love.' Performances in original pronunciation can be startling. The proper 'Shakespearean' voice we picture is largely a modern invention; the real thing was rougher.",
+    "summary": "Reconstructed 'original pronunciation' suggests Shakespeare's English sounded earthy and rough, not refined and posh.",
+    "categoryId": "languages",
+    "topic": "Accents",
+    "tags": [
+      "accents",
+      "shakespeare",
+      "pronunciation"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "accents-never-one-per-place",
+    "headline": "Even the Queen's Accent Changed Over Her Lifetime",
+    "body": "Accents are never frozen, not even royal ones. Linguists studied Queen Elizabeth II's Christmas broadcasts across decades and found her vowels gradually shifted away from the ultra-posh 'received pronunciation' of the 1950s toward something a little more mainstream. If the most carefully spoken person in Britain drifted, everyone does. Accents slowly migrate over a lifetime as we unconsciously absorb the speech of the people and times around us.",
+    "summary": "A study of the Queen's Christmas speeches found even her famously posh accent slowly drifted over the decades.",
+    "categoryId": "languages",
+    "topic": "Accents",
+    "tags": [
+      "accents",
+      "queen elizabeth",
+      "language change"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emojis-japanese-name",
+    "headline": "The First Emojis Now Hang in a Museum",
+    "body": "In 1999, a Japanese designer named Shigetaka Kurita created a set of 176 tiny emoji for a mobile phone carrier, each a crude 12-by-12 grid of pixels: a heart, a smiley, a few weather symbols. They were almost laughably simple. Yet that original set is now in the permanent collection of New York's Museum of Modern Art, treated as a landmark of design. The humble building blocks of texting became museum pieces.",
+    "summary": "The original 1999 set of 176 pixelated emoji is now in the permanent collection of New York's MoMA.",
+    "categoryId": "languages",
+    "topic": "Emojis",
+    "tags": [
+      "emojis",
+      "design",
+      "moma"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emojis-unicode-shared-code",
+    "headline": "Almost Everyone Quietly Replaced the Gun Emoji",
+    "body": "The pistol emoji used to be a realistic handgun on most phones. Then, starting around 2016, Apple swapped its version for a bright green water pistol, and one by one Google, Samsung, Twitter, and the rest followed to avoid the violent connotations. Now the 'same' emoji is a harmless squirt gun nearly everywhere. It caused real confusion: a threatening message on one phone could arrive looking like a pool toy on another.",
+    "summary": "Phone makers quietly turned the realistic pistol emoji into a green water gun, so the 'same' symbol now means a toy.",
+    "categoryId": "languages",
+    "topic": "Emojis",
+    "tags": [
+      "emojis",
+      "unicode",
+      "design"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "emojis-replace-body-language",
+    "headline": "A Thumbs-Up Emoji Counted as a Signed Contract",
+    "body": "Emojis have started showing up in courtrooms, with real legal weight. In a 2023 Canadian case, a farmer replied to a grain-purchase agreement with a simple thumbs-up emoji. When he later backed out, a judge ruled that the thumbs-up was a valid way to accept the contract, and ordered him to pay tens of thousands of dollars. A tiny cartoon thumb did the legal work of a signature.",
+    "summary": "A Canadian court ruled a thumbs-up emoji was a valid acceptance of a contract, costing the sender tens of thousands.",
+    "categoryId": "languages",
+    "topic": "Emojis",
+    "tags": [
+      "emojis",
+      "law",
+      "communication"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hieroglyphics-always-phonetic",
+    "headline": "One Stone Cracked a Language Dead for 1,400 Years",
+    "body": "By around 400 CE, the knowledge of how to read Egyptian hieroglyphs had completely died out; for over a thousand years, the symbols were a total mystery. Then, in 1799, soldiers found the Rosetta Stone, which carried the same decree in hieroglyphs, everyday Egyptian script, and Greek. Because scholars could still read Greek, they finally had a key. Decades of work later, an entire lost civilization could speak again.",
+    "summary": "Hieroglyphs were unreadable for 1,400 years until the Rosetta Stone's matching Greek text provided the key.",
+    "categoryId": "languages",
+    "topic": "Hieroglyphics",
+    "tags": [
+      "hieroglyphics",
+      "rosetta stone",
+      "ancient egypt"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hieroglyphics-hieratic-daily-writing",
+    "headline": "Almost No One in Ancient Egypt Could Read",
+    "body": "With hundreds of intricate hieroglyphs to master, literacy in ancient Egypt was a rare and powerful skill. By many estimates only about 1% of people could read and write. Those who could, the scribes, formed a privileged class: exempt from heavy labor and many taxes, employed by temples and the state, and able to climb high in society. Knowing the symbols wasn't just useful; it was a ticket to power.",
+    "summary": "Only around 1% of ancient Egyptians were literate, making scribes a privileged, tax-exempt elite.",
+    "categoryId": "languages",
+    "topic": "Hieroglyphics",
+    "tags": [
+      "hieroglyphics",
+      "scribes",
+      "ancient egypt"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hieroglyphics-ancient-shipping-labels",
+    "headline": "Sacred-Looking Hieroglyphs Labeled Wine Jars",
+    "body": "We picture hieroglyphs carved on grand temples and tombs, but a lot of writing did humbler work. Egyptians stamped hieroglyphic seals onto jars to record what was inside, who was responsible, which king reigned, and, for wine, the vineyard and where it was headed, essentially an ancient shipping label. The seals also made it harder to tamper with the contents unnoticed. The same script that praised gods also tracked groceries.",
+    "summary": "Egyptians used hieroglyphic jar seals as shipping labels, noting contents, vineyards, and destinations.",
+    "categoryId": "languages",
+    "topic": "Hieroglyphics",
+    "tags": [
+      "hieroglyphics",
+      "trade",
+      "ancient egypt"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "loanwords-language-borrowing",
+    "headline": "English Doesn't Borrow Words, It Mugs for Them",
+    "body": "A writer once joked that English doesn't just borrow vocabulary; it follows other languages down dark alleys to rifle their pockets for spare words. He had a point. A huge share of English, by many counts well over half, came from other tongues, especially French and Latin after the Norman conquest. The blunt, everyday words are often the native ones; the fancy synonyms are usually imported. English is a magpie.",
+    "summary": "Over half of English vocabulary is borrowed; as one joke goes, English 'mugs' other languages for spare words.",
+    "categoryId": "languages",
+    "topic": "Loanwords",
+    "tags": [
+      "loanwords",
+      "english",
+      "vocabulary"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "loanwords-record-cultural-contact",
+    "headline": "Ketchup, Sugar, and Alcohol Are All Loanwords",
+    "body": "Everyday English words often hide well-traveled pasts. 'Ketchup' likely traces back to a fermented fish sauce from southern China. 'Sugar,' 'alcohol,' 'algebra,' and 'coffee' all entered English from Arabic. 'Shampoo' came from Hindi, 'tycoon' from Japanese. Each word is a tiny fossil of a moment when cultures met and one borrowed something, the object and its name together. Your kitchen vocabulary is secretly a map of old trade routes.",
+    "summary": "Common words like ketchup, sugar, alcohol, and shampoo are loanwords that trace global trade and contact.",
+    "categoryId": "languages",
+    "topic": "Loanwords",
+    "tags": [
+      "loanwords",
+      "etymology",
+      "cultural exchange"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "loanwords-change-after-borrowing",
+    "headline": "Some 'English' Words Were Never English at All",
+    "body": "When languages borrow English words, they sometimes invent new ones that English speakers wouldn't recognize. In German, a 'Handy' is a mobile phone. In French and Italian, a 'smoking' is a tuxedo. Japanese 'salaryman' and 'pasokon,' meaning personal computer, follow the same trick. These pseudo-anglicisms look and sound English but were assembled abroad. Borrowing isn't passive copying; languages remix what they take until it becomes something genuinely their own.",
+    "summary": "Pseudo-anglicisms like the German 'Handy' (cellphone) look English but were invented by other languages.",
+    "categoryId": "languages",
+    "topic": "Loanwords",
+    "tags": [
+      "loanwords",
+      "pseudo-anglicisms",
+      "language change"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "morse-code-frequency-shortcuts",
+    "headline": "Morse Code Was Designed Using a Box of Printing Type",
+    "body": "Samuel Morse and his collaborator wanted common letters to be quick to tap, but how do you know which letters are common? Their clever shortcut: they counted the little metal letter pieces in a printer's type case, since printers stocked more of the letters they used most. That count shaped the code. It's why the very common letter E is a single dot, while a rare Q gets a long dash-dash-dot-dash.",
+    "summary": "Morse Code's letter lengths were set by counting type pieces in a printer's case, so common letters tap fastest.",
+    "categoryId": "languages",
+    "topic": "Morse Code",
+    "tags": [
+      "morse code",
+      "frequency",
+      "telegraph"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "morse-code-not-a-language",
+    "headline": "A Prisoner Blinked the Word 'Torture' on TV",
+    "body": "Morse code can hide a message in almost anything, even a blink. In 1966, captured US Navy pilot Jeremiah Denton was forced onto North Vietnamese television for a propaganda interview. As he spoke the words his captors wanted, he repeatedly blinked his eyes in Morse code, spelling out T-O-R-T-U-R-E. US intelligence caught it. It was the first confirmation that American POWs were being abused, sent in dots and dashes of the eyelids.",
+    "summary": "A POW secretly blinked 'TORTURE' in Morse code during a 1966 propaganda interview, alerting US intelligence.",
+    "categoryId": "languages",
+    "topic": "Morse Code",
+    "tags": [
+      "morse code",
+      "history",
+      "prisoners of war"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "morse-code-sos-pattern",
+    "headline": "SOS Doesn't Actually Stand for Anything",
+    "body": "Everyone 'knows' SOS means Save Our Ship or Save Our Souls. It doesn't. When it was adopted as the international distress signal in the early 1900s, it was chosen purely because its Morse pattern, three dots, three dashes, three dots, is simple, rhythmic, and almost impossible to mistake, even in a panic. The catchy phrases were invented afterward to help people remember it. The letters were the message, not an abbreviation.",
+    "summary": "SOS isn't short for 'Save Our Souls'; it was picked purely for its clear, unmistakable Morse pattern.",
+    "categoryId": "languages",
+    "topic": "Morse Code",
+    "tags": [
+      "morse code",
+      "sos",
+      "distress signal"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "palindromes-read-both-ways",
+    "headline": "'A Man, a Plan, a Canal: Panama'",
+    "body": "A palindrome reads the same backward as forward, and one of the most famous in English is a tiny tribute to engineering: 'A man, a plan, a canal: Panama.' Reverse the letters and it rebuilds itself perfectly. Short ones hide everywhere, 'racecar,' 'level,' 'kayak,' and even some names. The trick is symmetry: every letter must do double duty, working in both directions at once. It's language folded into a mirror.",
+    "summary": "The classic palindrome 'A man, a plan, a canal: Panama' reads identically backward, a tribute to the canal.",
+    "categoryId": "languages",
+    "topic": "Palindromes",
+    "tags": [
+      "palindromes",
+      "wordplay",
+      "language"
+    ],
+    "readTimeSeconds": 49,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "palindromes-ancient-wordplay",
+    "headline": "A 2,000-Year-Old Word Puzzle No One Can Explain",
+    "body": "Scratched into walls in the ruins of Pompeii is the Sator square: five Latin words arranged in a grid that reads the same left to right, right to left, top to bottom, and bottom to top. It's a palindrome in several directions at once, nearly 2,000 years old. The strangest part is that scholars still aren't sure what it actually meant, whether it was a prayer, a charm, or a secret code. The mystery endures.",
+    "summary": "The ancient Sator square reads the same four ways, and after 2,000 years no one is sure what it meant.",
+    "categoryId": "languages",
+    "topic": "Palindromes",
+    "tags": [
+      "palindromes",
+      "sator square",
+      "ancient writing"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "palindromes-constraint-writing",
+    "headline": "People Have Written Entire Novels as Palindromes",
+    "body": "A few words is hard enough, but some writers have built whole books that read the same backward. One novel runs over 17,000 words and reverses perfectly, letter for letter, telling a coherent story as a single colossal palindrome. The result is often strange and dreamlike, because every sentence is fighting an almost impossible structural rule. It's writing pushed to the edge of engineering, where meaning and mirror symmetry must somehow agree.",
+    "summary": "Writers have composed palindrome novels of 17,000+ words that read identically backward, letter for letter.",
+    "categoryId": "languages",
+    "topic": "Palindromes",
+    "tags": [
+      "palindromes",
+      "constrained writing",
+      "word games"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sign-language-complete-language",
+    "headline": "Deaf Babies Babble With Their Hands",
+    "body": "Hearing babies babble 'bababa' as they experiment with speech. Researchers discovered that deaf babies exposed to sign language do exactly the same thing, but with their hands, producing rhythmic, repetitive gestures that aren't real signs yet, the visual version of babbling. It happens at the same age and the same developmental stage. It's powerful evidence that sign languages are true languages, wired into the same deep human instinct as speech.",
+    "summary": "Deaf babies 'babble' with rhythmic hand movements at the same age hearing babies babble vocally.",
+    "categoryId": "languages",
+    "topic": "Sign Language",
+    "tags": [
+      "sign language",
+      "language development",
+      "linguistics"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sign-language-not-universal",
+    "headline": "American Signers Can't Understand British Ones",
+    "body": "You'd expect American and British Sign Language to be similar, since both countries speak English. They're not; the two are mutually unintelligible. The reason is history: American Sign Language grew partly from French Sign Language, brought over by an early educator, so ASL is actually closer to French signing than to British. Sign languages follow their own family trees, shaped by schools and communities, not by the spoken language around them.",
+    "summary": "American Sign Language descends partly from French signing, so it's unlike British Sign Language despite shared English.",
+    "categoryId": "languages",
+    "topic": "Sign Language",
+    "tags": [
+      "sign language",
+      "asl",
+      "language families"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sign-language-face-is-grammar",
+    "headline": "A Whole Island Once Spoke Sign Language",
+    "body": "For about two centuries, the island of Martha's Vineyard had such a high rate of inherited deafness that nearly everyone, deaf and hearing alike, used a local sign language as a matter of course. Deafness simply wasn't a barrier; people signed in shops, at church, across fields. Some residents later recalled that you often couldn't even remember who in a conversation had been deaf. A community had quietly made signing everyone's second language.",
+    "summary": "On Martha's Vineyard, so many people were deaf that for 200 years nearly everyone, hearing or not, could sign.",
+    "categoryId": "languages",
+    "topic": "Sign Language",
+    "tags": [
+      "sign language",
+      "marthas vineyard",
+      "deaf history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tongue-twisters-sound-collisions",
+    "headline": "Scientists Found a Twister So Hard People Stopped Talking",
+    "body": "In 2013, researchers at MIT went hunting for the most difficult tongue twister and landed on a brutal little phrase: 'pad kid poured curd pulled cod.' When volunteers tried to repeat it rapidly, some simply seized up and stopped speaking altogether. The phrase jams the brain's speech-planning system so badly it can shut down mid-attempt. A handful of ordinary words, in the wrong order, can briefly break the machinery of speech.",
+    "summary": "MIT researchers found 'pad kid poured curd pulled cod' so hard that some people just stopped talking.",
+    "categoryId": "languages",
+    "topic": "Tongue Twisters",
+    "tags": [
+      "tongue twisters",
+      "speech",
+      "research"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tongue-twisters-expose-speech-errors",
+    "headline": "'She Sells Seashells' Was About a Real Fossil Hunter",
+    "body": "The tongue twister 'she sells seashells by the seashore' may honor a real woman. Mary Anning, born in 1799, hunted fossils along the cliffs of England's southern coast and sold them, uncovering ancient sea creatures that reshaped science, though as a working-class woman she rarely got credit in her lifetime. Many believe the rhyme was inspired by her. A children's word game may be a quiet monument to a pioneering scientist.",
+    "summary": "'She sells seashells' is often linked to Mary Anning, a pioneering 19th-century fossil hunter on England's coast.",
+    "categoryId": "languages",
+    "topic": "Tongue Twisters",
+    "tags": [
+      "tongue twisters",
+      "mary anning",
+      "history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tongue-twisters-practice-tools",
+    "headline": "Tongue Twisters Have Been Used to Catch Spies",
+    "body": "A sound your enemy can't pronounce makes a perfect password. In World War II, the Dutch reportedly used their town name 'Scheveningen' to unmask German infiltrators, because German speakers gave the opening sound away. The ancient idea even has a name: a shibboleth, from a Bible story in which mispronouncing a single word could cost a person their life. A word you can't quite say can mark you as an outsider, sometimes fatally.",
+    "summary": "Hard-to-say words have served as wartime passwords, like the Dutch 'Scheveningen' used to expose German spies.",
+    "categoryId": "languages",
+    "topic": "Tongue Twisters",
+    "tags": [
+      "tongue twisters",
+      "shibboleth",
+      "history"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "writing-systems-represent-language",
+    "headline": "Writing Was Invented From Scratch Only a Few Times",
+    "body": "Spoken language arose everywhere humans did, but writing is different: as far as we can tell, it was invented truly independently only a handful of times in all of history, in Mesopotamia, China, and Mesoamerica, and possibly Egypt. Almost every other script on Earth, including this one, ultimately borrowed or adapted the idea from one of those origins. Inventing writing entirely from nothing turns out to be staggeringly rare.",
+    "summary": "Writing was invented independently only a few times ever; nearly all scripts descend from those rare origins.",
+    "categoryId": "languages",
+    "topic": "Writing Systems",
+    "tags": [
+      "writing systems",
+      "history",
+      "invention"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "writing-systems-sound-or-meaning",
+    "headline": "One Man Invented a Whole Writing System Alone",
+    "body": "Around the 1820s, a Cherokee man named Sequoyah did something almost no one in history has: he invented a complete writing system by himself. Remarkably, he couldn't read any language when he started; he just grasped that marks could capture speech. He built a syllabary of around 85 symbols for Cherokee sounds. It worked so well that the Cherokee Nation became widely literate within years, and even began publishing its own newspaper.",
+    "summary": "Sequoyah, who couldn't read any language, single-handedly invented the Cherokee syllabary in the 1820s.",
+    "categoryId": "languages",
+    "topic": "Writing Systems",
+    "tags": [
+      "writing systems",
+      "sequoyah",
+      "cherokee"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "writing-systems-defeat-distance-time",
+    "headline": "Some Ancient Writing Has Never Been Cracked",
+    "body": "We decoded Egyptian hieroglyphs and ancient Mesopotamian script, but a few writing systems still defy everyone. Linear A, used by the Minoans of Crete, has resisted decoding for over a century. Rongorongo, a mysterious script carved on wooden tablets on remote Easter Island, may not even be fully understood as writing. Without a bilingual key or a living speaker, these messages from the past sit in plain sight, completely silent.",
+    "summary": "Scripts like the Minoans' Linear A and Easter Island's rongorongo remain undeciphered to this day.",
+    "categoryId": "languages",
+    "topic": "Writing Systems",
+    "tags": [
+      "writing systems",
+      "undeciphered scripts",
+      "linear a"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "alphabet-name-alpha-beta",
+    "headline": "The Letter A Is an Upside-Down Ox",
+    "body": "Our letters started as little pictures. Flip a capital A over and you can almost see it: the two legs become horns, the crossbar a face. It descends from an ancient symbol for an ox's head, whose name began with the right sound. The letter B comes from a pictogram of a house, and other letters trace back to a hand, water, or an eye. The alphabet is a gallery of forgotten drawings.",
+    "summary": "The letter A began as a drawing of an ox's head; flip it over and the horns reappear.",
+    "categoryId": "languages",
+    "topic": "Alphabet",
+    "tags": [
+      "alphabet",
+      "letters",
+      "etymology"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "alphabet-greeks-added-vowels",
+    "headline": "Many Written Languages Skip the Vowels",
+    "body": "The first alphabets recorded only consonants, leaving readers to supply the vowels from context, and some major writing systems still do. Hebrew and Arabic are written largely without vowels in everyday use; a bare 'bk' might be 'book' or 'bake,' and you know which from the sentence. To outsiders it looks like crucial information is missing, but fluent readers barely notice. Vowels, it turns out, are more optional on the page than we assume.",
+    "summary": "Scripts like Hebrew and Arabic are written mostly without vowels, leaving readers to fill them in from context.",
+    "categoryId": "languages",
+    "topic": "Alphabet",
+    "tags": [
+      "alphabet",
+      "vowels",
+      "writing systems"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "alphabet-fewer-symbols",
+    "headline": "Alphabets Range From 12 Letters to Over 70",
+    "body": "There's no fixed size for an alphabet; it depends on how many sounds a language needs to capture. One Papua New Guinea language, Rotokas, gets by with around a dozen letters. Hawaiian uses just 13. At the other extreme, scripts like Khmer, used for the Cambodian language, can have more than 70 characters. The 26 letters of English sit comfortably in the middle of a surprisingly wide range.",
+    "summary": "Alphabets vary wildly, from about 12 letters in Rotokas to over 70 in Khmer, depending on a language's sounds.",
+    "categoryId": "languages",
+    "topic": "Alphabet",
+    "tags": [
+      "alphabet",
+      "languages",
+      "letters"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dictionaries-began-bilingual",
+    "headline": "A Killer in an Asylum Helped Write the Oxford Dictionary",
+    "body": "The Oxford English Dictionary took around 70 years to complete and leaned on an army of volunteers mailing in word examples. One of the most prolific was Dr. William Chester Minor, an American surgeon, who contributed thousands of entries from his cell, he was confined to an asylum for the criminally insane after committing a murder. For years the editors didn't know. The definitive English dictionary owes a debt to a brilliant madman.",
+    "summary": "One of the Oxford English Dictionary's top contributors was a murderer writing entries from an asylum.",
+    "categoryId": "languages",
+    "topic": "Dictionaries",
+    "tags": [
+      "dictionaries",
+      "oxford english dictionary",
+      "history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dictionaries-not-always-alphabetical",
+    "headline": "Dictionaries Hide Fake Words to Catch Copycats",
+    "body": "Some reference books contain a deliberate lie. Editors occasionally plant a fake, invented entry, sometimes called a mountweazel, so that if a rival copies their work, the bogus word becomes proof of theft. The New Oxford American Dictionary once slipped in 'esquivalience,' a completely made-up term, as a copyright trap. Mapmakers do the same with fake 'trap streets.' The most trustworthy-looking books sometimes hide a single intentional fiction.",
+    "summary": "Dictionaries sometimes plant fake words, like 'esquivalience,' as copyright traps to catch copiers.",
+    "categoryId": "languages",
+    "topic": "Dictionaries",
+    "tags": [
+      "dictionaries",
+      "mountweazel",
+      "copyright"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dictionaries-never-finished",
+    "headline": "An 18th-Century Dictionary Was Full of Sass",
+    "body": "When Samuel Johnson compiled his landmark 1755 dictionary of English almost single-handedly, he couldn't resist slipping in opinions. He defined 'oats' as a grain 'which in England is generally given to horses, but in Scotland supports the people,' and called a lexicographer, his own profession, 'a harmless drudge.' His witty, cranky entries gave the dictionary a personality. A reference book usually aims to be neutral; Johnson's was gleefully, brilliantly biased.",
+    "summary": "Samuel Johnson's 1755 dictionary smuggled in jokes, like defining 'oats' as horse food that feeds Scots.",
+    "categoryId": "languages",
+    "topic": "Dictionaries",
+    "tags": [
+      "dictionaries",
+      "samuel johnson",
+      "language history"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "punctuation-originally-for-reading-aloud",
+    "headline": "A Librarian Invented Punctuation",
+    "body": "Early writing had no commas, periods, or question marks; the words just ran on. Around 200 BCE, a librarian at Alexandria named Aristophanes grew tired of the confusion and proposed a system of dots placed high, middle, or low to mark short, medium, and long pauses for reading aloud. It was the seed of modern punctuation. Those tiny marks we ignore today began as one frustrated librarian's reading aid.",
+    "summary": "Punctuation began around 200 BCE when a librarian at Alexandria invented a system of dots to mark pauses.",
+    "categoryId": "languages",
+    "topic": "Punctuation",
+    "tags": [
+      "punctuation",
+      "alexandria",
+      "language history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "punctuation-spaces-enabled-silent-reading",
+    "headline": "Ancient Writing Had No Spaces Between Words",
+    "body": "Greek and Roman texts were often written as one unbroken stream of capital letters, withnogapsbetweenwords. Readers had to puzzle out where each word ended, which is partly why reading was usually done aloud. Silent reading was so unusual that one ancient writer marveled at a bishop who could read without moving his lips. Only later did medieval scribes add the spaces that finally made quiet, private reading easy.",
+    "summary": "Ancient text ran together with no spaces, so reading was usually aloud, and silent reading once amazed people.",
+    "categoryId": "languages",
+    "topic": "Punctuation",
+    "tags": [
+      "punctuation",
+      "silent reading",
+      "writing history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "punctuation-comma-from-slash",
+    "headline": "Typewriters Had No Exclamation Point Key",
+    "body": "For decades, if you wanted to type an exclamation point, your keyboard wouldn't help you. Early and mid-century typewriters simply didn't include the mark; to make one, you typed a period, hit backspace, and added an apostrophe on top. A dedicated exclamation key didn't become standard until around the 1970s. The punctuation mark now splattered across every excited text message was once a fiddly, three-step manual trick.",
+    "summary": "Typewriters long lacked an exclamation-point key; you made one by combining a period and an apostrophe.",
+    "categoryId": "languages",
+    "topic": "Punctuation",
+    "tags": [
+      "punctuation",
+      "typewriters",
+      "exclamation point"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "translation-more-than-word-swapping",
+    "headline": "A Translation Slip Convinced the World Mars Had Canals",
+    "body": "In the 1870s, an Italian astronomer described seeing 'canali' on Mars, meaning natural channels or grooves. Translated into English, it became 'canals,' a word implying something built by intelligent beings. The mistranslation caught fire. Soon people imagined a dying Martian civilization digging waterways across the planet, and the idea fueled decades of belief in Martians and countless science-fiction tales. One slippery word helped invent the aliens of Mars.",
+    "summary": "An astronomer's 'canali' (channels) on Mars was mistranslated as 'canals,' sparking decades of belief in Martians.",
+    "categoryId": "languages",
+    "topic": "Translation",
+    "tags": [
+      "translation",
+      "mars",
+      "mistranslation"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "translation-printing-press-demand",
+    "headline": "The Most Translated Document Isn't a Holy Book",
+    "body": "The single most translated document in the world is a surprisingly young one: the Universal Declaration of Human Rights, adopted by the United Nations in 1948. It has been rendered into more than 500 languages, from global tongues to ones spoken by tiny communities, earning it a Guinness World Record. A short statement about human dignity has been carried into more languages than almost anything else humans have ever written.",
+    "summary": "The UN's 1948 Universal Declaration of Human Rights, in 500+ languages, is the world's most translated document.",
+    "categoryId": "languages",
+    "topic": "Translation",
+    "tags": [
+      "translation",
+      "human rights",
+      "records"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "translation-machine-vs-cat",
+    "headline": "Early Machine Translation Turned Spirit Into Vodka",
+    "body": "Computers were supposed to crack translation quickly; in 1954, researchers predicted it would be solved within a few years. It wasn't, because meaning is slippery. A famous tale claims an early system translated 'the spirit is willing but the flesh is weak' into Russian and back as 'the vodka is good but the meat is rotten.' Whether or not it's literally true, it captures the trap: words have many meanings, and machines kept guessing wrong.",
+    "summary": "Early machine translation reputedly turned 'the spirit is willing' into 'the vodka is good,' showing how hard meaning is.",
+    "categoryId": "languages",
+    "topic": "Translation",
+    "tags": [
+      "translation",
+      "machine translation",
+      "technology"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
