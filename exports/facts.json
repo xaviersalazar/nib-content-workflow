@@ -24711,5 +24711,770 @@
     "funScore": 10,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "blood-transfusions-began-before-types",
+    "headline": "Early Blood Transfusions Got Banned for 150 Years",
+    "body": "In the 1600s, doctors tried transfusing blood from animals straight into people, including sheep-to-human attempts. Nobody understood compatibility, so reactions could be violent and sometimes deadly. After enough disasters, France and England outlawed transfusion, and the practice was essentially banned for around 150 years. The idea was sound, but the science was missing. Blood had to wait until the 1900s before anyone understood why the wrong donor could kill.",
+    "summary": "After deadly animal-to-human attempts, transfusion was banned for roughly 150 years.",
+    "categoryId": "medicine",
+    "topic": "Blood Transfusions",
+    "tags": [
+      "blood transfusions",
+      "blood history",
+      "medicine"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "blood-transfusions-human-blood-breakthrough",
+    "headline": "Doctors Once Tried Transfusing Milk Into Patients",
+    "body": "In 1818, obstetrician James Blundell saved a bleeding mother using human blood, a real step forward. But the path was strange. In the 1800s, some doctors, distrustful of blood, actually tried transfusing milk into patients, hoping it could rebuild the blood. It did not work and could be dangerous. Only when human-to-human blood transfusion took hold did medicine start moving toward something safe. The breakthrough was giving the right fluid, not just any fluid.",
+    "summary": "Before blood transfusion was understood, some doctors tried transfusing milk instead.",
+    "categoryId": "medicine",
+    "topic": "Blood Transfusions",
+    "tags": [
+      "blood transfusions",
+      "medical history",
+      "human blood"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "blood-transfusions-storage-changed-everything",
+    "headline": "One Chemical Turned Blood Into Something You Can Bank",
+    "body": "Early transfusions had to go almost vein-to-vein, donor and patient in the same room, because blood clots within minutes. Then in 1914 doctors added sodium citrate, which stops clotting and lets blood be stored for days. That single trick transformed everything. Suddenly blood could be collected, chilled, shipped, and saved for later, which made blood banks and battlefield transfusions possible. A clotting problem solved by chemistry created a whole medical supply chain.",
+    "summary": "Adding citrate to stop clotting let blood be stored, creating the modern blood bank.",
+    "categoryId": "medicine",
+    "topic": "Blood Transfusions",
+    "tags": [
+      "blood transfusions",
+      "blood banks",
+      "anticoagulants"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "anesthesia-made-surgery-bearable",
+    "headline": "Nobody Fully Knows How Anesthesia Switches You Off",
+    "body": "General anesthesia does something staggering millions of times a day: it switches off consciousness on command, then brings it back. Yet scientists still cannot fully explain how. The drugs clearly act on the brain, but exactly how they dissolve awareness while you keep breathing remains partly a mystery. It is not the same as sleep, and it is not a simple on-off switch. We trust a process we have not completely figured out.",
+    "summary": "Anesthesia reliably erases consciousness, yet scientists still cannot fully explain how it works.",
+    "categoryId": "medicine",
+    "topic": "Anesthesia",
+    "tags": [
+      "anesthesia",
+      "consciousness",
+      "medical mystery"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "anesthesia-ether-public-demo",
+    "headline": "Surgery's Most Famous Room Is Named After a Gas",
+    "body": "On October 16, 1846, dentist William Morton dripped ether over a cloth and a patient slept through having a neck tumor removed at Massachusetts General Hospital. The surgeon, John Collins Warren, had watched patients scream through operations his whole career. When the man woke up feeling nothing, Warren turned to the stunned crowd and said, \"Gentlemen, this is no humbug.\" The domed theater where it happened is still called the Ether Dome today.",
+    "summary": "The 1846 operation that proved painless surgery was real happened in a room still called the Ether Dome.",
+    "categoryId": "medicine",
+    "topic": "Anesthesia",
+    "tags": [
+      "anesthesia",
+      "ether",
+      "medical history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "anesthesia-not-always-unconscious",
+    "headline": "Surgical Anesthesia Started as a Party Trick",
+    "body": "Long before they reached the operating room, ether and nitrous oxide were recreational drugs. People held \"ether frolics\" and inhaled \"laughing gas\" at parties and traveling shows for laughs. For decades nobody connected the giddy numbness to a way of killing surgical pain. Then a dentist noticed a man injure his leg under nitrous oxide and feel nothing. A party trick became one of medicine's greatest gifts.",
+    "summary": "Ether and laughing gas were party drugs for years before anyone used them to stop surgical pain.",
+    "categoryId": "medicine",
+    "topic": "Anesthesia",
+    "tags": [
+      "anesthesia",
+      "nitrous oxide",
+      "medical history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "antibiotics-target-bacteria",
+    "headline": "Most Antibiotics Are Stolen Microbial Weapons",
+    "body": "Here is the twist behind antibiotics: many were not invented by people at all. Molds and soil bacteria evolved these chemicals over millions of years to poison their microbial rivals. We simply discovered the war already happening underground and borrowed the weapons. That is also why antibiotics do nothing against viruses like a cold, since they were built to target bacteria. We are latecomers to a fight microbes have waged forever.",
+    "summary": "Many antibiotics are chemical weapons microbes evolved to fight each other, which we borrowed.",
+    "categoryId": "medicine",
+    "topic": "Antibiotics",
+    "tags": [
+      "antibiotics",
+      "bacteria",
+      "microbes"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "antibiotics-penicillin-accident",
+    "headline": "The First Penicillin Patient Was Saved by His Own Urine",
+    "body": "Alexander Fleming noticed in 1928 that a stray mold had killed bacteria on a forgotten dish, but he could barely make the drug. Years later, other scientists treated a policeman dying from a scratch he got pruning roses. He improved fast, then they ran out of penicillin. It was so precious they filtered it back out of his urine to keep dosing him. Even that was not enough, and he died.",
+    "summary": "Penicillin was so scarce that doctors recovered it from a patient's urine to keep treating him.",
+    "categoryId": "medicine",
+    "topic": "Antibiotics",
+    "tags": [
+      "antibiotics",
+      "penicillin",
+      "alexander fleming"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "antibiotics-resistance-evolution",
+    "headline": "Bacteria Trade Resistance Like Swapping Cards",
+    "body": "Bacteria do not just inherit resistance from their parents. They can pass resistance genes sideways to unrelated bacteria, sometimes even across different species, handing off survival tricks like trading cards. A harmless microbe can give a dangerous one the genetic key to shrug off a drug. That is why overusing antibiotics is risky for everyone: resistance does not stay put. It spreads through a microbial community far faster than ordinary evolution would suggest.",
+    "summary": "Bacteria share resistance genes sideways, even across species, spreading immunity to antibiotics fast.",
+    "categoryId": "medicine",
+    "topic": "Antibiotics",
+    "tags": [
+      "antibiotics",
+      "resistance",
+      "bacteria"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "blood-types-antigens",
+    "headline": "Fewer Than 50 People Have 'Golden Blood'",
+    "body": "Your blood type comes from tiny molecular flags called antigens on your red blood cells, and there are far more than the familiar A, B, and O. The rarest is Rh-null, nicknamed \"golden blood\" because it lacks every Rh antigen. Fewer than 50 people on Earth are known to have it. It can be given to almost anyone with a rare Rh type, making it precious, yet those who have it can receive only from each other.",
+    "summary": "The rarest blood type, Rh-null or 'golden blood,' is known in fewer than 50 people worldwide.",
+    "categoryId": "medicine",
+    "topic": "Blood Types",
+    "tags": [
+      "blood types",
+      "antigens",
+      "rare blood"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "blood-types-landsteiner",
+    "headline": "He Turned Transfusion From a Deadly Lottery Into Science",
+    "body": "Before 1901, a transfusion was a gamble: some patients recovered, others died for reasons nobody understood. Then Karl Landsteiner discovered that human blood comes in distinct groups, and mixing the wrong ones triggers a deadly reaction. Suddenly the failures made sense, and doctors could match donor to patient instead of guessing. It was so important that his birthday, June 14, is now marked worldwide as World Blood Donor Day.",
+    "summary": "Landsteiner's discovery of blood groups turned transfusion from a deadly gamble into a science.",
+    "categoryId": "medicine",
+    "topic": "Blood Types",
+    "tags": [
+      "blood types",
+      "karl landsteiner",
+      "transfusions"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "blood-types-crossmatching",
+    "headline": "Some Blood Gives to Everyone, Some Takes From All",
+    "body": "Because antigens decide compatibility, two blood types have special powers. Type O-negative carries none of the main antigens, so the immune system rarely attacks it, making it the \"universal donor\" reached for in emergencies. At the other end, type AB-positive has the antigens but few matching antibodies, so it can safely receive almost any blood, making it the universal recipient. Doctors still cross-match before transfusing, but those two types are the system's wild cards.",
+    "summary": "O-negative can donate to nearly anyone, while AB-positive can receive almost any blood.",
+    "categoryId": "medicine",
+    "topic": "Blood Types",
+    "tags": [
+      "blood types",
+      "universal donor",
+      "transfusion safety"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "diagnostic-imaging-sees-inside",
+    "headline": "The Tech Behind Ultrasound Started by Hunting Submarines",
+    "body": "The ultrasound that lets parents see a baby before birth has a surprising ancestry. Its core idea, bouncing sound waves off hidden objects and timing the echoes, grew out of naval SONAR built to detect submarines and industrial tools used to find flaws in metal. Engineers realized the same trick could map soft tissue inside a living body. A technology designed for warships and factories became one of medicine's gentlest ways to see inside us.",
+    "summary": "Medical ultrasound grew out of naval SONAR and metal flaw detectors.",
+    "categoryId": "medicine",
+    "topic": "Diagnostic Imaging",
+    "tags": [
+      "diagnostic imaging",
+      "ultrasound",
+      "sonar"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "diagnostic-imaging-many-tools",
+    "headline": "Beatles Records Helped Pay for the First CT Scanner",
+    "body": "The CT scanner, which spins X-rays around you and lets a computer rebuild the body in slices, came from an unlikely sponsor. It was developed at EMI, the British company whose record label released the Beatles. Profits from the band's enormous success helped fund the research lab where engineer Godfrey Hounsfield built it in the early 1970s. In a real sense, a few of medicine's first 3D body scans were paid for by \"Hey Jude.\"",
+    "summary": "The first CT scanner was developed at EMI, funded partly by Beatles record sales.",
+    "categoryId": "medicine",
+    "topic": "Diagnostic Imaging",
+    "tags": [
+      "diagnostic imaging",
+      "ct scan",
+      "medical history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "diagnostic-imaging-changed-diagnosis",
+    "headline": "A PET Scan Lights Up Cancer Because Tumors Love Sugar",
+    "body": "Some scans show shape; a PET scan shows activity. Doctors inject a tiny amount of radioactive sugar, then watch where the body burns it fastest. Cancer cells are greedy, consuming sugar far quicker than normal tissue, so tumors glow brightly on the scan. The same trick reveals how hard the brain or heart is working. Instead of mapping structure, a PET scan maps the body's living chemistry in real time.",
+    "summary": "PET scans use radioactive sugar, and tumors glow because cancer cells consume it fastest.",
+    "categoryId": "medicine",
+    "topic": "Diagnostic Imaging",
+    "tags": [
+      "diagnostic imaging",
+      "pet scan",
+      "cancer"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "germ-theory-microbes-cause-disease",
+    "headline": "He Proved Handwashing Saved Lives and Was Locked Away",
+    "body": "In the 1840s, Ignaz Semmelweis noticed mothers died far more often when doctors delivered babies straight from doing autopsies. He ordered handwashing, and deaths plunged. But this was before germ theory, so colleagues were insulted by the idea their hands were dirty and rejected him. Mocked and ruined, Semmelweis was committed to an asylum and died there. Only later did germ theory prove the unseen killers he had been fighting were real.",
+    "summary": "Semmelweis proved handwashing saved mothers' lives but was ridiculed and died in an asylum.",
+    "categoryId": "medicine",
+    "topic": "Germ Theory",
+    "tags": [
+      "germ theory",
+      "handwashing",
+      "medical history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "germ-theory-changed-cleanliness",
+    "headline": "Surgeons Once Bragged About Their Blood-Caked Coats",
+    "body": "Before germ theory took hold, surgery was filthy and proud of it. Surgeons operated in old coats stiff with dried blood and pus from past patients, and a crusty coat was a badge of experience: the dirtier it looked, the busier the doctor seemed. They reused unwashed tools and rarely cleaned their hands. Once germ theory revealed that invisible microbes spread infection, that pride collapsed, and cleanliness became one of medicine's most powerful, life-saving tools.",
+    "summary": "Before germ theory, surgeons wore blood-stiffened coats as a badge of how busy they were.",
+    "categoryId": "medicine",
+    "topic": "Germ Theory",
+    "tags": [
+      "germ theory",
+      "sanitation",
+      "surgery"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "germ-theory-key-figures",
+    "headline": "Pasteur Tested His Rabies Vaccine on a Dying Boy",
+    "body": "Louis Pasteur, Joseph Lister, and Robert Koch turned germ theory from suspicion into proof. Pasteur's nerve still stuns: in 1885 a 9-year-old mauled by a rabid dog faced near-certain death. Pasteur had an unproven rabies vaccine tested only on animals, and no medical license to use it. He gambled and gave it. The boy lived. It was a staggering risk that helped launch the age of vaccines against deadly disease.",
+    "summary": "Pasteur risked an untested rabies vaccine on a dying boy, and it saved him.",
+    "categoryId": "medicine",
+    "topic": "Germ Theory",
+    "tags": [
+      "germ theory",
+      "pasteur",
+      "rabies"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "insulin-blood-sugar-signal",
+    "headline": "Without Insulin, You Starve in a Sea of Sugar",
+    "body": "Insulin is the key that lets your cells open the door to glucose, the fuel floating in your blood. Without enough working insulin, that door stays shut. So even with sugar flooding the bloodstream, the cells cannot get at it and effectively starve. The body ends up wasting away while surrounded by energy it cannot use. One small hormone decides whether all that fuel is usable or locked uselessly outside.",
+    "summary": "Without insulin, cells cannot absorb blood sugar and starve amid plenty of fuel.",
+    "categoryId": "medicine",
+    "topic": "Insulin",
+    "tags": [
+      "insulin",
+      "blood sugar",
+      "hormones"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "insulin-pancreas-beta-cells",
+    "headline": "Insulin Woke Children From Diabetic Comas Overnight",
+    "body": "Insulin is made by beta cells in tiny islands inside the pancreas, and when those cells fail, the results are devastating. In one of medicine's most moving moments, a Toronto hospital ward in 1922 was full of children in diabetic comas, their families waiting for them to die. Doctors went bed to bed injecting the new insulin. Before they finished the row, the first children were already waking up. A hormone from microscopic cell clusters brought them back.",
+    "summary": "Insulin from the pancreas's tiny beta cells once woke a ward of comatose diabetic children.",
+    "categoryId": "medicine",
+    "topic": "Insulin",
+    "tags": [
+      "insulin",
+      "pancreas",
+      "beta cells"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "insulin-discovery-transformed-diabetes",
+    "headline": "The Discoverers Sold the Insulin Patent for $1",
+    "body": "When Frederick Banting and Charles Best helped discover insulin in the 1920s, severe diabetes was a death sentence. Their breakthrough could have made them rich. Instead they sold the patent to the University of Toronto for a single dollar, insisting the drug belonged to the world, not to them. Banting reportedly said insulin was not his to profit from. A lifesaving treatment was deliberately handed to humanity for one dollar.",
+    "summary": "Insulin's discoverers sold the patent for $1, saying the drug belonged to the world.",
+    "categoryId": "medicine",
+    "topic": "Insulin",
+    "tags": [
+      "insulin",
+      "diabetes",
+      "medical history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mri-magnets-not-x-rays",
+    "headline": "An MRI Magnet Can Turn a Gas Tank Into a Missile",
+    "body": "An MRI uses magnetism instead of X-rays, but that magnet is no gentle thing. It is thousands of times stronger than Earth's magnetic field, and crucially, it is always on, even when no scan is running. Bring a steel object too close and it can be ripped from your hands and slammed into the machine. A loose oxygen tank can fly across the room like a missile, which is why metal is banned from MRI rooms.",
+    "summary": "An MRI's always-on magnet is strong enough to hurl a steel oxygen tank across the room.",
+    "categoryId": "medicine",
+    "topic": "MRI",
+    "tags": [
+      "mri",
+      "magnetic resonance imaging",
+      "medical imaging"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mri-soft-tissue-detail",
+    "headline": "A Dead Salmon 'Lit Up' in a Brain Scanner",
+    "body": "Functional MRI can watch the living brain by tracking blood flow, and it is brilliant at soft tissue. But it can also be fooled. To prove a point, researchers once slid a dead salmon into an fMRI and showed it pictures of people. With sloppy statistics, the scan appeared to show \"brain activity\" in the dead fish. The famous experiment, which won an Ig Nobel Prize, warned scientists how easily noise can masquerade as real results.",
+    "summary": "Researchers found fake 'brain activity' in a dead salmon, exposing a flaw in scan analysis.",
+    "categoryId": "medicine",
+    "topic": "MRI",
+    "tags": [
+      "mri",
+      "soft tissue",
+      "neuroscience"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mri-body-slices",
+    "headline": "An MRI Basically Listens to the Water Inside You",
+    "body": "An MRI image is built from the water in your body. The machine's powerful magnet and radio waves make the hydrogen atoms in your water line up, then nudge them so they wobble and \"sing back\" faint radio signals. A computer turns those echoes into detailed slices of your insides. The loud banging during a scan is the equipment switching magnetic fields on and off. In effect, the scanner is reading the water that makes up most of you.",
+    "summary": "MRI images the hydrogen in your body's water, reading faint radio signals it sends back.",
+    "categoryId": "medicine",
+    "topic": "MRI",
+    "tags": [
+      "mri",
+      "cross sections",
+      "medical scans"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "placebo-effect-expectation",
+    "headline": "Placebos Can Work Even When You Know They're Fake",
+    "body": "The placebo effect can improve how people feel after a treatment with no active ingredient, usually linked to expectation. But here is the strange part: in \"open-label\" studies, patients are told outright that they are taking a fake pill, with nothing in it, and many still report real relief from things like pain or fatigue. The ritual of taking medicine, and the hope around it, seems to matter even when the secret is out.",
+    "summary": "In open-label trials, patients improve from placebos even after being told the pills are fake.",
+    "categoryId": "medicine",
+    "topic": "Placebo Effect",
+    "tags": [
+      "placebo effect",
+      "expectation",
+      "psychology"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "placebo-effect-clinical-trials",
+    "headline": "The Placebo Has an Evil Twin: the Nocebo",
+    "body": "Just as belief can heal, it can also harm. The placebo's dark twin is the nocebo effect, where expecting something bad makes you feel it. In drug trials, people given the dummy sugar pill often report real side effects, like headaches or nausea, simply because they were warned the \"medicine\" might cause them. The same machinery that turns hope into relief can turn fear into genuine symptoms. Expectation cuts both ways.",
+    "summary": "The nocebo effect makes people feel real side effects from a harmless sugar pill.",
+    "categoryId": "medicine",
+    "topic": "Placebo Effect",
+    "tags": [
+      "placebo effect",
+      "nocebo",
+      "clinical trials"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "placebo-effect-pill-details",
+    "headline": "A Pill's Color and Price Change How Well It Works",
+    "body": "With placebos, the wrapping can shape the effect as much as the wishing. Studies suggest red, orange, and yellow pills tend to feel like stimulants, while blue and green feel calming, even when every pill is identical and inert. Bigger pills can seem stronger, two can beat one, and a pricier placebo can outperform a cheap one. The body is not reacting to medicine. It is reacting to the meaning we attach to the package.",
+    "summary": "Color, size, and even price can change how strongly a placebo seems to work.",
+    "categoryId": "medicine",
+    "topic": "Placebo Effect",
+    "tags": [
+      "placebo effect",
+      "pill color",
+      "expectation"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "prosthetics-more-than-limbs",
+    "headline": "The Oldest Known Prosthetic Is a 3,000-Year-Old Toe",
+    "body": "Prosthetics are far older than you might think. The earliest known working one is a big toe, made of wood and leather, found on the foot of an ancient Egyptian mummy from around 3,000 years ago. It was not just decoration. The toe shows wear marks and was rebuilt to bend, strong evidence its owner actually walked on it. Long before modern medicine, someone crafted a careful, comfortable replacement for a missing body part.",
+    "summary": "A 3,000-year-old wooden toe on an Egyptian mummy is the oldest known working prosthetic.",
+    "categoryId": "medicine",
+    "topic": "Prosthetics",
+    "tags": [
+      "prosthetics",
+      "ancient egypt",
+      "medical history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "prosthetics-materials-matter",
+    "headline": "Some Bionic Hands Now Move and Feel by Thought",
+    "body": "A prosthesis is an engineering puzzle of strength, weight, and comfort, but the newest limbs go further. Advanced bionic hands can be wired into the nerves and muscles left in the arm, so the person moves the hand simply by thinking, the way they once moved the real one. Some can even send touch signals back, letting the wearer feel pressure or texture. The line between a tool strapped on and a body part is starting to blur.",
+    "summary": "Advanced bionic limbs connect to nerves so users can move, and sometimes feel, by thought.",
+    "categoryId": "medicine",
+    "topic": "Prosthetics",
+    "tags": [
+      "prosthetics",
+      "bionics",
+      "medical engineering"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "prosthetics-function-and-identity",
+    "headline": "Running Blades Work Like Springs, Not Legs",
+    "body": "The curved blades sprinters run on look nothing like legs, and that is the point. Made of layered carbon fiber, they bend under the runner's weight and snap back, storing and returning energy like a spring with every stride. Engineer Hugh Herr, who lost both legs to frostbite, designs such limbs and argues a well-built prosthesis can do things flesh cannot. A replacement body part does not have to copy nature to outperform expectations.",
+    "summary": "Carbon-fiber running blades store and release energy like springs instead of mimicking legs.",
+    "categoryId": "medicine",
+    "topic": "Prosthetics",
+    "tags": [
+      "prosthetics",
+      "running blades",
+      "rehabilitation"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stethoscope-listening-tool",
+    "headline": "A Skilled Ear Can Hear a Collapsed Lung",
+    "body": "A stethoscope looks simple, but in trained hands it is a precise diagnostic tool. The familiar \"lub-dub\" is the sound of heart valves snapping shut, and a doctor can catch a faulty valve, fluid in the lungs, pneumonia, or even a partly collapsed lung purely by the sounds inside the chest. Long before scanners existed, careful listening was one of medicine's sharpest windows into the body, and it still catches clues a quick glance would miss.",
+    "summary": "With a stethoscope, a trained doctor can detect pneumonia or a collapsed lung by sound alone.",
+    "categoryId": "medicine",
+    "topic": "Stethoscope",
+    "tags": [
+      "stethoscope",
+      "diagnosis",
+      "medical tools"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stethoscope-distance-invention",
+    "headline": "Embarrassment Invented the Stethoscope",
+    "body": "In 1816, French doctor Rene Laennec needed to listen to a young woman's heart but felt too awkward to press his ear directly to her chest, as was then the custom. So he rolled a sheet of paper into a tight tube, put one end to her chest and the other to his ear, and was amazed to hear the heartbeat more clearly than ever. One of medicine's most iconic instruments was born from a moment of simple embarrassment.",
+    "summary": "Laennec invented the stethoscope because he was too embarrassed to press his ear to a patient's chest.",
+    "categoryId": "medicine",
+    "topic": "Stethoscope",
+    "tags": [
+      "stethoscope",
+      "medical history",
+      "auscultation"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stethoscope-symbol-of-medicine",
+    "headline": "The Stethoscope Survives Even as Newer Tools Arrive",
+    "body": "Two centuries after a rolled paper tube started it all, the stethoscope is medicine's most recognizable symbol, draped around necks on every hospital ward. Some doctors now argue pocket-sized ultrasound devices can \"see\" what the stethoscope only \"hears,\" and may one day replace it. Yet it endures, cheap, instant, and personal, a quiet act of listening to a patient. It remains the badge of the profession precisely because it represents hands-on, attentive care.",
+    "summary": "Despite pocket ultrasound rivals, the 200-year-old stethoscope endures as medicine's symbol.",
+    "categoryId": "medicine",
+    "topic": "Stethoscope",
+    "tags": [
+      "stethoscope",
+      "medical symbols",
+      "doctors"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "transplant-surgery-rejection",
+    "headline": "The First Successful Transplant Was Between Twins",
+    "body": "Transplant surgery faces one brutal obstacle: the immune system attacks a new organ as a foreign invader, a reaction called rejection. That is why the first truly successful organ transplant, a kidney in 1954, was done between identical twins. Because the twins shared the same genes, the recipient's body did not see the kidney as foreign and left it alone. It proved transplants could work, and pushed doctors to find drugs that calm the immune system for everyone else.",
+    "summary": "The first successful transplant worked because it was between identical twins, avoiding rejection.",
+    "categoryId": "medicine",
+    "topic": "Transplant Surgery",
+    "tags": [
+      "transplant surgery",
+      "immune system",
+      "rejection"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "transplant-surgery-more-than-organs",
+    "headline": "Corneas Rarely Reject Because the Body Can't See Them",
+    "body": "Transplants go far beyond hearts and kidneys, including tissues like skin, bone, heart valves, and even faces and hands. One of the most common, the cornea, has a quiet advantage. The clear front of the eye has no blood vessels, so the immune system's patrolling cells never really reach it. Out of the body's surveillance, a donor cornea is rarely attacked as foreign. It is one of the few transplants that often needs no lifelong anti-rejection drugs.",
+    "summary": "Corneas rarely reject because they have no blood supply, hiding them from the immune system.",
+    "categoryId": "medicine",
+    "topic": "Transplant Surgery",
+    "tags": [
+      "transplant surgery",
+      "cornea",
+      "immune system"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "transplant-surgery-donor-shortage",
+    "headline": "The First Heart Transplant Made a Surgeon World-Famous Overnight",
+    "body": "In 1967, South African surgeon Christiaan Barnard did what many thought impossible: he transplanted a human heart into a living patient. The man survived 18 days before infection killed him, yet the operation electrified the world and turned Barnard into an instant global celebrity. It also exposed transplant medicine's hard limit, which is not just skill but supply. Every transplant needs a donor, and the shortage of organs still forces painful choices about who receives one.",
+    "summary": "Barnard's 1967 heart transplant patient lived 18 days and made the surgeon an overnight celebrity.",
+    "categoryId": "medicine",
+    "topic": "Transplant Surgery",
+    "tags": [
+      "transplant surgery",
+      "organ donation",
+      "medical history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vaccines-train-immune-system",
+    "headline": "Smallpox Is the Only Human Disease Wiped From the Wild",
+    "body": "Vaccination did something unprecedented with smallpox, a disease that killed hundreds of millions. A worldwide vaccination campaign hunted it down until the last natural case appeared in 1977. It is the only human disease ever completely eradicated in the wild. The virus did not vanish entirely, though. Known stocks are now locked away in just two high-security freezers, one in the United States and one in Russia, the last traces of a once-unstoppable killer.",
+    "summary": "Smallpox is the only human disease eradicated in the wild; samples survive in two guarded freezers.",
+    "categoryId": "medicine",
+    "topic": "Vaccines",
+    "tags": [
+      "vaccines",
+      "smallpox",
+      "disease eradication"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vaccines-jenner-smallpox",
+    "headline": "The Word 'Vaccine' Literally Means 'From a Cow'",
+    "body": "In the 1790s, Edward Jenner noticed milkmaids who had caught mild cowpox seemed protected from deadly smallpox. To test it, he deliberately infected a young boy with cowpox, then later exposed him to smallpox. The boy did not get sick. That daring experiment launched vaccination. The name itself carries the story: \"vaccine\" comes from vacca, the Latin word for cow, a permanent tribute to the cowpox that started it all.",
+    "summary": "Jenner's smallpox breakthrough gave us the word 'vaccine,' from vacca, Latin for cow.",
+    "categoryId": "medicine",
+    "topic": "Vaccines",
+    "tags": [
+      "vaccines",
+      "edward jenner",
+      "smallpox"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vaccines-community-benefit",
+    "headline": "Vaccines Build a Wall Around Those Who Can't Get Them",
+    "body": "A vaccine protects the person who gets it, but it also quietly guards people who cannot be vaccinated, like newborns or those with weak immune systems. When enough of a community is immune, a germ struggles to find new hosts and its spread stalls. The protected majority becomes a living wall around the vulnerable few. This effect, called herd immunity, makes vaccination as much a community shield as a personal choice.",
+    "summary": "When enough people are vaccinated, herd immunity shields babies and others who cannot be.",
+    "categoryId": "medicine",
+    "topic": "Vaccines",
+    "tags": [
+      "vaccines",
+      "herd immunity",
+      "public health"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "x-rays-invisible-light",
+    "headline": "Shoe Stores Used to X-Ray Your Feet for Fun",
+    "body": "When X-rays were new, their dangers were unknown, and people treated them as a marvel. For decades, shoe stores kept X-ray machines called fluoroscopes so customers could look at the bones of their feet wiggling inside a new pair of shoes. Children played with them as a novelty. Only later did doctors realize the repeated radiation was harmful, and many early X-ray pioneers paid with burns, lost fingers, and even their lives.",
+    "summary": "For decades, shoe stores let customers X-ray their feet before the radiation risk was understood.",
+    "categoryId": "medicine",
+    "topic": "X-rays",
+    "tags": [
+      "x-rays",
+      "fluoroscope",
+      "medical history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "x-rays-bones-visible",
+    "headline": "An X-Ray Is a Shadow, Not a Photo",
+    "body": "An X-ray image is not really a photograph; it is a shadow. The rays pass easily through soft tissue but are blocked by dense bone, much as light is blocked by a solid object. Where bone stops the rays, the film stays pale, leaving a bright outline of your skeleton. The darker areas are simply where more radiation passed through. In effect, the machine is casting a shadow of your insides onto a detector.",
+    "summary": "An X-ray is a shadow image, with bones blocking the rays to leave a pale skeletal outline.",
+    "categoryId": "medicine",
+    "topic": "X-rays",
+    "tags": [
+      "x-rays",
+      "bones",
+      "diagnostic imaging"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "x-rays-accidental-discovery-impact",
+    "headline": "The First X-Ray Made a Woman Say She'd Seen Her Death",
+    "body": "In 1895, Wilhelm Roentgen stumbled onto a mysterious ray that could pass through solid matter. Unsure what it was, he simply called it \"X.\" For the first medical image, he had his wife Bertha place her hand on a plate, and the picture showed the bones of her hand and the dark ring on her finger. Staring at her own skeleton, she reportedly gasped, \"I have seen my own death.\" Medicine had gained a way to look inside the living.",
+    "summary": "Roentgen's first X-ray showed his wife's hand bones; she said, 'I have seen my own death.'",
+    "categoryId": "medicine",
+    "topic": "X-rays",
+    "tags": [
+      "x-rays",
+      "medical history",
+      "radiology"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "medical-robots-surgeon-controlled",
+    "headline": "A Surgical Robot Can Peel and Stitch a Grape",
+    "body": "A surgical robot does not act on its own; the surgeon drives every move from a console nearby. What makes it remarkable is precision. The system shrinks a surgeon's hand motions down to tiny, exact movements and quietly cancels out the natural tremor in human hands. In a favorite demonstration, surgeons use one to peel the thin skin off a single grape and then stitch it neatly back on. The robot's gift is steadiness, not independence.",
+    "summary": "Surgical robots scale motion and erase hand tremor, precisely enough to suture a grape's skin.",
+    "categoryId": "medicine",
+    "topic": "Medical Robots",
+    "tags": [
+      "medical robots",
+      "robotic surgery",
+      "surgeons"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "medical-robots-three-main-parts",
+    "headline": "The Surgeon Never Touches the Patient",
+    "body": "A robotic surgery setup has three pieces: robotic arms holding tiny instruments, a high-definition 3D camera, and a console where the surgeon sits. The strange part is the distance. The surgeon is not leaning over the patient at all. They sit at the console a few feet away, peering into a 3D viewer and working hand controls, almost like playing an immersive video game. The robot's arms, not the surgeon's hands, are what enter the body.",
+    "summary": "In robotic surgery the surgeon works from a nearby console and never touches the patient.",
+    "categoryId": "medicine",
+    "topic": "Medical Robots",
+    "tags": [
+      "medical robots",
+      "surgical robots",
+      "medical technology"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "medical-robots-minimally-invasive",
+    "headline": "A Surgeon in New York Operated on a Patient in France",
+    "body": "In 2001, surgeons pulled off something that sounds impossible: a patient in Strasbourg, France, had her gallbladder removed by a surgeon sitting at a console in New York City, about 4,000 miles away. High-speed cables carried his hand movements to robotic arms across the Atlantic with barely any delay. Nicknamed Operation Lindbergh, it proved that with the right robot and connection, a surgeon's skill no longer has to be in the same room as the patient.",
+    "summary": "In 2001, a New York surgeon removed a gallbladder from a patient in France via robot.",
+    "categoryId": "medicine",
+    "topic": "Medical Robots",
+    "tags": [
+      "medical robots",
+      "remote surgery",
+      "surgical technology"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
