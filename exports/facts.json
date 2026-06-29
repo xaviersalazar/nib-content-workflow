@@ -23946,5 +23946,770 @@
     "funScore": 10,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "amelia-earhart-final-flight",
+    "headline": "Amelia Earhart Vanished Almost Within Reach of Land",
+    "body": "In 1937, Amelia Earhart was near the end of an around-the-world flight when she and her navigator simply disappeared over the Pacific. Their target was Howland Island, a flat speck barely two miles long in a vast empty ocean. Her final radio messages said she was running low on fuel and couldn't see the island. Then silence. One of the most famous people alive vanished trying to find a dot on the map.",
+    "summary": "Amelia Earhart disappeared in 1937 hunting for tiny Howland Island, radioing that she was low on fuel and couldn't find it.",
+    "categoryId": "mysteries",
+    "topic": "Amelia Earhart",
+    "tags": [
+      "amelia earhart",
+      "aviation",
+      "disappearance"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "amelia-earhart-howland-island",
+    "headline": "She May Have Died as a Castaway on a Desert Island",
+    "body": "One leading theory says Earhart didn't crash into the sea but landed on Nikumaroro, an uninhabited island, and survived for a time as a castaway before dying there. Investigators have found suggestive clues on the island: a jar of 1930s freckle cream, a woman's shoe, and bones once measured as possibly female. None of it is proof, but it paints a haunting picture of a famous aviator stranded and alone.",
+    "summary": "A leading theory holds that Earhart died a castaway on Nikumaroro island, where a freckle-cream jar and bones were found.",
+    "categoryId": "mysteries",
+    "topic": "Amelia Earhart",
+    "tags": [
+      "amelia earhart",
+      "nikumaroro",
+      "theories"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "amelia-earhart-mystery-survives",
+    "headline": "People May Have Heard Earhart's Calls for Days",
+    "body": "After Earhart vanished, dozens of people across the world, from Florida to the Pacific, reported picking up faint, desperate radio distress calls on her frequency. At the time, many were dismissed as hoaxes or mistakes. Decades later, researchers re-examined them and argued some were chillingly plausible, suggesting she may have survived on land for days, transmitting from her plane, while a massive search looked in the wrong place entirely.",
+    "summary": "After she vanished, people worldwide reported faint distress calls on Earhart's frequency, hinting she survived for days.",
+    "categoryId": "mysteries",
+    "topic": "Amelia Earhart",
+    "tags": [
+      "amelia earhart",
+      "radio",
+      "search"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "antikythera-ancient-computer",
+    "headline": "Sponge Divers Found an Ancient Marvel by Accident",
+    "body": "In 1901, Greek sponge divers sheltering from a storm anchored near the island of Antikythera and dove down to find an ancient shipwreck littered with bronze and marble statues. Among the treasure was a corroded lump of bronze no one understood. It sat ignored for years. That lump turned out to be the Antikythera mechanism, a stunningly sophisticated geared device, recovered purely by chance by divers who were hunting sponges.",
+    "summary": "Greek sponge divers sheltering from a storm in 1901 stumbled onto the Antikythera mechanism in an ancient shipwreck.",
+    "categoryId": "mysteries",
+    "topic": "Antikythera Mechanism",
+    "tags": [
+      "antikythera mechanism",
+      "shipwreck",
+      "archaeology"
+    ],
+    "readTimeSeconds": 54,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "antikythera-predicted-eclipses",
+    "headline": "The Ancient Device Came With an Instruction Manual",
+    "body": "Modern scanning revealed something remarkable hidden in the Antikythera mechanism's corroded bronze: thousands of tiny Greek letters engraved across its surfaces and inside its workings. Researchers realized this was essentially a built-in user manual, explaining what the dials showed and how to read the heavens it modeled. Two thousand years ago, someone wrote operating instructions in metal, the oldest known how-to guide for a machine.",
+    "summary": "Scans found thousands of tiny engraved Greek letters on the Antikythera mechanism, an ancient built-in instruction manual.",
+    "categoryId": "mysteries",
+    "topic": "Antikythera Mechanism",
+    "tags": [
+      "antikythera mechanism",
+      "inscriptions",
+      "ancient greece"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "antikythera-gears-hidden-inside",
+    "headline": "Nothing This Advanced Appeared Again for a Thousand Years",
+    "body": "The Antikythera mechanism is so far ahead of its era that it seems almost impossible. After it was made around 2,000 years ago, no surviving object of comparable mechanical complexity appears anywhere in the world for over a thousand years, not until intricate astronomical clocks emerged in medieval Europe. The knowledge to build such a thing was somehow lost. It's a haunting reminder that progress isn't always a straight line forward.",
+    "summary": "No object as mechanically complex as the Antikythera mechanism appears again for over 1,000 years; the knowledge was lost.",
+    "categoryId": "mysteries",
+    "topic": "Antikythera Mechanism",
+    "tags": [
+      "antikythera mechanism",
+      "lost technology",
+      "history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "area-51-real-base",
+    "headline": "Many 'UFOs' Over Area 51 Were Secret Spy Planes",
+    "body": "Area 51 in the Nevada desert was where the US tested its most secret aircraft, including the U-2 spy plane in the 1950s. The U-2 flew far higher than any airliner of the day, and its silver body could catch sunlight and gleam strangely to people far below. Airline pilots and observers reported eerie objects in the sky. A huge share of early UFO sightings were really classified planes no one was allowed to know about.",
+    "summary": "Secret high-flying spy planes tested at Area 51 caused a large share of early UFO sightings.",
+    "categoryId": "mysteries",
+    "topic": "Area 51",
+    "tags": [
+      "area 51",
+      "spy planes",
+      "ufos"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "area-51-u2-sightings",
+    "headline": "The US Denied Area 51 Existed Until 2013",
+    "body": "For decades, Area 51 was one of the worst-kept secrets in the world, plastered across UFO documentaries and conspiracy theories, yet the US government refused to admit the base even existed. It wasn't until 2013 that declassified CIA documents officially acknowledged it by name, confirming it as a test site for spy planes. The silence itself became part of the legend. Sometimes refusing to confirm something only makes it loom larger.",
+    "summary": "The US government didn't officially acknowledge that Area 51 existed until declassified documents confirmed it in 2013.",
+    "categoryId": "mysteries",
+    "topic": "Area 51",
+    "tags": [
+      "area 51",
+      "secrecy",
+      "declassified"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "area-51-acknowledged-late",
+    "headline": "Two Million People Joked About Storming Area 51",
+    "body": "In 2019, a joke event appeared on Facebook titled 'Storm Area 51, They Can't Stop All of Us,' urging people to rush the secret base and 'see them aliens.' It was obviously a meme, but it went wildly viral, with around two million people clicking that they'd attend. The military issued an actual warning against it. In the end only a few hundred showed up to party in the desert, but the internet had turned a top-secret base into a punchline.",
+    "summary": "A 2019 joke event to 'Storm Area 51' and 'see them aliens' went viral, with about 2 million people RSVPing.",
+    "categoryId": "mysteries",
+    "topic": "Area 51",
+    "tags": [
+      "area 51",
+      "internet culture",
+      "memes"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "bermuda-triangle-disputed-map",
+    "headline": "Five Bombers Vanished, Then So Did Their Rescue Plane",
+    "body": "The Bermuda Triangle legend exploded after a single 1945 event. Flight 19, a training squadron of five US Navy bombers, became disoriented over the Atlantic and vanished without a trace, the radio crackling with confused pilots unsure of their position. Then a large rescue plane sent to find them disappeared too. Fourteen airmen, then thirteen more, gone in a day. The double tragedy became the founding legend of the Triangle.",
+    "summary": "In 1945, five Navy bombers (Flight 19) vanished over the Atlantic, and the rescue plane sent after them disappeared too.",
+    "categoryId": "mysteries",
+    "topic": "Bermuda Triangle",
+    "tags": [
+      "bermuda triangle",
+      "flight 19",
+      "navy"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "bermuda-triangle-cyclops",
+    "headline": "The Triangle's Spookiness May Be Gas and Waves",
+    "body": "Scientists have floated decidedly un-supernatural explanations for the Bermuda Triangle. One idea: huge releases of methane gas from the seabed could lower the water's density enough to sink a ship almost instantly. Another points to violent rogue waves, sudden storms, and the strong, unpredictable Gulf Stream current that can quickly scatter wreckage. The 'triangle' sits in a busy, weather-volatile patch of ocean. The mystery may be ordinary danger, dramatized.",
+    "summary": "Proposed Bermuda Triangle explanations include seabed methane gas sinking ships and sudden rogue waves and storms.",
+    "categoryId": "mysteries",
+    "topic": "Bermuda Triangle",
+    "tags": [
+      "bermuda triangle",
+      "methane",
+      "ocean"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "bermuda-triangle-ordinary-dangers",
+    "headline": "The Bermuda Triangle Isn't Actually More Dangerous",
+    "body": "For all its fearsome reputation, the Bermuda Triangle may be a statistical illusion. It's one of the busiest stretches of ocean and air travel on Earth, so naturally it sees a lot of traffic, and a lot of accidents in raw numbers. But studies have found the rate of disappearances is no higher than in other heavily traveled waters. Tellingly, marine insurers don't charge extra to cross it. The danger lives mostly in the storytelling.",
+    "summary": "Studies find the Bermuda Triangle has no higher accident rate than other busy seas, and insurers don't charge extra.",
+    "categoryId": "mysteries",
+    "topic": "Bermuda Triangle",
+    "tags": [
+      "bermuda triangle",
+      "statistics",
+      "myths"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "crop-circles-field-art",
+    "headline": "Two Friends Faked Crop Circles for Years With a Plank",
+    "body": "The crop-circle craze that gripped England seemed to defy explanation, until 1991, when two men in their sixties, Doug Bower and Dave Chorley, confessed they'd been making them for over a decade. Their high-tech tools? A plank of wood, some rope, and a wire sight on a cap to walk straight. Inspired by a pub conversation about UFOs, they'd flattened hundreds of fields for a laugh, and fooled the world.",
+    "summary": "Two Englishmen, Doug Bower and Dave Chorley, confessed in 1991 to faking crop circles for years using a plank and rope.",
+    "categoryId": "mysteries",
+    "topic": "Crop Circles",
+    "tags": [
+      "crop circles",
+      "hoax",
+      "england"
+    ],
+    "readTimeSeconds": 49,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "crop-circles-human-hoaxes",
+    "headline": "Crop Circles Got Fancier After the Hoax Was Exposed",
+    "body": "You'd think admitting crop circles were a prank would end them. The opposite happened. Once the secret was out, more people took up the craft, and the designs exploded in ambition, from simple rings into dazzling, math-heavy fractals and patterns hundreds of feet across. Crop circles quietly turned into a genuine, if anonymous, art form. The 'mystery' became a nighttime canvas competition between human artists with rope and boards.",
+    "summary": "After crop circles were exposed as a hoax, the designs grew vastly more elaborate, becoming an anonymous art form.",
+    "categoryId": "mysteries",
+    "topic": "Crop Circles",
+    "tags": [
+      "crop circles",
+      "art",
+      "england"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "crop-circles-mystery-culture",
+    "headline": "Every 'Mysterious' Crop Circle Trait Traces to a Prank",
+    "body": "Believers have pointed to all sorts of 'unexplainable' features in crop circles: plants bent but not broken, strange swirls, claims of weird energy or magnetic readings. Yet skilled human makers can reproduce every one of these effects with planning and practice. No crop circle has ever required an alien or paranormal explanation. The whole towering mystery rests on a foundation laid by a couple of pranksters with a board and too much free time.",
+    "summary": "Every supposedly unexplainable crop-circle feature can be reproduced by skilled human hoaxers; none needs aliens.",
+    "categoryId": "mysteries",
+    "topic": "Crop Circles",
+    "tags": [
+      "crop circles",
+      "skepticism",
+      "hoax"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "easter-island-remote-statues",
+    "headline": "Easter Island's Statues May Have 'Walked' Into Place",
+    "body": "How did islanders move nearly 900 multi-ton stone statues across Easter Island without wheels or large animals? Local legend always insisted the moai 'walked.' Modern researchers took that literally and tried it: with just a few teams and ropes, they rocked an upright statue side to side, and it shuffled forward, 'walking' almost exactly as the legend described. The impossible feat may have been a clever waddle, powered by rope and rhythm.",
+    "summary": "Experiments show Easter Island's multi-ton moai could be 'walked' upright by teams rocking them with ropes, as legend claimed.",
+    "categoryId": "mysteries",
+    "topic": "Easter Island",
+    "tags": [
+      "easter island",
+      "moai",
+      "engineering"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "easter-island-moai-not-just-heads",
+    "headline": "Easter Island's 'Heads' Have Hidden Bodies",
+    "body": "Most people picture the moai of Easter Island as giant disembodied heads poking from the grass. They're wrong. Excavations revealed that many of those 'heads' have full torsos, arms, and hands, buried under centuries of accumulated soil and rubble. Some are dozens of feet tall. The famous heads-only image is just an accident of how much dirt has piled up around them. There was always a whole body underground.",
+    "summary": "Easter Island's famous moai 'heads' actually have full buried bodies, hidden by centuries of accumulated soil.",
+    "categoryId": "mysteries",
+    "topic": "Easter Island",
+    "tags": [
+      "easter island",
+      "moai",
+      "archaeology"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "easter-island-environment-debate",
+    "headline": "Easter Island May Not Have Destroyed Itself",
+    "body": "For years, Easter Island was told as a grim parable: a society that chopped down all its trees to move statues, then collapsed into chaos and starvation. Newer research complicates that story. Invasive rats, brought by settlers, may have eaten the palm seeds that doomed the forests, and the worst population collapse came after Europeans arrived bringing disease and slave raids. The famous 'self-destruction' warning may be largely a myth.",
+    "summary": "The popular tale that Easter Islanders caused their own ecological collapse is now disputed, with rats and Europeans blamed.",
+    "categoryId": "mysteries",
+    "topic": "Easter Island",
+    "tags": [
+      "easter island",
+      "collapse",
+      "history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nazca-lines-desert-drawings",
+    "headline": "The Nazca Lines Were Hidden Until Planes Flew Over",
+    "body": "Across the Peruvian desert sprawl enormous drawings, a hummingbird, a monkey, a spider, some stretching the length of several football fields. But they're so vast that from ground level they look like meaningless scratches. Nobody fully appreciated them until the 1920s and 30s, when airplanes began crossing the desert and pilots looked down to see giant figures staring back. Designs made 2,000 years ago were truly revealed only from the sky.",
+    "summary": "The giant Nazca figures are nearly invisible from the ground and weren't appreciated until airplanes flew over in the 1900s.",
+    "categoryId": "mysteries",
+    "topic": "Nazca Lines",
+    "tags": [
+      "nazca lines",
+      "peru",
+      "geoglyphs"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nazca-lines-best-from-air",
+    "headline": "The Nazca Lines Survived Because It Almost Never Rains",
+    "body": "The Nazca Lines are shockingly fragile: they were made simply by scraping away dark surface stones to expose the pale ground beneath, just inches deep. Anywhere wetter, rain and plants would have erased them within years. But the Nazca desert is one of the driest places on Earth, with almost no rainfall and little wind. That stillness let scratches in the dirt survive for roughly two thousand years, like footprints frozen in time.",
+    "summary": "The shallow Nazca Lines survived ~2,000 years because they sit in one of Earth's driest, stillest deserts.",
+    "categoryId": "mysteries",
+    "topic": "Nazca Lines",
+    "tags": [
+      "nazca lines",
+      "desert",
+      "preservation"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nazca-lines-dry-preserved",
+    "headline": "We're Still Discovering New Nazca Lines",
+    "body": "Even after a century of study, the Nazca desert keeps giving up secrets. Researchers using drones and artificial intelligence to scan the terrain have recently uncovered hundreds of previously unknown figures, faint designs invisible to the naked eye, including animals and human-like shapes. One 2024 effort nearly doubled the number of known figures in a matter of months. The ancient gallery is far larger than anyone realized, and still growing.",
+    "summary": "Drones and AI recently uncovered hundreds of new Nazca figures, nearly doubling the known total in 2024.",
+    "categoryId": "mysteries",
+    "topic": "Nazca Lines",
+    "tags": [
+      "nazca lines",
+      "artificial intelligence",
+      "discovery"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "roanoke-croatoan-clue",
+    "headline": "An Entire Colony Vanished, Leaving One Carved Word",
+    "body": "In 1590, a relief ship finally reached England's Roanoke colony off North Carolina, and found it deserted. More than a hundred settlers, including women and children, had simply vanished, with no bodies and no sign of battle. The only clue was a single word carved into a wooden post: CROATOAN, the name of a nearby island and friendly tribe. Whether it was a destination, a plea, or a warning, that one word remains America's oldest unsolved mystery.",
+    "summary": "England's Roanoke colonists vanished, leaving only the word 'CROATOAN' carved into a post as a clue.",
+    "categoryId": "mysteries",
+    "topic": "Roanoke Colony",
+    "tags": [
+      "roanoke colony",
+      "croatoan",
+      "lost colony"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "roanoke-supply-delay",
+    "headline": "The First English Baby in America Vanished With the Colony",
+    "body": "Just days before the Roanoke colony's leader sailed back to England for supplies, his granddaughter was born on the island: Virginia Dare, the first English child born in the Americas. By the time he returned three years later, delayed by war with Spain, everyone was gone, including the toddler. Her fate is completely unknown. A baby who symbolized England's hopeful future in the New World disappeared into one of history's blankest pages.",
+    "summary": "Virginia Dare, the first English baby born in America, vanished as a toddler along with the entire Roanoke colony.",
+    "categoryId": "mysteries",
+    "topic": "Roanoke Colony",
+    "tags": [
+      "roanoke colony",
+      "virginia dare",
+      "history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "roanoke-not-just-vanished",
+    "headline": "The 'Lost' Colonists Probably Weren't Lost at All",
+    "body": "The phrase 'Lost Colony' suggests a spooky vanishing, but the truth may be far simpler. The settlers were short on supplies and had friendly ties with the nearby Croatoan people, exactly what their carved message pointed to. The leading theory is that they abandoned the failing colony and went to live among local tribes, gradually blending in. Some archaeological finds support it. They may not have disappeared so much as walked away and assimilated.",
+    "summary": "Rather than vanishing, the Roanoke colonists likely abandoned the settlement and assimilated into nearby Native tribes.",
+    "categoryId": "mysteries",
+    "topic": "Roanoke Colony",
+    "tags": [
+      "roanoke colony",
+      "theories",
+      "assimilation"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stonehenge-built-in-stages",
+    "headline": "Stonehenge's Altar Stone Came From 700 Kilometers Away",
+    "body": "Stonehenge's biggest stones are local, but its smaller 'bluestones' were famously hauled about 150 miles from Wales, an astonishing feat for Stone Age people. Then, in 2024, scientists analyzing the central 'altar stone' got a shock: its minerals matched rock from northeast Scotland, some 700 kilometers away. How a six-ton slab traveled almost the length of Britain, around 4,500 years ago, is a brand-new mystery layered on top of an old one.",
+    "summary": "In 2024, Stonehenge's central 'altar stone' was traced to Scotland, ~700 km away, deepening the mystery of how it got there.",
+    "categoryId": "mysteries",
+    "topic": "Stonehenge",
+    "tags": [
+      "stonehenge",
+      "altar stone",
+      "geology"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stonehenge-stones-traveled",
+    "headline": "Stonehenge Is a Stone Age Calendar",
+    "body": "Stonehenge's stones aren't placed randomly; they're carefully aimed at the sky. The monument lines up precisely with the sunrise on the longest day of the year and the sunset on the shortest, the summer and winter solstices. Many researchers think it worked as a giant calendar, marking the turning of the seasons for a farming people who lived and died by them. Five thousand years ago, someone built a clock out of standing stones.",
+    "summary": "Stonehenge aligns precisely with the solstice sunrise and sunset, likely serving as a giant Stone Age seasonal calendar.",
+    "categoryId": "mysteries",
+    "topic": "Stonehenge",
+    "tags": [
+      "stonehenge",
+      "solstice",
+      "astronomy"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stonehenge-solstice-alignment",
+    "headline": "Stonehenge Was Also a Giant Graveyard",
+    "body": "Stonehenge wasn't only a temple or calendar; it was a place of the dead. Archaeologists have found the cremated remains of well over a hundred people buried at the site, making it one of the largest known burial grounds in Late Stone Age Britain. Some of the dead came from far away, even from Wales, the same region as the bluestones. The monument that draws millions of tourists was, in part, an ancient cemetery.",
+    "summary": "Stonehenge holds the cremated remains of 150+ people, making it one of Stone Age Britain's largest known cemeteries.",
+    "categoryId": "mysteries",
+    "topic": "Stonehenge",
+    "tags": [
+      "stonehenge",
+      "burial",
+      "archaeology"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ufos-unidentified-not-alien",
+    "headline": "The Roswell 'UFO' Was a Secret Spy Balloon",
+    "body": "In 1947, something crashed near Roswell, New Mexico, and the military first announced it had recovered a 'flying disc,' igniting the most famous UFO story ever. The wreckage was real, but it wasn't alien. It came from Project Mogul, a top-secret program using high-altitude balloons to spy on Soviet nuclear tests. The military lied to cover the real secret, and that cover-up, ironically, convinced generations of people that aliens were being hidden.",
+    "summary": "The 1947 Roswell 'UFO' was debris from Project Mogul, a secret balloon program to detect Soviet nuclear tests.",
+    "categoryId": "mysteries",
+    "topic": "UFOs",
+    "tags": [
+      "ufos",
+      "roswell",
+      "project mogul"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ufos-flying-saucers-phrase",
+    "headline": "'Flying Saucer' Was Based on a Misunderstanding",
+    "body": "The whole image of UFOs as saucer-shaped comes from a slip of language. In 1947, pilot Kenneth Arnold described strange objects he saw near Mount Rainier as moving like 'a saucer skipping across water.' He was describing their motion, not their shape, the objects themselves were more crescent-like. But a newspaper ran with 'flying saucers,' and the disc shape stuck. Decades of alien imagery were shaped by a reporter's misreading of one offhand comparison.",
+    "summary": "'Flying saucer' came from pilot Kenneth Arnold describing UFO motion, not shape; a newspaper turned it into the disc image.",
+    "categoryId": "mysteries",
+    "topic": "UFOs",
+    "tags": [
+      "ufos",
+      "kenneth arnold",
+      "language"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ufos-project-blue-book",
+    "headline": "The Government Now Calls UFOs 'UAP' and Takes Them Seriously",
+    "body": "For decades, 'UFO' carried a whiff of tabloid nonsense. Recently, officials rebranded the topic with a drier term: UAP, for unidentified anomalous phenomena. And it's no longer fringe. In the 2020s the US Pentagon officially released formerly classified Navy videos showing objects that pilots couldn't identify, and Congress held public hearings on them. The question shifted from 'are people imagining things?' to 'what are our pilots actually seeing?', with the government now leading the asking.",
+    "summary": "The US government rebranded UFOs as 'UAP,' released real Navy footage, and held hearings, treating the topic seriously.",
+    "categoryId": "mysteries",
+    "topic": "UFOs",
+    "tags": [
+      "ufos",
+      "uap",
+      "pentagon"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "voynich-unreadable-script",
+    "headline": "The Unreadable Book Is Genuinely 600 Years Old",
+    "body": "Skeptics long assumed the Voynich manuscript, a book written in an unknown script that no one can read, must be a modern hoax. Then scientists carbon-dated its pages and got a clear answer: the parchment dates to the early 1400s. Whatever it is, it's a real, centuries-old document, painstakingly written and illustrated by someone six hundred years ago in a language or code that has defeated every reader since. The mystery is authentic.",
+    "summary": "Carbon dating proved the unreadable Voynich manuscript is genuinely from the early 1400s, not a modern fake.",
+    "categoryId": "mysteries",
+    "topic": "Voynich Manuscript",
+    "tags": [
+      "voynich manuscript",
+      "carbon dating",
+      "cryptography"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "voynich-strange-illustrations",
+    "headline": "The Voynich Book Is Full of Plants That Don't Exist",
+    "body": "The Voynich manuscript is packed with strange, vivid illustrations that only deepen the puzzle. There are detailed drawings of plants that match no known species on Earth, swirling astronomical charts, and odd scenes of naked women bathing in networks of green pools and tubes. The pictures look purposeful and organized, as if illustrating real knowledge, yet they describe a world that doesn't quite line up with ours. Even the images refuse to explain themselves.",
+    "summary": "The Voynich manuscript brims with drawings of unidentifiable plants, star charts, and women in green pools, explaining nothing.",
+    "categoryId": "mysteries",
+    "topic": "Voynich Manuscript",
+    "tags": [
+      "voynich manuscript",
+      "illustrations",
+      "mystery"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "voynich-yale-library",
+    "headline": "The World's Best Codebreakers All Failed on This Book",
+    "body": "The Voynich manuscript has humbled the sharpest minds in cryptography. Professional codebreakers who cracked enemy ciphers in both World Wars tried and failed. Modern computer scientists and, recently, artificial intelligence have all taken a crack at it. None has produced a translation that holds up. It's not for lack of effort; the text has clear structure and patterns, which is exactly what's maddening. It looks readable, and yet, after a century of trying, no one can read it.",
+    "summary": "Elite WWII codebreakers, computer scientists, and AI have all failed to translate the Voynich manuscript's structured script.",
+    "categoryId": "mysteries",
+    "topic": "Voynich Manuscript",
+    "tags": [
+      "voynich manuscript",
+      "codebreaking",
+      "cryptography"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dyatlov-tent-cut-open",
+    "headline": "Nine Hikers Fled Their Tent Into Lethal Cold",
+    "body": "In 1959, nine experienced hikers died in Russia's Ural Mountains under deeply strange circumstances. Rescuers found their tent abandoned and slashed open from the inside, as if they'd cut their way out in a panic. The hikers had fled into a blizzard and brutal sub-zero cold, several of them barefoot or half-dressed, and scattered across the slope where they froze. Why anyone would flee a warm tent into deadly weather has puzzled people for decades.",
+    "summary": "In 1959, nine hikers cut their way out of their tent and fled half-dressed into deadly cold in Russia's Ural Mountains.",
+    "categoryId": "mysteries",
+    "topic": "Dyatlov Pass",
+    "tags": [
+      "dyatlov pass",
+      "russia",
+      "disappearance"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dyatlov-avalanche-model",
+    "headline": "Strange Injuries Fueled Decades of Conspiracy Theories",
+    "body": "What made the Dyatlov Pass case truly chilling were the details. Some hikers had massive internal injuries, crushed ribs and a fractured skull, yet little external damage. One woman was missing her tongue and eyes. Faint traces of radiation turned up on some clothing. The secretive Soviet investigation closed the case blaming a vague 'compelling natural force.' That void of answers spawned theories of military tests, secret weapons, yetis, and aliens.",
+    "summary": "Dyatlov victims' crushed bones, a missing tongue, and clothing radiation fueled decades of conspiracy theories.",
+    "categoryId": "mysteries",
+    "topic": "Dyatlov Pass",
+    "tags": [
+      "dyatlov pass",
+      "conspiracy",
+      "injuries"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dyatlov-conspiracy-fuel",
+    "headline": "Disney's 'Frozen' Helped Solve a Real Death Mystery",
+    "body": "In 2021, scientists offered a convincing explanation for Dyatlov Pass: a rare, small 'slab avalanche' that crushed the tent and sent the panicked hikers fleeing. To prove a modest snow slide could cause such severe injuries, they ran simulations, and borrowed the snow-animation code originally built to make the realistic snow in Disney's film Frozen. A children's movie's special effects helped crack one of the 20th century's eeriest cold cases.",
+    "summary": "A 2021 study used the snow-physics animation code from Disney's 'Frozen' to model the avalanche that likely killed the Dyatlov hikers.",
+    "categoryId": "mysteries",
+    "topic": "Dyatlov Pass",
+    "tags": [
+      "dyatlov pass",
+      "avalanche",
+      "science"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "oak-island-money-pit",
+    "headline": "The Treasure Pit That Floods Whenever You Dig",
+    "body": "Since 1795, treasure hunters on Nova Scotia's Oak Island have battled a mysterious shaft called the Money Pit. Dig down past its layers of old oak platforms and, at a certain depth, the pit floods with seawater and stops you cold. Some believe hidden tunnels connect it to the ocean as a deliberate booby trap, designed to drown any excavation. Whether by clever engineering or natural geology, the pit has defeated diggers for over two centuries.",
+    "summary": "Oak Island's 'Money Pit' floods with seawater whenever treasure hunters dig deep, as if booby-trapped against them.",
+    "categoryId": "mysteries",
+    "topic": "Oak Island",
+    "tags": [
+      "oak island",
+      "money pit",
+      "treasure"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "oak-island-flooded-shaft",
+    "headline": "Legend Says Seven Must Die Before the Treasure Is Found",
+    "body": "Oak Island's treasure hunt comes with a chilling piece of folklore: that seven people must die before the island gives up its secret. So far, six treasure hunters have died in accidents over the centuries, from drowning to falls to equipment failures. With the count sitting at six, the legend lends every new expedition an eerie tension. Believers note grimly that the prophecy still has one death left to go.",
+    "summary": "Oak Island lore says seven people must die before its treasure is found; six treasure hunters have already died.",
+    "categoryId": "mysteries",
+    "topic": "Oak Island",
+    "tags": [
+      "oak island",
+      "curse",
+      "treasure hunting"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "oak-island-treasure-never-found",
+    "headline": "225 Years of Digging Has Found No Treasure",
+    "body": "For more than two centuries, people have poured fortunes and lifetimes into Oak Island, convinced it hides pirate gold, lost jewels, or even sacred relics. Famous names, including a young Franklin D. Roosevelt, have joined the hunt. Massive machinery has torn up the ground. And after all that money, effort, and even death, no confirmed treasure has ever been recovered. The greatest thing Oak Island reliably produces is the search itself.",
+    "summary": "Despite 225+ years and fortunes spent, including a dig joined by a young FDR, no treasure has ever been found on Oak Island.",
+    "categoryId": "mysteries",
+    "topic": "Oak Island",
+    "tags": [
+      "oak island",
+      "treasure",
+      "history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "taos-hum-low-frequency",
+    "headline": "A Mysterious Hum Only Some People Can Hear",
+    "body": "In Taos, New Mexico, a small fraction of residents are tormented by a faint, low droning sound, like a distant idling engine, that never stops. The strangest part: most people standing right next to them hear absolutely nothing. When investigators brought in sensitive equipment to hunt for the source, they came up empty. About the only thing one instrument clearly detected was a gopher tunneling underground. The hum itself stayed invisible.",
+    "summary": "Only a small share of people in Taos can hear its persistent low hum; instruments found nothing but a tunneling gopher.",
+    "categoryId": "mysteries",
+    "topic": "Taos Hum",
+    "tags": [
+      "taos hum",
+      "sound",
+      "new mexico"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "taos-hum-investigation-found-nothing",
+    "headline": "Mysterious Hums Haunt Cities Around the World",
+    "body": "Taos isn't alone. Low, maddening hums heard by only some residents have been reported in Bristol, England; Windsor, Canada; and towns across New Zealand, Scotland, and beyond, each with its own name. In a few cases, investigators traced the noise to industrial machinery or distant factories. But many 'hums' have no identified source at all. It may not be one phenomenon but dozens, scattered around the globe, all quietly driving a handful of people to distraction.",
+    "summary": "Unexplained low hums heard by only some people have been reported worldwide, from Bristol to Windsor to New Zealand.",
+    "categoryId": "mysteries",
+    "topic": "Taos Hum",
+    "tags": [
+      "taos hum",
+      "global",
+      "sound"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "taos-hum-worldwide-pattern",
+    "headline": "The Hum May Come From Inside Your Own Head",
+    "body": "One leading theory for these mysterious hums is unsettling: the sound may not be out in the world at all, but generated inside the listener. The human ear can produce faint noises of its own, and a sensitive auditory system, perhaps tuned to very low frequencies, might perceive a hum that no microphone can capture because it isn't really 'out there.' That would explain why one person hears a clear droning while everyone nearby hears silence.",
+    "summary": "A leading theory holds the mysterious hum may originate inside the listener's own ears or brain, not in the outside world.",
+    "categoryId": "mysteries",
+    "topic": "Taos Hum",
+    "tags": [
+      "taos hum",
+      "hearing",
+      "theories"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "wow-signal-1977-detection",
+    "headline": "The 'Wow! Signal' Was Named by a Note in the Margin",
+    "body": "In 1977, a radio telescope in Ohio scanning the skies for signs of alien life recorded an unusually strong, narrow burst of radio waves. When astronomer Jerry Ehman later reviewed the computer printout of numbers and letters, he was so startled by the spike that he circled it in red pen and scrawled a single word beside it: 'Wow!' That offhand note became the official name of one of the most tantalizing signals science has ever caught.",
+    "summary": "The 'Wow! Signal' got its name when astronomer Jerry Ehman circled the 1977 radio spike and wrote 'Wow!' in the margin.",
+    "categoryId": "mysteries",
+    "topic": "Wow! Signal",
+    "tags": [
+      "wow signal",
+      "seti",
+      "radio astronomy"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "wow-signal-never-repeated",
+    "headline": "The Wow! Signal Lasted 72 Seconds and Never Returned",
+    "body": "The Wow! Signal blazed for about 72 seconds, then vanished, and despite many attempts to listen again at the same spot in the sky, it has never reappeared. That's the heartbreak of it. In science, a single unrepeatable event is almost impossible to confirm or explain; you need it to happen again to study it. Nearly fifty years later, the most famous candidate signal from space remains a one-time wonder no one has ever managed to recapture.",
+    "summary": "The Wow! Signal lasted about 72 seconds and has never been detected again, making it impossible to confirm or explain.",
+    "categoryId": "mysteries",
+    "topic": "Wow! Signal",
+    "tags": [
+      "wow signal",
+      "seti",
+      "radio astronomy"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "wow-signal-natural-explanation",
+    "headline": "The Wow! Signal May Have a Natural Source After All",
+    "body": "For decades the Wow! Signal fueled hopes of alien contact, but recent research points somewhere less exciting. One study suggests it could have come from a rare natural event: a cloud of cold hydrogen gas in space, briefly energized by a passing source, flaring up in a process that could mimic an artificial signal. It doesn't fully close the case, but it's a reminder that the universe can fake a 'hello' without anyone actually sending one.",
+    "summary": "Recent research suggests the Wow! Signal may have come from a natural flare-up of a hydrogen gas cloud, not aliens.",
+    "categoryId": "mysteries",
+    "topic": "Wow! Signal",
+    "tags": [
+      "wow signal",
+      "hydrogen",
+      "astronomy"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
