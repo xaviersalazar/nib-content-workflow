@@ -26241,5 +26241,770 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "el-nino-trade-winds-weaken",
+    "headline": "Fishermen Named El Nino After the Christ Child",
+    "body": "The name El Nino, 'the boy,' refers to the Christ child, and it came from Peruvian fishermen. They noticed that in certain years a warm current appeared off the coast around Christmas. Normally, steady trade winds push warm water west and let cold, nutrient-rich water rise near South America, feeding huge schools of anchovies. When those winds weaken and the warm water sloshes back east, the cold upwelling shuts down and the fishery can collapse.",
+    "summary": "Peruvian fishermen named El Nino for the Christ child because the warm water arrives near Christmas.",
+    "categoryId": "weather",
+    "topic": "El Niño",
+    "tags": [
+      "el nino",
+      "trade winds",
+      "pacific ocean"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "el-nino-global-weather",
+    "headline": "One Patch of Warm Sea Can Flood Peru and Parch Australia at Once",
+    "body": "El Nino shows how connected the planet's weather is. When a band of the tropical Pacific warms up, the effects fan out across the globe at the same time. The same event can bring drenching floods to Peru, droughts and wildfires to Australia and Indonesia, milder winters to parts of North America, and even a quieter Atlantic hurricane season. A single shift in ocean temperature reaches around the world, tugging on rainfall and storms continents away.",
+    "summary": "A warm Pacific El Nino can flood Peru, parch Australia, and calm Atlantic hurricanes at once.",
+    "categoryId": "weather",
+    "topic": "El Niño",
+    "tags": [
+      "el nino",
+      "global weather",
+      "teleconnections"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "el-nino-irregular-cycle",
+    "headline": "El Nino Has a Cold Twin Named 'the Girl'",
+    "body": "El Nino, Spanish for 'the boy,' has an opposite phase called La Nina, 'the girl,' when the same patch of Pacific turns unusually cold. Together they swing back and forth every two to seven years, but never on a fixed schedule, so they cannot be treated like ordinary seasons. After the sun's yearly march, this irregular Pacific seesaw is the single biggest driver of how weather varies from one year to the next across much of the world.",
+    "summary": "El Nino's cold opposite, La Nina, completes a Pacific cycle that swings every 2-7 years.",
+    "categoryId": "weather",
+    "topic": "El Niño",
+    "tags": [
+      "el nino",
+      "la nina",
+      "enso"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "monsoons-seasonal-wind-shift",
+    "headline": "Whole Trade Empires Were Built on Monsoon Winds",
+    "body": "The word monsoon comes from the Arabic mausim, meaning season, and at heart a monsoon is a seasonal reversal of the wind, not just heavy rain. For centuries, sailors across the Indian Ocean learned its rhythm and rode it like a conveyor belt: the winds blew toward India for part of the year, then reversed to carry ships home. Entire trade networks in spices, cloth, and gold were timed to this breathing of the wind long before engines existed.",
+    "summary": "A monsoon is a seasonal wind reversal, and ancient sailors timed whole trade empires to it.",
+    "categoryId": "weather",
+    "topic": "Monsoons",
+    "tags": [
+      "monsoons",
+      "trade winds",
+      "indian ocean"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "monsoons-agriculture-lifeline",
+    "headline": "More Than a Billion People Live on the Monsoon's Schedule",
+    "body": "The Indian summer monsoon is one of the most important weather events on Earth. More than a billion people depend on its rains to fill wells, rivers, and reservoirs and to water crops like rice and tea. The entire economy effectively waits for it each year. When the monsoon arrives late or weak, harvests shrink, food prices climb, and the ripple can be felt in global markets for sugar, grain, and cotton. A season of wind and rain steadies a whole subcontinent.",
+    "summary": "Over a billion people depend on the Indian summer monsoon, and a weak one moves global food prices.",
+    "categoryId": "weather",
+    "topic": "Monsoons",
+    "tags": [
+      "monsoons",
+      "agriculture",
+      "india"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "monsoons-winter-can-be-dry",
+    "headline": "The Monsoon Makes the Wettest Places on Earth",
+    "body": "When the summer monsoon unloads, it can be staggering. The towns of Mawsynram and Cherrapunji in northeast India, where monsoon air is forced up against steep hills, trade the title of wettest place on Earth, soaking up roughly 11 to 12 meters of rain a year, dozens of feet of water. Yet the same monsoon system has a dry winter phase, with winds reversing to bring drought. One wind machine can deliver both the planet's heaviest rains and a parched dry season.",
+    "summary": "Forced up against hills, monsoon rains make Mawsynram and Cherrapunji the wettest places on Earth.",
+    "categoryId": "weather",
+    "topic": "Monsoons",
+    "tags": [
+      "monsoons",
+      "cherrapunji",
+      "rainfall"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hail-growing-ice",
+    "headline": "Cut a Hailstone Open and You'll See Tree-Like Rings",
+    "body": "A hailstone is a layered record of its journey. It begins as a tiny ice pellet, then gets caught in a storm's updraft and tossed up and down through the freezing heights. Each pass coats it in another layer of ice, so slicing one open reveals onion-like rings, much like a tree's growth rings. Big hailstones have ridden that elevator dozens of times. The more violent the storm's updraft, the more layers it can pile on before the stone finally falls.",
+    "summary": "Hailstones grow ringed layers by riding a storm's updraft up and down, refreezing each pass.",
+    "categoryId": "weather",
+    "topic": "Hail",
+    "tags": [
+      "hail",
+      "hailstones",
+      "updrafts"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hail-different-from-sleet",
+    "headline": "The Ice That Dents Your Car Falls on Hot Summer Days",
+    "body": "It seems backward, but the big, damaging ice is a warm-weather phenomenon. Hail forms inside towering summer thunderstorms, where violent updrafts are strong enough to hurl water high into freezing air and grow it into stones. Sleet, by contrast, is a quiet winter event, just raindrops freezing into tiny pellets as they fall through cold air. So the icy chunks that crack windshields come from hot afternoons, while winter's gentler pellets are something else entirely.",
+    "summary": "Damaging hail forms in hot summer thunderstorms, while sleet is a quiet winter event.",
+    "categoryId": "weather",
+    "topic": "Hail",
+    "tags": [
+      "hail",
+      "sleet",
+      "thunderstorms"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hail-minimum-size",
+    "headline": "Record Hailstones Are Bigger Than Softballs",
+    "body": "Hail can grow to startling sizes. The largest hailstone officially recorded in the United States fell in Vivian, South Dakota, in 2010, measuring about 20 centimeters across, bigger than a softball, and weighing nearly a kilogram. Stones like that plunge from storms at well over 100 miles per hour, fast enough to smash car windows, flatten crops, and dent roofs. It takes an extraordinarily powerful storm to hold a lump of ice that heavy in the sky long enough to grow.",
+    "summary": "The largest US hailstone, about 20 cm wide, fell in 2010 and weighed nearly a kilogram.",
+    "categoryId": "weather",
+    "topic": "Hail",
+    "tags": [
+      "hail",
+      "record hail",
+      "severe weather"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fog-air-saturation",
+    "headline": "The Foggiest Places Are Where Warm and Cold Water Meet",
+    "body": "Fog is simply a cloud sitting on the ground, and the foggiest spots on Earth tend to be at sea, where ocean currents collide. Off Newfoundland, the warm Gulf Stream runs into the cold Labrador Current, chilling the moist air until it condenses. The result, the Grand Banks, is blanketed in fog around 200 days a year. The same clash of warm and cold that shrouds those waters once made them treacherous for ships.",
+    "summary": "The foggiest places, like Newfoundland's Grand Banks, form where warm and cold ocean currents meet.",
+    "categoryId": "weather",
+    "topic": "Fog",
+    "tags": [
+      "fog",
+      "grand banks",
+      "ocean currents"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fog-many-types",
+    "headline": "Some Towns Harvest Drinking Water From Fog",
+    "body": "In dry coastal places where rain is scarce but fog rolls in, people have learned to drink the fog. Villages in Chile, Morocco, and elsewhere string up large mesh nets across hillsides. As fog drifts through, microscopic droplets snag on the mesh, trickle down, and collect in tanks, supplying thousands of liters of clean water a day. It is one of the few weather features that can be physically caught. A gray, soggy haze becomes a reservoir hanging in the air.",
+    "summary": "Mesh nets in dry regions catch drifting fog droplets, harvesting drinking water from the air.",
+    "categoryId": "weather",
+    "topic": "Fog",
+    "tags": [
+      "fog",
+      "fog catchers",
+      "water harvesting"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fog-radiation-cooling",
+    "headline": "London's Killer Fog of 1952 Took Thousands of Lives",
+    "body": "Fog usually just blurs the view, but it can turn deadly when it traps pollution. In December 1952, a cold, still fog settled over London and held the smoke from countless coal fires close to the ground. For days the city was swallowed by a thick, yellow-black 'pea souper' so dense people could not see their own feet. This Great Smog is now blamed for around 12,000 deaths and helped spark the first modern clean-air laws.",
+    "summary": "London's 1952 Great Smog trapped coal smoke and is blamed for roughly 12,000 deaths.",
+    "categoryId": "weather",
+    "topic": "Fog",
+    "tags": [
+      "fog",
+      "great smog",
+      "air pollution"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "rainbows-water-droplet-prism",
+    "headline": "Rainbows Can Glow at Night by Moonlight",
+    "body": "Rainbows do not need the sun. On a bright night, light from a full moon can pass through raindrops or mist and create a 'moonbow.' Because moonlight is so much dimmer, our eyes can barely register the color, so moonbows usually look like ghostly white or silver arcs. There are even double rainbows, where a second, fainter bow appears outside the first, with its band of colors running in the opposite order. Light bends in stranger ways than the classic rainbow suggests.",
+    "summary": "Faint 'moonbows' form at night from moonlight, and a double rainbow's second arc runs in reverse.",
+    "categoryId": "weather",
+    "topic": "Rainbows",
+    "tags": [
+      "rainbows",
+      "moonbow",
+      "double rainbow"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "rainbows-viewer-position",
+    "headline": "You Can Never Reach the End of a Rainbow",
+    "body": "A rainbow is not an object sitting in a fixed place; it is a trick of light aimed precisely at your eyes. It appears only where sunlight, raindrops, and your exact viewpoint line up, which means no two people ever see quite the same rainbow, and even your two eyes see slightly different ones. Chase it and it retreats, because it moves with you. That is why no one ever reaches the rainbow's end, or the pot of gold supposedly waiting there.",
+    "summary": "A rainbow is aimed at your eyes alone and moves as you do, so its end can never be reached.",
+    "categoryId": "weather",
+    "topic": "Rainbows",
+    "tags": [
+      "rainbows",
+      "perception",
+      "light"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "rainbows-full-circle",
+    "headline": "From an Airplane, a Rainbow Becomes a Full Circle",
+    "body": "On the ground we only ever see part of a rainbow, the familiar arc, because the horizon cuts off the rest. But a rainbow is actually a complete circle of light. The bottom half is hidden below your line of sight, lurking beneath the horizon. Climb high enough, in a plane or on a tall mountain, and with the sun behind you the whole ring can appear, a perfect circle of color with the aircraft's shadow sometimes sitting right in the middle.",
+    "summary": "A rainbow is a full circle; the horizon hides its lower half, but from a plane you can see the ring.",
+    "categoryId": "weather",
+    "topic": "Rainbows",
+    "tags": [
+      "rainbows",
+      "full circle",
+      "optics"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aurora-charged-particles",
+    "headline": "A Solar Storm Once Made Telegraphs Spark and Skies Glow at the Equator",
+    "body": "In 1859, the most powerful solar storm ever recorded slammed into Earth. The event, now called the Carrington Event, lit up auroras so far from the poles that people saw them near the Caribbean, and miners in the Rockies woke up thinking it was dawn. Telegraph systems went haywire, throwing sparks and shocking operators. Some lines kept working even after operators disconnected the batteries, running on the electric charge in the air itself.",
+    "summary": "The 1859 Carrington solar storm made auroras glow near the equator and telegraph wires spark.",
+    "categoryId": "weather",
+    "topic": "Aurora",
+    "tags": [
+      "aurora",
+      "carrington event",
+      "solar storm"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aurora-polar-ovals",
+    "headline": "Every Northern Aurora Has a Secret Twin in the South",
+    "body": "The northern lights have a near-perfect mirror image. Earth's magnetic field funnels particles toward both poles at once, so when an aurora shimmers in the north, a matching one, the aurora australis, often glows over Antarctica at the very same moment, sometimes in almost identical shapes. The lights are not scattered randomly. They trace invisible magnetic architecture, and the same physics paints glowing rings around the poles of Jupiter, Saturn, and even Mars.",
+    "summary": "Auroras appear at both poles at once as near-mirror images, and on other planets too.",
+    "categoryId": "weather",
+    "topic": "Aurora",
+    "tags": [
+      "aurora",
+      "aurora australis",
+      "magnetic field"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "aurora-other-planets",
+    "headline": "The Aurora's Colors Are a Map of Which Gas Is Glowing",
+    "body": "An aurora's color is essentially a chemical fingerprint of the sky. As particles from space strike the upper atmosphere, oxygen glows green, or deep red when it is higher up, while nitrogen adds blues and purples. The altitude and the gas decide the hue. Rare, all-red auroras hang so high they were once mistaken for distant fires, and people across history read these blood-colored skies as omens of war or disaster.",
+    "summary": "Aurora colors reveal which gas is glowing: oxygen green or red, nitrogen blue or purple.",
+    "categoryId": "weather",
+    "topic": "Aurora",
+    "tags": [
+      "aurora",
+      "colors",
+      "oxygen"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "seasons-earth-tilt",
+    "headline": "Earth Is Closest to the Sun in the Dead of Northern Winter",
+    "body": "Many people assume winter comes when Earth drifts farther from the sun, but it is the opposite. Earth actually reaches its closest point to the sun in early January, in the depths of Northern Hemisphere winter. Seasons have almost nothing to do with distance. They come from the tilt of Earth's axis, which leans one hemisphere toward the sun and the other away. The lean, not the gap, is what brings summer's heat and winter's chill.",
+    "summary": "Earth is closest to the sun in early January; seasons come from axial tilt, not distance.",
+    "categoryId": "weather",
+    "topic": "Seasons",
+    "tags": [
+      "seasons",
+      "axial tilt",
+      "perihelion"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "seasons-hemisphere-opposites",
+    "headline": "In Australia, Christmas Is a Summer Beach Holiday",
+    "body": "Because Earth is tilted, the two halves of the planet run on opposite seasonal calendars at the same time. While the Northern Hemisphere bundles up for a December winter, Australians celebrate Christmas in the middle of summer, firing up beach barbecues and going for a swim. Six months later it all flips. And near the equator, where the tilt barely changes the sunlight, there are hardly any traditional seasons at all, just alternating wet and dry times.",
+    "summary": "Earth's tilt gives the hemispheres opposite seasons, so Australians get a summer Christmas.",
+    "categoryId": "weather",
+    "topic": "Seasons",
+    "tags": [
+      "seasons",
+      "hemispheres",
+      "christmas"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "seasons-sunlight-angle",
+    "headline": "Near the Poles, the Sun Doesn't Set for Months",
+    "body": "The same axial tilt that makes seasons creates an even stranger effect at the ends of the Earth. Above the Arctic Circle and below the Antarctic one, summer brings the 'midnight sun,' weeks or months when the sun never fully sets and shines at midnight. Then winter pays it back with an equally long polar night of near-total darkness. The far north and south do not really have ordinary days and nights in those seasons, but one very long day and one very long night.",
+    "summary": "Earth's tilt gives polar regions months of nonstop 'midnight sun' summer, then months of darkness.",
+    "categoryId": "weather",
+    "topic": "Seasons",
+    "tags": [
+      "seasons",
+      "midnight sun",
+      "polar regions"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "climate-long-term-pattern",
+    "headline": "London Once Held Winter Fairs on the Frozen Thames",
+    "body": "Climate shifts can be felt within human history. From roughly the 1300s to the 1800s, a cooler stretch called the Little Ice Age chilled much of the world. Winters in Europe turned so harsh that the River Thames in London froze thick enough to walk on. Londoners threw 'Frost Fairs' right on the ice, with market stalls, games, and even an elephant once led across the river. Climate is weather with a long memory, and that memory can be cold.",
+    "summary": "During the Little Ice Age, the Thames froze so hard London held 'Frost Fairs' on the ice.",
+    "categoryId": "weather",
+    "topic": "Climate",
+    "tags": [
+      "climate",
+      "little ice age",
+      "frost fairs"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "climate-solar-energy-budget",
+    "headline": "Ice Ages Come and Go With a Wobble in Earth's Orbit",
+    "body": "Earth's climate begins with sunlight, but exactly how much reaches us slowly changes. Over tens of thousands of years, the shape of Earth's orbit, the angle of its tilt, and the wobble of its axis all drift in slow cycles. These tiny shifts, named for the scientist Milankovitch, subtly alter how sunlight is shared across the planet, and that has been enough to pace the great ice ages. We currently live in a mild warm gap between them.",
+    "summary": "Slow cycles in Earth's orbit and tilt change incoming sunlight enough to pace the ice ages.",
+    "categoryId": "weather",
+    "topic": "Climate",
+    "tags": [
+      "climate",
+      "milankovitch cycles",
+      "ice ages"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "climate-humidity-precipitation",
+    "headline": "Earth Has Been a Frozen Snowball and a Crocodile Arctic",
+    "body": "Climate is not fixed; over deep time it has swung to wild extremes. Hundreds of millions of years ago, Earth may have frozen almost from pole to pole in a state scientists call Snowball Earth, with ice reaching the tropics. At other times the planet ran so hot that the Arctic was a warm swamp where crocodile relatives and palm-like plants thrived. The familiar climate we live in is just one comfortable setting on a dial that has spun very far both ways.",
+    "summary": "Earth's climate has ranged from a near-frozen 'Snowball' to a tropical, crocodile-filled Arctic.",
+    "categoryId": "weather",
+    "topic": "Climate",
+    "tags": [
+      "climate",
+      "snowball earth",
+      "deep time"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "thunder-lightning-sound",
+    "headline": "Thunder Is the Sound of Air Being Blown Apart",
+    "body": "Thunder is essentially a shockwave. When lightning rips through the sky, it heats the narrow channel of air around it almost instantly to several times hotter than the surface of the sun. That air explodes outward so violently that it slams into the surrounding atmosphere and creates a booming pressure wave, the thunder we hear. So the rumble is not the lightning itself but the sound of air being blasted apart and rushing back, a miniature explosion stretched across the sky.",
+    "summary": "Thunder is the shockwave from air violently exploding outward as lightning superheats it.",
+    "categoryId": "weather",
+    "topic": "Thunder",
+    "tags": [
+      "thunder",
+      "shockwave",
+      "lightning"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "thunder-distance-delay",
+    "headline": "Count From Flash to Bang to Measure a Storm",
+    "body": "Light travels almost instantly, but sound crawls along at roughly a kilometer every three seconds, so the gap between a lightning flash and its thunder reveals how far away the strike was. Count the seconds between flash and boom and divide by five for the distance in miles, or three for kilometers. If the thunder cracks the instant you see the flash, with no gap at all, the lightning is essentially right on top of you, and it is time to take cover.",
+    "summary": "The delay between a lightning flash and its thunder reveals the strike's distance, about 5 seconds per mile.",
+    "categoryId": "weather",
+    "topic": "Thunder",
+    "tags": [
+      "thunder",
+      "storm safety",
+      "lightning distance"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "thunder-rumble-path",
+    "headline": "'Heat Lightning' Is Just a Storm Too Far Away to Hear",
+    "body": "On warm summer nights you might see lightning flicker on the horizon with no thunder, often called 'heat lightning,' as if the heat itself made it. It is a myth. There is no special silent lightning; it is simply an ordinary thunderstorm so far away, often more than 15 kilometers, that its thunder never reaches you. Sound bends upward and fades over distance, so the flashes arrive while the booms do not. The storm is real; you are just out of earshot.",
+    "summary": "'Heat lightning' is a myth: it is ordinary lightning from a storm too distant for its thunder to be heard.",
+    "categoryId": "weather",
+    "topic": "Thunder",
+    "tags": [
+      "thunder",
+      "heat lightning",
+      "sound"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "snow-deposition",
+    "headline": "Snow Isn't Actually White",
+    "body": "Snow looks brilliant white, but the ice it is made of is clear, not white at all. A snowflake is a cluster of transparent ice crystals with countless tiny faces. When light hits that jumble of surfaces, it bounces around and scatters in every direction equally, reflecting all colors back at once, which our eyes read as white, the same way crushed clear glass looks white. Pack snow deep enough and it can even glow faint blue, like glacier ice.",
+    "summary": "Snow looks white only because its clear ice crystals scatter all light; deep snow can even look blue.",
+    "categoryId": "weather",
+    "topic": "Snow",
+    "tags": [
+      "snow",
+      "light scattering",
+      "ice crystals"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "snowflakes-aggregates",
+    "headline": "It Can Be Too Cold to Snow, and Snow Can Turn Pink",
+    "body": "Snow holds a couple of surprises. It can genuinely be 'too cold to snow,' because frigid air holds very little moisture, so the heaviest snowfalls usually come when it is only moderately cold, not in the deepest freeze. And snow is not always white: in mountains and polar regions, blooms of a cold-loving algae can tint old snow a vivid pink, nicknamed 'watermelon snow' for its color and faintly sweet smell. Even winter's blank canvas can come in unexpected forms.",
+    "summary": "Very cold air is too dry for heavy snow, and algae can turn mountain snow pink 'watermelon snow.'",
+    "categoryId": "weather",
+    "topic": "Snow",
+    "tags": [
+      "snow",
+      "watermelon snow",
+      "weather"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "snow-to-ice",
+    "headline": "A Man Spent His Life Proving No Two Snowflakes Match",
+    "body": "In the 1880s, a Vermont farmer named Wilson Bentley figured out how to photograph single snowflakes through a microscope, and he became obsessed. Over decades he captured more than 5,000 images, earning the nickname 'Snowflake Bentley' and popularizing the idea that no two snowflakes are exactly alike. The claim holds up: a snowflake is built from so many water molecules arranged so many ways that the odds of two identical complex flakes are essentially zero.",
+    "summary": "Wilson 'Snowflake' Bentley photographed over 5,000 snowflakes to show no two are alike.",
+    "categoryId": "weather",
+    "topic": "Snow",
+    "tags": [
+      "snow",
+      "wilson bentley",
+      "snowflakes"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "clouds-condensation",
+    "headline": "Every Cloud Droplet Forms on a Speck of Something",
+    "body": "Water vapor cannot simply become a cloud on its own. Each tiny droplet needs a microscopic particle to condense around, called a condensation nucleus. Floating dust, sea salt, smoke, pollen, and even living bacteria all serve as these seeds. So the cloud drifting overhead is really water clinging to countless specks of debris carried up into the sky. Without that fine dust, the air could grow soggy with vapor and still refuse to form a cloud.",
+    "summary": "Cloud droplets can only form by condensing onto tiny floating specks like dust, salt, or bacteria.",
+    "categoryId": "weather",
+    "topic": "Clouds",
+    "tags": [
+      "clouds",
+      "condensation nuclei",
+      "dust"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "clouds-classified-by-height",
+    "headline": "An Amateur Forecaster Gave Clouds Their Latin Names",
+    "body": "For most of history, clouds were just shapeless 'stuff' in the sky, too fleeting to name. Then in 1802 an amateur English meteorologist named Luke Howard proposed a simple Latin system: cirrus for wispy curls, cumulus for heaps, stratus for layers, and nimbus for rain. It worked so well it is still used today, and we read a cloud's height and shape from its name. The poet Goethe was so taken with the idea he wrote verses praising Howard.",
+    "summary": "An amateur, Luke Howard, named the clouds in Latin in 1802, a system still used today.",
+    "categoryId": "weather",
+    "topic": "Clouds",
+    "tags": [
+      "clouds",
+      "luke howard",
+      "cloud types"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "clouds-cumulonimbus-storms",
+    "headline": "Storm Clouds Can Grow Taller Than Mount Everest",
+    "body": "The towering cloud behind a thunderstorm, the cumulonimbus, is one of the biggest structures in the sky. Fed by powerful rising air, it can build upward until its top is higher than Mount Everest, sometimes punching into the calm stratosphere above. When it hits that ceiling, it spreads sideways into the flat 'anvil' shape that warns of severe weather. A storm cloud is essentially a mountain of churning air, lightning, and ice taller than any peak on Earth.",
+    "summary": "Cumulonimbus storm clouds can tower higher than Everest and punch into the stratosphere.",
+    "categoryId": "weather",
+    "topic": "Clouds",
+    "tags": [
+      "clouds",
+      "cumulonimbus",
+      "thunderstorms"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "atmosphere-layered",
+    "headline": "There's a Layer of Air That Is 2,000 Degrees but Feels Freezing",
+    "body": "The atmosphere is stacked in layers, and one of them breaks your intuition. High up in the thermosphere, individual air molecules can reach temperatures around 2,000 degrees Celsius. Yet an astronaut floating there would feel freezing cold. The reason is that the air is so thin that there are almost no molecules to actually transfer that heat to your body. Temperature measures how fast molecules move, but warmth depends on how many of them hit you.",
+    "summary": "In the thermosphere air molecules can hit 2,000C, yet it would feel freezing because the air is so thin.",
+    "categoryId": "weather",
+    "topic": "Atmosphere",
+    "tags": [
+      "atmosphere",
+      "thermosphere",
+      "temperature"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "atmosphere-weather-engine",
+    "headline": "All of Earth's Weather Fits in a Layer Thinner Than Apple Skin",
+    "body": "Almost everything we call weather, the clouds, rain, storms, and wind, happens in the troposphere, the thin bottom layer of the atmosphere. About 99 percent of all the air's mass is packed into the lowest stretch above the ground. Compared with the size of the planet, that breathable, weather-making shell is proportionally thinner than the skin of an apple. Jet airliners climb just above it, into the calm stratosphere, to fly over most of the turbulence.",
+    "summary": "Nearly all weather is crammed into a shell of air proportionally thinner than an apple's skin.",
+    "categoryId": "weather",
+    "topic": "Atmosphere",
+    "tags": [
+      "atmosphere",
+      "troposphere",
+      "weather"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "atmosphere-circulation-deflection",
+    "headline": "Earth's Spin Is Why Deserts Ring the Globe",
+    "body": "Because the planet rotates, moving air never travels in a straight line. The spin nudges winds sideways, an effect that organizes the whole atmosphere into tidy belts: the trade winds, the calm doldrums near the equator, and the prevailing westerlies. That same machinery is why so many of the world's great deserts, like the Sahara, sit in a band around 30 degrees latitude, where the circulating air sinks and dries the land below. Weather patterns are partly the geometry of a turning world.",
+    "summary": "Earth's rotation organizes winds into global belts, even setting where deserts form.",
+    "categoryId": "weather",
+    "topic": "Atmosphere",
+    "tags": [
+      "atmosphere",
+      "coriolis",
+      "wind belts"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "lightning-charge-discharge",
+    "headline": "One Lake Has Lightning Almost Every Night",
+    "body": "Lightning strikes Earth millions of times a day, but one place hoards it. Where Venezuela's Catatumbo River meets Lake Maracaibo, a perfect mix of warm lake air and surrounding mountains breeds storms that flash on roughly 300 nights a year, sometimes for hours on end. The display is so reliable that sailors once used it as a natural beacon, calling it the 'Lighthouse of Maracaibo.' It is one of the most lightning-saturated spots on the planet.",
+    "summary": "Lake Maracaibo in Venezuela has lightning about 300 nights a year, once used as a navigation beacon.",
+    "categoryId": "weather",
+    "topic": "Lightning",
+    "tags": [
+      "lightning",
+      "catatumbo",
+      "venezuela"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "lightning-heats-air",
+    "headline": "Lightning Fuses Sand Into Glass, and One Man Survived Seven Strikes",
+    "body": "Lightning is so blisteringly hot that when it hits sandy ground it can melt the sand and fuse it into hollow glass tubes called fulgurites, a kind of fossilized lightning bolt. The bolts are wildly unpredictable, too. A US park ranger named Roy Sullivan was struck by lightning seven separate times over his life and survived them all, earning a spot in the record books. Lightning is far stranger and more dangerous than a simple flash in the sky.",
+    "summary": "Lightning can fuse sand into glass tubes called fulgurites, and one ranger survived seven strikes.",
+    "categoryId": "weather",
+    "topic": "Lightning",
+    "tags": [
+      "lightning",
+      "fulgurites",
+      "roy sullivan"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "lightning-rods-protection",
+    "headline": "Lightning Really Does Strike the Same Place Twice",
+    "body": "The old saying is wrong: lightning loves a repeat target. Tall, pointed, well-grounded objects get hit again and again, which is exactly the idea behind Benjamin Franklin's lightning rod. A rod does not stop or attract storms; it simply offers electricity an easy, safe path to the ground, sparing the building. The Empire State Building, far from being struck only once, is hit around 25 times every year, proof that the right spot draws lightning over and over.",
+    "summary": "Lightning strikes tall targets repeatedly; the Empire State Building is hit about 25 times a year.",
+    "categoryId": "weather",
+    "topic": "Lightning",
+    "tags": [
+      "lightning",
+      "lightning rods",
+      "benjamin franklin"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hurricanes-tropical-cyclones",
+    "headline": "A Single Hurricane Out-Powers Every Power Plant on Earth",
+    "body": "A hurricane is a tropical cyclone, a rotating storm fed by warm ocean water, and the energy it wields is almost unimaginable. As all that moist air rises and its water vapor condenses into rain, it releases enormous amounts of heat. The total energy a mature hurricane unleashes each day dwarfs the output of every power plant on the planet combined, many times over. The same storm goes by typhoon or cyclone elsewhere, but the engine is the same warm sea.",
+    "summary": "A mature hurricane releases far more energy each day than all the world's power plants combined.",
+    "categoryId": "weather",
+    "topic": "Hurricanes",
+    "tags": [
+      "hurricanes",
+      "tropical cyclones",
+      "energy"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hurricanes-eye-eyewall-rainbands",
+    "headline": "Inside a Hurricane's Eye, the Sky Turns Calm and Blue",
+    "body": "A hurricane is built around a startling pocket of calm. At its center, the eye can be eerily peaceful, with light winds and even clear blue sky overhead, while the eyewall just around it holds the storm's most violent winds and rain. The contrast is so sharp that birds caught in the eye sometimes ride along inside it, trapped by the wall of fury surrounding them, traveling hundreds of miles with the storm before it weakens.",
+    "summary": "A hurricane's eye can be calm with blue sky, ringed by the violent eyewall, even trapping birds.",
+    "categoryId": "weather",
+    "topic": "Hurricanes",
+    "tags": [
+      "hurricanes",
+      "eye",
+      "eyewall"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hurricanes-storm-surge",
+    "headline": "A Hurricane's Surge Caused America's Deadliest Disaster",
+    "body": "When people picture hurricane damage they think of wind, but water does most of the killing. Storm surge, the dome of seawater that hurricane winds shove ashore, can drown low coastlines in minutes. In 1900, a hurricane sent a surge over the flat island city of Galveston, Texas, killing an estimated 8,000 people. It remains the deadliest natural disaster in United States history. Across the world, surge, not wind, is responsible for the majority of hurricane deaths.",
+    "summary": "Storm surge from the 1900 Galveston hurricane killed about 8,000, the deadliest US disaster.",
+    "categoryId": "weather",
+    "topic": "Hurricanes",
+    "tags": [
+      "hurricanes",
+      "storm surge",
+      "galveston"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tornado-rotating-column",
+    "headline": "Most of the World's Tornadoes Hit One Country",
+    "body": "Tornadoes can form on most continents, but one country dominates: the United States sees around 1,200 a year, roughly three-quarters of the global total. The reason is geography. The flat, open center of the continent lets cold, dry air sweeping down from Canada crash directly into warm, humid air streaming up from the Gulf of Mexico. That violent clash spawns the rotating storms of 'Tornado Alley.' Few other places on Earth line up the ingredients so perfectly.",
+    "summary": "The US gets about 75% of the world's tornadoes because cold Canadian and warm Gulf air collide.",
+    "categoryId": "weather",
+    "topic": "Tornadoes",
+    "tags": [
+      "tornadoes",
+      "tornado alley",
+      "severe weather"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tornadoes-mesocyclone",
+    "headline": "Storms Have Literally Rained Fish and Frogs",
+    "body": "Tornadoes form from rotating thunderstorms, and their cousins over water, waterspouts, can do something bizarre. A strong waterspout or tornado can suck small animals like fish and frogs up out of a pond or shallow sea, carry them inside the storm, and drop them miles away. Towns across history have reported sudden downpours of wriggling fish or frogs from the sky. The strange 'rains of animals' that sound like myth are really a violent quirk of spinning storms.",
+    "summary": "Waterspouts and tornadoes can suck up fish and frogs and rain them down on towns miles away.",
+    "categoryId": "weather",
+    "topic": "Tornadoes",
+    "tags": [
+      "tornadoes",
+      "waterspouts",
+      "rain of animals"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tornadoes-ef-scale",
+    "headline": "The Worst Tornadoes Can Drive Straw Into Wood",
+    "body": "The strongest tornadoes, rated EF5, pack winds that can top 300 miles per hour, among the fastest on Earth's surface. Such winds can rip the asphalt off roads, hurl cars like toys, and have been found driving pieces of straw deep into solid wood. Because almost no instrument can survive inside a violent tornado, forecasters usually rate them backward, by studying the damage they leave behind on the Enhanced Fujita scale, rather than measuring the wind directly.",
+    "summary": "EF5 tornado winds top 300 mph, strong enough to drive straw into wood; intensity is rated by damage.",
+    "categoryId": "weather",
+    "topic": "Tornadoes",
+    "tags": [
+      "tornadoes",
+      "ef scale",
+      "wind speed"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
