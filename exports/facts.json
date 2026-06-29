@@ -25476,5 +25476,770 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "coral-islands-built-from-skeletons",
+    "headline": "Much of That White Sand Is Parrotfish Poop",
+    "body": "The dazzling white sand on a tropical coral island has a surprising source. Parrotfish spend their days biting and crunching coral to eat the algae inside, grinding the rock-hard skeleton with teeth in their throats. What comes out the other end is fine white sand. A single large parrotfish can produce hundreds of pounds of it a year. Stretches of postcard-perfect beach are, quite literally, fish droppings piled up over time.",
+    "summary": "Much of a coral island's white sand is ground-up coral excreted by parrotfish.",
+    "categoryId": "geography",
+    "topic": "Coral Islands",
+    "tags": [
+      "coral islands",
+      "parrotfish",
+      "beaches"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coral-islands-low-lying",
+    "headline": "The Lowest-Lying Country Peaks at About a Tabletop's Height",
+    "body": "Coral islands sit barely above the waves, and entire nations are built on them. The Maldives, a country of around 1,200 coral islands, is the lowest-lying nation on Earth: its highest natural point reaches only about 2.4 meters, roughly the height of a doorway. Most of the land is less than a meter above the sea. A strong storm surge can wash clear across an island. These are countries living right at the ocean's doorstep.",
+    "summary": "The Maldives is the lowest country on Earth, peaking at only about 2.4 meters.",
+    "categoryId": "geography",
+    "topic": "Coral Islands",
+    "tags": [
+      "coral islands",
+      "maldives",
+      "sea level"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "coral-islands-two-formation-paths",
+    "headline": "Darwin Figured Out Ring-Shaped Islands Before Anyone Could Drill",
+    "body": "Charles Darwin solved a puzzle that had baffled sailors: why do some coral islands form perfect rings around an empty lagoon, far from any land? His answer was that a volcanic island slowly sinks while coral keeps growing upward to stay in the sunlight. Eventually the volcano vanishes beneath the sea, leaving only a ring of coral, an atoll. He proposed it in the 1830s, and deep drilling confirmed it more than a century later.",
+    "summary": "Darwin explained ring-shaped atolls as coral growing up as a volcano sinks beneath it.",
+    "categoryId": "geography",
+    "topic": "Coral Islands",
+    "tags": [
+      "coral islands",
+      "atolls",
+      "charles darwin"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "deserts-defined-by-dryness",
+    "headline": "The Largest Desert on Earth Is Frozen",
+    "body": "A desert is defined by dryness, not heat or sand, and that has a startling consequence: the biggest desert on the planet is Antarctica. It receives almost no precipitation, making it a vast cold desert. Some of its Dry Valleys are so arid they have not seen rain or snow in roughly two million years, kept ice-free by fierce dry winds. The driest places on Earth are not full of dunes. They are buried in ice.",
+    "summary": "Antarctica is the world's largest desert, and its Dry Valleys may not have seen rain in 2 million years.",
+    "categoryId": "geography",
+    "topic": "Deserts",
+    "tags": [
+      "deserts",
+      "antarctica",
+      "dry valleys"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "deserts-have-specialized-life",
+    "headline": "Some Desert Spots Have Never Recorded a Drop of Rain",
+    "body": "Deserts can be so dry that life clings on by extraordinary tricks, and Chile's Atacama is the extreme. Parts of it are the driest non-polar place on Earth, with weather stations that have never recorded a single drop of rain. The ground is so Mars-like that scientists test rover instruments there. Yet specialized microbes still survive inside rocks and on coastal fog. Life hangs on even where rain essentially never comes.",
+    "summary": "Parts of the Atacama Desert have never recorded rainfall, yet microbes still survive there.",
+    "categoryId": "geography",
+    "topic": "Deserts",
+    "tags": [
+      "deserts",
+      "atacama",
+      "adaptation"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "deserts-surfaces-tell-stories",
+    "headline": "Saharan Dust Secretly Fertilizes the Amazon",
+    "body": "A desert in Africa helps feed a rainforest across an ocean. Each year, winds lift hundreds of millions of tons of dust off the Sahara and carry it thousands of miles over the Atlantic. That dust is rich in phosphorus, a nutrient rainforest soils badly lack. When it settles over the Amazon, it acts like fertilizer, helping sustain the forest. The world's largest hot desert and its largest rainforest are quietly linked by the wind.",
+    "summary": "Wind-blown Saharan dust crosses the Atlantic and fertilizes the Amazon rainforest with phosphorus.",
+    "categoryId": "geography",
+    "topic": "Deserts",
+    "tags": [
+      "deserts",
+      "sahara",
+      "amazon"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "glaciers-snow-becomes-ice",
+    "headline": "Most of Earth's Fresh Water Is Locked in Ice",
+    "body": "Glaciers begin as snow that never fully melts, building up year after year until it compresses into ice, and the totals are staggering. Glaciers and ice sheets hold roughly two-thirds of all the fresh water on Earth, far more than every river and lake combined. Antarctica's ice sheet alone is up to about four kilometers thick, so heavy it presses the bedrock beneath it down below sea level. Most of the planet's drinkable water is simply frozen and waiting.",
+    "summary": "Glaciers and ice sheets store about two-thirds of Earth's fresh water.",
+    "categoryId": "geography",
+    "topic": "Glaciers",
+    "tags": [
+      "glaciers",
+      "fresh water",
+      "ice sheets"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "glaciers-flow-slowly",
+    "headline": "Glacier Ice Glows Blue Because It Is So Crushed",
+    "body": "Glaciers flow like rivers in slow motion, creeping downhill under their own weight and grinding the land as they go. Up close, dense glacier ice often glows an eerie blue. The reason is pressure: years of snow squeeze out nearly all the air, packing the ice so tightly that it absorbs the red part of sunlight and reflects back blue. Ordinary ice looks white because of trapped air. Crush that air out and the ice turns the color of deep water.",
+    "summary": "Tightly compressed glacier ice glows blue because it absorbs red light and reflects blue.",
+    "categoryId": "geography",
+    "topic": "Glaciers",
+    "tags": [
+      "glaciers",
+      "glacier flow",
+      "blue ice"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "glaciers-climate-archives",
+    "headline": "Deep Ice Holds Breathable Air Hundreds of Thousands of Years Old",
+    "body": "As snow piles up and compresses into glacier ice, it traps tiny bubbles of air, sealing samples of the ancient atmosphere. By drilling deep ice cores, scientists can pull up bubbles holding air from up to about 800,000 years ago and measure exactly what the sky was made of back then. It is the closest thing we have to bottling the past. Each layer of ancient ice is a frozen breath of a world long gone.",
+    "summary": "Deep ice cores trap air bubbles up to 800,000 years old, preserving samples of the ancient atmosphere.",
+    "categoryId": "geography",
+    "topic": "Glaciers",
+    "tags": [
+      "glaciers",
+      "ice cores",
+      "climate"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "islands-surrounded-by-water",
+    "headline": "The 'Largest Island' Is a Third the Size of Australia",
+    "body": "Where an island ends and a continent begins is partly a judgment call. By area, Australia would be the biggest island on Earth, but geographers classify it as a continent instead. That technicality hands the title of world's largest island to Greenland, even though Greenland is roughly three times smaller than Australia. The line between island and continent is not just about being surrounded by water. It comes down to where we decide to draw it.",
+    "summary": "Australia is classed as a continent, so Greenland takes 'largest island' at a third its size.",
+    "categoryId": "geography",
+    "topic": "Islands",
+    "tags": [
+      "islands",
+      "greenland",
+      "continents"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "islands-form-many-ways",
+    "headline": "Scientists Watched a Brand-New Island Rise From the Sea",
+    "body": "Islands form in many ways, and sometimes people get to watch it happen. In 1963, a volcano erupted off the coast of Iceland and pushed a brand-new island, Surtsey, up out of the ocean. Rather than develop it, scientists sealed it off as a natural laboratory. They have spent decades watching seeds, insects, and birds arrive on their own and slowly bring the bare rock to life. A fresh piece of land became a front-row seat to how life colonizes nothing.",
+    "summary": "Surtsey rose from the sea off Iceland in 1963 and became a lab for watching life arrive.",
+    "categoryId": "geography",
+    "topic": "Islands",
+    "tags": [
+      "islands",
+      "surtsey",
+      "volcanic islands"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "islands-isolation-shapes-life",
+    "headline": "Islands Shrink Elephants and Supersize Rodents",
+    "body": "Cut off by water, island animals often evolve in strange directions, a pattern so common biologists call it the island rule. With limited food, big animals tend to shrink: islands have produced elephants no taller than a person and miniature hippos. Meanwhile small animals, freed from many predators, can balloon: islands have grown rats the size of small dogs and giant flightless birds. The same isolation that dwarfs giants can turn the tiny into giants.",
+    "summary": "On isolated islands, large animals often shrink to dwarfs while small animals grow into giants.",
+    "categoryId": "geography",
+    "topic": "Islands",
+    "tags": [
+      "islands",
+      "island rule",
+      "evolution"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "lakes-basins-hold-water",
+    "headline": "One Lake Holds a Fifth of Earth's Fresh Water",
+    "body": "Every lake starts with a basin to hold water, and Siberia's Lake Baikal sits in one of the deepest on the planet. A scar from the crust slowly pulling apart, Baikal plunges over 1,600 meters down and is around 25 million years old, the deepest and oldest lake on Earth. It holds roughly a fifth of all the world's unfrozen fresh water, more than all five of North America's Great Lakes put together, sealed inside a single ancient rift.",
+    "summary": "Lake Baikal, the world's deepest and oldest, holds about a fifth of Earth's unfrozen fresh water.",
+    "categoryId": "geography",
+    "topic": "Lakes",
+    "tags": [
+      "lakes",
+      "lake baikal",
+      "fresh water"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "lakes-can-mix-vertically",
+    "headline": "A Lake Once Belched a Cloud of Gas That Killed Thousands",
+    "body": "Lakes can mix and overturn, and in rare cases that hidden behavior turns deadly. Some deep lakes quietly store huge amounts of carbon dioxide in their depths. In 1986, Cameroon's Lake Nyos suddenly released an enormous cloud of CO2 in a single night. Heavier than air, the invisible gas rolled down the valleys and suffocated around 1,700 people and countless animals as they slept. A calm, pretty lake had been a hidden bomb of dissolved gas.",
+    "summary": "In 1986, Lake Nyos in Cameroon released a CO2 cloud that suffocated about 1,700 people overnight.",
+    "categoryId": "geography",
+    "topic": "Lakes",
+    "tags": [
+      "lakes",
+      "lake nyos",
+      "limnic eruption"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "lakes-not-all-fresh",
+    "headline": "In the Dead Sea You Float Without Trying",
+    "body": "Some lakes are saltier than the ocean because water evaporates and leaves the minerals behind. The Dead Sea is about ten times saltier than seawater, so dense that swimmers bob on the surface and can lie back and read a book without sinking. It is also the lowest dry land on Earth, its shore more than 430 meters below sea level and dropping. Almost nothing lives in it, which is exactly how it got its grim name.",
+    "summary": "The Dead Sea is so salty people float effortlessly, and its shore is the lowest land on Earth.",
+    "categoryId": "geography",
+    "topic": "Lakes",
+    "tags": [
+      "lakes",
+      "dead sea",
+      "salinity"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mountains-made-by-tectonics",
+    "headline": "Mountains Float on Hidden Roots Like Icebergs",
+    "body": "A mountain is not just piled on top of the crust; it floats on it. Like an iceberg, a mountain range has a deep root of lighter rock pushing down into the denser mantle below, and most of its bulk is hidden underground. As erosion strips material off the peaks, the lightened root slowly rebounds upward, lifting fresh rock into view. That is why old mountains can keep exposing new heights even as they wear away. They bob like ice in water.",
+    "summary": "Mountains float on deep crustal roots, and erosion lets those roots rebound and rise.",
+    "categoryId": "geography",
+    "topic": "Mountains",
+    "tags": [
+      "mountains",
+      "isostasy",
+      "erosion"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mountains-erode-while-rising",
+    "headline": "There Are Seashells on Top of Mount Everest",
+    "body": "The Himalayas are still rising about a centimeter a year as the Indian plate grinds into Asia, and they carry an astonishing clue to their birth. The pale limestone near Everest's summit is packed with the fossils of sea creatures. The rock at the roof of the world formed at the bottom of an ancient ocean, then was crushed and shoved skyward as two continents collided. The highest point on Earth was once a seabed full of shells.",
+    "summary": "Everest's summit rock holds marine fossils, because it was once an ancient ocean floor.",
+    "categoryId": "geography",
+    "topic": "Mountains",
+    "tags": [
+      "mountains",
+      "everest",
+      "marine fossils"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mountains-come-in-belts",
+    "headline": "The 'Tallest Mountain' Depends on How You Measure",
+    "body": "Everest is the highest point above sea level, but call it the tallest mountain and geographers will object. Measured from its base on the seafloor, Hawaii's Mauna Kea rises about 10,000 meters, taller than Everest, though most of it is underwater. And because Earth bulges at the equator, the summit of Ecuador's Chimborazo is actually the farthest point from the planet's center. Three different mountains win, depending on whether you measure from the sea, the base, or Earth's core.",
+    "summary": "Everest, Mauna Kea, and Chimborazo each win 'tallest' depending on how you measure.",
+    "categoryId": "geography",
+    "topic": "Mountains",
+    "tags": [
+      "mountains",
+      "everest",
+      "mauna kea"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "oceans-cover-most-earth",
+    "headline": "We've Mapped Mars Better Than Our Own Seafloor",
+    "body": "Oceans cover most of the planet, yet they remain stunningly unexplored. We have detailed maps of the surfaces of Mars and the Moon, but most of Earth's own seafloor has never been mapped in fine detail, and roughly 80 percent of the ocean is unexplored by humans. The deep sea is darker and harder to reach than space in many ways. We live on a water world whose largest feature is still mostly a mystery.",
+    "summary": "Most of Earth's seafloor is unmapped in detail, and about 80 percent of the ocean is unexplored.",
+    "categoryId": "geography",
+    "topic": "Oceans",
+    "tags": [
+      "oceans",
+      "exploration",
+      "seafloor"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "oceans-have-hidden-landscapes",
+    "headline": "Earth's Longest Mountain Range Is Underwater",
+    "body": "The longest mountain range on Earth is one almost no one has ever seen. The mid-ocean ridge winds along the seafloor for about 65,000 kilometers, circling the globe like the stitching on a baseball. It is where molten rock rises and new seafloor is constantly born, slowly pushing the continents apart. Towering ranges, deep valleys, and active volcanoes run through it, all hidden beneath kilometers of dark water. The planet's grandest mountains are out of sight.",
+    "summary": "The mid-ocean ridge is Earth's longest mountain range, snaking 65,000 km across the seafloor.",
+    "categoryId": "geography",
+    "topic": "Oceans",
+    "tags": [
+      "oceans",
+      "mid-ocean ridge",
+      "seafloor"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "oceans-drive-water-cycle",
+    "headline": "Almost All of Earth's Water Is Undrinkable Ocean",
+    "body": "Earth looks soaked in water, but very little of it is usable. About 97 percent of the planet's water is salty ocean, and most of the rest is locked in ice or buried underground. That leaves only a tiny fraction as the accessible fresh water in rivers and lakes that all land life depends on. The oceans also drive the water cycle, lifting vapor into the sky that falls as rain. The giant reservoir we cannot drink keeps the small one refilled.",
+    "summary": "About 97 percent of Earth's water is salty ocean, leaving only a sliver as usable fresh water.",
+    "categoryId": "geography",
+    "topic": "Oceans",
+    "tags": [
+      "oceans",
+      "water cycle",
+      "fresh water"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "plate-tectonics-moving-shell",
+    "headline": "The Atlantic Is Wider Now Than in Columbus's Day",
+    "body": "Earth's crust is broken into giant plates that drift about as fast as your fingernails grow, a few centimeters a year. It sounds trivial, but it adds up. The Atlantic Ocean is slowly widening as North America and Europe creep apart, which means the sea is measurably broader today than when Columbus sailed across it. Continents are not fixed scenery. They are rafts riding the slow churn of the hot rock beneath, rearranging the map grain by grain.",
+    "summary": "Tectonic plates drift at fingernail speed, making the Atlantic wider now than in Columbus's day.",
+    "categoryId": "geography",
+    "topic": "Plate Tectonics",
+    "tags": [
+      "plate tectonics",
+      "continental drift",
+      "atlantic"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "plate-tectonics-boundaries-matter",
+    "headline": "Africa Is Splitting Apart to Make a New Ocean",
+    "body": "Where plates meet, Earth gets violent, and where they pull apart, it can tear a continent in two. Along East Africa's Great Rift Valley, the crust is slowly ripping open as plates drift apart. Over millions of years, the gap is expected to widen until the sea floods in and splits off a new continent, creating a brand-new ocean. In 2005, a 60-kilometer crack opened in the Ethiopian desert in just days, a glimpse of a continent coming apart.",
+    "summary": "East Africa's Great Rift is slowly tearing the continent apart to form a new ocean.",
+    "categoryId": "geography",
+    "topic": "Plate Tectonics",
+    "tags": [
+      "plate tectonics",
+      "great rift valley",
+      "plate boundaries"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "plate-tectonics-wegener-was-early",
+    "headline": "He Was Mocked for Drifting Continents and Proven Right Too Late",
+    "body": "Alfred Wegener noticed the continents fit together like puzzle pieces, with matching fossils and rock layers split across oceans, and argued they had once been joined. Scientists ridiculed him because he could not explain what moved them, and he died on an expedition in 1930 before being vindicated. Decades later, seafloor spreading proved him right. The continents really had been one supercontinent, Pangaea, and they will slowly drift back together into a new one in around 250 million years.",
+    "summary": "Wegener was mocked for proposing drifting continents and proven right only after his death.",
+    "categoryId": "geography",
+    "topic": "Plate Tectonics",
+    "tags": [
+      "plate tectonics",
+      "alfred wegener",
+      "pangaea"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "rivers-shaped-settlements",
+    "headline": "One of the World's Great Rivers Flows 'Up' the Map",
+    "body": "We tend to assume rivers flow downward on a map, toward the bottom, but down only means downhill. The Nile, one of the longest rivers on Earth, flows the other way, running south to north for some 6,600 kilometers from the heart of Africa to the Mediterranean. Its yearly floods laid down rich soil that fed ancient Egypt and helped one of history's great civilizations rise. Rivers do not follow our maps. They follow gravity, and people followed them.",
+    "summary": "The Nile flows south to north for 6,600 km, and its floods nourished ancient Egypt.",
+    "categoryId": "geography",
+    "topic": "Rivers",
+    "tags": [
+      "rivers",
+      "nile",
+      "civilizations"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "rivers-drainage-networks",
+    "headline": "The Amazon Pushes Fresh Water 100 Miles Out to Sea",
+    "body": "The Amazon is so immense it bends the ocean around it. It pours out roughly a fifth of all the river water on Earth, more than the next several biggest rivers combined. So much fresh water gushes from its mouth that the sea stays noticeably less salty for around 100 miles offshore, where early sailors could dip drinking water while still out of sight of land. For most of its length it is also so wide that no bridge crosses its main stem.",
+    "summary": "The Amazon discharges so much water it keeps the sea fresh about 100 miles from shore.",
+    "categoryId": "geography",
+    "topic": "Rivers",
+    "tags": [
+      "rivers",
+      "amazon",
+      "discharge"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "rivers-change-channel-shapes",
+    "headline": "Rivers Wander So Much They Leave Loops Behind",
+    "body": "Rivers rarely run straight for long. The current eats away the outer bank of every bend and drops sand on the inner one, so curves grow into ever-tighter loops that snake across the valley floor. Sometimes a loop bends so far it pinches off entirely, stranding a crescent of water called an oxbow lake while the river takes a shortcut. A river is restless. Over time it slowly crawls sideways across its own floodplain, abandoning old paths.",
+    "summary": "Rivers carve ever-tighter bends that can pinch off into crescent-shaped oxbow lakes.",
+    "categoryId": "geography",
+    "topic": "Rivers",
+    "tags": [
+      "rivers",
+      "meanders",
+      "oxbow lakes"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "valleys-carved-by-processes",
+    "headline": "A Valley's Shape Reveals Whether Ice or Water Made It",
+    "body": "A valley quietly records what carved it. A river cuts down into the land and tends to leave a narrow, V-shaped notch. A glacier, far heavier and wider, bulldozes through and scoops out a broad, flat-bottomed U instead. So geologists can glance at a valley's cross-section and read its history: Yosemite's sweeping U-shaped walls are a signature left by vanished ice, not flowing water. The shape of the land remembers the force that shaped it.",
+    "summary": "V-shaped valleys are cut by rivers, while broad U-shaped valleys reveal carving by glaciers.",
+    "categoryId": "geography",
+    "topic": "Valleys",
+    "tags": [
+      "valleys",
+      "glaciers",
+      "yosemite"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "valleys-v-or-u-shapes",
+    "headline": "The Grand Canyon's Walls Stack Up Two Billion Years",
+    "body": "A deep valley can be a time machine. As the Colorado River cut down through the rising Grand Canyon, it sliced through layer after layer of rock, exposing a cross-section of Earth's past. The stripes in the canyon walls record nearly two billion years of history, from younger rock at the rim down to ancient rock at the bottom. Walking from top to bottom, you pass through immense spans of time. The valley is a staircase into the planet's deep past.",
+    "summary": "The Grand Canyon's layered walls expose nearly two billion years of Earth's history.",
+    "categoryId": "geography",
+    "topic": "Valleys",
+    "tags": [
+      "valleys",
+      "grand canyon",
+      "geology"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "valleys-climate-influence",
+    "headline": "In One Valley, Rocks Slide Across the Ground by Themselves",
+    "body": "Death Valley is a place of extremes, the lowest, driest, and hottest spot in North America, where summer air has hit around 57 degrees Celsius. Its strangest feature sits on a dried lakebed called the Racetrack, where heavy stones glide across the flat mud on their own, leaving long trails behind them. For decades no one saw them move. The answer turned out to be thin sheets of ice and gentle wind nudging the rocks across a slick surface.",
+    "summary": "On Death Valley's Racetrack playa, heavy stones slide across the ground on their own.",
+    "categoryId": "geography",
+    "topic": "Valleys",
+    "tags": [
+      "valleys",
+      "death valley",
+      "sailing stones"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "volcanoes-not-just-lava",
+    "headline": "At Pompeii, the Real Killer Wasn't the Lava",
+    "body": "When Vesuvius buried Pompeii in 79 CE, most victims were not overtaken by slow-moving lava. The true killers were pyroclastic surges, avalanches of superheated gas and ash that roared down the mountain at the speed of a car, hot enough to kill almost instantly. Lava is often a volcano's least dangerous product because it usually creeps along slowly enough to outrun. The fast, scorching clouds of gas and debris are what make eruptions so deadly.",
+    "summary": "Most Pompeii victims were killed by fast, superheated pyroclastic surges, not slow lava.",
+    "categoryId": "geography",
+    "topic": "Volcanoes",
+    "tags": [
+      "volcanoes",
+      "pompeii",
+      "pyroclastic flows"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "volcanoes-shape-varies",
+    "headline": "A Volcano Caused a 'Year Without a Summer' and Inspired Frankenstein",
+    "body": "In 1815, Indonesia's Mount Tambora exploded in one of the largest eruptions in recorded history, hurling so much ash and gas into the sky that it dimmed the sun worldwide. The following year, 1816, became the year without a summer: snow fell in June, crops failed, and famine spread across continents. Trapped indoors by the gloomy, cold weather during a holiday in Switzerland, a young Mary Shelley passed the time writing a ghost story that became Frankenstein.",
+    "summary": "Tambora's 1815 eruption caused 1816's 'year without a summer' and inspired Frankenstein.",
+    "categoryId": "geography",
+    "topic": "Volcanoes",
+    "tags": [
+      "volcanoes",
+      "tambora",
+      "year without a summer"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "volcanoes-tectonic-links",
+    "headline": "Hawaii's Islands Ride a Volcanic Conveyor Belt",
+    "body": "Most volcanoes cluster where plates meet, especially around the Pacific's Ring of Fire, home to roughly three-quarters of the world's volcanoes. But Hawaii sits far from any boundary, parked over a fixed plume of hot rock called a hotspot. As the Pacific plate drifts slowly over this stationary heat source, it builds a volcano, then carries it away to die while a new one forms behind it. The islands are a conveyor belt, with the next Hawaiian island already growing underwater.",
+    "summary": "Hawaii's islands form as the Pacific plate drifts over a fixed hotspot, like a conveyor belt.",
+    "categoryId": "geography",
+    "topic": "Volcanoes",
+    "tags": [
+      "volcanoes",
+      "hawaii",
+      "hotspots"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fjords-glacier-carved",
+    "headline": "Some Fjords Are Deeper Than the Sea They Open Into",
+    "body": "A fjord is a glacier-carved valley flooded by the sea, and the ice cut shockingly deep. Norway's Sognefjord plunges to about 1,300 meters below the surface, deeper than the open ocean just outside its mouth, with rock walls towering over a kilometer above the water. As glaciers ground inland under their own weight, they gouged the valley floor far below sea level. When the ice melted, the sea poured in, leaving a canyon drowned by the ocean.",
+    "summary": "Glaciers carved Sognefjord over 1,300 m deep, deeper than the open sea outside it.",
+    "categoryId": "geography",
+    "topic": "Fjords",
+    "tags": [
+      "fjords",
+      "sognefjord",
+      "glaciers"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fjords-deepest-inland",
+    "headline": "Trace Every Fjord and Norway's Coast Wraps Earth Twice",
+    "body": "Fjords carve Norway's edge into a maze of long, narrow inlets, and that does something remarkable to its coastline. Measured straight, the country is not huge, but if you trace every twist of every fjord and island, Norway's coastline stretches to roughly 100,000 kilometers, enough to wrap around the entire planet about two and a half times. The deep inlets fold an ordinary-length coast into one of the longest on Earth. Geography hides enormous distance in its wrinkles.",
+    "summary": "Counting every fjord, Norway's coastline runs about 100,000 km, roughly 2.5 times around Earth.",
+    "categoryId": "geography",
+    "topic": "Fjords",
+    "tags": [
+      "fjords",
+      "coastline",
+      "norway"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fjords-cold-water-reefs",
+    "headline": "Norway's Fjords Hide Coral Reefs in the Cold and Dark",
+    "body": "Say coral reef and most people picture warm, sunlit shallows. But deep in Norway's cold fjords lurk reefs that thrive in near-freezing water and total darkness, hundreds of meters down. These cold-water corals do not rely on sunlight or warmth. They catch food drifting in the current instead. Some of these hidden reefs are thousands of years old, and many were discovered only recently. A reef can flourish in conditions the opposite of a tropical lagoon.",
+    "summary": "Norway's fjords hide ancient cold-water coral reefs that live in darkness and near-freezing water.",
+    "categoryId": "geography",
+    "topic": "Fjords",
+    "tags": [
+      "fjords",
+      "cold-water reefs",
+      "norway"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "rainforests-small-area-huge-life",
+    "headline": "The Amazon Makes Much of Its Own Rain",
+    "body": "A rainforest does not just sit in a wet climate; it helps create one. Amazon trees pull water from the soil and release vast amounts of vapor into the air, enough to form so-called flying rivers, airborne streams of moisture that drift across the continent. These invisible rivers in the sky can carry more water than the Amazon River itself, then fall as rain to keep the forest alive. The forest essentially waters itself, recycling rain again and again.",
+    "summary": "The Amazon releases enough vapor to form 'flying rivers' that water the forest itself.",
+    "categoryId": "geography",
+    "topic": "Rainforests",
+    "tags": [
+      "rainforests",
+      "flying rivers",
+      "water cycle"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "rainforests-four-layers",
+    "headline": "One Rainforest Tree Can Hold More Ant Species Than All of Britain",
+    "body": "Rainforest biodiversity is so concentrated it defies belief. Scientists studying a single tree in the Peruvian Amazon found more species of ants on that one tree than live in all of the British Isles. A patch of rainforest just a few acres across can contain more kinds of trees than all of North America. Each layer, from sunlit canopy to dark forest floor, packs in its own dense web of life. A single tree can rival a whole nation.",
+    "summary": "A single Amazon tree was found to host more ant species than all of the British Isles.",
+    "categoryId": "geography",
+    "topic": "Rainforests",
+    "tags": [
+      "rainforests",
+      "biodiversity",
+      "ants"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "rainforests-climate-regulators",
+    "headline": "The Amazon Is Not Really the Planet's Lungs",
+    "body": "The Amazon is famously called the lungs of the planet, but the nickname is misleading. A mature rainforest consumes nearly as much oxygen as it produces, since its own bacteria, animals, and decaying plants burn oxygen day and night. The net gift to the air is close to zero. Most of the oxygen we breathe actually comes from tiny ocean plankton. The Amazon matters enormously for storing carbon and shaping climate, just not as Earth's air supply.",
+    "summary": "Mature rainforests use up nearly all the oxygen they make; ocean plankton are the real source.",
+    "categoryId": "geography",
+    "topic": "Rainforests",
+    "tags": [
+      "rainforests",
+      "oxygen",
+      "plankton"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "waterfalls-erosion-builds-and-breaks",
+    "headline": "Niagara Falls Is Slowly Marching Upstream",
+    "body": "A waterfall is not fixed in place. At Niagara, the plunging water grinds away the softer rock beneath the hard ledge until the lip collapses and the falls jump backward to a new position. Over the last 12,000 years, Niagara has eaten its way some 11 kilometers upstream. Engineers have even briefly shut the water off to study the crumbling rock, leaving the famous falls eerily dry. A waterfall travels, not downstream as you would expect, but slowly upstream.",
+    "summary": "Niagara Falls has eroded about 11 km upstream over 12,000 years and has even been turned off.",
+    "categoryId": "geography",
+    "topic": "Waterfalls",
+    "tags": [
+      "waterfalls",
+      "niagara",
+      "erosion"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "waterfalls-recede-upstream",
+    "headline": "The Tallest Waterfall Turns to Mist Before It Lands",
+    "body": "Venezuela's Angel Falls is the tallest waterfall on Earth, dropping about 979 meters from the edge of a flat-topped mountain called a tepui. The fall is so high that on a warm or breezy day, much of the water breaks into fine mist and is carried off by the wind before it ever reaches the bottom. During the dry season the base can stay almost dry while water vanishes into the air above. The drop is so great the river practically evaporates mid-flight.",
+    "summary": "Angel Falls is so tall its water often scatters into mist before reaching the ground.",
+    "categoryId": "geography",
+    "topic": "Waterfalls",
+    "tags": [
+      "waterfalls",
+      "angel falls",
+      "venezuela"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "waterfalls-many-causes",
+    "headline": "The Biggest Waterfall on Earth Is Underwater",
+    "body": "Forget Niagara: the largest waterfall on the planet is hidden beneath the sea. In the Denmark Strait between Greenland and Iceland, frigid, dense water from the north sinks and pours over an undersea ledge, plunging roughly 3,500 meters into the deep. This silent, invisible cataract carries vastly more water than any waterfall on land and dwarfs them all in height. The grandest waterfall on Earth makes no sound and no spray, flowing entirely underwater.",
+    "summary": "Earth's biggest waterfall is the underwater Denmark Strait cataract, a roughly 3,500 m drop.",
+    "categoryId": "geography",
+    "topic": "Waterfalls",
+    "tags": [
+      "waterfalls",
+      "denmark strait",
+      "oceans"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "caves-acidic-water",
+    "headline": "The World's Biggest Cave Has Its Own Jungle and Clouds",
+    "body": "Caves usually begin when faintly acidic water dissolves limestone over ages, but the results can be staggering. Vietnam's Son Doong, the largest known cave, is so enormous it has its own jungle, a flowing river, and a private climate. Air rising from the depths forms clouds inside the cave itself. The main passage is tall enough to hold a 40-story skyscraper. A space carved by quiet, dripping water can swallow an entire neighborhood.",
+    "summary": "Son Doong cave in Vietnam is so vast it holds its own jungle, river, and clouds.",
+    "categoryId": "geography",
+    "topic": "Caves",
+    "tags": [
+      "caves",
+      "son doong",
+      "limestone"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "caves-speleothems-redeposited",
+    "headline": "A Cave in Mexico Grew Crystals Bigger Than Trees",
+    "body": "Cave formations build up as mineral-rich water leaves deposits behind, and given the right conditions they grow monstrous. In Mexico's Naica mine, the Cave of Crystals holds gleaming selenite beams longer and thicker than tree trunks, some over 11 meters, the largest natural crystals ever found. They grew over hundreds of thousands of years in mineral-saturated water. The cave is so hot and humid, around 58 degrees Celsius, that people can survive inside for only minutes.",
+    "summary": "Mexico's Cave of Crystals contains selenite crystals larger than tree trunks.",
+    "categoryId": "geography",
+    "topic": "Caves",
+    "tags": [
+      "caves",
+      "naica",
+      "giant crystals"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "caves-start-in-cracks",
+    "headline": "Some Caves Are Eaten Upward by Acid From Below",
+    "body": "Most caves are dissolved from above by rainwater seeping down. But some of the world's most spectacular caves were carved the opposite way. In places like New Mexico's Lechuguilla, hydrogen sulfide gas rising from deep oil and gas deposits mixed with groundwater to form sulfuric acid, which ate the rock upward from below. These caves were essentially dissolved by fumes from the deep, not by rain. The same hollow can be made by water from above or acid from beneath.",
+    "summary": "Some caves form when sulfuric acid rising from deep deposits dissolves rock from below.",
+    "categoryId": "geography",
+    "topic": "Caves",
+    "tags": [
+      "caves",
+      "sulfuric acid",
+      "lechuguilla"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
