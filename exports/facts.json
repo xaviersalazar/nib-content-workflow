@@ -29097,5 +29097,515 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "dunkleosteus-armored-predator",
+    "headline": "Dunkleosteus Belonged to the Fish That Invented Jaws",
+    "body": "Dunkleosteus was a placoderm, a group of armored fishes that holds a remarkable place in the history of life. Placoderms were among the first vertebrates ever to have jaws, an innovation that transformed how animals could feed and that all jawed creatures, including us, ultimately inherited. They also provide the earliest fossil evidence of internal fertilization, meaning some gave birth to live young. The armored fish was part of a group that pioneered both biting and a new way of reproducing.",
+    "summary": "Dunkleosteus was a placoderm, part of the group that gave vertebrates their first jaws and earliest live birth.",
+    "categoryId": "ancient-creatures",
+    "topic": "Dunkleosteus",
+    "tags": [
+      "dunkleosteus",
+      "placoderms",
+      "evolution"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dunkleosteus-jaw-bones",
+    "headline": "Dunkleosteus Had No Teeth, Just Self-Sharpening Blades",
+    "body": "Dunkleosteus terrorized ancient seas without a single true tooth in its head. Instead, the edges of its jaws were formed from bone, honed into two pairs of sharp, shearing blades. As the mouth opened and closed, the blades ground against one another, keeping each edge keen, like self-sharpening scissors. The bony plates even kept growing to replace what wore away. Rather than biting with teeth, this armored fish guillotined its prey with continually sharpened blades of its own skull.",
+    "summary": "Dunkleosteus had no teeth, slicing prey with self-sharpening bony blades formed from its jaws.",
+    "categoryId": "ancient-creatures",
+    "topic": "Dunkleosteus",
+    "tags": [
+      "dunkleosteus",
+      "jaws",
+      "prehistoric fish"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dunkleosteus-self-sharpening-jaws",
+    "headline": "Dunkleosteus Could Inhale Prey in a Fraction of a Second",
+    "body": "Dunkleosteus did not just bite hard, it struck with terrifying speed. Studies of its jaw mechanics suggest it could snap its mouth open in around one-fiftieth of a second, creating a sudden rush of suction that pulled prey inward. Then the powerful jaws slammed shut with one of the strongest bites estimated for any fish. Open fast to inhale, close hard to slice: this armored hunter combined vacuum-like speed with crushing force in a single deadly motion.",
+    "summary": "Dunkleosteus could open its jaws in about 1/50th of a second, sucking in prey before crushing it.",
+    "categoryId": "ancient-creatures",
+    "topic": "Dunkleosteus",
+    "tags": [
+      "dunkleosteus",
+      "bite force",
+      "predators"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "trilobites-paleozoic-survivors",
+    "headline": "Trilobites Ruled the Seas Far Longer Than the Dinosaurs",
+    "body": "Trilobites are often dismissed as humble fossils, but their reign was staggering. They thrived in the oceans for roughly 270 million years, far longer than the dinosaurs lasted on land, and diversified into an estimated 20,000 species along the way. Their incredible run finally ended in the largest mass extinction in Earth's history, the end-Permian 'Great Dying,' which wiped out most ocean life. Few groups of animals have ever dominated for so long or vanished so completely.",
+    "summary": "Trilobites thrived for about 270 million years, far longer than dinosaurs, before dying in the 'Great Dying.'",
+    "categoryId": "ancient-creatures",
+    "topic": "Trilobites",
+    "tags": [
+      "trilobites",
+      "paleozoic",
+      "great dying"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "trilobites-eyes-complex",
+    "headline": "Trilobites Saw the World Through Eyes Made of Crystal",
+    "body": "Trilobites had some of the earliest known eyes, and they were built from an unlikely material: crystal. Their lenses were made of calcite, a clear mineral, essentially turning stone into optics. Some species had eyes packed with hundreds of these crystal lenses, and a few had a sophisticated design that corrected the distortion that plagues simple lenses, a trick humans only worked out much later. These ancient sea creatures quite literally looked out at the world through eyes of rock.",
+    "summary": "Trilobites had eyes with lenses made of the crystal mineral calcite, some correcting optical distortion.",
+    "categoryId": "ancient-creatures",
+    "topic": "Trilobites",
+    "tags": [
+      "trilobites",
+      "calcite eyes",
+      "vision"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "trilobites-declined-before-ending",
+    "headline": "Trilobites Could Curl Into a Ball Like a Pill Bug",
+    "body": "Long before pill bugs and armadillos, trilobites mastered the same defensive trick: many could curl their armored bodies into a tight ball, tucking their soft undersides safely inside a shield of hard plates. Some are even found fossilized mid-curl. As among the earliest animals to grow a tough exoskeleton, trilobites were pioneers of body armor in ancient seas full of new predators. Rolling up was an early, elegant solution to a very old problem: how not to be eaten.",
+    "summary": "Many trilobites could roll into a protective ball like a pill bug, an early use of body armor.",
+    "categoryId": "ancient-creatures",
+    "topic": "Trilobites",
+    "tags": [
+      "trilobites",
+      "defense",
+      "exoskeleton"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "archaeopteryx-bird-dinosaur-mix",
+    "headline": "Archaeopteryx Appeared Right After Darwin Predicted It",
+    "body": "The timing could hardly have been better. Charles Darwin published On the Origin of Species in 1859, arguing that life evolved gradually and that transitional forms should exist. Just two years later, in 1861, the first Archaeopteryx turned up in Germany, a creature mixing feathers and wings with a dinosaur's teeth, clawed fingers, and long bony tail. It was almost exactly the 'missing link' critics had demanded. The fossil quickly became one of the most famous pieces of evidence for evolution.",
+    "summary": "Archaeopteryx, a feathered dinosaur-bird, was found in 1861, just two years after Darwin's Origin of Species.",
+    "categoryId": "ancient-creatures",
+    "topic": "Archaeopteryx",
+    "tags": [
+      "archaeopteryx",
+      "charles darwin",
+      "evolution"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "archaeopteryx-bavaria-fossils",
+    "headline": "Almost Every Archaeopteryx Comes From One German Quarry",
+    "body": "Archaeopteryx is one of the most important fossils ever found, yet it is astonishingly rare. Only around a dozen specimens are known, and essentially all of them come from the same small region of fine limestone quarries in Bavaria, Germany. That stone, once the floor of a calm tropical lagoon, was delicate enough to capture feather impressions in stunning detail. A single, specific patch of ancient seabed has provided nearly our entire physical record of this pivotal creature.",
+    "summary": "Nearly all of the roughly dozen known Archaeopteryx fossils come from one limestone region in Bavaria.",
+    "categoryId": "ancient-creatures",
+    "topic": "Archaeopteryx",
+    "tags": [
+      "archaeopteryx",
+      "solnhofen limestone",
+      "fossils"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "archaeopteryx-short-flight",
+    "headline": "Its Feathers Reveal How Flight Began",
+    "body": "Archaeopteryx may not have been a strong flier, but its feathers hold a crucial clue. The flight feathers were asymmetrical, with a narrow front edge and wider back, the same lopsided shape found in modern birds that actually fly, and different from the symmetrical feathers of flightless ones. That asymmetry only helps with aerodynamics, suggesting its feathers were already shaped by the demands of moving through air. Flight did not appear all at once; it was built up feather by feather.",
+    "summary": "Archaeopteryx's asymmetrical flight feathers match those of flying birds, hinting how flight evolved.",
+    "categoryId": "ancient-creatures",
+    "topic": "Archaeopteryx",
+    "tags": [
+      "archaeopteryx",
+      "feathers",
+      "flight"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dire-wolf-la-brea",
+    "headline": "A California Tar Pit Holds Over 4,000 Dire Wolves",
+    "body": "The La Brea Tar Pits in Los Angeles are a graveyard with a grim logic. Sticky natural asphalt trapped struggling plant eaters, whose distress drew in hungry predators, who then became stuck themselves. Dire wolves are the most abundant large mammal recovered there, with the remains of more than 4,000 individuals pulled from the tar. The same hunting instinct that made them successful lured them, one by one, into a trap that preserved them in extraordinary numbers.",
+    "summary": "Over 4,000 dire wolves have been recovered from the La Brea Tar Pits, where predators were lured to their deaths.",
+    "categoryId": "ancient-creatures",
+    "topic": "Dire Wolves",
+    "tags": [
+      "dire wolves",
+      "la brea",
+      "fossils"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dire-wolf-bigger-skull",
+    "headline": "Dire Wolves Were Not Really Wolves at All",
+    "body": "Despite the name and a wolfish look, dire wolves were not close relatives of today's gray wolves. DNA recovered from fossils revealed that their lineage split from other wolf-like canines millions of years ago, around 5.7 million, and they were so genetically distant they likely could not even interbreed with gray wolves. Their resemblance was a case of two predators evolving similar bodies for similar lifestyles. The 'dire wolf' was really its own ancient kind of animal wearing a familiar shape.",
+    "summary": "DNA shows dire wolves split from gray wolves about 5.7 million years ago and were not close relatives.",
+    "categoryId": "ancient-creatures",
+    "topic": "Dire Wolves",
+    "tags": [
+      "dire wolves",
+      "dna",
+      "evolution"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dire-wolf-wide-range",
+    "headline": "Dire Wolves Vanished With the Giants They Hunted",
+    "body": "Dire wolves were heavyweight pack hunters built to take down the giants of Ice Age America, animals like bison, ancient horses, and young mammoths. That power came with a catch: they were specialists tied to big prey. When the great Ice Age beasts died out around the end of the last glacial period, the dire wolf's food supply collapsed and it went extinct too. Smaller, more flexible gray wolves, willing to eat almost anything, survived while their mightier cousins did not.",
+    "summary": "Dire wolves were big-prey specialists that went extinct when Ice Age megafauna vanished, unlike adaptable gray wolves.",
+    "categoryId": "ancient-creatures",
+    "topic": "Dire Wolves",
+    "tags": [
+      "dire wolves",
+      "extinction",
+      "ice age"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "giant-sloths-elephant-size",
+    "headline": "Thomas Jefferson Thought Giant Sloth Bones Were a Lion",
+    "body": "Future US president Thomas Jefferson was an enthusiastic fossil collector, and in the 1790s he studied a set of huge clawed bones. He mistook them for the remains of an enormous lion-like beast and worried such a monster might still prowl the unexplored West. The bones actually belonged to a giant ground sloth, later named Megalonyx, 'great claw.' Jefferson even asked the Lewis and Clark expedition to keep an eye out for living ones. The 'giant lion' was a vegetarian sloth.",
+    "summary": "Thomas Jefferson mistook giant ground sloth bones for a huge lion and hoped to find living ones.",
+    "categoryId": "ancient-creatures",
+    "topic": "Giant Sloths",
+    "tags": [
+      "giant sloths",
+      "thomas jefferson",
+      "megalonyx"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "giant-sloths-claws-leaves",
+    "headline": "Avocados May Exist Because Giant Sloths Ate Them",
+    "body": "The avocado has an oddly enormous pit, far too big for most animals to swallow and carry off, which is a puzzle for a plant that relies on animals to spread its seeds. The likely answer is that its real partners are gone. Giant ground sloths and other Ice Age giants could gulp avocados whole and deposit the seeds far away. The fruit is an 'evolutionary leftover,' still built for huge eaters that vanished thousands of years ago.",
+    "summary": "Avocados' huge pits suggest they evolved to be swallowed whole by giant ground sloths and other lost megafauna.",
+    "categoryId": "ancient-creatures",
+    "topic": "Giant Sloths",
+    "tags": [
+      "giant sloths",
+      "avocado",
+      "evolution"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "giant-sloths-american-migration",
+    "headline": "A Ground Sloth Could Rear Up as Tall as a Two-Story House",
+    "body": "Today's sloths are small, slow tree-dwellers, but their extinct relatives were astonishing. The largest, Megatherium, was roughly the size of an elephant and weighed around four tons. Rising onto its hind legs, propped by a thick tail, it could reach some four meters up, about as high as a two-story building, to pull down branches with hooked claws. Some ground sloths survived surprisingly late, lingering on Caribbean islands until only about 4,000 years ago.",
+    "summary": "Megatherium, an elephant-sized ground sloth, could rear up about two stories tall to feed on branches.",
+    "categoryId": "ancient-creatures",
+    "topic": "Giant Sloths",
+    "tags": [
+      "giant sloths",
+      "megatherium",
+      "extinct mammals"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "megalodon-largest-fish",
+    "headline": "You Could Stand Inside a Megalodon's Open Jaws",
+    "body": "Megalodon was a shark on a scale that is hard to picture. Length estimates run to roughly 50 to 60 feet, and reconstructions of its gaping jaws are large enough for several people to stand inside together. Its bite is estimated to have been among the most powerful of any animal that ever lived, able to crush the bones of large whales. A modern great white, fearsome as it is, would have been little more than a snack to an adult megalodon.",
+    "summary": "Megalodon reached perhaps 50-60 feet, with jaws big enough to stand inside and an immensely powerful bite.",
+    "categoryId": "ancient-creatures",
+    "topic": "Megalodon",
+    "tags": [
+      "megalodon",
+      "size",
+      "apex predator"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "megalodon-teeth-tell-story",
+    "headline": "People Once Thought Megalodon Teeth Were Dragon Tongues",
+    "body": "Megalodon's teeth can be more than seven inches long, the size of a human hand, and for centuries people had no idea what they were. In medieval Europe, these huge fossil teeth were believed to be petrified dragon or serpent tongues, called tongue stones, and were worn as charms or used as remedies against poison. Only in the 1600s did a scientist correctly identify them as the teeth of an enormous shark. The 'dragon tongues' were the bite of a vanished sea monster.",
+    "summary": "Megalodon's hand-sized teeth were long thought to be petrified dragon tongues used as charms.",
+    "categoryId": "ancient-creatures",
+    "topic": "Megalodon",
+    "tags": [
+      "megalodon",
+      "fossil teeth",
+      "tongue stones"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "megalodon-whale-hunter",
+    "headline": "A Smaller Shark May Have Helped Doom Megalodon",
+    "body": "For all its size, megalodon vanished a few million years ago, and one suspected culprit is a familiar rival: the great white shark. Smaller, faster, and more agile, early great whites may have competed with young megalodons for the same prey. At the same time, cooling oceans and shifting whale populations could have shrunk megalodon's food supply. Being a giant has costs, and the largest shark of all time may have been outmaneuvered by a nimbler cousin.",
+    "summary": "Megalodon may have gone extinct partly because nimbler great white sharks competed for its prey as seas cooled.",
+    "categoryId": "ancient-creatures",
+    "topic": "Megalodon",
+    "tags": [
+      "megalodon",
+      "extinction",
+      "great white shark"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mosasaurs-aquatic-lizards",
+    "headline": "A Mosasaur Skull Helped Prove Extinction Is Real",
+    "body": "In the late 1700s, a giant fossil skull dug from a chalk mine near Maastricht in the Netherlands caused a sensation. It clearly belonged to no living animal, and it became key evidence that species could vanish entirely, an idea of extinction that was still new and controversial. The skull was so prized that French troops reportedly carried it off to Paris as a war trophy. Only later was the beast named Mosasaurus, after the river near where it was found.",
+    "summary": "A mosasaur skull from a Dutch mine became famous proof that extinction is real, and was looted by French troops.",
+    "categoryId": "ancient-creatures",
+    "topic": "Mosasaurs",
+    "tags": [
+      "mosasaurs",
+      "extinction",
+      "maastricht"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mosasaurs-flippers-tail",
+    "headline": "Mosasaurs Gave Birth at Sea Like Whales",
+    "body": "Mosasaurs were so committed to life in the ocean that they never returned to land, not even to lay eggs. Fossils preserving tiny embryos and newborns show that these giant sea lizards gave birth to live young in the open water, much as whales and dolphins do today. Their babies were apparently born ready to swim, far from any shore. A lineage of lizards had remade itself so completely for the sea that solid ground was no longer part of its life.",
+    "summary": "Fossils show mosasaurs gave birth to live young in the open ocean, never returning to land.",
+    "categoryId": "ancient-creatures",
+    "topic": "Mosasaurs",
+    "tags": [
+      "mosasaurs",
+      "live birth",
+      "marine reptiles"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mosasaurs-megalodon-comparison",
+    "headline": "Mosasaurs Were Lizards That Went Back to the Sea",
+    "body": "Mosasaurs may have looked like sea monsters, but they were lizards, and their closest living relatives are animals you might recognize: monitor lizards, like the Komodo dragon, and possibly snakes. In other words, a group of land-going lizards evolved paddle limbs and powerful tails and returned to the ocean as top predators. They were not dinosaurs and not fish. They were reptiles that abandoned the land their ancestors had conquered and reclaimed the sea instead.",
+    "summary": "Mosasaurs were ocean-going lizards whose closest living relatives are monitor lizards and snakes.",
+    "categoryId": "ancient-creatures",
+    "topic": "Mosasaurs",
+    "tags": [
+      "mosasaurs",
+      "monitor lizards",
+      "evolution"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "saber-toothed-cats-not-tigers",
+    "headline": "Nature Invented Saber Teeth Over and Over",
+    "body": "Saber-toothed cats are often called saber-toothed tigers, but they were not tigers, and the bigger surprise is how many times those dagger fangs evolved. Long stabbing canines appeared independently in several unrelated groups across the ages, including the true cats, earlier catlike predators, and even Thylacosmilus, a pouched, marsupial 'saber-tooth' that prowled South America and was more closely related to kangaroos than to cats. When a hunting strategy works this well, evolution keeps reinventing the same deadly tool.",
+    "summary": "Saber teeth evolved repeatedly in unrelated animals, including a marsupial 'saber-tooth' in South America.",
+    "categoryId": "ancient-creatures",
+    "topic": "Saber-Toothed Cats",
+    "tags": [
+      "saber-toothed cats",
+      "convergent evolution",
+      "thylacosmilus"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "saber-toothed-cats-blade-teeth",
+    "headline": "A Saber-Tooth's Famous Fangs Were Surprisingly Fragile",
+    "body": "The saber-toothed cat's enormous canines, reaching around seven inches, look like the ultimate weapons, but they were more delicate than they appear. Long and somewhat flattened, they could snap if they struck bone during a struggle. So Smilodon did not simply bite down on tough prey. It used exceptionally powerful neck and forelimb muscles to pin and immobilize an animal first, then delivered a precise, slashing bite to the soft throat or belly, keeping its prized fangs out of harm's way.",
+    "summary": "Saber-toothed cats' long fangs were fragile, so Smilodon wrestled prey still before a careful killing bite.",
+    "categoryId": "ancient-creatures",
+    "topic": "Saber-Toothed Cats",
+    "tags": [
+      "saber-toothed cats",
+      "smilodon",
+      "canine teeth"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "saber-toothed-cats-tar-trap",
+    "headline": "Healed Wounds Hint Saber-Tooths Cared for Each Other",
+    "body": "Among the many Smilodon skeletons recovered from the La Brea Tar Pits, a striking number show serious injuries, broken bones and damaged joints, that had healed over time. An animal that badly hurt would have struggled to hunt for itself while mending. That those wounds healed at all suggests these cats may have lived in social groups, where others shared food with the injured. The fossils hint that, like lions, saber-toothed cats might have looked after their own.",
+    "summary": "Many La Brea saber-tooths have healed injuries, hinting they lived socially and fed their wounded.",
+    "categoryId": "ancient-creatures",
+    "topic": "Saber-Toothed Cats",
+    "tags": [
+      "saber-toothed cats",
+      "la brea",
+      "social behavior"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "woolly-mammoths-ice-age-coat",
+    "headline": "The Woolly Mammoth Is the Top Target to Bring Back",
+    "body": "Of all extinct animals, the woolly mammoth is the leading candidate for 'de-extinction.' Its closest living relative is the Asian elephant, with which it shares the vast majority of its DNA, and frozen carcasses provide unusually good genetic material. Scientists are now editing elephant genes, adding traits like thick fur and cold tolerance, in hopes of producing mammoth-like calves that could one day walk cold landscapes again. Bringing back the woolly mammoth has gone from science fiction to active laboratory work.",
+    "summary": "The woolly mammoth is the prime de-extinction target, with scientists editing Asian elephant DNA toward mammoth traits.",
+    "categoryId": "ancient-creatures",
+    "topic": "Woolly Mammoths",
+    "tags": [
+      "woolly mammoths",
+      "de-extinction",
+      "asian elephant"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "woolly-mammoths-permafrost-preserved",
+    "headline": "Frozen Baby Mammoths Still Have Their Last Meal Inside",
+    "body": "Siberia's permafrost has preserved woolly mammoths so completely that they are less like fossils than like time capsules. One famous baby mammoth, nicknamed Lyuba, emerged from the frozen ground tens of thousands of years after her death with skin, hair, and internal organs intact, and even traces of her mother's milk and her last meal still in her stomach. Frozen mud sealed these animals away from decay, letting scientists study Ice Age giants almost as if they had only recently died.",
+    "summary": "Permafrost preserved baby mammoths like 'Lyuba' so well that their last meals remain in their stomachs.",
+    "categoryId": "ancient-creatures",
+    "topic": "Woolly Mammoths",
+    "tags": [
+      "woolly mammoths",
+      "permafrost",
+      "lyuba"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "woolly-mammoths-late-islands",
+    "headline": "Woolly Mammoths Were Still Alive When the Pyramids Stood",
+    "body": "We imagine woolly mammoths as impossibly ancient, but the timeline is startling. While most died out around 10,000 years ago, a small population clung on at remote Wrangel Island in the Arctic Ocean until roughly 4,000 years ago. By then, the Egyptians had already built the Great Pyramid of Giza. For a stretch of history, mammoths and pyramids existed on Earth at the same time. The Ice Age icon overlapped with human civilization far more recently than most people expect.",
+    "summary": "The last woolly mammoths survived on Wrangel Island until about 4,000 years ago, after the pyramids were built.",
+    "categoryId": "ancient-creatures",
+    "topic": "Woolly Mammoths",
+    "tags": [
+      "woolly mammoths",
+      "wrangel island",
+      "extinction"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "terror-birds-seven-foot-predators",
+    "headline": "Terror Birds Were Apex Predators With Axe-Like Beaks",
+    "body": "After the dinosaurs vanished, some of South America's top predators were not mammals but giant flightless birds. Terror birds stood up to around ten feet tall in the largest species and hunted with huge, hooked beaks. One, Kelenken, had a skull about 28 inches long, among the largest of any bird known, tipped with a hatchet-like beak. These were not gentle giants pecking at seeds. They were powerful, fast-striding carnivores that ruled their ecosystems for millions of years.",
+    "summary": "Terror birds were giant flightless apex predators, some 10 feet tall with huge hatchet-like beaks.",
+    "categoryId": "ancient-creatures",
+    "topic": "Terror Birds",
+    "tags": [
+      "terror birds",
+      "apex predators",
+      "kelenken"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "terror-birds-before-land-bridge",
+    "headline": "South America Was an Island Ruled by Giant Birds",
+    "body": "For tens of millions of years, South America was an isolated island continent, cut off from the rest of the world. With no big cats or wolves around, its dominant predators evolved into giant terror birds and fearsome marsupials instead. That changed when a land bridge to North America finally formed and placental hunters poured in, part of the Great American Interchange. The terror birds eventually faded, though at least one, Titanis, managed to spread north before the end.",
+    "summary": "Isolated South America was ruled by giant terror birds until a land bridge let mammal predators invade.",
+    "categoryId": "ancient-creatures",
+    "topic": "Terror Birds",
+    "tags": [
+      "terror birds",
+      "great american interchange",
+      "titanis"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "terror-birds-fossil-chemistry",
+    "headline": "Terror Birds Likely Killed by Striking Like a Pickaxe",
+    "body": "Terror birds could not fly, but they did not need to: they were built to chase and strike. Long, strong legs made them fast runners, and studies of their skulls suggest the beak was rigid for downward blows rather than side-to-side shaking. The likely tactic was to run prey down, then drive the heavy hooked beak into it like a pickaxe, striking repeatedly at a vulnerable spot. It was a hunting style with no real equal among birds today.",
+    "summary": "Terror birds likely ran down prey and killed it with repeated pickaxe-like strikes of their hooked beaks.",
+    "categoryId": "ancient-creatures",
+    "topic": "Terror Birds",
+    "tags": [
+      "terror birds",
+      "hunting",
+      "prehistoric birds"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
