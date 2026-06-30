@@ -27771,5 +27771,821 @@
     "funScore": 10,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "buddhism-four-noble-truths",
+    "headline": "'Nirvana' Literally Means 'to Blow Out'",
+    "body": "The word nirvana sounds like a blissful faraway paradise, but its literal meaning is humbler and stranger: 'to blow out' or 'to extinguish,' like snuffing a candle flame. In Buddhist thought it describes the extinguishing of the inner fires of craving and suffering rather than a place you travel to. The Four Noble Truths frame this almost like a doctor's notes: here is the suffering, here is its cause, here is that it can end, and here is the path.",
+    "summary": "Nirvana literally means 'to blow out,' describing the extinguishing of craving rather than a place.",
+    "categoryId": "religion-beliefs",
+    "topic": "Buddhism",
+    "tags": [
+      "buddhism",
+      "nirvana",
+      "four noble truths"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "buddhism-eightfold-path",
+    "headline": "For Centuries, Buddhist Art Refused to Show the Buddha",
+    "body": "In the earliest Buddhist art, carved hundreds of years after his death, the Buddha is almost never shown as a person. Instead, artists pointed to him with symbols: an empty throne, a pair of footprints, a wheel, or the tree he sat under. A scene might show worshippers gathered around a blank space where the figure should be. Only later did sculptors begin carving the familiar seated Buddha. At first, his presence was suggested rather than pictured.",
+    "summary": "Early Buddhist art represented the Buddha only through symbols like an empty throne or footprints.",
+    "categoryId": "religion-beliefs",
+    "topic": "Buddhism",
+    "tags": [
+      "buddhism",
+      "buddhist art",
+      "symbols"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "buddhism-spread-across-asia",
+    "headline": "A Living Tree Grew From a Cutting Planted in 288 BCE",
+    "body": "Tradition says the Buddha reached enlightenment under a fig tree at Bodh Gaya in India. Around 288 BCE, a cutting from that tree was carried to Anuradhapura in Sri Lanka and planted, where it still grows today. That makes it one of the oldest living human-planted trees with a recorded planting date. As Buddhism spread across Asia, changing with each culture it met, this single tree became a continuous, living link back to the religion's beginning.",
+    "summary": "A tree grown from a 288 BCE cutting of the Buddha's Bodhi tree still lives in Sri Lanka.",
+    "categoryId": "religion-beliefs",
+    "topic": "Buddhism",
+    "tags": [
+      "buddhism",
+      "bodhi tree",
+      "sri lanka"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "christianity-rooted-in-jesus",
+    "headline": "The First Christian Symbol Was a Fish, Not a Cross",
+    "body": "Long before the cross became Christianity's emblem, early believers used the image of a fish. The reason was partly secrecy during times of persecution, and partly a word puzzle: the Greek word for fish, ichthys, worked as an acronym for a short phrase naming Jesus. Believers reportedly used it as a quiet sign of recognition. The cross came to dominate later, in part because crucifixion had been a shameful form of execution most early Christians did not depict.",
+    "summary": "Early Christians used a fish as their symbol, its Greek name forming an acronym, before the cross.",
+    "categoryId": "religion-beliefs",
+    "topic": "Christianity",
+    "tags": [
+      "christianity",
+      "ichthys",
+      "early church"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "christianity-scripture-and-authority",
+    "headline": "The Bible's Table of Contents Took Centuries to Settle",
+    "body": "The New Testament did not arrive as a finished book. In Christianity's early centuries, many writings circulated, including gospels attributed to figures like Thomas and Mary that were ultimately left out. Communities debated which texts carried real authority, and the familiar list of 27 books was not widely fixed until the 300s. Some excluded writings vanished for centuries, a few resurfacing only in modern times. Deciding what 'counted' was itself a long and contested process.",
+    "summary": "The New Testament's contents were debated for centuries before the familiar list was settled in the 300s.",
+    "categoryId": "religion-beliefs",
+    "topic": "Christianity",
+    "tags": [
+      "christianity",
+      "biblical canon",
+      "scripture"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "christianity-global-branches",
+    "headline": "Christianity Went From Outlawed to Imperial in One Lifetime",
+    "body": "For roughly its first three centuries, Christianity was a small, often persecuted movement within the Roman Empire, sometimes driven underground. Then in 312, the emperor Constantine converted, and everything shifted with startling speed. Within a single lifetime, a faith whose followers had been outlaws gained imperial favor, public churches, and eventually official status. That dramatic reversal, from persecuted minority to the empire's dominant religion, reshaped Western history far beyond the church itself.",
+    "summary": "Christianity went from a persecuted minority to the Roman Empire's favored faith after Constantine's 312 conversion.",
+    "categoryId": "religion-beliefs",
+    "topic": "Christianity",
+    "tags": [
+      "christianity",
+      "constantine",
+      "roman empire"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fasting-more-than-not-eating",
+    "headline": "'Breakfast' Literally Means Breaking a Fast",
+    "body": "Every morning, most people end a fast without thinking about it. The word breakfast comes straight from 'breaking the fast' you keep overnight while you sleep. Fasting, the deliberate abstaining from food or drink, is woven so deeply into human life that it is hidden inside an ordinary word. People fast for health, ritual, repentance, focus, or protest, but the most universal fast of all is the simple stretch of hours between dinner and the meal that breaks it.",
+    "summary": "The word 'breakfast' literally means breaking the overnight fast everyone keeps while sleeping.",
+    "categoryId": "religion-beliefs",
+    "topic": "Fasting",
+    "tags": [
+      "fasting",
+      "breakfast",
+      "language"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fasting-religious-preparation",
+    "headline": "Ramadan Drifts Through Every Season",
+    "body": "The Islamic holy month of Ramadan, when many Muslims fast from dawn to sunset, follows a purely lunar calendar. Because the lunar year is about 11 days shorter than the solar one, Ramadan shifts earlier each year, slowly cycling through every season over roughly 33 years. So a person may fast through long, hot summer days at one point in life and short winter ones decades later. Near the poles, where the sun barely sets, communities follow timekeeping rules from elsewhere.",
+    "summary": "Ramadan follows the lunar calendar, drifting about 11 days earlier each year through all seasons.",
+    "categoryId": "religion-beliefs",
+    "topic": "Fasting",
+    "tags": [
+      "fasting",
+      "ramadan",
+      "lunar calendar"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fasting-protest-tool",
+    "headline": "Gandhi Turned Refusing Food Into a Political Weapon",
+    "body": "Fasting is not only private devotion; it can be a public argument made with the body. Mohandas Gandhi famously used hunger strikes during India's independence struggle, refusing food to protest injustice and to pressure both rulers and his own movement. A fast like this turns the absence of eating into a loud, visible statement that is hard to ignore. From suffragettes to prisoners, people have long used the refusal of food as a form of powerful, peaceful protest.",
+    "summary": "Gandhi used hunger strikes as peaceful political pressure, turning fasting into public protest.",
+    "categoryId": "religion-beliefs",
+    "topic": "Fasting",
+    "tags": [
+      "fasting",
+      "gandhi",
+      "protest"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hinduism-many-strands",
+    "headline": "'Hindu' Began as an Outsiders' Word for a River",
+    "body": "The name Hindu did not start as a religious label at all. It came from outsiders, especially Persians, who used a version of the name of the river Indus to describe the people living beyond it. Only much later did 'Hinduism' become the umbrella term for a vast family of traditions with no single founder or creed. Many practitioners instead call their tradition Sanatana Dharma, the 'eternal way.' The world's common name for the religion began as a geography lesson.",
+    "summary": "'Hindu' originated as an outsiders' term from the river Indus, not a religious label.",
+    "categoryId": "religion-beliefs",
+    "topic": "Hinduism",
+    "tags": [
+      "hinduism",
+      "sanatana dharma",
+      "language"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hinduism-karma-samsara-moksha",
+    "headline": "Hindu Time Is Measured in Billions of Years",
+    "body": "While many traditions count history in thousands of years, Hindu cosmology thinks on a scale that rivals modern astronomy. Time moves in vast repeating cycles, and a single 'day of Brahma,' one cosmic creator's day, is said to last billions of years, roughly comparable to the actual age of the Earth. Within ideas like karma and rebirth, a human life is a small moment inside almost unimaginably long stretches of cosmic time that endlessly repeat.",
+    "summary": "Hindu cosmology counts a single 'day of Brahma' as billions of years, near the Earth's real age.",
+    "categoryId": "religion-beliefs",
+    "topic": "Hinduism",
+    "tags": [
+      "hinduism",
+      "cosmology",
+      "time"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hinduism-dharma-paths",
+    "headline": "Hinduism's 'Millions of Gods' Are Often One Reality",
+    "body": "Hinduism is sometimes described as having millions of gods, an idea that can baffle outsiders. But for many Hindus those countless deities are understood as different faces, names, or aspects of a single ultimate reality, often called Brahman. A traditional phrase pointing to a huge number of gods is, by many interpretations, less about counting separate beings than about expressing that the divine appears in endless forms. Many gods and one underlying reality are not seen as a contradiction.",
+    "summary": "Hinduism's many gods are often understood as varied faces of a single ultimate reality, Brahman.",
+    "categoryId": "religion-beliefs",
+    "topic": "Hinduism",
+    "tags": [
+      "hinduism",
+      "brahman",
+      "deities"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "iconography-reads-symbols",
+    "headline": "Medieval Viewers Could 'Read' Paintings Without Words",
+    "body": "In an age when most people could not read, religious art worked as a visual language. Figures were identified by their attributes, small signature objects, so a viewer instantly knew who was who. A man holding keys was Saint Peter; a woman with a wheel was Saint Catherine; a lion meant Saint Jerome. Knowing the code, people could 'read' a painted scene like a page of text, recognizing saints, stories, and virtues from clues built into the image.",
+    "summary": "Religious art identified saints by signature objects, letting illiterate viewers 'read' the images.",
+    "categoryId": "religion-beliefs",
+    "topic": "Iconography",
+    "tags": [
+      "iconography",
+      "saints",
+      "attributes"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "iconography-religious-art",
+    "headline": "The Swastika Was Sacred for 3,000 Years Before the Nazis",
+    "body": "Long before the 20th century gave it a horrific meaning, the swastika was a widely sacred symbol. Its name comes from a Sanskrit word for well-being, and for around 3,000 years it appeared as a sign of good fortune across Hindu, Buddhist, and Jain traditions, as well as many other cultures worldwide. It still holds that sacred meaning across much of Asia today. The same simple shape carries two utterly different histories depending on where and when it is seen.",
+    "summary": "The swastika was a sacred good-fortune symbol across Asian religions for millennia before its 20th-century misuse.",
+    "categoryId": "religion-beliefs",
+    "topic": "Iconography",
+    "tags": [
+      "iconography",
+      "swastika",
+      "sacred symbols"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "iconography-cross-cultural",
+    "headline": "The Glowing Halo Appeared in Many Cultures at Once",
+    "body": "The radiant disk of light around a holy figure's head feels distinctly Christian, but the halo was not a Christian invention. Similar glowing circles appear in ancient Greek and Roman art around gods and emperors, and in Buddhist art surrounding the Buddha, developing in different cultures around the same broad era. Across unconnected traditions, artists independently reached for the same idea: surround a sacred head with light to mark it as divine. The symbol of holiness was strikingly universal.",
+    "summary": "The halo arose independently in Greek, Roman, Buddhist, and Christian art to mark holy figures.",
+    "categoryId": "religion-beliefs",
+    "topic": "Iconography",
+    "tags": [
+      "iconography",
+      "halo",
+      "cross-cultural"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "islam-five-pillars",
+    "headline": "Praying Toward Mecca Helped Advance Astronomy",
+    "body": "One of Islam's Five Pillars is daily prayer, performed facing Mecca, a direction called the qibla. Figuring out that exact direction from anywhere on Earth is a genuine mathematical puzzle on a curved planet. Pursuing it helped drive medieval Muslim scholars to major advances in geometry, astronomy, and geography, including refined methods for finding direction and mapping the world. A simple act of devotion, turning to face a single point, pushed forward serious science across the medieval Islamic world.",
+    "summary": "Determining the qibla, the prayer direction to Mecca, spurred medieval advances in astronomy and geography.",
+    "categoryId": "religion-beliefs",
+    "topic": "Islam",
+    "tags": [
+      "islam",
+      "qibla",
+      "astronomy"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "islam-quran-foundation",
+    "headline": "Millions of People Have Memorized the Entire Qurʾān",
+    "body": "The Qurʾān is meant to be heard and recited, not just read silently, and that has produced a remarkable tradition. Millions of Muslims around the world have memorized the entire text, word for word, earning the title hafiz. The book is recited aloud in prayer, competitions, and daily life, and its standardized Arabic text is essentially the same everywhere. For many believers, the Qurʾān lives as much in human memory and sound as it does on the printed page.",
+    "summary": "Millions of Muslims, called hafiz, have memorized the entire Qurʾān word for word.",
+    "categoryId": "religion-beliefs",
+    "topic": "Islam",
+    "tags": [
+      "islam",
+      "quran",
+      "memorization"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "islam-hajj-pilgrimage",
+    "headline": "The Hajj Is One of the Largest Gatherings on Earth",
+    "body": "Each year the hajj draws roughly two million or more Muslims to Mecca at the same time, making it one of the largest human gatherings on the planet. Pilgrims from every continent move together through shared rites, including walking seven times counterclockwise around the Kaaba, the cube-shaped structure at the center. Coordinating the food, water, travel, and safety of millions in a few days, in one place, is among the most complex logistical events humans regularly attempt.",
+    "summary": "The hajj gathers 2 million-plus Muslims in Mecca at once, among the largest human gatherings on Earth.",
+    "categoryId": "religion-beliefs",
+    "topic": "Islam",
+    "tags": [
+      "islam",
+      "hajj",
+      "mecca"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "judaism-covenant-law-history",
+    "headline": "The Jewish Calendar Counts From the Creation of the World",
+    "body": "Most of the world numbers years from a single historical reference point, but the traditional Jewish calendar counts from a calculated date for the creation of the world. By that reckoning, the current year is in the 5780s, thousands of years 'higher' than the common civil year. This deep count links everyday dates to the very beginning of time as the tradition understands it. A glance at the calendar becomes a reminder of an enormous sweep of sacred history.",
+    "summary": "The Jewish calendar numbers years from a traditional date of creation, currently in the 5780s.",
+    "categoryId": "religion-beliefs",
+    "topic": "Judaism",
+    "tags": [
+      "judaism",
+      "hebrew calendar",
+      "timekeeping"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "judaism-diaspora-life",
+    "headline": "Hebrew Came Back to Life After 1,700 Years",
+    "body": "For roughly 1,700 years, Hebrew survived as a language of prayer, study, and scripture, but essentially no one grew up speaking it as their everyday mother tongue. Then, beginning in the late 1800s, a determined revival, led largely by Eliezer Ben-Yehuda, turned Hebrew back into a living, spoken language for daily life. Today millions speak it natively. It is the only known case in history of a 'dead' everyday language being successfully brought back into ordinary use.",
+    "summary": "Hebrew was a non-spoken language for ~1,700 years until a revival made it a living tongue again.",
+    "categoryId": "religion-beliefs",
+    "topic": "Judaism",
+    "tags": [
+      "judaism",
+      "hebrew",
+      "language revival"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "judaism-text-and-interpretation",
+    "headline": "The Talmud Deliberately Records the Arguments It Rejected",
+    "body": "The Talmud, a vast collection of Jewish law and discussion, does something unusual: it preserves not only the accepted rulings but the minority opinions that lost the debate. Centuries of rabbis arguing back and forth are recorded side by side, dissenting views included on purpose. The idea is that the losing argument still matters and might be needed someday. In this tradition, debate itself is treated as sacred, and disagreement is carefully kept rather than erased.",
+    "summary": "The Talmud deliberately preserves rejected minority opinions, treating debate itself as sacred.",
+    "categoryId": "religion-beliefs",
+    "topic": "Judaism",
+    "tags": [
+      "judaism",
+      "talmud",
+      "interpretation"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "monasteries-solitude-and-community",
+    "headline": "One Holy Man Lived 37 Years on Top of a Pillar",
+    "body": "Monastic devotion can take extreme solitary forms. In the 400s, a Christian ascetic named Simeon settled on top of a small platform atop a tall pillar and, according to tradition, stayed there for about 37 years, praying and preaching to crowds who gathered below. He inspired imitators, the 'pillar saints,' who also lived perched above the ground. It was one striking answer to a question monasticism keeps asking: how far should someone withdraw from the world to focus on the sacred?",
+    "summary": "The ascetic Simeon Stylites reportedly lived about 37 years atop a pillar in devotion.",
+    "categoryId": "religion-beliefs",
+    "topic": "Monasteries",
+    "tags": [
+      "monasteries",
+      "simeon stylites",
+      "asceticism"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "monasteries-spiritual-discipline",
+    "headline": "Monks Gave the World Champagne, Beer, and Genetics",
+    "body": "Monastic life, built around quiet discipline and patient labor, has produced surprising contributions to the outside world. A monk named Dom Perignon helped refine the making of Champagne, Trappist monks still brew some of the world's most prized beers, and the monastery garden of Gregor Mendel became the birthplace of modern genetics when he studied pea plants there. Withdrawal from ordinary life, it turns out, gave monks exactly the focus and time to perfect crafts and quietly change science.",
+    "summary": "Monks helped create Champagne and famous beers, and Gregor Mendel founded genetics in a monastery garden.",
+    "categoryId": "religion-beliefs",
+    "topic": "Monasteries",
+    "tags": [
+      "monasteries",
+      "monks",
+      "science"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "monasteries-social-centers",
+    "headline": "Monks Hand-Copying Books Saved the Ancient World",
+    "body": "During the centuries after Rome's collapse, much of Europe's classical learning survived in an unlikely place: the monastery. In quiet rooms called scriptoria, monks copied manuscripts by hand, letter by letter, preserving works of philosophy, science, history, and literature that might otherwise have been lost forever. It was slow, painstaking labor, sometimes producing beautifully illustrated pages. Without these patient copyists working through the so-called Dark Ages, a large part of the ancient world's knowledge would simply not have reached us.",
+    "summary": "Monks hand-copying manuscripts in monastery scriptoria preserved much of the ancient world's knowledge.",
+    "categoryId": "religion-beliefs",
+    "topic": "Monasteries",
+    "tags": [
+      "monasteries",
+      "scriptorium",
+      "manuscripts"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "monotheism-one-god",
+    "headline": "An Egyptian Pharaoh May Have Been History's First Monotheist",
+    "body": "Monotheism can feel timeless, but one of its earliest known appearances was a dramatic experiment that failed. Around 1350 BCE, the Egyptian pharaoh Akhenaten tried to sweep away Egypt's many gods and elevate worship of a single one, the sun-disk Aten. He moved the capital and reshaped religion and art around this idea. After his death, the priesthood reversed it all and tried to erase him from records. His radical one-god vision was buried for thousands of years.",
+    "summary": "Pharaoh Akhenaten attempted to enforce worship of one god around 1350 BCE, then was erased after death.",
+    "categoryId": "religion-beliefs",
+    "topic": "Monotheism",
+    "tags": [
+      "monotheism",
+      "akhenaten",
+      "ancient egypt"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "monotheism-spectrum",
+    "headline": "Belief in One God Often Grew Out of Many",
+    "body": "Strict belief in a single God, denying all others exist, is historically less common than it might seem. Many ancient peoples practiced something scholars call henotheism: devoting themselves to one chosen god while still accepting that other gods were real. Religious ideas about the divine often sat on a spectrum, with a supreme deity above lesser ones, rather than a simple choice between one god or many. Full, exclusive monotheism was in many cases a later development, not the starting point.",
+    "summary": "Many ancient peoples were henotheists, worshipping one god while accepting others existed.",
+    "categoryId": "religion-beliefs",
+    "topic": "Monotheism",
+    "tags": [
+      "monotheism",
+      "henotheism",
+      "religious history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "monotheism-shared-and-distinct",
+    "headline": "Three Major Religions All Trace Back to Abraham",
+    "body": "Judaism, Christianity, and Islam are often called the Abrahamic religions because all three trace their roots to the patriarch Abraham. They share many figures and stories, Moses, Abraham, and others appear across their scriptures, and Jesus is honored as a prophet in Islam. The city of Jerusalem is sacred to all three. Despite real and deep differences in belief and practice, these traditions are branches connected to a common ancestral root reaching back thousands of years.",
+    "summary": "Judaism, Christianity, and Islam are 'Abrahamic,' sharing the patriarch Abraham and holy city Jerusalem.",
+    "categoryId": "religion-beliefs",
+    "topic": "Monotheism",
+    "tags": [
+      "monotheism",
+      "abrahamic religions",
+      "jerusalem"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "myth-explains-world",
+    "headline": "The Same Trickster Character Appears All Over the World",
+    "body": "Cultures with no known contact kept inventing the same kinds of figures, and one of the most widespread is the trickster: a clever, rule-breaking character who outwits the powerful and stirs up change. West African and Caribbean stories have Anansi the spider; many Native American traditions have Coyote or Raven; ancient Greece had the sly messenger Hermes. Again and again, separate peoples imagined a cunning troublemaker to explain disorder and surprise in the world. The pattern seems to be deeply human.",
+    "summary": "The clever 'trickster' figure recurs across unconnected cultures, from Anansi to Coyote to Hermes.",
+    "categoryId": "religion-beliefs",
+    "topic": "Myth",
+    "tags": [
+      "myth",
+      "trickster",
+      "folklore"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "myth-validates-customs",
+    "headline": "Many Myths Exist to Explain a Ritual",
+    "body": "Sometimes a practice comes first and the story is invented to explain it. Scholars call these etiological myths: narratives that justify why a ritual is performed, why a festival exists, or why a custom must be followed. By tying the practice to sacred time or the actions of gods and ancestors, the story makes it feel ancient and authoritative rather than arbitrary. In this way myths can act less as history and more as explanations that give everyday customs their deeper meaning.",
+    "summary": "Etiological myths exist to justify rituals and customs by tying them to sacred origins.",
+    "categoryId": "religion-beliefs",
+    "topic": "Myth",
+    "tags": [
+      "myth",
+      "ritual",
+      "etiology"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "myth-not-same-as-folktale",
+    "headline": "Calling Something a 'Myth' Does Not Mean It Is False",
+    "body": "In everyday speech, 'myth' means something untrue. But to scholars who study religion and culture, the word means something quite different: a sacred story that helps a community explain the world and find meaning, regardless of whether it is literally factual. A myth's importance lies in what it does, anchoring values, origins, and identity, not in passing a fact-check. So when experts call a story a myth, they are describing its role and authority, not dismissing it as a lie.",
+    "summary": "In religious studies, 'myth' means a meaningful sacred story, not necessarily a false one.",
+    "categoryId": "religion-beliefs",
+    "topic": "Myth",
+    "tags": [
+      "myth",
+      "religious studies",
+      "meaning"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pilgrimage-sacred-travel",
+    "headline": "A Scallop Shell Marks Europe's Most Famous Pilgrimage",
+    "body": "For over a thousand years, pilgrims have walked the Camino de Santiago, the long network of routes across Europe leading to a shrine in northwestern Spain. Their badge is a humble scallop shell, still worn and marked on signposts along the way today, its grooves said to symbolize the many paths converging on one destination. Modern walkers even carry a 'pilgrim's passport,' stamped along the route. An ancient act of devotion has quietly survived into the age of guidebooks and hostels.",
+    "summary": "Camino de Santiago pilgrims have long carried a scallop shell, still the route's enduring symbol.",
+    "categoryId": "religion-beliefs",
+    "topic": "Pilgrimage",
+    "tags": [
+      "pilgrimage",
+      "camino de santiago",
+      "scallop shell"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pilgrimage-many-destinations",
+    "headline": "The Largest Human Gathering on Earth Is a Pilgrimage",
+    "body": "The biggest crowd humanity ever assembles is a religious one. India's Kumbh Mela, a Hindu pilgrimage held at sacred river sites, draws tens of millions of pilgrims, and across the full festival the total can climb into the hundreds of millions. The gatherings are so vast they are visible from space and require temporary cities to be built and dismantled. No concert, sporting event, or political rally comes close to the sheer scale of this act of shared faith.",
+    "summary": "India's Kumbh Mela pilgrimage is the largest human gathering on Earth, visible from space.",
+    "categoryId": "religion-beliefs",
+    "topic": "Pilgrimage",
+    "tags": [
+      "pilgrimage",
+      "kumbh mela",
+      "hinduism"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pilgrimage-modern-world",
+    "headline": "Medieval Pilgrimage Ran on a Booming Trade in Relics",
+    "body": "In the Middle Ages, pilgrimage was powered by relics, the physical remains or belongings of saints, which drew crowds and wealth to the churches that held them. Demand grew so intense that fakes flooded the market. So many fragments of the 'True Cross' were claimed across Europe that critics joked you could build a whole ship from them. Pilgrims traveled great distances to see and touch these objects, and the relic trade helped fund some of Europe's greatest cathedrals.",
+    "summary": "Medieval pilgrimage relied on a relic trade so inflated that critics joked the 'True Cross' fragments could build a ship.",
+    "categoryId": "religion-beliefs",
+    "topic": "Pilgrimage",
+    "tags": [
+      "pilgrimage",
+      "relics",
+      "middle ages"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "prayer-beads-counting-prayers",
+    "headline": "The Word 'Bead' Originally Meant 'Prayer'",
+    "body": "We think of a bead as a small object with a hole, but the word's history is the reverse. 'Bead' comes from an Old English word, bede, that meant 'prayer.' People spoke of 'telling their beads,' meaning saying their prayers, and counted those prayers on a string. Over time the name for the prayer slid onto the little objects used to keep track of them. So beads are literally named after praying, not the other way around.",
+    "summary": "The word 'bead' comes from an Old English word for 'prayer,' named for the prayers it counted.",
+    "categoryId": "religion-beliefs",
+    "topic": "Prayer Beads",
+    "tags": [
+      "prayer beads",
+      "language",
+      "prayer"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "prayer-beads-rosary-decades",
+    "headline": "'Rosary' Means 'Rose Garden'",
+    "body": "The Catholic rosary takes its name from the Latin for 'rose garden,' an old image of prayers offered like a bouquet of roses to the Virgin Mary. Before strings of beads became common, the faithful kept count of repeated prayers using knotted cords or piles of pebbles, moving one for each prayer. The familiar looped string of beads, divided into sets and used while meditating on sacred events, organized that counting into a steady, contemplative rhythm of speech and attention.",
+    "summary": "'Rosary' means 'rose garden,' and prayers were once counted on knotted cords or pebbles before beads.",
+    "categoryId": "religion-beliefs",
+    "topic": "Prayer Beads",
+    "tags": [
+      "prayer beads",
+      "rosary",
+      "catholicism"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "prayer-beads-cross-religious",
+    "headline": "Around the World, Prayer Beads Come in Sacred Numbers",
+    "body": "Different faiths reach for the same tool, a counting string, but with meaningful numbers. Hindu and Buddhist malas traditionally carry 108 beads, a number treated as sacred in Indian traditions. A Muslim misbaha often has 99, echoing the 99 names of God, or 33 counted in repeats. The Catholic rosary is built around groups that total around 59. The same simple idea, fingers moving bead by bead through a prayer, takes on a distinct numerical signature in each tradition.",
+    "summary": "Prayer beads use sacred counts, like the Hindu-Buddhist 108, the Muslim 99, and the rosary's groupings.",
+    "categoryId": "religion-beliefs",
+    "topic": "Prayer Beads",
+    "tags": [
+      "prayer beads",
+      "mala",
+      "misbaha"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "religion-belief-and-practice",
+    "headline": "The Word 'Religion' May Mean 'to Bind Together'",
+    "body": "Religion is famously hard to define, and even the word's origin is debated. One influential idea traces it to the Latin religare, meaning 'to bind' or 'tie fast.' By that reading, religion is whatever binds a community together, knitting people into a shared web of beliefs, rituals, and obligations. It is a fitting image for something that is rarely just private opinion: religion typically shows up in gatherings, festivals, and bonds between people as much as in personal conviction.",
+    "summary": "The word 'religion' is often traced to the Latin religare, 'to bind,' fitting its community-binding role.",
+    "categoryId": "religion-beliefs",
+    "topic": "Religion",
+    "tags": [
+      "religion",
+      "language",
+      "community"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "religion-symbols-matter",
+    "headline": "The Pretzel May Have Been Shaped Like Praying Arms",
+    "body": "Some everyday objects carry hidden religious roots. By long tradition, the pretzel's distinctive looped shape was created by monks to represent arms folded across the chest in prayer, with the three holes sometimes linked to ideas of the Trinity. The twisted bread was reportedly given to children as a reward for learning their prayers. Whether or not every detail is historical, the story shows how deeply religious symbolism has worked its way into ordinary things, even a snack.",
+    "summary": "By tradition, monks shaped the pretzel to look like arms folded in prayer.",
+    "categoryId": "religion-beliefs",
+    "topic": "Religion",
+    "tags": [
+      "religion",
+      "pretzel",
+      "symbols"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "religion-social-life",
+    "headline": "Hundreds of Thousands Once Declared Their Religion 'Jedi'",
+    "body": "Religion can be counted as well as believed, and census forms have produced some surprises. In the early 2000s, a grassroots campaign urged people in several English-speaking countries to write 'Jedi,' from the Star Wars films, as their religion. Hundreds of thousands did, partly as a joke and partly as a protest about being asked at all. It briefly became one of the larger 'religions' on some official forms, prompting real debate about what should even count as a religion.",
+    "summary": "In several 2000s censuses, hundreds of thousands listed 'Jedi' from Star Wars as their religion.",
+    "categoryId": "religion-beliefs",
+    "topic": "Religion",
+    "tags": [
+      "religion",
+      "census",
+      "jedi"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "religious-calendars-sky-cycles",
+    "headline": "Some Calendars Insert a Whole Extra Month",
+    "body": "Calendars that track the moon face a problem: twelve lunar months fall about 11 days short of a solar year, so holy days would slowly drift through the seasons. Some traditions solve this with a striking fix. The Hebrew calendar, for instance, adds an entire extra leap month seven times within every 19-year cycle, keeping festivals locked to their proper seasons. Rather than adjusting by a single day, these calendars occasionally grow a thirteenth month to keep sacred time and the sky aligned.",
+    "summary": "Lunisolar calendars like the Hebrew one add a whole leap month seven times every 19 years to stay seasonal.",
+    "categoryId": "religion-beliefs",
+    "topic": "Religious Calendars",
+    "tags": [
+      "religious calendars",
+      "lunisolar",
+      "leap month"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "religious-calendars-different-years",
+    "headline": "Right Now It Is Several Different Years at Once",
+    "body": "The year is not a fixed fact; it depends entirely on which calendar you use. At the very same moment that much of the world marks a year in the 2020s, the traditional Jewish calendar is in the 5780s, and the Islamic calendar is in the 1440s, each counting from a different starting point and with different-length years. Several 'current years' run side by side across the globe. The date on the wall is really just one tradition's way of counting time.",
+    "summary": "At any moment it is simultaneously different years on the Gregorian, Jewish, and Islamic calendars.",
+    "categoryId": "religion-beliefs",
+    "topic": "Religious Calendars",
+    "tags": [
+      "religious calendars",
+      "timekeeping",
+      "world religions"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "religious-calendars-move-festivals",
+    "headline": "Fixing the Date of Easter Was a Major Medieval Science",
+    "body": "Easter does not fall on a fixed date because its timing depends on both the sun and the moon: it lands on the first Sunday after the first full moon on or after the spring equinox. Working that out across future years was so genuinely difficult that medieval scholars developed an entire field of calculation, called the computus, just to predict it. Disputes over the correct method even split churches. A single holy day's date helped drive centuries of careful astronomy and math.",
+    "summary": "Easter's moon-and-equinox dating was so complex that medieval scholars built a whole science, the computus, to compute it.",
+    "categoryId": "religion-beliefs",
+    "topic": "Religious Calendars",
+    "tags": [
+      "religious calendars",
+      "easter",
+      "computus"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ritual-repeated-action",
+    "headline": "Rituals Calm the Mind Whether or Not You Believe",
+    "body": "Rituals are more than symbolic; they have measurable effects on people. Studies have found that performing a structured ritual, a set sequence of repeated actions, can reduce anxiety before a stressful event and ease grief after a loss, even among people who do not think the ritual 'works.' The predictable pattern seems to give the mind a sense of order and control when life feels chaotic. The power of ritual lies partly in the doing, not only in the believing.",
+    "summary": "Performing structured rituals can measurably reduce anxiety and grief, even for nonbelievers.",
+    "categoryId": "religion-beliefs",
+    "topic": "Ritual",
+    "tags": [
+      "ritual",
+      "psychology",
+      "repetition"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ritual-rites-of-passage",
+    "headline": "Every 'Rite of Passage' Shares the Same Three Stages",
+    "body": "A century ago, the scholar Arnold van Gennep noticed that ceremonies marking life's big changes, births, initiations, weddings, funerals, share a hidden structure across cultures. Each has three phases: separation from your old status, a strange in-between 'liminal' stage where you are neither here nor there, and reincorporation into the community with a new role. From a graduation to a bachelor party, the same ancient pattern still quietly shapes how we move from one chapter of life to the next.",
+    "summary": "Van Gennep found rites of passage worldwide share three stages: separation, a 'liminal' middle, and return.",
+    "categoryId": "religion-beliefs",
+    "topic": "Ritual",
+    "tags": [
+      "ritual",
+      "rites of passage",
+      "van gennep"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ritual-social-function",
+    "headline": "Doing a Ritual Together Synchronizes a Crowd",
+    "body": "When people perform a ritual together, chanting, singing, marching, or moving in unison, something powerful happens beyond the symbolism. The sociologist Emile Durkheim called it 'collective effervescence': a shared buzz of energy and belonging that rises when a group acts as one. Synchronized movement and sound can blur the line between individuals and bond them into a single body. It is a big reason rituals endure: they do not just express community, they actively create the feeling of it.",
+    "summary": "Acting in unison during ritual creates 'collective effervescence,' a bonding energy Durkheim described.",
+    "categoryId": "religion-beliefs",
+    "topic": "Ritual",
+    "tags": [
+      "ritual",
+      "durkheim",
+      "community"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sacred-texts-scripture-authority",
+    "headline": "A Shepherd's Stray Rock Uncovered 2,000-Year-Old Scriptures",
+    "body": "In 1947, a young shepherd tossing a rock into a cave near the Dead Sea heard pottery break, and stumbled onto one of history's great discoveries. The caves held the Dead Sea Scrolls, ancient manuscripts roughly 2,000 years old, including the oldest known copies of Hebrew biblical texts. Remarkably, they matched versions written a thousand years later very closely, showing how faithfully the scriptures had been copied across the centuries. An accidental throw revealed evidence of extraordinary care in preserving a sacred text.",
+    "summary": "The Dead Sea Scrolls, found by a shepherd in 1947, matched biblical texts copied 1,000 years later.",
+    "categoryId": "religion-beliefs",
+    "topic": "Sacred Texts",
+    "tags": [
+      "sacred texts",
+      "dead sea scrolls",
+      "preservation"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sacred-texts-written-and-oral",
+    "headline": "The Vedas Were Memorized Perfectly for 3,000 Years",
+    "body": "Long before they were written down, India's Vedas were preserved purely in human memory, with astonishing precision. Reciters used elaborate techniques, chanting the words forwards, backwards, and in scrambled patterns, as a built-in error check to guard against a single mistake. This oral discipline kept the texts essentially unchanged for some 3,000 years, an achievement so remarkable that it has been recognized as a masterpiece of humanity's oral heritage. The 'book' lived flawlessly in memory before it ever touched a page.",
+    "summary": "India's Vedas were preserved near-perfectly by memorized recitation for about 3,000 years before being written.",
+    "categoryId": "religion-beliefs",
+    "topic": "Sacred Texts",
+    "tags": [
+      "sacred texts",
+      "vedas",
+      "oral tradition"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "sacred-texts-many-traditions",
+    "headline": "Sikhs Treat Their Scripture as a Living Guru",
+    "body": "For Sikhs, the Guru Granth Sahib is not merely a holy book but a living teacher, regarded as the eternal Guru. It is treated with the honor due a revered person: ceremonially placed on a raised throne under a canopy during the day, respectfully laid to rest at night, and 'awoken' in the morning. Devotees stand in its presence and consult it for guidance. Here, scripture is not just read or quoted; it is honored as a present, living guide.",
+    "summary": "Sikhs honor their scripture, the Guru Granth Sahib, as a living Guru, even giving it rest at night.",
+    "categoryId": "religion-beliefs",
+    "topic": "Sacred Texts",
+    "tags": [
+      "sacred texts",
+      "guru granth sahib",
+      "sikhism"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
