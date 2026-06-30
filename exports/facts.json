@@ -30627,5 +30627,464 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "chernobyl-unit-four-explosion",
+    "headline": "Wildlife Now Thrives in the Chernobyl Exclusion Zone",
+    "body": "Decades after the accident, the most surprising thing about the Chernobyl exclusion zone is how alive it is. With nearly all humans gone from the contaminated area, wildlife has reclaimed the abandoned towns and forests in remarkable numbers. Wolves, lynx, wild boar, elk, and rare Przewalski's horses now roam where families once lived. Scientists still debate the radiation's effects on the animals, but the broad lesson is striking: in this place, the absence of people has been better for nature than their presence.",
+    "summary": "With humans gone, the Chernobyl exclusion zone has become an unexpected haven for wolves, lynx, and wild horses.",
+    "categoryId": "famous-disasters",
+    "topic": "Chernobyl",
+    "tags": [
+      "chernobyl",
+      "exclusion zone",
+      "wildlife"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chernobyl-pripyat-evacuation",
+    "headline": "Pripyat's New Ferris Wheel Never Officially Opened",
+    "body": "Pripyat, the city built for Chernobyl's workers, was evacuated about a day and a half after the explosion, its roughly 50,000 residents told to pack lightly and expect to return in a few days. They never did. One haunting detail captures the abandonment: a brand-new amusement park, complete with a bright yellow Ferris wheel, had been due to open just days later for a holiday. It never officially operated, and its rusting wheel now stands as a symbol of the ghost city.",
+    "summary": "Pripyat's amusement park Ferris wheel was days from opening when the city was abandoned, and never officially ran.",
+    "categoryId": "famous-disasters",
+    "topic": "Chernobyl",
+    "tags": [
+      "chernobyl",
+      "pripyat",
+      "abandonment"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "chernobyl-sweden-detected-radiation",
+    "headline": "Workers in Sweden Discovered Chernobyl on Their Shoes",
+    "body": "The Soviet Union tried to keep the Chernobyl accident quiet, but radiation does not respect borders. Two days later, at a nuclear plant in Sweden over 1,000 kilometers away, workers set off radiation alarms, and at first staff feared a leak at their own reactor. Checking carefully, they found the contamination was on people's clothes and shoes, blown in on the wind from the east. Their alarmed questions helped force the Soviets to finally admit a disaster had occurred.",
+    "summary": "Sweden uncovered the hidden Chernobyl disaster when plant workers found windborne radiation on their own shoes.",
+    "categoryId": "famous-disasters",
+    "topic": "Chernobyl",
+    "tags": [
+      "chernobyl",
+      "sweden",
+      "radiation"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fukushima-earthquake-tsunami",
+    "headline": "Fukushima's Seawall Was Built Too Low",
+    "body": "The Fukushima plant was designed to withstand a tsunami of roughly five to six meters. When the massive 2011 earthquake sent a wall of water around fourteen meters high crashing ashore, it easily overtopped the seawall. The flooding swamped the emergency backup generators, which were located low in the buildings, knocking out the power needed to keep the reactors cool. The core disaster was not the earthquake itself but a defensive barrier that had been built for a far smaller wave.",
+    "summary": "Fukushima's ~5-6 m seawall was overwhelmed by a ~14 m tsunami that flooded the backup generators and stopped cooling.",
+    "categoryId": "famous-disasters",
+    "topic": "Fukushima",
+    "tags": [
+      "fukushima",
+      "seawall",
+      "tsunami"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fukushima-hydrogen-explosions",
+    "headline": "A Nearby Plant Survived the Same Tsunami Safely",
+    "body": "While Fukushima Daiichi melted down, another nuclear plant even closer to the earthquake, Onagawa, rode out the disaster safely. The key difference was foresight. Decades earlier, an engineer there had insisted, against pressure, on building the plant on higher ground with a taller seawall, around fourteen meters. When the tsunami struck, Onagawa's defenses held, the reactors shut down cleanly, and the plant was undamaged enough that local townspeople who had lost their homes actually sheltered inside it. One stubborn decision made all the difference.",
+    "summary": "The Onagawa nuclear plant survived the 2011 tsunami because of a taller seawall and even sheltered local evacuees.",
+    "categoryId": "famous-disasters",
+    "topic": "Fukushima",
+    "tags": [
+      "fukushima",
+      "onagawa",
+      "engineering"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fukushima-mass-evacuation",
+    "headline": "Retirees Volunteered for Fukushima's Most Dangerous Work",
+    "body": "After the Fukushima meltdown, a group of hundreds of Japanese retirees volunteered to take on the most hazardous cleanup tasks themselves. Their reasoning was sobering and selfless: radiation often causes cancers that take decades to develop, so elderly workers would likely die of old age before any such illness appeared, while young workers might not. By stepping forward, the so-called Skilled Veterans Corps hoped to spare the next generation from the long-term risks. It was a quietly heroic response to a frightening situation.",
+    "summary": "Hundreds of Japanese retirees volunteered for Fukushima's riskiest cleanup, reasoning radiation's cancers come too slowly to affect them.",
+    "categoryId": "famous-disasters",
+    "topic": "Fukushima",
+    "tags": [
+      "fukushima",
+      "skilled veterans corps",
+      "volunteers"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "great-chicago-fire-wooden-city",
+    "headline": "The Chicago Fire Helped Give Birth to the Skyscraper",
+    "body": "The Great Chicago Fire destroyed much of the city, but it also cleared the ground for a building revolution. Eager to rebuild fast and fireproof, the city drew ambitious architects who experimented with iron, steel, and fire-resistant materials in the burned-over downtown. Out of that rebuilding boom emerged a new kind of structure, the steel-framed high-rise. Within little more than a decade, Chicago had produced what is often called the world's first true skyscraper. Catastrophe had become a blank canvas for modern architecture.",
+    "summary": "Chicago's rush to rebuild fireproof after the 1871 fire helped spark the invention of the steel-framed skyscraper.",
+    "categoryId": "famous-disasters",
+    "topic": "Great Chicago Fire",
+    "tags": [
+      "great chicago fire",
+      "skyscrapers",
+      "rebuilding"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "great-chicago-fire-oleary-barn",
+    "headline": "Chicago Cleared Mrs. O'Leary's Cow After 126 Years",
+    "body": "Everyone knows the Great Chicago Fire of 1871 started when Mrs. O'Leary's cow kicked over a lantern, but the story was essentially made up. A newspaper reporter later admitted he had invented the colorful detail to spice up his coverage. The fire did begin near the O'Leary barn, but the real cause was never proven, and the family endured generations of blame for it. Finally, in 1997, the Chicago City Council formally passed a resolution officially exonerating Mrs. O'Leary and her cow.",
+    "summary": "The story of Mrs. O'Leary's cow starting the Chicago Fire was a reporter's invention; the city cleared her in 1997.",
+    "categoryId": "famous-disasters",
+    "topic": "Great Chicago Fire",
+    "tags": [
+      "great chicago fire",
+      "oleary cow",
+      "myths"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "great-chicago-fire-scale",
+    "headline": "A Deadlier Fire Burned the Same Night and Was Forgotten",
+    "body": "On the very same night the Great Chicago Fire broke out, a far deadlier blaze was raging about 250 miles north. The Peshtigo Fire swept through the dry forests of Wisconsin and killed an estimated 1,200 or more people, possibly over 2,000, making it the deadliest wildfire in American history. Yet because it struck a remote rural area while flames consumed a major city the same evening, Peshtigo was overshadowed and largely forgotten, while Chicago's fire became world famous.",
+    "summary": "The Peshtigo wildfire, America's deadliest, burned the same night as the Chicago Fire but was overshadowed and forgotten.",
+    "categoryId": "famous-disasters",
+    "topic": "Great Chicago Fire",
+    "tags": [
+      "great chicago fire",
+      "peshtigo fire",
+      "wildfires"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "krakatoa-loudest-sound",
+    "headline": "A 'Child of Krakatoa' Rose From the Sea Decades Later",
+    "body": "Krakatoa's 1883 eruption was so violent it largely destroyed the island itself, leaving mostly empty sea where a volcano had stood. But the volcano was not finished. Decades later, in the 1920s, a new island began rising from the water in the same spot, built up by ongoing eruptions. Indonesians named it Anak Krakatau, meaning 'Child of Krakatoa.' The young volcano is still active and dangerous; in 2018 part of it collapsed into the sea, triggering a tsunami that killed hundreds.",
+    "summary": "Krakatoa destroyed itself in 1883, but a new volcano, 'Anak Krakatau' or Child of Krakatoa, later rose from the sea and still erupts.",
+    "categoryId": "famous-disasters",
+    "topic": "Krakatoa",
+    "tags": [
+      "krakatoa",
+      "anak krakatau",
+      "volcano"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "krakatoa-tsunami-deaths",
+    "headline": "Krakatoa's Tsunami Carried a Ship a Mile Inland",
+    "body": "Most of Krakatoa's victims were not killed by lava or ash but by water. The 1883 eruption triggered enormous tsunamis, with waves reaching around 120 feet, that slammed into the coasts of Java and Sumatra and killed roughly 36,000 people. The waves' power was almost beyond belief: a Dutch warship, the Berouw, was picked up and carried nearly a mile inland, coming to rest in a jungle valley well above sea level. The volcano's deadliest weapon turned out to be the sea.",
+    "summary": "Krakatoa's eruption sent ~120-foot tsunamis that killed about 36,000 people and carried a warship nearly a mile inland.",
+    "categoryId": "famous-disasters",
+    "topic": "Krakatoa",
+    "tags": [
+      "krakatoa",
+      "tsunami",
+      "indonesia"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "krakatoa-global-sunsets",
+    "headline": "Krakatoa's Skies May Glow in Munch's 'The Scream'",
+    "body": "When Krakatoa erupted in 1883, it hurled so much ash and gas into the upper atmosphere that skies around the world turned strange and vivid for months, glowing with intense reds and oranges at dusk. One famous theory links those eerie skies to art. A decade later, the painter Edvard Munch described a blood-red sky over Norway that inspired his masterpiece 'The Scream,' and some scientists believe the unnatural colors he remembered were the lingering afterglow of distant Krakatoa.",
+    "summary": "Krakatoa's 1883 ash turned skies blood-red worldwide, possibly inspiring the sky in Munch's painting 'The Scream.'",
+    "categoryId": "famous-disasters",
+    "topic": "Krakatoa",
+    "tags": [
+      "krakatoa",
+      "the scream",
+      "edvard munch"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pompeii-vesuvius-burial",
+    "headline": "About a Third of Pompeii Is Still Buried",
+    "body": "Even after centuries of digging, Pompeii has not given up all its secrets. Roughly a third of the ancient city still lies unexcavated beneath volcanic debris, deliberately left buried for future archaeologists with better tools. New discoveries keep emerging from the parts being explored. In recent years, excavators uncovered a remarkably preserved thermopolium, a Roman fast-food counter, its colorful serving jars still in place and traces of the last meals it sold detectable inside. A disaster's time capsule is still actively being opened.",
+    "summary": "About a third of Pompeii remains unexcavated, and recent digs revealed a preserved Roman 'fast-food' counter with food traces.",
+    "categoryId": "famous-disasters",
+    "topic": "Pompeii",
+    "tags": [
+      "pompeii",
+      "excavation",
+      "thermopolium"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pompeii-preserved-city",
+    "headline": "Pompeii's Victims Left Body-Shaped Holes in the Ash",
+    "body": "As Pompeii was buried, the volcanic ash hardened around its victims. Over centuries the bodies decayed away, leaving empty, body-shaped cavities sealed in the rock. In the 1860s an archaeologist realized he could pour liquid plaster into these hollows, and when it set, it produced haunting casts of the victims in their final moments, capturing exact poses, clothing folds, and facial expressions. Among the casts is even a dog, still twisted as it strained against its chain. Emptiness became a portrait of catastrophe.",
+    "summary": "Archaeologists poured plaster into the body-shaped cavities left in Pompeii's ash, creating haunting casts of victims' final moments.",
+    "categoryId": "famous-disasters",
+    "topic": "Pompeii",
+    "tags": [
+      "pompeii",
+      "plaster casts",
+      "archaeology"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pompeii-excavation-source",
+    "headline": "Pompeii's Walls Are Covered in Ancient Graffiti",
+    "body": "Pompeii preserved something rarely found in history books: the unfiltered voices of ordinary people. Its walls are covered in thousands of pieces of graffiti scratched and painted by everyday Romans, and they are wonderfully human. There are election ads, business notices, and prices, but also crude insults, boasts, declarations of love, complaints, and simple notes amounting to 'I was here.' Reading them feels startlingly modern. The buried city captured not just grand architecture, but the gossip and jokes of real residents.",
+    "summary": "Pompeii's walls preserve thousands of ordinary Romans' graffiti, from election ads to insults and lovers' notes.",
+    "categoryId": "famous-disasters",
+    "topic": "Pompeii",
+    "tags": [
+      "pompeii",
+      "graffiti",
+      "roman life"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "great-fire-london-pudding-lane",
+    "headline": "An Innocent Man Was Hanged for the Great Fire",
+    "body": "London needed someone to blame for the Great Fire, and it found a tragic scapegoat. A disturbed French watchmaker named Robert Hubert bizarrely confessed to deliberately starting the blaze, and despite doubts about his story, he was convicted and hanged. It later became clear his confession was false; evidence showed his ship had not even reached London until after the fire had already begun. He had taken the blame for a catastrophe that actually started by accident in a Pudding Lane bakery.",
+    "summary": "A disturbed Frenchman falsely confessed to starting the Great Fire and was hanged, though he wasn't even in London when it began.",
+    "categoryId": "famous-disasters",
+    "topic": "Great Fire of London",
+    "tags": [
+      "great fire of london",
+      "robert hubert",
+      "scapegoat"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "great-fire-london-four-fifths",
+    "headline": "The Great Fire of London Officially Killed Only Six People",
+    "body": "The Great Fire of 1666 devoured around 13,000 houses and most of medieval London, yet the official death toll was famously tiny: just six recorded deaths. Historians suspect the true number was higher, since the poor and uncounted may have perished unnoticed, and the intense heat could have cremated remains entirely. Still, for a disaster that leveled a great city, remarkably few confirmed deaths were recorded. The fire destroyed an astonishing amount of property while, on paper, taking very few lives.",
+    "summary": "The Great Fire of London leveled most of the city, yet its official recorded death toll was only about six people.",
+    "categoryId": "famous-disasters",
+    "topic": "Great Fire of London",
+    "tags": [
+      "great fire of london",
+      "death toll",
+      "1666"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "great-fire-london-old-foundations",
+    "headline": "Londoners Blew Up Houses to Stop the Great Fire",
+    "body": "To fight the unstoppable Great Fire, Londoners turned to demolition, tearing down and even blowing up rows of houses with gunpowder to create firebreaks the flames could not cross. The destruction was deliberate, sacrificing buildings to starve the fire of fuel. The disaster had one debated silver lining: many believed it helped end the Great Plague that had ravaged London the year before, by destroying the cramped, rat-infested slums where the disease had spread, though historians still argue over how much it really helped.",
+    "summary": "Londoners dynamited houses to make firebreaks against the Great Fire, which some believed helped end the 1665 plague.",
+    "categoryId": "famous-disasters",
+    "topic": "Great Fire of London",
+    "tags": [
+      "great fire of london",
+      "firebreaks",
+      "plague"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "challenger-crew-report-uncertainty",
+    "headline": "A Teacher Aboard Meant Schoolchildren Watched It Live",
+    "body": "The Challenger crew included Christa McAuliffe, a high school teacher chosen from thousands of applicants to become the first ordinary teacher in space. Because of her, the launch was broadcast into classrooms across the country, and huge numbers of schoolchildren were watching live when the shuttle broke apart 73 seconds after liftoff. The presence of a beloved teacher turned a spaceflight into a shared national moment, which made the tragedy strike a generation of young viewers especially hard.",
+    "summary": "Challenger carried teacher Christa McAuliffe, so schoolchildren nationwide were watching the launch live.",
+    "categoryId": "famous-disasters",
+    "topic": "Challenger Disaster",
+    "tags": [
+      "challenger disaster",
+      "christa mcauliffe",
+      "teacher in space"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "challenger-breakup-forces",
+    "headline": "A Glass of Ice Water Explained the Challenger Disaster",
+    "body": "The 1986 Challenger disaster traced back to a small rubber seal called an O-ring. On the freezing launch morning, the cold made it stiff, so it failed to seal hot gases inside a booster. Engineers had warned the night before that the cold was dangerous and urged a delay, but they were overruled. Later, physicist Richard Feynman cut through the technical fog on live television by dropping a piece of O-ring into a glass of ice water to show how it hardened.",
+    "summary": "Challenger was doomed by a cold-stiffened O-ring, which Feynman famously demonstrated using a glass of ice water.",
+    "categoryId": "famous-disasters",
+    "topic": "Challenger Disaster",
+    "tags": [
+      "challenger disaster",
+      "o-ring",
+      "richard feynman"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "challenger-pressure-loss",
+    "headline": "Challenger Showed How Disasters Slowly Become 'Normal'",
+    "body": "Investigators found the deeper cause of Challenger was not just a part, but a mindset. On earlier flights, engineers had noticed the same O-rings suffering heat damage, yet because nothing had gone wrong, they gradually came to treat the danger as acceptable. Sociologists later called this slow slide 'normalization of deviance,' where warning signs are explained away until catastrophe strikes. The disaster became a lasting lesson, taught far beyond NASA, about how organizations can talk themselves into ignoring obvious risks.",
+    "summary": "Challenger popularized 'normalization of deviance,' the slow process of treating repeated warning signs as acceptable.",
+    "categoryId": "famous-disasters",
+    "topic": "Challenger Disaster",
+    "tags": [
+      "challenger disaster",
+      "normalization of deviance",
+      "risk"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "great-molasses-flood-tank",
+    "headline": "A Wave of Molasses Raced Through Boston at 35 MPH",
+    "body": "It sounds almost comical, but the 1919 Boston molasses disaster was terrifyingly violent. When a giant storage tank burst, it unleashed a wave of molasses estimated at up to 25 feet high that surged through the streets at around 35 miles per hour, far faster than anyone could run. The thick, heavy flood smashed buildings off their foundations, buckled the steel supports of an elevated railway, and trapped victims in a sticky, suffocating tide. It killed 21 people and injured around 150.",
+    "summary": "Boston's 1919 molasses flood sent a ~25-foot wave surging at about 35 mph, killing 21 and injuring 150.",
+    "categoryId": "famous-disasters",
+    "topic": "Great Molasses Flood",
+    "tags": [
+      "great molasses flood",
+      "boston",
+      "disaster"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "great-molasses-flood-wave",
+    "headline": "Boston Smelled of Molasses for Decades Afterward",
+    "body": "Cleaning up over two million gallons of molasses was a monumental, sticky ordeal. Crews used salt water and sand to scrub the streets, buildings, and harbor, and the work dragged on for weeks while the harbor ran brown for months. But the smell proved far more stubborn. For decades afterward, residents of Boston's North End swore that on hot summer days, when the heat warmed the ground, they could still catch the faint, sickly-sweet scent of molasses rising from the old neighborhood.",
+    "summary": "Cleanup of Boston's molasses flood took weeks, and locals said the sweet smell lingered on hot days for decades.",
+    "categoryId": "famous-disasters",
+    "topic": "Great Molasses Flood",
+    "tags": [
+      "great molasses flood",
+      "cleanup",
+      "boston history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "great-molasses-flood-winter-day",
+    "headline": "A Molasses Tank Was Painted Brown to Hide Its Leaks",
+    "body": "After the molasses flood, the company blamed anarchist saboteurs, but a long court case revealed a more ordinary villain: shoddy engineering. The huge tank had been rushed into use without proper testing, was too thin for its load, and had leaked so persistently that the company simply painted it brown to disguise the dribbling molasses. The landmark case held the company responsible and is often credited with strengthening rules requiring qualified engineers to certify major structures, a lasting shift in public safety.",
+    "summary": "Boston's molasses tank was shoddily built and painted brown to hide leaks; the case helped tighten engineering safety laws.",
+    "categoryId": "famous-disasters",
+    "topic": "Great Molasses Flood",
+    "tags": [
+      "great molasses flood",
+      "engineering",
+      "safety"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hindenburg-thirty-four-seconds",
+    "headline": "The Hydrogen-Filled Hindenburg Had a Smoking Room",
+    "body": "In a decision that seems almost unbelievable, the Hindenburg, an airship buoyed by enormous amounts of highly flammable hydrogen, contained a dedicated smoking room for passengers. To make it as safe as possible, the room was sealed and kept at higher air pressure to keep hydrogen out, fitted with a single electric lighter, and watched by a steward; no open flames or personal lighters were allowed. Passengers could relax with a cigarette aloft, separated from a sky's worth of explosive gas by careful engineering.",
+    "summary": "The hydrogen-filled Hindenburg featured a sealed, pressurized smoking room with a single electric lighter for passengers.",
+    "categoryId": "famous-disasters",
+    "topic": "Hindenburg",
+    "tags": [
+      "hindenburg",
+      "smoking room",
+      "airship"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hindenburg-ended-airship-travel",
+    "headline": "Most People Aboard the Hindenburg Actually Survived",
+    "body": "The Hindenburg fireball is one of history's most horrifying pieces of footage, so it surprises many people that most of those aboard lived. Of the 97 passengers and crew, 62 survived the inferno, many by leaping from the low, slowly falling airship as it settled toward the ground. The disaster also produced a legendary broadcast: radio reporter Herbert Morrison, watching in anguish, cried out 'Oh, the humanity!', a phrase that has echoed through media ever since.",
+    "summary": "Despite the famous fireball, 62 of the 97 people aboard the Hindenburg survived, and 'Oh, the humanity!' became iconic.",
+    "categoryId": "famous-disasters",
+    "topic": "Hindenburg",
+    "tags": [
+      "hindenburg",
+      "survivors",
+      "herbert morrison"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hindenburg-mail-burned",
+    "headline": "The Hindenburg Burned Because the US Withheld Helium",
+    "body": "The Hindenburg was designed to float on helium, a gas that does not burn, which would have made it far safer. But helium was scarce and the United States controlled almost the entire world supply. Wary of Nazi Germany, the US refused to export helium to it. With no other option, German engineers filled the giant airship with hydrogen instead, a gas that is highly flammable. The disaster's deadly fire was made possible by a geopolitical decision about who could buy a gas.",
+    "summary": "The Hindenburg used flammable hydrogen instead of safe helium because the US barred helium exports to Nazi Germany.",
+    "categoryId": "famous-disasters",
+    "topic": "Hindenburg",
+    "tags": [
+      "hindenburg",
+      "helium",
+      "hydrogen"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
