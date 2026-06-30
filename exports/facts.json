@@ -28587,5 +28587,515 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "dinosaur-eggs-all-dinosaurs-hatched",
+    "headline": "The Biggest Dinosaurs Hatched From Surprisingly Small Eggs",
+    "body": "Even the most colossal dinosaurs, giants that grew to tens of tons, began life in eggs no larger than a football. There is a hard physical limit: an eggshell must stay thin enough for oxygen to reach the embryo inside, so it cannot simply scale up with the adult. A baby sauropod hatched from something a person could cradle in two hands, then faced the daunting job of growing thousands of times heavier to reach adult size.",
+    "summary": "Even giant dinosaurs hatched from eggs no bigger than a football, since shells can't thicken without suffocating the embryo.",
+    "categoryId": "dinosaurs",
+    "topic": "Dinosaur Eggs",
+    "tags": [
+      "dinosaur eggs",
+      "sauropods",
+      "reproduction"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dinosaur-eggs-embryos-rare",
+    "headline": "A Dinosaur Named 'Egg Thief' Was Actually a Caring Parent",
+    "body": "In the 1920s, a dinosaur was discovered atop a clutch of eggs and assumed to be raiding the nest of another species, so scientists named it Oviraptor, 'egg thief.' The label stuck for about 70 years. Then paleontologists found a similar dinosaur with an embryo inside one of those very eggs, proving the eggs were its own. The 'thief' had actually been sitting protectively on its nest, brooding its babies. Its name commemorates a 70-year-old false accusation.",
+    "summary": "Oviraptor, named 'egg thief,' was later shown to be brooding its own eggs, not stealing them.",
+    "categoryId": "dinosaurs",
+    "topic": "Dinosaur Eggs",
+    "tags": [
+      "dinosaur eggs",
+      "oviraptor",
+      "parental care"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dinosaur-eggs-nesting-colonies",
+    "headline": "One Dinosaur's Name Means 'Good Mother Lizard'",
+    "body": "A Montana fossil site changed how we picture dinosaurs as parents. It preserved nests, eggs, hatchlings, and adults of a duck-billed dinosaur together, and the worn-down teeth of babies still in the nest suggested adults were bringing them food. The discovery was so striking that the dinosaur was named Maiasaura, meaning 'good mother lizard.' Far from cold reptiles abandoning their eggs, at least some dinosaurs appear to have cared for their young after they hatched.",
+    "summary": "A Montana nesting site led to the dinosaur 'Maiasaura,' or 'good mother lizard,' showing parental care.",
+    "categoryId": "dinosaurs",
+    "topic": "Dinosaur Eggs",
+    "tags": [
+      "dinosaur eggs",
+      "maiasaura",
+      "parental care"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ankylosaurus-armored-tank",
+    "headline": "Ankylosaurus Swung a Tail Club That Could Break Bone",
+    "body": "Ankylosaurus carried a sledgehammer at the end of its tail: a mass of fused bone, swung by a stiff, muscular tail base. Researchers who modeled the biomechanics concluded the largest clubs could swing with enough force to shatter the leg bone of an attacker. This was a slow, low-slung plant eater, but it was far from helpless. A predator that closed in risked a crippling blow from a living club of solid bone.",
+    "summary": "Ankylosaurus could swing its fused bony tail club hard enough to shatter a predator's leg bone.",
+    "categoryId": "dinosaurs",
+    "topic": "Ankylosaurus",
+    "tags": [
+      "ankylosaurus",
+      "tail club",
+      "defense"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ankylosaurus-tail-club",
+    "headline": "An Armored Dinosaur Was Found With Its Camouflage Intact",
+    "body": "In 2011, miners in Canada unearthed an armored dinosaur so flawlessly preserved it looks like a sculpture, with skin, armor, and even its outer shape intact. Nicknamed Borealopelta, this cousin of Ankylosaurus was studied so closely that chemical traces revealed its coloring: a reddish-brown back fading to a pale belly, a camouflage pattern called countershading. Remarkably, this heavily armored, tank-like plant eater still needed to hide, hinting it faced predators powerful enough to make camouflage worthwhile.",
+    "summary": "A superbly preserved armored dinosaur, Borealopelta, still shows it had reddish camouflage coloring.",
+    "categoryId": "dinosaurs",
+    "topic": "Ankylosaurus",
+    "tags": [
+      "ankylosaurus",
+      "borealopelta",
+      "fossils"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "ankylosaurus-leaf-teeth",
+    "headline": "Even Ankylosaurus's Eyelids Were Armored",
+    "body": "Ankylosaurus took body armor to an extreme. Beyond the thick bony plates across its back and the spikes along its sides, it had armor in places most animals leave exposed, including bony shutters that protected its eyelids. Almost every vulnerable surface was reinforced. Yet for all that menace, it was a committed plant eater with small, leaf-shaped teeth. The fearsome look was pure defense, built to make this herbivore far too costly to attack.",
+    "summary": "Ankylosaurus was armored even on its eyelids, yet was a plant eater with small leaf-shaped teeth.",
+    "categoryId": "dinosaurs",
+    "topic": "Ankylosaurus",
+    "tags": [
+      "ankylosaurus",
+      "armor",
+      "herbivore"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "brachiosaurus-giraffe-build",
+    "headline": "Lifting That Head Demanded Almost Impossible Blood Pressure",
+    "body": "Brachiosaurus held its head high on a giraffe-like build, but raising blood that far created a serious problem. To pump blood all the way up its towering neck to a brain meters above the heart, it would have needed blood pressure far higher than any animal alive today, putting enormous strain on the heart. The challenge is so extreme that scientists still debate whether these giants routinely held their necks fully upright or kept them lower to ease the load.",
+    "summary": "To pump blood up its huge neck, Brachiosaurus needed blood pressure beyond any living animal.",
+    "categoryId": "dinosaurs",
+    "topic": "Brachiosaurus",
+    "tags": [
+      "brachiosaurus",
+      "blood pressure",
+      "sauropods"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "brachiosaurus-treetop-browser",
+    "headline": "Brachiosaurus Swallowed Its Food Without Chewing",
+    "body": "Brachiosaurus could lift its head nearly four stories up to reach treetop leaves, but it did almost nothing to them in its mouth. Its peg-like teeth raked leaves off branches, and then it simply swallowed them whole, without chewing. The real digestion happened in an enormous gut, where the greenery fermented slowly over days, broken down by microbes. The giant was less a careful eater than a walking vat, stripping vegetation and letting its vast insides do the work.",
+    "summary": "Brachiosaurus raked leaves from treetops and swallowed them whole, fermenting them in a huge gut.",
+    "categoryId": "dinosaurs",
+    "topic": "Brachiosaurus",
+    "tags": [
+      "brachiosaurus",
+      "digestion",
+      "herbivore"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "brachiosaurus-not-a-swimmer",
+    "headline": "Brachiosaurus Had Hollow, Air-Filled Bones Like a Bird",
+    "body": "For an animal weighing tens of tons, Brachiosaurus had a clever weight-saving trick borrowed by its relatives the birds: many of its bones were not solid but hollow and filled with air sacs. This honeycomb-like structure kept the skeleton strong while dramatically lightening it, especially in the long neck. The same air-filled bone design helps modern birds fly. In Brachiosaurus, it helped make an impossibly large body just light enough to walk the land.",
+    "summary": "Brachiosaurus saved weight with hollow, air-filled bones, the same lightening trick birds use today.",
+    "categoryId": "dinosaurs",
+    "topic": "Brachiosaurus",
+    "tags": [
+      "brachiosaurus",
+      "pneumatic bones",
+      "birds"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dinosaur-extinction-asteroid-theory",
+    "headline": "A Thin Layer of Rare Metal Cracked the Dinosaur Mystery",
+    "body": "The breakthrough in explaining the dinosaurs' end came from chemistry, not bones. In 1980, a father-and-son team, geologist Walter Alvarez and Nobel-winning physicist Luis Alvarez, found a thin worldwide layer of iridium in 66-million-year-old rock. Iridium is rare in Earth's crust but abundant in asteroids, so a global dusting of it pointed to a massive impact from space. That single chemical clue shifted the leading theory from scattered guesses to a planet-shaking collision.",
+    "summary": "A worldwide layer of asteroid-rich iridium, found in 1980 by the Alvarez team, pointed to an impact.",
+    "categoryId": "dinosaurs",
+    "topic": "Dinosaur Extinction",
+    "tags": [
+      "dinosaur extinction",
+      "iridium",
+      "alvarez"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dinosaur-extinction-sunlight-collapse",
+    "headline": "The Dinosaurs Died Because the Asteroid Hit the Worst Spot",
+    "body": "The asteroid that struck near Mexico's Yucatan, leaving the buried Chicxulub crater, may have doomed the dinosaurs partly through sheer bad luck. It slammed into shallow sea over rock rich in sulfur. The impact blasted enormous amounts of sulfur and dust skyward, which spread worldwide, blocked the sun, and chilled the planet for years. Scientists estimate that hitting almost anywhere else might have been far less deadly. Geography, not just the impact, helped end an era.",
+    "summary": "The dino-killing asteroid hit sulfur-rich rock at Chicxulub, worsening the sky-darkening catastrophe.",
+    "categoryId": "dinosaurs",
+    "topic": "Dinosaur Extinction",
+    "tags": [
+      "dinosaur extinction",
+      "chicxulub",
+      "impact"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dinosaur-extinction-kpg-scale",
+    "headline": "One Fossil Site May Record the Very Day the Asteroid Hit",
+    "body": "Most extinctions are blurry across thousands of years, but a site in North Dakota called Tanis may preserve a single catastrophic day 66 million years ago. Researchers report fish buried in debris with tiny impact spherules lodged in their gills, as if they breathed in the fallout within hours of the strike thousands of miles away. If the interpretation holds, Tanis is an almost unbelievable snapshot: the opening moments of the disaster that ended the age of dinosaurs, frozen in stone.",
+    "summary": "The Tanis site in North Dakota may capture the actual day of the asteroid impact 66 million years ago.",
+    "categoryId": "dinosaurs",
+    "topic": "Dinosaur Extinction",
+    "tags": [
+      "dinosaur extinction",
+      "tanis",
+      "k-pg"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fossils-rare-preservation",
+    "headline": "We've Probably Found Only a Fraction of All Dinosaurs",
+    "body": "Becoming a fossil is extraordinarily unlikely. A dead animal usually rots or is scavenged, and only in rare conditions do its hard parts get buried and slowly turned to stone. Because of those long odds, many dinosaur species are known from just a single bone or tooth, and scientists estimate we have discovered only a small share of all the kinds that ever lived. Every museum skeleton represents countless others that vanished without leaving a trace.",
+    "summary": "Fossilization is so rare that many dinosaurs are known from one bone, and most species remain undiscovered.",
+    "categoryId": "dinosaurs",
+    "topic": "Fossils",
+    "tags": [
+      "fossils",
+      "fossil record",
+      "paleontology"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fossils-permineralization",
+    "headline": "Scientists Found Soft Tissue Inside a T. rex Bone",
+    "body": "Fossils are usually rock-hard mineral copies of bone, so it stunned scientists when soft, stretchy material turned up inside a Tyrannosaurus rex leg bone. After dissolving away the mineral, researchers reported flexible, branching structures resembling blood vessels, along with what may be fragments of ancient proteins. The findings, still studied and debated, challenge the old assumption that nothing organic could survive 66 million years. A fossil, it seems, may occasionally hold more than stone.",
+    "summary": "Researchers found flexible, vessel-like soft tissue inside a 66-million-year-old T. rex bone.",
+    "categoryId": "dinosaurs",
+    "topic": "Fossils",
+    "tags": [
+      "fossils",
+      "soft tissue",
+      "tyrannosaurus rex"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fossils-careful-excavation",
+    "headline": "Two Rivals Waged a Dynamite-Fueled 'Bone War'",
+    "body": "In the late 1800s, American fossil hunting turned into open warfare. Two paleontologists, Edward Cope and Othniel Marsh, despised each other and raced to find and name more dinosaurs. Their feud, the 'Bone Wars,' involved spying, bribery, stolen fossils, and reportedly even dynamiting dig sites so the other could not have them. Their reckless rush named scores of new species but also caused famous blunders. Scientific discovery, it turns out, can be driven by bitter personal rivalry.",
+    "summary": "The 1800s 'Bone Wars' saw rivals Cope and Marsh spy, bribe, and dynamite sites to out-discover each other.",
+    "categoryId": "dinosaurs",
+    "topic": "Fossils",
+    "tags": [
+      "fossils",
+      "bone wars",
+      "paleontology history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "iguanodon-iguana-tooth-name",
+    "headline": "Scientists Held a Dinner Party Inside a Dinosaur",
+    "body": "When the first life-size dinosaur statues were built in London in the 1850s, Iguanodon was among them, and its debut came with a celebration to match. On New Year's Eve in 1853, the sculptor hosted a formal dinner for around 20 guests seated inside the half-finished, hollow mold of a standing Iguanodon. Diners ate and toasted from within the belly of a dinosaur. It was a fittingly strange launch for the brand-new public fascination with prehistoric beasts.",
+    "summary": "In 1853, scientists held a New Year's Eve dinner party seated inside a hollow life-size Iguanodon model.",
+    "categoryId": "dinosaurs",
+    "topic": "Iguanodon",
+    "tags": [
+      "iguanodon",
+      "crystal palace",
+      "dinosaur history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "iguanodon-thumb-spike",
+    "headline": "Iguanodon's Thumb Spike Spent Decades on Its Nose",
+    "body": "Iguanodon had a sharp, cone-shaped spike on each thumb, but early scientists had no idea what it was. When they first reconstructed the animal in the 1800s, they mistook the spike for a horn and stuck it on the creature's nose, like a rhino. Only later, with better skeletons, did researchers realize the 'horn' was actually a thumb. For years, one of the first dinosaurs known to science was walking around museums wearing its thumb on its face.",
+    "summary": "Iguanodon's thumb spike was originally mistaken for a nose horn and mounted on its snout for decades.",
+    "categoryId": "dinosaurs",
+    "topic": "Iguanodon",
+    "tags": [
+      "iguanodon",
+      "thumb spike",
+      "reconstruction"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "iguanodon-helped-define-dinosaurs",
+    "headline": "Iguanodon Was Named for a Lizard It Wasn't Related To",
+    "body": "Iguanodon means 'iguana tooth.' Gideon Mantell coined it in the 1820s after noticing that its fossil teeth resembled those of a modern iguana, an early clue to a lost world of giant reptiles. The name does not mean it was an iguana relative. Iguanodon was one of just a few creatures that led Richard Owen to define a brand-new group in 1842, Dinosauria, often translated 'terrible lizards', even though dinosaurs are not actually lizards at all.",
+    "summary": "Iguanodon, named 'iguana tooth' from its teeth, helped Owen coin 'Dinosauria,' though dinosaurs aren't lizards.",
+    "categoryId": "dinosaurs",
+    "topic": "Iguanodon",
+    "tags": [
+      "iguanodon",
+      "dinosauria",
+      "gideon mantell"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stegosaurus-plates-not-simple-armor",
+    "headline": "Stegosaurus Ran a Bus-Sized Body on a Walnut-Sized Brain",
+    "body": "Stegosaurus was about the size of a bus, yet its brain was famously tiny, often compared to a walnut or a golf ball. The mismatch was so striking that scientists once proposed it had a 'second brain' near its hips to help control its back half. That idea has since been abandoned; the space was likely an enlarged nerve junction or energy store, not a brain. Still, the giant truly did run its enormous body on a remarkably small mind.",
+    "summary": "Stegosaurus had a walnut-sized brain in a bus-sized body, inspiring the debunked 'second brain' myth.",
+    "categoryId": "dinosaurs",
+    "topic": "Stegosaurus",
+    "tags": [
+      "stegosaurus",
+      "brain",
+      "anatomy"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stegosaurus-tail-spikes",
+    "headline": "Stegosaurus's Tail Spikes Are Named After a Cartoon",
+    "body": "The cluster of sharp spikes on the end of a Stegosaurus tail had no scientific name for over a century. Then, in 1982, cartoonist Gary Larson drew a Far Side comic in which a caveman lecturer calls the spikes a 'thagomizer,' named after 'the late Thag Simmons.' Paleontologists found it so useful and amusing that they actually adopted the joke term. Today 'thagomizer' is used in real scientific writing, a piece of official anatomy that started as a newspaper gag.",
+    "summary": "Stegosaurus's tail spikes are officially called the 'thagomizer,' a term coined in a 1982 Far Side cartoon.",
+    "categoryId": "dinosaurs",
+    "topic": "Stegosaurus",
+    "tags": [
+      "stegosaurus",
+      "thagomizer",
+      "far side"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "stegosaurus-ankylosaur-relatives",
+    "headline": "Nobody Is Sure What Those Stegosaurus Plates Were For",
+    "body": "The big triangular plates running along a Stegosaurus's back are instantly recognizable, yet their purpose remains genuinely uncertain. They were probably too thin and oddly placed to be good armor. Scientists have suggested they helped the animal show off, recognize its own species, or control body temperature using blood flowing through them. One study even argued males and females had differently shaped plates. The most famous feature of this dinosaur is also one of its biggest unsolved mysteries.",
+    "summary": "Stegosaurus's iconic back plates were likely for display or temperature, not armor, and remain debated.",
+    "categoryId": "dinosaurs",
+    "topic": "Stegosaurus",
+    "tags": [
+      "stegosaurus",
+      "plates",
+      "display"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "triceratops-three-horns",
+    "headline": "Triceratops Had One of the Biggest Heads of Any Land Animal",
+    "body": "Triceratops is easy to recognize from its three horns and broad neck frill, but the real shock is scale. Its skull could reach around 2.5 meters, roughly 8 feet, long, making it one of the largest heads of any land animal ever known. In big individuals, the head alone made up close to a third of the entire body length. Carrying such an enormous, horned, frilled skull was a feat of engineering for the dinosaur's neck and shoulders.",
+    "summary": "Triceratops had a skull up to about 8 feet long, among the largest heads of any land animal ever.",
+    "categoryId": "dinosaurs",
+    "topic": "Triceratops",
+    "tags": [
+      "triceratops",
+      "skull",
+      "horns"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "triceratops-late-and-numerous",
+    "headline": "Fossils Prove T. rex and Triceratops Really Fought",
+    "body": "The classic showdown between Triceratops and Tyrannosaurus rex is not just movie fiction. The two lived at the same time and place at the very end of the dinosaur age, and the fossils bear witness to their clashes. Paleontologists have found Triceratops bones marked with T. rex bite wounds, including a frill and horn that show signs of being bitten and then healing, meaning that particular Triceratops survived the encounter. Predator and prey left a real record of their battles.",
+    "summary": "Fossils show real combat between T. rex and Triceratops, including bite marks a Triceratops survived.",
+    "categoryId": "dinosaurs",
+    "topic": "Triceratops",
+    "tags": [
+      "triceratops",
+      "tyrannosaurus rex",
+      "late cretaceous"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "triceratops-skull-story",
+    "headline": "A Triceratops May Have Just Been a Young 'Torosaurus'",
+    "body": "Triceratops skulls changed dramatically as the animals grew, and that has fueled a bold, contested idea. Some paleontologists argue that Torosaurus, long considered a separate dinosaur with a longer, hole-bearing frill, is really just a fully mature Triceratops. If correct, it would mean two 'species' in textbooks were actually one animal at different ages. The debate shows how a dinosaur's wildly shifting skull through life can blur the line between youth, old age, and an entirely new species.",
+    "summary": "Triceratops skulls changed so much with age that some scientists think 'Torosaurus' is just an old Triceratops.",
+    "categoryId": "dinosaurs",
+    "topic": "Triceratops",
+    "tags": [
+      "triceratops",
+      "torosaurus",
+      "growth"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tyrannosaurus-king-name",
+    "headline": "T. rex Lived Closer to Us Than to Stegosaurus",
+    "body": "It is easy to lump all dinosaurs together, but they are separated by spans of time almost too large to grasp. Stegosaurus had already been extinct for roughly 80 million years before Tyrannosaurus rex ever appeared. In fact, T. rex, which lived about 66 million years ago, is closer in time to us today than it was to Stegosaurus. The 'age of dinosaurs' was not one moment but a vast stretch in which different giants rose and vanished.",
+    "summary": "T. rex lived about 66 million years ago, closer in time to humans than to Stegosaurus.",
+    "categoryId": "dinosaurs",
+    "topic": "Tyrannosaurus rex",
+    "tags": [
+      "tyrannosaurus rex",
+      "deep time",
+      "mesozoic"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tyrannosaurus-sixty-teeth",
+    "headline": "T. rex Bit So Hard It Crushed and Digested Bone",
+    "body": "Tyrannosaurus rex had the most powerful bite of any known land animal, strong enough to crunch straight through the bones of its prey. We know it really did this because fossilized T. rex droppings have been found packed with crushed, partly digested bone fragments. Lined with about 60 thick, serrated teeth and a skull braced to absorb tremendous force, its head worked like a bone-shattering machine. Few predators in history could literally eat their victims, skeleton and all.",
+    "summary": "T. rex had the strongest bite of any land animal, crushing bone that shows up digested in its fossil dung.",
+    "categoryId": "dinosaurs",
+    "topic": "Tyrannosaurus rex",
+    "tags": [
+      "tyrannosaurus rex",
+      "bite force",
+      "coprolite"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tyrannosaurus-predator-scavenger",
+    "headline": "The 'King' of Dinosaurs May Have Been Fluffy as a Baby",
+    "body": "The popular image of Tyrannosaurus rex as a purely scaly monster is being rethought. Close tyrannosaur relatives have been found covered in feathery fuzz, raising the strong possibility that T. rex hatchlings were downy rather than bare. Whether large adults kept much of that coat is debated, since some skin impressions show scales. But the fearsome 'king of the tyrant lizards' may well have started life as a fluffy chick, a soft beginning for one of history's great predators.",
+    "summary": "T. rex's close relatives had feathers, so young Tyrannosaurus rex may have been fluffy rather than scaly.",
+    "categoryId": "dinosaurs",
+    "topic": "Tyrannosaurus rex",
+    "tags": [
+      "tyrannosaurus rex",
+      "feathers",
+      "theropods"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "velociraptor-not-movie-sized",
+    "headline": "The Real Velociraptor Was a Feathered Turkey-Sized Hunter",
+    "body": "Hollywood's Velociraptor is a tall, scaly, human-sized killer, but the real animal would barely reach your knee. It stood about the size of a turkey, roughly two feet tall at the hip and maybe 15 kilograms, and it was covered in feathers. The fearsome movie 'raptors' were actually modeled on a larger cousin and scaled up further for the screen. A true Velociraptor was still a swift, dangerous predator, just one closer to a vicious feathered bird than a giant reptile.",
+    "summary": "The real Velociraptor was a feathered, turkey-sized predator, far smaller than its movie version.",
+    "categoryId": "dinosaurs",
+    "topic": "Velociraptor",
+    "tags": [
+      "velociraptor",
+      "size",
+      "feathers"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "velociraptor-sickle-claw",
+    "headline": "A Fossil Forearm Proved Velociraptor Had Feathers",
+    "body": "Beyond its famous sickle-shaped killing claw, Velociraptor left direct evidence of feathers. In 2007, scientists examining a fossil forearm bone found a row of small bumps called quill knobs, the very same anchor points where large feathers attach in modern birds. That meant Velociraptor almost certainly had well-developed feathers on its arms, even though it could not fly. The bones themselves confirmed that this iconic predator was a feathered animal, tightening the link between raptor dinosaurs and birds.",
+    "summary": "Quill knobs found on a Velociraptor arm bone in 2007 proved the predator had feathers like a bird.",
+    "categoryId": "dinosaurs",
+    "topic": "Velociraptor",
+    "tags": [
+      "velociraptor",
+      "quill knobs",
+      "feathers"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "velociraptor-asian-dromaeosaur",
+    "headline": "One Fossil Caught a Velociraptor and Its Prey Mid-Fight",
+    "body": "A famous fossil from Mongolia preserves a moment of life-and-death drama frozen in time. It shows a Velociraptor and a Protoceratops, a sheep-sized plant eater, locked together in combat, the predator's sickle claw at the herbivore's throat while the Protoceratops clamps down on the raptor's arm. The two were apparently buried suddenly, perhaps by a collapsing dune, and died still grappling. The 'Fighting Dinosaurs' offer an astonishingly rare snapshot of how these predators actually attacked.",
+    "summary": "Mongolia's 'Fighting Dinosaurs' fossil preserves a Velociraptor and Protoceratops buried mid-battle.",
+    "categoryId": "dinosaurs",
+    "topic": "Velociraptor",
+    "tags": [
+      "velociraptor",
+      "fighting dinosaurs",
+      "protoceratops"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
