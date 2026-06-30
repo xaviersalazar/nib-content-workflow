@@ -31086,5 +31086,515 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "pearl-divers-dangerous-work",
+    "headline": "Japan's 'Ama' Are Women Who Dive Into Old Age",
+    "body": "In Japan, pearl and shellfish diving has long been the work of women called ama, or 'sea women.' For some two thousand years they have plunged into cold coastal waters holding only a single breath, with no air tanks, to gather oysters, abalone, and seaweed from the seafloor. Traditionally they kept diving well into their seventies and even eighties, their lungs and cold tolerance honed over a lifetime. It is one of the oldest, and most physically demanding, jobs still practiced today.",
+    "summary": "Japan's 'ama' women have free-dived for shellfish and pearls for some 2,000 years, often continuing into old age.",
+    "categoryId": "strange-jobs",
+    "topic": "Pearl Divers",
+    "tags": [
+      "pearl divers",
+      "ama",
+      "free diving"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pearl-divers-skin-diving",
+    "headline": "One Invention Nearly Wiped Out the Pearl-Diving Job",
+    "body": "For centuries, the only way to get a pearl was to send a diver down to pry open wild oysters and hope. Then, around the early 1900s, a Japanese entrepreneur named Mikimoto perfected the cultured pearl, learning to coax oysters into reliably growing pearls by inserting a tiny seed. Suddenly pearls could be farmed in calm water instead of hunted in dangerous depths. The breakthrough flooded the market with affordable pearls and made the perilous trade of the natural-pearl diver nearly obsolete.",
+    "summary": "Mikimoto's invention of the cultured pearl let pearls be farmed, making dangerous natural-pearl diving nearly obsolete.",
+    "categoryId": "strange-jobs",
+    "topic": "Pearl Divers",
+    "tags": [
+      "pearl divers",
+      "mikimoto",
+      "cultured pearls"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pearl-divers-broome-world-capital",
+    "headline": "A Pearling Town's Cemetery Holds Hundreds of Divers",
+    "body": "The Australian pearling town of Broome made fortunes, but at a terrible human cost recorded in its graveyards. Its Japanese cemetery alone holds the graves of around 900 divers, many of whom died young from decompression sickness, 'the bends,' after surfacing too quickly from the deep. Add drownings, shark attacks, and cyclones, and pearl diving became one of the deadliest jobs of its era. The beautiful shell that became buttons and jewelry was paid for in divers' lives.",
+    "summary": "Broome's pearling was so deadly that its Japanese cemetery holds around 900 divers, many killed by the bends.",
+    "categoryId": "strange-jobs",
+    "topic": "Pearl Divers",
+    "tags": [
+      "pearl divers",
+      "broome",
+      "decompression sickness"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "snake-milkers-venom-collection",
+    "headline": "Antivenom Is Basically Purified Horse Blood",
+    "body": "The venom that snake milkers collect becomes lifesaving medicine through an unexpected animal: the horse. To make antivenom, scientists inject small, non-lethal amounts of the milked venom into horses, sheep, or goats. The animal's immune system responds by producing antibodies against the toxins, and those antibodies are then harvested from its blood and purified into antivenom. So the treatment that saves a snakebite victim is, at heart, refined blood plasma from a horse trained to fight the very venom that was collected.",
+    "summary": "Antivenom is made by injecting milked venom into horses, then harvesting and purifying the antibodies from their blood.",
+    "categoryId": "strange-jobs",
+    "topic": "Snake Milkers",
+    "tags": [
+      "snake milkers",
+      "antivenom",
+      "horses"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "snake-milkers-face-shields",
+    "headline": "Snake Venom Can Be Worth More Than Gold",
+    "body": "A snake milker collects one of the most expensive liquids on the planet. Because venom must be extracted drop by drop from individual snakes, and a single snake yields only a tiny amount, it commands astonishing prices, with some snake venoms selling for thousands of dollars per gram, far more than gold. The venom is precious because it is essential for making antivenom and for medical research. The job is dangerous, but the substance it produces is worth a small fortune.",
+    "summary": "Collected snake venom can sell for thousands of dollars per gram, making it worth more than gold.",
+    "categoryId": "strange-jobs",
+    "topic": "Snake Milkers",
+    "tags": [
+      "snake milkers",
+      "venom",
+      "value"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "snake-milkers-research-venom",
+    "headline": "One Snake Milker Survived 170 Bites and Lived to 100",
+    "body": "The most famous snake milker, Bill Haast, treated venom almost like a vaccine for himself. Over roughly six decades he deliberately injected himself with snake venom in tiny, increasing doses to build immunity, and survived an estimated 170-plus venomous bites that would have killed most people. His blood became so rich in antibodies that he donated it to help treat snakebite victims around the world. Remarkably, all that self-experimentation did not shorten his life: Haast lived to 100.",
+    "summary": "Snake milker Bill Haast self-injected venom for decades, survived over 170 bites, and lived to age 100.",
+    "categoryId": "strange-jobs",
+    "topic": "Snake Milkers",
+    "tags": [
+      "snake milkers",
+      "bill haast",
+      "immunity"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "foley-artists-live-sounds",
+    "headline": "Almost Every Sound in a Movie Is Faked Later",
+    "body": "It feels like the sounds in a film were captured as the scene was filmed, but they usually were not. On set, microphones focus on the actors' dialogue, often missing or muddying everything else. So nearly all the other sounds you hear, the footsteps, the clinking glasses, the rustle of a coat, the creak of a door, are performed and recorded afterward by Foley artists in a studio. An entire layer of a movie's reality is quietly rebuilt, sound by sound, after the cameras stop.",
+    "summary": "Most everyday sounds in a film, from footsteps to rustling clothes, are performed and recorded later by Foley artists.",
+    "categoryId": "strange-jobs",
+    "topic": "Foley Artists",
+    "tags": [
+      "foley artists",
+      "post-production",
+      "film sound"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "foley-artists-become-actor",
+    "headline": "The Job Is Named After a Real Man, Jack Foley",
+    "body": "The strange profession of Foley artist is named after an actual person. Jack Foley was a sound man at Universal Studios who, in the era when films first gained sound, pioneered the art of performing live sound effects in sync with the picture. He and his successors made footsteps, rustles, and crashes by hand on a stage. Despite essentially inventing a craft used in nearly every film since, Foley himself never received an Academy Award, but the entire job now bears his name.",
+    "summary": "The job of 'Foley artist' is named after Jack Foley, a Universal sound pioneer who never won an Oscar.",
+    "categoryId": "strange-jobs",
+    "topic": "Foley Artists",
+    "tags": [
+      "foley artists",
+      "jack foley",
+      "film sound"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "foley-artists-junk-stages",
+    "headline": "Foley Artists Snap Celery to Fake Breaking Bones",
+    "body": "Much of a movie's most convincing violence and weather is faked with groceries and odd props. To create the sickening crack of a breaking bone, a Foley artist might simply snap a stalk of celery or a head of cabbage. The crunch of footsteps in fresh snow is often cornstarch squeezed inside a leather pouch, and flapping gloves can become beating wings. The most realistic sounds in a film frequently come from the least glamorous objects on the Foley stage.",
+    "summary": "Foley artists fake sounds with everyday items, like snapping celery for breaking bones and squeezing cornstarch for snow.",
+    "categoryId": "strange-jobs",
+    "topic": "Foley Artists",
+    "tags": [
+      "foley artists",
+      "sound effects",
+      "props"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "odor-judges-trained-panel",
+    "headline": "Companies Pay People to Sniff Armpits All Day",
+    "body": "It is a real and steady job: professional armpit sniffers. Companies that make deodorants and antiperspirants employ trained 'odor judges' to smell volunteers' underarms and rate how strong the smell is, before and after using a product. A single judge may sniff thousands of armpits over a year. Machines still cannot match the human nose for this kind of judgment, so testing whether a deodorant actually works comes down to dedicated people leaning in and taking a deep breath.",
+    "summary": "Deodorant makers employ trained 'odor judges' who sniff thousands of armpits a year to test their products.",
+    "categoryId": "strange-jobs",
+    "topic": "Odor Judges",
+    "tags": [
+      "odor judges",
+      "deodorant",
+      "sensory testing"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "odor-judges-symptom-timing",
+    "headline": "NASA Smells Everything Before It Flies to Space",
+    "body": "NASA employs a 'master sniffer' whose job is to smell objects before they are allowed aboard a spacecraft. The reason is practical: in a sealed capsule or station, astronauts cannot open a window, so any foul or overpowering odor from a gadget, fabric, or tool becomes an inescapable problem. For decades, a chief sniffer at NASA has personally smell-tested thousands of items, from cameras to toys, rejecting anything too strong. In space, a bad smell is not a minor annoyance; it is a mission concern.",
+    "summary": "NASA has a 'master sniffer' who smell-tests every object before spaceflight, since bad odors are inescapable in a capsule.",
+    "categoryId": "strange-jobs",
+    "topic": "Odor Judges",
+    "tags": [
+      "odor judges",
+      "nasa",
+      "master sniffer"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "odor-judges-nose-plus-chemistry",
+    "headline": "A Trained Nose Can Smell a Flaw in Parts Per Trillion",
+    "body": "The human nose, properly trained, is an astonishingly sensitive instrument. Expert sensory panels can detect certain off-notes at concentrations of just parts per trillion. A classic example is the musty taint that ruins corked wine, caused by a compound people can smell at levels equivalent to a few drops spread through an Olympic swimming pool. That sensitivity is why industries still rely on trained human noses, sometimes alongside chemical tests, to catch defects that machines might overlook.",
+    "summary": "Trained sensory experts can detect flaws like wine's 'cork taint' at parts per trillion, a few drops in a huge pool.",
+    "categoryId": "strange-jobs",
+    "topic": "Odor Judges",
+    "tags": [
+      "odor judges",
+      "sensitivity",
+      "quality control"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "professional-sleepers-head-down",
+    "headline": "NASA Pays People to Lie in Bed for 70 Days",
+    "body": "NASA really will pay you to stay in bed, but it is far from restful. In its bed-rest studies, volunteers spend up to 70 days lying with their bodies tilted slightly head-downward, and they must do everything, eating, showering, even using the toilet, without ever standing up. The head-down tilt shifts fluids and unloads the muscles and bones in ways that mimic weightlessness. Participants are paid thousands of dollars to let scientists study what space does to the human body, from a bed.",
+    "summary": "NASA pays bed-rest volunteers to lie head-down for up to 70 days without standing, to mimic weightlessness.",
+    "categoryId": "strange-jobs",
+    "topic": "Professional Sleepers",
+    "tags": [
+      "professional sleepers",
+      "nasa",
+      "bed rest"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "professional-sleepers-space-body",
+    "headline": "Weeks in Bed Age the Body Shockingly Fast",
+    "body": "Staying in bed is not as harmless as it sounds. With the body unloaded and barely moving, muscles weaken and bones lose density at a startling pace, dropping by a noticeable amount in just weeks, in a process that resembles accelerated aging. This is exactly why bed-rest studies are so valuable. They let scientists watch the same rapid decline that astronauts suffer in orbit, and that elderly or bedridden people face on Earth, then test exercises and treatments to slow it down.",
+    "summary": "Weeks of bed rest cause rapid muscle and bone loss like accelerated aging, helping study both spaceflight and aging.",
+    "categoryId": "strange-jobs",
+    "topic": "Professional Sleepers",
+    "tags": [
+      "professional sleepers",
+      "muscle loss",
+      "aging"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "professional-sleepers-boredom-data",
+    "headline": "Hotels and Bed Brands Hire Professional Sleepers",
+    "body": "Beyond science labs, 'professional sleeper' is a genuine commercial job. Mattress companies and hotels hire people to sleep on their products and report back on comfort, support, and quality. Bedding brands have paid testers to nap on dozens of mattresses, and some luxury hotels have employed sleepers to try out rooms and even advise guests on getting better rest. For a lucky few, getting paid to lie down and judge how well they slept is an actual line on a resume.",
+    "summary": "Mattress companies and hotels hire 'professional sleepers' to test beds and rate comfort and quality.",
+    "categoryId": "strange-jobs",
+    "topic": "Professional Sleepers",
+    "tags": [
+      "professional sleepers",
+      "mattress testing",
+      "hotels"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "forensic-entomologists-blow-flies",
+    "headline": "Flies Solved a Murder in 13th-Century China",
+    "body": "The first recorded case of using insects to catch a killer dates back nearly 800 years. A Chinese investigator's 1247 handbook describes a stabbing in a village where the murder weapon, a sickle, could not be identified among many. The investigator had all the local workers lay down their sickles in the sun. Flies, drawn by invisible traces of blood and tissue, swarmed onto just one of them. Confronted with the buzzing evidence, its owner confessed. Forensic entomology is centuries older than the modern crime lab.",
+    "summary": "A 1247 Chinese handbook records the first forensic entomology case: flies swarmed a killer's blood-traced sickle.",
+    "categoryId": "strange-jobs",
+    "topic": "Forensic Entomologists",
+    "tags": [
+      "forensic entomology",
+      "history",
+      "china"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "forensic-entomologists-arrive-fast",
+    "headline": "Maggots Act Like a Clock for Time of Death",
+    "body": "Blow flies can smell death from far away and may arrive at a body within minutes, laying eggs almost immediately. That punctuality turns the insects that follow into a kind of clock. Because maggots hatch and grow through predictable stages at rates tied to temperature, a forensic entomologist can identify the species, measure how far the larvae have developed, and work backward to estimate how long ago death occurred, sometimes narrowing it to a matter of hours. The maggots quietly keep time.",
+    "summary": "Because blow-fly maggots grow at predictable, temperature-linked rates, entomologists use them to estimate time of death.",
+    "categoryId": "strange-jobs",
+    "topic": "Forensic Entomologists",
+    "tags": [
+      "forensic entomology",
+      "maggots",
+      "time of death"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "forensic-entomologists-temperature",
+    "headline": "Maggots Can Be Tested for Drugs and Poisons",
+    "body": "Insects on a body do more than tell time; they can be analyzed like tiny evidence lockers. In a field called entomotoxicology, scientists test the maggots feeding on remains for drugs, poisons, or toxins, which the larvae absorb from the tissue they eat. This can reveal substances even when a body is too decayed for ordinary testing. The insects can also betray that a corpse was moved, if species turn up that only live somewhere other than where the body was found.",
+    "summary": "Maggots feeding on a body absorb drugs and toxins, so testing them can reveal poisoning or that a corpse was moved.",
+    "categoryId": "strange-jobs",
+    "topic": "Forensic Entomologists",
+    "tags": [
+      "forensic entomology",
+      "entomotoxicology",
+      "evidence"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "food-tasters-five-senses",
+    "headline": "The Original Food Taster's Job Was to Risk Poisoning",
+    "body": "Long before tasting was about quality, it was about survival, for the boss. The earliest food tasters were servants who sampled a ruler's food and drink first, to make sure it had not been poisoned. From Roman emperors onward, powerful figures kept tasters whose grim duty was to fall ill, or die, in their master's place. Astonishingly, the role never fully disappeared; some modern heads of state are still reported to have food tasters. It may be one of history's oldest and riskiest jobs.",
+    "summary": "The original food taster sampled a ruler's meal to check for poison, a dangerous role used since Roman times.",
+    "categoryId": "strange-jobs",
+    "topic": "Food Tasters",
+    "tags": [
+      "food tasters",
+      "poison",
+      "history"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "food-tasters-trained-panels",
+    "headline": "Professional Tasters Live by Strict Palate Rules",
+    "body": "Keeping a reliable palate is a full-time discipline, so professional tasters live by surprisingly strict rules. Many avoid wearing perfume or cologne, do not smoke, and steer clear of spicy foods, strong coffee, garlic, and even certain toothpastes before working, because anything that dulls or overwhelms the senses can ruin a tasting. The goal is to keep the nose and tongue as neutral and sensitive as possible. For these experts, protecting their senses is as important as the act of tasting itself.",
+    "summary": "Professional tasters avoid perfume, smoking, and strong or spicy foods to keep their palate neutral and sensitive.",
+    "categoryId": "strange-jobs",
+    "topic": "Food Tasters",
+    "tags": [
+      "food tasters",
+      "palate",
+      "sensory work"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "food-tasters-ice-cream-texture",
+    "headline": "Ice Cream Tasters Use a Gold Spoon and Insured Taste Buds",
+    "body": "Professional ice cream tasters take their tools seriously. Many use a gold spoon, because gold imparts no taste of its own and does not hold cold the way metal spoons do, keeping each sample pure. The job demands an extraordinary palate to catch subtle texture flaws like grittiness or excess air across dozens of samples a day. One famous taster valued his sense of taste so highly that he reportedly had his taste buds insured for around a million dollars.",
+    "summary": "Ice cream tasters use a flavorless gold spoon, and one famous taster insured his taste buds for about $1 million.",
+    "categoryId": "strange-jobs",
+    "topic": "Food Tasters",
+    "tags": [
+      "food tasters",
+      "ice cream",
+      "gold spoon"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "lighthouse-keepers-large-workforce",
+    "headline": "The Lighthouse Keeper Is Now an Almost Extinct Job",
+    "body": "Lighthouse keeping has nearly vanished as a profession. Once thousands strong, the ranks of keepers dwindled as automatic lamps, timers, and remote monitoring made human caretakers unnecessary, and one by one the world's lighthouses were automated. In the United States, essentially all are now run by machines, with a single famous exception: Boston Light, which a special act of Congress requires to keep an official keeper. A job that once anchored countless coastlines has almost completely disappeared into automation.",
+    "summary": "Automation made lighthouse keeping nearly extinct; in the US only Boston Light still has a keeper, by act of Congress.",
+    "categoryId": "strange-jobs",
+    "topic": "Lighthouse Keepers",
+    "tags": [
+      "lighthouse keepers",
+      "automation",
+      "boston light"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "lighthouse-keepers-supplies",
+    "headline": "A Lighthouse Keeper Became a Famous Lifesaver",
+    "body": "Lighthouse keepers were not just lamp-tenders; some became celebrated heroes. Ida Lewis, who kept a light at Lime Rock in Rhode Island in the 1800s, rowed out into storms again and again to rescue people from the water, saving an estimated dozens of lives and becoming one of the most famous Americans of her day. Many keepers, like Lewis, were women, who often took over the demanding post from fathers or husbands. The lonely job sometimes turned ordinary keepers into legends.",
+    "summary": "Lighthouse keeper Ida Lewis rowed into storms to rescue dozens, and many keepers, like her, were women.",
+    "categoryId": "strange-jobs",
+    "topic": "Lighthouse Keepers",
+    "tags": [
+      "lighthouse keepers",
+      "ida lewis",
+      "rescues"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "lighthouse-keepers-aids-navigation",
+    "headline": "Three Lighthouse Keepers Vanished Without a Trace",
+    "body": "Lighthouse keeping could be eerily isolating, and one case became a lasting mystery. In December 1900, a passing ship noticed the light on Scotland's remote Flannan Isles had gone dark. When a relief boat reached the lighthouse, all three keepers were gone. The lamp was ready, a meal sat unfinished, and the door was shut, but the men had simply vanished, never to be found. More than a century later, no one knows for certain what happened to the keepers of Flannan.",
+    "summary": "In 1900, all three keepers of Scotland's remote Flannan Isles lighthouse vanished without a trace, never explained.",
+    "categoryId": "strange-jobs",
+    "topic": "Lighthouse Keepers",
+    "tags": [
+      "lighthouse keepers",
+      "flannan isles",
+      "mystery"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tea-tasters-federal-job",
+    "headline": "Tea Tasters Slurp Loudly and Spit It Out",
+    "body": "Professional tea tasting looks nothing like a polite tea party. Tasters noisily slurp the tea to spray it across the whole tongue and aerate it, judge its color and aroma, then spit it out, repeating this for hundreds of cups in a single day to stay sharp. Skilled blenders use this trained palate to perform a quiet feat: combining teas from many farms and harvests so that a familiar brand tastes exactly the same in every box, year after year, despite nature's variations.",
+    "summary": "Tea tasters slurp and spit hundreds of cups a day, and blenders use that skill to keep a brand tasting identical year-round.",
+    "categoryId": "strange-jobs",
+    "topic": "Tea Tasters",
+    "tags": [
+      "tea tasters",
+      "tasting",
+      "blending"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tea-tasters-every-lot",
+    "headline": "The US Had Official Tea Tasters for 99 Years",
+    "body": "For nearly a century, the United States government paid experts to drink tea on its behalf. Under a law passed in 1897, federal tea tasters inspected imported tea, brewing and sampling it to block shipments deemed impure or low quality from reaching American cups. The office endured for 99 years, until Congress finally shut it down with the Federal Tea Tasters Repeal Act of 1996, a law whose almost comical name marked the end of one of the strangest jobs in the federal government.",
+    "summary": "The US employed official federal tea tasters for 99 years, ending with the Federal Tea Tasters Repeal Act of 1996.",
+    "categoryId": "strange-jobs",
+    "topic": "Tea Tasters",
+    "tags": [
+      "tea tasters",
+      "federal job",
+      "repeal act"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "tea-tasters-repealed",
+    "headline": "Tea Experts Read the 'Agony of the Leaves'",
+    "body": "Tea tasters use wonderfully poetic professional language. They watch the 'agony of the leaves,' the way dried tea unfurls and twists as hot water revives it, reading it for clues about quality. From a single trained sip, a top taster can often identify a tea's origin, the altitude it grew at, and even the season it was picked, much as a wine expert reads a glass. The cup becomes a kind of map, telling the taster where and when the leaves came from.",
+    "summary": "Tea tasters read the unfurling 'agony of the leaves' and can identify a tea's region, altitude, and season from one sip.",
+    "categoryId": "strange-jobs",
+    "topic": "Tea Tasters",
+    "tags": [
+      "tea tasters",
+      "agony of the leaves",
+      "expertise"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "falconers-ancient-art",
+    "headline": "A Medieval Emperor Wrote a Science Book on Falconry",
+    "body": "One of the most important early works of bird science came from a falcon-obsessed ruler. In the 1240s, Holy Roman Emperor Frederick II wrote a sweeping treatise on falconry that went far beyond hunting tips. Drawing on his own careful observations, he described bird anatomy, behavior, and migration with a rigor centuries ahead of his time, and even challenged accepted wisdom. Historians regard his book as one of the first works of modern ornithology. A strange hobby produced serious science.",
+    "summary": "In the 1240s, Emperor Frederick II wrote a falconry treatise so detailed it is considered early scientific ornithology.",
+    "categoryId": "strange-jobs",
+    "topic": "Falconers",
+    "tags": [
+      "falconers",
+      "frederick ii",
+      "ornithology"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "falconers-master-apprentice",
+    "headline": "Trained Falcons Still Work at Airports and Wimbledon",
+    "body": "Falconry is not just a relic; trained birds of prey hold modern jobs. Airports employ falconers to fly hawks and falcons near runways, scaring off flocks of birds that could be sucked into jet engines and cause deadly crashes. At the Wimbledon tennis championships, a Harris hawk patrols the grounds to keep pigeons from disrupting matches. Vineyards and landfills hire them too. An ancient partnership between human and raptor has found surprising new work in the modern world.",
+    "summary": "Trained falcons still work today, scaring birds from airport runways and keeping pigeons off the courts at Wimbledon.",
+    "categoryId": "strange-jobs",
+    "topic": "Falconers",
+    "tags": [
+      "falconers",
+      "airports",
+      "wimbledon"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "falconers-elite-books",
+    "headline": "Falconry Gave English Some of Its Common Phrases",
+    "body": "Falconry was so woven into daily life for centuries that its jargon quietly entered everyday English. To say you are 'fed up' echoes a hawk so full it would no longer hunt. To be 'hoodwinked' recalls the little hood slipped over a bird's eyes to keep it calm. Keeping someone 'under your thumb' comes from gripping a hawk's leather straps beneath the thumb. Ordinary expressions still carry the language of a once-common job that most people today have never tried.",
+    "summary": "Common English phrases like 'fed up,' 'hoodwinked,' and 'under your thumb' come from the old craft of falconry.",
+    "categoryId": "strange-jobs",
+    "topic": "Falconers",
+    "tags": [
+      "falconers",
+      "language",
+      "phrases"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
