@@ -30117,5 +30117,515 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "battlements-crenels-merlons",
+    "headline": "In Italy, Battlement Shapes Showed Your Politics",
+    "body": "A battlement's solid blocks are merlons and the gaps between them are crenels, but in medieval Italy the shape of the merlons carried a hidden message. Square, flat-topped merlons signaled loyalty to the Guelph faction, who backed the Pope. Distinctive notched 'swallowtail' merlons declared allegiance to the Ghibellines, who supported the Holy Roman Emperor. So the silhouette of a tower could announce, to anyone who knew the code, exactly which side in a bitter rivalry its owner was on.",
+    "summary": "In medieval Italy, square merlons signaled support for the Pope and swallowtail merlons for the Emperor.",
+    "categoryId": "castles-fortresses",
+    "topic": "Battlements",
+    "tags": [
+      "battlements",
+      "merlons",
+      "guelphs and ghibellines"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "battlements-dropped-objects",
+    "headline": "Pouring Boiling Oil From Castles Is Mostly a Myth",
+    "body": "The image of defenders dumping boiling oil on attackers is largely Hollywood invention. Oil was far too expensive to waste by the cauldron. Instead, defenders used overhanging stone galleries called machicolations, with holes in the floor, to drop what they actually had on hand: heavy rocks, scalding water, hot sand that crept into armor, and quicklime. These struck attackers crowded at the wall's base. The defense was brutal, but it relied on cheap, practical materials, not barrels of precious oil.",
+    "summary": "Castles dropped rocks, hot water, and sand through machicolations; 'boiling oil' is mostly a myth.",
+    "categoryId": "castles-fortresses",
+    "topic": "Battlements",
+    "tags": [
+      "battlements",
+      "machicolations",
+      "siege myths"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "battlements-became-decoration",
+    "headline": "You Needed Royal Permission to Add Battlements",
+    "body": "In medieval England, you could not simply crown your house with battlements; you needed a royal 'licence to crenellate.' Adding those notched walls turned an ordinary manor into a fortress, a mark of high status and military strength the crown wanted to control. The permission became so prestigious that some owners added battlements that were purely for show, with no real defensive value. A row of stone teeth along the roofline was as much a status symbol as a weapon.",
+    "summary": "Adding battlements required a royal 'licence to crenellate,' making them a controlled status symbol.",
+    "categoryId": "castles-fortresses",
+    "topic": "Battlements",
+    "tags": [
+      "battlements",
+      "licence to crenellate",
+      "status"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "drawbridges-controlled-access",
+    "headline": "The Castle Gate Became Its Strongest Point, Not Its Weakest",
+    "body": "A gateway is naturally a wall's weak spot, so castle builders responded by piling defenses onto it until they flipped the weakness into a strength. They flanked the entrance with twin towers, stacked it with drawbridges, portcullises, and murder holes, and made the gatehouse the most heavily fortified structure in the whole castle. In many later castles the gatehouse grew so strong and spacious that the lord himself chose to live there. The most vulnerable point had become the safest.",
+    "summary": "Castles fortified the gate so heavily that the gatehouse became the strongest part, sometimes the lord's home.",
+    "categoryId": "castles-fortresses",
+    "topic": "Drawbridges",
+    "tags": [
+      "drawbridges",
+      "gatehouse",
+      "castle defense"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "drawbridges-protected-weak-gates",
+    "headline": "The Castle Gate Was a Carefully Designed Death Trap",
+    "body": "Once past the drawbridge, an attacker entered the most dangerous place in the castle. The gate passage was built as a kill zone: a heavy iron grille called a portcullis could crash down behind intruders, sealing them inside a narrow tunnel. Overhead were 'murder holes,' openings in the ceiling through which defenders dropped stones, fired arrows, or poured scalding water on the trapped attackers. Far from a simple doorway, the entrance was an engineered gauntlet meant to slaughter anyone who forced it.",
+    "summary": "Beyond the drawbridge, the gate passage was a kill zone with a portcullis and overhead 'murder holes.'",
+    "categoryId": "castles-fortresses",
+    "topic": "Drawbridges",
+    "tags": [
+      "drawbridges",
+      "portcullis",
+      "murder holes"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "drawbridges-could-swing",
+    "headline": "A Counterweight Let One Person Raise a Drawbridge",
+    "body": "A drawbridge looks too heavy for a small crew to move quickly, but clever engineering solved that. Many used a counterweight system, often a pivoting arrangement with weights dropping into a pit, so that the heavy span was nearly balanced. With the load offset, just one or two people could swing the bridge up in seconds when danger appeared. It is the same balancing principle behind modern lifting bridges, shrinking a massive task down to a quick, almost effortless pull.",
+    "summary": "Counterweighted drawbridges were so well balanced that one or two people could raise them in seconds.",
+    "categoryId": "castles-fortresses",
+    "topic": "Drawbridges",
+    "tags": [
+      "drawbridges",
+      "counterweight",
+      "castle engineering"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "japanese-castles-power-display",
+    "headline": "Himeji Castle's Path Is a Maze to Trap Attackers",
+    "body": "Himeji, Japan's most magnificent castle, defends itself with confusion. The route from the gate up to the central keep is a deliberate maze of narrow, twisting paths that double back, dead-end, and funnel intruders into spots overlooked by defenders. An attacker who broke in would be slowed, disoriented, and exposed at every turn. The castle's luck held into modern times, too: during World War II a bomb struck the keep but failed to explode, sparing the centuries-old 'White Heron.'",
+    "summary": "Himeji Castle's approach is a deliberate maze to trap attackers, and a WWII bomb that hit it failed to explode.",
+    "categoryId": "castles-fortresses",
+    "topic": "Japanese Castles",
+    "tags": [
+      "japanese castles",
+      "himeji",
+      "defense"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "japanese-castles-stone-bases",
+    "headline": "Japanese Castles Were Built to Ride Out Earthquakes",
+    "body": "A Japanese castle pairs two very different materials with great cunning. Its towering keep was built of wood, set atop a massive base of stone that was stacked dry, without mortar. This combination was earthquake engineering centuries ahead of its time: the sloping stone base absorbed and shed shocks, while the flexible wooden structure above could sway and flex rather than crack and topple. In a land of frequent quakes, the castle was designed not to resist the shaking, but to move with it.",
+    "summary": "Japanese castles set flexible wooden keeps on mortarless sloping stone bases to survive earthquakes.",
+    "categoryId": "castles-fortresses",
+    "topic": "Japanese Castles",
+    "tags": [
+      "japanese castles",
+      "earthquakes",
+      "construction"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "japanese-castles-adapted-over-time",
+    "headline": "Some Castle Floors Were Built to Squeak on Purpose",
+    "body": "Some Japanese castles and palaces guarded against assassins with their own floors. Known as 'nightingale floors,' these corridors were specially constructed so that the floorboards chirped or squeaked with every footstep, no matter how lightly someone tried to tread. Anyone attempting to creep in unannounced, a spy or a would-be killer, would set off a chorus of telltale sounds. The building itself became an alarm system, turning the simple act of walking into an unavoidable announcement.",
+    "summary": "'Nightingale floors' in Japanese castles were built to squeak underfoot, betraying intruders and assassins.",
+    "categoryId": "castles-fortresses",
+    "topic": "Japanese Castles",
+    "tags": [
+      "japanese castles",
+      "nightingale floors",
+      "security"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "medieval-castles-motte-bailey",
+    "headline": "Normans Conquered England by Building Castles in Days",
+    "body": "When the Normans seized England after 1066, their secret weapon was speed. They flung up motte-and-bailey castles, a wooden tower on a raised earth mound beside an enclosed yard, that could be thrown together in a matter of days using forced local labor. Planted across the countryside, these quick, cheap forts let a small number of invaders dominate a hostile population. The Norman conquest was cemented not by a single great fortress, but by hundreds of rapidly built ones.",
+    "summary": "The Normans held conquered England by rapidly building motte-and-bailey castles, some in just days.",
+    "categoryId": "castles-fortresses",
+    "topic": "Medieval Castles",
+    "tags": [
+      "medieval castles",
+      "motte and bailey",
+      "norman conquest"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "medieval-castles-stone-evolution",
+    "headline": "Many Castles Were Deliberately Wrecked After Wars",
+    "body": "Castles did not all crumble slowly from neglect; many were destroyed on purpose. After a conflict, victorious rulers often ordered captured castles to be 'slighted,' deliberately wrecked by smashing walls, blowing up towers, or filling in moats, so that no rival could ever use them as a stronghold again. In England, this happened on a large scale after the civil wars of the 1600s. A great many romantic castle ruins are not the work of time, but of intentional demolition.",
+    "summary": "Many castle ruins exist because victors 'slighted' them, deliberately wrecking them so rivals couldn't use them.",
+    "categoryId": "castles-fortresses",
+    "topic": "Medieval Castles",
+    "tags": [
+      "medieval castles",
+      "slighting",
+      "castle ruins"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "medieval-castles-defense-layers",
+    "headline": "A Legendary Crusader Castle Fell to a Forged Letter",
+    "body": "Krak des Chevaliers in Syria was one of the mightiest castles ever built, a crusader stronghold of concentric walls so formidable that armies broke against it for years. In 1271 it finally fell, but not to brute force. According to tradition, the besieging sultan smuggled in a forged letter, supposedly from the defenders' own commander, ordering them to surrender. Believing the command, the garrison gave up a fortress that might never have been taken by storm. Deception succeeded where siege engines failed.",
+    "summary": "The great crusader castle Krak des Chevaliers reportedly surrendered in 1271 to a forged letter, not force.",
+    "categoryId": "castles-fortresses",
+    "topic": "Medieval Castles",
+    "tags": [
+      "medieval castles",
+      "krak des chevaliers",
+      "sieges"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "siege-towers-moving-platforms",
+    "headline": "Attackers Had to Fill the Moat Before Rolling the Tower",
+    "body": "A siege tower could only work if it reached the wall, and the ground in between was rarely clear. Castles were often ringed by ditches or moats that a heavy rolling tower could never cross. So before the assault, attackers faced a grim, dangerous chore: hauling earth, rubble, and bundles of sticks to fill in the ditch and build a level causeway, all while defenders rained arrows and stones down on them. Crossing the deadliest open ground began long before the tower moved.",
+    "summary": "Before a siege tower could reach the wall, attackers had to fill the castle's moat or ditch under heavy fire.",
+    "categoryId": "castles-fortresses",
+    "topic": "Siege Towers",
+    "tags": [
+      "siege towers",
+      "moats",
+      "siege warfare"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "siege-towers-protected-approach",
+    "headline": "Siege Towers Were Huge Gambles That Often Burned",
+    "body": "For all their menace, siege towers were risky, expensive bets that frequently ended in flames. A tower full of soldiers, made largely of wood and rolled slowly toward the walls, was a giant target for fire arrows and flaming missiles. To protect it, crews draped the structure in water-soaked or fresh animal hides as fireproofing. Defenders fought back fiercely, raising their walls higher overnight, digging pits to topple the tower, or charging out to set it alight before it ever reached them.",
+    "summary": "Wooden siege towers were often set ablaze, so crews covered them in wet hides while defenders fought to burn them.",
+    "categoryId": "castles-fortresses",
+    "topic": "Siege Towers",
+    "tags": [
+      "siege towers",
+      "fire",
+      "medieval warfare"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "siege-towers-engineering-scale",
+    "headline": "A Failed Siege Tower Helped Build the Colossus of Rhodes",
+    "body": "In 305 BCE, attackers rolled a monstrous siege tower against the city of Rhodes. Called the Helepolis, or 'Taker of Cities,' it stood around nine stories tall, was plated in iron, bristled with catapults, and reportedly needed thousands of men to push. Yet Rhodes held out, and the attackers eventually withdrew, abandoning their siege equipment. The Rhodians sold off the leftover war machines and used the proceeds to build a giant statue of their sun god, the famous Colossus of Rhodes.",
+    "summary": "Rhodes survived the giant 'Helepolis' siege tower and sold the abandoned siege gear to fund the Colossus of Rhodes.",
+    "categoryId": "castles-fortresses",
+    "topic": "Siege Towers",
+    "tags": [
+      "siege towers",
+      "helepolis",
+      "colossus of rhodes"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fortresses-before-castles",
+    "headline": "One Engineer Turned Sieges Into Predictable Math",
+    "body": "In the 1600s, the French military engineer Vauban brought such rigor to fortress warfare that he made sieges almost scientific. By digging precise zigzag trenches that crept ever closer to a fort's walls in a set sequence, he could grind down even strong fortresses on a reliable schedule. He became so confident in his methods that he could estimate, in advance, roughly the day a besieged stronghold would fall. War against walls had been reduced to careful, predictable mathematics.",
+    "summary": "The engineer Vauban systematized siege warfare so precisely he could predict the day a fort would fall.",
+    "categoryId": "castles-fortresses",
+    "topic": "Fortresses",
+    "tags": [
+      "fortresses",
+      "vauban",
+      "siege warfare"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fortresses-many-purposes",
+    "headline": "The Age of the Fortress Ended When Armies Drove Around It",
+    "body": "For thousands of years, the answer to invasion was a stronger wall. That long era effectively ended in 1940. France had built the Maginot Line, a vast chain of state-of-the-art concrete forts, to block any German attack. Rather than batter through it, German forces simply went around the end of it, advancing through the forests and neighboring countries the line did not cover. The most modern fortifications on Earth were rendered useless not by being broken, but by being bypassed.",
+    "summary": "France's modern Maginot Line forts were made useless in 1940 when German forces simply bypassed them.",
+    "categoryId": "castles-fortresses",
+    "topic": "Fortresses",
+    "tags": [
+      "fortresses",
+      "maginot line",
+      "military history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "fortresses-artillery-changed-design",
+    "headline": "Cannons Forced Forts Into Strange Star Shapes",
+    "body": "When cannons grew powerful enough to shatter tall medieval walls, military engineers completely rethought the fortress. They built low, thick, sloping walls arranged in pointed, star-like shapes bristling with angled bastions. The geometry was the genius: every stretch of wall could be covered by gunfire from a neighboring point, leaving no blind spot for attackers to hide in. These 'star forts' spread across the world, and their distinctive jagged outlines can still be picked out from the air today.",
+    "summary": "To survive cannon fire, engineers built low, angled 'star forts' whose bastions covered every approach.",
+    "categoryId": "castles-fortresses",
+    "topic": "Fortresses",
+    "tags": [
+      "fortresses",
+      "star forts",
+      "artillery"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dungeon-myths-not-always-underground",
+    "headline": "The Word 'Dungeon' Once Meant the Grandest Tower",
+    "body": "It seems backward, but the word 'dungeon' comes from 'donjon,' which originally meant the great keep, the tallest, strongest, and most prestigious tower in the castle, where the lord himself lived. Over the centuries the meaning slid downward, in every sense. As secure towers were sometimes used to hold captives, the term drifted from 'the finest tower' to 'a grim prison cell.' The same word once described the best room in the castle and later the very worst.",
+    "summary": "'Dungeon' comes from 'donjon,' the grand great tower, before the word came to mean a prison cell.",
+    "categoryId": "castles-fortresses",
+    "topic": "Dungeon Myths",
+    "tags": [
+      "dungeon myths",
+      "donjon",
+      "etymology"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dungeon-myths-prison-not-common",
+    "headline": "Captured Nobles Were Ransomed, Not Thrown in a Cell",
+    "body": "Locking people in cells was not a common medieval punishment; justice usually meant fines, mutilation, or execution, not long imprisonment. When castles did hold captives, the most valuable were enemy nobles taken in battle, who were worth far more alive. Rather than rotting in a pit, a high-ranking prisoner might be kept in decent quarters, dine with the lord, and wait while a huge ransom was negotiated. For the wealthy, capture was less a horror than an expensive inconvenience.",
+    "summary": "Medieval castles rarely jailed people long-term; captured nobles were held comfortably and ransomed.",
+    "categoryId": "castles-fortresses",
+    "topic": "Dungeon Myths",
+    "tags": [
+      "dungeon myths",
+      "ransom",
+      "medieval justice"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dungeon-myths-oubliette",
+    "headline": "Many 'Oubliettes' Were Really Just Storage Pits",
+    "body": "The oubliette, a bottle-shaped pit reached only through a trapdoor in the ceiling, takes its name from the French for 'to forget,' the idea being a prisoner dropped in and left to rot. Such horrors did exist, but they were rare, and historians suspect many chambers labeled 'oubliettes' for tourists were actually storerooms, water cisterns, or food cellars. The dungeon's terrifying reputation is real in places, but a fair amount of it has been imagined into ordinary basements.",
+    "summary": "True oubliette prison pits were rare; many so-called oubliettes were actually cisterns or storerooms.",
+    "categoryId": "castles-fortresses",
+    "topic": "Dungeon Myths",
+    "tags": [
+      "dungeon myths",
+      "oubliette",
+      "castle prisons"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hillforts-ramparts-ditches",
+    "headline": "Britain and Ireland Have Over 4,000 Hillforts",
+    "body": "Long before castles dotted the landscape, the Iron Age peoples of Britain and Ireland built fortified hilltops on a staggering scale. A recent survey counted more than 4,000 of these hillforts, ringed by ramparts and ditches and crowning hills across the islands. For centuries they were the dominant form of stronghold and settlement, until the Romans arrived. The familiar medieval castle was a latecomer to a land already shaped, again and again, into defended high ground.",
+    "summary": "Britain and Ireland hold over 4,000 Iron Age hillforts, the dominant strongholds before the Romans.",
+    "categoryId": "castles-fortresses",
+    "topic": "Hillforts",
+    "tags": [
+      "hillforts",
+      "iron age",
+      "britain"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hillforts-not-just-war",
+    "headline": "Some Hillforts May Have Been Built to Show Off",
+    "body": "We assume hillforts were strictly military, but many do not behave like serious defenses. Some have ramparts far too long for any realistic garrison to hold, gateways that seem to face the wrong way, or enclosed areas with little sign of fighting. This has led archaeologists to suspect that for some communities, a hillfort was as much about prestige, gathering, and corralling cattle as about war. An impressive ring of earthworks could be a statement of power as well as a shield.",
+    "summary": "Many hillforts seem impractical for defense, suggesting some were built for status, gatherings, or livestock.",
+    "categoryId": "castles-fortresses",
+    "topic": "Hillforts",
+    "tags": [
+      "hillforts",
+      "status",
+      "archaeology"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "hillforts-earth-house",
+    "headline": "Britain's 'Maiden Castle' Is No Castle at All",
+    "body": "Despite its grand name, Maiden Castle in southern England is not a castle but a colossal prehistoric hillfort, built long before stone keeps existed. Its concentric rings of earthen ramparts and ditches enclose a hilltop area roughly the size of fifty football fields, making it one of the largest hillforts in Europe. Iron Age people raised these enormous earthworks by hand. The 'castle' is really a sculpted hill, a fortress made of nothing but shaped soil and sweat.",
+    "summary": "Maiden Castle is not a castle but a huge Iron Age hillfort enclosing an area the size of 50 football fields.",
+    "categoryId": "castles-fortresses",
+    "topic": "Hillforts",
+    "tags": [
+      "hillforts",
+      "maiden castle",
+      "iron age"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "castle-keeps-last-refuge",
+    "headline": "Many Castle Keeps Had No Ground-Floor Door",
+    "body": "The strongest tower in a castle, the keep, often had a deliberately awkward entrance: no door at ground level at all. The only way in was a doorway on the second floor, reached by an external wooden staircase. If attackers broke into the castle, defenders could destroy or block that stair, leaving the keep's entrance stranded high above the ground and out of reach. The most important building was built to be hard to enter even for the people who lived in it.",
+    "summary": "Castle keeps were often entered only through a second-floor door reached by a removable external stair.",
+    "categoryId": "castles-fortresses",
+    "topic": "Castle Keeps",
+    "tags": [
+      "castle keeps",
+      "defense",
+      "entrances"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "castle-keeps-three-types",
+    "headline": "Round Keeps Were Invented to Defeat Tunnelers",
+    "body": "Early keeps were square, which gave attackers a fatal opening: they could tunnel under a corner, prop the hole with timber, then burn the supports to collapse that corner. At Rochester in 1215, King John reportedly used the fat of forty pigs to fire such a mine and brought a tower down. The lesson stuck. Later builders favored round keeps, because a circular wall has no corners to undermine and better deflects blows, making the dig-and-burn attack far harder.",
+    "summary": "Castles shifted to round keeps because square corners could be tunneled under and collapsed, as at Rochester.",
+    "categoryId": "castles-fortresses",
+    "topic": "Castle Keeps",
+    "tags": [
+      "castle keeps",
+      "mining",
+      "round keeps"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "castle-keeps-contained-life",
+    "headline": "Castle Keeps Had Rooms Built Inside Their Walls",
+    "body": "The walls of a great keep were not just thick; they were so massive, sometimes well over ten feet of solid stone, that builders carved usable spaces right into them. Spiral staircases, narrow passages, storage nooks, and small private chambers were hollowed out within the thickness of the wall itself. A keep was therefore a building whose walls contained their own miniature rooms. The stone that kept enemies out was substantial enough to live inside.",
+    "summary": "Keep walls were so thick that stairs, passages, and small rooms were built inside the stone itself.",
+    "categoryId": "castles-fortresses",
+    "topic": "Castle Keeps",
+    "tags": [
+      "castle keeps",
+      "thick walls",
+      "medieval life"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "moats-obstacle-design",
+    "headline": "Castle Moats Were Often Stinking Sewers",
+    "body": "Forget moats full of monsters; many were full of sewage. Castle waste, including the contents of toilets that drained from the walls, frequently emptied straight into the moat, along with kitchen scraps and rubbish. The result was less a romantic ring of clear water than a foul, stagnant ditch of filth. That stench was its own deterrent: few attackers relished wading through a moat of human waste, and the murky water hid just how deep or treacherous the bottom really was.",
+    "summary": "Many castle moats doubled as sewers, becoming foul, waste-filled ditches rather than clear water.",
+    "categoryId": "castles-fortresses",
+    "topic": "Moats",
+    "tags": [
+      "moats",
+      "sanitation",
+      "castle defense"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "moats-stopped-siege-machines",
+    "headline": "A Moat's Real Job Was Often to Stop Tunneling",
+    "body": "A moat looks like a simple barrier to keep attackers from the walls, but one of its most important jobs was hidden underground. Besiegers frequently tried to dig tunnels beneath a castle's walls to collapse them, a deadly tactic called mining. A water-filled moat ringing the castle made this far harder, because any tunnel dug toward the walls risked flooding and caving in. The water defenders saw was, in part, a shield against the threat they could not see.",
+    "summary": "A water-filled moat's key purpose was often to flood and foil attackers tunneling under the walls.",
+    "categoryId": "castles-fortresses",
+    "topic": "Moats",
+    "tags": [
+      "moats",
+      "mining",
+      "castle defense"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "moats-earth-reused",
+    "headline": "Plenty of Castle Moats Held No Water at All",
+    "body": "The classic water-filled moat is only half the story; many moats were simply deep, dry ditches. Where a reliable water supply was lacking, a steep-sided dry trench around the walls could be just as effective, forcing attackers to scramble down and back up under fire. And the digging did double duty. The enormous quantity of earth and rock pulled out to form the moat was piled up to raise the castle's mounds and ramparts, so excavating the defense helped build it.",
+    "summary": "Many castle moats were dry ditches, and the earth dug out was reused to build the castle's ramparts.",
+    "categoryId": "castles-fortresses",
+    "topic": "Moats",
+    "tags": [
+      "moats",
+      "dry moats",
+      "earthworks"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
