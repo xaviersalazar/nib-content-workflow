@@ -32106,5 +32106,515 @@
     "funScore": 10,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "laundry-detergent-surfactants",
+    "headline": "Detergent Beat Soap by Surviving Hard Water",
+    "body": "One big reason detergent replaced soap for laundry is hard water. Water rich in dissolved minerals reacts with soap to form a sticky, insoluble residue, the gray 'soap scum' that rings a bathtub and dulls laundry. In hard water, soap wastes itself making scum instead of cleaning. Synthetic detergents were designed to dodge this problem; they keep working even in mineral-heavy water without curdling into scum. That chemical advantage made detergent the better choice for washing clothes.",
+    "summary": "Detergents replaced soap for laundry because, unlike soap, they don't react with hard water to form 'soap scum.'",
+    "categoryId": "household-science",
+    "topic": "Laundry Detergent",
+    "tags": [
+      "laundry detergent",
+      "hard water",
+      "soap scum"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "laundry-detergent-suspends-dirt",
+    "headline": "Detergent Makes Your Clothes Secretly Glow",
+    "body": "Many laundry detergents contain 'optical brighteners,' and they work by a clever trick of light. These chemicals cling to fabric and absorb invisible ultraviolet light from the sun, then re-emit it as a faint blue glow. That extra blue light cancels out the natural yellowing of fabric, fooling your eye into seeing the cloth as brighter and 'whiter than white.' The clothes are not actually cleaner for it, they are quite literally fluorescing, which is why they can glow under a blacklight.",
+    "summary": "Laundry detergents add 'optical brighteners' that absorb UV and glow blue, tricking the eye into seeing whiter clothes.",
+    "categoryId": "household-science",
+    "topic": "Laundry Detergent",
+    "tags": [
+      "laundry detergent",
+      "optical brighteners",
+      "uv"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "laundry-detergent-not-soap",
+    "headline": "Detergent Was Invented Because of a Fat Shortage",
+    "body": "Synthetic laundry detergent exists largely because the world ran short of fat. Traditional soap is made from animal and plant fats, and during World War I those fats became scarce and badly needed for other uses. German chemists, unable to spare fat for soap, engineered the first synthetic detergents from other raw materials instead. These lab-made cleaners did the job without using precious fats. A wartime scramble for resources gave rise to the whole family of modern synthetic detergents.",
+    "summary": "Synthetic detergents were first developed during World War I because soap-making fats had become scarce.",
+    "categoryId": "household-science",
+    "topic": "Laundry Detergent",
+    "tags": [
+      "laundry detergent",
+      "synthetic",
+      "history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "refrigerators-remove-heat",
+    "headline": "Leaving the Fridge Open Actually Warms the Room",
+    "body": "A refrigerator cannot create cold; it can only move heat. It pulls warmth out of the food compartment and dumps it out the back, which is why the coils behind or beneath a fridge feel warm. This leads to a counterintuitive fact: you cannot cool a kitchen by leaving the refrigerator door open. The machine would pump the heat right back into the same room, and its hardworking motor would add even more, leaving the kitchen slightly warmer than before, not cooler.",
+    "summary": "A fridge moves heat rather than making cold, so leaving its door open actually warms the room slightly.",
+    "categoryId": "household-science",
+    "topic": "Refrigerators",
+    "tags": [
+      "refrigerators",
+      "heat transfer",
+      "physics"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "refrigerators-vapor-cycle",
+    "headline": "Einstein Co-Invented a Refrigerator With No Moving Parts",
+    "body": "Albert Einstein, of all people, helped design a refrigerator. In 1926, he and former student Leo Szilard patented a fridge with no moving parts, a sealed system driven by heat instead of a mechanical compressor. Their motivation was safety: they had read of a family killed in their sleep by toxic gas leaking from a refrigerator's failing seals. A machine with nothing to wear out and leak, they reasoned, would be safer. It never sold commercially, but engineers still study the design.",
+    "summary": "Einstein and Leo Szilard patented a leak-proof refrigerator with no moving parts after a family died from a fridge gas leak.",
+    "categoryId": "household-science",
+    "topic": "Refrigerators",
+    "tags": [
+      "refrigerators",
+      "einstein",
+      "szilard"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "refrigerators-slow-spoilage",
+    "headline": "The Man Who Made Fridges Safe Also Wrecked the Ozone",
+    "body": "Early refrigerators used toxic or explosive gases like ammonia and sulfur dioxide, and leaks sometimes killed whole families. To fix that, chemist Thomas Midgley helped create Freon, a coolant that was safe to breathe and would not burn, and it made the modern fridge possible. But Freon and related chemicals later turned out to be tearing a hole in Earth's protective ozone layer. Midgley had also earlier invented leaded gasoline, giving him one of history's most damaging inventing records.",
+    "summary": "Thomas Midgley's Freon made refrigerators safe but later proved to destroy the ozone layer; he also invented leaded gasoline.",
+    "categoryId": "household-science",
+    "topic": "Refrigerators",
+    "tags": [
+      "refrigerators",
+      "freon",
+      "thomas midgley"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "soap-molecular-bridge",
+    "headline": "People Have Made Soap for About 4,500 Years",
+    "body": "Soap is far older than most people imagine. Clay tablets from ancient Babylon, dating back roughly 4,500 years, record recipes for a soap-like substance made by boiling fats together with ashes. That basic chemistry, combining fat with an alkali such as wood ash, is still how soap is made today, a reaction called saponification. A Roman legend even claimed soap was discovered at 'Mount Sapo,' where rain washed animal fat and ash into a river, giving the word its name.",
+    "summary": "Soap is about 4,500 years old, with Babylonian tablets recording recipes of fats boiled with ashes.",
+    "categoryId": "household-science",
+    "topic": "Soap",
+    "tags": [
+      "soap",
+      "saponification",
+      "history"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "soap-micelles",
+    "headline": "The Lather Is Not What Cleans Your Hands",
+    "body": "It feels like rich, foamy bubbles are what get you clean, but the lather is mostly a side show. The real work is done by soap molecules surrounding bits of oil and grime and packaging them into microscopic balls called micelles. Each micelle traps dirt in its center, keeping it from sticking back to your skin so the water can rinse it away. Bubbles are just air caught in soapy film; you can clean perfectly well with soap that barely foams at all.",
+    "summary": "Soap cleans by trapping grime in microscopic 'micelles,' not through its bubbles, which are merely a side effect.",
+    "categoryId": "household-science",
+    "topic": "Soap",
+    "tags": [
+      "soap",
+      "micelles",
+      "cleaning science"
+    ],
+    "readTimeSeconds": 50,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "soap-germ-membranes",
+    "headline": "Soap Cleans Viruses by Dissolving Them Like Grease",
+    "body": "Soap is surprisingly deadly to certain germs because of how those germs are built. Many viruses, including the ones behind flu and colds, are wrapped in a fragile outer coat made of fatty molecules. Soap is brilliant at attacking fat: its molecules wedge into that greasy envelope and pry it apart, literally tearing the virus to pieces and lifting the debris away in water. That is why a thorough wash with plain soap can be so effective, it dissolves germs the way it dissolves grease.",
+    "summary": "Soap destroys many viruses by prying apart their fatty outer envelopes, dissolving them much like it dissolves grease.",
+    "categoryId": "household-science",
+    "topic": "Soap",
+    "tags": [
+      "soap",
+      "viruses",
+      "handwashing"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "light-switch-1884",
+    "headline": "The Light Switch's Genius Was Snapping Fast",
+    "body": "The light switch invented in 1884 by John Henry Holmes solved a hidden but serious danger. When a switch opens a live circuit slowly, electricity can jump the closing gap as a spark, or arc, that erodes the metal and can start fires. Holmes's 'quick-break' design used a spring to snap the contacts apart almost instantly, snuffing out that arc before it could do harm. The satisfying click you feel is that fast snap, a tiny mechanism that made electric lighting genuinely safe.",
+    "summary": "John Henry Holmes's 1884 'quick-break' switch snaps contacts apart fast to kill the dangerous spark that could start fires.",
+    "categoryId": "household-science",
+    "topic": "Light Switches",
+    "tags": [
+      "light switches",
+      "quick-break",
+      "safety"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "light-switch-tactile-design",
+    "headline": "Two Switches Can Control One Light by a Wiring Trick",
+    "body": "Ever flipped a light on from the bottom of the stairs and off from the top? That everyday convenience hides a neat bit of electrical logic. A 'three-way' switch setup wires two switches to one light using extra 'traveler' wires, so that flipping either switch reverses the circuit's state. The light turns on or off no matter which switch you touch, regardless of where the other one sits. A familiar hallway feature is really a small, clever puzzle in circuit design.",
+    "summary": "Controlling one light from two switches uses a clever 'three-way' wiring trick with extra 'traveler' wires.",
+    "categoryId": "household-science",
+    "topic": "Light Switches",
+    "tags": [
+      "light switches",
+      "three-way",
+      "circuits"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "light-switch-infrastructure",
+    "headline": "Light Switches Flip Opposite Ways Around the World",
+    "body": "There is no universal direction for 'on.' In the United States and Canada, you generally flip a wall switch up to turn the lights on and down for off. Across much of the rest of the world, including the United Kingdom, Australia, and Ireland, it is the reverse: down means on, up means off. The conventions simply developed differently by region and then stuck. A traveler reaching for a light in an unfamiliar country may instinctively flip it exactly the wrong way.",
+    "summary": "Light switches go up for 'on' in the US but down for 'on' in the UK and much of the world.",
+    "categoryId": "household-science",
+    "topic": "Light Switches",
+    "tags": [
+      "light switches",
+      "conventions",
+      "electricity"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "air-conditioning-printing-plant",
+    "headline": "Air Conditioning Was Invented to Save Printing, Not People",
+    "body": "Modern air conditioning was not created to keep humans cool. In 1902, a young engineer named Willis Carrier built the first system to solve a printing problem: humid air was making colored ink shift and smudge at a Brooklyn printing plant, ruining pages. His machine controlled humidity and temperature to keep the paper and ink stable. Cooling sweaty workers was an accidental bonus. The comfort we now expect from AC began as a fix for blurry magazine pictures.",
+    "summary": "Willis Carrier invented air conditioning in 1902 to control humidity at a printing plant, not to cool people.",
+    "categoryId": "household-science",
+    "topic": "Air Conditioning",
+    "tags": [
+      "air conditioning",
+      "willis carrier",
+      "printing"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "air-conditioning-humidity-control",
+    "headline": "The Big Idea Behind AC Came on a Foggy Platform",
+    "body": "Air conditioning is as much about controlling moisture as temperature, and the key insight reportedly struck its inventor in the fog. Willis Carrier was standing on a misty train platform when he realized he could deliberately create fog, pushing air through a spray of water to precisely control its humidity. By making moisture condense out on purpose, he could dry and cool the air at once. That foggy-night realization became the principle behind keeping countless buildings comfortable today.",
+    "summary": "Carrier's key insight for controlling humidity in air conditioning reportedly came to him on a foggy train platform.",
+    "categoryId": "household-science",
+    "topic": "Air Conditioning",
+    "tags": [
+      "air conditioning",
+      "humidity",
+      "carrier"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "air-conditioning-comfort-later",
+    "headline": "Air Conditioning Built the Sun Belt and the Summer Blockbuster",
+    "body": "Few inventions reshaped where and how people live as much as air conditioning. By making brutally hot regions livable year-round, it fueled the population boom of America's Sun Belt, places like Florida, Arizona, and Las Vegas that were once seen as too hot to thrive. AC also transformed entertainment: movie theaters were among the first public spaces to install it, drawing crowds seeking refuge from summer heat. That habit helped give rise to the now-familiar 'summer blockbuster' film season.",
+    "summary": "Air conditioning enabled the Sun Belt's population boom and helped create the summer blockbuster movie season.",
+    "categoryId": "household-science",
+    "topic": "Air Conditioning",
+    "tags": [
+      "air conditioning",
+      "sun belt",
+      "society"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dishwasher-chipped-dishes",
+    "headline": "A Socialite Built the First Real Dishwasher in Her Woodshed",
+    "body": "The first practical dishwasher came from a wealthy woman fed up with her servants chipping her heirloom china. Josephine Cochran reportedly declared that if no one else would invent a machine to wash dishes, she would do it herself, and she did, building it in the woodshed behind her home. Her clever design measured each dish to fit into wire compartments and, crucially, blasted them clean with jets of pressurized water rather than scrubbing, the basic principle dishwashers still use.",
+    "summary": "Josephine Cochran built the first practical dishwasher in her woodshed, using water pressure instead of scrubbing.",
+    "categoryId": "household-science",
+    "topic": "Dishwashers",
+    "tags": [
+      "dishwashers",
+      "josephine cochran",
+      "invention"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dishwasher-patent-name",
+    "headline": "The Dishwasher Was a Hit at Hotels Before Homes",
+    "body": "Cochran's dishwasher won a top prize at the 1893 World's Fair in Chicago, but it did not immediately appear in ordinary kitchens. Its first eager buyers were hotels and restaurants, which had piles of dishes and the powerful water heaters needed to feed it. Home versions struggled for decades, partly because most households could not supply enough hot water and the machines were costly. The dishwasher would not become a common household fixture until around the 1950s.",
+    "summary": "Cochran's prize-winning dishwasher sold first to hotels and restaurants; homes didn't widely adopt it until the 1950s.",
+    "categoryId": "household-science",
+    "topic": "Dishwashers",
+    "tags": [
+      "dishwashers",
+      "worlds fair",
+      "history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "dishwasher-company",
+    "headline": "The Dishwasher Company Grew Into KitchenAid",
+    "body": "Unable to get manufacturers to build her machine the way she wanted, Josephine Cochran founded her own company to produce and sell it. That small enterprise, born of one woman's determination in the late 1800s, did not stay small. Over the following decades it was absorbed and grew into a major appliance maker, eventually becoming the brand known today as KitchenAid, now part of the Whirlpool company. A woodshed invention had quietly seeded a household-name business.",
+    "summary": "The company Josephine Cochran founded to sell her dishwasher eventually became the KitchenAid brand.",
+    "categoryId": "household-science",
+    "topic": "Dishwashers",
+    "tags": [
+      "dishwashers",
+      "kitchenaid",
+      "women inventors"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "microwaves-magnetron-roots",
+    "headline": "The First Microwave Oven Was a Six-Foot Monster",
+    "body": "Today's microwave fits on a countertop, but the first one was a beast. Built from wartime radar technology and sold in 1947 as the 'Radarange,' it stood around six feet tall, weighed roughly 750 pounds, and had to be cooled with plumbed-in water. It also carried a price tag of about 5,000 dollars, a small fortune at the time. Only after decades of shrinking and cost-cutting did the microwave finally become the cheap, compact kitchen helper found almost everywhere.",
+    "summary": "The first microwave oven, the 1947 'Radarange,' was about six feet tall, weighed ~750 pounds, and cost ~$5,000.",
+    "categoryId": "household-science",
+    "topic": "Microwaves",
+    "tags": [
+      "microwaves",
+      "radarange",
+      "radar"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "microwaves-accidental-cooking",
+    "headline": "A Microwave Oven Was Discovered by a Melting Chocolate Bar",
+    "body": "The microwave oven was born from a snack mishap. In 1945, engineer Percy Spencer was standing near an active radar device, a magnetron, when he noticed the chocolate bar in his pocket had melted into goo. Curious, he aimed the microwaves at other foods to test the effect, and famously cracked an egg that promptly exploded from the heat building inside. Realizing the rays were cooking food from within, Spencer turned a radar component into a brand-new way to cook.",
+    "summary": "Percy Spencer discovered microwave cooking in 1945 when radar waves melted the chocolate bar in his pocket.",
+    "categoryId": "household-science",
+    "topic": "Microwaves",
+    "tags": [
+      "microwaves",
+      "percy spencer",
+      "discovery"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "microwaves-mass-production",
+    "headline": "A Microwave Heats Food by Shaking Its Water",
+    "body": "A microwave does not heat food the way a stove does; it targets water. The oven floods food with microwaves that make its water molecules flip back and forth billions of times a second, and that frantic jiggling generates heat through friction from the inside out. This explains the microwave's quirks: foods with uneven water heat unevenly, a dry plate can stay cool while the food steams, and metal, which reflects the waves, can throw sparks instead of warming up.",
+    "summary": "Microwaves cook by making food's water molecules vibrate billions of times a second, which is why heating is uneven.",
+    "categoryId": "household-science",
+    "topic": "Microwaves",
+    "tags": [
+      "microwaves",
+      "water molecules",
+      "cooking science"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "smoke-detectors-1970s-change",
+    "headline": "Your Smoke Alarm Probably Contains a Radioactive Speck",
+    "body": "Most household smoke alarms hide a tiny surprise: a speck of radioactive material. The common 'ionization' type contains a minuscule amount of americium-241, a man-made radioactive element produced in nuclear reactors. It gives off particles that ionize the air inside a small chamber, letting a faint electric current flow. When smoke drifts in, it disrupts that current and triggers the alarm. The amount of radiation is far too small to harm you, but yes, there is a nuclear ingredient on your ceiling.",
+    "summary": "Many smoke alarms contain a tiny, harmless amount of radioactive americium-241 to detect smoke by ionizing the air.",
+    "categoryId": "household-science",
+    "topic": "Smoke Detectors",
+    "tags": [
+      "smoke detectors",
+      "americium",
+      "radiation"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "smoke-detectors-mobile-home-test",
+    "headline": "There Are Two Kinds of Smoke Alarm, and They Disagree",
+    "body": "Not all smoke alarms work the same way, and the difference matters. 'Ionization' alarms, the radioactive kind, react fastest to flaming, fast-burning fires, but they are also the ones notorious for shrieking at your cooking, the dreaded 'burnt toast' false alarm. 'Photoelectric' alarms use a light beam and a sensor, and they catch slow, smoky, smoldering fires sooner, the kind that often start at night. Because each excels where the other lags, fire experts recommend having both types in a home.",
+    "summary": "Ionization smoke alarms catch flaming fires (and burnt toast) fast, while photoelectric ones better detect smoldering smoke.",
+    "categoryId": "household-science",
+    "topic": "Smoke Detectors",
+    "tags": [
+      "smoke detectors",
+      "ionization",
+      "photoelectric"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "smoke-detectors-ul-standard",
+    "headline": "A Cheap Smoke Alarm Roughly Halves Your Fire Risk",
+    "body": "The smoke alarm is one of the great safety bargains in any home. Studies show that having a working one roughly halves a person's chance of dying in a house fire, mainly by giving precious early warning while people can still escape. Yet within living memory these devices were rare and expensive, costing the equivalent of hundreds of dollars in the 1960s. Today they cost just a few dollars and hang in nearly every home, a lifesaving technology that became almost universal.",
+    "summary": "A working smoke alarm roughly halves the risk of dying in a home fire, and went from costly and rare to nearly universal.",
+    "categoryId": "household-science",
+    "topic": "Smoke Detectors",
+    "tags": [
+      "smoke detectors",
+      "fire safety",
+      "statistics"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vacuum-cleaners-suck-not-blow",
+    "headline": "An Asthmatic Janitor Gave Us the Word 'Hoover'",
+    "body": "The portable home vacuum came from a wheezing janitor. James Spangler, who suffered from asthma made worse by the dust of his sweeping job, rigged up a lightweight electric machine in 1907 to suck dust into a pillowcase. Lacking money to mass-produce it, he sold the patent to a relative by marriage, William Hoover. Hoover's company grew so dominant that in Britain the brand name became a verb: people there still say they are going to 'hoover' the floor.",
+    "summary": "Asthmatic janitor James Spangler invented the portable vacuum and sold it to William Hoover, making 'hoover' a verb in Britain.",
+    "categoryId": "household-science",
+    "topic": "Vacuum Cleaners",
+    "tags": [
+      "vacuum cleaners",
+      "spangler",
+      "hoover"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vacuum-cleaners-horse-drawn",
+    "headline": "The Vacuum's Inventor Tested It by Sucking on a Chair",
+    "body": "To prove his idea would work, the vacuum cleaner's inventor put his own mouth to the test, almost disastrously. Hubert Cecil Booth doubted machines that blew dust away and suspected sucking it up would be better. So he laid a handkerchief on the seat of a restaurant chair, pressed his lips to it, and sucked hard, getting a choking mouthful of grime but proving that suction trapped dust in the cloth. That filthy experiment in 1901 led to the first powered vacuum cleaner.",
+    "summary": "Hubert Cecil Booth tested the idea of suction cleaning by sucking dust through a handkerchief on a chair, nearly choking.",
+    "categoryId": "household-science",
+    "topic": "Vacuum Cleaners",
+    "tags": [
+      "vacuum cleaners",
+      "hubert cecil booth",
+      "suction"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "vacuum-cleaners-luxury-first",
+    "headline": "People Threw 'Vacuum Parties' to Watch the Cleaning",
+    "body": "Early vacuum cleaning was a glamorous public event, not a private chore. Booth's first machines were enormous, horse-drawn contraptions parked on the street, with long hoses fed through a building's windows to suck out the dust. The service was so expensive and novel that fashionable society ladies held 'vacuum tea parties,' inviting guests to sip tea and marvel as the powerful machine pulled visible dirt through glass tubes. Cleaning the carpet had become a stylish form of entertainment and a flaunt of wealth.",
+    "summary": "Early vacuuming was a costly spectacle done by horse-drawn machines, and society hosted 'vacuum tea parties' to watch.",
+    "categoryId": "household-science",
+    "topic": "Vacuum Cleaners",
+    "tags": [
+      "vacuum cleaners",
+      "luxury",
+      "history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nonstick-pans-accidental-teflon",
+    "headline": "Teflon Helped Build the Atom Bomb Before the Frying Pan",
+    "body": "Long before it made eggs slide around a skillet, Teflon had a top-secret job. The slippery material, properly called PTFE, was extraordinarily resistant to heat and to even the most corrosive chemicals. That made it invaluable to the Manhattan Project during World War II, where it was used to seal and line equipment handling the ferociously corrosive uranium gases needed to build the atomic bomb. Only years later did this war-effort wonder material find its famous home as a nonstick coating for cookware.",
+    "summary": "Teflon was used in the Manhattan Project to handle corrosive uranium gases before it ever coated a frying pan.",
+    "categoryId": "household-science",
+    "topic": "Nonstick Pans",
+    "tags": [
+      "nonstick pans",
+      "teflon",
+      "manhattan project"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nonstick-pans-ptfe-stability",
+    "headline": "Making Nonstick Stick to the Pan Was the Hard Part",
+    "body": "Teflon poses a delicious paradox: it is so slippery that almost nothing sticks to it, including the pan it is supposed to coat. Getting a substance designed to repel everything to bond firmly to metal stumped engineers. A French inventor, Marc Gregoire, cracked it after his wife suggested putting the material she had seen on his fishing gear onto her cookware. The trick was to roughen and etch the metal so the Teflon could grip into it, giving rise to the first nonstick pans.",
+    "summary": "Teflon is so slippery that bonding it to a pan required etching the metal so the coating could grip.",
+    "categoryId": "household-science",
+    "topic": "Nonstick Pans",
+    "tags": [
+      "nonstick pans",
+      "teflon",
+      "manufacturing"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "nonstick-pans-pfas-concerns",
+    "headline": "Nonstick Chemicals Became 'Forever Chemicals'",
+    "body": "The very toughness that makes Teflon-style chemicals useful has become a problem. These substances, part of a family called PFAS, are so stable that they barely break down in nature, earning the nickname 'forever chemicals.' Used for decades in nonstick pans, waterproof clothing, food wrappers, and more, they have spread almost everywhere, turning up in rainwater across the globe and in the blood of nearly everyone tested. A material prized for lasting forever turned out to be very hard to get rid of.",
+    "summary": "PFAS, the chemical family behind nonstick coatings, are 'forever chemicals' now found in rainwater and nearly everyone's blood.",
+    "categoryId": "household-science",
+    "topic": "Nonstick Pans",
+    "tags": [
+      "nonstick pans",
+      "pfas",
+      "environment"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
