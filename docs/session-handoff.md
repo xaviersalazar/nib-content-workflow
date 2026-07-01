@@ -1,6 +1,6 @@
 # TIL Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-06-30 · 1887 facts · 45 categories
+> Last updated: 2026-07-01 · 1917 facts · 46 categories
 > (Keep this line current — bump it every time a category is finished. See step 9 of the standing pattern.)
 
 ## What this is
@@ -18,24 +18,24 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   state + every de-dup decision (exhaustive per-category log). Update it after each category, alongside
   this handoff doc.
 
-## Current state (2026-06-30)
-- **1887 facts · 45 categories · every topic exactly 3 facts.**
-- All 45 categories have been rewritten via this workflow. Categories: space, astronomy, history,
+## Current state (2026-07-01)
+- **1917 facts · 46 categories · every topic exactly 3 facts.**
+- All 46 categories have been rewritten via this workflow. Categories: space, astronomy, history,
   ancient-civilizations, animals, ocean-life, human-body, psychology, food, coffee, technology,
   artificial-intelligence, internet-culture, video-games, movies, music, sports, engineering, aviation,
   cars, physics, chemistry, mathematics, business, economics, literature, languages, architecture,
   myths-legends, mysteries, medicine, geography, weather, inventions, religion-beliefs, dinosaurs,
   ancient-creatures, pirates, castles-fortresses, famous-disasters, strange-jobs, everyday-objects,
-  household-science, famous-symbols, colors.
-- **Recent additions (all 2026-06-30 unless noted):** medicine, geography, weather, inventions,
-  religion-beliefs (2026-06-29) → dinosaurs, ancient-creatures, pirates, castles-fortresses,
-  famous-disasters (2026-06-29) → strange-jobs, everyday-objects, household-science, famous-symbols,
-  colors (2026-06-30).
+  household-science, famous-symbols, colors, sleep-dreams.
+- **Recent additions:** medicine, geography, weather, inventions, religion-beliefs (2026-06-29) →
+  dinosaurs, ancient-creatures, pirates, castles-fortresses, famous-disasters (2026-06-29) →
+  strange-jobs, everyday-objects, household-science, famous-symbols, colors (2026-06-30) →
+  sleep-dreams (2026-07-01).
 - **Size exceptions** (left as-is, every topic still at 3): most categories are 15 topics x 3 = 45.
   Exceptions: `religion-beliefs` 16 topics (48); `myths-legends` 16 (48); `dinosaurs`,
   `ancient-creatures`, `pirates`, `castles-fortresses`, `strange-jobs`, `everyday-objects`,
-  `household-science`, `famous-symbols`, `colors` each 10 topics (30); `famous-disasters` 9 topics (27);
-  `languages` 13 (39); `sports` 13 (39); `video-games` 14 (42); `history` 63; `space` 51.
+  `household-science`, `famous-symbols`, `colors`, `sleep-dreams` each 10 topics (30); `famous-disasters`
+  9 topics (27); `languages` 13 (39); `sports` 13 (39); `video-games` 14 (42); `history` 63; `space` 51.
 
 ## The standing pattern (what the user expects each time)
 When the user says "new category of X added, run the same process," do exactly this:
@@ -164,6 +164,28 @@ new category must keep avoiding these:
   dye is crushed bugs** + red-ochre-oldest-pigment + **bulls are red-green colorblind (it's the motion)**;
   **lead-white/ceruse makeup poisoned Elizabeth I** + **titanium-dioxide is in your toothpaste/candy** +
   white=mourning-in-much-of-Asia.
+- **sleep-dreams vs psychology (the biggest collision — psychology owns BOTH `Sleep` and `Dreams`).**
+  psychology/Sleep owns babies-dream-half + **half-brain/unihemispheric sleep (dolphins)** + why-we-sleep-
+  unknown; psychology/Dreams owns dreams-less-weird + **the plain "lucid dreamers know they're dreaming"
+  definition (+ can direct it)** + **recurring-dream themes (flying/chased/naked/late)**. sleep-dreams
+  dodged all of these → Lucid Dreaming used only lab-proof angles (LaBerge eye-signals / 2021 two-way
+  conversation / dream-time≈real-time); REM used 1953-discovery / paradoxical-sleep / RBD-acting-out (NOT
+  babies/half-brain/why); Nightmares used mara-etymology / night-terrors-are-different / rewrite-the-
+  ending (NOT recurring themes). Also: **strange-jobs/Professional-Sleepers** owns NASA-bedrest → Naps used
+  Dali/Edison-key-drop instead; **coffee/Caffeine** owns caffeine → skipped the coffee-nap; **animals**
+  only owns bees-winter-cluster (hibernation/torpor free); **myths-legends does NOT own sleep-paralysis
+  folklore** (Old-Hag/kanashibari/Fuseli/alien-abduction free).
+- **sleep-dreams** now owns these sleep/dream anchors — grep before any sleep/dream/brain/consciousness
+  category: bears-months-no-bathroom-recycle-urea + **wood-frogs-freeze-solid** + arctic-ground-squirrel-
+  below-freezing; **LaBerge eye-signal proof** + 2021-two-way-dream-conversation + dream-time=real-time;
+  **nightmare = mara demon (not a horse)** + night-terrors-are-NREM-no-memory + imagery-rehearsal-therapy;
+  **Kenneth-Parks-1987-sleep-drove-and-killed-acquitted** + sleepwalkers-eyes-open/no-memory + waking-a-
+  sleepwalker-is-safe-myth; **90+-decibel snores** + **didgeridoo-reduces-snoring/apnea** + heavy-snoring=
+  apnea; **REM-discovered-1953-darting-eyes** + paradoxical-sleep + **RBD-acting-out-dreams**; **fatal-
+  familial-insomnia (prion)** + **Randy-Gardner-11-days-1964** + DEC2-short-sleeper-gene; **Michel-Siffre-
+  cave** + **de-Mairan-1729-mimosa** + non-visual-eye-cells-set-the-clock; **Dali/Edison-nap-with-a-key** +
+  sleep-inertia + afternoon-dip-is-circadian; sleep-paralysis=mind-wakes-body-locked + **Old-Hag/
+  kanashibari/Fuseli/alien-abduction** + back-sleeping-triggers-it.
 
 **Watch especially:** any new category about creatures/cryptids, ancient sites, writing, famous
 inventions, everyday objects/appliances, disasters, or jobs will collide with myths-legends, mysteries,
