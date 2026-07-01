@@ -1,6 +1,7 @@
 # TIL Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-06-25 · 1362 facts · 30 categories
+> Last updated: 2026-06-30 · 1857 facts · 44 categories
+> (Keep this line current — bump it every time a category is finished. See step 9 of the standing pattern.)
 
 ## What this is
 TIL ("Today I Learned") is an iOS app that serves one fascinating fact a day. Content lives in a single
@@ -14,20 +15,27 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
 - Voice/style rules also in `docs/fact-rewrite-style-guide.md`; the 3-per-topic rule in
   `docs/content-generation-rules.md`.
 - **Persistent memory:** `til_content_pipeline_state.md` (in the Claude memory dir) tracks the running
-  state + every de-dup decision. Update it after each category.
+  state + every de-dup decision (exhaustive per-category log). Update it after each category, alongside
+  this handoff doc.
 
-## Current state (2026-06-25)
-- **1362 facts · 30 categories · every topic exactly 3 facts.**
-- Categories: space, astronomy, history, ancient-civilizations, animals, ocean-life, human-body,
-  psychology, food, coffee, technology, artificial-intelligence, internet-culture, video-games, movies,
-  music, sports, engineering, aviation, cars, physics, chemistry, mathematics, business, economics,
-  literature, languages, architecture, myths-legends, mysteries.
-- **Categories rewritten via this workflow:** all 20 original + physics, chemistry, mathematics,
-  business, economics, literature, languages, architecture (added as "castles"), myths-legends,
-  mysteries.
-- **Size exceptions** (left as-is, every topic still at 3): `languages` has 13 topics (39 facts);
-  `myths-legends` has 16 topics (48 facts); `history` 63, `space` 51, `sports`/`video-games` <45.
-  Everything else is 15 topics x 3 = 45.
+## Current state (2026-06-30)
+- **1857 facts · 44 categories · every topic exactly 3 facts.**
+- All 44 categories have been rewritten via this workflow. Categories: space, astronomy, history,
+  ancient-civilizations, animals, ocean-life, human-body, psychology, food, coffee, technology,
+  artificial-intelligence, internet-culture, video-games, movies, music, sports, engineering, aviation,
+  cars, physics, chemistry, mathematics, business, economics, literature, languages, architecture,
+  myths-legends, mysteries, medicine, geography, weather, inventions, religion-beliefs, dinosaurs,
+  ancient-creatures, pirates, castles-fortresses, famous-disasters, strange-jobs, everyday-objects,
+  household-science, famous-symbols.
+- **Recent additions (all 2026-06-30 unless noted):** medicine, geography, weather, inventions,
+  religion-beliefs (2026-06-29) → dinosaurs, ancient-creatures, pirates, castles-fortresses,
+  famous-disasters (2026-06-29) → strange-jobs, everyday-objects, household-science, famous-symbols
+  (2026-06-30).
+- **Size exceptions** (left as-is, every topic still at 3): most categories are 15 topics x 3 = 45.
+  Exceptions: `religion-beliefs` 16 topics (48); `myths-legends` 16 (48); `dinosaurs`,
+  `ancient-creatures`, `pirates`, `castles-fortresses`, `strange-jobs`, `everyday-objects`,
+  `household-science`, `famous-symbols` each 10 topics (30); `famous-disasters` 9 topics (27);
+  `languages` 13 (39); `sports` 13 (39); `video-games` 14 (42); `history` 63; `space` 51.
 
 ## The standing pattern (what the user expects each time)
 When the user says "new category of X added, run the same process," do exactly this:
@@ -46,7 +54,11 @@ When the user says "new category of X added, run the same process," do exactly t
 7. **Run integrity check (section 5e).** Then `rm` the script.
 8. **Update memory** (`til_content_pipeline_state.md` + the `MEMORY.md` index line with the new
    fact/category counts and any new de-dup decisions).
-9. Tell the user to re-export with `pnpm export:facts` when ready (do NOT run the export yourself).
+9. **Update THIS handoff doc** (required — do not skip): bump the `Last updated` line and the
+   **Current state** section (new totals, add the category to the list + size-exceptions), and add any
+   notable new angle-ownership to **The de-dup discipline** so future categories avoid it. The memory
+   file holds the exhaustive log; this doc holds the running state + the high-value landmines.
+10. Tell the user to re-export with `pnpm export:facts` when ready (do NOT run the export yourself).
 
 ## House style (section 3 of the guide)
 - **headline:** leads with the surprise, Title Case, no definition.
@@ -83,9 +95,65 @@ new category must keep avoiding these:
   shipping container->business/Trade, comparative advantage / "I, Pencil"->Trade, negative oil / Veblen
   goods->Supply & Demand). Check both when touching either.
 
-**Watch especially:** any new category about creatures/cryptids, ancient sites, writing, or famous
-inventions will collide with myths-legends, mysteries, ancient-civilizations, languages, engineering, or
-literature.
+### Newer high-value landmines (added through 2026-06-30; full per-category log is in memory)
+- **physics/Sound** owns **Krakatoa** "loudest sound" + the Krakatoa eruption noise. **physics/Light**
+  owns the EM-spectrum "visible light is a tiny slice." **physics/Electricity** owns "lightning is 5x
+  hotter than the sun" + the doorknob-shock. **physics/Relativity** owns "GPS needs relativity."
+- **geography/Volcanoes** owns **Pompeii's killer = pyroclastic surge** (not lava). **languages/Palindromes**
+  owns the **Pompeii Sator square**. So a Pompeii/volcano fact must dodge both.
+- **chemistry/Polymers** owns **"Teflon was a lucky accident."** **chemistry/Catalysts** owns **enzymes**
+  + the catalytic converter. **chemistry/Radioactivity** owns bananas-are-radioactive + paper-vs-lead
+  shielding (but NOT americium-in-smoke-detectors). **chemistry/Covalent Bonds** owns "diamond is one
+  giant molecule."
+- **food/Popcorn** owns popcorn (so the microwave-discovery fact uses the melted chocolate bar, not
+  popcorn). **human-body/Taste Buds** owns the tongue-map myth + taste-cell renewal (keep food-taster
+  facts off taste-bud-count). **medicine/Germ Theory** owns Semmelweis/handwashing (soap facts stay on
+  the molecule).
+- **ocean-life/Sharks** owns "sharks don't have bones" + "older than dinosaurs" (so megalodon avoids the
+  cartilage/teeth-only + shark-age angles). **ocean-life/Deep Sea** owns Mariana-deeper-than-Everest.
+- **space/Asteroids** owns *general* asteroid facts but NOT Chicxulub/the dino-killer (that's
+  famous-disasters + dinosaurs). **space/Sun** owns "the Sun creates Earth's auroras."
+- **history/Golden Age of Piracy** owns Black-Bart-400-vessels + privateer-turns-pirate + pirates-as-
+  exaggerated-news. **history/Space Race** does NOT own Challenger (free).
+- **inventions/Radio** owns the **coconut-shells-for-horse-hooves** Foley trick. **architecture/Castles**
+  owns clockwise-stairs + garderobe-toilets + Neuschwanstein-fairy-tale-fake.
+- **Thomas Midgley / Freon / ozone / leaded gas** now live in **household-science/Refrigerators** — grep
+  before any cars/chemistry/environment category.
+- **De-extinction (Colossal)** used once (ancient-creatures/Woolly Mammoths). **Einstein** appears in
+  physics/Relativity AND household-science (the Einstein fridge) — distinct angles, OK.
+- **mathematics/Infinity** owns Cantor + Hilbert-Hotel + 0.999=1 (the CONCEPT of infinity);
+  **mathematics/Topology** owns "Möbius strip has only one side"; **mathematics/Calculus** owns "integral
+  sign is a 300-yr-old S." So **famous-symbols/Infinity Symbol** stuck to the GLYPH (Wallis-1655 /
+  lemniscate / forever-jewelry) and **Recycling** used Möbius only as inspiration, never the one-sided
+  property.
+- **pirates/Jolly Roger** owns the pirate-flag angle (3 facts: red flag, false friendly flags, custom
+  captain flags). **famous-symbols/Skull & Crossbones** therefore avoided pirates entirely → owns
+  **Mr. Yuk** (kids found the skull appealing, 1971), Victorian ridged cobalt poison bottles, and the
+  winged death's-head gravestone.
+- **myths-legends/Egyptian Religion** owns "heart weighed against a feather." So **famous-symbols/Heart
+  Symbol** rerouted off Egypt → owns **silphium-seedpod origin**, Aristotle's cardiocentrism ("learn by
+  heart"), and **Milton Glaser's I♥NY (1977) made the heart a verb**.
+- **famous-symbols** now owns these symbol/typography anchors — grep before any symbols/punctuation/
+  currency-sign/typography category: ampersand = fused e+t Latin "et" + "and-per-se-and"-27th-letter +
+  **Tironian et (⁊) on Irish road signs**; checkmark-means-WRONG-in-Japan/Korea/Finland (correct = circle
+  maru) + Roman "V"-for-veritas theory + **X was the old "I agree" mark**; Greek-question-mark-is-a-
+  semicolon + Spanish-¿-(official-1754) + "qo"-from-quaestio; **dollar sign from the Spanish peso "ps"**
+  (predates the US) + "dollar"=thaler←Joachimsthaler (a Czech valley) + Pillars-of-Hercules theory;
+  peace-sign = semaphore N+D + despair-figure-Holtom-never-copyrighted + John-Birch-"broken-cross" smear;
+  yin-yang DOTS-are-the-point + 陰陽=shady/sunny-hillside + the-taijitu-swirl-is-younger-than-the-idea;
+  recycling = 1970-student-contest-never-trademarked + resin-codes-arent-a-recyclability-promise +
+  forgotten-3rd-arrow.
+
+**Watch especially:** any new category about creatures/cryptids, ancient sites, writing, famous
+inventions, everyday objects/appliances, disasters, or jobs will collide with myths-legends, mysteries,
+ancient-civilizations, languages, engineering, inventions, everyday-objects, household-science, physics,
+chemistry, or literature. When in doubt, grep the specific anchor against the whole CSV first.
+
+### Watch for pre-existing duplicate IDs in the source dumps
+The source data has occasionally shipped the **same `id` in two categories** (found `internet-network-of-networks`
+in BOTH technology/Internet and inventions/Internet — present in the backup, so not introduced by a rewrite).
+The integrity check's `dup ids` line catches these. Resolve by renaming **the new category's** row to a
+unique id (only safe if nothing references it via `relatedFactIds` — check first), then report it.
 
 ## Reusable script template (matches by old headline, keeps id)
 ```python
@@ -125,7 +193,8 @@ print('topics not at 3:',[k for k,c in Counter((r['categoryId'],r['topic']) for 
 print('dup headlines dataset-wide:',[k for k,c in Counter(r['headline'] for r in rows).items() if c>1] or 'none')
 ```
 Target for a finished category: no dup ids/headlines dataset-wide, 0 dangling links, every topic at
-exactly 3, bodies ~65–80 words, zero "Britannica" left in the new category.
+exactly 3, bodies in the 55–95 band (aim 65–80; recent batches have run ~78–82 avg, which is fine),
+zero "Britannica"/source-attribution framing left in the new category.
 
 ## Other notes
 - `id` is permanent — never change it, even on a full rewrite (other facts' `relatedFactIds` point at it).
