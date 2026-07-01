@@ -1,6 +1,6 @@
 # TIL Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-01 · 2037 facts · 50 categories
+> Last updated: 2026-07-01 · 2067 facts · 51 categories
 > (Keep this line current — bump it every time a category is finished. See step 9 of the standing pattern.)
 
 ## What this is
@@ -19,25 +19,26 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   this handoff doc.
 
 ## Current state (2026-07-01)
-- **2037 facts · 50 categories · every topic exactly 3 facts.**
-- All 50 categories have been rewritten via this workflow. Categories: space, astronomy, history,
+- **2067 facts · 51 categories · every topic exactly 3 facts.**
+- All 51 categories have been rewritten via this workflow. Categories: space, astronomy, history,
   ancient-civilizations, animals, ocean-life, human-body, psychology, food, coffee, technology,
   artificial-intelligence, internet-culture, video-games, movies, music, sports, engineering, aviation,
   cars, physics, chemistry, mathematics, business, economics, literature, languages, architecture,
   myths-legends, mysteries, medicine, geography, weather, inventions, religion-beliefs, dinosaurs,
   ancient-creatures, pirates, castles-fortresses, famous-disasters, strange-jobs, everyday-objects,
   household-science, famous-symbols, colors, sleep-dreams, illusions-perceptions, secret-codes,
-  superstitions, human-behavior.
+  superstitions, human-behavior, explorers.
 - **Recent additions:** medicine, geography, weather, inventions, religion-beliefs (2026-06-29) →
   dinosaurs, ancient-creatures, pirates, castles-fortresses, famous-disasters (2026-06-29) →
   strange-jobs, everyday-objects, household-science, famous-symbols, colors (2026-06-30) →
-  sleep-dreams, illusions-perceptions, secret-codes, superstitions, human-behavior (2026-07-01).
+  sleep-dreams, illusions-perceptions, secret-codes, superstitions, human-behavior, explorers
+  (2026-07-01).
 - **Size exceptions** (left as-is, every topic still at 3): most categories are 15 topics x 3 = 45.
   Exceptions: `religion-beliefs` 16 topics (48); `myths-legends` 16 (48); `dinosaurs`,
   `ancient-creatures`, `pirates`, `castles-fortresses`, `strange-jobs`, `everyday-objects`,
   `household-science`, `famous-symbols`, `colors`, `sleep-dreams`, `illusions-perceptions`,
-  `secret-codes`, `superstitions`, `human-behavior` each 10 topics (30); `famous-disasters` 9 topics
-  (27); `languages` 13 (39); `sports` 13 (39); `video-games` 14 (42); `history` 63; `space` 51.
+  `secret-codes`, `superstitions`, `human-behavior`, `explorers` each 10 topics (30); `famous-disasters`
+  9 topics (27); `languages` 13 (39); `sports` 13 (39); `video-games` 14 (42); `history` 63; `space` 51.
 
 ## The standing pattern (what the user expects each time)
 When the user says "new category of X added, run the same process," do exactly this:
@@ -255,6 +256,31 @@ new category must keep avoiding these:
   emoji=contract) + **languages/Sign-Language** (deaf-babies-babble) → Gestures used physical-gesture-
   insults + gesture-on-the-phone + Italian-lexicon. RULE: for any body-language/nonverbal/social-behavior
   category, grep **psychology(Body-Language + Emotions) FIRST** and win only with concrete specifics.
+- **explorers vs history + a few others (surprisingly free — history owns almost no named explorers).**
+  Only 2 real collisions: **history/Age-of-Exploration** owns 'Magellan's Expedition Circled Earth' (5
+  ships / first circumnavigation / Magellan died in the Philippines 1521 / most crew died / Elcano finished
+  1522) → Magellan rerouted OFF all of that, to **Enrique-of-Malacca (maybe the true first circumnavigator)**
+  / named-the-Pacific-then-ate-rats-and-leather / **survivors-lost-a-day (first date line)**; **ancient-
+  creatures/Giant-Sloths** owns 'Jefferson Thought Sloth Bones Were a Lion' (and says Jefferson told Lewis
+  & Clark to look for living megafauna) → Lewis & Clark avoided the Jefferson-mammoth angle, using only-
+  one-death / ~300-new-species / **York (enslaved man who got a vote)**. Also: history/Age-of-Exploration
+  owns Columbus + Vikings-before-Columbus; pirates/Privateers owns Drake; myths-legends/Unicorns owns
+  Scotland-unicorn (Zheng-He's giraffe framed as a **qilin**, not 'unicorn'); animals/Giraffes owns giraffe
+  biology. Cousteau, Shackleton, Ibn Battuta, Marco Polo, Nellie Bly, Amundsen, Zheng He, Sacagawea were
+  all completely free.
+- **explorers** now owns these explorer anchors — grep before any voyage/expedition/discovery category:
+  **Shackleton-800mi-lifeboat-not-one-man-lost** + turned-back-97mi-from-South-Pole + **Endurance-found-
+  2022-no-shipworms**; **Ibn-Battuta-out-traveled-Marco-Polo-3x** + judge/serial-husband + Mecca-trip-
+  became-24-years; **Cousteau-Aqua-Lung-1943** + **Conshelf-lived-on-the-sea-floor** + **Silent-World-won-
+  Palme-dOr-AND-Oscar**; Lewis-Clark-only-one-death-burst-appendix + ~300-new-species + **York-got-a-vote-
+  denied-freedom**; **Magellan's-Enrique-of-Malacca** + named-Pacific-ate-rats/leather + **survivors-lost-
+  a-day (date line)**; **Marco-Polo-dictated-his-book-from-prison** + doubts-he-reached-China + deathbed-
+  'I-did-not-tell-half'; **Nellie-Bly-72-days-raced-secret-rival-Bisland** + faked-insanity-Ten-Days-in-a-
+  Mad-House + later-factory-owner/patents/WWI-reporter; **Amundsen-beat-Scott-who-died** + first-through-
+  Northwest-Passage-Gjoa + **first-to-both-poles-vanished-rescuing-a-rival-1928**; **Zheng-He-enslaved-
+  eunuch-admiral** + fleet-dwarfed-Columbus-28000-men + **giraffe-as-qilin-then-China-turned-inward**;
+  **Sacagawea-crossed-continent-with-a-newborn** + **the-chief-was-her-long-lost-brother** + walking-
+  signal-of-peace-most-statues-of-any-American-woman.
 - **human-behavior** now owns these nonverbal anchors — grep before any body-language/social category:
   **Duchenne-smile (doctor shocked faces)** + smiling-is-innate(fetuses/blind-babies) + Russia-smiling-
   seems-fake; **36-questions-4-min-eye-contact-fall-in-love** + look-away-to-think + **belladonna-pupils-
