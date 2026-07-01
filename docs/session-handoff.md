@@ -1,6 +1,6 @@
 # TIL Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-06-30 · 1857 facts · 44 categories
+> Last updated: 2026-06-30 · 1887 facts · 45 categories
 > (Keep this line current — bump it every time a category is finished. See step 9 of the standing pattern.)
 
 ## What this is
@@ -19,22 +19,22 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   this handoff doc.
 
 ## Current state (2026-06-30)
-- **1857 facts · 44 categories · every topic exactly 3 facts.**
-- All 44 categories have been rewritten via this workflow. Categories: space, astronomy, history,
+- **1887 facts · 45 categories · every topic exactly 3 facts.**
+- All 45 categories have been rewritten via this workflow. Categories: space, astronomy, history,
   ancient-civilizations, animals, ocean-life, human-body, psychology, food, coffee, technology,
   artificial-intelligence, internet-culture, video-games, movies, music, sports, engineering, aviation,
   cars, physics, chemistry, mathematics, business, economics, literature, languages, architecture,
   myths-legends, mysteries, medicine, geography, weather, inventions, religion-beliefs, dinosaurs,
   ancient-creatures, pirates, castles-fortresses, famous-disasters, strange-jobs, everyday-objects,
-  household-science, famous-symbols.
+  household-science, famous-symbols, colors.
 - **Recent additions (all 2026-06-30 unless noted):** medicine, geography, weather, inventions,
   religion-beliefs (2026-06-29) → dinosaurs, ancient-creatures, pirates, castles-fortresses,
-  famous-disasters (2026-06-29) → strange-jobs, everyday-objects, household-science, famous-symbols
-  (2026-06-30).
+  famous-disasters (2026-06-29) → strange-jobs, everyday-objects, household-science, famous-symbols,
+  colors (2026-06-30).
 - **Size exceptions** (left as-is, every topic still at 3): most categories are 15 topics x 3 = 45.
   Exceptions: `religion-beliefs` 16 topics (48); `myths-legends` 16 (48); `dinosaurs`,
   `ancient-creatures`, `pirates`, `castles-fortresses`, `strange-jobs`, `everyday-objects`,
-  `household-science`, `famous-symbols` each 10 topics (30); `famous-disasters` 9 topics (27);
+  `household-science`, `famous-symbols`, `colors` each 10 topics (30); `famous-disasters` 9 topics (27);
   `languages` 13 (39); `sports` 13 (39); `video-games` 14 (42); `history` 63; `space` 51.
 
 ## The standing pattern (what the user expects each time)
@@ -143,6 +143,27 @@ new category must keep avoiding these:
   yin-yang DOTS-are-the-point + 陰陽=shady/sunny-hillside + the-taijitu-swirl-is-younger-than-the-idea;
   recycling = 1970-student-contest-never-trademarked + resin-codes-arent-a-recyclability-promise +
   forgotten-3rd-arrow.
+- **colors vs physics/chemistry/ancient-civ/cars/architecture/aviation (a big overlap cluster).**
+  **physics/Light** owns "visible light is only a tiny slice" (the wavelength/spectrum framing) → every
+  colors fact dropped nanometers/spectrum framing. **ancient-civ/Phoenicians** owns "Royal Purple Came
+  From the Phoenicians" (murex→royal→got-rich) → colors/Purple took distinct angles (250k-snails-per-
+  ounce/stench, **Perkin's mauve 1856**, cardinals-wear-red-after-1453). **cars/Tires** owns carbon-black
+  → colors/Black used **iron-gall ink** instead. **architecture/Bridges** owns Golden-Gate "International
+  Orange" AND **aviation/Flight-Recorders** owns "black boxes are actually orange" → colors/Orange dropped
+  safety-orange (used **saffron**). NOTE: **languages does NOT own color-naming** (color-term order /
+  Homer's wine-dark sea / "blue named late" are FREE) — colors/Blue used the Homer/no-word-for-blue wow.
+- **colors** now owns these color/pigment/dye anchors — grep before any color/light/pigment/perception
+  category: gold-leaf-see-through + **Lycurgus-Cup gold nanoparticles** + gold-is-yellow-from-relativity;
+  **Vantablack + Kapoor-vs-Semple pink war** + true-black-was-a-luxury-dye + iron-gall-ink; **blue is the
+  rarest natural color (structural color, crush-the-feather)** + Homer-no-word-for-blue + ultramarine =
+  ground lapis; **Scheele's/Paris green arsenic wallpaper (Napoleon)** + eyes-most-sensitive-to-green +
+  green-screen-is-farthest-from-skin-tone; **Newton added indigo to force 7 rainbow colors** + jeans-blue-
+  from-air-oxidation/dye-coats-only-the-surface + synthetic-indigo-BASF-killed-the-crop; **color named
+  after the fruit (robin redbreast)** + carrots-were-purple + saffron; **pink isn't in the rainbow (brain
+  invents it)** + pink-was-once-the-boys'-color + **Baker-Miller/drunk-tank pink**; **cochineal = red food
+  dye is crushed bugs** + red-ochre-oldest-pigment + **bulls are red-green colorblind (it's the motion)**;
+  **lead-white/ceruse makeup poisoned Elizabeth I** + **titanium-dioxide is in your toothpaste/candy** +
+  white=mourning-in-much-of-Asia.
 
 **Watch especially:** any new category about creatures/cryptids, ancient sites, writing, famous
 inventions, everyday objects/appliances, disasters, or jobs will collide with myths-legends, mysteries,
