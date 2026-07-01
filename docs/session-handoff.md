@@ -1,6 +1,6 @@
 # TIL Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-01 · 2007 facts · 49 categories
+> Last updated: 2026-07-01 · 2037 facts · 50 categories
 > (Keep this line current — bump it every time a category is finished. See step 9 of the standing pattern.)
 
 ## What this is
@@ -19,25 +19,25 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   this handoff doc.
 
 ## Current state (2026-07-01)
-- **2007 facts · 49 categories · every topic exactly 3 facts.**
-- All 49 categories have been rewritten via this workflow. Categories: space, astronomy, history,
+- **2037 facts · 50 categories · every topic exactly 3 facts.**
+- All 50 categories have been rewritten via this workflow. Categories: space, astronomy, history,
   ancient-civilizations, animals, ocean-life, human-body, psychology, food, coffee, technology,
   artificial-intelligence, internet-culture, video-games, movies, music, sports, engineering, aviation,
   cars, physics, chemistry, mathematics, business, economics, literature, languages, architecture,
   myths-legends, mysteries, medicine, geography, weather, inventions, religion-beliefs, dinosaurs,
   ancient-creatures, pirates, castles-fortresses, famous-disasters, strange-jobs, everyday-objects,
   household-science, famous-symbols, colors, sleep-dreams, illusions-perceptions, secret-codes,
-  superstitions.
+  superstitions, human-behavior.
 - **Recent additions:** medicine, geography, weather, inventions, religion-beliefs (2026-06-29) →
   dinosaurs, ancient-creatures, pirates, castles-fortresses, famous-disasters (2026-06-29) →
   strange-jobs, everyday-objects, household-science, famous-symbols, colors (2026-06-30) →
-  sleep-dreams, illusions-perceptions, secret-codes, superstitions (2026-07-01).
+  sleep-dreams, illusions-perceptions, secret-codes, superstitions, human-behavior (2026-07-01).
 - **Size exceptions** (left as-is, every topic still at 3): most categories are 15 topics x 3 = 45.
   Exceptions: `religion-beliefs` 16 topics (48); `myths-legends` 16 (48); `dinosaurs`,
   `ancient-creatures`, `pirates`, `castles-fortresses`, `strange-jobs`, `everyday-objects`,
   `household-science`, `famous-symbols`, `colors`, `sleep-dreams`, `illusions-perceptions`,
-  `secret-codes`, `superstitions` each 10 topics (30); `famous-disasters` 9 topics (27); `languages`
-  13 (39); `sports` 13 (39); `video-games` 14 (42); `history` 63; `space` 51.
+  `secret-codes`, `superstitions`, `human-behavior` each 10 topics (30); `famous-disasters` 9 topics
+  (27); `languages` 13 (39); `sports` 13 (39); `video-games` 14 (42); `history` 63; `space` 51.
 
 ## The standing pattern (what the user expects each time)
 When the user says "new category of X added, run the same process," do exactly this:
@@ -243,6 +243,30 @@ new category must keep avoiding these:
   objects/Mirrors** owns mirror-test + Venice-craft → Broken-Mirrors stayed on the superstition. FREE
   wins: **animals owns NO Cats/Rabbits/Horses**; religion-beliefs has NO evil-eye/amulet topic (nazar
   free); no Knights-Templar fact exists; psychology doesn't own pick-a-number/illusion-of-control.
+- **human-behavior vs psychology (the tightest de-dup in the project).** human-behavior IS body language,
+  and **psychology owns a `Body Language` topic AND an `Emotions` topic** that own the generic frame:
+  psychology/Body-Language owns 'brain reads body language before you notice' + 'mirroring builds rapport'
+  + **'Crossed Arms Do Not Always Mean Anger'** (an EXACT topic collision); psychology/Emotions owns
+  **'Forcing a Smile Makes You Happier'** (facial feedback). So human-behavior dodged EVERY generic
+  'reveals-emotion / needs-context / mirroring / facial-feedback' angle and used only concrete named
+  studies/history: Smiling → Duchenne/innate/Russia (NOT facial feedback); Crossed-Arms → pain-reduction/
+  persistence/arm-fold-handedness (NOT 'doesn't mean anger'); Facial-Expressions → Fore-tribe/still-face/
+  blind-athletes; Microexpressions → 'Lie-to-Me'/1-25th-sec/TSA-$1B. Also **languages/Emojis** (thumbs-up
+  emoji=contract) + **languages/Sign-Language** (deaf-babies-babble) → Gestures used physical-gesture-
+  insults + gesture-on-the-phone + Italian-lexicon. RULE: for any body-language/nonverbal/social-behavior
+  category, grep **psychology(Body-Language + Emotions) FIRST** and win only with concrete specifics.
+- **human-behavior** now owns these nonverbal anchors — grep before any body-language/social category:
+  **Duchenne-smile (doctor shocked faces)** + smiling-is-innate(fetuses/blind-babies) + Russia-smiling-
+  seems-fake; **36-questions-4-min-eye-contact-fall-in-love** + look-away-to-think + **belladonna-pupils-
+  widen**; **amygdala-holds-personal-space** + cultural-conversational-dance + **Edward-Hall-proxemic-
+  zones**; handshake-weapon-check + **Shalmaneser-III-9th-c-BCE-relief** + **handshake-2x-bacteria-of-a-
+  high-five**; **Fore-tribe-universal-expressions** + **still-face-experiment** + **blind-athletes-pride/
+  shame-poses**; **power-posing-replication-war** + **text-neck-60-lbs** + **NEAT-fidgeting-burns-
+  calories**; **thumbs-up/OK-insult-abroad** + gesture-on-the-phone-helps-the-speaker + **Italian-gesture-
+  lexicon**; **most-laughter-isn't-jokes (Provine)** + **tickled-rats-giggle** + **1962-Tanganyika-
+  laughter-epidemic**; **microexpressions-inspired-'Lie-to-Me'** + 1/25th-of-a-second + **TSA-$1B-no-
+  better-than-chance**; **crossing-arms-reduces-pain** + folded-arms-make-you-persist + **fixed-arm-fold-
+  handedness**.
 - **superstitions** now owns these luck/omen anchors — grep before any folklore/luck/ritual category:
   **four-leaf-clover=1-in-5000-mutation-collector-found-100k** + each-leaf=faith/hope/love/luck +
   **shamrock(3-leaf)=Trinity-NOT-the-lucky-one**; **evil-eye=envy/praise-is-the-danger (mashallah/spit)**
