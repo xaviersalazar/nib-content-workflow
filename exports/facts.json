@@ -34146,5 +34146,515 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "depth-perception-two-eyes",
+    "headline": "A Flat Pattern Can Hide a Hidden 3D Image",
+    "body": "Those busy Magic Eye posters look like meaningless wallpaper until you relax your eyes and let them drift apart. Suddenly a shark or a spaceship floats up out of the page in full 3D. There is no actual depth in the image at all. It is a flat repeating pattern, subtly shifted, that tricks your two eyes into disagreeing in just the right way. Your brain reads that disagreement as distance and builds a solid shape from nothing.",
+    "summary": "Magic Eye images fool your two eyes into seeing 3D depth in a flat, patterned page.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Depth Perception",
+    "tags": [
+      "depth perception",
+      "stereogram",
+      "vision"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "depth-perception-motion-parallax",
+    "headline": "Some People Cannot See in 3D at All",
+    "body": "For millions of people, the world is subtly flat. Their eyes never learned to team up, so they get no depth from binocular vision and cannot see the pop-out effect in a 3D movie. Neuroscientist Susan Barry lived that way until her 40s, when vision therapy suddenly switched it on. She was overwhelmed, describing snowflakes as floating dots hanging in space rather than a flat curtain. Depth, it turned out, was something her brain could still learn.",
+    "summary": "Some people are 'stereoblind' and see no 3D depth, though a few gain it later in life.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Depth Perception",
+    "tags": [
+      "depth perception",
+      "stereoblindness",
+      "vision"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "depth-perception-learned-cues",
+    "headline": "The Moon Looks Huge on the Horizon for No Real Reason",
+    "body": "A full Moon rising over the horizon can look enormous, then shrink to a modest disc as it climbs. Yet it never actually changes size. Hold up a coin or snap two photos and the low Moon and the high Moon measure exactly the same. This is the Moon illusion, one of the oldest known tricks of perception, and after thousands of years scientists still argue about what in the brain causes it.",
+    "summary": "The horizon Moon looks giant but is identical to the high Moon; science still debates why.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Depth Perception",
+    "tags": [
+      "depth perception",
+      "moon illusion",
+      "perception"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mirage-bending-light",
+    "headline": "A Mirage Can Conjure Floating Cities and Ghost Ships",
+    "body": "Beyond simple wet-road shimmer lies the Fata Morgana, a mirage so dramatic it looks supernatural. When layers of air bend light just so, distant coastlines, ships, and cliffs get stretched and stacked into towering castles that seem to hover above the sea. Sailors have reported entire cities on the horizon that were not there. The Fata Morgana is a leading explanation for centuries of Flying Dutchman ghost-ship sightings.",
+    "summary": "The Fata Morgana mirage stacks distant objects into floating cities, likely fueling ghost-ship tales.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Mirage",
+    "tags": [
+      "mirage",
+      "fata morgana",
+      "atmospheric optics"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mirage-fake-water",
+    "headline": "That Desert Oasis Is Really a Piece of the Sky",
+    "body": "The shimmering pool on a hot highway or desert plain looks exactly like water, but there is no water and no reflection. The ground there is baking, and the air just above it is scorching and thin. Light coming down from the blue sky hits that hot layer and bends upward into your eyes. So what you see pooled on the road is not a puddle at all. It is a bent-up image of the sky itself.",
+    "summary": "The 'water' on a hot road is really an image of the sky, bent upward by hot air.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Mirage",
+    "tags": [
+      "mirage",
+      "refraction",
+      "desert"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "mirage-looming",
+    "headline": "A Mirage Can Show You a Sun That Has Already Set",
+    "body": "Light bending through cold air can lift things that should be hidden below the horizon right into view. The most striking case is the Novaya Zemlya effect, named after an Arctic island. In 1597, stranded Dutch explorers watched the Sun rise about two weeks earlier than it possibly could have. Chilled air was bending sunlight over the curve of the Earth, delivering a sunrise from a Sun that was still far below the horizon.",
+    "summary": "Bending Arctic air can show the Sun while it is still below the horizon, a real sunrise mirage.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Mirage",
+    "tags": [
+      "mirage",
+      "novaya zemlya",
+      "atmospheric optics"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pareidolia-faces-randomness",
+    "headline": "A Face on Mars Turned Out to Be a Hill",
+    "body": "In 1976, a NASA Viking orbiter photographed a mesa in the Cydonia region of Mars that looked startlingly like a giant human face staring up at space. It fueled decades of claims about ancient Martian monuments and alien civilizations. But when sharper cameras returned years later, the magic vanished. The face was just an ordinary eroded hill, its eyes and mouth created by shadows and low-resolution pixels. Our face-hungry brains did the rest.",
+    "summary": "The famous 'Face on Mars' was an ordinary hill, sculpted into a face by shadow and low resolution.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Pareidolia",
+    "tags": [
+      "pareidolia",
+      "face on mars",
+      "perception"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pareidolia-apophenia",
+    "headline": "A Grilled Cheese Sold for $28,000 Because of a Face",
+    "body": "In 2004, a Florida woman put a decade-old grilled cheese sandwich up for auction, claiming the toast bore the face of the Virgin Mary. It sold on eBay for around $28,000. The sandwich is a perfect example of pareidolia, the brain's habit of finding faces in random things: clouds, wood grain, burnt toast, the surface of the Moon. The pattern is not really there, but the recognition feels instant and certain.",
+    "summary": "A grilled cheese said to show the Virgin Mary sold for about $28,000, a classic case of pareidolia.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Pareidolia",
+    "tags": [
+      "pareidolia",
+      "faces",
+      "psychology"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pareidolia-survival-skill",
+    "headline": "Cars and Outlets Look Like Faces on Purpose",
+    "body": "Your brain has a dedicated face-spotting system, and it is deliberately trigger-happy. For early humans, instantly clocking a face, friend or predator, was worth the cost of occasional false alarms. Mistaking a shadow for a face is harmless. Missing a lurking threat is not. That hair-trigger is why two headlights and a grille read as a face, why power outlets look surprised, and why we find expressions in the fronts of cars and houses.",
+    "summary": "An overeager, survival-tuned face detector is why cars, outlets, and buildings seem to have faces.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Pareidolia",
+    "tags": [
+      "pareidolia",
+      "evolution",
+      "face perception"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "afterimages-retina-desensitized",
+    "headline": "Stare at the Wrong Colors and a Hidden Flag Appears",
+    "body": "Try this: stare hard at a flag painted in the wrong colors, black stars on a cyan field with black-and-yellow stripes, for about 30 seconds, then look at a blank white wall. A ghostly, correctly colored red-white-and-blue American flag floats into view. The trick is that your eyes flip each color to its opposite. Cyan becomes red, yellow becomes blue, black becomes white. Your own visual system fills in the true flag.",
+    "summary": "Staring at a color-reversed flag makes a correctly colored afterimage flag appear on a blank wall.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Afterimages",
+    "tags": [
+      "afterimages",
+      "color",
+      "vision"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "afterimages-not-on-wall",
+    "headline": "An Afterimage Is Your Own Worn-Out Eye Cells",
+    "body": "When you gaze at something bright for a while, the color-sensing cone cells catching that light slowly get tired and less responsive. Look away, and those fatigued cells lag behind their neighbors, sending a lopsided signal that your brain reads as a lingering ghost image. The afterimage seems to hover on the wall or your hand, but nothing is out there. You are simply watching your own overworked receptors slowly recover.",
+    "summary": "Afterimages are not on the wall; they are fatigued cone cells in your eye reporting back.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Afterimages",
+    "tags": [
+      "afterimages",
+      "retina",
+      "cones"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "afterimages-one-eye",
+    "headline": "Hold Your Eyes Still and Things Start to Vanish",
+    "body": "Your eyes constantly make tiny, involuntary jitters, and it turns out those flicks are keeping your vision alive. If you fix your gaze perfectly on one spot and hold steady, unchanging details in the edges of your view slowly fade and disappear, an effect called Troxler fading. Your brain tunes out anything that never changes. It is the same reason you do not constantly see your own nose or the blur of your eyelashes.",
+    "summary": "Holding your gaze still makes steady edges of your vision fade out, called Troxler fading.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Afterimages",
+    "tags": [
+      "afterimages",
+      "troxler fading",
+      "perception"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "blind-spots-optic-nerve",
+    "headline": "Your Blind Spot Could Swallow Nine Full Moons",
+    "body": "The blind spot in each eye is not some tiny pinprick. It is a sizable gap where the optic nerve punches through the retina, big enough that if you close one eye and line things up, it could hide about nine full Moons sitting side by side. So why is your view not full of holes? Because your two eyes are offset. Each one's blind spot falls exactly where the other eye is still seeing, and they quietly cover for each other.",
+    "summary": "Each eye's blind spot is large enough to hide nine Moons, but the other eye covers the gap.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Blind Spots",
+    "tags": [
+      "blind spot",
+      "eyes",
+      "vision"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "blind-spots-brain-fills-in",
+    "headline": "You Go Blind Every Time Your Eyes Move",
+    "body": "Your eyes do not glide smoothly across a scene. They leap in quick jumps called saccades, and during each jump your brain briefly shuts vision off so the world does not smear. You are effectively blind for a fraction of a second, hundreds of times an hour, and never notice. The proof is simple and eerie: look at your own eyes in a mirror and flick your gaze back and forth. You will never once catch them moving.",
+    "summary": "Vision briefly switches off during each eye movement, so you can't see your own eyes move in a mirror.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Blind Spots",
+    "tags": [
+      "blind spot",
+      "saccades",
+      "perception"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "blind-spots-sharp-fovea",
+    "headline": "Astronomers See Faint Stars by Looking Away From Them",
+    "body": "The very center of your gaze is packed with color receptors but almost no dim-light ones, which means the middle of your vision is nearly useless in the dark. Skywatchers exploit this with a trick called averted vision: to spot a faint star, galaxy, or comet, they look slightly to one side of it. The dimmer detectors ringing the center of the retina are far more sensitive, so the faint object pops into view the moment you stop staring right at it.",
+    "summary": "The center of your gaze is nearly blind in dim light, so astronomers glance beside faint stars to see them.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Blind Spots",
+    "tags": [
+      "blind spot",
+      "averted vision",
+      "astronomy"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "color-illusions-rgb-white",
+    "headline": "Two Squares Can Be Identical Yet Look Totally Different",
+    "body": "In the famous checker-shadow illusion, a checkerboard sits under a shadow cast by a green cylinder. One light square in the shade and one dark square in the light are printed in the exact same shade of grey. But your brain, busy correcting for the shadow, is utterly convinced they are different. Even when told the truth, most people simply cannot see them as equal until you physically connect the two squares with a matching grey bar.",
+    "summary": "In the checker-shadow illusion, two squares are the same grey but look completely different.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Color Illusions",
+    "tags": [
+      "color illusions",
+      "checker shadow",
+      "perception"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "color-illusions-three-cones",
+    "headline": "A Photo With No Red Can Still Look Full of Red",
+    "body": "There is a well-known image of strawberries that looks unmistakably red and ripe. The twist: the picture contains no red pixels at all. It has been tinted heavily cyan, and the 'red' you see is entirely manufactured by your brain. Assuming the whole scene is lit by bluish light, your visual system cancels out the tint to guess the true colors, a process called color constancy. It over-corrects, and paints strawberries red that are technically grey-green.",
+    "summary": "A cyan-tinted photo with zero red pixels still looks red because your brain corrects for the light.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Color Illusions",
+    "tags": [
+      "color illusions",
+      "color constancy",
+      "perception"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "color-illusions-colored-shadows",
+    "headline": "The Same Gray Looks Different Depending on Its Neighbors",
+    "body": "Place an identical grey patch on a black background and then on a white one, and the two look nothing alike, one bright, one dim. This is simultaneous contrast, and your eyes are not measuring absolute color. They are constantly comparing each spot to whatever surrounds it. A color never has a fixed appearance on its own. Change its neighbors and you can make the very same ink look lighter, darker, or even a different hue entirely.",
+    "summary": "An identical color looks lighter or darker depending on what surrounds it, called simultaneous contrast.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Color Illusions",
+    "tags": [
+      "color illusions",
+      "contrast",
+      "perception"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "impossible-shapes-three-two-prongs",
+    "headline": "The Impossible Trident Cheats at the Joints",
+    "body": "The devil's trident looks fine when you glance at either end: three round prongs on one side, a solid U-shaped fork on the other. The impossibility hides in the middle, where those two views cannot be reconciled. Cover one end and the rest looks perfectly buildable. That is the whole trick. Your brain reads each local piece as a sensible 3D object, then stitches the pieces into a whole that could never exist in real space.",
+    "summary": "The impossible trident works because each end looks valid alone but the two cannot connect.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Impossible Shapes",
+    "tags": [
+      "impossible shapes",
+      "impossible trident",
+      "perception"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "impossible-shapes-geometry-break",
+    "headline": "An Artist and a Physicist Traded Impossible Ideas",
+    "body": "The endlessly rising staircase and the water that flows uphill in M.C. Escher's prints were not just artistic whimsy. They grew out of the Penrose triangle, a figure that mathematician Roger Penrose called 'impossibility in its purest form.' Penrose and his father published it in the 1950s, partly inspired by Escher's work, and Escher in turn used their triangle to build new mind-bending images. Art and mathematics kept handing the impossible back and forth.",
+    "summary": "Escher's impossible staircases grew from the Penrose triangle, in a loop of art and mathematics.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Impossible Shapes",
+    "tags": [
+      "impossible shapes",
+      "penrose",
+      "escher"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "impossible-shapes-persistent",
+    "headline": "You Can Actually Build a Penrose Triangle",
+    "body": "An impossible object sounds like it can only live on paper, yet you can construct one in the real world. In Perth, Australia, a large steel sculpture appears to be a solid Penrose triangle, its three beams joining in a way that should be impossible. The secret is that it is not actually closed. From one precise viewpoint the gap lines up perfectly and the beams seem to meet, but walk a few steps and the whole illusion falls apart.",
+    "summary": "A Perth sculpture looks like a solid Penrose triangle, but only from one exact viewing spot.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Impossible Shapes",
+    "tags": [
+      "impossible shapes",
+      "penrose",
+      "sculpture"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motion-illusions-rotating-snakes",
+    "headline": "Stare at a Waterfall and the Rocks Drift Upward",
+    "body": "Watch flowing water or a wall of downward-moving stripes for half a minute, then shift your gaze to something still, like nearby rocks. The stationary scene will appear to creep upward, in the opposite direction. This is the motion aftereffect, or 'waterfall illusion,' and Aristotle described a version of it over 2,000 years ago. The motion detectors in your brain get tired in one direction, leaving the opposite ones to briefly win.",
+    "summary": "After watching downward motion, still objects seem to drift up, an effect noted since Aristotle.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Motion Illusions",
+    "tags": [
+      "motion illusions",
+      "motion aftereffect",
+      "perception"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motion-illusions-peripheral-drift",
+    "headline": "This Still Image Only Moves When You Don't Look at It",
+    "body": "The 'Rotating Snakes' illusion is a printed pattern of colored rings that appear to churn and spin, yet nothing on the page is moving. The effect lives entirely in your peripheral vision. The circles seem to rotate wherever you are not looking directly, and the instant you lock your eyes onto one, it snaps to a dead stop. Tiny involuntary eye movements and slight timing differences in how your brain processes light and dark create the phantom motion.",
+    "summary": "'Rotating Snakes' seems to spin in peripheral vision but freezes the moment you stare at it.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Motion Illusions",
+    "tags": [
+      "motion illusions",
+      "rotating snakes",
+      "peripheral vision"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "motion-illusions-clockwise-counter",
+    "headline": "Spinning Wheels Can Appear to Turn Backward on Film",
+    "body": "In old Western movies, wagon wheels sometimes seem to spin slowly backward even as the stagecoach races forward. The cause is how film captures motion: as a rapid series of still snapshots. If a wheel turns just a little less than a full spoke-spacing between frames, each frame catches it slightly 'behind,' and your brain reads that as reverse rotation. The wheel is really flying forward, but the camera's stop-motion sampling turns it into an illusion.",
+    "summary": "Filmed wheels can look like they spin backward because a camera captures motion as still frames.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Motion Illusions",
+    "tags": [
+      "motion illusions",
+      "wagon-wheel effect",
+      "film"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "forced-perspective-size-trick",
+    "headline": "Hobbits Were Shrunk Mostly Without Special Effects",
+    "body": "The Lord of the Rings films made hobbits look tiny beside full-sized humans largely with old-fashioned camera trickery, not just digital effects. Actors playing hobbits were placed farther from the camera than the taller characters, on cleverly angled sets that hid the gap. In one famous shot, a whole bench and its props slid slowly during filming so a hobbit and a wizard stayed the right relative sizes as the camera moved around them.",
+    "summary": "Lord of the Rings shrank hobbits mainly with camera distance and sliding sets, not just CGI.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Forced Perspective",
+    "tags": [
+      "forced perspective",
+      "film",
+      "special effects"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "forced-perspective-camera-distance",
+    "headline": "A Room Can Make People Grow and Shrink",
+    "body": "The Ames Room looks like an ordinary square room when viewed through a special peephole, but it is wildly lopsided, with one back corner far taller and farther away than the other. The distortion is built to fool you into seeing it as normal. So when a person walks from one back corner to the other, they appear to magically swell into a giant or shrink into a dwarf, even though they never change size at all.",
+    "summary": "The lopsided Ames Room makes a person appear to grow or shrink as they cross it.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Forced Perspective",
+    "tags": [
+      "forced perspective",
+      "ames room",
+      "perception"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "forced-perspective-focus-planning",
+    "headline": "Disney Castles Are Shorter Than They Look",
+    "body": "Disney's fairy-tale castles and old-timey Main Street buildings tower over visitors, but much of that height is an illusion baked into the architecture. The technique, called forced perspective, makes each floor above the ground level slightly shorter, with smaller windows and bricks, than the one below. Your brain assumes the upper floors are normal-sized and therefore far away, so the whole structure reads as much taller and grander than it physically is.",
+    "summary": "Disney shrinks the upper floors of its castles and buildings so they look far taller than they are.",
+    "categoryId": "illusions-perceptions",
+    "topic": "Forced Perspective",
+    "tags": [
+      "forced perspective",
+      "architecture",
+      "disney"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "the-dress-split-perception",
+    "headline": "The Dress That Broke the Internet Was Really Blue and Black",
+    "body": "In 2015, a photo of a dress tore the internet apart: some people saw it as white and gold, others as blue and black, and both sides were baffled anyone could disagree. The strangest part is that the real dress was verifiably blue and black. Yet many white-and-gold viewers could not force themselves to see it, even after being told the answer and shown the actual garment. The same pixels simply looked like different colors to different brains.",
+    "summary": "The viral dress was really blue and black, but many people physically could not see it that way.",
+    "categoryId": "illusions-perceptions",
+    "topic": "The Dress",
+    "tags": [
+      "the dress",
+      "color perception",
+      "viral"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "the-dress-color-constancy",
+    "headline": "Whether You Saw Gold May Depend on When You Wake Up",
+    "body": "The split over The Dress came down to a guess your brain makes about the lighting in the photo, which was ambiguous. If your brain assumed the dress sat in cool bluish shadow, it subtracted blue and you saw white and gold. If it assumed warm indoor light, you saw blue and black. Researchers found a striking pattern: early risers, more used to blue daylight, leaned toward white and gold, while night owls tended to see blue and black.",
+    "summary": "Seeing the dress as white-gold or blue-black tracked with being an early bird or a night owl.",
+    "categoryId": "illusions-perceptions",
+    "topic": "The Dress",
+    "tags": [
+      "the dress",
+      "color constancy",
+      "lighting"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "the-dress-blue-processing",
+    "headline": "The Dress Had a Sound-Based Twin",
+    "body": "The Dress proved that people can flatly disagree about the same image, and it was not a one-time fluke of eyes or screens. A few years later, an audio clip called 'Yanny or Laurel' did the exact same thing to hearing. Millions argued over whether a robotic voice said 'Yanny' or 'Laurel,' and just like the dress, listeners often could not switch. Perception splits like these show your brain is always guessing, whether the signal is light or sound.",
+    "summary": "'Yanny or Laurel' split people's hearing just as The Dress split their vision.",
+    "categoryId": "illusions-perceptions",
+    "topic": "The Dress",
+    "tags": [
+      "the dress",
+      "yanny laurel",
+      "perception"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]

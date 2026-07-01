@@ -1,6 +1,6 @@
 # TIL Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-01 · 1917 facts · 46 categories
+> Last updated: 2026-07-01 · 1947 facts · 47 categories
 > (Keep this line current — bump it every time a category is finished. See step 9 of the standing pattern.)
 
 ## What this is
@@ -19,23 +19,24 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   this handoff doc.
 
 ## Current state (2026-07-01)
-- **1917 facts · 46 categories · every topic exactly 3 facts.**
-- All 46 categories have been rewritten via this workflow. Categories: space, astronomy, history,
+- **1947 facts · 47 categories · every topic exactly 3 facts.**
+- All 47 categories have been rewritten via this workflow. Categories: space, astronomy, history,
   ancient-civilizations, animals, ocean-life, human-body, psychology, food, coffee, technology,
   artificial-intelligence, internet-culture, video-games, movies, music, sports, engineering, aviation,
   cars, physics, chemistry, mathematics, business, economics, literature, languages, architecture,
   myths-legends, mysteries, medicine, geography, weather, inventions, religion-beliefs, dinosaurs,
   ancient-creatures, pirates, castles-fortresses, famous-disasters, strange-jobs, everyday-objects,
-  household-science, famous-symbols, colors, sleep-dreams.
+  household-science, famous-symbols, colors, sleep-dreams, illusions-perceptions.
 - **Recent additions:** medicine, geography, weather, inventions, religion-beliefs (2026-06-29) →
   dinosaurs, ancient-creatures, pirates, castles-fortresses, famous-disasters (2026-06-29) →
   strange-jobs, everyday-objects, household-science, famous-symbols, colors (2026-06-30) →
-  sleep-dreams (2026-07-01).
+  sleep-dreams, illusions-perceptions (2026-07-01).
 - **Size exceptions** (left as-is, every topic still at 3): most categories are 15 topics x 3 = 45.
   Exceptions: `religion-beliefs` 16 topics (48); `myths-legends` 16 (48); `dinosaurs`,
   `ancient-creatures`, `pirates`, `castles-fortresses`, `strange-jobs`, `everyday-objects`,
-  `household-science`, `famous-symbols`, `colors`, `sleep-dreams` each 10 topics (30); `famous-disasters`
-  9 topics (27); `languages` 13 (39); `sports` 13 (39); `video-games` 14 (42); `history` 63; `space` 51.
+  `household-science`, `famous-symbols`, `colors`, `sleep-dreams`, `illusions-perceptions` each 10 topics
+  (30); `famous-disasters` 9 topics (27); `languages` 13 (39); `sports` 13 (39); `video-games` 14 (42);
+  `history` 63; `space` 51.
 
 ## The standing pattern (what the user expects each time)
 When the user says "new category of X added, run the same process," do exactly this:
@@ -186,6 +187,28 @@ new category must keep avoiding these:
   cave** + **de-Mairan-1729-mimosa** + non-visual-eye-cells-set-the-clock; **Dali/Edison-nap-with-a-key** +
   sleep-inertia + afternoon-dip-is-circadian; sleep-paralysis=mind-wakes-body-locked + **Old-Hag/
   kanashibari/Fuseli/alien-abduction** + back-sleeping-triggers-it.
+- **illusions-perceptions vs psychology + human-body + movies (perception/vision cluster).**
+  **psychology owns an `Optical Illusions` topic AND a `Perception` topic** — it owns 'illusions trick
+  your brain', **'you can't always unsee an illusion'**, phantom-limb mirror therapy, 'brain constructs
+  reality', 'two people perceive differently', and **'brain fills in missing information'**. **human-body/
+  Eyes** owns **the blind spot** ('Each of Your Eyes Has a Hole in Its Vision': gap + brain-fills-it +
+  dot-test) + 'retina is part of the brain'. **movies/3D-Movies** owns '3D tricks each eye'. So illusions-
+  perceptions REROUTED: Blind Spots dropped the hole/fill-in/dot-test (used 9-Moons-size / saccadic-
+  masking / averted-vision); Impossible Shapes dropped 'can't unsee' (used trident-joints / Penrose-Escher
+  loop / buildable-Penrose); Depth Perception avoided 3D-each-eye (used Magic-Eye / stereoblindness /
+  Moon-illusion); Pareidolia + The Dress stayed concrete, not psychology's generic 'brain builds reality'.
+  NOTE: physics/Light does NOT own refraction/mirage; colors owns pigments NOT color-constancy/The-Dress.
+- **illusions-perceptions** now owns these perception anchors — grep before any perception/vision/optics
+  category: **Magic-Eye stereograms** + **stereoblindness/Stereo-Sue** + **Moon-illusion**; **Fata-Morgana
+  (Flying-Dutchman)** + desert-oasis-is-the-sky + **Novaya-Zemlya-see-the-sun-after-sunset**; **Face-on-
+  Mars-was-a-hill** + **$28,000-Virgin-Mary-grilled-cheese** + cars/outlets-look-like-faces; color-
+  reversed-flag-afterimage + afterimage=fatigued-cone-cells + **Troxler-fading**; **blind-spot-hides-9-
+  Moons** + **saccadic-masking (can't see your eyes move in a mirror)** + **averted-vision**; **Adelson
+  checker-shadow** + **strawberry-illusion (no red pixels)** + simultaneous-contrast; impossible-trident-
+  joints + **Penrose↔Escher loop** + **buildable-Penrose-triangle (Perth)**; **motion-aftereffect/
+  waterfall-illusion** + Rotating-Snakes-peripheral-only + **wagon-wheel-effect**; **LOTR-hobbits-forced-
+  perspective** + **Ames-Room** + **Disney-castles-shrink-upper-floors**; **The-Dress-was-blue-and-black**
+  + white-gold-vs-blue-black-tracks-lark-vs-owl + **Yanny-or-Laurel**.
 
 **Watch especially:** any new category about creatures/cryptids, ancient sites, writing, famous
 inventions, everyday objects/appliances, disasters, or jobs will collide with myths-legends, mysteries,
