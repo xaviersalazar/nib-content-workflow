@@ -1,6 +1,6 @@
 # TIL Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-01 · 1947 facts · 47 categories
+> Last updated: 2026-07-01 · 1977 facts · 48 categories
 > (Keep this line current — bump it every time a category is finished. See step 9 of the standing pattern.)
 
 ## What this is
@@ -19,24 +19,24 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   this handoff doc.
 
 ## Current state (2026-07-01)
-- **1947 facts · 47 categories · every topic exactly 3 facts.**
-- All 47 categories have been rewritten via this workflow. Categories: space, astronomy, history,
+- **1977 facts · 48 categories · every topic exactly 3 facts.**
+- All 48 categories have been rewritten via this workflow. Categories: space, astronomy, history,
   ancient-civilizations, animals, ocean-life, human-body, psychology, food, coffee, technology,
   artificial-intelligence, internet-culture, video-games, movies, music, sports, engineering, aviation,
   cars, physics, chemistry, mathematics, business, economics, literature, languages, architecture,
   myths-legends, mysteries, medicine, geography, weather, inventions, religion-beliefs, dinosaurs,
   ancient-creatures, pirates, castles-fortresses, famous-disasters, strange-jobs, everyday-objects,
-  household-science, famous-symbols, colors, sleep-dreams, illusions-perceptions.
+  household-science, famous-symbols, colors, sleep-dreams, illusions-perceptions, secret-codes.
 - **Recent additions:** medicine, geography, weather, inventions, religion-beliefs (2026-06-29) →
   dinosaurs, ancient-creatures, pirates, castles-fortresses, famous-disasters (2026-06-29) →
   strange-jobs, everyday-objects, household-science, famous-symbols, colors (2026-06-30) →
-  sleep-dreams, illusions-perceptions (2026-07-01).
+  sleep-dreams, illusions-perceptions, secret-codes (2026-07-01).
 - **Size exceptions** (left as-is, every topic still at 3): most categories are 15 topics x 3 = 45.
   Exceptions: `religion-beliefs` 16 topics (48); `myths-legends` 16 (48); `dinosaurs`,
   `ancient-creatures`, `pirates`, `castles-fortresses`, `strange-jobs`, `everyday-objects`,
-  `household-science`, `famous-symbols`, `colors`, `sleep-dreams`, `illusions-perceptions` each 10 topics
-  (30); `famous-disasters` 9 topics (27); `languages` 13 (39); `sports` 13 (39); `video-games` 14 (42);
-  `history` 63; `space` 51.
+  `household-science`, `famous-symbols`, `colors`, `sleep-dreams`, `illusions-perceptions`,
+  `secret-codes` each 10 topics (30); `famous-disasters` 9 topics (27); `languages` 13 (39); `sports`
+  13 (39); `video-games` 14 (42); `history` 63; `space` 51.
 
 ## The standing pattern (what the user expects each time)
 When the user says "new category of X added, run the same process," do exactly this:
@@ -209,6 +209,30 @@ new category must keep avoiding these:
   waterfall-illusion** + Rotating-Snakes-peripheral-only + **wagon-wheel-effect**; **LOTR-hobbits-forced-
   perspective** + **Ames-Room** + **Disney-castles-shrink-upper-floors**; **The-Dress-was-blue-and-black**
   + white-gold-vs-blue-black-tracks-lark-vs-owl + **Yanny-or-Laurel**.
+- **secret-codes vs technology + mathematics + languages + famous-symbols + ai + mysteries + history.**
+  **technology/Cryptography** owns the kryptos etymology + code-vs-cipher distinction + digital-signatures;
+  **mathematics/Prime-Numbers** owns **RSA / hard-to-factor primes**; **famous-symbols/Peace-Symbol** owns
+  **semaphore = N+D**; **ai/Turing-Test** owns the Turing Test + Chinese Room (NOT Turing's codebreaking);
+  **languages** owns **Morse-Code** (3 facts) + **Hieroglyphics** (Rosetta) + **Writing-Systems**
+  (undeciphered Linear-A/rongorongo); **mysteries/Voynich** owns the Voynich manuscript. So secret-codes
+  rerouted: Cryptography → Kerckhoffs / al-Kindi-frequency-analysis / public-key-exchange (NOT etymology/
+  code-vs-cipher/digital-sigs/RSA/hieroglyphs); Semaphore → Chappe / Blanc-hack / Nelson-Trafalgar (NOT
+  peace-sign N+D); Enigma → letter-never-itself-flaw / Rejewski / shortened-war-secret (NOT Turing-Test);
+  Book-Cipher → Beale/Benedict-Arnold (NOT Voynich). NOTE: history does NOT own Enigma/Bletchley/code-
+  talkers/Trafalgar (all free).
+- **secret-codes** now owns these code/cipher/espionage anchors — grep before any codes/cipher/spy
+  category: **Ovaltine-decoder-ring (A Christmas Story)** + Caesar-shift-3-weak + **ROT13-self-undoing**;
+  **Kerckhoffs-no-security-through-obscurity** + **al-Kindi-invented-frequency-analysis** + **public-key-
+  two-strangers-agree-in-the-open**; **Enigma-cant-encode-a-letter-as-itself** + **Rejewski-Poland-broke-
+  it-first** + Enigma-secret-shortened-WWII-2yrs-classified-til-1970s; **Chappe-optical-telegraph** +
+  **Blanc-brothers-semaphore-stock-hack (first data breach)** + **Nelson-Trafalgar 'England expects'**;
+  **Histiaeus-tattooed-scalp** + **WWII-microdots** + **printer-secret-yellow-tracking-dots**; Pigpen-
+  looks-secret-but-weak + **Freemason-gravestones-carved-in-pigpen** + Union-POWs-used-pigpen; **one-time-
+  pad-Shannon-proved-unbreakable-1949** + **numbers-stations-shortwave-spy-broadcasts** + **Soviets-reused-
+  pads-Venona-cracked-them**; **Beale-ciphers-Declaration-of-Independence-treasure** + **Benedict-Arnold-
+  book-cipher** + book-cipher-key-is-an-innocent-book; **Spartan-scytale-key=stick-thickness** + scytale=
+  transposition + historians-doubt-scytale-was-a-real-cipher; **Navajo-code-never-broken** + **code-
+  talkers-punished-for-Navajo-in-boarding-schools** + 'iron-fish'=submarine-code-talker-beats-a-machine.
 
 **Watch especially:** any new category about creatures/cryptids, ancient sites, writing, famous
 inventions, everyday objects/appliances, disasters, or jobs will collide with myths-legends, mysteries,

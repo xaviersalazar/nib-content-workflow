@@ -34656,5 +34656,515 @@
     "funScore": 9,
     "featured": false,
     "relatedFactIds": []
+  },
+  {
+    "id": "caesar-cipher-letter-shift",
+    "headline": "A Cereal Ad Hid a Caesar Cipher in Every Box",
+    "body": "For much of the 20th century, kids mailed in cereal box tops for 'secret decoder' rings and badges, and the secret inside was a Caesar cipher. Radio shows like Captain Midnight fed young listeners scrambled clues they could crack only with the ring. The gag is immortalized in the movie A Christmas Story, where Ralphie eagerly decodes his special message and finds a letdown: a plain ad reading 'Be sure to drink your Ovaltine.'",
+    "summary": "Cereal-box 'secret decoder' rings were Caesar ciphers, famously spoofed in A Christmas Story.",
+    "categoryId": "secret-codes",
+    "topic": "Caesar Cipher",
+    "tags": [
+      "caesar cipher",
+      "decoder ring",
+      "pop culture"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "caesar-cipher-julius-caesar",
+    "headline": "Rome's Greatest General Used a Laughably Weak Code",
+    "body": "According to the historian Suetonius, Julius Caesar protected his private letters by shifting every letter three places down the alphabet, so A became D. It worked in an era when most enemies could barely read, but by modern standards it is almost no security at all. A codebreaker cracks a Caesar cipher in seconds. Caesar's own great-nephew Augustus used an even flimsier version, shifting each letter by just one.",
+    "summary": "Julius Caesar's cipher shifted letters by three, a code modern codebreakers crack in seconds.",
+    "categoryId": "secret-codes",
+    "topic": "Caesar Cipher",
+    "tags": [
+      "caesar cipher",
+      "julius caesar",
+      "history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "caesar-cipher-rot13",
+    "headline": "One Cipher Conveniently Unlocks Itself",
+    "body": "ROT13 is a Caesar cipher with a shift of exactly 13, and that number is a neat trick. Since the alphabet has 26 letters, shifting 13 forward and then 13 more brings you right back to the start. So the same simple operation both scrambles and unscrambles: CODE becomes PBQR, and running PBQR through ROT13 again returns CODE. Nobody uses it for real secrecy. Online, it is a handy way to hide spoilers or punchlines until someone chooses to reveal them.",
+    "summary": "ROT13 shifts letters by 13, so applying it twice restores the original text.",
+    "categoryId": "secret-codes",
+    "topic": "Caesar Cipher",
+    "tags": [
+      "caesar cipher",
+      "rot13",
+      "internet"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cryptography-secret-communication",
+    "headline": "A Good Code Should Work Even If the Enemy Has It",
+    "body": "A 19th-century Dutch cryptographer named Auguste Kerckhoffs laid down a rule that still guides security today: a system must stay safe even if the enemy knows everything about how it works, except the secret key. In other words, do not rely on hiding your method, because methods leak. Real strength lives in the key alone. Modern experts put it bluntly: there is no lasting security through obscurity, only through a well-guarded key.",
+    "summary": "Kerckhoffs's principle says a cipher must stay secure even if the enemy knows the whole method.",
+    "categoryId": "secret-codes",
+    "topic": "Cryptography",
+    "tags": [
+      "cryptography",
+      "kerckhoffs principle",
+      "security"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cryptography-includes-codebreaking",
+    "headline": "Codebreaking Was Invented in a Baghdad Library",
+    "body": "For centuries, swapping each letter for another seemed like an unbreakable way to hide a message. Then, around the 9th century, an Arab scholar in Baghdad named al-Kindi shattered that confidence. He realized that in any language some letters appear far more often than others, so you can crack a coded message by counting which symbols show up most and matching them to common letters. That method, frequency analysis, was the birth of codebreaking.",
+    "summary": "The scholar al-Kindi invented codebreaking around the 9th century using letter frequency analysis.",
+    "categoryId": "secret-codes",
+    "topic": "Cryptography",
+    "tags": [
+      "cryptography",
+      "al-kindi",
+      "codebreaking"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "cryptography-modern-networks",
+    "headline": "Two Strangers Can Agree on a Secret in Public",
+    "body": "For thousands of years, secret writing had one crippling flaw: to swap coded messages, both sides first had to secretly share a key, which was risky to deliver. In the 1970s, mathematicians solved it. Using public-key methods, two people who have never met can shout numbers back and forth in the open and still end up with a shared secret that eavesdroppers cannot reconstruct. It is why your browser can safely whisper with a website it has never met.",
+    "summary": "Public-key cryptography lets two strangers create a shared secret over an open channel.",
+    "categoryId": "secret-codes",
+    "topic": "Cryptography",
+    "tags": [
+      "cryptography",
+      "public key",
+      "encryption"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "enigma-rotors-plugboard",
+    "headline": "Enigma's Fatal Flaw Was What It Could Not Do",
+    "body": "The German Enigma machine looked unbeatable: its rotating wheels and plugboard could scramble a message into any of roughly 158 million million million settings. But it carried one fatal quirk. Because of how it was wired, Enigma could never encode a letter as itself. An A could become anything except A. Codebreakers pounced on that weakness, using it to rule out huge numbers of wrong settings and claw their way toward the real one.",
+    "summary": "Enigma could never encrypt a letter as itself, a flaw codebreakers exploited to crack it.",
+    "categoryId": "secret-codes",
+    "topic": "Enigma Machine",
+    "tags": [
+      "enigma machine",
+      "cryptanalysis",
+      "world war ii"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "enigma-polish-breakthrough",
+    "headline": "Poland Cracked Enigma Years Before Bletchley",
+    "body": "The story of breaking Enigma is often told as a British triumph, but the first cracks came from Poland. In the early 1930s, a young Polish mathematician named Marian Rejewski used pure math to deduce the secret wiring hidden inside Enigma's rotors, something no one thought possible. Polish codebreakers were reading German messages for years before the war. In 1939 they handed their breakthrough to Britain, giving Bletchley Park an enormous head start.",
+    "summary": "Polish mathematician Marian Rejewski broke Enigma in the 1930s, years before Bletchley Park.",
+    "categoryId": "secret-codes",
+    "topic": "Enigma Machine",
+    "tags": [
+      "enigma machine",
+      "marian rejewski",
+      "codebreaking"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "enigma-turing-bletchley",
+    "headline": "The Enigma Secret Was Kept for Almost 30 Years",
+    "body": "Historians estimate that breaking Enigma and other German codes shortened World War II by as much as two years and saved countless lives. Yet the achievement stayed classified for decades. The thousands who worked at Bletchley Park, including Alan Turing, were sworn to silence, and the secret held until the 1970s. Many codebreakers went to their graves, or lived most of their lives, with the world never knowing what they had done.",
+    "summary": "Breaking Enigma may have shortened WWII by two years but stayed secret until the 1970s.",
+    "categoryId": "secret-codes",
+    "topic": "Enigma Machine",
+    "tags": [
+      "enigma machine",
+      "bletchley park",
+      "secrecy"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "semaphore-visual-signaling",
+    "headline": "France Had a Working Internet in the 1790s",
+    "body": "Long before electric wires, France built a nationwide messaging network out of nothing but eyesight. Starting in 1794, Claude Chappe erected a chain of towers topped with jointed mechanical arms, each spaced a few miles apart. An operator set the arms into coded positions, the next tower copied them through a telescope, and so on down the line. A message could cross the whole country in minutes. Chappe even coined a name for it: the telegraph.",
+    "summary": "Claude Chappe's 1790s tower network relayed messages across France in minutes by sightline.",
+    "categoryId": "secret-codes",
+    "topic": "Semaphore",
+    "tags": [
+      "semaphore",
+      "optical telegraph",
+      "claude chappe"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "semaphore-tower-network",
+    "headline": "The First Data Hack Used a Telegraph Network",
+    "body": "France's semaphore network was meant only for official government messages, but in the 1830s two bankers, the Blanc brothers, quietly hijacked it. They bribed operators along the line to insert tiny deliberate 'errors' into official signals, secretly encoding the latest movements of the Paris stock market. For two years the brothers got market news days ahead of everyone else. It is often called the first data breach in history, committed on an internet made of towers.",
+    "summary": "In the 1830s the Blanc brothers bribed semaphore operators to smuggle stock data, an early data hack.",
+    "categoryId": "secret-codes",
+    "topic": "Semaphore",
+    "tags": [
+      "semaphore",
+      "blanc brothers",
+      "history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "semaphore-flag-letters",
+    "headline": "Nelson Rallied His Fleet With a Line of Flags",
+    "body": "Before the Battle of Trafalgar in 1805, Admiral Horatio Nelson wanted to fire up his sailors, so he turned his ships into a giant sentence. Using naval flag signaling, where combinations of hoisted flags stand for words and letters, he sent the message down the fleet: 'England expects that every man will do his duty.' It took a string of flags to spell out, and it became one of the most famous signals ever flown at sea.",
+    "summary": "At Trafalgar, Nelson used flag signals to send his fleet the message 'England expects that every man will do his duty.'",
+    "categoryId": "secret-codes",
+    "topic": "Semaphore",
+    "tags": [
+      "semaphore",
+      "nelson",
+      "naval history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "steganography-hidden-message",
+    "headline": "An Ancient Secret Was Tattooed on a Slave's Head",
+    "body": "The ancient Greek historian Herodotus records one of the oldest hidden messages ever. A ruler named Histiaeus wanted to send secret orders, so he shaved the head of a trusted slave, tattooed the message onto his scalp, and waited for the hair to grow back and cover it. The messenger then walked openly to the destination, carrying nothing suspicious. There, his head was shaved again to reveal the words. The secret was the messenger himself.",
+    "summary": "Histiaeus tattooed a secret message on a slave's shaved scalp, hidden once the hair grew back.",
+    "categoryId": "secret-codes",
+    "topic": "Steganography",
+    "tags": [
+      "steganography",
+      "histiaeus",
+      "ancient greece"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "steganography-lemon-juice",
+    "headline": "Spies Shrank Whole Documents to a Tiny Dot",
+    "body": "During the World Wars, spies mastered the microdot, a way to photograph an entire page and shrink it down to a speck the size of the period at the end of this sentence. That tiny dot could be glued over the dot of an i, tucked under a postage stamp, or hidden in a ring, then blown back up to full size with a microscope. FBI director J. Edgar Hoover called the microdot 'the enemy's masterpiece of espionage.'",
+    "summary": "Microdots shrank entire documents to a speck that could hide under a stamp or a printed period.",
+    "categoryId": "secret-codes",
+    "topic": "Steganography",
+    "tags": [
+      "steganography",
+      "microdot",
+      "espionage"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "steganography-digital-files",
+    "headline": "Your Printer Hides Secret Dots on Every Page",
+    "body": "Most color laser printers carry out a form of steganography without telling you. On every page they print, they add a faint grid of tiny yellow dots, nearly invisible to the naked eye, that encodes the printer's serial number and the date and time. The pattern was designed to fight counterfeiting, but it works on anything you print. Investigators have used those secret dots to trace leaked documents back to the exact machine that printed them.",
+    "summary": "Color printers secretly add near-invisible yellow dots encoding the serial number, date, and time.",
+    "categoryId": "secret-codes",
+    "topic": "Steganography",
+    "tags": [
+      "steganography",
+      "printer",
+      "privacy"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pigpen-symbol-substitution",
+    "headline": "The Pigpen Cipher Looks Secret but Barely Is",
+    "body": "The Pigpen cipher turns letters into odd little shapes drawn from a grid, so a message becomes rows of angles and dots that look genuinely mysterious. But the appearance is the only defense it has. It is a straight substitution cipher, meaning each letter always maps to the same symbol, so a codebreaker can crack it in minutes using simple frequency analysis. It looks like a secret society's code, yet a curious child can solve it.",
+    "summary": "Pigpen turns letters into grid symbols that look cryptic but are easily broken by frequency analysis.",
+    "categoryId": "secret-codes",
+    "topic": "Pigpen Cipher",
+    "tags": [
+      "pigpen cipher",
+      "substitution cipher",
+      "cryptanalysis"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pigpen-freemason-cipher",
+    "headline": "Freemasons Carved This Cipher on Their Graves",
+    "body": "The Pigpen cipher's origins are murky, but the Freemasons embraced it so thoroughly in the 1700s that it is often called the Freemason's Cipher. They used it to keep records and mark documents. Most strikingly, some Masonic gravestones are inscribed with the cipher's little angular symbols, so a stroll through certain old cemeteries reveals headstones written in secret code, quietly waiting for a passerby who knows the grid to read them.",
+    "summary": "Freemasons used Pigpen so heavily it bears their name, and some Masonic gravestones are carved in it.",
+    "categoryId": "secret-codes",
+    "topic": "Pigpen Cipher",
+    "tags": [
+      "pigpen cipher",
+      "freemasons",
+      "history"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "pigpen-civil-war-prisoners",
+    "headline": "Civil War Prisoners Passed Notes in Pigpen",
+    "body": "Pigpen was not only a plaything of secret societies. During the American Civil War, Union prisoners held in Confederate camps used the cipher to pass messages their captors could not immediately read. That is exactly why simple ciphers endured: they needed no machine, no printed codebook, and no special equipment. A prisoner armed with only a pencil and a grid memorized in his head could turn plain words into a private language on the spot.",
+    "summary": "Union prisoners used the Pigpen cipher in Confederate camps, needing only a pencil and a memorized grid.",
+    "categoryId": "secret-codes",
+    "topic": "Pigpen Cipher",
+    "tags": [
+      "pigpen cipher",
+      "civil war",
+      "prisoners"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "one-time-pad-unbreakable-rules",
+    "headline": "One Cipher Is Mathematically Proven Unbreakable",
+    "body": "Almost every code can eventually be cracked with enough time and computing power, but the one-time pad is the lone exception. In 1949 the mathematician Claude Shannon proved it offers 'perfect secrecy': done correctly, the scrambled message reveals literally nothing about the original. The catch is strict discipline. The random key must be as long as the message, truly random, shared secretly, used exactly once, and then destroyed. Break any of those rules and the magic collapses.",
+    "summary": "The one-time pad is the only cipher proven mathematically unbreakable, if its strict rules are followed.",
+    "categoryId": "secret-codes",
+    "topic": "One-Time Pad",
+    "tags": [
+      "one-time pad",
+      "claude shannon",
+      "perfect secrecy"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "one-time-pad-spy-booklets",
+    "headline": "Eerie Radio Voices Still Read Numbers to Spies",
+    "body": "Turn a shortwave radio to the right frequency and you might stumble onto a 'numbers station': a flat, robotic voice reading endless strings of digits, sometimes after a snatch of strange music. These broadcasts have hummed across the airwaves since the Cold War, and many are still active today. The leading explanation is that they send one-time-pad messages to spies in the field, who copy the numbers and decode them with a matching secret pad.",
+    "summary": "Shortwave 'numbers stations' broadcast digit strings believed to be one-time-pad messages for spies.",
+    "categoryId": "secret-codes",
+    "topic": "One-Time Pad",
+    "tags": [
+      "one-time pad",
+      "numbers stations",
+      "espionage"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "one-time-pad-hard-distribution",
+    "headline": "The Soviets Got Lazy and America Read Their Mail",
+    "body": "A one-time pad is unbreakable only if every key is used exactly once. During and after World War II, overwhelmed Soviet code clerks broke that rule and reused some pads. It was a small slip with enormous consequences. A secret American effort called the Venona project spotted the repeats and slowly pried open thousands of Soviet messages, helping to expose atomic spies. The world's perfect cipher was undone not by math, but by human shortcuts.",
+    "summary": "The Soviets reused one-time pads, and the secret Venona project exploited the slip to unmask spies.",
+    "categoryId": "secret-codes",
+    "topic": "One-Time Pad",
+    "tags": [
+      "one-time pad",
+      "venona",
+      "cold war"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "book-cipher-book-as-key",
+    "headline": "A Coded Message Promises Buried Treasure No One Can Find",
+    "body": "In the 1800s a man named Thomas Beale supposedly left behind three coded sheets pointing to a fortune in buried gold and silver in Virginia. Only the second sheet has ever been solved, by matching its numbers to words in the Declaration of Independence, and it describes a staggering treasure. The other two, which reveal the exact location and the owners, have resisted every codebreaker for over a century. Treasure hunters are still digging today.",
+    "summary": "The Beale ciphers use a book as their key; one was solved via the Declaration, but two remain unbroken.",
+    "categoryId": "secret-codes",
+    "topic": "Book Cipher",
+    "tags": [
+      "book cipher",
+      "beale ciphers",
+      "treasure"
+    ],
+    "readTimeSeconds": 51,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "book-cipher-coordinates",
+    "headline": "Benedict Arnold Betrayed America With a Book Code",
+    "body": "When Benedict Arnold plotted to hand West Point to the British, he protected his treasonous letters with a book cipher. He and his contact agreed on a specific published book, then wrote messages as strings of numbers, each pointing to a page, line, and word inside it. To anyone who intercepted the letters, they were meaningless digits. Without knowing exactly which book unlocked them, the coordinates led nowhere. The book was the whole secret.",
+    "summary": "Benedict Arnold hid his treason in a book cipher, encoding words as page, line, and position numbers.",
+    "categoryId": "secret-codes",
+    "topic": "Book Cipher",
+    "tags": [
+      "book cipher",
+      "benedict arnold",
+      "history"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "book-cipher-key-weakness",
+    "headline": "A Book Cipher's Power Is an Ordinary Book",
+    "body": "The clever thing about a book cipher is that its key is completely innocent. A spy does not have to carry an incriminating codebook that would give the game away if searched. The key can be a common novel, a bible, or an almanac sitting harmlessly on a shelf. But that strength is also the weakness. The instant an investigator guesses the right book, every hidden message can be reversed, and the wall of secrecy simply falls.",
+    "summary": "A book cipher hides in an ordinary book, but identifying that book unravels every message.",
+    "categoryId": "secret-codes",
+    "topic": "Book Cipher",
+    "tags": [
+      "book cipher",
+      "cryptanalysis",
+      "security"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "scytale-ancient-greek-cipher",
+    "headline": "A Wooden Stick Was One of the First Codes",
+    "body": "Roughly 2,500 years ago, Spartan commanders used one of the earliest known military ciphers, and the key was a stick. A general wrapped a thin strip of leather in a spiral around a wooden rod called a scytale, then wrote his message across the wound strip. Unwound, the leather showed only a jumble of meaningless letters. To read it, the recipient had to wrap it around a rod of exactly the same thickness. The secret was the stick's size.",
+    "summary": "The Spartan scytale hid messages on a strip wrapped around a rod; the key was the rod's thickness.",
+    "categoryId": "secret-codes",
+    "topic": "Scytale",
+    "tags": [
+      "scytale",
+      "sparta",
+      "ancient greece"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "scytale-matching-baton",
+    "headline": "This Ancient Code Just Jumbles the Letters",
+    "body": "The scytale works differently from most codes people imagine. It does not swap letters for other letters or symbols. Every original letter is still right there on the strip. It only rearranges their order, a technique called a transposition cipher. Because the true letters are hiding in plain sight, just shuffled, the trick feels almost too simple. Yet rearranging position rather than substituting symbols is a genuine idea that still lives on inside modern encryption.",
+    "summary": "The scytale is a transposition cipher: it keeps the real letters but scrambles their order.",
+    "categoryId": "secret-codes",
+    "topic": "Scytale",
+    "tags": [
+      "scytale",
+      "transposition cipher",
+      "cryptography"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "scytale-transposition",
+    "headline": "Historians Doubt the Famous Stick Cipher Worked",
+    "body": "The scytale is a staple of code history, but some modern scholars are skeptical it was ever really used to keep secrets. They point out that wrapping and writing on a strip is clumsy, and the resulting jumble might be cracked or garbled fairly easily. An alternative theory is that the scytale was less a cipher and more a way to authenticate a messenger, proving a strip really came from the commander who owned the matching rod.",
+    "summary": "Some historians argue the scytale was too clumsy to be a real cipher and may have just verified messengers.",
+    "categoryId": "secret-codes",
+    "topic": "Scytale",
+    "tags": [
+      "scytale",
+      "history",
+      "cryptography"
+    ],
+    "readTimeSeconds": 52,
+    "funScore": 9,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "navajo-code-talkers-indigenous-languages",
+    "headline": "The Navajo Code Was Never Broken",
+    "body": "In the Pacific during World War II, US Marines transmitted vital battlefield orders using the Navajo language, and enemy codebreakers never cracked it. Navajo was spoken by very few outsiders, had no written form, and used sounds and grammar unlike anything Japanese cryptographers had trained on. It stands as one of the only spoken military codes in modern history that was never broken, protecting American operations through some of the fiercest fighting of the war.",
+    "summary": "The Navajo code used in WWII was never broken, a rarity among modern military codes.",
+    "categoryId": "secret-codes",
+    "topic": "Navajo Code Talkers",
+    "tags": [
+      "navajo code talkers",
+      "world war ii",
+      "codes"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "navajo-code-talkers-largest-program",
+    "headline": "The Army Once Punished the Language That Won Battles",
+    "body": "There is a bitter irony at the heart of the code talkers' story. For decades, the US government ran boarding schools that tried to erase Native languages, punishing Navajo children for speaking their own tongue. Then, when war came, the military discovered that the very language it had tried to stamp out made an unbreakable code. The same young men once forbidden to speak Navajo were now sending secret orders in it to help win the war.",
+    "summary": "Many Navajo code talkers had been punished as children for speaking the language that later won battles.",
+    "categoryId": "secret-codes",
+    "topic": "Navajo Code Talkers",
+    "tags": [
+      "navajo code talkers",
+      "history",
+      "irony"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
+  },
+  {
+    "id": "navajo-code-talkers-coded-vocabulary",
+    "headline": "Code Talkers Invented Words for Tanks and Subs",
+    "body": "Navajo had no words for modern military gear, so the code talkers invented a vivid vocabulary. A submarine became an 'iron fish,' a tank a 'tortoise,' and warplanes took bird names: an owl for an observation plane, a hummingbird for a fighter. On top of that, the men were astonishingly fast. A code talker could receive, translate, and send a message in around 20 seconds, a task that took the coding machines of the day roughly half an hour.",
+    "summary": "Code talkers coined terms like 'iron fish' for submarine and could beat a coding machine's speed.",
+    "categoryId": "secret-codes",
+    "topic": "Navajo Code Talkers",
+    "tags": [
+      "navajo code talkers",
+      "vocabulary",
+      "world war ii"
+    ],
+    "readTimeSeconds": 53,
+    "funScore": 10,
+    "featured": false,
+    "relatedFactIds": []
   }
 ]
