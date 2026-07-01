@@ -1,6 +1,6 @@
 # TIL Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-01 · 1977 facts · 48 categories
+> Last updated: 2026-07-01 · 2007 facts · 49 categories
 > (Keep this line current — bump it every time a category is finished. See step 9 of the standing pattern.)
 
 ## What this is
@@ -19,24 +19,25 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   this handoff doc.
 
 ## Current state (2026-07-01)
-- **1977 facts · 48 categories · every topic exactly 3 facts.**
-- All 48 categories have been rewritten via this workflow. Categories: space, astronomy, history,
+- **2007 facts · 49 categories · every topic exactly 3 facts.**
+- All 49 categories have been rewritten via this workflow. Categories: space, astronomy, history,
   ancient-civilizations, animals, ocean-life, human-body, psychology, food, coffee, technology,
   artificial-intelligence, internet-culture, video-games, movies, music, sports, engineering, aviation,
   cars, physics, chemistry, mathematics, business, economics, literature, languages, architecture,
   myths-legends, mysteries, medicine, geography, weather, inventions, religion-beliefs, dinosaurs,
   ancient-creatures, pirates, castles-fortresses, famous-disasters, strange-jobs, everyday-objects,
-  household-science, famous-symbols, colors, sleep-dreams, illusions-perceptions, secret-codes.
+  household-science, famous-symbols, colors, sleep-dreams, illusions-perceptions, secret-codes,
+  superstitions.
 - **Recent additions:** medicine, geography, weather, inventions, religion-beliefs (2026-06-29) →
   dinosaurs, ancient-creatures, pirates, castles-fortresses, famous-disasters (2026-06-29) →
   strange-jobs, everyday-objects, household-science, famous-symbols, colors (2026-06-30) →
-  sleep-dreams, illusions-perceptions, secret-codes (2026-07-01).
+  sleep-dreams, illusions-perceptions, secret-codes, superstitions (2026-07-01).
 - **Size exceptions** (left as-is, every topic still at 3): most categories are 15 topics x 3 = 45.
   Exceptions: `religion-beliefs` 16 topics (48); `myths-legends` 16 (48); `dinosaurs`,
   `ancient-creatures`, `pirates`, `castles-fortresses`, `strange-jobs`, `everyday-objects`,
   `household-science`, `famous-symbols`, `colors`, `sleep-dreams`, `illusions-perceptions`,
-  `secret-codes` each 10 topics (30); `famous-disasters` 9 topics (27); `languages` 13 (39); `sports`
-  13 (39); `video-games` 14 (42); `history` 63; `space` 51.
+  `secret-codes`, `superstitions` each 10 topics (30); `famous-disasters` 9 topics (27); `languages`
+  13 (39); `sports` 13 (39); `video-games` 14 (42); `history` 63; `space` 51.
 
 ## The standing pattern (what the user expects each time)
 When the user says "new category of X added, run the same process," do exactly this:
@@ -233,6 +234,28 @@ new category must keep avoiding these:
   book-cipher** + book-cipher-key-is-an-innocent-book; **Spartan-scytale-key=stick-thickness** + scytale=
   transposition + historians-doubt-scytale-was-a-real-cipher; **Navajo-code-never-broken** + **code-
   talkers-punished-for-Navajo-in-boarding-schools** + 'iron-fish'=submarine-code-talker-beats-a-machine.
+- **superstitions vs myths-legends + history(Salem) + ancient-civ(Egypt) + religion-beliefs + everyday-
+  objects.** Owners were narrow: **myths-legends/Norse** owns Loki → Friday-13th/Lucky-Numbers used Last-
+  Supper + Thirteen-Club (NOT Loki-13th-guest); **history/Salem-Witch-Trials** owns the trials → Black-Cats
+  used the 1233 papal letter **Vox in Rama** + medieval Europe (NOT Salem); **ancient-civ/Ancient-Egypt**
+  owns sacred cats → Black-Cats avoided Egyptian cat-worship; **religion-beliefs/Pilgrimage** owns True-
+  Cross relics → Knocking-on-Wood used tic + touch-iron + Tiggy-Touchwood (NOT True-Cross); **everyday-
+  objects/Mirrors** owns mirror-test + Venice-craft → Broken-Mirrors stayed on the superstition. FREE
+  wins: **animals owns NO Cats/Rabbits/Horses**; religion-beliefs has NO evil-eye/amulet topic (nazar
+  free); no Knights-Templar fact exists; psychology doesn't own pick-a-number/illusion-of-control.
+- **superstitions** now owns these luck/omen anchors — grep before any folklore/luck/ritual category:
+  **four-leaf-clover=1-in-5000-mutation-collector-found-100k** + each-leaf=faith/hope/love/luck +
+  **shamrock(3-leaf)=Trinity-NOT-the-lucky-one**; **evil-eye=envy/praise-is-the-danger (mashallah/spit)**
+  + **nazar-blue-bead-everywhere-even-on-planes** + blue-eyes-feared-because-rare; **Friday-13th-costs-the-
+  economy** + **the-Thirteen-Club-dined-13-to-defy-it** + Tuesday-13(Spain/Greece)/Friday-17(Italy);
+  **China-8=wealth-Beijing-8/8/08** + **7=world's-favorite-number(pick-1-to-10)** + **4=death-tetraphobia-
+  skipped-4th-floors**; **black-cat=GOOD-luck-in-UK/Japan** + **Vox-in-Rama-1233** + **black-cat-adoption-
+  bias**; knock-on-wood-even-if-you-dont-believe + **Italians-touch-iron/Turks-tug-earlobe** + **Tiggy-
+  Touchwood-kids-game-origin**; **Pliny-hare's-foot-for-gout** + rabbits-magical-born-eyes-open-live-
+  underground + **left-hind-foot-from-a-graveyard-rabbit**; walking-under-ladders-is-just-safe + ladder=
+  Holy-Trinity-triangle + **ladders-led-to-the-gallows**; **horseshoe-up-vs-down-argument** + **St-Dunstan-
+  nailed-a-shoe-on-the-Devil** + iron+blacksmith+7-nails; **reflection-was-your-soul** + **cover-mirrors-
+  after-a-death(Victorian/shiva)** + 7-years=Roman-body-renews-every-7-years-myth.
 
 **Watch especially:** any new category about creatures/cryptids, ancient sites, writing, famous
 inventions, everyday objects/appliances, disasters, or jobs will collide with myths-legends, mysteries,
