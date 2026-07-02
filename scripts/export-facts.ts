@@ -12,6 +12,7 @@ type ApprovedFactRow = {
   readTimeSeconds: string;
   featured: string;
   relatedFactIds: string;
+  themes?: string;
 };
 
 function splitCsvList(value: string) {
@@ -40,6 +41,7 @@ async function main() {
     readTimeSeconds: Number(row.readTimeSeconds),
     featured: row.featured === "true",
     relatedFactIds: splitCsvList(row.relatedFactIds),
+    themes: splitCsvList(row.themes ?? ""),
   }));
 
   await fs.mkdir("exports", { recursive: true });

@@ -10,6 +10,9 @@
      "scrape:next-two": "tsx scripts/scrape-next-two.ts",
      "scrape:batch": "tsx scripts/scrape-batch.ts",
      "scrape:category": "tsx scripts/scrape-category.ts",
+     "normalize:tags": "tsx scripts/normalize-tags.ts",
+     "assign:themes": "tsx scripts/assign-themes.ts",
+     "generate:related": "tsx scripts/generate-related-fact-ids.ts",
      "export:facts": "tsx scripts/export-facts.ts"
   },
   "keywords": [],
