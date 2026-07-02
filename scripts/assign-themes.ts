@@ -197,6 +197,31 @@ const THEMES: ThemeDef[] = [
   { id: "architecture-and-structures", min: 1, patterns: [
     "\\bbuilding", "\\bbridges?\\b", "\\btowers?\\b", "skyscraper", "\\bstructure",
     "\\bconstruct", "\\bdome\\b", "cathedral", "\\bmonument", "\\bfoundation" ] },
+  { id: "food-and-cuisine", min: 1, patterns: [
+    "\\bfood\\b", "\\beat(s|en|ing)?\\b", "\\bdish\\b", "cuisine", "recipe",
+    "\\bbread\\b", "\\bcheese\\b", "\\bpizza", "\\bmeal\\b", "cooking", "\\bbaked?\\b",
+    "ingredient", "\\bflavou?r", "\\bspice", "\\bsugar\\b", "\\bsalt\\b", "\\bmilk\\b",
+    "\\bhoney\\b", "\\bfruit\\b" ] },
+  { id: "coffee-and-tea", min: 1, patterns: [
+    "\\bcoffee", "espresso", "\\bcaffeine", "\\bbrew", "\\blatte", "cappuccino",
+    "\\btea\\b", "\\broast", "\\bbeans?\\b", "cold brew", "\\bmocha", "arabica",
+    "robusta" ] },
+  { id: "numbers-and-mathematics", min: 1, patterns: [
+    "\\bnumbers?\\b", "\\bpi\\b", "\\bzero\\b", "\\bdigits?\\b", "equation",
+    "mathematic", "geometr", "calculat", "probabilit", "\\binfinit", "\\bprime\\b",
+    "\\bequals?\\b", "\\bfraction", "\\bpercent", "algebra", "\\bratio\\b" ] },
+  { id: "computing-and-web", min: 1, patterns: [
+    "computer", "software", "\\binternet", "\\bweb\\b", "website", "\\busb\\b",
+    "wi.?fi", "\\bemail", "e.mail", "search engine", "\\bdigital", "\\bdata\\b",
+    "\\bpixel", "hard drive", "\\bserver", "\\bbrowser", "floppy" ] },
+  { id: "machines-and-mechanisms", min: 1, patterns: [
+    "\\bgears?\\b", "\\bpulley", "\\blever", "\\bbrakes?\\b", "mechanism", "\\bvalve",
+    "\\bpiston", "transmission", "\\bmotor", "\\bcrane\\b", "\\belevator", "\\bpump\\b",
+    "\\bwheel", "\\baxle" ] },
+  { id: "motion-and-force", min: 1, patterns: [
+    "\\binertia", "\\bmomentum", "\\bfriction", "\\bvelocity", "acceleration",
+    "\\bforces?\\b", "\\bnewton", "\\bthrust", "\\bdrag\\b", "\\btorque", "\\bfeedback",
+    "\\bspeed", "\\bbrak(e|ing)" ] },
 ];
 
 // --- CSV (RFC4180) ---
