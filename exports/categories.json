@@ -1,0 +1,332 @@
+[
+  {
+    "id": "ancient-civilizations",
+    "name": "Ancient Civilizations",
+    "icon": "building.columns",
+    "description": "Empires, ruins, and the people who built them."
+  },
+  {
+    "id": "ancient-creatures",
+    "name": "Ancient Creatures",
+    "icon": "fossil.shell",
+    "description": "Life forms that ruled long before us."
+  },
+  {
+    "id": "animals",
+    "name": "Animals",
+    "icon": "pawprint",
+    "description": "The wild, weird, and wonderful animal kingdom."
+  },
+  {
+    "id": "architecture",
+    "name": "Architecture",
+    "icon": "building.2",
+    "description": "The structures that shape how we live."
+  },
+  {
+    "id": "artificial-intelligence",
+    "name": "Artificial Intelligence",
+    "icon": "cpu.fill",
+    "description": "Machines that think, learn, and surprise us."
+  },
+  {
+    "id": "astronomy",
+    "name": "Astronomy",
+    "icon": "moon.stars",
+    "description": "Stars, galaxies, and the cosmic unknown."
+  },
+  {
+    "id": "aviation",
+    "name": "Aviation",
+    "icon": "airplane",
+    "description": "The science and stories of flight."
+  },
+  {
+    "id": "business",
+    "name": "Business",
+    "icon": "chart.line.uptrend.xyaxis",
+    "description": "How commerce, companies, and deals work."
+  },
+  {
+    "id": "cars",
+    "name": "Cars",
+    "icon": "car",
+    "description": "Speed, engineering, and the open road."
+  },
+  {
+    "id": "castles-fortresses",
+    "name": "Castles & Fortresses",
+    "icon": "shield",
+    "description": "Stone walls with stories to tell."
+  },
+  {
+    "id": "chemistry",
+    "name": "Chemistry",
+    "icon": "flask",
+    "description": "What everything is made of — and why."
+  },
+  {
+    "id": "coffee",
+    "name": "Coffee",
+    "icon": "cup.and.saucer",
+    "description": "The world's most beloved brew, explored."
+  },
+  {
+    "id": "colors",
+    "name": "Colors",
+    "icon": "paintpalette",
+    "description": "How we see, name, and feel color."
+  },
+  {
+    "id": "dinosaurs",
+    "name": "Dinosaurs",
+    "icon": "lizard",
+    "description": "Giants that walked the Earth before us."
+  },
+  {
+    "id": "economics",
+    "name": "Economics",
+    "icon": "dollarsign.circle",
+    "description": "How money, markets, and incentives move the world."
+  },
+  {
+    "id": "engineering",
+    "name": "Engineering",
+    "icon": "gear",
+    "description": "Problem-solving built into every structure."
+  },
+  {
+    "id": "everyday-objects",
+    "name": "Everyday Objects",
+    "icon": "paperclip",
+    "description": "Ordinary things with extraordinary backstories."
+  },
+  {
+    "id": "explorers",
+    "name": "Explorers",
+    "icon": "map",
+    "description": "Those who dared to venture into the unknown."
+  },
+  {
+    "id": "famous-disasters",
+    "name": "Famous Disasters",
+    "icon": "exclamationmark.triangle",
+    "description": "Catastrophes that changed the course of history."
+  },
+  {
+    "id": "famous-symbols",
+    "name": "Famous Symbols",
+    "icon": "star.circle",
+    "description": "Icons, logos, and marks that mean the world."
+  },
+  {
+    "id": "famous-trees-plants",
+    "name": "Famous Trees & Plants",
+    "icon": "tree",
+    "description": "The most remarkable plants on the planet."
+  },
+  {
+    "id": "food",
+    "name": "Food",
+    "icon": "fork.knife",
+    "description": "Flavors, origins, and the science of eating."
+  },
+  {
+    "id": "geography",
+    "name": "Geography",
+    "icon": "globe.americas",
+    "description": "The places and features that define our world."
+  },
+  {
+    "id": "history",
+    "name": "History",
+    "icon": "scroll",
+    "description": "The story of humanity, warts and all."
+  },
+  {
+    "id": "household-science",
+    "name": "Household Science",
+    "icon": "house",
+    "description": "The physics and chemistry hiding in your home."
+  },
+  {
+    "id": "human-behavior",
+    "name": "Human Behavior",
+    "icon": "person.2",
+    "description": "Why people do what they do."
+  },
+  {
+    "id": "human-body",
+    "name": "Human Body",
+    "icon": "heart.text.square",
+    "description": "The strange machine you live inside."
+  },
+  {
+    "id": "human-civilization",
+    "name": "Human Civilization",
+    "icon": "person.3",
+    "description": "How societies grow, collapse, and evolve."
+  },
+  {
+    "id": "illusions-perceptions",
+    "name": "Illusions & Perceptions",
+    "icon": "eye",
+    "description": "When your senses deceive you — beautifully."
+  },
+  {
+    "id": "insects",
+    "name": "Insects",
+    "icon": "ant",
+    "description": "Tiny creatures with outsized impact."
+  },
+  {
+    "id": "internet-culture",
+    "name": "Internet Culture",
+    "icon": "network",
+    "description": "Memes, movements, and the digital age."
+  },
+  {
+    "id": "inventions",
+    "name": "Inventions",
+    "icon": "lightbulb",
+    "description": "The breakthroughs that changed everything."
+  },
+  {
+    "id": "languages",
+    "name": "Languages",
+    "icon": "character.bubble",
+    "description": "Words, grammar, and the diversity of speech."
+  },
+  {
+    "id": "literature",
+    "name": "Literature",
+    "icon": "book",
+    "description": "Stories, authors, and the power of the written word."
+  },
+  {
+    "id": "mathematics",
+    "name": "Mathematics",
+    "icon": "x.squareroot",
+    "description": "Numbers that reveal the universe's hidden logic."
+  },
+  {
+    "id": "medicine",
+    "name": "Medicine",
+    "icon": "cross.case",
+    "description": "Discoveries that heal, save, and astonish."
+  },
+  {
+    "id": "movies",
+    "name": "Movies",
+    "icon": "film",
+    "description": "Cinema's secrets, stunts, and wild stories."
+  },
+  {
+    "id": "music",
+    "name": "Music",
+    "icon": "music.note",
+    "description": "Rhythms, records, and the science of sound."
+  },
+  {
+    "id": "mysteries",
+    "name": "Mysteries",
+    "icon": "questionmark.circle",
+    "description": "Unsolved puzzles that still haunt the curious."
+  },
+  {
+    "id": "myths-legends",
+    "name": "Myths & Legends",
+    "icon": "bolt",
+    "description": "Stories too powerful to ever fully die."
+  },
+  {
+    "id": "ocean-life",
+    "name": "Ocean Life",
+    "icon": "water.waves",
+    "description": "The deep, the dark, and the incredible."
+  },
+  {
+    "id": "physics",
+    "name": "Physics",
+    "icon": "atom",
+    "description": "The laws that govern all matter and energy."
+  },
+  {
+    "id": "pirates",
+    "name": "Pirates",
+    "icon": "sailboat",
+    "description": "High-seas outlaws and the myths around them."
+  },
+  {
+    "id": "psychology",
+    "name": "Psychology",
+    "icon": "brain.head.profile",
+    "description": "The mind's quirks, biases, and blind spots."
+  },
+  {
+    "id": "religion-beliefs",
+    "name": "Religion & Beliefs",
+    "icon": "sparkle",
+    "description": "Faith, ritual, and humanity's search for meaning."
+  },
+  {
+    "id": "secret-codes",
+    "name": "Secret Codes",
+    "icon": "lock.shield",
+    "description": "Ciphers, cryptography, and hidden messages."
+  },
+  {
+    "id": "sleep-dreams",
+    "name": "Sleep & Dreams",
+    "icon": "moon.zzz",
+    "description": "What happens when the waking world goes dark."
+  },
+  {
+    "id": "space",
+    "name": "Space",
+    "icon": "sparkles",
+    "description": "Explore the vast, silent universe."
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "icon": "trophy",
+    "description": "Records, rivalries, and the pursuit of glory."
+  },
+  {
+    "id": "strange-jobs",
+    "name": "Strange Jobs",
+    "icon": "briefcase",
+    "description": "Occupations you never knew existed."
+  },
+  {
+    "id": "strange-places",
+    "name": "Strange Places",
+    "icon": "location.magnifyingglass",
+    "description": "Locations on Earth that defy all expectations."
+  },
+  {
+    "id": "superstitions",
+    "name": "Superstitions",
+    "icon": "wand.and.stars",
+    "description": "Luck, omens, and the fears we can't shake."
+  },
+  {
+    "id": "technology",
+    "name": "Technology",
+    "icon": "cpu",
+    "description": "How innovation rewires the world around us."
+  },
+  {
+    "id": "video-games",
+    "name": "Video Games",
+    "icon": "gamecontroller",
+    "description": "Hidden stories from gaming's greatest hits."
+  },
+  {
+    "id": "weather",
+    "name": "Weather",
+    "icon": "cloud.sun",
+    "description": "The atmosphere's power, fury, and beauty."
+  }
+]
