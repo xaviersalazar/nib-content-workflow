@@ -1,6 +1,6 @@
 # TIL Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-01 · 2097 facts · 52 categories
+> Last updated: 2026-07-01 · 2127 facts · 53 categories
 > (Keep this line current — bump it every time a category is finished. See step 9 of the standing pattern.)
 
 ## What this is
@@ -19,27 +19,27 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   this handoff doc.
 
 ## Current state (2026-07-01)
-- **2097 facts · 52 categories · every topic exactly 3 facts.**
-- All 52 categories have been rewritten via this workflow. Categories: space, astronomy, history,
+- **2127 facts · 53 categories · every topic exactly 3 facts.**
+- All 53 categories have been rewritten via this workflow. Categories: space, astronomy, history,
   ancient-civilizations, animals, ocean-life, human-body, psychology, food, coffee, technology,
   artificial-intelligence, internet-culture, video-games, movies, music, sports, engineering, aviation,
   cars, physics, chemistry, mathematics, business, economics, literature, languages, architecture,
   myths-legends, mysteries, medicine, geography, weather, inventions, religion-beliefs, dinosaurs,
   ancient-creatures, pirates, castles-fortresses, famous-disasters, strange-jobs, everyday-objects,
   household-science, famous-symbols, colors, sleep-dreams, illusions-perceptions, secret-codes,
-  superstitions, human-behavior, explorers, famous-trees-plants.
+  superstitions, human-behavior, explorers, famous-trees-plants, insects.
 - **Recent additions:** medicine, geography, weather, inventions, religion-beliefs (2026-06-29) →
   dinosaurs, ancient-creatures, pirates, castles-fortresses, famous-disasters (2026-06-29) →
   strange-jobs, everyday-objects, household-science, famous-symbols, colors (2026-06-30) →
   sleep-dreams, illusions-perceptions, secret-codes, superstitions, human-behavior, explorers,
-  famous-trees-plants (2026-07-01).
+  famous-trees-plants, insects (2026-07-01).
 - **Size exceptions** (left as-is, every topic still at 3): most categories are 15 topics x 3 = 45.
   Exceptions: `religion-beliefs` 16 topics (48); `myths-legends` 16 (48); `dinosaurs`,
   `ancient-creatures`, `pirates`, `castles-fortresses`, `strange-jobs`, `everyday-objects`,
   `household-science`, `famous-symbols`, `colors`, `sleep-dreams`, `illusions-perceptions`,
-  `secret-codes`, `superstitions`, `human-behavior`, `explorers`, `famous-trees-plants` each 10 topics
-  (30); `famous-disasters` 9 topics (27); `languages` 13 (39); `sports` 13 (39); `video-games` 14 (42);
-  `history` 63; `space` 51.
+  `secret-codes`, `superstitions`, `human-behavior`, `explorers`, `famous-trees-plants`, `insects` each
+  10 topics (30); `famous-disasters` 9 topics (27); `languages` 13 (39); `sports` 13 (39); `video-games`
+  14 (42); `history` 63; `space` 51.
 
 ## The standing pattern (what the user expects each time)
 When the user says "new category of X added, run the same process," do exactly this:
@@ -276,6 +276,29 @@ new category must keep avoiding these:
   owns the Krakatoa/Fukushima tsunami events (mangrove-tsunami framed on 2004 Indian-Ocean protection);
   **geography/Rainforests** owns only Amazon-specific facts. NO Hiroshima fact exists (Yamaki bonsai free);
   geography does NOT own sequoias/saguaro/redwood.
+- **insects vs animals + math + ocean-life + food + coffee + strange-jobs.** KEY: **animals HAS a `Bees`
+  topic** (royal-jelly-new-queen / winter-ball / drones-kicked-out) → insects/Bees used waggle-dance /
+  lifetime-honey / bees-recognize-faces-and-zero instead; **food/Honey** owns 'Honey Never Spoils' and
+  **coffee/Caffeine** owns caffeine-pesticide → avoided both for Bees; **mathematics/Prime-Numbers** owns
+  'Cicadas Survive Using Prime Numbers' → Cicadas dropped the prime framing (used 100-decibels / Massospora-
+  zombie / 17-yrs-underground WITHOUT 'prime'); **ocean-life/Bioluminescence** owns biolum AND name-checks
+  fireflies → Fireflies used are-beetles / synchronous / femme-fatale (not how-the-glow-works); **strange-
+  jobs/Forensic-Entomologists** owns forensic maggots (no flies topic made). FREE: mosquito-deadliest/
+  malaria, dung-beetle-Milky-Way, termites-are-cockroaches, mantis-3D-glasses/one-ear-bats, Meganeura,
+  leafcutter-fungus-farming.
+- **insects** now owns these bug anchors — grep before any insect/arthropod/bug category:
+  **20-quadrillion-ants-outweigh-birds+mammals** + **leafcutter-ants-farm-fungus-50M-yrs** + fire-ants-
+  living-rafts; **bee-waggle-dance (von Frisch Nobel)** + worker-bee-1/12-tsp-honey-in-a-lifetime + **bees-
+  recognize-faces-and-grasp-zero**; caterpillar-dissolves-to-goo-keeps-memories + **butterflies-taste-with-
+  their-feet** + monarch-migration-takes-3-4-generations; cicada-swarm-100-decibels + **Massospora-zombie-
+  fungus** + cicadas-17-yrs-underground-for-one-summer; **dragonflies-95%-hunt-success (deadliest)** +
+  globe-skimmer-11000mi-ocean-migration + **Meganeura-2ft-wingspan-high-oxygen**; fireflies-are-beetles +
+  **synchronous-fireflies** + **femme-fatale-fireflies-eat-males**; **female-mantis-eats-the-male's-head** +
+  **mantises-see-in-3D (tiny glasses)** + mantis-one-ear-on-chest-hears-bats; **termites-are-social-
+  cockroaches** + termite-queen-lives-30-50-yrs + **termite-mounds-inspired-an-AC-free-building**; **mosquito-
+  deadliest-animal (malaria)** + only-females-bite-blood-for-eggs + mosquitoes-track-you-by-CO2/heat/sweat;
+  **1-in-4-animal-species-is-a-beetle** + **dung-beetles-steer-by-the-Milky-Way** + bombardier-beetle-
+  boiling-spray.
 - **famous-trees-plants** now owns these botany anchors — grep before any plant/tree/garden category:
   **bamboo-grass-strong-as-steel-scaffolding** + **fastest-growing-plant-3ft/day** + **bamboo-flowers-
   worldwide-then-Mautam-rat-famine**; **baobab-trunks-as-pub/jail/bus-stop** + baobabs-2000yrs-several-
