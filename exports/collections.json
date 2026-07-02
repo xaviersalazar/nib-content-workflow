@@ -1,0 +1,399 @@
+[
+  {
+    "id": "happy-accidents",
+    "title": "Happy Accidents",
+    "subtitle": "Breakthroughs nobody meant to make.",
+    "icon": "lightbulb",
+    "factIds": [
+      "cheese-accidental-discovery",
+      "steel-iron-carbon-alloy",
+      "polymers-tunable-materials",
+      "post-it-notes-weak-adhesive",
+      "purple-royal-rank",
+      "dj-culture-scratching-accident",
+      "x-rays-accidental-discovery-impact",
+      "chaos-theory-butterfly-effect"
+    ]
+  },
+  {
+    "id": "everything-you-know-is-wrong",
+    "title": "Everything You Know Is Wrong",
+    "subtitle": "Popular \"facts\" that fall apart.",
+    "icon": "exclamationmark.bubble",
+    "factIds": [
+      "vikings-no-horned-helmets",
+      "black-holes-not-vacuum-cleaners",
+      "blood-color-changes-with-oxygen",
+      "espresso-crema-traps-aroma",
+      "body-language-crossed-arms-myth",
+      "four-leaf-clovers-not-shamrocks",
+      "velociraptor-not-movie-sized"
+    ]
+  },
+  {
+    "id": "lost-and-rediscovered",
+    "title": "Lost & Rediscovered",
+    "subtitle": "Things the world forgot, then found again.",
+    "icon": "magnifyingglass",
+    "factIds": [
+      "antikythera-ancient-computer",
+      "concrete-ancient-material",
+      "sacred-texts-scripture-authority",
+      "shoelaces-areni-one",
+      "giant-squid-filmed-2012",
+      "woolly-mammoths-permafrost-preserved"
+    ]
+  },
+  {
+    "id": "animal-geniuses",
+    "title": "Animal Geniuses",
+    "subtitle": "Minds we love to underestimate.",
+    "icon": "pawprint",
+    "factIds": [
+      "octopus-open-jars",
+      "ravens-solve-problems-together",
+      "dolphins-signature-whistle",
+      "bees-honey-from-nectar",
+      "venus-flytrap-snap-trap",
+      "beetles-eat-everything"
+    ]
+  },
+  {
+    "id": "the-art-of-disguise",
+    "title": "The Art of Disguise",
+    "subtitle": "Hiding in plain sight.",
+    "icon": "theatermasks",
+    "factIds": [
+      "octopus-color-blind",
+      "sloths-algae-camouflage",
+      "fireflies-mating-flashes",
+      "pseudonyms-author-mask",
+      "movie-makeup-corrective-creative",
+      "mermaids-sailor-stories"
+    ]
+  },
+  {
+    "id": "hidden-beneath-us",
+    "title": "Hidden Beneath Us",
+    "subtitle": "Whole worlds under the surface.",
+    "icon": "arrow.down.to.line.compact",
+    "factIds": [
+      "deep-sea-underwater-lakes",
+      "paris-catacombs-night-transfers",
+      "ancient-china-terracotta-army",
+      "atari-cartridge-shift",
+      "caves-start-in-cracks",
+      "internet-undersea-cables"
+    ]
+  },
+  {
+    "id": "cracking-the-code",
+    "title": "Cracking the Code",
+    "subtitle": "Secrets, ciphers, and hidden writing.",
+    "icon": "lock.shield",
+    "factIds": [
+      "caesar-cipher-julius-caesar",
+      "navajo-code-talkers-indigenous-languages",
+      "prime-numbers-cryptography",
+      "morse-code-sos-pattern",
+      "voynich-unreadable-script",
+      "business-cards-first-impression",
+      "easter-eggs-hidden-credit-origin",
+      "steganography-hidden-message"
+    ]
+  },
+  {
+    "id": "older-than-you-think",
+    "title": "Older Than You Think",
+    "subtitle": "Surprisingly ancient things.",
+    "icon": "hourglass",
+    "factIds": [
+      "asteroids-older-than-earth",
+      "sharks-older-than-dinosaurs",
+      "bread-predates-agriculture",
+      "email-more-than-text",
+      "ancient-temples-sacred-design",
+      "dollar-sign-adopted-1785",
+      "hashtags-symbol-older-social-media"
+    ]
+  },
+  {
+    "id": "when-disaster-struck",
+    "title": "When Disaster Struck",
+    "subtitle": "Catastrophes that changed everything.",
+    "icon": "exclamationmark.triangle",
+    "factIds": [
+      "titanic-lifeboat-capacity-gap",
+      "potatoes-famine-dependence",
+      "great-chicago-fire-wooden-city",
+      "dinosaur-extinction-asteroid-theory",
+      "krakatoa-global-sunsets",
+      "fukushima-earthquake-tsunami"
+    ]
+  },
+  {
+    "id": "record-breakers",
+    "title": "Record Breakers",
+    "subtitle": "The most extreme things on (and off) Earth.",
+    "icon": "trophy",
+    "factIds": [
+      "whales-largest-animal-ever",
+      "jupiter-thousand-earths",
+      "elephants-twenty-two-month-pregnancy",
+      "giant-sequoias-largest-trees",
+      "pyramids-global-form",
+      "fjords-deepest-inland"
+    ]
+  },
+  {
+    "id": "too-big-to-imagine",
+    "title": "Too Big to Imagine",
+    "subtitle": "Scale that breaks your brain.",
+    "icon": "arrow.up.left.and.arrow.down.right",
+    "factIds": [
+      "atoms-mostly-empty-space",
+      "heart-center-of-network",
+      "white-dwarfs-sun-earth-size",
+      "infinity-different-sizes",
+      "blind-spots-optic-nerve",
+      "vinyl-turntable-speed-control"
+    ]
+  },
+  {
+    "id": "your-strange-body",
+    "title": "Your Strange Body",
+    "subtitle": "The machine you live inside.",
+    "icon": "heart.text.square",
+    "factIds": [
+      "muscles-heart-is-a-muscle",
+      "skeletal-system-206-bones",
+      "sleepwalking-partial-waking",
+      "smiling-duchenne-muscles",
+      "caffeine-stimulates-body",
+      "hair-mostly-dead-tissue"
+    ]
+  },
+  {
+    "id": "the-science-of-sound",
+    "title": "The Science of Sound",
+    "subtitle": "How sound bends, tricks, and moves us.",
+    "icon": "waveform",
+    "factIds": [
+      "waves-add-or-cancel",
+      "sound-human-frequency-range",
+      "musical-instruments-human-universal",
+      "dolphins-echoes",
+      "attention-name-special",
+      "auto-tune-cher-effect"
+    ]
+  },
+  {
+    "id": "built-to-outlast-us",
+    "title": "Built to Outlast Us",
+    "subtitle": "Ancient engineering that still amazes.",
+    "icon": "building.columns",
+    "factIds": [
+      "pyramids-sloping-sides",
+      "concrete-steel-reinforcement",
+      "keys-ancient-pin-tumbler",
+      "inca-suspension-bridges",
+      "salt-created-trade-routes",
+      "woolly-mammoths-late-islands"
+    ]
+  },
+  {
+    "id": "tricks-of-the-eye",
+    "title": "Tricks of the Eye",
+    "subtitle": "Light and color that fool you.",
+    "icon": "eye",
+    "factIds": [
+      "forced-perspective-camera-distance",
+      "rainbows-water-droplet-prism",
+      "blue-short-wavelength",
+      "three-d-movies-eye-distance",
+      "virtual-reality-feeling-there",
+      "glaciers-flow-slowly"
+    ]
+  },
+  {
+    "id": "luck-omens-and-rituals",
+    "title": "Luck, Omens & Rituals",
+    "subtitle": "The superstitions we can't shake.",
+    "icon": "wand.and.stars",
+    "factIds": [
+      "friday-13-calendar",
+      "black-cats-control-uncertainty",
+      "placebo-effect-expectation",
+      "turkish-coffee-fortune-grounds",
+      "ritual-social-function",
+      "oak-island-flooded-shaft"
+    ]
+  },
+  {
+    "id": "great-transformations",
+    "title": "Great Transformations",
+    "subtitle": "Becoming something else entirely.",
+    "icon": "arrow.triangle.2.circlepath",
+    "factIds": [
+      "butterflies-complete-metamorphosis",
+      "states-of-matter-heat-changes-state",
+      "salar-de-uyuni-largest-salt-flat",
+      "agriculture-settled-societies",
+      "blood-transfusions-storage-changed-everything",
+      "popcorn-steam-trapped-inside"
+    ]
+  },
+  {
+    "id": "unlikely-partnerships",
+    "title": "Unlikely Partnerships",
+    "subtitle": "Cooperation that shouldn't work, but does.",
+    "icon": "link",
+    "factIds": [
+      "gut-microbiome-tiny-city",
+      "jellyfish-hitchhiking-crabs",
+      "ants-chemical-communication",
+      "wolves-older-siblings-help",
+      "trade-crosses-borders",
+      "game-theory-not-winning-alone"
+    ]
+  },
+  {
+    "id": "fakes-frauds-and-hoaxes",
+    "title": "Fakes, Frauds & Hoaxes",
+    "subtitle": "Elaborate lies that fooled the world.",
+    "icon": "exclamationmark.shield",
+    "factIds": [
+      "loch-ness-home",
+      "crop-circles-field-art",
+      "radio-sound-without-wires",
+      "documentaries-shape-facts",
+      "babylonians-hanging-gardens",
+      "foley-artists-junk-stages",
+      "steganography-digital-files"
+    ]
+  },
+  {
+    "id": "time-plays-tricks",
+    "title": "Time Plays Tricks",
+    "subtitle": "Our slippery grip on time.",
+    "icon": "clock.arrow.circlepath",
+    "factIds": [
+      "light-years-sun-eight-minutes",
+      "mesopotamia-sixty-minute-hour",
+      "calendars-not-one-system",
+      "religious-calendars-different-years",
+      "magellan-crew-circumnavigation"
+    ]
+  },
+  {
+    "id": "the-first-of-its-kind",
+    "title": "The First of Its Kind",
+    "subtitle": "Origins of things we take for granted.",
+    "icon": "flag",
+    "factIds": [
+      "internet-arpanet-first-connection",
+      "barcode-upc-adoption",
+      "space-race-gagarin",
+      "novels-long-prose-worlds",
+      "coins-ancient-origins",
+      "world-records-first-book-1955"
+    ]
+  },
+  {
+    "id": "into-the-unknown",
+    "title": "Into the Unknown",
+    "subtitle": "The explorers who went first.",
+    "icon": "map",
+    "factIds": [
+      "shackleton-endurance-survival",
+      "magellan-strait",
+      "vikings-before-columbus",
+      "constellations-astronauts-navigation",
+      "oceans-cover-most-earth"
+    ]
+  },
+  {
+    "id": "devoted-parents",
+    "title": "Devoted Parents",
+    "subtitle": "Extraordinary parenting in the wild.",
+    "icon": "heart",
+    "factIds": [
+      "octopus-mothers-stop-eating",
+      "seahorses-male-give-birth",
+      "dinosaur-eggs-nesting-colonies",
+      "mangroves-salt-filter",
+      "penguins-fathers-incubate",
+      "mosasaurs-flippers-tail"
+    ]
+  },
+  {
+    "id": "where-names-come-from",
+    "title": "Where Names Come From",
+    "subtitle": "The hidden stories behind everyday words.",
+    "icon": "character.bubble",
+    "factIds": [
+      "bluetooth-viking-king-name",
+      "mario-landlord-name",
+      "vaccines-jenner-smallpox",
+      "zippers-name-from-overshoes",
+      "marathons-greek-legend",
+      "chocolate-food-of-the-gods"
+    ]
+  },
+  {
+    "id": "rise-of-the-machines",
+    "title": "Rise of the Machines",
+    "subtitle": "When automation surprised us.",
+    "icon": "cpu",
+    "factIds": [
+      "ai-ethics-help-harm",
+      "medical-robots-surgeon-controlled",
+      "autopilot-complex-flight-plans",
+      "chess-royal-game",
+      "mars-planet-of-robots",
+      "stock-market-primary-secondary"
+    ]
+  },
+  {
+    "id": "creatures-of-the-deep",
+    "title": "Creatures of the Deep",
+    "subtitle": "Life in the ocean's darkest depths.",
+    "icon": "water.waves",
+    "factIds": [
+      "anglerfish-males-fuse-to-females",
+      "giant-squid-dinner-plate-eyes",
+      "deep-sea-largest-daily-migration",
+      "bioluminescence-most-deep-sea-animals-glow",
+      "waterfalls-many-causes",
+      "jacques-cousteau-calypso"
+    ]
+  },
+  {
+    "id": "glow-in-the-dark",
+    "title": "Glow in the Dark",
+    "subtitle": "Nature and science that light up.",
+    "icon": "sparkles",
+    "factIds": [
+      "bioluminescence-shrimp-spit-light",
+      "aurora-charged-particles",
+      "energy-joule-force-distance",
+      "diagnostic-imaging-changed-diagnosis",
+      "laundry-detergent-suspends-dirt",
+      "light-bulb-not-one-inventor-story"
+    ]
+  },
+  {
+    "id": "against-all-odds",
+    "title": "Against All Odds",
+    "subtitle": "Survival where it seems impossible.",
+    "icon": "figure.climbing",
+    "factIds": [
+      "hibernation-not-all-dormancy",
+      "penguins-winter-breeding",
+      "door-to-hell-extremophiles",
+      "deserts-have-specialized-life",
+      "antibiotics-resistance-evolution",
+      "shackleton-nimrod-near-pole"
+    ]
+  }
+]
