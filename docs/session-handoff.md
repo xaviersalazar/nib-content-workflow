@@ -1,6 +1,6 @@
 # TIL Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-01 · 2127 facts · 53 categories
+> Last updated: 2026-07-02 · 2157 facts · 54 categories
 > (Keep this line current — bump it every time a category is finished. See step 9 of the standing pattern.)
 
 ## What this is
@@ -18,28 +18,28 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   state + every de-dup decision (exhaustive per-category log). Update it after each category, alongside
   this handoff doc.
 
-## Current state (2026-07-01)
-- **2127 facts · 53 categories · every topic exactly 3 facts.**
-- All 53 categories have been rewritten via this workflow. Categories: space, astronomy, history,
+## Current state (2026-07-02)
+- **2157 facts · 54 categories · every topic exactly 3 facts.**
+- All 54 categories have been rewritten via this workflow. Categories: space, astronomy, history,
   ancient-civilizations, animals, ocean-life, human-body, psychology, food, coffee, technology,
   artificial-intelligence, internet-culture, video-games, movies, music, sports, engineering, aviation,
   cars, physics, chemistry, mathematics, business, economics, literature, languages, architecture,
   myths-legends, mysteries, medicine, geography, weather, inventions, religion-beliefs, dinosaurs,
   ancient-creatures, pirates, castles-fortresses, famous-disasters, strange-jobs, everyday-objects,
   household-science, famous-symbols, colors, sleep-dreams, illusions-perceptions, secret-codes,
-  superstitions, human-behavior, explorers, famous-trees-plants, insects.
+  superstitions, human-behavior, explorers, famous-trees-plants, insects, strange-places.
 - **Recent additions:** medicine, geography, weather, inventions, religion-beliefs (2026-06-29) →
   dinosaurs, ancient-creatures, pirates, castles-fortresses, famous-disasters (2026-06-29) →
   strange-jobs, everyday-objects, household-science, famous-symbols, colors (2026-06-30) →
   sleep-dreams, illusions-perceptions, secret-codes, superstitions, human-behavior, explorers,
-  famous-trees-plants, insects (2026-07-01).
+  famous-trees-plants, insects (2026-07-01) → strange-places (2026-07-02).
 - **Size exceptions** (left as-is, every topic still at 3): most categories are 15 topics x 3 = 45.
   Exceptions: `religion-beliefs` 16 topics (48); `myths-legends` 16 (48); `dinosaurs`,
   `ancient-creatures`, `pirates`, `castles-fortresses`, `strange-jobs`, `everyday-objects`,
   `household-science`, `famous-symbols`, `colors`, `sleep-dreams`, `illusions-perceptions`,
-  `secret-codes`, `superstitions`, `human-behavior`, `explorers`, `famous-trees-plants`, `insects` each
-  10 topics (30); `famous-disasters` 9 topics (27); `languages` 13 (39); `sports` 13 (39); `video-games`
-  14 (42); `history` 63; `space` 51.
+  `secret-codes`, `superstitions`, `human-behavior`, `explorers`, `famous-trees-plants`, `insects`,
+  `strange-places` each 10 topics (30); `famous-disasters` 9 topics (27); `languages` 13 (39); `sports`
+  13 (39); `video-games` 14 (42); `history` 63; `space` 51.
 
 ## The standing pattern (what the user expects each time)
 When the user says "new category of X added, run the same process," do exactly this:
@@ -286,6 +286,28 @@ new category must keep avoiding these:
   jobs/Forensic-Entomologists** owns forensic maggots (no flies topic made). FREE: mosquito-deadliest/
   malaria, dung-beetle-Milky-Way, termites-are-cockroaches, mantis-3D-glasses/one-ear-bats, Meganeura,
   leafcutter-fungus-farming.
+- **strange-places vs geography (the one real collision).** **geography/Lakes** owns 'In the Dead Sea You
+  Float Without Trying' (float/buoyancy + lowest-dry-land + 10x-saltier + dropping + 'almost nothing
+  lives') → strange-places/Dead-Sea rerouted OFF all of that, to shrinking-sinkholes / world's-first-spa /
+  it-floats-up-asphalt-for-mummies. Everything else FREE: Paris-Catacombs (only myths-legends/Egyptian used
+  'catacomb'), Darvaza/methane (space/Saturn + mysteries/Bermuda own methane), Blood-Falls-astrobiology
+  (space owns Europa-water/Mars-robots, not extremophile-life-model), Lake-Hillier carotenoid/flamingo
+  (colors owns pink-PERCEPTION, not lake-algae), Salar-mirror/satellite-calibration, Giant's-Causeway,
+  Pamukkale/Hierapolis, Socotra/dragon's-blood-tree. NOTE: for future places/landmarks/wonders categories
+  grep **geography (all 15 topics) + mysteries + ancient-civ + ocean-life + colors + space** first.
+- **strange-places** now owns these place anchors — grep before any places/landmarks category:
+  Dead-Sea-shrinking-sinkholes + **Dead-Sea-was-the-first-spa (Herod/Cleopatra)** + **Dead-Sea-floats-up-
+  asphalt-for-mummies**; **Salar-de-Uyuni-world's-largest-mirror (satellite calibration)** + flattest-
+  place-on-Earth + lithium-battery-supply; **Fly-Geyser-was-an-accidental-leaking-well** + colors-are-
+  living-algae + still-growing-Burning-Man-owns-it; **Door-to-Hell-lit-1971-still-burning** + Turkmenistan-
+  cant-put-it-out + **Kourounis-rappelled-in-found-bacteria**; **Giant's-Causeway-hexagons-like-dried-mud**
+  + **same-lava-as-Scotland's-Fingal's-Cave** + Finn-McCool-disguised-as-a-giant-baby; **Paris-Catacombs-6-
+  million-people** + **cataphiles-secret-cinema-found-2004** + bones-in-walls-man-lost-1793-found-11-yrs-
+  later; **Blood-Falls-bleeding-glacier-is-rust** + fed-by-2-million-yr-sealed-lake + microbes-on-iron/
+  sulfur-astrobiology; **Pamukkale-white-castle-is-travertine** + **Hierapolis-'Gate-to-Hell'-lethal-CO2** +
+  swim-in-Cleopatra's-Pool-toppled-columns; **Socotra-dragon's-blood-trees** + Galapagos-of-the-Indian-
+  Ocean-endemism + monsoon-seals-it-off-for-months; **Lake-Hillier-stays-pink-in-a-glass** + carotenoid-
+  flamingo-pigment + pink-lake-beside-a-blue-sea.
 - **insects** now owns these bug anchors — grep before any insect/arthropod/bug category:
   **20-quadrillion-ants-outweigh-birds+mammals** + **leafcutter-ants-farm-fungus-50M-yrs** + fire-ants-
   living-rafts; **bee-waggle-dance (von Frisch Nobel)** + worker-bee-1/12-tsp-honey-in-a-lifetime + **bees-
