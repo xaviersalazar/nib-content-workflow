@@ -1,6 +1,6 @@
 # TIL Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-02 · 2157 facts · 54 categories
+> Last updated: 2026-07-02 · 2187 facts · 55 categories
 > (Keep this line current — bump it every time a category is finished. See step 9 of the standing pattern.)
 
 ## What this is
@@ -19,27 +19,28 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   this handoff doc.
 
 ## Current state (2026-07-02)
-- **2157 facts · 54 categories · every topic exactly 3 facts.**
-- All 54 categories have been rewritten via this workflow. Categories: space, astronomy, history,
+- **2187 facts · 55 categories · every topic exactly 3 facts.**
+- All 55 categories have been rewritten via this workflow. Categories: space, astronomy, history,
   ancient-civilizations, animals, ocean-life, human-body, psychology, food, coffee, technology,
   artificial-intelligence, internet-culture, video-games, movies, music, sports, engineering, aviation,
   cars, physics, chemistry, mathematics, business, economics, literature, languages, architecture,
   myths-legends, mysteries, medicine, geography, weather, inventions, religion-beliefs, dinosaurs,
   ancient-creatures, pirates, castles-fortresses, famous-disasters, strange-jobs, everyday-objects,
   household-science, famous-symbols, colors, sleep-dreams, illusions-perceptions, secret-codes,
-  superstitions, human-behavior, explorers, famous-trees-plants, insects, strange-places.
+  superstitions, human-behavior, explorers, famous-trees-plants, insects, strange-places,
+  human-civilization.
 - **Recent additions:** medicine, geography, weather, inventions, religion-beliefs (2026-06-29) →
   dinosaurs, ancient-creatures, pirates, castles-fortresses, famous-disasters (2026-06-29) →
   strange-jobs, everyday-objects, household-science, famous-symbols, colors (2026-06-30) →
   sleep-dreams, illusions-perceptions, secret-codes, superstitions, human-behavior, explorers,
-  famous-trees-plants, insects (2026-07-01) → strange-places (2026-07-02).
+  famous-trees-plants, insects (2026-07-01) → strange-places, human-civilization (2026-07-02).
 - **Size exceptions** (left as-is, every topic still at 3): most categories are 15 topics x 3 = 45.
   Exceptions: `religion-beliefs` 16 topics (48); `myths-legends` 16 (48); `dinosaurs`,
   `ancient-creatures`, `pirates`, `castles-fortresses`, `strange-jobs`, `everyday-objects`,
   `household-science`, `famous-symbols`, `colors`, `sleep-dreams`, `illusions-perceptions`,
   `secret-codes`, `superstitions`, `human-behavior`, `explorers`, `famous-trees-plants`, `insects`,
-  `strange-places` each 10 topics (30); `famous-disasters` 9 topics (27); `languages` 13 (39); `sports`
-  13 (39); `video-games` 14 (42); `history` 63; `space` 51.
+  `strange-places`, `human-civilization` each 10 topics (30); `famous-disasters` 9 topics (27);
+  `languages` 13 (39); `sports` 13 (39); `video-games` 14 (42); `history` 63; `space` 51.
 
 ## The standing pattern (what the user expects each time)
 When the user says "new category of X added, run the same process," do exactly this:
@@ -295,6 +296,32 @@ new category must keep avoiding these:
   (colors owns pink-PERCEPTION, not lake-algae), Salar-mirror/satellite-calibration, Giant's-Causeway,
   Pamukkale/Hierapolis, Socotra/dragon's-blood-tree. NOTE: for future places/landmarks/wonders categories
   grep **geography (all 15 topics) + mysteries + ancient-civ + ocean-life + colors + space** first.
+- **human-civilization — the most overlap-prone category type (abstract "how society works" + everything-
+  adjacent).** Strategy: inject CONCRETE facts per abstract topic while dodging owners. Collisions:
+  **ancient-civ/Babylonians owns Hammurabi** → Laws led with Ur-Nammu-is-older + Draco + animal-trials;
+  **ancient-civ/Persia (Royal Road) + Inca (roads/bridges)** → Roads stayed all-Roman; **history/Ancient-
+  India (Indus sewage) + ancient-civ/Indus (well-planned)** → Sewers used Cloaca-Maxima/Great-Stink and
+  Cities used Catalhoyuk/Rome-1M/2007-urban; **religion-beliefs/Religious-Calendars (extra-month/Easter)**
+  → Calendars used Gregorian-lost-days/month-names/French-decimal; **myths-legends/Dragons ('Here Be
+  Dragons')** → Maps used Mercator/orient-east/Babylonian-tablet; **architecture/Urban-Planning (Haussmann/
+  jaywalking/Brasilia)** avoided; **food/Bread ('Bread Predates Agriculture') + architecture/Ancient-Temples
+  (Gobekli-Tepe)** avoided. **⚠ LATE CATCH — the integrity dup-headlines check caught it: physics/Time owns
+  'The Best Clocks Won't Lose a Second in Billions of Years' (atomic clocks).** My Timekeeping atomic-clock
+  rewrite was a near-verbatim dup → rerouted to Harrison-marine-chronometer-solved-longitude. LESSON:
+  always run the 5e dup-headlines check; broad categories can collide even after anchor-grepping.
+- **human-civilization** now owns these anchors — grep before any civilization/infrastructure category:
+  farming-was-a-health-disaster + farming-invented-independently-~11-times + corn/teosinte-can't-reproduce-
+  without-us; **Gregorian-switch-deleted-days (Oct 1582 / Britain 1752)** + **Sept–Dec-mean-months-7–10** +
+  French-Revolution-decimal-10-day-week; **Catalhoyuk-had-no-streets (roof entry)** + Rome-hit-1-million-
+  until-London-1800 + **majority-urban-only-since-~2007**; **'money'-from-temple-of-Juno-Moneta** + first-
+  coins-Lydia-electrum-Croesus + **Brutus-EID-MAR-'I-killed-Caesar'-coin**; **Persian-qanats** + **Egypt-
+  nilometer-flood-sets-taxes** + **Soviet-irrigation-drained-the-Aral-Sea**; **Ur-Nammu-older-than-
+  Hammurabi** + **Draco/'draconian'** + **medieval-animal-trials**; **all-roads-lead-to-Rome-Golden-
+  Milestone** + Roman-roads-underlie-modern-highways + cursus-publicus-postal-relay; **Cloaca-Maxima-2500yrs-
+  had-a-goddess** + **London-Great-Stink-1858** + sanitation-voted-greatest-medical-advance; ancient-hours-
+  changed-length-with-seasons + **railways-created-time-zones** + **Harrison-marine-chronometer-longitude**;
+  **Mercator-Greenland-vs-Africa** + north-wasn't-always-up-'orient' + **oldest-map-is-a-Babylonian-clay-
+  tablet**.
 - **strange-places** now owns these place anchors — grep before any places/landmarks category:
   Dead-Sea-shrinking-sinkholes + **Dead-Sea-was-the-first-spa (Herod/Cleopatra)** + **Dead-Sea-floats-up-
   asphalt-for-mummies**; **Salar-de-Uyuni-world's-largest-mirror (satellite calibration)** + flattest-
