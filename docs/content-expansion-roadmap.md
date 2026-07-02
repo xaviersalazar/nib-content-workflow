@@ -132,7 +132,7 @@ Collections screen gets a fresh themed pack every month with zero new drafting.
 Everything below is confirmed **not** yet in `sources.csv`. Pull from here once
 the 12-month schedule is exhausted, or swap into it if analytics shift priorities.
 
-| Category | Sample topics | Tier-1 specialist sources |
+| Category | Sample topics | Specialist sources |
 | --- | --- | --- |
 | Microscopic Life | Bacteria, Viruses, Fungi, Tardigrades, Cells, Algae, Plankton, Mold, Yeast, Parasites | CDC, NIH |
 | Photography | Camera Obscura, Daguerreotype, Color Film, Polaroid, Darkrooms, Aperture, Famous Photos, Photojournalism, Long Exposure, Film vs Digital | George Eastman Museum |
@@ -196,7 +196,7 @@ curated `factIds` pull from existing content — no new drafting required.
 
 > **Target: reduce Britannica from ~63% of topics to ~50% over the next year.**
 
-Britannica is an excellent Tier-1 source and should remain the backbone. But high
+Britannica is an excellent primary source and should remain the backbone. But high
 concentration is a single point of failure:
 
 - **Operational risk** — one site changing structure or blocking scraping stalls

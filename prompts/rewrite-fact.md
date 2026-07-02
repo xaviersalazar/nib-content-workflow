@@ -53,8 +53,7 @@ Return:
   "body": "",
   "summary": "",
   "tags": [],
-  "readTimeSeconds": 45,
-  "funScore": 1
+  "readTimeSeconds": 45
 }
 ```
 

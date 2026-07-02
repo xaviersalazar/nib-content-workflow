@@ -20,11 +20,9 @@ with no twist. Those get rewritten (preferred) or removed.
 - **Hard cap: 3 facts per topic.** Every topic ships **exactly 3** (or fewer if only 1–2 are truly strong —
   never pad to 3 with a weak fact). See `docs/content-generation-rules.md`.
 - A category is a set of ~15 topics × 3 = ~45 facts.
-- CSV columns: `id, categoryId, topic, headline, body, summary, tags, readTimeSeconds, funScore, featured, relatedFactIds`
+- CSV columns: `id, categoryId, topic, headline, body, summary, tags, readTimeSeconds, featured, relatedFactIds`
 - **`id` is permanent.** Never change it once set, even when you rewrite a fact's content — other facts'
   `relatedFactIds` point at it. (A slightly-stale id slug is fine; a broken link is not.)
-- `funScore` is **not** a reliable quality signal in this dataset (almost everything is 9–10). Judge on the
-  actual content, not the score.
 
 ---
 
@@ -74,7 +72,7 @@ Match the existing rows:
   friend over coffee"), ends on a punchy line. No clickbait, no exaggeration.
 - **summary:** a one-sentence teaser that **adds intrigue** — never just an echo of the headline.
 - **tags:** 3–4 lowercase, comma-separated.
-- Keep `id`, `categoryId`, `topic`, `readTimeSeconds`, `funScore`, `featured`, `relatedFactIds` unchanged
+- Keep `id`, `categoryId`, `topic`, `readTimeSeconds`, `featured`, `relatedFactIds` unchanged
   on a rewrite (only swap headline/body/summary/tags).
 
 ---

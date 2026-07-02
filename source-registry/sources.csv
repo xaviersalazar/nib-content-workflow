@@ -1,792 +1,738 @@
-category,topic,institution,url,tier,status
-Space,Venus,NASA,https://science.nasa.gov/venus/,1,complete
-Space,Mars,NASA,https://science.nasa.gov/mars/,1,complete
-Space,Asteroids,NASA,https://science.nasa.gov/solar-system/asteroids/,1,complete
-Space,Exoplanets,NASA,https://science.nasa.gov/exoplanets/,1,complete
-Space,Comets,NASA,https://science.nasa.gov/solar-system/comets/,1,complete
-Space,Dwarf Planets,NASA,https://science.nasa.gov/dwarf-planets/,1,complete
-Space,Jupiter,NASA,https://science.nasa.gov/jupiter/,1,complete
-Space,Saturn,NASA,https://science.nasa.gov/saturn/,1,complete
-Space,Uranus,NASA,https://science.nasa.gov/uranus/,1,complete
-Space,Neptune,NASA,https://science.nasa.gov/neptune/,1,complete
-Space,Pluto,NASA,https://science.nasa.gov/dwarf-planets/pluto/,1,complete
-Space,Solar System,NASA,https://science.nasa.gov/solar-system/,1,complete
-Space,Sun,NASA,https://science.nasa.gov/sun/,1,complete
-Space,Kuiper Belt,NASA,https://science.nasa.gov/solar-system/kuiper-belt/facts/,1,complete
-Space,Oort Cloud,NASA,https://science.nasa.gov/solar-system/oort-cloud/facts/,1,complete
-Space,Voyager Program,NASA,https://science.nasa.gov/mission/voyager/fast-facts/,1,complete
-Space,Meteor Showers,NASA,https://science.nasa.gov/solar-system/meteors-meteorites/facts/,1,complete
-Space,Moons,NASA,https://science.nasa.gov/moons/,1,complete
-
-Astronomy,Black Holes,NASA,https://science.nasa.gov/universe/black-holes/,1,complete
-Astronomy,Stars,NASA,https://science.nasa.gov/universe/stars/,1,complete
-Astronomy,Galaxies,NASA,https://science.nasa.gov/universe/galaxies/,1,complete
-Astronomy,Nebulae,NASA Space Place,https://spaceplace.nasa.gov/nebula/en/,1,complete
-Astronomy,Constellations,NASA Space Place,https://spaceplace.nasa.gov/constellations/en/,1,complete
-Astronomy,Supernovas,NASA Space Place,https://spaceplace.nasa.gov/supernova/en/,1,complete
-Astronomy,Milky Way,NASA Imagine,https://imagine.gsfc.nasa.gov/science/objects/milkyway1.html,1,complete
-Astronomy,Light Years,NASA Space Place,https://spaceplace.nasa.gov/light-year/en/,1,complete
-Astronomy,Hubble Space Telescope,NASA,https://science.nasa.gov/mission/hubble/,1,complete
-Astronomy,James Webb Space Telescope,NASA,https://science.nasa.gov/mission/webb/,1,complete
-Astronomy,Pulsars,NASA,https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html,1,complete
-Astronomy,Quasars,NASA,https://imagine.gsfc.nasa.gov/science/objects/active_galaxies1.html,1,complete
-Astronomy,Red Giants,NASA,https://science.nasa.gov/universe/stars/types/,1,complete
-Astronomy,White Dwarfs,NASA,https://imagine.gsfc.nasa.gov/science/objects/dwarfs1.html,1,complete
-Astronomy,Cosmic Microwave Background,NASA,https://map.gsfc.nasa.gov/universe/bb_tests_cmb.html,1,complete
-
-History,Roman Empire,Britannica,https://www.britannica.com/place/ancient-Rome,1,complete
-History,Vikings,Britannica,https://www.britannica.com/topic/Viking-people,1,complete
-History,Ancient Greece,Britannica,https://www.britannica.com/place/ancient-Greece,1,complete
-History,Middle Ages,Britannica,https://www.britannica.com/event/Middle-Ages,1,complete
-History,Renaissance,Britannica,https://www.britannica.com/event/Renaissance,1,complete
-History,Age of Exploration,Britannica,https://www.britannica.com/topic/European-exploration/The-Age-of-Discovery,1,complete
-History,American Revolution,Britannica,https://www.britannica.com/event/American-Revolution,1,complete
-History,Industrial Revolution,Britannica,https://www.britannica.com/event/Industrial-Revolution,1,complete
-History,World War I,Britannica,https://www.britannica.com/event/World-War-I,1,complete
-History,World War II,Britannica,https://www.britannica.com/event/World-War-II,1,complete
-History,Ancient China,Britannica,https://www.britannica.com/place/China/History,1,complete
-History,Ancient India,Britannica,https://www.britannica.com/place/India/History,1,complete
-History,Mongol Empire,Britannica,https://www.britannica.com/topic/Mongol-empire,1,complete
-History,Silk Road,Britannica,https://www.britannica.com/topic/Silk-Road-trade-route,1,complete
-History,Printing Press,Britannica,https://www.britannica.com/technology/printing-press,1,complete
-History,French Revolution,Britannica,https://www.britannica.com/event/French-Revolution,1,complete
-History,Cold War,Britannica,https://www.britannica.com/event/Cold-War,1,complete
-History,Space Race,Britannica,https://www.britannica.com/event/space-race,1,complete
-History,Titanic,Britannica,https://www.britannica.com/topic/Titanic,1,complete
-History,Salem Witch Trials,Britannica,https://www.britannica.com/event/Salem-witch-trials,1,complete
-History,Pirate Age,Royal Museums Greenwich,https://www.rmg.co.uk/stories/maritime-history/pirates-history-golden-age-piracy,1,complete
-History,Samurai,Britannica,https://www.britannica.com/topic/samurai,1,complete
-History,Knights,Britannica,https://www.britannica.com/topic/knight-cavalryman,1,complete
-
-Ancient Civilizations,Ancient Egypt,Britannica,https://www.britannica.com/place/ancient-Egypt,1,complete
-Ancient Civilizations,Maya,Britannica,https://www.britannica.com/topic/Maya-people,1,complete
-Ancient Civilizations,Aztecs,Britannica,https://www.britannica.com/topic/Aztec,1,complete
-Ancient Civilizations,Incas,Britannica,https://www.britannica.com/topic/Inca,1,complete
-Ancient Civilizations,Mesopotamia,Britannica,https://www.britannica.com/place/Mesopotamia-historical-region-Asia,1,complete
-Ancient Civilizations,Sumerians,Britannica,https://www.britannica.com/place/Sumer,1,complete
-Ancient Civilizations,Babylonians,Britannica,https://www.britannica.com/place/Babylonia,1,complete
-Ancient Civilizations,Phoenicians,Britannica,https://www.britannica.com/topic/Phoenician,1,complete
-Ancient Civilizations,Indus Valley Civilization,Britannica,https://www.britannica.com/topic/Indus-civilization,1,complete
-Ancient Civilizations,Ancient Persia,Britannica,https://www.britannica.com/place/ancient-Iran,1,complete
-Ancient Civilizations,Ancient Rome,Britannica,https://www.britannica.com/place/ancient-Rome,1,complete
-Ancient Civilizations,Carthage,Britannica,https://www.britannica.com/place/Carthage-ancient-city-Tunisia,1,complete
-Ancient Civilizations,Minoans,Britannica,https://www.britannica.com/topic/Minoan-civilization,1,complete
-Ancient Civilizations,Olmecs,Britannica,https://www.britannica.com/topic/Olmec,1,complete
-Ancient Civilizations,Hittites,Britannica,https://www.britannica.com/topic/Hittite,1,complete
-
-Animals,Octopus,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals/animals-a-to-z/giant-pacific-octopus,1,complete
-Animals,Elephants,WWF,https://www.worldwildlife.org/species/elephant,1,complete
-Animals,Dolphins,National Geographic Kids,https://kids.nationalgeographic.com/animals/mammals/facts/bottlenose-dolphin,1,complete
-Animals,Penguins,National Geographic Kids,https://kids.nationalgeographic.com/animals/birds/facts/emperor-penguin,1,complete
-Animals,Giraffes,National Geographic Kids,https://kids.nationalgeographic.com/animals/mammals/facts/giraffe,1,complete
-Animals,Tigers,WWF,https://www.worldwildlife.org/species/tiger,1,complete
-Animals,Wolves,National Geographic Kids,https://kids.nationalgeographic.com/animals/mammals/facts/gray-wolf,1,complete
-Animals,Bees,National Geographic Kids,https://kids.nationalgeographic.com/animals/invertebrates/facts/honeybee,1,complete
-Animals,Sloths,National Geographic Kids,https://kids.nationalgeographic.com/animals/mammals/facts/sloth,1,complete
-Animals,Cheetahs,National Geographic Kids,https://kids.nationalgeographic.com/animals/mammals/facts/cheetah,1,complete
-Animals,Axolotls,National Geographic,https://kids.nationalgeographic.com/animals/amphibians/facts/axolotl,1,complete
-Animals,Platypus,National Geographic,https://kids.nationalgeographic.com/animals/mammals/facts/platypus,1,complete
-Animals,Ravens,Cornell Lab of Ornithology,https://www.allaboutbirds.org/guide/Common_Raven/lifehistory,1,complete
-Animals,Chameleons,National Geographic,https://kids.nationalgeographic.com/animals/reptiles/facts/chameleon,1,complete
-Animals,Mantis Shrimp,National Geographic,https://www.nationalgeographic.com/animals/invertebrates/facts/mantis-shrimp,1,complete
-
-Ocean Life,Sharks,Fisheries,https://www.fisheries.noaa.gov/feature-story/12-shark-facts-may-surprise-you,1,complete
-Ocean Life,Coral Reefs,NOAA,https://oceanservice.noaa.gov/facts/coral.html,1,complete
-Ocean Life,Bioluminescence,NOAA Ocean Explorer,https://oceanexplorer.noaa.gov/facts/bioluminescence.html,1,complete
-Ocean Life,Deep Sea,Smithsonian,https://ocean.si.edu/ecosystems/deep-sea/deep-sea,1,complete
-Ocean Life,Jellyfish,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-nettle,1,complete
-Ocean Life,Whales,NOAA Fisheries,https://www.fisheries.noaa.gov/whales,1,complete
-Ocean Life,Sea Turtles,NOAA Fisheries,https://www.fisheries.noaa.gov/sea-turtles,1,complete
-Ocean Life,Seahorses,National Geographic,https://kids.nationalgeographic.com/animals/fish/facts/seahorse,1,complete
-Ocean Life,Starfish,National Geographic,https://www.nationalgeographic.com/animals/invertebrates/facts/starfish-1,1,complete
-Ocean Life,Ocean Currents,NOAA,https://oceanservice.noaa.gov/facts/current.html,1,complete
-Ocean Life,Giant Squid,Smithsonian Ocean,https://ocean.si.edu/ocean-life/invertebrates/giant-squid,1,complete
-Ocean Life,Anglerfish,National Geographic,https://www.nationalgeographic.com/animals/fish/facts/anglerfish,1,complete
-Ocean Life,Orcas,NOAA Fisheries,https://www.fisheries.noaa.gov/species/killer-whale,1,complete
-Ocean Life,Kelp Forests,NOAA,https://oceanservice.noaa.gov/facts/kelp.html,1,complete
-Ocean Life,Sea Otters,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-otter,1,complete
-
-Human Body,Brain,NIH News in Health,https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain,1,complete
-Human Body,Heart,NHLBI,https://www.nhlbi.nih.gov/health/heart,1,complete
-Human Body,Skeletal System,Cleveland Clinic,https://my.clevelandclinic.org/health/body/21048-skeletal-system,1,complete
-Human Body,Muscles,Cleveland Clinic,https://my.clevelandclinic.org/health/body/21887-muscle,1,complete
-Human Body,Eyes,Cleveland Clinic,https://my.clevelandclinic.org/health/body/21823-eyes,1,complete
-Human Body,Blood,Cleveland Clinic,https://my.clevelandclinic.org/health/body/24836-blood,1,complete
-Human Body,Lungs,NHLBI,https://www.nhlbi.nih.gov/health/lungs,1,complete
-Human Body,DNA,Britannica,https://www.britannica.com/science/DNA,1,complete
-Human Body,Immune System,Britannica,https://www.britannica.com/science/immune-system,1,complete
-Human Body,Skin,Britannica,https://www.britannica.com/science/skin,1,complete
-Human Body,Fingerprints,Britannica,https://www.britannica.com/science/fingerprint,1,complete
-Human Body,Taste Buds,Britannica,https://www.britannica.com/science/taste-bud,1,complete
-Human Body,Hair,Britannica,https://www.britannica.com/science/hair-anatomy,1,complete
-Human Body,Gut Microbiome,Harvard T.H. Chan School of Public Health,https://nutritionsource.hsph.harvard.edu/microbiome/,1,complete
-Human Body,Hormones,Britannica,https://www.britannica.com/science/hormone,1,complete
-
-Psychology,Memory,Britannica,https://www.britannica.com/science/memory-psychology,1,complete
-Psychology,Emotions,Britannica,https://www.britannica.com/science/emotion,1,complete
-Psychology,Happiness,Britannica,https://www.britannica.com/topic/happiness,1,complete
-Psychology,Habits,Britannica,https://www.britannica.com/topic/habit-behavior,1,complete
-Psychology,Attention,Britannica,https://www.britannica.com/science/attention,1,complete
-Psychology,Decision Making,Britannica,https://www.britannica.com/topic/decision-making,1,complete
-Psychology,Motivation,Britannica,https://www.britannica.com/topic/motivation,1,complete
-Psychology,Learning,Britannica,https://www.britannica.com/science/learning,1,complete
-Psychology,Perception,Britannica,https://www.britannica.com/science/perception,1,complete
-Psychology,Sleep,Britannica,https://www.britannica.com/science/sleep,1,complete
-Psychology,Déjà Vu,Cleveland Clinic,https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern,1,complete
-Psychology,Optical Illusions,HowStuffWorks,https://science.howstuffworks.com/optical-illusions.htm,1,complete
-Psychology,Dreams,Britannica,https://www.britannica.com/science/dream-sleep-experience,1,complete
-Psychology,Phobias,Britannica,https://www.britannica.com/science/phobia,1,complete
-Psychology,Body Language,Psychology Today,https://www.psychologytoday.com/us/basics/body-language,1,complete
-
-Food,Honey,Smithsonian Magazine,https://www.britannica.com/topic/honey,1,complete
-Food,Chocolate,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/a-brief-history-of-chocolate-21860917/,1,complete
-Food,Cheese,Britannica,https://www.britannica.com/topic/cheese,1,complete
-Food,Bread,Britannica,https://www.britannica.com/topic/bread-food-product,1,complete
-Food,Salt,Britannica,https://www.britannica.com/science/salt,1,complete
-Food,Spices,Britannica,https://www.britannica.com/topic/spice-food,1,complete
-Food,Rice,Britannica,https://www.britannica.com/plant/rice,1,complete
-Food,Pasta,Britannica,https://www.britannica.com/topic/pasta,1,complete
-Food,Ice Cream,Britannica,https://www.britannica.com/topic/ice-cream,1,complete
-Food,Pizza,Britannica,https://www.britannica.com/topic/pizza,1,complete
-Food,Sushi,Britannica,https://www.britannica.com/topic/sushi,1,complete
-Food,Popcorn,Britannica,https://www.britannica.com/topic/popcorn,1,complete
-Food,Potatoes,Britannica,https://www.britannica.com/plant/potato,1,complete
-Food,Bananas,Britannica,https://www.britannica.com/plant/banana-plant,1,complete
-Food,Peanuts,Britannica,https://www.britannica.com/plant/peanut,1,complete
-
-Coffee,Coffee Plant,Britannica,https://www.britannica.com/plant/Coffea,1,complete
-Coffee,Caffeine,Britannica,https://www.britannica.com/science/caffeine,1,complete
-Coffee,Espresso,Britannica,https://www.britannica.com/topic/espresso,1,complete
-Coffee,Instant Coffee,National Coffee Association,https://www.ncausa.org/About-Coffee/Types-of-Coffee/Instant-Coffee,1,complete
-Coffee,Coffee Beans,Britannica,https://www.britannica.com/plant/Coffea,1,complete
-Coffee,Coffee Roasting,National Coffee Association,https://www.ncausa.org/About-Coffee/Coffee-Roasts-Guide,1,complete
-Coffee,Decaf Coffee,National Coffee Association,https://www.ncausa.org/About-Coffee/Decaffeinated-Coffee,1,complete
-Coffee,Cold Brew,National Coffee Association,https://www.ncausa.org/About-Coffee/How-to-Make-Cold-Brew-Coffee,1,complete
-Coffee,Latte,National Coffee Association,https://www.ncausa.org/About-Coffee/Types-of-Coffee,1,complete
-Coffee,Cappuccino,National Coffee Association,https://www.ncausa.org/About-Coffee/Types-of-Coffee,1,complete
-Coffee,Arabica Beans,National Coffee Association,https://www.aboutcoffee.org/beans/varieties/,1,complete
-Coffee,Robusta Beans,National Coffee Association,https://www.aboutcoffee.org/beans/varieties/,1,complete
-Coffee,Coffeehouses,Britannica,https://www.britannica.com/topic/cafe-eating-and-drinking-establishment,1,complete
-Coffee,Turkish Coffee,UNESCO Courier,https://courier.unesco.org/en/articles/turkish-coffee-not-just-drink-culture,1,complete
-Coffee,Coffee Origins,National Coffee Association,https://www.aboutcoffee.org/origins/history-of-coffee/,1,complete
-
-Technology,Internet,Britannica,https://www.britannica.com/topic/Internet,1,complete
-Technology,World Wide Web,Britannica,https://www.britannica.com/topic/World-Wide-Web,1,complete
-Technology,Email,Britannica,https://www.britannica.com/technology/email,1,complete
-Technology,Wi-Fi,Britannica,https://www.britannica.com/technology/Wi-Fi,1,complete
-Technology,QR Codes,Britannica,https://www.britannica.com/technology/QR-Code,1,complete
-Technology,Smartphones,Britannica,https://www.britannica.com/technology/smartphone,1,complete
-Technology,Cloud Computing,Britannica,https://www.britannica.com/technology/cloud-computing,1,complete
-Technology,Virtual Reality,Britannica,https://www.britannica.com/technology/virtual-reality,1,complete
-Technology,Blockchain,Britannica,https://www.britannica.com/topic/blockchain,1,complete
-Technology,Cryptography,Britannica,https://www.britannica.com/science/cryptology,1,complete
-Technology,Bluetooth,HowStuffWorks,https://electronics.howstuffworks.com/bluetooth.htm,1,complete
-Technology,USB,Britannica,https://www.britannica.com/technology/USB,1,complete
-Technology,CAPTCHA,Cloudflare,https://www.cloudflare.com/learning/bots/how-captchas-work/,1,complete
-Technology,Search Engines,Britannica,https://www.britannica.com/technology/search-engine,1,complete
-Technology,Data Centers,Cloudflare,https://www.cloudflare.com/learning/cdn/glossary/data-center/,1,complete
-
-Artificial Intelligence,Artificial Intelligence,Britannica,https://www.britannica.com/technology/artificial-intelligence,1,complete
-Artificial Intelligence,Machine Learning,Britannica,https://www.britannica.com/technology/machine-learning,1,complete
-Artificial Intelligence,Neural Networks,Britannica,https://www.britannica.com/technology/neural-network-computing,1,complete
-Artificial Intelligence,Robotics,Britannica,https://www.britannica.com/technology/robotics,1,complete
-Artificial Intelligence,Computer Vision,Britannica,https://www.britannica.com/technology/computer-vision,1,complete
-Artificial Intelligence,Natural Language Processing,Britannica,https://www.britannica.com/technology/natural-language-processing,1,complete
-Artificial Intelligence,Generative AI,Britannica,https://www.britannica.com/technology/generative-artificial-intelligence,1,complete
-Artificial Intelligence,Chatbots,Britannica,https://www.britannica.com/technology/chatbot,1,complete
-Artificial Intelligence,Deep Learning,Britannica,https://www.britannica.com/technology/deep-learning-artificial-intelligence,1,complete
-Artificial Intelligence,Turing Test,Britannica,https://www.britannica.com/science/Turing-test,1,complete
-Artificial Intelligence,AI Hallucinations,IBM,https://www.ibm.com/think/topics/ai-hallucinations,1,complete
-Artificial Intelligence,Recommendation Systems,IBM,https://www.ibm.com/topics/recommendation-engine,1,complete
-Artificial Intelligence,Reinforcement Learning,IBM,https://www.ibm.com/think/topics/reinforcement-learning,1,complete
-Artificial Intelligence,AI Ethics,IBM,https://www.ibm.com/think/topics/ai-ethics,1,complete
-Artificial Intelligence,Autonomous Vehicles,Britannica,https://www.britannica.com/technology/autonomous-vehicle,1,complete
-
-Internet Culture,Memes,Britannica,https://www.britannica.com/topic/meme,1,complete
-Internet Culture,Emojis,Britannica,https://www.britannica.com/topic/emoji,1,complete
-Internet Culture,Hashtags,Britannica,https://www.britannica.com/topic/hashtag,1,complete
-Internet Culture,Viral Content,Madedaily.com,https://madedaily.com/blog/wayback/the-evolution-of-viral-content,1,complete
-Internet Culture,GIFs,Discovermagazine.com,https://www.discovermagazine.com/what-is-the-history-of-the-gif-45381,1,complete
-Internet Culture,Podcasts,Britannica,https://www.britannica.com/topic/podcast,1,complete
-Internet Culture,Streaming,Britannica,https://www.britannica.com/topic/streaming-media,1,complete
-Internet Culture,Influencers,Britannica,https://www.britannica.com/topic/social-media-influencer,1,complete
-Internet Culture,Social Media,Britannica,https://www.britannica.com/topic/social-media,1,complete
-Internet Culture,Internet Communities,Britannica,https://www.britannica.com/topic/online-community,1,complete
-Internet Culture,Viral Challenges,The Falcon,https://thefalcon.kinkaid.org/2841/features/internet-challenges-came/,1,complete
-Internet Culture,Reaction GIFs,Smithsonian Magazine,https://www.smithsonianmag.com/history/brief-history-gif-early-internet-innovation-ubiquitous-relic-180963543/,1,complete
-Internet Culture,Reddit,Britannica,https://www.britannica.com/topic/Reddit,1,complete
-Internet Culture,Livestreaming,IBM,https://www.ibm.com/topics/live-streaming,1,complete
-Internet Culture,Internet Slang,McNutt & Partners,https://www.mcnuttpartners.com/linguistics-exploring-the-origins-of-internet-slang/,1,complete
-
-Video Games,Pac-Man,Britannica,https://www.britannica.com/topic/Pac-Man-video-game,1,complete
-Video Games,Nintendo,Britannica,https://www.britannica.com/topic/Nintendo-Company-Ltd,1,complete
-Video Games,PlayStation,Britannica,https://www.britannica.com/topic/PlayStation,1,complete
-Video Games,Minecraft,Britannica,https://www.britannica.com/topic/Minecraft-video-game,1,complete
-Video Games,Pokemon,Pokemon,https://corporate.pokemon.co.jp/en/aboutus/history/,1,complete
-Video Games,Atari,Britannica,https://kids.britannica.com/students/article/Atari-Inc/273095,1,complete
-Video Games,Arcade Games,Britannica,https://www.britannica.com/topic/electronic-game,1,complete
-Video Games,Esports,Britannica,https://www.britannica.com/sports/esports,1,complete
-Video Games,Virtual Worlds,Britannica,https://www.britannica.com/topic/virtual-reality,1,complete
-Video Games,Tetris,Britannica,https://www.britannica.com/topic/Tetris,1,complete
-Video Games,Zelda,Britannica,https://www.britannica.com/topic/The-Legend-of-Zelda,1,complete
-Video Games,Mario,History,https://www.history.com/articles/super-mario-history-nintendo-donkey-kong-facts,1,complete
-Video Games,Speedrunning,BBC,https://www.bbc.co.uk/programmes/articles/3YmM2yrG4rp9ZHG54pcKjgf/speedrunning-a-brief-history-of-the-gaming-phenomenon,1,complete
-Video Games,Easter Eggs,BBC Bitesize,https://www.bbc.co.uk/bitesize/articles/zcts46f,1,complete
-
-Movies,Silent Films,Britannica,https://www.britannica.com/topic/silent-film-era,1,complete
-Movies,Animation,Britannica,https://www.britannica.com/art/animation,1,complete
-Movies,Special Effects,Encyclopedia.com,https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/special-effects,1,complete
-Movies,Academy Awards,Oscars,https://www.oscars.org/oscars,1,complete
-Movies,IMAX,FilmAtlas,https://www.filmatlas.com/entry/244,1,complete
-Movies,Movie Cameras,Britannica,https://www.britannica.com/technology/camera,1,complete
-Movies,Film Editing,Encyclopedia.com,https://www.encyclopedia.com/arts/encyclopedias-almanacs-transcripts-and-maps/editing-film,1,complete
-Movies,3D Movies,Britannica,https://www.britannica.com/art/3-D-film,1,complete
-Movies,Documentaries,Britannica,https://www.britannica.com/art/documentary-film,1,complete
-Movies,Film Festivals,Britannica,https://www.britannica.com/art/film-festival,1,complete
-Movies,Stop Motion,Fathom Entertainment,https://www.fathomentertainment.com/blog/masters-of-stop-motion/,1,complete
-Movies,Pixar,Britannica,https://www.britannica.com/topic/Pixar-Animation-Studios,1,complete
-Movies,Movie Trailers,Brown Film Magazine,https://www.brownfilmmagazine.com/blog/history-of-trailers-will-havens,1,complete
-Movies,Movie Makeup,Britannica,https://www.britannica.com/art/makeup-performing-arts,1,complete
-Movies,Technicolor,Hollywood Reporter,https://www.hollywoodreporter.com/business/business-news/technicolor-rise-fall-hollywood-1236159788/,1,complete
-
-Music,Vinyl Records,Britannica,https://www.britannica.com/art/sound-recording,1,complete
-Music,Synthesizers,Britannica,https://www.britannica.com/art/music-synthesizer,1,complete
-Music,Electronic Music,Britannica,https://www.britannica.com/art/electronic-music,1,complete
-Music,Hip-Hop,Britannica,https://www.britannica.com/art/hip-hop,1,complete
-Music,Jazz,Britannica,https://www.britannica.com/art/jazz,1,complete
-Music,Rock Music,Britannica,https://www.britannica.com/art/rock,1,complete
-Music,Classical Music,Britannica,https://www.britannica.com/art/Western-music,1,complete
-Music,Musical Instruments,Britannica,https://www.britannica.com/art/musical-instrument,1,complete
-Music,Streaming Music,Britannica,https://www.britannica.com/topic/streaming-media,1,complete
-Music,Recording Studios,Britannica,https://www.britannica.com/art/sound-recording,1,complete
-Music,Drum Machines,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/history-tr-808-drum-machine-180975205/,1,complete
-Music,Auto-Tune,Britannica,https://www.britannica.com/technology/Auto-Tune,1,complete
-Music,Sampling,Library of Congress / Citizen DJ,https://citizen-dj.labs.loc.gov/guide/,1,complete
-Music,DJ Culture,PBS,https://www.pbs.org/opb/historydetectives/feature/the-art-of-turntablism/,1,complete
-Music,Music Festivals,TIME,https://time.com/5651255/business-of-music-festivals/,1,complete
-
-Sports,Olympic Games,Britannica,https://www.britannica.com/sports/Olympic-Games,1,complete
-Sports,Soccer,Britannica,https://www.britannica.com/sports/football-soccer,1,complete
-Sports,Basketball,Britannica,https://www.britannica.com/sports/basketball,1,complete
-Sports,Baseball,Britannica,https://www.britannica.com/sports/baseball,1,complete
-Sports,Tennis,Britannica,https://www.britannica.com/sports/tennis,1,complete
-Sports,Marathons,World Athletics,https://worldathletics.org/disciplines/road-running/marathon,1,complete
-Sports,Track and Field,World Athletics,https://worldathletics.org/disciplines,1,complete
-Sports,Swimming,Britannica,https://www.britannica.com/sports/swimming-sport,1,complete
-Sports,Golf,Britannica,https://www.britannica.com/sports/golf,1,complete
-Sports,World Records,Guinness World Records,https://www.guinnessworldrecords.com/,1,complete
-Sports,Surfing,Olympics,https://www.olympics.com/en/sports/surfing/,1,complete
-Sports,Skateboarding,Olympics,https://www.olympics.com/en/sports/skateboarding/,1,complete
-Sports,Formula 1,Formula 1,https://www.formula1.com/en/latest/article/drivers-teams-cars-circuits-and-more-everything-you-need-to-know-about.7iQfL3Rivf1comzdqV5jwc,1,complete
-Sports,Chess,Britannica,https://www.britannica.com/topic/chess,1,complete
-Sports,Parkour,Britannica,https://www.britannica.com/sports/parkour,1,complete
-
-Engineering,Lever,Britannica,https://www.britannica.com/science/lever,1,complete
-Engineering,Pulley,Britannica,https://www.britannica.com/technology/pulley,1,complete
-Engineering,Gear,Britannica,https://www.britannica.com/technology/gear,1,complete
-Engineering,Wheel,Britannica,https://www.britannica.com/technology/wheel,1,complete
-Engineering,Hydraulics,Britannica,https://www.britannica.com/technology/hydraulics,1,complete
-Engineering,Concrete,Britannica,https://www.britannica.com/technology/concrete-building-material,1,complete
-Engineering,Steel,Britannica,https://www.britannica.com/technology/steel,1,complete
-Engineering,Dams,Britannica,https://www.britannica.com/technology/dam-engineering,1,complete
-Engineering,Hydroelectric Power,Britannica,https://www.britannica.com/science/hydroelectric-power,1,complete
-Engineering,Bearings,Britannica,https://www.britannica.com/technology/bearing-machine-component,1,complete
-Engineering,Suspension Bridges,Britannica,https://www.britannica.com/technology/suspension-bridge,1,complete
-Engineering,Tunnels,Britannica,https://www.britannica.com/technology/tunnel,1,complete
-Engineering,Elevators,Britannica,https://www.britannica.com/technology/elevator-vertical-transport,1,complete
-Engineering,Cranes,Britannica,https://www.britannica.com/technology/crane-materials-handling,1,complete
-Engineering,Earthquake Engineering,Britannica,https://www.britannica.com/technology/earthquake-resistant-structure,1,complete
-
-Aviation,Aerodynamics,Britannica,https://www.britannica.com/science/aerodynamics,1,complete
-Aviation,Airplanes,Britannica,https://www.britannica.com/technology/airplane,1,complete
-Aviation,Jet Engines,Britannica,https://www.britannica.com/technology/jet-engine,1,complete
-Aviation,Helicopters,Britannica,https://www.britannica.com/technology/helicopter,1,complete
-Aviation,Concorde,Britannica,https://www.britannica.com/topic/Concorde,1,complete
-Aviation,Hot Air Balloons,Britannica,https://www.britannica.com/technology/hot-air-balloon,1,complete
-Aviation,Gliders,Britannica,https://www.britannica.com/technology/glider-aircraft,1,complete
-Aviation,Air Traffic Control,FAA,https://www.faa.gov/about/history/photo_album/air_traffic_control,1,complete
-Aviation,Flight Recorders,Britannica,https://www.britannica.com/technology/flight-recorder,1,complete
-Aviation,Supersonic Flight,Britannica,https://www.britannica.com/science/supersonic-flight,1,complete
-Aviation,Winglets,NASA Glenn Research Center,https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/winglets/,1,complete
-Aviation,Flying Boats,Hartzell Propeller,https://hartzellprop.com/history-of-seaplanes/,1,complete
-Aviation,Ejection Seats,Martin-Baker,https://martin-baker.com/our-history/,1,complete
-Aviation,Drones,FAA,https://www.faa.gov/uas,1,complete
-Aviation,Autopilot,Britannica,https://www.britannica.com/technology/automatic-pilot,1,complete
-
-Cars,Automobiles,Britannica,https://www.britannica.com/technology/automobile,1,complete
-Cars,Internal Combustion Engines,Britannica,https://www.britannica.com/technology/internal-combustion-engine,1,complete
-Cars,Electric Cars,Britannica,https://www.britannica.com/technology/electric-car,1,commplete
-Cars,Automobile Racing,Britannica,https://www.britannica.com/sports/automobile-racing,1,commplete
-Cars,Seat Belts,Britannica,https://www.britannica.com/technology/seat-belt,1,complete
-Cars,Hybrid Cars,Britannica,https://www.britannica.com/technology/How-Does-a-Hybrid-Car-Work,1,complete
-Cars,Cruise Control,Britannica,https://www.britannica.com/technology/cruise-control,1,complete
-Cars,Tires,Britannica,https://www.britannica.com/technology/tire,1,complete
-Cars,Transmission,Britannica,https://www.britannica.com/technology/automobile/Transmission,1,complete
-Cars,Brakes,Britannica,https://www.britannica.com/technology/brake,1,complete
-Cars,Airbags,NHTSA,https://www.nhtsa.gov/vehicle-safety/air-bags,1,complete
-Cars,Windshield Wipers,National Inventors Hall of Fame,https://www.invent.org/inductees/mary-anderson,1,complete
-Cars,Car Horns,Car and Driver,https://www.caranddriver.com/features/a20776837/meep-meep-the-history-and-evolution-of-car-horns-feature/,2,complete
-Cars,Crumple Zones,Travelers,https://www.travelers.com/resources/auto/safe-driving/how-crumple-zones-work,2,complete
-Cars,Crash Test Dummies,NHTSA,https://www.nhtsa.gov/nhtsas-crash-test-dummies,1,complete
-
-Physics,Gravity,Britannica,https://www.britannica.com/science/gravity-physics,1,complete
-Physics,Relativity,Britannica,https://www.britannica.com/science/relativity,1,complete
-Physics,Quantum Mechanics,Stanford Encyclopedia of Philosophy,https://plato.stanford.edu/entries/qm/,1,complete
-Physics,Light,Britannica,https://www.britannica.com/science/light,1,complete
-Physics,Sound,Britannica,https://www.britannica.com/science/sound-physics,1,complete
-Physics,Electricity,Britannica,https://www.britannica.com/science/electricity,1,complete
-Physics,Magnetism,Britannica,https://www.britannica.com/science/magnetism,1,complete
-Physics,Energy,Britannica,https://www.britannica.com/science/energy,1,complete
-Physics,Motion,Britannica,https://www.britannica.com/science/motion-physics,1,complete
-Physics,Time,Britannica,https://www.britannica.com/science/time,1,complete
-Physics,Friction,Britannica,https://www.britannica.com/science/friction,1,complete
-Physics,Inertia,NASA Glenn Research Center,https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/,1,complete
-Physics,Waves,Britannica,https://www.britannica.com/science/wave-physics,1,complete
-Physics,Lasers,Britannica,https://www.britannica.com/technology/How-Does-a-Laser-Work,1,complete
-Physics,Superconductors,CERN,https://home.cern/science/physics/superconductivity/,1,complete
-
-Chemistry,Atoms,Britannica,https://www.britannica.com/science/atom,1,complete
-Chemistry,Molecules,Britannica,https://www.britannica.com/science/molecule,1,complete
-Chemistry,Elements,Britannica,https://www.britannica.com/science/chemical-element,1,complete
-Chemistry,Periodic Table,Britannica,https://www.britannica.com/science/periodic-table,1,complete
-Chemistry,Chemical Reactions,Britannica,https://www.britannica.com/science/chemical-reaction,1,complete
-Chemistry,Covalent Bonds,Britannica,https://www.britannica.com/science/covalent-bond,1,complete
-Chemistry,Acids and Bases,Britannica,https://www.britannica.com/science/acid-base-reaction,1,complete
-Chemistry,States of Matter,Britannica,https://www.britannica.com/science/state-of-matter,1,complete
-Chemistry,Metals,Britannica,https://www.britannica.com/science/metal-chemistry,1,complete
-Chemistry,Radioactivity,Britannica,https://www.britannica.com/science/radioactivity,1,complete
-Chemistry,Combustion,Britannica,https://www.britannica.com/science/combustion,1,complete
-Chemistry,Oxidation,Britannica,https://www.britannica.com/science/oxidation-reduction-reaction,1,complete
-Chemistry,Polymers,Britannica,https://www.britannica.com/science/polymer,1,complete
-Chemistry,Catalysts,Britannica,https://www.britannica.com/science/catalyst,1,complete
-Chemistry,Crystals,Britannica,https://www.britannica.com/science/crystal,1,complete
-
-Mathematics,Pi,Britannica,https://www.britannica.com/science/pi-mathematics,1,complete
-Mathematics,Prime Numbers,Britannica,https://www.britannica.com/science/prime-number,1,complete
-Mathematics,Fibonacci Sequence,Britannica,https://www.britannica.com/science/Fibonacci-number,1,complete
-Mathematics,Infinity,Britannica,https://www.britannica.com/science/infinity-mathematics,1,complete
-Mathematics,Zero,Britannica,https://www.britannica.com/science/0-mathematics,1,complete
-Mathematics,Probability,Britannica,https://www.britannica.com/science/probability,1,complete
-Mathematics,Geometry,Britannica,https://www.britannica.com/science/geometry,1,complete
-Mathematics,Algebra,Britannica,https://www.britannica.com/science/algebra,1,complete
-Mathematics,Calculus,Britannica,https://www.britannica.com/science/calculus-mathematics,1,complete
-Mathematics,Fractals,Britannica,https://www.britannica.com/science/fractal,1,complete
-Mathematics,Golden Ratio,Britannica,https://www.britannica.com/science/golden-ratio,1,complete
-Mathematics,Chaos Theory,Britannica,https://www.britannica.com/science/chaos-theory,1,complete
-Mathematics,Game Theory,Britannica,https://www.britannica.com/science/game-theory,1,complete
-Mathematics,Logarithms,Britannica,https://www.britannica.com/science/logarithm,1,complete
-Mathematics,Topology,Britannica,https://www.britannica.com/science/topology,1,complete
-
-Business,Entrepreneurship,Britannica,https://www.britannica.com/topic/entrepreneur-business,1,complete
-Business,Branding,Investopedia,https://www.investopedia.com/terms/b/brand.asp,1,complete
-Business,Franchises,Investopedia,https://www.investopedia.com/terms/f/franchise.asp,1,complete
-Business,Stock Market,Investopedia,https://www.investopedia.com/terms/s/stockmarket.asp,1,complete
-Business,Startups,Investopedia,https://www.investopedia.com/terms/s/startup.asp,1,complete
-Business,Advertising,Britannica,https://www.britannica.com/topic/advertising,1,complete
-Business,Supply and Demand,Britannica,https://www.britannica.com/topic/supply-and-demand,1,complete
-Business,Trade,Britannica,https://www.britannica.com/topic/trade-economic-system,1,complete
-Business,Brands,Britannica,https://www.britannica.com/topic/trademark,1,complete
-Business,Corporations,Britannica,https://www.britannica.com/topic/corporation,1,complete
-Business,Monopolies,Britannica,https://www.britannica.com/money/monopoly-economics,1,complete
-Business,Patents,USPTO,https://www.uspto.gov/patents/basics/essentials,1,complete
-Business,Trademarks,USPTO,https://www.uspto.gov/trademarks/basics/what-trademark,1,complete
-Business,Business Cards,Smithsonian Magazine,https://www.smithsonianmag.com/smart-news/instead-cheesy-pickup-lines-19th-century-americans-gave-out-calling-cards-180957743/,1,complete
-Business,Trade Secrets,USPTO,https://www.uspto.gov/ip-policy/trade-secret-policy,1,complete
-
-Economics,Scarcity,Investopedia,https://www.investopedia.com/terms/s/scarcity.asp,1,complete
-Economics,Opportunity Cost,Investopedia,https://www.investopedia.com/terms/o/opportunitycost.asp,1,complete
-Economics,Inflation,Britannica,https://www.britannica.com/topic/inflation-economics,1,complete
-Economics,Recession,Britannica,https://www.britannica.com/topic/recession,1,complete
-Economics,Gross Domestic Product,Britannica,https://www.britannica.com/topic/gross-domestic-product,1,complete
-Economics,Taxes,Britannica,https://www.britannica.com/topic/taxation,1,complete
-Economics,Banking,Britannica,https://www.britannica.com/topic/bank,1,complete
-Economics,Currency,Britannica,https://www.britannica.com/topic/currency,1,complete
-Economics,Capitalism,Britannica,https://www.britannica.com/topic/capitalism,1,complete
-Economics,Globalization,Britannica,https://www.britannica.com/topic/globalization,1,complete
-Economics,Interest Rates,Britannica,https://www.britannica.com/money/interest-rates,1,complete
-Economics,Supply Chains,Britannica,https://www.britannica.com/money/what-is-supply-chain-management,1,complete
-Economics,Barter,Britannica,https://www.britannica.com/money/barter-trade,1,complete
-Economics,Economic Bubbles,Britannica,https://www.britannica.com/money/dot-com-bubble,1,complete
-Economics,Minimum Wage,Britannica,https://www.britannica.com/money/minimum-wage,1,complete
-
-Literature,Poetry,Britannica,https://www.britannica.com/art/poetry,1,complete
-Literature,Novels,Britannica,https://www.britannica.com/art/novel,1,complete
-Literature,Shakespeare,Britannica,https://www.britannica.com/biography/William-Shakespeare,1,complete
-Literature,Fairy Tales,Britannica,https://www.britannica.com/art/fairy-tale,1,complete
-Literature,Myths,Britannica,https://www.britannica.com/topic/myth,1,complete
-Literature,Legends,Britannica,https://www.britannica.com/art/legend-literature,1,complete
-Literature,Libraries,Britannica,https://www.britannica.com/topic/library,1,complete
-Literature,Comics,Britannica,https://www.britannica.com/art/comic-strip,1,complete
-Literature,Printing,Britannica,https://www.britannica.com/technology/printing-press,1,complete
-Literature,Storytelling,Britannica,https://www.britannica.com/art/storytelling,1,complete
-Literature,Banned Books,Britannica,https://www.britannica.com/topic/book-banning,1,complete
-Literature,Pulp Fiction Covers,Public Domain Review,https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914,1,complete
-Literature,Anonymous Authors,Royal Literary Fund,https://www.rlf.org.uk/posts/pseudonyms/,1,complete
-Literature,Epic Poems,Britannica,https://www.britannica.com/art/epic,1,complete
-Literature,Detective Fiction,Britannica,https://www.britannica.com/art/detective-story-narrative-genre,1,complete
-
-Languages,Writing Systems,Britannica,https://www.britannica.com/topic/writing,1,complete
-Languages,Alphabet,Britannica,https://www.britannica.com/topic/alphabet-writing,1,complete
-Languages,Hieroglyphics,Britannica,https://www.britannica.com/topic/hieroglyphic-writing,1,complete
-Languages,Morse Code,Britannica,https://www.britannica.com/topic/Morse-Code,1,complete
-Languages,Sign Language,Britannica,https://www.britannica.com/topic/sign-language,1,complete
-Languages,Emojis,Britannica,https://www.britannica.com/topic/emoji,1,complete
-Languages,Dictionaries,Word Connection,https://www.word-connection.com/blogs/a-brief-history-of-dictionaries,1,complete
-Languages,Translation,Atlas Language Services,https://atlasls.com/the-history-of-translation/,1,complete
-Languages,Ancient Languages,Britannica,https://www.history.com/articles/oldest-language,1,complete
-Languages,Endangered Languages,Britannica,https://www.britannica.com/topic/language,1,complete
-Languages,Palindromes,Britannica,https://www.britannica.com/art/palindrome,1,complete
-Languages,Tongue Twisters,Britannica,https://www.britannica.com/topic/tongue-twister,1,complete
-Languages,Accents,Smithsonian Magazine,https://www.smithsonianmag.com/history/a-brief-history-of-the-united-states-accents-and-dialects-180983591/,1,complete
-Languages,Loanwords,Britannica,https://www.britannica.com/topic/loanword,1,complete
-Languages,Punctuation,Britannica,https://www.britannica.com/topic/punctuation,2,complete
-
-Architecture,Skyscrapers,Britannica,https://www.britannica.com/technology/skyscraper,1,complete
-Architecture,Bridges,Britannica,https://www.britannica.com/technology/bridge-engineering,1,complete
-Architecture,Castles,HowStuffWorks,https://history.howstuffworks.com/historical-figures/castle1.htm,1,complete
-Architecture,Pyramids,Britannica,https://www.britannica.com/topic/pyramid-architecture,1,complete
-Architecture,Gothic Architecture,Britannica,https://www.britannica.com/art/Gothic-architecture,1,complete
-Architecture,Ancient Temples,Britannica,https://www.britannica.com/topic/temple-building,1,complete
-Architecture,Urban Planning,Britannica,https://www.britannica.com/topic/urban-planning,1,complete
-Architecture,Concrete,Britannica,https://www.britannica.com/technology/concrete-building-material,1,complete
-Architecture,Domes,Britannica,https://www.britannica.com/technology/dome-architecture,1,complete
-Architecture,Arches,Britannica,https://www.britannica.com/technology/arch-architecture,1,complete
-Architecture,Columns,Britannica,https://www.britannica.com/technology/column-architecture,1,complete
-Architecture,Courtyards,Britannica,https://www.britannica.com/technology/court-architecture,1,complete
-Architecture,Glass Buildings,Britannica,https://www.britannica.com/technology/curtain-wall,1,complete
-Architecture,Brutalism,Britannica,https://www.britannica.com/art/Brutalism-architecture,1,complete
-Architecture,Bauhaus,Britannica,https://www.britannica.com/topic/Bauhaus,1,complete
-
-Myths & Legends,Dragons,Britannica,https://www.britannica.com/topic/dragon-mythological-creature,1,complete
-Myths & Legends,Phoenix,Britannica,https://www.britannica.com/topic/phoenix-mythological-bird,1,complete
-Myths & Legends,Unicorns,Britannica,https://www.britannica.com/topic/unicorn,1,complete
-Myths & Legends,Mermaids,Britannica,https://www.britannica.com/topic/mermaid,1,complete
-Myths & Legends,Norse Mythology,World History Encyclopedia,https://www.worldhistory.org/Norse_Mythology/,1,complete
-Myths & Legends,Greek Mythology,Britannica,https://www.britannica.com/topic/Greek-mythology,1,complete
-Myths & Legends,Egyptian Religion,Britannica,https://www.britannica.com/topic/Egyptian-religion,1,complete
-Myths & Legends,Atlantis,Britannica,https://www.britannica.com/topic/Atlantis-legendary-island,1,complete
-Myths & Legends,Sasquatch,Britannica,https://www.britannica.com/topic/sasquatch,1,complete
-Myths & Legends,Loch Ness Monster,Britannica,https://www.britannica.com/topic/Loch-Ness-monster-legendary-creature,1,complete
-Myths & Legends,Yeti,Britannica,https://www.britannica.com/topic/Abominable-Snowman,1,complete
-Myths & Legends,Kraken,Britannica,https://www.britannica.com/topic/kraken,1,complete
-Myths & Legends,Minotaur,Britannica,https://www.britannica.com/topic/Minotaur,1,complete
-Myths & Legends,Werewolves,Britannica,https://www.britannica.com/art/werewolf,1,complete
-Myths & Legends,Fairies,Britannica,https://www.britannica.com/art/fairy,1,complete
-Myths & Legends,King Arthur,Britannica,https://www.britannica.com/topic/King-Arthur,1,complete
-
-Mysteries,Bermuda Triangle,Britannica,https://www.britannica.com/place/Bermuda-Triangle,1,complete
-Mysteries,Stonehenge,Britannica,https://www.britannica.com/topic/Stonehenge,1,complete
-Mysteries,Nazca Lines,Britannica,https://www.britannica.com/place/Nazca-Lines,1,complete
-Mysteries,Easter Island,Britannica,https://www.britannica.com/place/Easter-Island,1,complete
-Mysteries,Roanoke Colony,Britannica,https://www.britannica.com/place/Roanoke-Island,1,complete
-Mysteries,Voynich Manuscript,Britannica,https://www.britannica.com/topic/Voynich-manuscript,1,complete
-Mysteries,Area 51,Britannica,https://www.britannica.com/place/Area-51,1,complete
-Mysteries,Crop Circles,Britannica,https://www.britannica.com/topic/crop-circle,1,complete
-Mysteries,UFOs,Britannica,https://www.britannica.com/topic/unidentified-flying-object,1,complete
-Mysteries,Amelia Earhart,Britannica,https://www.britannica.com/biography/Amelia-Earhart,1,complete
-Mysteries,Dyatlov Pass,National Geographic,https://www.nationalgeographic.com/premium/article/has-science-solved-history-greatest-adventure-mystery-dyatlov,1,complete
-Mysteries,Oak Island,The Canadian Encyclopedia,https://thecanadianencyclopedia.ca/en/article/oak-island,1,complete
-Mysteries,Antikythera Mechanism,Britannica,https://www.britannica.com/topic/Antikythera-mechanism,1,complete
-Mysteries,Taos Hum,Thrillist,https://www.thrillist.com/travel/nation/taos-hum-mystery,2,complete
-Mysteries,Wow! Signal,SETI Institute,https://www.seti.org/news/the-wow-signal-a-lingering-mystery-or-a-natural-phenomenon//,1,complete
-
-Medicine,Vaccines,Britannica,https://www.britannica.com/science/vaccine,1,complete
-Medicine,Antibiotics,Britannica,https://www.britannica.com/science/antibiotic,1,complete
-Medicine,Blood Types,Britannica,https://www.britannica.com/science/blood-group,1,complete
-Medicine,X-Rays,Britannica,https://www.britannica.com/science/X-ray,1,complete
-Medicine,MRI,Britannica,https://www.britannica.com/science/magnetic-resonance-imaging,1,complete
-Medicine,Anesthesia,Britannica,https://www.britannica.com/science/anesthesia,1,complete
-Medicine,Germ Theory,Britannica,https://www.britannica.com/science/germ-theory,1,complete
-Medicine,Stethoscope,Britannica,https://www.britannica.com/science/stethoscope,1,complete
-Medicine,Transplant Surgery,Britannica,https://www.britannica.com/science/transplant-surgery,1,complete
-Medicine,Diagnostic Imaging,Britannica,https://www.britannica.com/science/diagnostic-imaging,1,complete
-Medicine,Placebo Effect,Britannica,https://www.britannica.com/science/placebo-effect,1,complete
-Medicine,Insulin,Britannica,https://www.britannica.com/science/insulin,1,complete
-Medicine,Blood Transfusions,American Red Cross,https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood/blood-transfusions/history-blood-transfusion.html,1,complete
-Medicine,Prosthetics,Britannica,https://www.britannica.com/science/prosthesis,1,complete
-Medicine,Medical Robots,Cleveland Clinic,https://my.clevelandclinic.org/health/treatments/22178-robotic-surgery,1,complete
-
-Geography,Volcanoes,Britannica,https://www.britannica.com/science/volcano,1,complete
-Geography,Mountains,Britannica,https://www.britannica.com/science/mountain-landform,1,complete
-Geography,Rivers,Britannica,https://www.britannica.com/science/river,1,complete
-Geography,Deserts,Britannica,https://www.britannica.com/science/desert,1,complete
-Geography,Islands,Britannica,https://www.britannica.com/science/island,1,complete
-Geography,Glaciers,Britannica,https://www.britannica.com/science/glacier,1,complete
-Geography,Lakes,Britannica,https://www.britannica.com/science/lake,1,complete
-Geography,Valleys,Britannica,https://www.britannica.com/science/valley,1,complete
-Geography,Plate Tectonics,Britannica,https://www.britannica.com/science/plate-tectonics,1,complete
-Geography,Oceans,Britannica,https://www.britannica.com/science/ocean,1,complete
-Geography,Caves,National Park Service,https://www.nps.gov/subjects/caves/making-a-cave.htm,1,complete
-Geography,Waterfalls,National Geographic Education,https://education.nationalgeographic.org/resource/waterfall/,1,complete
-Geography,Fjords,National Geographic Education,https://education.nationalgeographic.org/resource/fjord/,1,complete
-Geography,Rainforests,National Geographic Education,https://education.nationalgeographic.org/resource/rain-forest/,1,complete
-Geography,Coral Islands,Britannica,https://www.britannica.com/science/coral-island,1,complete
-
-Weather,Tornadoes,Britannica,https://www.britannica.com/science/tornado,1,complete
-Weather,Hurricanes,Britannica,https://www.britannica.com/science/tropical-cyclone,1,complete
-Weather,Lightning,Britannica,https://www.britannica.com/science/lightning-meteorology,1,complete
-Weather,Atmosphere,Britannica,https://www.britannica.com/science/atmosphere,1,complete
-Weather,Clouds,Britannica,https://www.britannica.com/science/cloud-meteorology,1,complete
-Weather,Snow,Britannica,https://www.britannica.com/science/snow-weather,1,complete
-Weather,Thunder,Britannica,https://www.britannica.com/science/thunder,1,complete
-Weather,Climate,Britannica,https://www.britannica.com/science/climate-meteorology,1,complete
-Weather,Seasons,Britannica,https://www.britannica.com/science/season,1,complete
-Weather,Aurora,Britannica,https://www.britannica.com/science/aurora-atmospheric-phenomenon,1,complete
-Weather,Rainbows,NOAA NESDIS,https://www.nesdis.noaa.gov/about/k-12-education/optical-phenomena/what-causes-rainbow,1,complete
-Weather,Fog,National Weather Service,https://www.weather.gov/source/zhu/ZHU_Training_Page/fog_stuff/fog_definitions/Fog_definitions.html,1,complete
-Weather,Hail,NOAA National Severe Storms Laboratory,https://www.nssl.noaa.gov/education/svrwx101/hail/types/,1,complete
-Weather,Monsoons,National Geographic Education,https://education.nationalgeographic.org/resource/monsoon/,1,complete
-Weather,El Niño,NOAA Ocean Service,https://oceanservice.noaa.gov/facts/ninonina.html,1,complete
-
-Inventions,Wheel,Britannica,https://www.britannica.com/technology/wheel,1,complete
-Inventions,Printing Press,Britannica,https://www.britannica.com/technology/printing-press,1,complete
-Inventions,Telephone,Britannica,https://www.britannica.com/technology/telephone,1,complete
-Inventions,Light Bulb,Britannica,https://www.britannica.com/technology/lightbulb,1,complete
-Inventions,Radio,Britannica,https://www.britannica.com/technology/radio,1,complete
-Inventions,Television,Britannica,https://www.britannica.com/technology/television-technology,1,complete
-Inventions,GPS,Britannica,https://www.britannica.com/technology/GPS,1,complete
-Inventions,Internet,Britannica,https://www.britannica.com/topic/Internet,1,complete
-Inventions,QR Codes,Britannica,https://www.britannica.com/technology/QR-Code,1,complete
-Inventions,Batteries,Britannica,https://www.britannica.com/technology/battery-electronics,1,complete
-Inventions,Velcro,National Inventors Hall of Fame,https://www.invent.org/inductees/george-de-mestral,1,complete
-Inventions,Barcode,National Inventors Hall of Fame,https://www.invent.org/inductees/bernard-silver,1,complete
-Inventions,Ballpoint Pen,National Inventors Hall of Fame,https://www.invent.org/inductees/laszlo-josef-biro,1,complete
-Inventions,Safety Pin,National Inventors Hall of Fame,https://www.invent.org/inductees/walter-hunt,1,complete
-Inventions,Post-it Notes,National Inventors Hall of Fame,https://www.invent.org/blog/trends-stem/who-invented-post-it-notes,1,complete
-
-Religion & Beliefs,Myth,Britannica,https://www.britannica.com/topic/myth,1,complete
-Religion & Beliefs,Religion,Britannica,https://www.britannica.com/topic/religion,1,complete
-Religion & Beliefs,Christianity,Britannica,https://www.britannica.com/topic/Christianity,1,complete
-Religion & Beliefs,Islam,Britannica,https://www.britannica.com/topic/Islam,1,complete
-Religion & Beliefs,Hinduism,Britannica,https://www.britannica.com/topic/Hinduism,1,complete
-Religion & Beliefs,Buddhism,Britannica,https://www.britannica.com/topic/Buddhism,1,complete
-Religion & Beliefs,Judaism,Britannica,https://www.britannica.com/topic/Judaism,1,complete
-Religion & Beliefs,Monotheism,Britannica,https://www.britannica.com/topic/monotheism,1,complete
-Religion & Beliefs,Iconography,Britannica,https://www.britannica.com/art/iconography,1,complete
-Religion & Beliefs,Pilgrimage,Britannica,https://www.britannica.com/topic/pilgrimage-religion,1,complete
-Religion & Beliefs,Ritual,Britannica,https://www.britannica.com/topic/ritual,1,complete
-Religion & Beliefs,Sacred Texts,Britannica,https://www.britannica.com/topic/scripture,1,complete
-Religion & Beliefs,Monasteries,Britannica,https://www.britannica.com/topic/monasticism,1,complete
-Religion & Beliefs,Prayer Beads,Britannica,https://www.britannica.com/topic/rosary,1,complete
-Religion & Beliefs,Religious Calendars,Britannica,https://www.britannica.com/science/calendar/Ancient-and-religious-calendar-systems,1,complete
-Religion & Beliefs,Fasting,Britannica,https://www.britannica.com/topic/fasting,1,complete
-
-Dinosaurs,Tyrannosaurus Rex,Britannica,https://www.britannica.com/animal/Tyrannosaurus-rex,1,complete
-Dinosaurs,Velociraptor,Britannica,https://www.britannica.com/animal/Velociraptor,1,complete
-Dinosaurs,Triceratops,Britannica,https://www.britannica.com/animal/Triceratops,1,complete
-Dinosaurs,Stegosaurus,Britannica,https://www.britannica.com/animal/Stegosaurus,1,complete
-Dinosaurs,Fossils,Britannica,https://www.britannica.com/science/fossil,1,complete
-Dinosaurs,Ankylosaurus,Britannica,https://www.britannica.com/animal/Ankylosaurus,1,complete
-Dinosaurs,Brachiosaurus,Britannica,https://www.britannica.com/animal/brachiosaur,1,complete
-Dinosaurs,Iguanodon,Britannica,https://www.britannica.com/animal/Iguanodon,1,complete
-Dinosaurs,Dinosaur Eggs,American Museum of Natural History,https://www.amnh.org/dinosaurs/dinosaur-eggs,1,complete
-Dinosaurs,Dinosaur Extinction,Britannica,https://www.britannica.com/science/K-T-extinction,1,complete
-
-Ancient Creatures,Megalodon,Britannica,https://www.britannica.com/animal/megalodon,1,complete
-Ancient Creatures,Saber-Toothed Cats,Britannica,https://www.britannica.com/animal/saber-toothed-cat,1,complete
-Ancient Creatures,Woolly Mammoths,Britannica,https://www.britannica.com/animal/woolly-mammoth,1,complete
-Ancient Creatures,Giant Sloths,Britannica,https://www.britannica.com/animal/Megatherium,1,complete
-Ancient Creatures,Terror Birds,Florida Museum of Natural History,https://www.floridamuseum.ufl.edu/science/terror-bird-arrived-in-north-america-before-land-bridge/,1,complete
-Ancient Creatures,Trilobites,American Museum of Natural History,https://www.amnh.org/research/paleontology/collections/fossil-invertebrate-collection/trilobite-website,1,complete
-Ancient Creatures,Dunkleosteus,American Museum of Natural History,https://www.amnh.org/exhibitions/permanent/vertebrate-origins/dunkleosteus,1,complete
-Ancient Creatures,Archaeopteryx,Britannica,https://www.britannica.com/animal/Archaeopteryx,1,complete
-Ancient Creatures,Mosasaurs,Britannica,https://www.britannica.com/animal/mosasaur,1,complete
-Ancient Creatures,Dire Wolves,Britannica,https://www.britannica.com/animal/dire-wolf,1,complete
-
-Pirates,Blackbeard,Britannica,https://www.britannica.com/biography/Blackbeard,1,complete
-Pirates,Pirate Ships,Smithsonian National Museum of American History,https://americanhistory.si.edu/explore/exhibitions/on-the-water/online/living-atlantic-world/pirates/arsenal,1,complete
-Pirates,Treasure Maps,National Geographic,https://www.nationalgeographic.com/culture/article/pirate-maps-all-over-the-map,1,complete
-Pirates,Jolly Roger,Britannica,https://www.britannica.com/topic/Jolly-Roger,1,complete
-Pirates,Female Pirates,Royal Museums Greenwich,https://www.rmg.co.uk/stories/maritime-history/real-pirates-anne-bonny-mary-read,1,complete
-Pirates,Pirate Codes,New England Pirate Museum,https://www.piratemuseum.com/edagreem.htm,2,complete
-Pirates,Buccaneers,Britannica,https://www.britannica.com/topic/buccaneer,1,complete
-Pirates,Privateers,Britannica,https://www.britannica.com/technology/privateer,1,complete
-Pirates,Captain Kidd,Britannica,https://www.britannica.com/biography/William-Kidd,1,complete
-Pirates,Pirate Havens,Smithsonian Magazine,https://www.smithsonianmag.com/smart-news/shipwrecks-discovered-near-the-bahamas-tantalize-researchers-with-possible-ties-to-the-real-pirates-of-the-caribbean-180988901/,1,complete
-
-Castles & Fortresses,Moats,World History Encyclopedia,https://www.worldhistory.org/Medieval_Castle/,2,complete
-Castles & Fortresses,Drawbridges,Britannica,https://www.britannica.com/technology/military-technology/The-castle,1,complete
-Castles & Fortresses,Medieval Castles,Britannica,https://www.britannica.com/technology/castle-architecture,1,complete
-Castles & Fortresses,Japanese Castles,Britannica,https://www.britannica.com/art/Japanese-architecture/The-Azuchi-Momoyama-period,1,complete
-Castles & Fortresses,Fortresses,English Heritage,https://www.english-heritage.org.uk/castles/castles-through-time/,1,complete
-Castles & Fortresses,Castle Keeps,World History Encyclopedia,https://www.worldhistory.org/Castle_Keep/,2,complete
-Castles & Fortresses,Siege Towers,Britannica,https://www.britannica.com/technology/siege-tower,1,complete
-Castles & Fortresses,Battlements,Britannica,https://www.britannica.com/technology/battlement,1,complete
-Castles & Fortresses,Dungeon Myths,Exploring Castles,https://www.exploring-castles.com/castle_designs/castle_dungeon/,3,complete
-Castles & Fortresses,Hillforts,Historic Environment Scotland,https://www.historicenvironment.scot/visit-a-place/places/castlelaw-hill-fort/,1,complete
-
-Famous Disasters,Pompeii,Britannica,https://www.britannica.com/place/Pompeii,1,complete
-Famous Disasters,Chernobyl,Britannica,https://www.britannica.com/event/Chernobyl-disaster,1,complete
-Famous Disasters,Hindenburg,Smithsonian National Postal Museum,https://postalmuseum.si.edu/exhibition/fire-ice-hindenburg-and-titanic-exhibition/the-hindenburg-disaster,1,complete
-Famous Disasters,Krakatoa,Britannica,https://www.britannica.com/place/Krakatoa,1,complete
-Famous Disasters,Great Molasses Flood,Smithsonian Magazine,https://www.smithsonianmag.com/history/without-warning-molasses-january-surged-over-boston-180971251/,1,complete
-Famous Disasters,Dust Bowl,National Geographic Education,https://education.nationalgeographic.org/resource/dust-bowl/,1,complete
-Famous Disasters,Great Fire of London,London Museum,https://www.londonmuseum.org.uk/collections/london-stories/great-fire-of-london/,1,complete
-Famous Disasters,Fukushima,Britannica,https://www.britannica.com/event/Fukushima-accident,1,complete
-Famous Disasters,Challenger Disaster,NASA,https://www.nasa.gov/missions/space-shuttle/sts-51l/challenger-crew-report/,1,complete
-Famous Disasters,Great Chicago Fire,Britannica,https://www.britannica.com/event/Chicago-fire-of-1871,1,complete
-
-Strange Jobs,Lighthouse Keepers,Smithsonian Institution Archives,https://siarchives.si.edu/collections/siris_sic_317,1,complete
-Strange Jobs,Food Tasters,NC State Sensory Service Center,https://sensory.ncsu.edu/evaluation/,1,complete
-Strange Jobs,Falconers,The Archives of Falconry,https://falconry.org/virtual_exhibits/falconry_timeline/,2,complete
-Strange Jobs,Snake Milkers,Britannica,https://www.britannica.com/animal/spitting-cobra-group,1,complete
-Strange Jobs,Tea Tasters,Smithsonian Magazine,https://www.smithsonianmag.com/smart-news/fda-used-have-people-whose-job-was-taste-tea-180967545/,1,complete
-Strange Jobs,Professional Sleepers,NASA,https://www.nasa.gov/hrp/bedrest-faqs/,1,complete
-Strange Jobs,Odor Judges,Monell Chemical Senses Center,https://monell.org/potential-new-causes-for-the-odor-producing-disorder-tmau/,1,complete
-Strange Jobs,Foley Artists,FilmSound.org,https://www.filmsound.org/terminology/foley.htm,2,complete
-Strange Jobs,Pearl Divers,Britannica Kids,https://kids.britannica.com/students/article/Australian-pearling-industry/629336,1,complete
-Strange Jobs,Forensic Entomologists,Natural History Museum,https://www.nhm.ac.uk/discover/murder-maggots-forensic-entomology.html,1,complete
-
-Everyday Objects,Zippers,Britannica,https://www.britannica.com/art/zipper,1,complete
-Everyday Objects,Paper Clips,Michigan State University Campus Archaeology Program,https://campusarch.msu.edu/?p=1503,1,complete
-Everyday Objects,Toothbrushes,Library of Congress,https://www.loc.gov/everyday-mysteries/technology/item/who-invented-the-toothbrush-and-when-was-it-invented/,1,complete
-Everyday Objects,Umbrellas,Britannica,https://www.britannica.com/technology/umbrella,1,complete
-Everyday Objects,Mirrors,Britannica,https://www.britannica.com/technology/mirror-optics,1,complete
-Everyday Objects,Buttons,Britannica,https://www.britannica.com/topic/button-clothing-accessory,1,complete
-Everyday Objects,Keys,National Inventors Hall of Fame,https://www.invent.org/inductees/linus-yale-jr,1,complete
-Everyday Objects,Shoelaces,Lock Laces,https://www.locklaces.com/blogs/resources/history-of-shoes-shoelaces?srsltid=AfmBOorY68gYu4EI1bR7saNzuk65QKUXjf7y-kswJajtO0gpumh3RGOH,3,complete
-Everyday Objects,Pencils,Britannica,https://www.britannica.com/technology/pencil-writing-implement,1,complete
-Everyday Objects,Forks,Britannica,https://www.britannica.com/topic/flatware,1,complete
-
-Household Science,Soap,Britannica,https://www.britannica.com/story/how-does-soap-work,1,complete
-Household Science,Refrigerators,Britannica,https://www.britannica.com/technology/refrigeration,1,complete
-Household Science,Microwaves,National Inventors Hall of Fame,https://www.invent.org/inductees/percy-l-spencer,1,complete
-Household Science,Vacuum Cleaners,Science Museum,https://www.sciencemuseum.org.uk/objects-and-stories/everyday-wonders/invention-vacuum-cleaner,1,complete
-Household Science,Dishwashers,National Inventors Hall of Fame,https://www.invent.org/inductees/josephine-garis-cochran,1,complete
-Household Science,Nonstick Pans,Smithsonian Magazine,https://www.smithsonianmag.com/science-nature/the-long-strange-history-of-teflon-the-indestructible-product-nothing-seems-to-stick-to-180984920/,1,complete
-Household Science,Laundry Detergent,Britannica,https://www.britannica.com/technology/detergent,1,complete
-Household Science,Air Conditioning,National Inventors Hall of Fame,https://www.invent.org/inductees/willis-haviland-carrier,1,complete
-Household Science,Smoke Detectors,NIST,https://www.nist.gov/fire/history/1970s/driving-residential-smoke-alarm-adoption-1970s,1,complete
-Household Science,Light Switches,Design Museum,https://designmuseum.org/exhibitions/home-futures/the-light-switch,2,complete
-
-Famous Symbols,Peace Symbol,Britannica,https://www.britannica.com/story/where-did-the-peace-sign-come-from,1,complete
-Famous Symbols,Yin Yang,Britannica,https://www.britannica.com/topic/yinyang,1,complete
-Famous Symbols,Skull and Crossbones,MySafetySign,https://www.mysafetysign.com/poison-symbol-history?srsltid=AfmBOopk0jViUCOb1mfpq7S3ilcakoBUiZQSqWkRWuF3TrmLPzZvOgJD,3,complete
-Famous Symbols,Recycling Symbol,Grist,https://grist.org/culture/recycling-symbol-logo-plastic-design/,3,complete
-Famous Symbols,Infinity Symbol,Britannica,https://www.britannica.com/science/infinity-mathematics,1,complete
-Famous Symbols,Ampersand,Merriam-Webster,https://www.merriam-webster.com/dictionary/ampersand,2,complete
-Famous Symbols,Dollar Sign,U.S. Currency Education Program,https://www.uscurrency.gov/history,1,complete
-Famous Symbols,Heart Symbol,History Facts,https://historyfacts.com/arts-culture/article/where-did-the-heart-symbol-come-from/,3,complete
-Famous Symbols,Question Mark,The Punctuation Guide,https://www.thepunctuationguide.com/question-mark.html,2,complete
-Famous Symbols,Check Mark,Symbols.com,https://www.symbols.com/symbol/check-mark,3,complete
-
-Colors,Blue,Britannica,https://www.britannica.com/science/blue-color,1,complete
-Colors,Purple,Britannica,https://www.britannica.com/science/purple-color,1,complete
-Colors,Gold,Art UK,https://artuk.org/discover/stories/colour-in-art-a-brief-history-of-gold,2,complete
-Colors,Black,Britannica,https://www.britannica.com/science/black-color,1,complete
-Colors,Pink,Britannica,https://www.britannica.com/story/has-pink-always-been-a-girly-color,1,complete
-Colors,Red,Britannica,https://www.britannica.com/science/red-color,1,complete
-Colors,Green,Britannica,https://www.britannica.com/science/green-color,1,complete
-Colors,White,Britannica,https://www.britannica.com/science/white-color,1,complete
-Colors,Orange,Britannica,https://www.britannica.com/science/orange-color,1,complete
-Colors,Indigo,Britannica,https://www.britannica.com/technology/indigo-dye,1,complete
-
-Sleep & Dreams,Lucid Dreaming,Cleveland Clinic,https://health.clevelandclinic.org/lucid-dreams,1,complete
-Sleep & Dreams,Nightmares,Cleveland Clinic,https://health.clevelandclinic.org/what-causes-nightmares,1,complete
-Sleep & Dreams,Sleepwalking,Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/14292-sleepwalking,1,complete
-Sleep & Dreams,Circadian Rhythm,NIH / NIGMS,https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms,1,complete
-Sleep & Dreams,REM Sleep,NIH / NCBI Bookshelf,https://www.ncbi.nlm.nih.gov/books/NBK526132/,1,complete
-Sleep & Dreams,Sleep Paralysis,Sleep Foundation,https://www.sleepfoundation.org/parasomnias/sleep-paralysis,2,complete
-Sleep & Dreams,Naps,Sleep Foundation,https://www.sleepfoundation.org/napping,2,complete
-Sleep & Dreams,Snoring,MedlinePlus,https://medlineplus.gov/snoring.html,1,complete
-Sleep & Dreams,Hibernation,Britannica,https://www.britannica.com/science/hibernation,1,complete
-Sleep & Dreams,Insomnia,NIH / NHLBI,https://www.nhlbi.nih.gov/health/insomnia,1,complete
-
-Illusions & Perception,Mirage,Britannica,https://www.britannica.com/topic/mirage-optical-illusion,1,complete
-Illusions & Perception,Color Illusions,Exploratorium,https://www.exploratorium.edu/snacks/colored-shadows,1,complete
-Illusions & Perception,Pareidolia,EBSCO,https://www.ebsco.com/research-starters/health-and-medicine/pareidolia,2,complete
-Illusions & Perception,Impossible Shapes,Illusions Index,https://www.illusionsindex.org/i/impossible-trident,2,complete
-Illusions & Perception,Motion Illusions,Illusions Index,https://www.illusionsindex.org/i/rotating-snakes,2,complete
-Illusions & Perception,The Dress,Scientific American,https://www.scientificamerican.com/blog/illusion-chasers/the-current-biology-of-the-dress/,2,complete
-Illusions & Perception,Blind Spots,Exploratorium,https://www.exploratorium.edu/snacks/blind-spot,1,complete
-Illusions & Perception,Depth Perception,Britannica,https://www.britannica.com/science/space-perception,1,complete
-Illusions & Perception,Afterimages,Exploratorium,https://www.exploratorium.edu/snacks/afterimage,1,complete
-Illusions & Perception,Forced Perspective,Nashville Film Institute,https://www.nfi.edu/forced-perspective/,2,complete
-
-Secret Codes,Caesar Cipher,Britannica,https://www.britannica.com/topic/Caesar-cipher,1,complete
-Secret Codes,Enigma Machine,Britannica,https://www.britannica.com/topic/Enigma-German-code-device,1,complete
-Secret Codes,Pigpen Cipher,Crypto Corner,https://crypto.interactive-maths.com/pigpen-cipher.html,2,complete
-Secret Codes,Navajo Code Talkers,Smithsonian National Museum of the American Indian,https://americanindian.si.edu/why-we-serve/topics/code-talkers/,1,complete
-Secret Codes,Semaphore,Britannica,https://www.britannica.com/technology/semaphore,1,complete
-Secret Codes,Cryptography,Britannica,https://www.britannica.com/topic/cryptography,1,complete
-Secret Codes,Book Cipher,Derek Bruff / Vanderbilt University,https://derekbruff.org/blogs/fywscrypto/historical-crypto/whats-in-a-book-a-brief-history-of-book-ciphers/,2,complete
-Secret Codes,One-Time Pad,Crypto Museum,https://www.cryptomuseum.com/crypto/otp/index.htm,2,complete
-Secret Codes,Scytale,Science and Media Museum,https://blog.scienceandmediamuseum.org.uk/top-secret-ciphers-from-ancient-greece-to-the-second-world-war/,2,complete
-Secret Codes,Steganography,CompTIA,https://www.comptia.org/en-us/blog/the-ancient-practice-of-steganography/,2,complete
-
-Superstitions,Friday the 13th,Britannica,https://www.britannica.com/topic/Friday-the-13th-superstition,1,complete
-Superstitions,Lucky Numbers,Britannica,https://www.britannica.com/topic/number-symbolism,1,complete
-Superstitions,Four-Leaf Clovers,Better Homes & Gardens,https://www.bhg.com/holidays/st-patricks-day/traditions/fun-facts-about-four-leaf-clovers/,2,complete
-Superstitions,Horseshoes,Kentucky Derby Museum,https://www.derbymuseum.org/hoofnotes/the-legend-of-the-horseshoe,2,complete
-Superstitions,Knocking on Wood,HISTORY,https://www.history.com/articles/why-do-people-knock-on-wood-for-luck,2,complete
-Superstitions,Black Cats,Carnegie Museum of Natural History,https://carnegiemnh.org/superstitions-and-black-cats/,1,complete
-Superstitions,Broken Mirrors,University of South Carolina,https://sc.edu/uofsc/posts/2021/06/06_conversation_broken_mirror.php,1,complete
-Superstitions,Walking Under Ladders,HowStuffWorks,https://people.howstuffworks.com/why-is-walking-under-ladder-unlucky.htm,2,complete
-Superstitions,Evil Eye,Britannica,https://www.britannica.com/topic/evil-eye,1,complete
-Superstitions,Rabbit’s Foot,HowStuffWorks,https://people.howstuffworks.com/rabbit-foot-lucky.htm,2,complete
-
-Human Behavior,Smiling,Association for Psychological Science,https://www.psychologicalscience.org/observer/the-psychological-study-of-smiling,2,complete
-Human Behavior,Eye Contact,EBSCO,https://www.ebsco.com/research-starters/communication-and-mass-media/eye-contact,2,complete
-Human Behavior,Handshakes,HISTORY,https://www.history.com/articles/what-is-the-origin-of-the-handshake,2,complete
-Human Behavior,Laughter,NIH / PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC4255480/,1,complete
-Human Behavior,Facial Expressions,iMotions,https://imotions.com/blog/learning/research-fundamentals/facial-expressions-a-complete-guide/,2,complete
-Human Behavior,Crossed Arms,Talk About Talk,https://www.talkabouttalk.com/body-language-and-communication/,3,complete
-Human Behavior,Posture,MedlinePlus,https://medlineplus.gov/guidetogoodposture.html,1,complete
-Human Behavior,Personal Space,EBSCO,https://www.ebsco.com/research-starters/communication-and-mass-media/personal-space,2,complete
-Human Behavior,Gestures,NIH / PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC7438760/,1,complete
-Human Behavior,Microexpressions,Paul Ekman Group,https://www.paulekman.com/resources/micro-expressions/,2,complete
-
-Explorers,Marco Polo,Britannica,https://www.britannica.com/biography/Marco-Polo,1,complete
-Explorers,Magellan,Britannica,https://www.britannica.com/biography/Ferdinand-Magellan,1,complete
-Explorers,Lewis and Clark,Britannica,https://www.britannica.com/event/Lewis-and-Clark-Expedition,1,complete
-Explorers,Jacques Cousteau,Britannica,https://www.britannica.com/biography/Jacques-Cousteau,1,complete
-Explorers,Ernest Shackleton,Britannica,https://www.britannica.com/biography/Ernest-Henry-Shackleton,1,complete
-Explorers,Ibn Battuta,Britannica,https://www.britannica.com/biography/Ibn-Battuta,1,complete
-Explorers,Zheng He,Britannica,https://www.britannica.com/biography/Zheng-He,1,complete
-Explorers,Sacagawea,National Park Service,https://www.nps.gov/people/sacagawea.htm,1,complete
-Explorers,Roald Amundsen,Britannica,https://www.britannica.com/biography/Roald-Amundsen,1,complete
-Explorers,Nellie Bly,Britannica,https://www.britannica.com/biography/Nellie-Bly,1,complete
-
-Famous Trees & Plants,Bamboo,Britannica,https://www.britannica.com/plant/bamboo,1,complete
-Famous Trees & Plants,Giant Sequoias,National Park Service,https://www.nps.gov/seki/learn/nature/bigtrees.htm,1,complete
-Famous Trees & Plants,Venus Flytraps,Britannica,https://www.britannica.com/plant/Venus-flytrap,1,complete
-Famous Trees & Plants,Cacti,Britannica,https://www.britannica.com/plant/cactus,1,complete
-Famous Trees & Plants,Cherry Blossoms,National Park Service,https://www.nps.gov/subjects/cherryblossom/history-of-the-cherry-trees.htm,1,complete
-Famous Trees & Plants,Baobab Trees,Britannica,https://www.britannica.com/plant/baobab-tree-genus,1,complete
-Famous Trees & Plants,Corpse Flower,Royal Botanic Gardens Kew,https://www.kew.org/plants/titan-arum,1,complete
-Famous Trees & Plants,Mangroves,Smithsonian Ocean,https://ocean.si.edu/ocean-life/plants-algae/mangroves,1,complete
-Famous Trees & Plants,Bonsai,U.S. National Arboretum,https://www.usna.usda.gov/discover/gardens-collections/national-bonsai-penjing-museum,1,complete
-Famous Trees & Plants,Poison Ivy,Britannica,https://www.britannica.com/plant/poison-ivy-plant,1,complete
-
-Insects,Ants,Britannica,https://www.britannica.com/animal/ant,1,complete
-Insects,Butterflies,Britannica,https://www.britannica.com/animal/butterfly-insect,1,complete
-Insects,Dragonflies,Britannica,https://www.britannica.com/animal/dragonfly,1,complete
-Insects,Fireflies,Britannica,https://www.britannica.com/animal/firefly-insect,1,complete
-Insects,Praying Mantises,Britannica,https://www.britannica.com/animal/mantid,1,complete
-Insects,Bees,Britannica,https://www.britannica.com/animal/bee,1,complete
-Insects,Termites,Britannica,https://www.britannica.com/animal/termite,1,complete
-Insects,Cicadas,Britannica,https://www.britannica.com/animal/cicada,1,complete
-Insects,Mosquitoes,CDC,https://www.cdc.gov/mosquitoes/about/index.html,1,complete
-Insects,Beetles,Smithsonian Institution,https://www.si.edu/spotlight/buginfo/beetle,1,complete
-
-Strange Places,Dead Sea,Britannica,https://www.britannica.com/place/Dead-Sea,1,complete
-Strange Places,Door to Hell,National Geographic Education,https://education.nationalgeographic.org/resource/entering-door-hell/,1,complete
-Strange Places,Blood Falls,Smithsonian Magazine,https://www.smithsonianmag.com/travel/antarcticas-blood-red-waterfall-180949507/,1,complete
-Strange Places,Giant’s Causeway,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway/history-of-giants-causeway,1,complete
-Strange Places,Salar de Uyuni,Britannica,https://www.britannica.com/place/Uyuni-Salt-Flat,1,complete
-Strange Places,Lake Hillier,Western Australia Tourism,https://www.westernaustralia.com/us/plan-my-trip/planning-tools/travel-stories/the-amazing-pink-lakes-of-western-australia,1,complete
-Strange Places,Catacombs of Paris,Paris Catacombs Official Site,https://www.catacombes.paris.fr/en/history/site-history,1,complete
-Strange Places,Socotra,UNESCO World Heritage Centre,https://whc.unesco.org/en/list/1263/,1,complete
-Strange Places,Pamukkale,UNESCO World Heritage Centre,https://whc.unesco.org/en/list/485/,1,complete
-Strange Places,Fly Geyser,Friends of Black Rock-High Rock,https://www.blackrockdesert.org/fly-ranch,2,complete
-
-Human Civilization,Calendars,Britannica,https://www.britannica.com/science/calendar,1,complete
-Human Civilization,Coins,Britannica,https://www.britannica.com/money/coin,1,complete
-Human Civilization,Roads,Britannica,https://www.britannica.com/technology/Roman-road-system,1,complete
-Human Civilization,Maps,Library of Congress,https://www.loc.gov/maps/collections/,1,complete
-Human Civilization,Timekeeping,Britannica,https://www.britannica.com/technology/clock,1,complete
-Human Civilization,Agriculture,Britannica,https://www.britannica.com/topic/agriculture/How-agriculture-and-domestication-began,1,complete
-Human Civilization,Cities,Britannica,https://www.britannica.com/topic/city,1,complete
-Human Civilization,Laws,Britannica,https://www.britannica.com/topic/law-code,1,complete
-Human Civilization,Irrigation,Britannica,https://www.britannica.com/topic/hydraulic-civilization,1,complete
-Human Civilization,Sewers,Britannica,https://www.britannica.com/technology/sewerage-system,1,complete
+category,topic,institution,url,status
+Space,Venus,NASA,https://science.nasa.gov/venus/,complete
+Space,Mars,NASA,https://science.nasa.gov/mars/,complete
+Space,Asteroids,NASA,https://science.nasa.gov/solar-system/asteroids/,complete
+Space,Exoplanets,NASA,https://science.nasa.gov/exoplanets/,complete
+Space,Comets,NASA,https://science.nasa.gov/solar-system/comets/,complete
+Space,Dwarf Planets,NASA,https://science.nasa.gov/dwarf-planets/,complete
+Space,Jupiter,NASA,https://science.nasa.gov/jupiter/,complete
+Space,Saturn,NASA,https://science.nasa.gov/saturn/,complete
+Space,Uranus,NASA,https://science.nasa.gov/uranus/,complete
+Space,Neptune,NASA,https://science.nasa.gov/neptune/,complete
+Space,Pluto,NASA,https://science.nasa.gov/dwarf-planets/pluto/,complete
+Space,Solar System,NASA,https://science.nasa.gov/solar-system/,complete
+Space,Sun,NASA,https://science.nasa.gov/sun/,complete
+Space,Kuiper Belt,NASA,https://science.nasa.gov/solar-system/kuiper-belt/facts/,complete
+Space,Oort Cloud,NASA,https://science.nasa.gov/solar-system/oort-cloud/facts/,complete
+Space,Voyager Program,NASA,https://science.nasa.gov/mission/voyager/fast-facts/,complete
+Space,Meteor Showers,NASA,https://science.nasa.gov/solar-system/meteors-meteorites/facts/,complete
+Space,Moons,NASA,https://science.nasa.gov/moons/,complete
+Astronomy,Black Holes,NASA,https://science.nasa.gov/universe/black-holes/,complete
+Astronomy,Stars,NASA,https://science.nasa.gov/universe/stars/,complete
+Astronomy,Galaxies,NASA,https://science.nasa.gov/universe/galaxies/,complete
+Astronomy,Nebulae,NASA Space Place,https://spaceplace.nasa.gov/nebula/en/,complete
+Astronomy,Constellations,NASA Space Place,https://spaceplace.nasa.gov/constellations/en/,complete
+Astronomy,Supernovas,NASA Space Place,https://spaceplace.nasa.gov/supernova/en/,complete
+Astronomy,Milky Way,NASA Imagine,https://imagine.gsfc.nasa.gov/science/objects/milkyway1.html,complete
+Astronomy,Light Years,NASA Space Place,https://spaceplace.nasa.gov/light-year/en/,complete
+Astronomy,Hubble Space Telescope,NASA,https://science.nasa.gov/mission/hubble/,complete
+Astronomy,James Webb Space Telescope,NASA,https://science.nasa.gov/mission/webb/,complete
+Astronomy,Pulsars,NASA,https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html,complete
+Astronomy,Quasars,NASA,https://imagine.gsfc.nasa.gov/science/objects/active_galaxies1.html,complete
+Astronomy,Red Giants,NASA,https://science.nasa.gov/universe/stars/types/,complete
+Astronomy,White Dwarfs,NASA,https://imagine.gsfc.nasa.gov/science/objects/dwarfs1.html,complete
+Astronomy,Cosmic Microwave Background,NASA,https://map.gsfc.nasa.gov/universe/bb_tests_cmb.html,complete
+History,Roman Empire,Britannica,https://www.britannica.com/place/ancient-Rome,complete
+History,Vikings,Britannica,https://www.britannica.com/topic/Viking-people,complete
+History,Ancient Greece,Britannica,https://www.britannica.com/place/ancient-Greece,complete
+History,Middle Ages,Britannica,https://www.britannica.com/event/Middle-Ages,complete
+History,Renaissance,Britannica,https://www.britannica.com/event/Renaissance,complete
+History,Age of Exploration,Britannica,https://www.britannica.com/topic/European-exploration/The-Age-of-Discovery,complete
+History,American Revolution,Britannica,https://www.britannica.com/event/American-Revolution,complete
+History,Industrial Revolution,Britannica,https://www.britannica.com/event/Industrial-Revolution,complete
+History,World War I,Britannica,https://www.britannica.com/event/World-War-I,complete
+History,World War II,Britannica,https://www.britannica.com/event/World-War-II,complete
+History,Ancient China,Britannica,https://www.britannica.com/place/China/History,complete
+History,Ancient India,Britannica,https://www.britannica.com/place/India/History,complete
+History,Mongol Empire,Britannica,https://www.britannica.com/topic/Mongol-empire,complete
+History,Silk Road,Britannica,https://www.britannica.com/topic/Silk-Road-trade-route,complete
+History,Printing Press,Britannica,https://www.britannica.com/technology/printing-press,complete
+History,French Revolution,Britannica,https://www.britannica.com/event/French-Revolution,complete
+History,Cold War,Britannica,https://www.britannica.com/event/Cold-War,complete
+History,Space Race,Britannica,https://www.britannica.com/event/space-race,complete
+History,Titanic,Britannica,https://www.britannica.com/topic/Titanic,complete
+History,Salem Witch Trials,Britannica,https://www.britannica.com/event/Salem-witch-trials,complete
+History,Pirate Age,Royal Museums Greenwich,https://www.rmg.co.uk/stories/maritime-history/pirates-history-golden-age-piracy,complete
+History,Samurai,Britannica,https://www.britannica.com/topic/samurai,complete
+History,Knights,Britannica,https://www.britannica.com/topic/knight-cavalryman,complete
+Ancient Civilizations,Ancient Egypt,Britannica,https://www.britannica.com/place/ancient-Egypt,complete
+Ancient Civilizations,Maya,Britannica,https://www.britannica.com/topic/Maya-people,complete
+Ancient Civilizations,Aztecs,Britannica,https://www.britannica.com/topic/Aztec,complete
+Ancient Civilizations,Incas,Britannica,https://www.britannica.com/topic/Inca,complete
+Ancient Civilizations,Mesopotamia,Britannica,https://www.britannica.com/place/Mesopotamia-historical-region-Asia,complete
+Ancient Civilizations,Sumerians,Britannica,https://www.britannica.com/place/Sumer,complete
+Ancient Civilizations,Babylonians,Britannica,https://www.britannica.com/place/Babylonia,complete
+Ancient Civilizations,Phoenicians,Britannica,https://www.britannica.com/topic/Phoenician,complete
+Ancient Civilizations,Indus Valley Civilization,Britannica,https://www.britannica.com/topic/Indus-civilization,complete
+Ancient Civilizations,Ancient Persia,Britannica,https://www.britannica.com/place/ancient-Iran,complete
+Ancient Civilizations,Ancient Rome,Britannica,https://www.britannica.com/place/ancient-Rome,complete
+Ancient Civilizations,Carthage,Britannica,https://www.britannica.com/place/Carthage-ancient-city-Tunisia,complete
+Ancient Civilizations,Minoans,Britannica,https://www.britannica.com/topic/Minoan-civilization,complete
+Ancient Civilizations,Olmecs,Britannica,https://www.britannica.com/topic/Olmec,complete
+Ancient Civilizations,Hittites,Britannica,https://www.britannica.com/topic/Hittite,complete
+Animals,Octopus,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals/animals-a-to-z/giant-pacific-octopus,complete
+Animals,Elephants,WWF,https://www.worldwildlife.org/species/elephant,complete
+Animals,Dolphins,National Geographic Kids,https://kids.nationalgeographic.com/animals/mammals/facts/bottlenose-dolphin,complete
+Animals,Penguins,National Geographic Kids,https://kids.nationalgeographic.com/animals/birds/facts/emperor-penguin,complete
+Animals,Giraffes,National Geographic Kids,https://kids.nationalgeographic.com/animals/mammals/facts/giraffe,complete
+Animals,Tigers,WWF,https://www.worldwildlife.org/species/tiger,complete
+Animals,Wolves,National Geographic Kids,https://kids.nationalgeographic.com/animals/mammals/facts/gray-wolf,complete
+Animals,Bees,National Geographic Kids,https://kids.nationalgeographic.com/animals/invertebrates/facts/honeybee,complete
+Animals,Sloths,National Geographic Kids,https://kids.nationalgeographic.com/animals/mammals/facts/sloth,complete
+Animals,Cheetahs,National Geographic Kids,https://kids.nationalgeographic.com/animals/mammals/facts/cheetah,complete
+Animals,Axolotls,National Geographic,https://kids.nationalgeographic.com/animals/amphibians/facts/axolotl,complete
+Animals,Platypus,National Geographic,https://kids.nationalgeographic.com/animals/mammals/facts/platypus,complete
+Animals,Ravens,Cornell Lab of Ornithology,https://www.allaboutbirds.org/guide/Common_Raven/lifehistory,complete
+Animals,Chameleons,National Geographic,https://kids.nationalgeographic.com/animals/reptiles/facts/chameleon,complete
+Animals,Mantis Shrimp,National Geographic,https://www.nationalgeographic.com/animals/invertebrates/facts/mantis-shrimp,complete
+Ocean Life,Sharks,Fisheries,https://www.fisheries.noaa.gov/feature-story/12-shark-facts-may-surprise-you,complete
+Ocean Life,Coral Reefs,NOAA,https://oceanservice.noaa.gov/facts/coral.html,complete
+Ocean Life,Bioluminescence,NOAA Ocean Explorer,https://oceanexplorer.noaa.gov/facts/bioluminescence.html,complete
+Ocean Life,Deep Sea,Smithsonian,https://ocean.si.edu/ecosystems/deep-sea/deep-sea,complete
+Ocean Life,Jellyfish,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-nettle,complete
+Ocean Life,Whales,NOAA Fisheries,https://www.fisheries.noaa.gov/whales,complete
+Ocean Life,Sea Turtles,NOAA Fisheries,https://www.fisheries.noaa.gov/sea-turtles,complete
+Ocean Life,Seahorses,National Geographic,https://kids.nationalgeographic.com/animals/fish/facts/seahorse,complete
+Ocean Life,Starfish,National Geographic,https://www.nationalgeographic.com/animals/invertebrates/facts/starfish-1,complete
+Ocean Life,Ocean Currents,NOAA,https://oceanservice.noaa.gov/facts/current.html,complete
+Ocean Life,Giant Squid,Smithsonian Ocean,https://ocean.si.edu/ocean-life/invertebrates/giant-squid,complete
+Ocean Life,Anglerfish,National Geographic,https://www.nationalgeographic.com/animals/fish/facts/anglerfish,complete
+Ocean Life,Orcas,NOAA Fisheries,https://www.fisheries.noaa.gov/species/killer-whale,complete
+Ocean Life,Kelp Forests,NOAA,https://oceanservice.noaa.gov/facts/kelp.html,complete
+Ocean Life,Sea Otters,Monterey Bay Aquarium,https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-otter,complete
+Human Body,Brain,NIH News in Health,https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain,complete
+Human Body,Heart,NHLBI,https://www.nhlbi.nih.gov/health/heart,complete
+Human Body,Skeletal System,Cleveland Clinic,https://my.clevelandclinic.org/health/body/21048-skeletal-system,complete
+Human Body,Muscles,Cleveland Clinic,https://my.clevelandclinic.org/health/body/21887-muscle,complete
+Human Body,Eyes,Cleveland Clinic,https://my.clevelandclinic.org/health/body/21823-eyes,complete
+Human Body,Blood,Cleveland Clinic,https://my.clevelandclinic.org/health/body/24836-blood,complete
+Human Body,Lungs,NHLBI,https://www.nhlbi.nih.gov/health/lungs,complete
+Human Body,DNA,Britannica,https://www.britannica.com/science/DNA,complete
+Human Body,Immune System,Britannica,https://www.britannica.com/science/immune-system,complete
+Human Body,Skin,Britannica,https://www.britannica.com/science/skin,complete
+Human Body,Fingerprints,Britannica,https://www.britannica.com/science/fingerprint,complete
+Human Body,Taste Buds,Britannica,https://www.britannica.com/science/taste-bud,complete
+Human Body,Hair,Britannica,https://www.britannica.com/science/hair-anatomy,complete
+Human Body,Gut Microbiome,Harvard T.H. Chan School of Public Health,https://nutritionsource.hsph.harvard.edu/microbiome/,complete
+Human Body,Hormones,Britannica,https://www.britannica.com/science/hormone,complete
+Psychology,Memory,Britannica,https://www.britannica.com/science/memory-psychology,complete
+Psychology,Emotions,Britannica,https://www.britannica.com/science/emotion,complete
+Psychology,Happiness,Britannica,https://www.britannica.com/topic/happiness,complete
+Psychology,Habits,Britannica,https://www.britannica.com/topic/habit-behavior,complete
+Psychology,Attention,Britannica,https://www.britannica.com/science/attention,complete
+Psychology,Decision Making,Britannica,https://www.britannica.com/topic/decision-making,complete
+Psychology,Motivation,Britannica,https://www.britannica.com/topic/motivation,complete
+Psychology,Learning,Britannica,https://www.britannica.com/science/learning,complete
+Psychology,Perception,Britannica,https://www.britannica.com/science/perception,complete
+Psychology,Sleep,Britannica,https://www.britannica.com/science/sleep,complete
+Psychology,Déjà Vu,Cleveland Clinic,https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern,complete
+Psychology,Optical Illusions,HowStuffWorks,https://science.howstuffworks.com/optical-illusions.htm,complete
+Psychology,Dreams,Britannica,https://www.britannica.com/science/dream-sleep-experience,complete
+Psychology,Phobias,Britannica,https://www.britannica.com/science/phobia,complete
+Psychology,Body Language,Psychology Today,https://www.psychologytoday.com/us/basics/body-language,complete
+Food,Honey,Smithsonian Magazine,https://www.britannica.com/topic/honey,complete
+Food,Chocolate,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/a-brief-history-of-chocolate-21860917/,complete
+Food,Cheese,Britannica,https://www.britannica.com/topic/cheese,complete
+Food,Bread,Britannica,https://www.britannica.com/topic/bread-food-product,complete
+Food,Salt,Britannica,https://www.britannica.com/science/salt,complete
+Food,Spices,Britannica,https://www.britannica.com/topic/spice-food,complete
+Food,Rice,Britannica,https://www.britannica.com/plant/rice,complete
+Food,Pasta,Britannica,https://www.britannica.com/topic/pasta,complete
+Food,Ice Cream,Britannica,https://www.britannica.com/topic/ice-cream,complete
+Food,Pizza,Britannica,https://www.britannica.com/topic/pizza,complete
+Food,Sushi,Britannica,https://www.britannica.com/topic/sushi,complete
+Food,Popcorn,Britannica,https://www.britannica.com/topic/popcorn,complete
+Food,Potatoes,Britannica,https://www.britannica.com/plant/potato,complete
+Food,Bananas,Britannica,https://www.britannica.com/plant/banana-plant,complete
+Food,Peanuts,Britannica,https://www.britannica.com/plant/peanut,complete
+Coffee,Coffee Plant,Britannica,https://www.britannica.com/plant/Coffea,complete
+Coffee,Caffeine,Britannica,https://www.britannica.com/science/caffeine,complete
+Coffee,Espresso,Britannica,https://www.britannica.com/topic/espresso,complete
+Coffee,Instant Coffee,National Coffee Association,https://www.ncausa.org/About-Coffee/Types-of-Coffee/Instant-Coffee,complete
+Coffee,Coffee Beans,Britannica,https://www.britannica.com/plant/Coffea,complete
+Coffee,Coffee Roasting,National Coffee Association,https://www.ncausa.org/About-Coffee/Coffee-Roasts-Guide,complete
+Coffee,Decaf Coffee,National Coffee Association,https://www.ncausa.org/About-Coffee/Decaffeinated-Coffee,complete
+Coffee,Cold Brew,National Coffee Association,https://www.ncausa.org/About-Coffee/How-to-Make-Cold-Brew-Coffee,complete
+Coffee,Latte,National Coffee Association,https://www.ncausa.org/About-Coffee/Types-of-Coffee,complete
+Coffee,Cappuccino,National Coffee Association,https://www.ncausa.org/About-Coffee/Types-of-Coffee,complete
+Coffee,Arabica Beans,National Coffee Association,https://www.aboutcoffee.org/beans/varieties/,complete
+Coffee,Robusta Beans,National Coffee Association,https://www.aboutcoffee.org/beans/varieties/,complete
+Coffee,Coffeehouses,Britannica,https://www.britannica.com/topic/cafe-eating-and-drinking-establishment,complete
+Coffee,Turkish Coffee,UNESCO Courier,https://courier.unesco.org/en/articles/turkish-coffee-not-just-drink-culture,complete
+Coffee,Coffee Origins,National Coffee Association,https://www.aboutcoffee.org/origins/history-of-coffee/,complete
+Technology,Internet,Britannica,https://www.britannica.com/topic/Internet,complete
+Technology,World Wide Web,Britannica,https://www.britannica.com/topic/World-Wide-Web,complete
+Technology,Email,Britannica,https://www.britannica.com/technology/email,complete
+Technology,Wi-Fi,Britannica,https://www.britannica.com/technology/Wi-Fi,complete
+Technology,QR Codes,Britannica,https://www.britannica.com/technology/QR-Code,complete
+Technology,Smartphones,Britannica,https://www.britannica.com/technology/smartphone,complete
+Technology,Cloud Computing,Britannica,https://www.britannica.com/technology/cloud-computing,complete
+Technology,Virtual Reality,Britannica,https://www.britannica.com/technology/virtual-reality,complete
+Technology,Blockchain,Britannica,https://www.britannica.com/topic/blockchain,complete
+Technology,Cryptography,Britannica,https://www.britannica.com/science/cryptology,complete
+Technology,Bluetooth,HowStuffWorks,https://electronics.howstuffworks.com/bluetooth.htm,complete
+Technology,USB,Britannica,https://www.britannica.com/technology/USB,complete
+Technology,CAPTCHA,Cloudflare,https://www.cloudflare.com/learning/bots/how-captchas-work/,complete
+Technology,Search Engines,Britannica,https://www.britannica.com/technology/search-engine,complete
+Technology,Data Centers,Cloudflare,https://www.cloudflare.com/learning/cdn/glossary/data-center/,complete
+Artificial Intelligence,Artificial Intelligence,Britannica,https://www.britannica.com/technology/artificial-intelligence,complete
+Artificial Intelligence,Machine Learning,Britannica,https://www.britannica.com/technology/machine-learning,complete
+Artificial Intelligence,Neural Networks,Britannica,https://www.britannica.com/technology/neural-network-computing,complete
+Artificial Intelligence,Robotics,Britannica,https://www.britannica.com/technology/robotics,complete
+Artificial Intelligence,Computer Vision,Britannica,https://www.britannica.com/technology/computer-vision,complete
+Artificial Intelligence,Natural Language Processing,Britannica,https://www.britannica.com/technology/natural-language-processing,complete
+Artificial Intelligence,Generative AI,Britannica,https://www.britannica.com/technology/generative-artificial-intelligence,complete
+Artificial Intelligence,Chatbots,Britannica,https://www.britannica.com/technology/chatbot,complete
+Artificial Intelligence,Deep Learning,Britannica,https://www.britannica.com/technology/deep-learning-artificial-intelligence,complete
+Artificial Intelligence,Turing Test,Britannica,https://www.britannica.com/science/Turing-test,complete
+Artificial Intelligence,AI Hallucinations,IBM,https://www.ibm.com/think/topics/ai-hallucinations,complete
+Artificial Intelligence,Recommendation Systems,IBM,https://www.ibm.com/topics/recommendation-engine,complete
+Artificial Intelligence,Reinforcement Learning,IBM,https://www.ibm.com/think/topics/reinforcement-learning,complete
+Artificial Intelligence,AI Ethics,IBM,https://www.ibm.com/think/topics/ai-ethics,complete
+Artificial Intelligence,Autonomous Vehicles,Britannica,https://www.britannica.com/technology/autonomous-vehicle,complete
+Internet Culture,Memes,Britannica,https://www.britannica.com/topic/meme,complete
+Internet Culture,Emojis,Britannica,https://www.britannica.com/topic/emoji,complete
+Internet Culture,Hashtags,Britannica,https://www.britannica.com/topic/hashtag,complete
+Internet Culture,Viral Content,Madedaily.com,https://madedaily.com/blog/wayback/the-evolution-of-viral-content,complete
+Internet Culture,GIFs,Discovermagazine.com,https://www.discovermagazine.com/what-is-the-history-of-the-gif-45381,complete
+Internet Culture,Podcasts,Britannica,https://www.britannica.com/topic/podcast,complete
+Internet Culture,Streaming,Britannica,https://www.britannica.com/topic/streaming-media,complete
+Internet Culture,Influencers,Britannica,https://www.britannica.com/topic/social-media-influencer,complete
+Internet Culture,Social Media,Britannica,https://www.britannica.com/topic/social-media,complete
+Internet Culture,Internet Communities,Britannica,https://www.britannica.com/topic/online-community,complete
+Internet Culture,Viral Challenges,The Falcon,https://thefalcon.kinkaid.org/2841/features/internet-challenges-came/,complete
+Internet Culture,Reaction GIFs,Smithsonian Magazine,https://www.smithsonianmag.com/history/brief-history-gif-early-internet-innovation-ubiquitous-relic-180963543/,complete
+Internet Culture,Reddit,Britannica,https://www.britannica.com/topic/Reddit,complete
+Internet Culture,Livestreaming,IBM,https://www.ibm.com/topics/live-streaming,complete
+Internet Culture,Internet Slang,McNutt & Partners,https://www.mcnuttpartners.com/linguistics-exploring-the-origins-of-internet-slang/,complete
+Video Games,Pac-Man,Britannica,https://www.britannica.com/topic/Pac-Man-video-game,complete
+Video Games,Nintendo,Britannica,https://www.britannica.com/topic/Nintendo-Company-Ltd,complete
+Video Games,PlayStation,Britannica,https://www.britannica.com/topic/PlayStation,complete
+Video Games,Minecraft,Britannica,https://www.britannica.com/topic/Minecraft-video-game,complete
+Video Games,Pokemon,Pokemon,https://corporate.pokemon.co.jp/en/aboutus/history/,complete
+Video Games,Atari,Britannica,https://kids.britannica.com/students/article/Atari-Inc/273095,complete
+Video Games,Arcade Games,Britannica,https://www.britannica.com/topic/electronic-game,complete
+Video Games,Esports,Britannica,https://www.britannica.com/sports/esports,complete
+Video Games,Virtual Worlds,Britannica,https://www.britannica.com/topic/virtual-reality,complete
+Video Games,Tetris,Britannica,https://www.britannica.com/topic/Tetris,complete
+Video Games,Zelda,Britannica,https://www.britannica.com/topic/The-Legend-of-Zelda,complete
+Video Games,Mario,History,https://www.history.com/articles/super-mario-history-nintendo-donkey-kong-facts,complete
+Video Games,Speedrunning,BBC,https://www.bbc.co.uk/programmes/articles/3YmM2yrG4rp9ZHG54pcKjgf/speedrunning-a-brief-history-of-the-gaming-phenomenon,complete
+Video Games,Easter Eggs,BBC Bitesize,https://www.bbc.co.uk/bitesize/articles/zcts46f,complete
+Movies,Silent Films,Britannica,https://www.britannica.com/topic/silent-film-era,complete
+Movies,Animation,Britannica,https://www.britannica.com/art/animation,complete
+Movies,Special Effects,Encyclopedia.com,https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/special-effects,complete
+Movies,Academy Awards,Oscars,https://www.oscars.org/oscars,complete
+Movies,IMAX,FilmAtlas,https://www.filmatlas.com/entry/244,complete
+Movies,Movie Cameras,Britannica,https://www.britannica.com/technology/camera,complete
+Movies,Film Editing,Encyclopedia.com,https://www.encyclopedia.com/arts/encyclopedias-almanacs-transcripts-and-maps/editing-film,complete
+Movies,3D Movies,Britannica,https://www.britannica.com/art/3-D-film,complete
+Movies,Documentaries,Britannica,https://www.britannica.com/art/documentary-film,complete
+Movies,Film Festivals,Britannica,https://www.britannica.com/art/film-festival,complete
+Movies,Stop Motion,Fathom Entertainment,https://www.fathomentertainment.com/blog/masters-of-stop-motion/,complete
+Movies,Pixar,Britannica,https://www.britannica.com/topic/Pixar-Animation-Studios,complete
+Movies,Movie Trailers,Brown Film Magazine,https://www.brownfilmmagazine.com/blog/history-of-trailers-will-havens,complete
+Movies,Movie Makeup,Britannica,https://www.britannica.com/art/makeup-performing-arts,complete
+Movies,Technicolor,Hollywood Reporter,https://www.hollywoodreporter.com/business/business-news/technicolor-rise-fall-hollywood-1236159788/,complete
+Music,Vinyl Records,Britannica,https://www.britannica.com/art/sound-recording,complete
+Music,Synthesizers,Britannica,https://www.britannica.com/art/music-synthesizer,complete
+Music,Electronic Music,Britannica,https://www.britannica.com/art/electronic-music,complete
+Music,Hip-Hop,Britannica,https://www.britannica.com/art/hip-hop,complete
+Music,Jazz,Britannica,https://www.britannica.com/art/jazz,complete
+Music,Rock Music,Britannica,https://www.britannica.com/art/rock,complete
+Music,Classical Music,Britannica,https://www.britannica.com/art/Western-music,complete
+Music,Musical Instruments,Britannica,https://www.britannica.com/art/musical-instrument,complete
+Music,Streaming Music,Britannica,https://www.britannica.com/topic/streaming-media,complete
+Music,Recording Studios,Britannica,https://www.britannica.com/art/sound-recording,complete
+Music,Drum Machines,Smithsonian Magazine,https://www.smithsonianmag.com/arts-culture/history-tr-808-drum-machine-180975205/,complete
+Music,Auto-Tune,Britannica,https://www.britannica.com/technology/Auto-Tune,complete
+Music,Sampling,Library of Congress / Citizen DJ,https://citizen-dj.labs.loc.gov/guide/,complete
+Music,DJ Culture,PBS,https://www.pbs.org/opb/historydetectives/feature/the-art-of-turntablism/,complete
+Music,Music Festivals,TIME,https://time.com/5651255/business-of-music-festivals/,complete
+Sports,Olympic Games,Britannica,https://www.britannica.com/sports/Olympic-Games,complete
+Sports,Soccer,Britannica,https://www.britannica.com/sports/football-soccer,complete
+Sports,Basketball,Britannica,https://www.britannica.com/sports/basketball,complete
+Sports,Baseball,Britannica,https://www.britannica.com/sports/baseball,complete
+Sports,Tennis,Britannica,https://www.britannica.com/sports/tennis,complete
+Sports,Marathons,World Athletics,https://worldathletics.org/disciplines/road-running/marathon,complete
+Sports,Track and Field,World Athletics,https://worldathletics.org/disciplines,complete
+Sports,Swimming,Britannica,https://www.britannica.com/sports/swimming-sport,complete
+Sports,Golf,Britannica,https://www.britannica.com/sports/golf,complete
+Sports,World Records,Guinness World Records,https://www.guinnessworldrecords.com/,complete
+Sports,Surfing,Olympics,https://www.olympics.com/en/sports/surfing/,complete
+Sports,Skateboarding,Olympics,https://www.olympics.com/en/sports/skateboarding/,complete
+Sports,Formula 1,Formula 1,https://www.formula1.com/en/latest/article/drivers-teams-cars-circuits-and-more-everything-you-need-to-know-about.7iQfL3Rivf1comzdqV5jwc,complete
+Sports,Chess,Britannica,https://www.britannica.com/topic/chess,complete
+Sports,Parkour,Britannica,https://www.britannica.com/sports/parkour,complete
+Engineering,Lever,Britannica,https://www.britannica.com/science/lever,complete
+Engineering,Pulley,Britannica,https://www.britannica.com/technology/pulley,complete
+Engineering,Gear,Britannica,https://www.britannica.com/technology/gear,complete
+Engineering,Wheel,Britannica,https://www.britannica.com/technology/wheel,complete
+Engineering,Hydraulics,Britannica,https://www.britannica.com/technology/hydraulics,complete
+Engineering,Concrete,Britannica,https://www.britannica.com/technology/concrete-building-material,complete
+Engineering,Steel,Britannica,https://www.britannica.com/technology/steel,complete
+Engineering,Dams,Britannica,https://www.britannica.com/technology/dam-engineering,complete
+Engineering,Hydroelectric Power,Britannica,https://www.britannica.com/science/hydroelectric-power,complete
+Engineering,Bearings,Britannica,https://www.britannica.com/technology/bearing-machine-component,complete
+Engineering,Suspension Bridges,Britannica,https://www.britannica.com/technology/suspension-bridge,complete
+Engineering,Tunnels,Britannica,https://www.britannica.com/technology/tunnel,complete
+Engineering,Elevators,Britannica,https://www.britannica.com/technology/elevator-vertical-transport,complete
+Engineering,Cranes,Britannica,https://www.britannica.com/technology/crane-materials-handling,complete
+Engineering,Earthquake Engineering,Britannica,https://www.britannica.com/technology/earthquake-resistant-structure,complete
+Aviation,Aerodynamics,Britannica,https://www.britannica.com/science/aerodynamics,complete
+Aviation,Airplanes,Britannica,https://www.britannica.com/technology/airplane,complete
+Aviation,Jet Engines,Britannica,https://www.britannica.com/technology/jet-engine,complete
+Aviation,Helicopters,Britannica,https://www.britannica.com/technology/helicopter,complete
+Aviation,Concorde,Britannica,https://www.britannica.com/topic/Concorde,complete
+Aviation,Hot Air Balloons,Britannica,https://www.britannica.com/technology/hot-air-balloon,complete
+Aviation,Gliders,Britannica,https://www.britannica.com/technology/glider-aircraft,complete
+Aviation,Air Traffic Control,FAA,https://www.faa.gov/about/history/photo_album/air_traffic_control,complete
+Aviation,Flight Recorders,Britannica,https://www.britannica.com/technology/flight-recorder,complete
+Aviation,Supersonic Flight,Britannica,https://www.britannica.com/science/supersonic-flight,complete
+Aviation,Winglets,NASA Glenn Research Center,https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/winglets/,complete
+Aviation,Flying Boats,Hartzell Propeller,https://hartzellprop.com/history-of-seaplanes/,complete
+Aviation,Ejection Seats,Martin-Baker,https://martin-baker.com/our-history/,complete
+Aviation,Drones,FAA,https://www.faa.gov/uas,complete
+Aviation,Autopilot,Britannica,https://www.britannica.com/technology/automatic-pilot,complete
+Cars,Automobiles,Britannica,https://www.britannica.com/technology/automobile,complete
+Cars,Internal Combustion Engines,Britannica,https://www.britannica.com/technology/internal-combustion-engine,complete
+Cars,Electric Cars,Britannica,https://www.britannica.com/technology/electric-car,commplete
+Cars,Automobile Racing,Britannica,https://www.britannica.com/sports/automobile-racing,commplete
+Cars,Seat Belts,Britannica,https://www.britannica.com/technology/seat-belt,complete
+Cars,Hybrid Cars,Britannica,https://www.britannica.com/technology/How-Does-a-Hybrid-Car-Work,complete
+Cars,Cruise Control,Britannica,https://www.britannica.com/technology/cruise-control,complete
+Cars,Tires,Britannica,https://www.britannica.com/technology/tire,complete
+Cars,Transmission,Britannica,https://www.britannica.com/technology/automobile/Transmission,complete
+Cars,Brakes,Britannica,https://www.britannica.com/technology/brake,complete
+Cars,Airbags,NHTSA,https://www.nhtsa.gov/vehicle-safety/air-bags,complete
+Cars,Windshield Wipers,National Inventors Hall of Fame,https://www.invent.org/inductees/mary-anderson,complete
+Cars,Car Horns,Car and Driver,https://www.caranddriver.com/features/a20776837/meep-meep-the-history-and-evolution-of-car-horns-feature/,complete
+Cars,Crumple Zones,Travelers,https://www.travelers.com/resources/auto/safe-driving/how-crumple-zones-work,complete
+Cars,Crash Test Dummies,NHTSA,https://www.nhtsa.gov/nhtsas-crash-test-dummies,complete
+Physics,Gravity,Britannica,https://www.britannica.com/science/gravity-physics,complete
+Physics,Relativity,Britannica,https://www.britannica.com/science/relativity,complete
+Physics,Quantum Mechanics,Stanford Encyclopedia of Philosophy,https://plato.stanford.edu/entries/qm/,complete
+Physics,Light,Britannica,https://www.britannica.com/science/light,complete
+Physics,Sound,Britannica,https://www.britannica.com/science/sound-physics,complete
+Physics,Electricity,Britannica,https://www.britannica.com/science/electricity,complete
+Physics,Magnetism,Britannica,https://www.britannica.com/science/magnetism,complete
+Physics,Energy,Britannica,https://www.britannica.com/science/energy,complete
+Physics,Motion,Britannica,https://www.britannica.com/science/motion-physics,complete
+Physics,Time,Britannica,https://www.britannica.com/science/time,complete
+Physics,Friction,Britannica,https://www.britannica.com/science/friction,complete
+Physics,Inertia,NASA Glenn Research Center,https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/,complete
+Physics,Waves,Britannica,https://www.britannica.com/science/wave-physics,complete
+Physics,Lasers,Britannica,https://www.britannica.com/technology/How-Does-a-Laser-Work,complete
+Physics,Superconductors,CERN,https://home.cern/science/physics/superconductivity/,complete
+Chemistry,Atoms,Britannica,https://www.britannica.com/science/atom,complete
+Chemistry,Molecules,Britannica,https://www.britannica.com/science/molecule,complete
+Chemistry,Elements,Britannica,https://www.britannica.com/science/chemical-element,complete
+Chemistry,Periodic Table,Britannica,https://www.britannica.com/science/periodic-table,complete
+Chemistry,Chemical Reactions,Britannica,https://www.britannica.com/science/chemical-reaction,complete
+Chemistry,Covalent Bonds,Britannica,https://www.britannica.com/science/covalent-bond,complete
+Chemistry,Acids and Bases,Britannica,https://www.britannica.com/science/acid-base-reaction,complete
+Chemistry,States of Matter,Britannica,https://www.britannica.com/science/state-of-matter,complete
+Chemistry,Metals,Britannica,https://www.britannica.com/science/metal-chemistry,complete
+Chemistry,Radioactivity,Britannica,https://www.britannica.com/science/radioactivity,complete
+Chemistry,Combustion,Britannica,https://www.britannica.com/science/combustion,complete
+Chemistry,Oxidation,Britannica,https://www.britannica.com/science/oxidation-reduction-reaction,complete
+Chemistry,Polymers,Britannica,https://www.britannica.com/science/polymer,complete
+Chemistry,Catalysts,Britannica,https://www.britannica.com/science/catalyst,complete
+Chemistry,Crystals,Britannica,https://www.britannica.com/science/crystal,complete
+Mathematics,Pi,Britannica,https://www.britannica.com/science/pi-mathematics,complete
+Mathematics,Prime Numbers,Britannica,https://www.britannica.com/science/prime-number,complete
+Mathematics,Fibonacci Sequence,Britannica,https://www.britannica.com/science/Fibonacci-number,complete
+Mathematics,Infinity,Britannica,https://www.britannica.com/science/infinity-mathematics,complete
+Mathematics,Zero,Britannica,https://www.britannica.com/science/0-mathematics,complete
+Mathematics,Probability,Britannica,https://www.britannica.com/science/probability,complete
+Mathematics,Geometry,Britannica,https://www.britannica.com/science/geometry,complete
+Mathematics,Algebra,Britannica,https://www.britannica.com/science/algebra,complete
+Mathematics,Calculus,Britannica,https://www.britannica.com/science/calculus-mathematics,complete
+Mathematics,Fractals,Britannica,https://www.britannica.com/science/fractal,complete
+Mathematics,Golden Ratio,Britannica,https://www.britannica.com/science/golden-ratio,complete
+Mathematics,Chaos Theory,Britannica,https://www.britannica.com/science/chaos-theory,complete
+Mathematics,Game Theory,Britannica,https://www.britannica.com/science/game-theory,complete
+Mathematics,Logarithms,Britannica,https://www.britannica.com/science/logarithm,complete
+Mathematics,Topology,Britannica,https://www.britannica.com/science/topology,complete
+Business,Entrepreneurship,Britannica,https://www.britannica.com/topic/entrepreneur-business,complete
+Business,Branding,Investopedia,https://www.investopedia.com/terms/b/brand.asp,complete
+Business,Franchises,Investopedia,https://www.investopedia.com/terms/f/franchise.asp,complete
+Business,Stock Market,Investopedia,https://www.investopedia.com/terms/s/stockmarket.asp,complete
+Business,Startups,Investopedia,https://www.investopedia.com/terms/s/startup.asp,complete
+Business,Advertising,Britannica,https://www.britannica.com/topic/advertising,complete
+Business,Supply and Demand,Britannica,https://www.britannica.com/topic/supply-and-demand,complete
+Business,Trade,Britannica,https://www.britannica.com/topic/trade-economic-system,complete
+Business,Brands,Britannica,https://www.britannica.com/topic/trademark,complete
+Business,Corporations,Britannica,https://www.britannica.com/topic/corporation,complete
+Business,Monopolies,Britannica,https://www.britannica.com/money/monopoly-economics,complete
+Business,Patents,USPTO,https://www.uspto.gov/patents/basics/essentials,complete
+Business,Trademarks,USPTO,https://www.uspto.gov/trademarks/basics/what-trademark,complete
+Business,Business Cards,Smithsonian Magazine,https://www.smithsonianmag.com/smart-news/instead-cheesy-pickup-lines-19th-century-americans-gave-out-calling-cards-180957743/,complete
+Business,Trade Secrets,USPTO,https://www.uspto.gov/ip-policy/trade-secret-policy,complete
+Economics,Scarcity,Investopedia,https://www.investopedia.com/terms/s/scarcity.asp,complete
+Economics,Opportunity Cost,Investopedia,https://www.investopedia.com/terms/o/opportunitycost.asp,complete
+Economics,Inflation,Britannica,https://www.britannica.com/topic/inflation-economics,complete
+Economics,Recession,Britannica,https://www.britannica.com/topic/recession,complete
+Economics,Gross Domestic Product,Britannica,https://www.britannica.com/topic/gross-domestic-product,complete
+Economics,Taxes,Britannica,https://www.britannica.com/topic/taxation,complete
+Economics,Banking,Britannica,https://www.britannica.com/topic/bank,complete
+Economics,Currency,Britannica,https://www.britannica.com/topic/currency,complete
+Economics,Capitalism,Britannica,https://www.britannica.com/topic/capitalism,complete
+Economics,Globalization,Britannica,https://www.britannica.com/topic/globalization,complete
+Economics,Interest Rates,Britannica,https://www.britannica.com/money/interest-rates,complete
+Economics,Supply Chains,Britannica,https://www.britannica.com/money/what-is-supply-chain-management,complete
+Economics,Barter,Britannica,https://www.britannica.com/money/barter-trade,complete
+Economics,Economic Bubbles,Britannica,https://www.britannica.com/money/dot-com-bubble,complete
+Economics,Minimum Wage,Britannica,https://www.britannica.com/money/minimum-wage,complete
+Literature,Poetry,Britannica,https://www.britannica.com/art/poetry,complete
+Literature,Novels,Britannica,https://www.britannica.com/art/novel,complete
+Literature,Shakespeare,Britannica,https://www.britannica.com/biography/William-Shakespeare,complete
+Literature,Fairy Tales,Britannica,https://www.britannica.com/art/fairy-tale,complete
+Literature,Myths,Britannica,https://www.britannica.com/topic/myth,complete
+Literature,Legends,Britannica,https://www.britannica.com/art/legend-literature,complete
+Literature,Libraries,Britannica,https://www.britannica.com/topic/library,complete
+Literature,Comics,Britannica,https://www.britannica.com/art/comic-strip,complete
+Literature,Printing,Britannica,https://www.britannica.com/technology/printing-press,complete
+Literature,Storytelling,Britannica,https://www.britannica.com/art/storytelling,complete
+Literature,Banned Books,Britannica,https://www.britannica.com/topic/book-banning,complete
+Literature,Pulp Fiction Covers,Public Domain Review,https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914,complete
+Literature,Anonymous Authors,Royal Literary Fund,https://www.rlf.org.uk/posts/pseudonyms/,complete
+Literature,Epic Poems,Britannica,https://www.britannica.com/art/epic,complete
+Literature,Detective Fiction,Britannica,https://www.britannica.com/art/detective-story-narrative-genre,complete
+Languages,Writing Systems,Britannica,https://www.britannica.com/topic/writing,complete
+Languages,Alphabet,Britannica,https://www.britannica.com/topic/alphabet-writing,complete
+Languages,Hieroglyphics,Britannica,https://www.britannica.com/topic/hieroglyphic-writing,complete
+Languages,Morse Code,Britannica,https://www.britannica.com/topic/Morse-Code,complete
+Languages,Sign Language,Britannica,https://www.britannica.com/topic/sign-language,complete
+Languages,Emojis,Britannica,https://www.britannica.com/topic/emoji,complete
+Languages,Dictionaries,Word Connection,https://www.word-connection.com/blogs/a-brief-history-of-dictionaries,complete
+Languages,Translation,Atlas Language Services,https://atlasls.com/the-history-of-translation/,complete
+Languages,Ancient Languages,Britannica,https://www.history.com/articles/oldest-language,complete
+Languages,Endangered Languages,Britannica,https://www.britannica.com/topic/language,complete
+Languages,Palindromes,Britannica,https://www.britannica.com/art/palindrome,complete
+Languages,Tongue Twisters,Britannica,https://www.britannica.com/topic/tongue-twister,complete
+Languages,Accents,Smithsonian Magazine,https://www.smithsonianmag.com/history/a-brief-history-of-the-united-states-accents-and-dialects-180983591/,complete
+Languages,Loanwords,Britannica,https://www.britannica.com/topic/loanword,complete
+Languages,Punctuation,Britannica,https://www.britannica.com/topic/punctuation,complete
+Architecture,Skyscrapers,Britannica,https://www.britannica.com/technology/skyscraper,complete
+Architecture,Bridges,Britannica,https://www.britannica.com/technology/bridge-engineering,complete
+Architecture,Castles,HowStuffWorks,https://history.howstuffworks.com/historical-figures/castle1.htm,complete
+Architecture,Pyramids,Britannica,https://www.britannica.com/topic/pyramid-architecture,complete
+Architecture,Gothic Architecture,Britannica,https://www.britannica.com/art/Gothic-architecture,complete
+Architecture,Ancient Temples,Britannica,https://www.britannica.com/topic/temple-building,complete
+Architecture,Urban Planning,Britannica,https://www.britannica.com/topic/urban-planning,complete
+Architecture,Concrete,Britannica,https://www.britannica.com/technology/concrete-building-material,complete
+Architecture,Domes,Britannica,https://www.britannica.com/technology/dome-architecture,complete
+Architecture,Arches,Britannica,https://www.britannica.com/technology/arch-architecture,complete
+Architecture,Columns,Britannica,https://www.britannica.com/technology/column-architecture,complete
+Architecture,Courtyards,Britannica,https://www.britannica.com/technology/court-architecture,complete
+Architecture,Glass Buildings,Britannica,https://www.britannica.com/technology/curtain-wall,complete
+Architecture,Brutalism,Britannica,https://www.britannica.com/art/Brutalism-architecture,complete
+Architecture,Bauhaus,Britannica,https://www.britannica.com/topic/Bauhaus,complete
+Myths & Legends,Dragons,Britannica,https://www.britannica.com/topic/dragon-mythological-creature,complete
+Myths & Legends,Phoenix,Britannica,https://www.britannica.com/topic/phoenix-mythological-bird,complete
+Myths & Legends,Unicorns,Britannica,https://www.britannica.com/topic/unicorn,complete
+Myths & Legends,Mermaids,Britannica,https://www.britannica.com/topic/mermaid,complete
+Myths & Legends,Norse Mythology,World History Encyclopedia,https://www.worldhistory.org/Norse_Mythology/,complete
+Myths & Legends,Greek Mythology,Britannica,https://www.britannica.com/topic/Greek-mythology,complete
+Myths & Legends,Egyptian Religion,Britannica,https://www.britannica.com/topic/Egyptian-religion,complete
+Myths & Legends,Atlantis,Britannica,https://www.britannica.com/topic/Atlantis-legendary-island,complete
+Myths & Legends,Sasquatch,Britannica,https://www.britannica.com/topic/sasquatch,complete
+Myths & Legends,Loch Ness Monster,Britannica,https://www.britannica.com/topic/Loch-Ness-monster-legendary-creature,complete
+Myths & Legends,Yeti,Britannica,https://www.britannica.com/topic/Abominable-Snowman,complete
+Myths & Legends,Kraken,Britannica,https://www.britannica.com/topic/kraken,complete
+Myths & Legends,Minotaur,Britannica,https://www.britannica.com/topic/Minotaur,complete
+Myths & Legends,Werewolves,Britannica,https://www.britannica.com/art/werewolf,complete
+Myths & Legends,Fairies,Britannica,https://www.britannica.com/art/fairy,complete
+Myths & Legends,King Arthur,Britannica,https://www.britannica.com/topic/King-Arthur,complete
+Mysteries,Bermuda Triangle,Britannica,https://www.britannica.com/place/Bermuda-Triangle,complete
+Mysteries,Stonehenge,Britannica,https://www.britannica.com/topic/Stonehenge,complete
+Mysteries,Nazca Lines,Britannica,https://www.britannica.com/place/Nazca-Lines,complete
+Mysteries,Easter Island,Britannica,https://www.britannica.com/place/Easter-Island,complete
+Mysteries,Roanoke Colony,Britannica,https://www.britannica.com/place/Roanoke-Island,complete
+Mysteries,Voynich Manuscript,Britannica,https://www.britannica.com/topic/Voynich-manuscript,complete
+Mysteries,Area 51,Britannica,https://www.britannica.com/place/Area-51,complete
+Mysteries,Crop Circles,Britannica,https://www.britannica.com/topic/crop-circle,complete
+Mysteries,UFOs,Britannica,https://www.britannica.com/topic/unidentified-flying-object,complete
+Mysteries,Amelia Earhart,Britannica,https://www.britannica.com/biography/Amelia-Earhart,complete
+Mysteries,Dyatlov Pass,National Geographic,https://www.nationalgeographic.com/premium/article/has-science-solved-history-greatest-adventure-mystery-dyatlov,complete
+Mysteries,Oak Island,The Canadian Encyclopedia,https://thecanadianencyclopedia.ca/en/article/oak-island,complete
+Mysteries,Antikythera Mechanism,Britannica,https://www.britannica.com/topic/Antikythera-mechanism,complete
+Mysteries,Taos Hum,Thrillist,https://www.thrillist.com/travel/nation/taos-hum-mystery,complete
+Mysteries,Wow! Signal,SETI Institute,https://www.seti.org/news/the-wow-signal-a-lingering-mystery-or-a-natural-phenomenon//,complete
+Medicine,Vaccines,Britannica,https://www.britannica.com/science/vaccine,complete
+Medicine,Antibiotics,Britannica,https://www.britannica.com/science/antibiotic,complete
+Medicine,Blood Types,Britannica,https://www.britannica.com/science/blood-group,complete
+Medicine,X-Rays,Britannica,https://www.britannica.com/science/X-ray,complete
+Medicine,MRI,Britannica,https://www.britannica.com/science/magnetic-resonance-imaging,complete
+Medicine,Anesthesia,Britannica,https://www.britannica.com/science/anesthesia,complete
+Medicine,Germ Theory,Britannica,https://www.britannica.com/science/germ-theory,complete
+Medicine,Stethoscope,Britannica,https://www.britannica.com/science/stethoscope,complete
+Medicine,Transplant Surgery,Britannica,https://www.britannica.com/science/transplant-surgery,complete
+Medicine,Diagnostic Imaging,Britannica,https://www.britannica.com/science/diagnostic-imaging,complete
+Medicine,Placebo Effect,Britannica,https://www.britannica.com/science/placebo-effect,complete
+Medicine,Insulin,Britannica,https://www.britannica.com/science/insulin,complete
+Medicine,Blood Transfusions,American Red Cross,https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood/blood-transfusions/history-blood-transfusion.html,complete
+Medicine,Prosthetics,Britannica,https://www.britannica.com/science/prosthesis,complete
+Medicine,Medical Robots,Cleveland Clinic,https://my.clevelandclinic.org/health/treatments/22178-robotic-surgery,complete
+Geography,Volcanoes,Britannica,https://www.britannica.com/science/volcano,complete
+Geography,Mountains,Britannica,https://www.britannica.com/science/mountain-landform,complete
+Geography,Rivers,Britannica,https://www.britannica.com/science/river,complete
+Geography,Deserts,Britannica,https://www.britannica.com/science/desert,complete
+Geography,Islands,Britannica,https://www.britannica.com/science/island,complete
+Geography,Glaciers,Britannica,https://www.britannica.com/science/glacier,complete
+Geography,Lakes,Britannica,https://www.britannica.com/science/lake,complete
+Geography,Valleys,Britannica,https://www.britannica.com/science/valley,complete
+Geography,Plate Tectonics,Britannica,https://www.britannica.com/science/plate-tectonics,complete
+Geography,Oceans,Britannica,https://www.britannica.com/science/ocean,complete
+Geography,Caves,National Park Service,https://www.nps.gov/subjects/caves/making-a-cave.htm,complete
+Geography,Waterfalls,National Geographic Education,https://education.nationalgeographic.org/resource/waterfall/,complete
+Geography,Fjords,National Geographic Education,https://education.nationalgeographic.org/resource/fjord/,complete
+Geography,Rainforests,National Geographic Education,https://education.nationalgeographic.org/resource/rain-forest/,complete
+Geography,Coral Islands,Britannica,https://www.britannica.com/science/coral-island,complete
+Weather,Tornadoes,Britannica,https://www.britannica.com/science/tornado,complete
+Weather,Hurricanes,Britannica,https://www.britannica.com/science/tropical-cyclone,complete
+Weather,Lightning,Britannica,https://www.britannica.com/science/lightning-meteorology,complete
+Weather,Atmosphere,Britannica,https://www.britannica.com/science/atmosphere,complete
+Weather,Clouds,Britannica,https://www.britannica.com/science/cloud-meteorology,complete
+Weather,Snow,Britannica,https://www.britannica.com/science/snow-weather,complete
+Weather,Thunder,Britannica,https://www.britannica.com/science/thunder,complete
+Weather,Climate,Britannica,https://www.britannica.com/science/climate-meteorology,complete
+Weather,Seasons,Britannica,https://www.britannica.com/science/season,complete
+Weather,Aurora,Britannica,https://www.britannica.com/science/aurora-atmospheric-phenomenon,complete
+Weather,Rainbows,NOAA NESDIS,https://www.nesdis.noaa.gov/about/k-12-education/optical-phenomena/what-causes-rainbow,complete
+Weather,Fog,National Weather Service,https://www.weather.gov/source/zhu/ZHU_Training_Page/fog_stuff/fog_definitions/Fog_definitions.html,complete
+Weather,Hail,NOAA National Severe Storms Laboratory,https://www.nssl.noaa.gov/education/svrwx101/hail/types/,complete
+Weather,Monsoons,National Geographic Education,https://education.nationalgeographic.org/resource/monsoon/,complete
+Weather,El Niño,NOAA Ocean Service,https://oceanservice.noaa.gov/facts/ninonina.html,complete
+Inventions,Wheel,Britannica,https://www.britannica.com/technology/wheel,complete
+Inventions,Printing Press,Britannica,https://www.britannica.com/technology/printing-press,complete
+Inventions,Telephone,Britannica,https://www.britannica.com/technology/telephone,complete
+Inventions,Light Bulb,Britannica,https://www.britannica.com/technology/lightbulb,complete
+Inventions,Radio,Britannica,https://www.britannica.com/technology/radio,complete
+Inventions,Television,Britannica,https://www.britannica.com/technology/television-technology,complete
+Inventions,GPS,Britannica,https://www.britannica.com/technology/GPS,complete
+Inventions,Internet,Britannica,https://www.britannica.com/topic/Internet,complete
+Inventions,QR Codes,Britannica,https://www.britannica.com/technology/QR-Code,complete
+Inventions,Batteries,Britannica,https://www.britannica.com/technology/battery-electronics,complete
+Inventions,Velcro,National Inventors Hall of Fame,https://www.invent.org/inductees/george-de-mestral,complete
+Inventions,Barcode,National Inventors Hall of Fame,https://www.invent.org/inductees/bernard-silver,complete
+Inventions,Ballpoint Pen,National Inventors Hall of Fame,https://www.invent.org/inductees/laszlo-josef-biro,complete
+Inventions,Safety Pin,National Inventors Hall of Fame,https://www.invent.org/inductees/walter-hunt,complete
+Inventions,Post-it Notes,National Inventors Hall of Fame,https://www.invent.org/blog/trends-stem/who-invented-post-it-notes,complete
+Religion & Beliefs,Myth,Britannica,https://www.britannica.com/topic/myth,complete
+Religion & Beliefs,Religion,Britannica,https://www.britannica.com/topic/religion,complete
+Religion & Beliefs,Christianity,Britannica,https://www.britannica.com/topic/Christianity,complete
+Religion & Beliefs,Islam,Britannica,https://www.britannica.com/topic/Islam,complete
+Religion & Beliefs,Hinduism,Britannica,https://www.britannica.com/topic/Hinduism,complete
+Religion & Beliefs,Buddhism,Britannica,https://www.britannica.com/topic/Buddhism,complete
+Religion & Beliefs,Judaism,Britannica,https://www.britannica.com/topic/Judaism,complete
+Religion & Beliefs,Monotheism,Britannica,https://www.britannica.com/topic/monotheism,complete
+Religion & Beliefs,Iconography,Britannica,https://www.britannica.com/art/iconography,complete
+Religion & Beliefs,Pilgrimage,Britannica,https://www.britannica.com/topic/pilgrimage-religion,complete
+Religion & Beliefs,Ritual,Britannica,https://www.britannica.com/topic/ritual,complete
+Religion & Beliefs,Sacred Texts,Britannica,https://www.britannica.com/topic/scripture,complete
+Religion & Beliefs,Monasteries,Britannica,https://www.britannica.com/topic/monasticism,complete
+Religion & Beliefs,Prayer Beads,Britannica,https://www.britannica.com/topic/rosary,complete
+Religion & Beliefs,Religious Calendars,Britannica,https://www.britannica.com/science/calendar/Ancient-and-religious-calendar-systems,complete
+Religion & Beliefs,Fasting,Britannica,https://www.britannica.com/topic/fasting,complete
+Dinosaurs,Tyrannosaurus Rex,Britannica,https://www.britannica.com/animal/Tyrannosaurus-rex,complete
+Dinosaurs,Velociraptor,Britannica,https://www.britannica.com/animal/Velociraptor,complete
+Dinosaurs,Triceratops,Britannica,https://www.britannica.com/animal/Triceratops,complete
+Dinosaurs,Stegosaurus,Britannica,https://www.britannica.com/animal/Stegosaurus,complete
+Dinosaurs,Fossils,Britannica,https://www.britannica.com/science/fossil,complete
+Dinosaurs,Ankylosaurus,Britannica,https://www.britannica.com/animal/Ankylosaurus,complete
+Dinosaurs,Brachiosaurus,Britannica,https://www.britannica.com/animal/brachiosaur,complete
+Dinosaurs,Iguanodon,Britannica,https://www.britannica.com/animal/Iguanodon,complete
+Dinosaurs,Dinosaur Eggs,American Museum of Natural History,https://www.amnh.org/dinosaurs/dinosaur-eggs,complete
+Dinosaurs,Dinosaur Extinction,Britannica,https://www.britannica.com/science/K-T-extinction,complete
+Ancient Creatures,Megalodon,Britannica,https://www.britannica.com/animal/megalodon,complete
+Ancient Creatures,Saber-Toothed Cats,Britannica,https://www.britannica.com/animal/saber-toothed-cat,complete
+Ancient Creatures,Woolly Mammoths,Britannica,https://www.britannica.com/animal/woolly-mammoth,complete
+Ancient Creatures,Giant Sloths,Britannica,https://www.britannica.com/animal/Megatherium,complete
+Ancient Creatures,Terror Birds,Florida Museum of Natural History,https://www.floridamuseum.ufl.edu/science/terror-bird-arrived-in-north-america-before-land-bridge/,complete
+Ancient Creatures,Trilobites,American Museum of Natural History,https://www.amnh.org/research/paleontology/collections/fossil-invertebrate-collection/trilobite-website,complete
+Ancient Creatures,Dunkleosteus,American Museum of Natural History,https://www.amnh.org/exhibitions/permanent/vertebrate-origins/dunkleosteus,complete
+Ancient Creatures,Archaeopteryx,Britannica,https://www.britannica.com/animal/Archaeopteryx,complete
+Ancient Creatures,Mosasaurs,Britannica,https://www.britannica.com/animal/mosasaur,complete
+Ancient Creatures,Dire Wolves,Britannica,https://www.britannica.com/animal/dire-wolf,complete
+Pirates,Blackbeard,Britannica,https://www.britannica.com/biography/Blackbeard,complete
+Pirates,Pirate Ships,Smithsonian National Museum of American History,https://americanhistory.si.edu/explore/exhibitions/on-the-water/online/living-atlantic-world/pirates/arsenal,complete
+Pirates,Treasure Maps,National Geographic,https://www.nationalgeographic.com/culture/article/pirate-maps-all-over-the-map,complete
+Pirates,Jolly Roger,Britannica,https://www.britannica.com/topic/Jolly-Roger,complete
+Pirates,Female Pirates,Royal Museums Greenwich,https://www.rmg.co.uk/stories/maritime-history/real-pirates-anne-bonny-mary-read,complete
+Pirates,Pirate Codes,New England Pirate Museum,https://www.piratemuseum.com/edagreem.htm,complete
+Pirates,Buccaneers,Britannica,https://www.britannica.com/topic/buccaneer,complete
+Pirates,Privateers,Britannica,https://www.britannica.com/technology/privateer,complete
+Pirates,Captain Kidd,Britannica,https://www.britannica.com/biography/William-Kidd,complete
+Pirates,Pirate Havens,Smithsonian Magazine,https://www.smithsonianmag.com/smart-news/shipwrecks-discovered-near-the-bahamas-tantalize-researchers-with-possible-ties-to-the-real-pirates-of-the-caribbean-180988901/,complete
+Castles & Fortresses,Moats,World History Encyclopedia,https://www.worldhistory.org/Medieval_Castle/,complete
+Castles & Fortresses,Drawbridges,Britannica,https://www.britannica.com/technology/military-technology/The-castle,complete
+Castles & Fortresses,Medieval Castles,Britannica,https://www.britannica.com/technology/castle-architecture,complete
+Castles & Fortresses,Japanese Castles,Britannica,https://www.britannica.com/art/Japanese-architecture/The-Azuchi-Momoyama-period,complete
+Castles & Fortresses,Fortresses,English Heritage,https://www.english-heritage.org.uk/castles/castles-through-time/,complete
+Castles & Fortresses,Castle Keeps,World History Encyclopedia,https://www.worldhistory.org/Castle_Keep/,complete
+Castles & Fortresses,Siege Towers,Britannica,https://www.britannica.com/technology/siege-tower,complete
+Castles & Fortresses,Battlements,Britannica,https://www.britannica.com/technology/battlement,complete
+Castles & Fortresses,Dungeon Myths,Exploring Castles,https://www.exploring-castles.com/castle_designs/castle_dungeon/,complete
+Castles & Fortresses,Hillforts,Historic Environment Scotland,https://www.historicenvironment.scot/visit-a-place/places/castlelaw-hill-fort/,complete
+Famous Disasters,Pompeii,Britannica,https://www.britannica.com/place/Pompeii,complete
+Famous Disasters,Chernobyl,Britannica,https://www.britannica.com/event/Chernobyl-disaster,complete
+Famous Disasters,Hindenburg,Smithsonian National Postal Museum,https://postalmuseum.si.edu/exhibition/fire-ice-hindenburg-and-titanic-exhibition/the-hindenburg-disaster,complete
+Famous Disasters,Krakatoa,Britannica,https://www.britannica.com/place/Krakatoa,complete
+Famous Disasters,Great Molasses Flood,Smithsonian Magazine,https://www.smithsonianmag.com/history/without-warning-molasses-january-surged-over-boston-180971251/,complete
+Famous Disasters,Dust Bowl,National Geographic Education,https://education.nationalgeographic.org/resource/dust-bowl/,complete
+Famous Disasters,Great Fire of London,London Museum,https://www.londonmuseum.org.uk/collections/london-stories/great-fire-of-london/,complete
+Famous Disasters,Fukushima,Britannica,https://www.britannica.com/event/Fukushima-accident,complete
+Famous Disasters,Challenger Disaster,NASA,https://www.nasa.gov/missions/space-shuttle/sts-51l/challenger-crew-report/,complete
+Famous Disasters,Great Chicago Fire,Britannica,https://www.britannica.com/event/Chicago-fire-of-1871,complete
+Strange Jobs,Lighthouse Keepers,Smithsonian Institution Archives,https://siarchives.si.edu/collections/siris_sic_317,complete
+Strange Jobs,Food Tasters,NC State Sensory Service Center,https://sensory.ncsu.edu/evaluation/,complete
+Strange Jobs,Falconers,The Archives of Falconry,https://falconry.org/virtual_exhibits/falconry_timeline/,complete
+Strange Jobs,Snake Milkers,Britannica,https://www.britannica.com/animal/spitting-cobra-group,complete
+Strange Jobs,Tea Tasters,Smithsonian Magazine,https://www.smithsonianmag.com/smart-news/fda-used-have-people-whose-job-was-taste-tea-180967545/,complete
+Strange Jobs,Professional Sleepers,NASA,https://www.nasa.gov/hrp/bedrest-faqs/,complete
+Strange Jobs,Odor Judges,Monell Chemical Senses Center,https://monell.org/potential-new-causes-for-the-odor-producing-disorder-tmau/,complete
+Strange Jobs,Foley Artists,FilmSound.org,https://www.filmsound.org/terminology/foley.htm,complete
+Strange Jobs,Pearl Divers,Britannica Kids,https://kids.britannica.com/students/article/Australian-pearling-industry/629336,complete
+Strange Jobs,Forensic Entomologists,Natural History Museum,https://www.nhm.ac.uk/discover/murder-maggots-forensic-entomology.html,complete
+Everyday Objects,Zippers,Britannica,https://www.britannica.com/art/zipper,complete
+Everyday Objects,Paper Clips,Michigan State University Campus Archaeology Program,https://campusarch.msu.edu/?p=1503,complete
+Everyday Objects,Toothbrushes,Library of Congress,https://www.loc.gov/everyday-mysteries/technology/item/who-invented-the-toothbrush-and-when-was-it-invented/,complete
+Everyday Objects,Umbrellas,Britannica,https://www.britannica.com/technology/umbrella,complete
+Everyday Objects,Mirrors,Britannica,https://www.britannica.com/technology/mirror-optics,complete
+Everyday Objects,Buttons,Britannica,https://www.britannica.com/topic/button-clothing-accessory,complete
+Everyday Objects,Keys,National Inventors Hall of Fame,https://www.invent.org/inductees/linus-yale-jr,complete
+Everyday Objects,Shoelaces,Lock Laces,https://www.locklaces.com/blogs/resources/history-of-shoes-shoelaces?srsltid=AfmBOorY68gYu4EI1bR7saNzuk65QKUXjf7y-kswJajtO0gpumh3RGOH,complete
+Everyday Objects,Pencils,Britannica,https://www.britannica.com/technology/pencil-writing-implement,complete
+Everyday Objects,Forks,Britannica,https://www.britannica.com/topic/flatware,complete
+Household Science,Soap,Britannica,https://www.britannica.com/story/how-does-soap-work,complete
+Household Science,Refrigerators,Britannica,https://www.britannica.com/technology/refrigeration,complete
+Household Science,Microwaves,National Inventors Hall of Fame,https://www.invent.org/inductees/percy-l-spencer,complete
+Household Science,Vacuum Cleaners,Science Museum,https://www.sciencemuseum.org.uk/objects-and-stories/everyday-wonders/invention-vacuum-cleaner,complete
+Household Science,Dishwashers,National Inventors Hall of Fame,https://www.invent.org/inductees/josephine-garis-cochran,complete
+Household Science,Nonstick Pans,Smithsonian Magazine,https://www.smithsonianmag.com/science-nature/the-long-strange-history-of-teflon-the-indestructible-product-nothing-seems-to-stick-to-180984920/,complete
+Household Science,Laundry Detergent,Britannica,https://www.britannica.com/technology/detergent,complete
+Household Science,Air Conditioning,National Inventors Hall of Fame,https://www.invent.org/inductees/willis-haviland-carrier,complete
+Household Science,Smoke Detectors,NIST,https://www.nist.gov/fire/history/1970s/driving-residential-smoke-alarm-adoption-1970s,complete
+Household Science,Light Switches,Design Museum,https://designmuseum.org/exhibitions/home-futures/the-light-switch,complete
+Famous Symbols,Peace Symbol,Britannica,https://www.britannica.com/story/where-did-the-peace-sign-come-from,complete
+Famous Symbols,Yin Yang,Britannica,https://www.britannica.com/topic/yinyang,complete
+Famous Symbols,Skull and Crossbones,MySafetySign,https://www.mysafetysign.com/poison-symbol-history?srsltid=AfmBOopk0jViUCOb1mfpq7S3ilcakoBUiZQSqWkRWuF3TrmLPzZvOgJD,complete
+Famous Symbols,Recycling Symbol,Grist,https://grist.org/culture/recycling-symbol-logo-plastic-design/,complete
+Famous Symbols,Infinity Symbol,Britannica,https://www.britannica.com/science/infinity-mathematics,complete
+Famous Symbols,Ampersand,Merriam-Webster,https://www.merriam-webster.com/dictionary/ampersand,complete
+Famous Symbols,Dollar Sign,U.S. Currency Education Program,https://www.uscurrency.gov/history,complete
+Famous Symbols,Heart Symbol,History Facts,https://historyfacts.com/arts-culture/article/where-did-the-heart-symbol-come-from/,complete
+Famous Symbols,Question Mark,The Punctuation Guide,https://www.thepunctuationguide.com/question-mark.html,complete
+Famous Symbols,Check Mark,Symbols.com,https://www.symbols.com/symbol/check-mark,complete
+Colors,Blue,Britannica,https://www.britannica.com/science/blue-color,complete
+Colors,Purple,Britannica,https://www.britannica.com/science/purple-color,complete
+Colors,Gold,Art UK,https://artuk.org/discover/stories/colour-in-art-a-brief-history-of-gold,complete
+Colors,Black,Britannica,https://www.britannica.com/science/black-color,complete
+Colors,Pink,Britannica,https://www.britannica.com/story/has-pink-always-been-a-girly-color,complete
+Colors,Red,Britannica,https://www.britannica.com/science/red-color,complete
+Colors,Green,Britannica,https://www.britannica.com/science/green-color,complete
+Colors,White,Britannica,https://www.britannica.com/science/white-color,complete
+Colors,Orange,Britannica,https://www.britannica.com/science/orange-color,complete
+Colors,Indigo,Britannica,https://www.britannica.com/technology/indigo-dye,complete
+Sleep & Dreams,Lucid Dreaming,Cleveland Clinic,https://health.clevelandclinic.org/lucid-dreams,complete
+Sleep & Dreams,Nightmares,Cleveland Clinic,https://health.clevelandclinic.org/what-causes-nightmares,complete
+Sleep & Dreams,Sleepwalking,Cleveland Clinic,https://my.clevelandclinic.org/health/diseases/14292-sleepwalking,complete
+Sleep & Dreams,Circadian Rhythm,NIH / NIGMS,https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms,complete
+Sleep & Dreams,REM Sleep,NIH / NCBI Bookshelf,https://www.ncbi.nlm.nih.gov/books/NBK526132/,complete
+Sleep & Dreams,Sleep Paralysis,Sleep Foundation,https://www.sleepfoundation.org/parasomnias/sleep-paralysis,complete
+Sleep & Dreams,Naps,Sleep Foundation,https://www.sleepfoundation.org/napping,complete
+Sleep & Dreams,Snoring,MedlinePlus,https://medlineplus.gov/snoring.html,complete
+Sleep & Dreams,Hibernation,Britannica,https://www.britannica.com/science/hibernation,complete
+Sleep & Dreams,Insomnia,NIH / NHLBI,https://www.nhlbi.nih.gov/health/insomnia,complete
+Illusions & Perception,Mirage,Britannica,https://www.britannica.com/topic/mirage-optical-illusion,complete
+Illusions & Perception,Color Illusions,Exploratorium,https://www.exploratorium.edu/snacks/colored-shadows,complete
+Illusions & Perception,Pareidolia,EBSCO,https://www.ebsco.com/research-starters/health-and-medicine/pareidolia,complete
+Illusions & Perception,Impossible Shapes,Illusions Index,https://www.illusionsindex.org/i/impossible-trident,complete
+Illusions & Perception,Motion Illusions,Illusions Index,https://www.illusionsindex.org/i/rotating-snakes,complete
+Illusions & Perception,The Dress,Scientific American,https://www.scientificamerican.com/blog/illusion-chasers/the-current-biology-of-the-dress/,complete
+Illusions & Perception,Blind Spots,Exploratorium,https://www.exploratorium.edu/snacks/blind-spot,complete
+Illusions & Perception,Depth Perception,Britannica,https://www.britannica.com/science/space-perception,complete
+Illusions & Perception,Afterimages,Exploratorium,https://www.exploratorium.edu/snacks/afterimage,complete
+Illusions & Perception,Forced Perspective,Nashville Film Institute,https://www.nfi.edu/forced-perspective/,complete
+Secret Codes,Caesar Cipher,Britannica,https://www.britannica.com/topic/Caesar-cipher,complete
+Secret Codes,Enigma Machine,Britannica,https://www.britannica.com/topic/Enigma-German-code-device,complete
+Secret Codes,Pigpen Cipher,Crypto Corner,https://crypto.interactive-maths.com/pigpen-cipher.html,complete
+Secret Codes,Navajo Code Talkers,Smithsonian National Museum of the American Indian,https://americanindian.si.edu/why-we-serve/topics/code-talkers/,complete
+Secret Codes,Semaphore,Britannica,https://www.britannica.com/technology/semaphore,complete
+Secret Codes,Cryptography,Britannica,https://www.britannica.com/topic/cryptography,complete
+Secret Codes,Book Cipher,Derek Bruff / Vanderbilt University,https://derekbruff.org/blogs/fywscrypto/historical-crypto/whats-in-a-book-a-brief-history-of-book-ciphers/,complete
+Secret Codes,One-Time Pad,Crypto Museum,https://www.cryptomuseum.com/crypto/otp/index.htm,complete
+Secret Codes,Scytale,Science and Media Museum,https://blog.scienceandmediamuseum.org.uk/top-secret-ciphers-from-ancient-greece-to-the-second-world-war/,complete
+Secret Codes,Steganography,CompTIA,https://www.comptia.org/en-us/blog/the-ancient-practice-of-steganography/,complete
+Superstitions,Friday the 13th,Britannica,https://www.britannica.com/topic/Friday-the-13th-superstition,complete
+Superstitions,Lucky Numbers,Britannica,https://www.britannica.com/topic/number-symbolism,complete
+Superstitions,Four-Leaf Clovers,Better Homes & Gardens,https://www.bhg.com/holidays/st-patricks-day/traditions/fun-facts-about-four-leaf-clovers/,complete
+Superstitions,Horseshoes,Kentucky Derby Museum,https://www.derbymuseum.org/hoofnotes/the-legend-of-the-horseshoe,complete
+Superstitions,Knocking on Wood,HISTORY,https://www.history.com/articles/why-do-people-knock-on-wood-for-luck,complete
+Superstitions,Black Cats,Carnegie Museum of Natural History,https://carnegiemnh.org/superstitions-and-black-cats/,complete
+Superstitions,Broken Mirrors,University of South Carolina,https://sc.edu/uofsc/posts/2021/06/06_conversation_broken_mirror.php,complete
+Superstitions,Walking Under Ladders,HowStuffWorks,https://people.howstuffworks.com/why-is-walking-under-ladder-unlucky.htm,complete
+Superstitions,Evil Eye,Britannica,https://www.britannica.com/topic/evil-eye,complete
+Superstitions,Rabbit’s Foot,HowStuffWorks,https://people.howstuffworks.com/rabbit-foot-lucky.htm,complete
+Human Behavior,Smiling,Association for Psychological Science,https://www.psychologicalscience.org/observer/the-psychological-study-of-smiling,complete
+Human Behavior,Eye Contact,EBSCO,https://www.ebsco.com/research-starters/communication-and-mass-media/eye-contact,complete
+Human Behavior,Handshakes,HISTORY,https://www.history.com/articles/what-is-the-origin-of-the-handshake,complete
+Human Behavior,Laughter,NIH / PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC4255480/,complete
+Human Behavior,Facial Expressions,iMotions,https://imotions.com/blog/learning/research-fundamentals/facial-expressions-a-complete-guide/,complete
+Human Behavior,Crossed Arms,Talk About Talk,https://www.talkabouttalk.com/body-language-and-communication/,complete
+Human Behavior,Posture,MedlinePlus,https://medlineplus.gov/guidetogoodposture.html,complete
+Human Behavior,Personal Space,EBSCO,https://www.ebsco.com/research-starters/communication-and-mass-media/personal-space,complete
+Human Behavior,Gestures,NIH / PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC7438760/,complete
+Human Behavior,Microexpressions,Paul Ekman Group,https://www.paulekman.com/resources/micro-expressions/,complete
+Explorers,Marco Polo,Britannica,https://www.britannica.com/biography/Marco-Polo,complete
+Explorers,Magellan,Britannica,https://www.britannica.com/biography/Ferdinand-Magellan,complete
+Explorers,Lewis and Clark,Britannica,https://www.britannica.com/event/Lewis-and-Clark-Expedition,complete
+Explorers,Jacques Cousteau,Britannica,https://www.britannica.com/biography/Jacques-Cousteau,complete
+Explorers,Ernest Shackleton,Britannica,https://www.britannica.com/biography/Ernest-Henry-Shackleton,complete
+Explorers,Ibn Battuta,Britannica,https://www.britannica.com/biography/Ibn-Battuta,complete
+Explorers,Zheng He,Britannica,https://www.britannica.com/biography/Zheng-He,complete
+Explorers,Sacagawea,National Park Service,https://www.nps.gov/people/sacagawea.htm,complete
+Explorers,Roald Amundsen,Britannica,https://www.britannica.com/biography/Roald-Amundsen,complete
+Explorers,Nellie Bly,Britannica,https://www.britannica.com/biography/Nellie-Bly,complete
+Famous Trees & Plants,Bamboo,Britannica,https://www.britannica.com/plant/bamboo,complete
+Famous Trees & Plants,Giant Sequoias,National Park Service,https://www.nps.gov/seki/learn/nature/bigtrees.htm,complete
+Famous Trees & Plants,Venus Flytraps,Britannica,https://www.britannica.com/plant/Venus-flytrap,complete
+Famous Trees & Plants,Cacti,Britannica,https://www.britannica.com/plant/cactus,complete
+Famous Trees & Plants,Cherry Blossoms,National Park Service,https://www.nps.gov/subjects/cherryblossom/history-of-the-cherry-trees.htm,complete
+Famous Trees & Plants,Baobab Trees,Britannica,https://www.britannica.com/plant/baobab-tree-genus,complete
+Famous Trees & Plants,Corpse Flower,Royal Botanic Gardens Kew,https://www.kew.org/plants/titan-arum,complete
+Famous Trees & Plants,Mangroves,Smithsonian Ocean,https://ocean.si.edu/ocean-life/plants-algae/mangroves,complete
+Famous Trees & Plants,Bonsai,U.S. National Arboretum,https://www.usna.usda.gov/discover/gardens-collections/national-bonsai-penjing-museum,complete
+Famous Trees & Plants,Poison Ivy,Britannica,https://www.britannica.com/plant/poison-ivy-plant,complete
+Insects,Ants,Britannica,https://www.britannica.com/animal/ant,complete
+Insects,Butterflies,Britannica,https://www.britannica.com/animal/butterfly-insect,complete
+Insects,Dragonflies,Britannica,https://www.britannica.com/animal/dragonfly,complete
+Insects,Fireflies,Britannica,https://www.britannica.com/animal/firefly-insect,complete
+Insects,Praying Mantises,Britannica,https://www.britannica.com/animal/mantid,complete
+Insects,Bees,Britannica,https://www.britannica.com/animal/bee,complete
+Insects,Termites,Britannica,https://www.britannica.com/animal/termite,complete
+Insects,Cicadas,Britannica,https://www.britannica.com/animal/cicada,complete
+Insects,Mosquitoes,CDC,https://www.cdc.gov/mosquitoes/about/index.html,complete
+Insects,Beetles,Smithsonian Institution,https://www.si.edu/spotlight/buginfo/beetle,complete
+Strange Places,Dead Sea,Britannica,https://www.britannica.com/place/Dead-Sea,complete
+Strange Places,Door to Hell,National Geographic Education,https://education.nationalgeographic.org/resource/entering-door-hell/,complete
+Strange Places,Blood Falls,Smithsonian Magazine,https://www.smithsonianmag.com/travel/antarcticas-blood-red-waterfall-180949507/,complete
+Strange Places,Giant’s Causeway,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway/history-of-giants-causeway,complete
+Strange Places,Salar de Uyuni,Britannica,https://www.britannica.com/place/Uyuni-Salt-Flat,complete
+Strange Places,Lake Hillier,Western Australia Tourism,https://www.westernaustralia.com/us/plan-my-trip/planning-tools/travel-stories/the-amazing-pink-lakes-of-western-australia,complete
+Strange Places,Catacombs of Paris,Paris Catacombs Official Site,https://www.catacombes.paris.fr/en/history/site-history,complete
+Strange Places,Socotra,UNESCO World Heritage Centre,https://whc.unesco.org/en/list/1263/,complete
+Strange Places,Pamukkale,UNESCO World Heritage Centre,https://whc.unesco.org/en/list/485/,complete
+Strange Places,Fly Geyser,Friends of Black Rock-High Rock,https://www.blackrockdesert.org/fly-ranch,complete
+Human Civilization,Calendars,Britannica,https://www.britannica.com/science/calendar,complete
+Human Civilization,Coins,Britannica,https://www.britannica.com/money/coin,complete
+Human Civilization,Roads,Britannica,https://www.britannica.com/technology/Roman-road-system,complete
+Human Civilization,Maps,Library of Congress,https://www.loc.gov/maps/collections/,complete
+Human Civilization,Timekeeping,Britannica,https://www.britannica.com/technology/clock,complete
+Human Civilization,Agriculture,Britannica,https://www.britannica.com/topic/agriculture/How-agriculture-and-domestication-began,complete
+Human Civilization,Cities,Britannica,https://www.britannica.com/topic/city,complete
+Human Civilization,Laws,Britannica,https://www.britannica.com/topic/law-code,complete
+Human Civilization,Irrigation,Britannica,https://www.britannica.com/topic/hydraulic-civilization,complete
+Human Civilization,Sewers,Britannica,https://www.britannica.com/technology/sewerage-system,complete

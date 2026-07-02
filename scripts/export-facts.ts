@@ -10,7 +10,6 @@ type ApprovedFactRow = {
   summary: string;
   tags: string;
   readTimeSeconds: string;
-  funScore: string;
   featured: string;
   relatedFactIds: string;
 };
@@ -39,7 +38,6 @@ async function main() {
     topic: row.topic,
     tags: splitCsvList(row.tags),
     readTimeSeconds: Number(row.readTimeSeconds),
-    funScore: Number(row.funScore),
     featured: row.featured === "true",
     relatedFactIds: splitCsvList(row.relatedFactIds),
   }));

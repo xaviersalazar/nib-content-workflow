@@ -357,7 +357,7 @@ Export only PASS facts.
 Headers:
 
 ```csv
-id,categoryId,topic,headline,body,summary,tags,readTimeSeconds,funScore,featured,relatedFactIds
+id,categoryId,topic,headline,body,summary,tags,readTimeSeconds,featured,relatedFactIds
 ```
 
 ---
@@ -437,14 +437,6 @@ Approximate reading time.
 Target:
 
 30–60 seconds.
-
----
-
-## funScore
-
-1–10 engagement score.
-
-Supports validation but does not replace it.
 
 ---
 

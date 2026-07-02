@@ -61,17 +61,14 @@ category
 topic
 institution
 url
-tier
 status
 ```
 
 ---
 
-# Tier Definitions
+# Trusted Sources
 
-## Tier 1
-
-Primary sources.
+Prefer primary sources.
 
 Examples:
 
@@ -82,53 +79,13 @@ Examples:
 - Britannica
 - National Geographic
 
-Priority:
-
-★★★★★
-
----
-
-## Tier 2
-
-Highly trusted secondary sources.
-
-Examples:
+Highly trusted secondary sources are also fine:
 
 - Harvard Business Review
 - ArchDaily
 - Psychology Today
 
-Priority:
-
-★★★★☆
-
----
-
-## Tier 3
-
-Discovery sources.
-
-Require manual review.
-
-Priority:
-
-★★★☆☆
-
----
-
-# Source Selection
-
-Always process:
-
-Tier 1
-
-before
-
-Tier 2
-
-before
-
-Tier 3
+Discovery sources require manual review — use them sparingly.
 
 ---
 
@@ -158,8 +115,7 @@ Example:
   "category": "Space",
   "topic": "Black Holes",
   "institution": "NASA",
-  "url": "https://science.nasa.gov/universe/black-holes/",
-  "tier": 1
+  "url": "https://science.nasa.gov/universe/black-holes/"
 }
 ```
 
@@ -173,7 +129,7 @@ Work in waves.
 
 ## Wave 1
 
-Tier 1 + Automation Friendly
+Automation-Friendly Sources
 
 Examples:
 

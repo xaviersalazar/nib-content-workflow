@@ -8,7 +8,6 @@ type SourceRow = {
   topic: string;
   institution: string;
   url: string;
-  tier: string;
   status: string;
 };
 

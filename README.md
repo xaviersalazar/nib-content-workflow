@@ -92,7 +92,6 @@ Expected columns:
 - `topic`
 - `institution`
 - `url`
-- `tier`
 - `status`
 
 ### Export Approved Facts
@@ -102,7 +101,7 @@ Expected columns:
 If the input file does not exist yet, create it with at least this header:
 
 ```csv
-id,categoryId,topic,headline,body,summary,tags,readTimeSeconds,funScore,featured,relatedFactIds
+id,categoryId,topic,headline,body,summary,tags,readTimeSeconds,featured,relatedFactIds
 ```
 
 Notes:
@@ -117,7 +116,6 @@ Notes:
 | `summary`         | One-sentence summary of the fact.                                                                                                                                                                                                   |
 | `tags`            | Comma-separated list of tags (e.g. `space,gravity,physics`).                                                                                                                                                                        |
 | `readTimeSeconds` | Estimated read time as a whole number of seconds.                                                                                                                                                                                   |
-| `funScore`        | Engagement score from 1–10.                                                                                                                                                                                                         |
 | `featured`        | `true` or `false` — whether the fact is featured.                                                                                                                                                                                   |
 | `relatedFactIds`  | Comma-separated list of related fact `id` values. Leave blank if none.                                                                                                                                                              |
 

@@ -71,7 +71,6 @@ Schema:
       "tags": [],
       "readTimeSeconds": 45,
       "difficulty": "easy",
-      "funScore": 1,
       "featured": false,
       "evergreen": true
     }

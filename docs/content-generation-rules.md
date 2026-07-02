@@ -303,7 +303,6 @@ body,
 summary,
 tags,
 readTimeSeconds,
-funScore,
 featured,
 relatedFactIds
 ```

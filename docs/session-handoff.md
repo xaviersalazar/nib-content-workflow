@@ -455,8 +455,7 @@ zero "Britannica"/source-attribution framing left in the new category.
 
 ## Other notes
 - `id` is permanent — never change it, even on a full rewrite (other facts' `relatedFactIds` point at it).
-- `funScore` is not a real quality signal here (almost everything is 9–10) — judge on content.
-- CSV columns: `id, categoryId, topic, headline, body, summary, tags, readTimeSeconds, funScore,
+- CSV columns: `id, categoryId, topic, headline, body, summary, tags, readTimeSeconds,
   featured, relatedFactIds`.
 - This is **not a git repo**; the only versioning is the timestamped `approved-facts.backup-*.csv` files.
 - The user's cadence: they add a category between sessions, then say "run the same process." They approve

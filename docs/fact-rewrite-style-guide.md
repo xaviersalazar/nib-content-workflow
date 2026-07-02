@@ -35,7 +35,7 @@ The whole pipeline depends on facts being validated against the source. When rew
 
 ### `id` — NEVER change it
 IDs are permanent (`{topic}-{short-desc}`). The app and `relatedFactIds` depend on them.
-Rewrites change wording only, never the id. Don't touch `tags`, `funScore`, `featured`,
+Rewrites change wording only, never the id. Don't touch `tags`, `featured`,
 `readTimeSeconds`, `categoryId`, or `topic` either.
 
 ### `headline`

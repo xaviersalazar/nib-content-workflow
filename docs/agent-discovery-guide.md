@@ -102,7 +102,7 @@ The source discovery agent should never generate facts.
 CSV rows must match:
 
 ```csv
-category,topic,institution,url,tier,status
+category,topic,institution,url,status
 ```
 
 When producing CSV output for the user, do **not** include the header row.
@@ -112,15 +112,15 @@ Output only the rows themselves.
 Correct:
 
 ```csv
-Space,Kuiper Belt,NASA,https://science.nasa.gov/solar-system/kuiper-belt/facts/,1,pending
-Space,Oort Cloud,NASA,https://science.nasa.gov/solar-system/oort-cloud/facts/,1,pending
+Space,Kuiper Belt,NASA,https://science.nasa.gov/solar-system/kuiper-belt/facts/,pending
+Space,Oort Cloud,NASA,https://science.nasa.gov/solar-system/oort-cloud/facts/,pending
 ```
 
 Incorrect:
 
 ```csv
-category,topic,institution,url,tier,status
-Space,Kuiper Belt,NASA,https://science.nasa.gov/solar-system/kuiper-belt/facts/,1,pending
+category,topic,institution,url,status
+Space,Kuiper Belt,NASA,https://science.nasa.gov/solar-system/kuiper-belt/facts/,pending
 ```
 
 Status should always be:
@@ -133,11 +133,9 @@ unless the user explicitly requests otherwise.
 
 ---
 
-# Source Tier Definitions
+# Trusted Sources
 
-## Tier 1
-
-Highly trusted primary or institutional sources.
+Prefer highly trusted primary or institutional sources.
 
 Examples:
 
@@ -162,15 +160,8 @@ Examples:
 - SETI Institute
 - The Canadian Encyclopedia
 
-Use Tier 1 whenever possible.
-
----
-
-## Tier 2
-
-Trusted secondary or specialized sources.
-
-Examples:
+Trusted secondary or specialized sources are also fine when they provide better
+curiosity density or a better working page:
 
 - HowStuffWorks
 - TIME
@@ -185,15 +176,7 @@ Examples:
 - MovieWeb
 - Hollywood Reporter
 
-Use Tier 2 when it provides better curiosity density or a better working page than Tier 1.
-
----
-
-## Tier 3
-
-Lower-confidence discovery sources.
-
-Use sparingly and only when:
+Use lower-confidence discovery sources sparingly and only when:
 
 - the topic is valuable
 - no stronger source exists
@@ -699,7 +682,6 @@ Before generating CSV, confirm:
 - Topic names match the approved topics.
 - Institution names are consistent.
 - URL values are final approved URLs.
-- Tier values are appropriate.
 - Status is `pending`.
 - No CSV header row is included.
 
