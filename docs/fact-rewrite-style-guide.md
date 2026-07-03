@@ -1,4 +1,4 @@
-# TIL Fact Rewrite Style Guide
+# Nib Fact Rewrite Style Guide
 
 How to rewrite `approved-facts.csv` facts so they (1) hook a reader in a notification and
 (2) read at a teen/child-friendly level — **without inventing anything**. This captures the

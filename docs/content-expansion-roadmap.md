@@ -1,4 +1,4 @@
-# TIL Content Workflow
+# Nib Content Workflow
 
 # Content Expansion Roadmap
 
@@ -71,7 +71,7 @@ Every month ships **two** things:
 
    Collections are **curation, not new content**: each one is a hand-picked
    `factIds` list drawn from facts that already exist (see
-   `TIL/TIL/Models/Collection.swift`). With 56 categories and 700+ topics live,
+   `Nib/Nib/Models/Collection.swift`). With 56 categories and 700+ topics live,
    we can ship a fresh Collection every month *without drafting a single new
    fact* — it's pure packaging and a free marketing beat.
 

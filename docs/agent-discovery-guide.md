@@ -1,4 +1,4 @@
-# TIL Source Discovery Agent Guide
+# Nib Source Discovery Agent Guide
 
 ## Purpose
 

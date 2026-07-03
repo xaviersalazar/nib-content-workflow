@@ -1,6 +1,6 @@
-# TIL Content Workflow — TIL Content Schema Reference
+# Nib Content Workflow — Nib Content Schema Reference
 
-This document describes the three JSON content files that power the **TIL (Today I Learned)** iOS app. It is intended to give a content-generation application everything it needs to produce valid, well-structured `categories.json` and `collections.json` files, anchored to the existing facts in `facts.json`.
+This document describes the three JSON content files that power the **Nib** iOS app. It is intended to give a content-generation application everything it needs to produce valid, well-structured `categories.json` and `collections.json` files, anchored to the existing facts in `facts.json`.
 
 ---
 

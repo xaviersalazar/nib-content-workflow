@@ -1,15 +1,15 @@
-# TIL Content — "Wow" Rewrite Workflow: Session Handoff
+# Nib Content — "Wow" Rewrite Workflow: Session Handoff
 
 > Last updated: 2026-07-02 · 2187 facts · 55 categories
 > (Keep this line current — bump it every time a category is finished. See step 9 of the standing pattern.)
 
 ## What this is
-TIL ("Today I Learned") is an iOS app that serves one fascinating fact a day. Content lives in a single
+Nib is an iOS app that serves one fascinating fact a day. Content lives in a single
 CSV. New categories get added as **textbook-style dumps** (bare definitions, often citing "Britannica"),
 and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fact in the app's house voice.
 
 ## Key locations
-- **CSV:** `til-content-workflow/approved-content/approved-facts.csv`
+- **CSV:** `nib-content-workflow/approved-content/approved-facts.csv`
 - **Run scripts from:** the `approved-content/` directory.
 - **The playbook (read it first):** `docs/topic-curation-and-quality-guide.md`
 - Voice/style rules also in `docs/fact-rewrite-style-guide.md`; the 3-per-topic rule in

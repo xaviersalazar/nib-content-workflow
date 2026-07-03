@@ -1,4 +1,4 @@
-# TIL Content Workflow
+# Nib Content Workflow
 
 A lightweight content pipeline for building high-quality "Today I Learned" facts from trusted sources.
 

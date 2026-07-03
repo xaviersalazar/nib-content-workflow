@@ -30,7 +30,7 @@ Do not introduce new facts.
 
 # User Prompt
 
-Rewrite this fact in the TIL voice.
+Rewrite this fact in the Nib voice.
 
 Rules:
 

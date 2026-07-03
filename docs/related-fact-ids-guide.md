@@ -1,11 +1,11 @@
 # `relatedFactIds` — Content Generation Context
 
 > Context for generating the `relatedFactIds` field. Describes how and why the
-> TIL iOS app consumes it, so generated values match what the app expects.
+> Nib iOS app consumes it, so generated values match what the app expects.
 
 ## What it is
 
-`relatedFactIds` is a field on the **Fact** model in the TIL iOS app:
+`relatedFactIds` is a field on the **Fact** model in the Nib iOS app:
 
 ```swift
 struct Fact: Identifiable, Codable, Equatable {
@@ -23,7 +23,7 @@ there is no separate graph database; the relationships live inline on each fact.
 
 ## Purpose / Why It Exists
 
-TIL's product promise is *"Come for one fact. Stay for five."* `relatedFactIds`
+Nib's product promise is *"Come for one fact. Stay for five."* `relatedFactIds`
 is the mechanism that turns a single fact into a **discovery journey**. When a
 user reads a fact, the app surfaces a "More to Discover" section built from that
 fact's `relatedFactIds`, letting them hop from one fact to the next along
