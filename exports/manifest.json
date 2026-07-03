@@ -1,11 +1,11 @@
 {
-  "contentVersion": 2,
+  "contentVersion": 3,
   "schemaVersion": 1,
   "files": [
     {
       "name": "facts",
       "url": "facts.json",
-      "sha256": "af49d00b749a873dd889de5e15f17bf07b08d1ccfbc6993200bf1a635dc78308"
+      "sha256": "0afb3c18b6e900466c703eb6a7ea0d672b7aeb10852109290674ac80c4d09a1e"
     },
     {
       "name": "categories",
