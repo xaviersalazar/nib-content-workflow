@@ -45,7 +45,12 @@ Requirements:
 
 - Use ONLY facts from the source text — never invent specifics, numbers, or names
 - body: 4–5 short sentences, ~60–90 words, 30–60 second read
+- Never name or cite the source in the body — state facts directly. No "Britannica says",
+  "According to NASA", "Scientists think", "Studies found". Keep real uncertainty as a plain
+  hedge (may/likely/probably). Exception: keep an org name when it is the fact's actual
+  subject or actor (e.g. "NASA's Apollo missions", "IBM's Deep Blue"), not a cited authority.
 - Reading level: grade 6–8 (teen/child-friendly) — short sentences, plain words
+- Keep every sentence under ~28 words; split run-ons
 - headline: catchy, leads with the surprise (not a definition)
 - summary: a one-sentence teaser that adds intrigue — NEVER an echo of the headline
 - Do not end the body with a vague filler-closer sentence

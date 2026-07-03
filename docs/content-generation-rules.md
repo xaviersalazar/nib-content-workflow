@@ -229,6 +229,29 @@ Do NOT end the body with a vague life-lesson sentence. Delete these:
 
 End on a concrete, interesting point instead.
 
+### State Facts Directly — Never Cite the Source in the Body
+
+The body must read as confident knowledge, not a report of what a source said. Do **not**
+name the source or use attribution framing in the body.
+
+- ❌ "Britannica says the first smartphone was sold in 1993."
+- ❌ "According to NASA, Voyager 1 travels a million miles a day."
+- ❌ "Scientists think…", "Studies found…", "Historians estimate…" (generic attribution)
+- ✅ "The first smartphone was sold in 1993."
+- ✅ "Voyager 1 travels about a million miles a day."
+
+Keep genuine uncertainty as a plain hedge instead (*may, likely, probably, roughly*):
+"Uranus was probably knocked over by a massive early crash."
+
+**Exception:** keep a proper noun when the organization is the fact's actual **subject or
+actor**, not an authority being quoted — e.g. "NASA's *Apollo* missions," "IBM's *Deep Blue*
+beat Kasparov," "the ancient *Olympics*." Quick test: if the sentence still states a true,
+specific fact after you delete the org name, it was a citation — cut it. If deleting it
+breaks the fact, it's the subject — keep it (but still drop any "says/according to" framing).
+
+> Full rationale, the July 2026 source-removal pass process, and the detect→rewrite→verify
+> steps live in `docs/fact-rewrite-style-guide.md` ("Source attribution — keep it out of the body").
+
 ### Desired Style
 
 Like a curious friend explaining something cool over coffee — warm, conversational, a

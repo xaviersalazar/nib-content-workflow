@@ -75,6 +75,69 @@ Rewrites change wording only, never the id. Don't touch `tags`, `featured`,
 - **Use concrete anchors that are already implied**, not new facts: "like a strand of
   spaghetti," "about as tall as a two-story building," "faster than a person can sprint."
 - Spell out or simplify jargon the first time (e.g. "the event horizon — the edge").
+- **State the fact directly — never name or cite the source in the body.** The body must
+  read as confident knowledge, not a report of what a source said. See the section below.
+
+---
+
+## Source attribution — keep it out of the body
+
+The body should sound like a knowledgeable friend stating a fact, not a book report. Never
+let the source's name or a hedge-verb sit in the body.
+
+**Cut all of these (citation framing):**
+
+- ❌ "Britannica says the first smartphone was sold in 1993."
+- ❌ "According to the Cleveland Clinic, déjà vu is a false sense of familiarity."
+- ❌ "NASA says Voyager 1 travels about a million miles a day."
+- ❌ "The Hollywood Reporter contrasts vintage Technicolor prints…"
+- ✅ "The first smartphone was sold in 1993." / "Déjà vu is a false sense of familiarity."
+  / "Voyager 1 travels about a million miles a day."
+
+This also covers **generic, unnamed attribution** — the same voice with a placeholder
+authority instead of a brand name. Rewrite these to state the claim directly, keeping any
+genuine uncertainty as a plain hedge (*may, likely, probably, roughly*):
+
+- ❌ "Scientists think…" → ✅ "Researchers now believe…" is still weak; prefer "Uranus was
+  probably knocked over by a massive early crash."
+- ❌ "Studies found that companies which added '.com'…" → ✅ "Companies that added '.com'…"
+- ❌ "Historians estimate the presses produced 20 million books." → ✅ "Within fifty years,
+  European presses produced an estimated 20 million books."
+
+### The one exception: the org **is** the fact, not the citation
+
+Keep a proper noun when the organization is the actual **subject or actor** of the fact,
+not an authority being quoted. Removing it there would break the fact or invent a vaguer one.
+
+- ✅ Keep: "NASA's *Apollo* missions," "IBM's *Deep Blue* beat Kasparov," "the ancient
+  *Olympics*," "*Martin-Baker's* ejection seats have saved 7,700 aircrew," "Tim Berners-Lee
+  invented the Web at *CERN*," "the *Smithsonian* preserves the first scanned barcode."
+- ❌ Remove: any "*Org* says / explains / defines / notes / found / according to *Org*."
+
+Quick test: if the sentence still states a true, specific fact after you delete the org
+name, it was a **citation** — delete it. If deleting the name leaves "someone did a thing"
+or forces you to make something up, it was the **subject** — keep it, but still drop any
+"says/notes/according to" framing around it.
+
+### Process used in the July 2026 source-removal pass (582 facts)
+
+1. **Detect.** Scan every `body` for (a) any institution name from
+   `source-registry/sources.csv` immediately followed by an attribution verb
+   (`says, explains, defines, notes, describes, identifies, according to, …`), and
+   (b) generic attribution (`scientists/researchers/historians/studies … say/found/think/
+   estimate/have`). Case-sensitive-match the few source names that are also common English
+   words (*History, TIME, Fisheries, Travelers*) to avoid false hits.
+2. **Rewrite `body` only.** Never touch `id`, `headline`, `summary`, `tags`, `themes`,
+   `categoryId`, `topic`, `featured`, or `readTimeSeconds`. Apply edits with a Python script
+   keyed by `id` (read/write with the `csv` module to preserve quoting).
+3. **Keep it source-grounded.** Only reword claims already in the fact — no new numbers,
+   names, or specifics. Preserve every existing number, date, and proper noun exactly.
+4. **Verify.** Re-scan **all** bodies (not just the ones you changed): the count of
+   name-citations and generic-attributions must reach **0**. Confirm same id set, same row
+   count, only `body` changed, no summary equal to its headline, and the grade distribution
+   did not regress (the removal usually *lowers* grade, since "Org says" framing is dropped).
+5. Keep bodies to 4–5 sentences with **no single sentence over ~28 words** — split run-ons
+   created while unwinding a citation clause.
 
 ---
 
