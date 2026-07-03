@@ -1,0 +1,21 @@
+{
+  "contentVersion": 2,
+  "schemaVersion": 1,
+  "files": [
+    {
+      "name": "facts",
+      "url": "facts.json",
+      "sha256": "af49d00b749a873dd889de5e15f17bf07b08d1ccfbc6993200bf1a635dc78308"
+    },
+    {
+      "name": "categories",
+      "url": "categories.json",
+      "sha256": "f60bda795501f54fac1f51221d51082dc09a9455f49283df8f09e2e12e60a305"
+    },
+    {
+      "name": "collections",
+      "url": "collections.json",
+      "sha256": "5271e8cb13eda88688c69ba5ca8a95e42507f16feb570f354f59e40f245c0287"
+    }
+  ]
+}
