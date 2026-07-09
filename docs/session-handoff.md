@@ -4,7 +4,7 @@
 > (Keep this line current — bump it every time a category is finished. See step 9 of the standing pattern.)
 
 ## What this is
-Nib is an iOS app that serves one fascinating fact a day. Content lives in a single
+Nib is an iOS app that serves something new every day. Content lives in a single
 CSV. New categories get added as **textbook-style dumps** (bare definitions, often citing "Britannica"),
 and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fact in the app's house voice.
 

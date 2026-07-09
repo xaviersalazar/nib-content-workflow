@@ -7,7 +7,7 @@ Run this every time you add (or revisit) a category in `approved-content/approve
 
 ## 0. The North Star
 
-Nib delivers **one fascinating thing a day** — premium, content-first, **no clickbait**. Every fact must
+Nib delivers **something new every day** — premium, content-first, **no clickbait**. Every fact must
 stand on its own and make an average reader go **"wait, really?"**
 
 A fact fails if an average adult **already knows it** or it reads like a **textbook definition / formula**
