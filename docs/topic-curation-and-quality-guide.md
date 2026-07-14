@@ -17,9 +17,14 @@ with no twist. Those get rewritten (preferred) or removed.
 
 ## 1. Structure rules
 
-- **Hard cap: 3 facts per topic.** Every topic ships **exactly 3** (or fewer if only 1–2 are truly strong —
-  never pad to 3 with a weak fact). See `docs/content-generation-rules.md`.
-- A category is a set of ~15 topics × 3 = ~45 facts.
+- **Cap: up to 3 facts per topic — quality-gated, not a quota.** A topic ships the **best 1–3** facts
+  that each clear the "wait, really?" bar. **Never pad to 3 with a weak, textbook, or redundant fact** —
+  a topic with 1–2 strong facts is finished. 3 is a ceiling, not a target. See `docs/content-generation-rules.md`.
+  - This is deliberate: forcing "exactly 3" on abstract/technical topics (AI, coffee, tech, movies) is what
+    produced flat filler like *"Espresso Cut Brewing Time to 30 Seconds"* or *"A Blockchain Is a Distributed Ledger."*
+    Better a topic of 1 great fact than 1 great + 2 definitions.
+  - If a topic genuinely has **zero** strong facts, drop the topic — don't manufacture one to fill the slot.
+- A category is roughly ~15 topics averaging 2–3 facts each (~30–45 facts) — the count follows quality, not a formula.
 - CSV columns: `id, categoryId, topic, headline, body, summary, tags, readTimeSeconds, featured, relatedFactIds`
 - **`id` is permanent.** Never change it once set, even when you rewrite a fact's content — other facts'
   `relatedFactIds` point at it. (A slightly-stale id slug is fine; a broken link is not.)
@@ -79,7 +84,7 @@ Match the existing rows:
 
 ## 4. Suggested session workflow
 
-1. **Inspect structure** — counts per topic; confirm 3 each (run Pass A if any are over).
+1. **Inspect structure** — counts per topic; confirm **no topic exceeds 3** (run Pass A if any are over). Topics with 1–2 strong facts are fine and need no padding.
 2. **Dump the category** with full bodies and read every fact.
 3. **Propose the slate** topic-by-topic: which to keep, which to rewrite (with the new angle), which to
    remove. Get human approval. (Going category-by-category keeps review manageable.)
@@ -183,13 +188,13 @@ print("topics not at 3:",[k for k,c in Counter((r['categoryId'],r['topic']) for 
 - **Misfiled topic** (e.g. a `Bearings` fact sitting under `sports` instead of `engineering`). Move it by
   changing its `categoryId`.
 - **Dangling `relatedFactIds`** after removing a fact. Strip any ref whose target id no longer exists.
-- After fixes, every topic should read **exactly 3** in check 5e.
+- After fixes, every topic should read **1–3** in check 5e (never more than 3; 1–2 is fine when that's all that's strong).
 
 ---
 
 ## 7. Definition of done for a category
 
-- [ ] Every topic has exactly 3 facts
+- [ ] No topic has more than 3 facts (1–2 is fine — quality over quota; never padded to 3)
 - [ ] No fact is "obvious to an average person" or a bare textbook definition
 - [ ] No duplicate rows or ids; no dangling `relatedFactIds`
 - [ ] No cross-topic / cross-category duplicate angles
