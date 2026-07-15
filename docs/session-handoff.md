@@ -1,7 +1,7 @@
 # Nib Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-02 · 2187 facts · 55 categories
-> (Keep this line current — bump it every time a category is finished. See step 9 of the standing pattern.)
+> Last updated: 2026-07-14 · 1928 facts · 55 categories
+> (Keep this line current — bump it every time a category is finished or the library changes. See step 9 of the standing pattern.)
 
 ## What this is
 Nib is an iOS app that serves something new every day. Content lives in a single
@@ -9,18 +9,47 @@ CSV. New categories get added as **textbook-style dumps** (bare definitions, oft
 and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fact in the app's house voice.
 
 ## Key locations
-- **CSV:** `nib-content-workflow/approved-content/approved-facts.csv`
+- **CSV (source of truth):** `nib-content-workflow/approved-content/approved-facts.csv`
 - **Run scripts from:** the `approved-content/` directory.
-- **The playbook (read it first):** `docs/topic-curation-and-quality-guide.md`
-- Voice/style rules also in `docs/fact-rewrite-style-guide.md`; the 3-per-topic rule in
-  `docs/content-generation-rules.md`.
-- **Persistent memory:** `til_content_pipeline_state.md` (in the Claude memory dir) tracks the running
-  state + every de-dup decision (exhaustive per-category log). Update it after each category, alongside
-  this handoff doc.
+- **The category playbook (read first):** `docs/topic-curation-and-quality-guide.md` — includes §8, the
+  reproducible whole-library weed-out.
+- **Voice / writing / rewrite / flatness rules:** `docs/fact-writing-and-quality-guide.md` (the Fact Writing &
+  Quality Guide — now consolidates the old `fact-rewrite-style-guide` + `manual-ai-assisted` docs).
+- **JSON / field / relatedFactIds contract:** `docs/content-schema-reference.md`.
+- **Source discovery + registry:** `docs/source-discovery-and-registry.md` (now includes the old
+  `trusted-source-workflow`).
+- **Roadmap (fascination-first):** `docs/content-expansion-roadmap.md`.
+- **CDN publish:** `../Nib/cdn/README.md` + `../Nib/cdn/build-manifest.sh`.
+- **Persistent memory:** `nib_content_pipeline_state.md` (in the Claude memory dir) tracks the running
+  state + every de-dup decision (exhaustive per-category log). Update it alongside this handoff doc — but
+  **this doc, not memory, is the durable handoff** (memory can't be relied on across machines/devs).
 
-## Current state (2026-07-02)
-- **2187 facts · 55 categories · every topic exactly 3 facts.**
-- All 55 categories have been rewritten via this workflow. Categories: space, astronomy, history,
+## Current state (2026-07-14)
+- **1928 facts · 55 categories · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+
+### What changed on 2026-07-14 (major library edit — reproduce via curation-guide §8)
+- **Flat-fact weed-out: 2187 → 1928.** Read every fact; flagged 284 flat ones (the 4 red-flags now in
+  `fact-writing-and-quality-guide.md` §3 — textbook-def / vague-abstract / obvious / incremental-process, e.g.
+  *"Espresso Cut Brewing Time to 30 Seconds"*). **Rewrote 25** (elevated a buried gem, kept `id`), **removed
+  259**, dropped 2 emptied topics (`engineering/Bearings`, `internet-culture/Reaction GIFs`). Ran the full
+  pipeline (normalize:tags → assign:themes → generate:related → export:facts), synced
+  `Nib/Nib/Data/facts.json`, fixed 5 dangling `collections.json` refs. Audit trail:
+  `approved-content/flat-fact-decisions.csv` + `approved-facts.backup-20260714-*.csv`.
+- **Rule relaxed:** "exactly 3 per topic" → **"up to 3, quality-gated."** Both `fact-writing-and-quality-guide.md`
+  and `topic-curation-and-quality-guide.md` now say this; padding to 3 was the root cause of the flat facts.
+- **Fun Score removed** from the workflow (it wasn't a reliable indicator). Validation is now the pass/fail
+  tests in `fact-writing-and-quality-guide.md` §6, no numeric score.
+- **Docs consolidated 10 → 6:** merged the 3 writing docs into `fact-writing-and-quality-guide.md`; merged
+  `trusted-source-workflow` into `source-discovery-and-registry.md`; folded `related-fact-ids-guide` into
+  `content-schema-reference.md`.
+- **Roadmap rewritten fascination-first:** 6 flat-prone upcoming categories (Philosophy, Money & Personal
+  Finance, Energy & Power, Mirrors, Art, Ships) swapped for high-curiosity ones (Survival & the Body's
+  Limits, Forensics, Poisons/Venom & Toxins, Perfume & Smell, Microscopic Life, Heists/Escapes & Cons);
+  seasonal weight moved onto the Collections. See `content-expansion-roadmap.md`.
+- **CDN:** v4 drop staged in `nib-content-workflow/exports/` (facts + collections checksums changed);
+  publish per `Nib/cdn/README.md`. Confirm live version with `curl cdn.nibapp.net/v1/manifest.json`.
+
+- All 55 categories were rewritten via this workflow. Categories: space, astronomy, history,
   ancient-civilizations, animals, ocean-life, human-body, psychology, food, coffee, technology,
   artificial-intelligence, internet-culture, video-games, movies, music, sports, engineering, aviation,
   cars, physics, chemistry, mathematics, business, economics, literature, languages, architecture,
@@ -34,13 +63,10 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   strange-jobs, everyday-objects, household-science, famous-symbols, colors (2026-06-30) →
   sleep-dreams, illusions-perceptions, secret-codes, superstitions, human-behavior, explorers,
   famous-trees-plants, insects (2026-07-01) → strange-places, human-civilization (2026-07-02).
-- **Size exceptions** (left as-is, every topic still at 3): most categories are 15 topics x 3 = 45.
-  Exceptions: `religion-beliefs` 16 topics (48); `myths-legends` 16 (48); `dinosaurs`,
-  `ancient-creatures`, `pirates`, `castles-fortresses`, `strange-jobs`, `everyday-objects`,
-  `household-science`, `famous-symbols`, `colors`, `sleep-dreams`, `illusions-perceptions`,
-  `secret-codes`, `superstitions`, `human-behavior`, `explorers`, `famous-trees-plants`, `insects`,
-  `strange-places`, `human-civilization` each 10 topics (30); `famous-disasters` 9 topics (27);
-  `languages` 13 (39); `sports` 13 (39); `video-games` 14 (42); `history` 63; `space` 51.
+- **Facts-per-topic distribution (post-weed 2026-07-14):** 565 topics at 3 facts · 71 at 2 · 91 at 1.
+  Topic *count* per category is unchanged from the pre-weed layout (most ~15 topics; the 20 newest
+  categories ~10; `history`/`space` deepest) — the weed-out only reduced facts *within* topics, so many
+  topics now run 1–2. **No topic exceeds 3.** Don't "top up" 1–2-fact topics back to 3.
 
 ## The standing pattern (what the user expects each time)
 When the user says "new category of X added, run the same process," do exactly this:
@@ -49,7 +75,7 @@ When the user says "new category of X added, run the same process," do exactly t
    the `architecture` category; "myths & legends" -> `myths-legends`). Find it by listing `categoryId`
    counts and looking for the new/odd one.
 2. **Back up first:** `cp approved-facts.csv "approved-facts.backup-<cat>-$(date +%Y%m%d-%H%M%S).csv"`
-3. **Inspect structure** (confirm every topic is at 3) and **dump all facts** with full bodies.
+3. **Inspect structure** (confirm no topic exceeds 3; 1–2 is fine) and **dump all facts** with full bodies.
 4. **De-dup grep (critical — see below).** Grep the new category's subjects/topics against the rest of
    the dataset to find collisions, and reroute angles before proposing.
 5. **Propose the full slate** as a compact table (one "wow" angle per fact), then call AskUserQuestion to
@@ -57,7 +83,7 @@ When the user says "new category of X added, run the same process," do exactly t
 6. **Write all rewrites** in a throwaway Python script (template below), keep id/topic/relatedFactIds,
    swap only headline/body/summary/tags.
 7. **Run integrity check (section 5e).** Then `rm` the script.
-8. **Update memory** (`til_content_pipeline_state.md` + the `MEMORY.md` index line with the new
+8. **Update memory** (`nib_content_pipeline_state.md` + the `MEMORY.md` index line with the new
    fact/category counts and any new de-dup decisions).
 9. **Update THIS handoff doc** (required — do not skip): bump the `Last updated` line and the
    **Current state** section (new totals, add the category to the list + size-exceptions), and add any
@@ -65,7 +91,7 @@ When the user says "new category of X added, run the same process," do exactly t
    file holds the exhaustive log; this doc holds the running state + the high-value landmines.
 10. Tell the user to re-export with `pnpm export:facts` when ready (do NOT run the export yourself).
 
-## House style (section 3 of the guide)
+## House style (full rules: `fact-writing-and-quality-guide.md`)
 - **headline:** leads with the surprise, Title Case, no definition.
 - **body:** ~60–90 words (aim 65–80), conversational "curious friend over coffee," grade 6–8, ends on a
   punchy line. **Drop all "Britannica explains/defines" framing entirely.**
@@ -446,12 +472,12 @@ print('dup (cat,topic,headline):',[k for k,c in Counter((r['categoryId'],r['topi
 print('dup ids:',[k for k,c in Counter(r['id'] for r in rows).items() if c>1] or 'none')
 ids={r['id'] for r in rows}
 print('dangling relatedFactIds:',sum(1 for r in rows for x in r['relatedFactIds'].split(',') if x.strip() and x.strip() not in ids))
-print('topics not at 3:',[k for k,c in Counter((r['categoryId'],r['topic']) for r in rows).items() if c!=3] or 'none')
+print('topics OVER 3 (must be 0; 1-2 ok):',[k for k,c in Counter((r['categoryId'],r['topic']) for r in rows).items() if c>3] or 'none')
 print('dup headlines dataset-wide:',[k for k,c in Counter(r['headline'] for r in rows).items() if c>1] or 'none')
 ```
-Target for a finished category: no dup ids/headlines dataset-wide, 0 dangling links, every topic at
-exactly 3, bodies in the 55–95 band (aim 65–80; recent batches have run ~78–82 avg, which is fine),
-zero "Britannica"/source-attribution framing left in the new category.
+Target for a finished category: no dup ids/headlines dataset-wide, 0 dangling links, no topic over 3
+(1–2 is fine — never pad), bodies in the 55–95 band (aim 65–80; recent batches have run ~78–82 avg, which
+is fine), zero "Britannica"/source-attribution framing left in the new category.
 
 ## Other notes
 - `id` is permanent — never change it, even on a full rewrite (other facts' `relatedFactIds` point at it).

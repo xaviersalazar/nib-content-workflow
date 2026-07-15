@@ -19,7 +19,7 @@ with no twist. Those get rewritten (preferred) or removed.
 
 - **Cap: up to 3 facts per topic — quality-gated, not a quota.** A topic ships the **best 1–3** facts
   that each clear the "wait, really?" bar. **Never pad to 3 with a weak, textbook, or redundant fact** —
-  a topic with 1–2 strong facts is finished. 3 is a ceiling, not a target. See `docs/content-generation-rules.md`.
+  a topic with 1–2 strong facts is finished. 3 is a ceiling, not a target. See `docs/fact-writing-and-quality-guide.md`.
   - This is deliberate: forcing "exactly 3" on abstract/technical topics (AI, coffee, tech, movies) is what
     produced flat filler like *"Espresso Cut Brewing Time to 30 Seconds"* or *"A Blockchain Is a Distributed Ledger."*
     Better a topic of 1 great fact than 1 great + 2 definitions.
@@ -71,14 +71,13 @@ angle. (Example: don't put the same "we are stardust" idea in both `Stars` and `
 
 ## 3. Body / headline / summary style
 
-Match the existing rows:
-- **headline:** leads with the surprise, not a definition. Title Case.
-- **body:** ~4–5 short sentences, **~60–90 words**, grade 6–8 reading level, conversational ("a curious
-  friend over coffee"), ends on a punchy line. No clickbait, no exaggeration.
-- **summary:** a one-sentence teaser that **adds intrigue** — never just an echo of the headline.
-- **tags:** 3–4 lowercase, comma-separated.
-- Keep `id`, `categoryId`, `topic`, `readTimeSeconds`, `featured`, `relatedFactIds` unchanged
-  on a rewrite (only swap headline/body/summary/tags).
+**The full voice, field, and rewrite rules live in `docs/fact-writing-and-quality-guide.md` (Fact Writing &
+Quality Guide) — read it before rewriting.** In brief: headline leads with the surprise (Title Case);
+body ~4–5 sentences, ~60–90 words, grade 6–8, "curious friend over coffee," punchy close; summary is a
+teaser, never an echo. On a rewrite, keep `id`, `categoryId`, `topic`, `readTimeSeconds`, `featured`,
+`relatedFactIds` unchanged — swap only headline/body/summary/tags. Also see the **Flatness red-flags**
+(§3 of that guide) — the four patterns (textbook definition / vague-abstract / obvious / incremental
+process) that a "wow" pass exists to catch.
 
 ---
 
@@ -176,7 +175,7 @@ print("dup (cat,topic,headline):",[k for k,c in Counter((r['categoryId'],r['topi
 print("dup ids:",[k for k,c in Counter(r['id'] for r in rows).items() if c>1] or "none")
 ids={r['id'] for r in rows}
 print("dangling relatedFactIds:",sum(1 for r in rows for x in r['relatedFactIds'].split(',') if x.strip() and x.strip() not in ids))
-print("topics not at 3:",[k for k,c in Counter((r['categoryId'],r['topic']) for r in rows).items() if c!=3] or "none")
+print("topics OVER 3 (must be 0; 1-2 is fine):",[k for k,c in Counter((r['categoryId'],r['topic']) for r in rows).items() if c>3] or "none")
 ```
 
 ---
@@ -200,3 +199,46 @@ print("topics not at 3:",[k for k,c in Counter((r['categoryId'],r['topic']) for 
 - [ ] No cross-topic / cross-category duplicate angles
 - [ ] Rewrites follow the body/summary/headline style in §3
 - [ ] Backup saved before edits; integrity check (5e) passes
+
+---
+
+## 8. Whole-library quality weed-out (reproducible)
+
+The passes above shape **one category**. This is the **library-wide** audit that removes already-shipped
+flat facts — run when facts feel dull day-to-day. It's exactly the 2026-07-14 pass that cut the library
+**2187 → 1928** (25 rewritten, 259 removed, 2 empty topics dropped). A fresh dev/agent can reproduce it
+end-to-end from these steps.
+
+**Judgment source:** the four **Flatness red-flags** in `docs/fact-writing-and-quality-guide.md` §3 (textbook
+definition · vague-abstract · obvious · incremental process). Heuristics/regex only *surface* candidates —
+the actual call comes from **reading** the fact.
+
+1. **Back up:** `cp approved-facts.csv "approved-facts.backup-$(date +%Y%m%d-%H%M%S).csv"`
+2. **Read everything.** Dump `headline — summary` for all facts (grouped by category) and read them; the
+   flat ones cluster in the abstract "explainer" categories (AI, coffee, engineering, movies, tech,
+   internet-culture ran 50–67% flagged). Save flags to a CSV: `id, categoryId, topic, headline, summary,
+   reason` (reason = the red-flag code).
+3. **Decide rewrite vs remove per flagged fact** — read the full **body** and its **topic siblings**:
+   - **REWRITE** if the body hides a concrete, source-grounded gem (a number/story/consequence) you can
+     elevate to the headline (keep `id`; see writing-guide §7). Example: *"Biased Data Can Lead to Biased
+     AI"* → *"Amazon Built a Hiring AI That Taught Itself to Reject Women."*
+   - **REMOVE** if the body is uniformly flat *and* the topic keeps ≥1 strong fact. If a topic goes empty
+     and has no rescuable fact, **drop the topic** (we dropped `engineering/Bearings`, `internet-culture/
+     Reaction GIFs`).
+   - Save decisions to a CSV and **get human approval on the split before applying.**
+4. **Apply** (throwaway script): apply rewrites by matching `(categoryId, norm(headline))` → new
+   headline/body/summary/tags (keep `id`); remove the REMOVE ids; strip `relatedFactIds` that point at
+   removed ids (scripts 5c/5d).
+5. **Regenerate the graph, don't hand-fix it:** `pnpm normalize:tags && pnpm assign:themes && pnpm
+   generate:related && pnpm export:facts`. `generate:related` rebuilds `relatedFactIds` over only the
+   survivors (self-validates to 0 dangling / 0 self-refs), so removed facts can't leave dead links.
+6. **Sync the app seed:** `cp exports/facts.json ../Nib/Nib/Data/facts.json` (key order matches; drop-in).
+7. **Fix collections:** any `Nib/Nib/Data/collections.json` `factIds` pointing at removed facts → repoint
+   to the **best surviving fact in the same topic** (don't just delete the ref).
+8. **Verify (must all be clean):** 0 dangling `relatedFactIds`, 0 dangling collection refs, 0 dup ids, no
+   topic > 3, CSV row count == `facts.json` count (integrity check 5e + a collections pass).
+9. **Publish to CDN** (see `Nib/cdn/README.md`): sync `exports/{categories,collections}.json`, run
+   `Nib/cdn/build-manifest.sh <next-version> ../nib-content-workflow/exports` (**bump `contentVersion`**),
+   then upload the three JSON files **first** and `manifest.json` **last** to the R2 bucket behind
+   `cdn.nibapp.net/v1`. Verify: `curl -s https://cdn.nibapp.net/v1/manifest.json | grep contentVersion`.
+10. **Update** `session-handoff.md` (current state + this event) and the memory pipeline-state file.

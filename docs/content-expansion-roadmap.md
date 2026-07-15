@@ -102,10 +102,12 @@ backlog.
 **A seasonal hook is optional.** Match the calendar when it's a natural fit, but
 don't force it — a category earns its slot by being *intriguing*, not by lining up
 with a holiday. Reach for the **unexpected**: subjects people would never think to
-search for but find irresistible once they see the tile. Three slots in the
-schedule below already do this (Mirrors & Reflections, Fungi & Mushrooms, Camouflage
-& Mimicry), and the "Unexpected & Intriguing" bank below is stocked with more
-(Time & Timekeeping, Locks & Keys, Echoes & Acoustics, and others).
+search for but find irresistible once they see the tile. After the 2026-07-14
+fascination-first rewrite, **most** of the schedule below does this (Survival & the
+Body's Limits, Forensics & Crime-Solving, Poisons/Venom & Toxins, Perfume & the
+Science of Smell, Microscopic Life, Heists/Escapes & Cons), and the "Unexpected &
+Intriguing" bank below is stocked with more (Time & Timekeeping, Twins & Cloning,
+Echoes & Acoustics, and others).
 
 ## The opportunistic supplement — Expand Existing Categories
 
@@ -132,35 +134,64 @@ month it actually lands in. The rhythm each month:
 - **1st** → a new **Collection** *and* the month's new **category** go live.
 - **15th** → a second **Collection** drops.
 
-Categories don't all chase the calendar — several are simply *unexpected and
-intriguing* (**Mirrors & Reflections** in Aug, **Fungi & Mushrooms** in Nov,
-**Camouflage & Mimicry** in Mar). The Collections carry the seasonal weight, and
-lean **wacky**. All new category topics below are
+Categories are now **fascination-first**: each earns its slot on "wait, really?" alone
+(**Survival & the Body's Limits** in Aug, **Forensics** in Sep, **Poisons, Venom & Toxins**
+in Jan, **Microscopic Life** in Apr, **Heists, Escapes & Cons** in Jun). The Collections
+carry the seasonal weight, and lean **wacky**. All new category topics below are
 confirmed **not** already present in `sources.csv`, and every Collection is built
 from facts that **already exist** (re-run both checks before staging — the registry
 keeps growing).
 
 ## New category — one per month (drops on the 1st)
 
+**Fascination-first (2026-07-14 rewrite).** After the flat-fact weed-out, the roster was re-cut so **every
+category earns its slot on "wait, really?" alone** — not on a calendar tie. Six categories from the prior draft
+were structurally flat (abstract concepts, how-it-works mechanisms, or advice topics — the same profile as the
+259 facts we removed) and were swapped for high-curiosity picks. The **seasonal weight now lives entirely in the
+Collections** (which already carry it), freeing each category to be genuinely intriguing. Kept categories are the
+ones that are *both* seasonal and genuinely tappable.
+
 | Month | New Category *(new, 10)* | Topics | Why this slot |
 | --- | --- | --- | --- |
-| **Aug '26** | **Mirrors & Reflections** | Kaleidoscopes, One-Way Glass, Periscopes, Funhouse Mirrors, Retroreflectors, Silvering, Rearview Mirrors, Infinity Mirrors, Mirror Writing, Hall of Mirrors | *Unexpected & intriguing* (whimsical funhouse nod to summer) |
-| **Sep '26** | **Philosophy** | Socrates, Plato, Stoicism, Ethics, Logic, Free Will, Thought Experiments, Paradoxes, Existentialism, Skepticism | Back-to-school "how to think" |
-| **Oct '26** | **Reptiles & Amphibians** | Snakes, Crocodiles, Komodo Dragons, Frogs, Toads, Geckos, Iguanas, Tortoises, Salamanders, Venom | Halloween-adjacent |
-| **Nov '26** | **Fungi & Mushrooms** | Mushrooms, Mycelium, Truffles, Mold, Yeast, Lichen, Spores, Slime Molds, Toadstools, Fungal Networks | *Unexpected & intriguing* (loose autumn-foraging tie) |
-| **Dec '26** | **Holidays & Traditions** | Christmas, Diwali, Lunar New Year, Day of the Dead, Hanukkah, Thanksgiving, New Year's, Carnival, Halloween, Birthdays | Peak holiday season |
-| **Jan '27** | **Money & Personal Finance** | Compound Interest, Credit, ATMs, Budgeting, Saving, Debt, Mints, Counterfeiting, Insurance, Allowances | New Year, fresh finances |
-| **Feb '27** | **Art** | Mona Lisa, Impressionism, Cave Paintings, Sculpture, Pigments, Street Art, Surrealism, Mosaics, Portraits, Renaissance Art | Valentine's / museum season |
-| **Mar '27** | **Camouflage & Mimicry** | Stick Insects, Cuttlefish, Peppered Moths, Leaf Insects, Countershading, Katydids, Zebra Stripes, Walking Sticks, Decoy Spiders, Mimicry | *Unexpected & intriguing* (loose spring-wildlife tie) |
-| **Apr '27** | **Energy & Power** | Solar Power, Wind Power, Nuclear Power, Fusion, Hydrogen, Power Grid, Geothermal, Tidal Power, Coal, Wind Turbines | Earth Day (Apr 22) |
-| **May '27** | **Birds** | Owls, Hummingbirds, Eagles, Parrots, Flamingos, Crows, Peacocks, Woodpeckers, Falcons, Ostriches | Peak spring migration & nesting |
-| **Jun '27** | **Ships & Boats** | Submarines, Sailing Ships, Canals, Cruise Ships, Aircraft Carriers, Tugboats, Cargo Ships, Anchors, Shipwrecks, Icebreakers | World Oceans Day / boating season |
-| **Jul '27** | **Games & Puzzles** | Rubik's Cube, Crosswords, Dice, Playing Cards, Board Games, Sudoku, Dominoes, Jigsaw Puzzles, Mazes, Magic Tricks | Summer-break "play" beat |
+| **Aug '26** | **Survival & the Body's Limits** 🆕 | The Rule of Threes, The Mammalian Dive Reflex, Paradoxical Undressing, The Death Zone, Freediving, The Bends, G-Force, Surviving Without Food, Wilderness Survival, The Will to Live | *Fascination-first* (loose summer-adventure tie; the Perseids/heat beats live in the Aug Collections) |
+| **Sep '26** | **Forensics & Crime-Solving** 🆕 | DNA Fingerprinting, Genetic Genealogy, Blood Spatter, Time of Death, Ballistics, Facial Reconstruction, Forensic Odontology, Locard's Exchange Principle, The Body Farm, The Polygraph | Back-to-school "how they actually crack it" |
+| **Oct '26** | **Reptiles & Amphibians** | Snakes, Crocodiles, Komodo Dragons, Frogs, Toads, Geckos, Iguanas, Tortoises, Salamanders, Venom | Halloween-adjacent — kept (fascination-rich) |
+| **Nov '26** | **Fungi & Mushrooms** | Mushrooms, Mycelium, Truffles, Mold, Yeast, Lichen, Spores, Slime Molds, Toadstools, Fungal Networks | Autumn-foraging — kept (fascination-rich) |
+| **Dec '26** | **Holidays & Traditions** | Christmas, Diwali, Lunar New Year, Day of the Dead, Hanukkah, Thanksgiving, New Year's, Carnival, Halloween, Birthdays | Peak holiday — kept (enforce hidden-origin angle, not "festival of X" definitions) |
+| **Jan '27** | **Poisons, Venom & Toxins** 🆕 | Arsenic & the Marsh Test, The Radium Girls, Botulinum → Botox, The Poison Garden, Cyanide, Poison Dart Frogs, Box Jellyfish, Pufferfish (Tetrodotoxin), Curare, Polonium | *Fascination-first* (New-Year beat lives in the Jan Collections) |
+| **Feb '27** | **Perfume & the Science of Smell** 🆕 | Smell & Memory, Petrichor, Pheromones, Ambergris, Anosmia, Olfactory Adaptation, The Nose, Skunk Spray, Fragrance Notes, Animal Musks | Loose Valentine's tie (attraction & scent); the Valentine's Collection carries the day |
+| **Mar '27** | **Camouflage & Mimicry** *(topics trimmed)* | Cuttlefish, Peppered Moths, Stick & Leaf Insects, Countershading, Zebra Stripes, Decoy Spiders, Batesian Mimicry, The Mimic Octopus, Orchid Mantis, Eyespots | Spring-wildlife — kept; de-duped (merged Walking Sticks/Leaf Insects, cut Katydids) |
+| **Apr '27** | **Microscopic Life** 🆕 | Demodex Face Mites, Tardigrades, Are Viruses Alive?, Dust Mites, The Brain-Eating Amoeba, Extremophiles, Diatoms, Rotifers, Leeuwenhoek's 'Animalcules', Biofilms | Earth Day → the invisible living world |
+| **May '27** | **Birds** | Owls, Hummingbirds, Eagles, Parrots, Flamingos, Crows, Peacocks, Woodpeckers, Falcons, Ostriches | Peak spring migration — kept (fascination-rich) |
+| **Jun '27** | **Heists, Escapes & Cons** 🆕 | The Gardner Museum Heist, The Antwerp Diamond Heist, The Alcatraz Escape, D.B. Cooper, Han van Meegeren (Art Forgery), Victor Lustig & the Eiffel Tower, Charles Ponzi, The Great Train Robbery, The Hatton Garden Heist, Houdini & Escapology | Summer heist-movie energy (World Oceans Day beat lives in the Jun Collections) |
+| **Jul '27** | **Games & Puzzles** | Rubik's Cube, Crosswords, Dice, Playing Cards, Board Games, Sudoku, Dominoes, Jigsaw Puzzles, Mazes, Magic Tricks | Summer-break "play" — kept |
+
+**Specialist source per new category** (the "every category onboards a new institution" rule):
+Survival → Cleveland Clinic / National Geographic / Divers Alert Network · Forensics → Smithsonian / National
+Institute of Justice · Poisons → Natural History Museum (London) / Science History Institute · Perfume & Smell
+→ Monell Chemical Senses Center · Microscopic Life → CDC / NIH · Heists → FBI History (The Vault) / Smithsonian.
+
+**De-dup flags to honor at draft time** (these routes already avoid known live facts): Poisons/Poison-Dart-Frogs
+coordinates with Reptiles/Frogs (split the toxin angle); Poisons routes *around* Reptiles/Venom + strange-jobs/
+Snake-Milkers (uses plant/marine/chemical/radioactive poisons, not snake venom); Forensics routes around
+human-body/Fingerprints (owns 3) and strange-jobs/Forensic-Entomologists (owns the maggot-clock) — uses trace
+evidence, genealogy, ballistics instead; Microscopic Life routes around human-body/Gut-Microbiome (half-microbe/
+B12) and Fungi (Nov) and geography/Rainforests (plankton-oxygen) — leads with Demodex mites; Heists/Houdini means
+the Year-2 *Magic & Illusions* backlog and Jul's Games/Magic-Tricks must route around Houdini; Camouflage/
+Mimic-Octopus + Cuttlefish coordinate with animals/Octopus.
 
 ## Collections — two per month (1st & 15th)
 
 Each Collection is a curated pull from **existing** facts (illustrative members
 shown; final `factIds` verified — and de-duped across Collections — at build).
+
+> **Collections now carry the calendar.** Since the 2026-07-14 rewrite made the
+> *categories* fascination-first, the twice-monthly Collections are where every
+> seasonal beat lives (Perseids, back-to-school, Halloween, Valentine's, Earth Day,
+> solstices, etc.). The schedule below already does this — every month's holiday/
+> season hook is a Collection, so no category has to chase the calendar. As each new
+> fascination category ships, it unlocks fresh Collection material too (e.g. after
+> **Poisons** drops, a "Deadly Beauty" pack; after **Forensics**, a "Caught in the Act").
 
 | Month | 1st of month | 15th of month |
 | --- | --- | --- |
@@ -182,14 +213,19 @@ Categories screen gains a fresh tile monthly; the Collections screen gets a new
 themed pack twice a month — all 24 with **zero** new drafting. Category *expansions*
 remain opportunistic, layered on only when analytics flag a winner.
 
-**Roster changes from the prior draft:** three tame, calendar-forced categories
-were swapped for genuinely intriguing ones — **Amusement Parks & Rides → Mirrors &
-Reflections** (Aug), **Farms & Harvest → Fungi & Mushrooms** (Nov), and **Gardens &
-Gardening → Camouflage & Mimicry** (Mar). The seasonal beats they carried (harvest,
-spring) now live in those months' Collections instead. The three swapped-out
-categories are parked in the Year-2 backlog if they're ever wanted. *Geology, Rocks
-& Gems* and *Trains & Railroads* remain in that backlog too; **Ships & Boats** stays
-pulled up into June.
+**Roster changes (2026-07-14 fascination-first rewrite):** six categories that were structurally prone to flat,
+textbook, or "so what?" facts were swapped for high-curiosity ones — **Mirrors & Reflections → Survival & the
+Body's Limits** (Aug), **Philosophy → Forensics & Crime-Solving** (Sep), **Money & Personal Finance → Poisons,
+Venom & Toxins** (Jan), **Art → Perfume & the Science of Smell** (Feb), **Energy & Power → Microscopic Life**
+(Apr), and **Ships & Boats → Heists, Escapes & Cons** (Jun). Why each was cut: *Philosophy / Energy & Power* were
+abstract-concept and how-it-works dumps (the AI/engineering flatness profile); *Money & Personal Finance* was
+advice/definitional and overlapped economics + business; *Mirrors, Art, Ships* were mechanism-thin and
+triple-overlapped existing content (everyday-objects/Mirrors + superstitions/Broken-Mirrors + physics/Lasers;
+the whole **colors** category for pigments; Titanic/Endurance for shipwrecks). Kept because they're *both*
+seasonal and genuinely tappable: **Reptiles & Amphibians** (Oct), **Fungi & Mushrooms** (Nov), **Holidays &
+Traditions** (Dec), **Camouflage & Mimicry** (Mar, topics trimmed), **Birds** (May), **Games & Puzzles** (Jul).
+The six swapped-out categories are parked in the Year-2 backlog if ever wanted. *Geology, Rocks & Gems* and
+*Trains & Railroads* remain there too.
 
 ---
 
@@ -204,7 +240,6 @@ the 12-month schedule is exhausted, or swap into it if analytics shift prioritie
 | Trains & Railroads | Steam Engines, Subways, Bullet Trains, Maglev, Railroads, Locomotives, Cable Cars, Monorails, Train Stations, Funiculars | Smithsonian, Britannica |
 | Amusement Parks & Rides | Roller Coasters, Ferris Wheels, Carousels, Water Slides, Carnivals, Fairs, Bumper Cars, Cotton Candy, Haunted Houses, Fireworks | Smithsonian, Britannica |
 | Gardens & Gardening | Seeds, Soil, Composting, Greenhouses, Botanical Gardens, Vegetable Gardens, Terrariums, Weeds, Herb Gardens, Watering | Smithsonian Gardens, RHS |
-| Microscopic Life | Bacteria, Viruses, Fungi, Tardigrades, Cells, Algae, Plankton, Mold, Yeast, Parasites | CDC, NIH |
 | Photography | Camera Obscura, Daguerreotype, Color Film, Polaroid, Darkrooms, Aperture, Famous Photos, Photojournalism, Long Exposure, Film vs Digital | George Eastman Museum |
 | Famous Scientists & Inventors | Einstein, Newton, Tesla, Marie Curie, Galileo, Edison, Da Vinci, Ada Lovelace, Hawking, Faraday | Britannica, Nobel Prize |
 | Evolution & Human Origins | Natural Selection, Charles Darwin, Neanderthals, Early Humans, Lucy, Stone Tools, Bipedalism, Human Migration, Genetics, Adaptation | Smithsonian Human Origins |
@@ -213,6 +248,21 @@ the 12-month schedule is exhausted, or swap into it if analytics shift prioritie
 | Materials | Glass, Plastic, Rubber, Paper, Graphene, Ceramics, Aluminum, Kevlar, Carbon Fiber, Titanium | Britannica, ACS |
 | Maps & Cartography | Globes, Latitude & Longitude, Compasses, Map Projections, Surveying, Nautical Charts, Topographic Maps, Atlases, GPS Mapping, Cartographers | Library of Congress |
 | World Cultures & Flags | National Flags, Festivals, Folk Costumes, Cuisines, Greetings, Currencies, Anthems, Tea Cultures, Folk Dances, World Records | National Geographic |
+
+### Parked — swapped out of the schedule for flatness (⚠️ re-scope before ever reviving)
+
+These six were cut in the 2026-07-14 fascination-first rewrite because, as whole categories, they lean
+textbook/abstract/advice or overlap existing content. **Don't revive as-is** — if analytics ever demand one,
+first narrow it to the 2–3 genuinely tappable topics noted.
+
+| Category | Why cut | If revived, keep only |
+| --- | --- | --- |
+| Philosophy | Abstract -isms → definitions (the AI-category profile) | Thought Experiments, Paradoxes, Philosophers' strange lives/deaths |
+| Money & Personal Finance | Advice/definitional; overlaps economics + business | Counterfeiting, Mints, ATMs (as *history*, not advice) |
+| Energy & Power | Infrastructure how-it-works (engineering flatness) | Nuclear, Fusion (as story: the demon core, ITER, Tsar Bomba) |
+| Mirrors & Reflections | Optics mechanism; triple-overlaps existing content | One-Way Glass, Mirror Writing, Hall of Mirrors |
+| Art | Survey-of-isms; Pigments duplicates **colors** | Mona Lisa theft, forgeries, hidden paintings under paintings |
+| Ships & Boats | Mechanism/infrastructure topics; overlaps econ + Titanic | Submarines, Shipwrecks, Icebreakers |
 
 ---
 
@@ -228,7 +278,6 @@ before staging, same as any drop.
 | --- | --- | --- |
 | Time & Timekeeping | Clocks, Calendars, Sundials, Atomic Clocks, Time Zones, Leap Years, Hourglasses, Pendulums, Stopwatches, Circadian Rhythm | NIST, Royal Observatory Greenwich |
 | Locks, Keys & Safes | Padlocks, Combination Locks, Vaults, Lock Picking, Safes, Deadbolts, Master Keys, Handcuffs, Biometric Locks, Bank Vaults | Smithsonian, Britannica |
-| Perfume & the Science of Smell | Smell, Pheromones, Perfume, Incense, Aromatherapy, Skunk Spray, the Nose, Fragrance Notes, Musk, Scent Marking | Monell Chemical Senses Center |
 | Bubbles & Foam | Soap Bubbles, Surface Tension, Foam, Carbonation, Sea Foam, Bubble Wrap, Fizz, Aerogel, Meringue, Quicksand | Exploratorium, ACS |
 | Knots & Rope | Knots, Nautical Knots, Macramé, Cat's Cradle, the Bowline, Rope-making, Tangles, Shoelaces, Fishing Knots, Knot Theory | Britannica, Smithsonian |
 | Bridges & Tunnels | Suspension Bridges, Drawbridges, Tunnels, Aqueducts, Viaducts, Cantilever Bridges, Underwater Tunnels, Rope Bridges, Tunnel Boring, Covered Bridges | ASCE, Smithsonian |
@@ -237,9 +286,11 @@ before staging, same as any drop.
 | Echoes & Acoustics | Echoes, Whispering Galleries, Sonar, Echolocation, Reverberation, Concert-Hall Acoustics, Sound Mirrors, Anechoic Chambers, Standing Waves, Infrasound | Acoustical Society, Exploratorium |
 | Twins & Cloning | Identical Twins, Twin Studies, Dolly the Sheep, Conjoined Twins, Mirror Twins, Clones, Nature vs Nurture, Twin Telepathy Myths, Polar-Body Twins, Chimeras | Smithsonian, NIH |
 
-*(Now scheduled, so pulled from this bank: **Mirrors & Reflections** → Aug,
-**Camouflage & Mimicry** → Mar. **Fungi & Mushrooms** → Nov also came from this
-"unexpected" spirit.)*
+*(Now scheduled, so pulled from this bank: **Perfume & the Science of Smell** → Feb.
+The 2026-07-14 rewrite also added five net-new fascination categories to the schedule —
+**Survival & the Body's Limits**, **Forensics & Crime-Solving**, **Poisons/Venom & Toxins**,
+**Microscopic Life** (promoted from the Year-2 backlog), and **Heists/Escapes & Cons**.
+**Twins & Cloning** stays here as the next bench pick.)*
 
 ---
 
@@ -293,6 +344,17 @@ no new drafting required. Same rules: de-duped, and wacky beats safe.
   Bioluminescence, Hydrothermal Vents
 - **"Stars & Stripes"** — Fireworks, Flags, Bald Eagles, the Liberty Bell,
   Fourth of July *(July 4 spare)*
+
+**Fascination-first additions (2026-07-14) — pair with the new categories, all from existing facts:**
+
+- **"Nature's Assassins"** *(wacky)* — Dragonflies (95% kill rate), Mantis Shrimp,
+  Orcas, Praying Mantises, Cone... *(pairs w/ Poisons)*
+- **"Caught in the Act"** — Cottingley Fairies, the FeeJee Mermaid, Crop Circles,
+  the dead-salmon fMRI, War of the Worlds *(famous hoaxes — pairs w/ Forensics)*
+- **"The Invisible World"** — Gut Microbiome (you're half microbe), Atoms (mostly
+  empty space), Visible Light (a tiny slice), Cosmic Microwave Background *(pairs w/ Microscopic Life)*
+- **"Against the Odds"** — Shackleton, the mammalian dive reflex, wood frogs freezing
+  solid, tardigrade-adjacent survival *(pairs w/ Survival & the Body's Limits)*
 
 ---
 

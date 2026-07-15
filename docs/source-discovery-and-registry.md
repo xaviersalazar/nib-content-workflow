@@ -1,8 +1,12 @@
-# Nib Source Discovery Agent Guide
+# Source Discovery & Registry Guide
+
+> The single source of truth for **finding sources and building the registry**. Consolidates the former
+> `agent-discovery-guide` and `trusted-source-workflow` docs (merged 2026-07-14). For how to *write* facts
+> from a source, see `docs/fact-writing-and-quality-guide.md` (Fact Writing & Quality Guide).
 
 ## Purpose
 
-This document defines the role of the source discovery agent used to expand the source registry for the **Today I Learned** application.
+This document defines the role of the source discovery agent used to expand the source registry for the **Nib** ("Today I Learned") application.
 
 The goal is to build a source registry filled with:
 
@@ -34,17 +38,20 @@ A smaller collection of excellent topics and excellent sources is better than a 
 
 # Facts Per Topic
 
-The current target is:
+The target is:
 
 ```text
 1 topic
 ↓
 1 source page
 ↓
-3 excellent facts (the best 3 — hard cap)
+up to 3 excellent facts (the best 1–3 — quality-gated, not a quota)
 ```
 
-Cap each topic at 3 facts. Do not optimize for 5, 7, or 10 facts per topic anymore.
+**3 is a ceiling, not a target.** A source that only supports 1–2 genuinely surprising facts is fine —
+never pad to 3. If a topic can only produce dull facts, replace the topic. (Full rule: `docs/fact-writing-and-quality-guide.md`
+§2, and the per-category process in `docs/topic-curation-and-quality-guide.md`.) For sourcing, this means:
+**prefer a page that clearly supports several strong candidates so you can approve the best.**
 
 The goal is to ship more topics at launch and reduce the chance that users repeatedly see facts from the same topic.
 
@@ -73,7 +80,7 @@ Markdown source file
 ↓
 Fact generation agent
 ↓
-3 approved facts max (the best 3)
+up to 3 approved facts (the best 1–3, quality-gated)
 ↓
 App
 ```
@@ -684,6 +691,67 @@ Before generating CSV, confirm:
 - URL values are final approved URLs.
 - Status is `pending`.
 - No CSV header row is included.
+
+---
+
+# Registry & Scraping Operations
+
+*(Folded in from the former `trusted-source-workflow.md`, 2026-07-14.)*
+
+## Golden rule: extract articles, not facts
+
+Scrape a **whole article/page** into markdown, then draft facts from that markdown. Don't try to scrape
+"facts" directly.
+
+## Pipeline
+
+```text
+Category → Topic → Source URL → Firecrawl → Markdown file → AI drafting → Approved facts
+```
+
+## Source registry
+
+Single source of truth: `source-registry/sources.csv`, columns:
+
+```csv
+category,topic,institution,url,status
+```
+
+`status` values: `backlog` (staged, not ready) · `pending` (ready; picked up by `scrape:batch`) ·
+`complete` (scraped). Batch scripts only process `pending`.
+
+## Scraped-file layout
+
+```text
+sources/
+  space/    nasa-black-holes.md
+  animals/  monterey-octopus.md
+  history/  britannica-roman-empire.md
+```
+
+Each source page has a metadata sidecar:
+
+```json
+{ "category": "Space", "topic": "Black Holes", "institution": "NASA",
+  "url": "https://science.nasa.gov/universe/black-holes/" }
+```
+
+## Processing in waves
+
+1. **Wave 1 — automation-friendly** (NASA, NOAA, Smithsonian, Britannica, NIH, National Geographic) — bulk of URLs.
+2. **Wave 2 — museums** (British Museum, The Met, Computer History Museum).
+3. **Wave 3 — specialized orgs** (IEEE, ACS, ASME, SAE).
+4. **Wave 4 — manual sources** (Library of Congress, etc.).
+
+## Facts per source
+
+One page → **3–5 candidates → approve the best 1–3.** Never squeeze 20 facts from one page; quality drops.
+
+## Targets
+
+- **Weekly:** ~20 URLs → ~20 markdown files → 60–100 approved facts.
+- **Source philosophy:** trust over volume. A small library of excellent sources beats thousands of
+  questionable ones.
 
 ---
 

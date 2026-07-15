@@ -125,23 +125,30 @@ Notes:
 2. Run Firecrawl extraction (`pnpm scrape:source`, `pnpm scrape:next`, or `pnpm scrape:batch`).
 3. Draft 3–5 fact candidates per source using your AI assistant.
 4. Validate claims against source text only.
-5. Perform human review and approve only the best **3 facts per topic** (max).
+5. Perform human review and approve only the best facts per topic — **up to 3 (quality-gated, never padded)**.
 6. Store approved rows in `approved-content/approved-facts.csv`.
 7. Export with `pnpm export:facts`.
 
 For detailed process guidance, see:
 
-- `docs/trusted-source-workflow.md`
-- `docs/manual-ai-assisted-content-workflow.md`
+- `docs/fact-writing-and-quality-guide.md` — **Fact Writing & Quality Guide** (voice, flatness red-flags, validation, rewrite rules, CSV/ID rules)
+- `docs/topic-curation-and-quality-guide.md` — per-category curation + the reproducible whole-library weed-out (§8)
+- `docs/source-discovery-and-registry.md` — source discovery + registry/scraping operations
+- `docs/content-schema-reference.md` — the app JSON contract + `relatedFactIds`
+- `docs/content-expansion-roadmap.md` — the fascination-first content roadmap
 
 ## Project Structure
 
 ```text
 .
 ├── docs/
-│   ├── manual-ai-assisted-content-workflow.md
-│   ├── sources.csv
-│   └── trusted-source-workflow.md
+│   ├── fact-writing-and-quality-guide.md
+│   ├── topic-curation-and-quality-guide.md
+│   ├── source-discovery-and-registry.md
+│   ├── content-schema-reference.md
+│   ├── content-expansion-roadmap.md
+│   ├── session-handoff.md
+│   └── sources.csv
 ├── scripts/
 │   ├── export-facts.ts
 │   ├── scrape-batch.ts
