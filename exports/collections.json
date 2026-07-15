@@ -236,7 +236,7 @@
     "icon": "arrow.triangle.2.circlepath",
     "factIds": [
       "butterflies-complete-metamorphosis",
-      "states-of-matter-heat-changes-state",
+      "states-of-matter-familiar-three",
       "salar-de-uyuni-largest-salt-flat",
       "agriculture-settled-societies",
       "blood-transfusions-storage-changed-everything",
@@ -278,7 +278,7 @@
     "subtitle": "Our slippery grip on time.",
     "icon": "clock.arrow.circlepath",
     "factIds": [
-      "light-years-sun-eight-minutes",
+      "light-years-looking-back-time",
       "mesopotamia-sixty-minute-hour",
       "calendars-not-one-system",
       "religious-calendars-different-years",
@@ -336,7 +336,6 @@
       "mario-landlord-name",
       "vaccines-jenner-smallpox",
       "zippers-name-from-overshoes",
-      "marathons-greek-legend",
       "chocolate-food-of-the-gods"
     ]
   },
@@ -349,7 +348,6 @@
       "ai-ethics-help-harm",
       "medical-robots-surgeon-controlled",
       "autopilot-complex-flight-plans",
-      "chess-royal-game",
       "mars-planet-of-robots",
       "stock-market-primary-secondary"
     ]

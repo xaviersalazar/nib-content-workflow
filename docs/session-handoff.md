@@ -1,6 +1,6 @@
 # Nib Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-14 · 1928 facts · 55 categories
+> Last updated: 2026-07-15 · 1880 facts · 55 categories
 > (Keep this line current — bump it every time a category is finished or the library changes. See step 9 of the standing pattern.)
 
 ## What this is
@@ -24,8 +24,94 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   state + every de-dup decision (exhaustive per-category log). Update it alongside this handoff doc — but
   **this doc, not memory, is the durable handoff** (memory can't be relied on across machines/devs).
 
-## Current state (2026-07-14)
-- **1928 facts · 55 categories · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+## Current state (2026-07-15)
+- **1880 facts · 55 categories · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+
+### What changed on 2026-07-15 (headline pass — hook + stand-alone rule)
+- **KEY CORRECTION — the `headline` is NOT the notification copy.** `NotificationService.notificationContent`
+  (`Nib/Services/NotificationService.swift`) builds the daily push as a fixed `title = "Today's Fact"` plus
+  `body = fact.summary`. The headline is *deliberately* omitted (it truncates on one line) — a decision made in
+  commit `2127954` (2026-07-03) and **locked by the test** `testContentLeadsWithTitleAndSummary`. The old guide
+  §4 claim that "headline + summary are the two lines of a push notification" was **stale and has been fixed.**
+  - `summary` = notification body **and** the small-widget copy. `headline` = Today hero (wraps, never truncates),
+    medium widget (2 lines), `accessoryInline`/`accessoryRectangular`, share card, **Spotlight title**, Siri snippet.
+- **Read all 1,881 headlines. Only 73 (3.9%) needed work** — the library was already strong (passes 1–2 did the
+  heavy lifting; zero definitional "X Is a Y" copulas remained). Candidates: `approved-content/headline-candidates.csv`.
+- **Tier A — 19 "orphaned" headlines rewritten (a real bug, not taste).** These only parsed next to their topic
+  label, but the headline renders in Spotlight/widgets where **no topic is shown** — e.g. *"The American Revolution
+  Helped Trigger It"* (topic: French Revolution), *"Its Feathers Reveal How Flight Began"*, *"His Slave May Be the
+  True First to Circle Earth"*. **New rule added to guide §4: a headline MUST stand alone without its topic** —
+  no anaphoric `Its/Their/His/She/It`, no bare `The Test`/`The Color`. Cataphoric `This`/`That` is fine when
+  self-contained (*"This Island Used Giant Stone Coins Too Heavy to Move"*) and was left alone.
+- **Tier B — 54 flat headlines rewritten** by elevating a concrete detail already in the body (guide §7), e.g.
+  *"Hammurabi Created a Famous Law Code"* → *"Hammurabi Carved 300 Laws on a Pillar for All to See"*;
+  *"Winglets Can Reduce Fuel Use"* → *"Bending a Wingtip Cut a Jet's Fuel Use by 6.5 Percent"*. Nothing invented —
+  every rewrite is grounded in its own body text.
+- **`summary` field needed no pass.** An echo/novelty scan over all 1,881 found only **3 true echoes** + 2 real
+  deflations (headline carried a number the summary hedged away). All 5 fixed, plus a grammar bug in
+  `sacagawea-shoshone-horses`'s summary (missing "whom").
+- **Odds and ends:** dropped `emojis-unicode-standard` — an exact duplicate of `emojis-japanese-name` (same 1999/176-icon/MoMA
+  fact in two categories; kept the richer one, which names Shigetaka Kurita). That emptied **`internet-culture/Emojis`**
+  → topic dropped (`languages/Emojis` keeps 3 facts). Fixed "Airbags"→"Air Bags" and "Pokemon"→"Pokémon".
+- Pipeline re-run (0 dangling, 0 self-refs), app `facts.json` synced at **1880**. **CDN v5 re-staged with new
+  checksums, still NOT uploaded** (needs R2 creds). Live is still v4.
+- Backup: `approved-content/approved-facts.backup-20260715-09*.csv`.
+
+#### Same-day follow-up audit (body / typography / metadata)
+- **7 named-source attribution leaks removed from bodies** (guide §5: never name the source) — textbook-dump
+  residue: *"Cornell Lab says…"* ×3 (Ravens), *"UNESCO says…"*, *"The Pokémon Company says…"*, *"Film Atlas says…"*,
+  *"Hartzell says…"*. The claims were kept; only the framing went. **Not** leaks and deliberately left alone:
+  narrative *"Legend says" / "Folklore says" / "Tradition says"*, and Topology's rhetorical closer *"Topology says so."*
+- **Curly → straight apostrophes** across all text fields (guide §8): 4 headlines, 17 summaries, 4 bodies.
+- **6 thin bodies enriched from cached sources** in `sources/` (742 cached .md files; 98% topic coverage).
+  Also fixed a **body-level orphan**: the wiper body said *"Anderson's invention"* without ever introducing her →
+  now names Mary Anderson + the 1903 trolley/patent detail.
+  - **De-overstated a headline:** the Dwarf Planets source says the IAU expects *"perhaps more than a hundred"*,
+    but the body claimed "hundreds" and the new headline amplified it → now *"…but Many More Are Out There."*
+  - **3 of the 9 left alone on purpose** (`venus-day-longer-than-year`, `white-dwarfs-no-black-dwarfs-yet`,
+    `voyager-program-interstellar-space`): their sources offered nothing the body didn't already say, so expanding
+    would have been padding.
+  - `readTimeSeconds` recomputed for those 6 only (corpus median **0.70 s/word**; the field is stored in the CSV and
+    merely passed through by `export-facts.ts:41` — **nothing recomputes it, so it goes stale whenever a body changes**).
+- **DELIBERATELY NOT DONE — do not "fix" the remaining 232 short bodies.** The <60-word count looks alarming but is a
+  threshold artifact: only 9 were genuinely thin (<50w); **157 (66%) sit at 55–59w**, i.e. ~5 words under. Lifting all
+  238 to 60 needs just ~1,126 words total (**~4.7 words each**) — that is padding, and padding-to-hit-a-quota is the
+  *documented root cause* of the flat facts pass 1 had to delete. Median body is 72w, nothing exceeds 90w. **Leave it.**
+
+#### Known follow-up: `featured` is a dead column
+`featured` is `false` for all 1,880 rows, and **`Nib/Models/Fact.swift` has no `featured` property** — the app never
+decodes it. (The app's "featured" code is about featured *collections*, picked at runtime by `FeaturedCollectionPicker`.)
+Yet `export-facts.ts:42` serializes it into every fact, so it ships in the 2.2MB bundle **and** the CDN payload.
+`themes` is in the same position (exported, absent from `Fact.swift`) — but it likely feeds `generate:related` at build
+time, so check before removing. Dropping either is a schema/CDN change, deferred by the user.
+
+### What changed on 2026-07-15 (pass-2 weed-out — obvious/well-known lens)
+- **Pass-2 weed-out: 1928 → 1881 (47 removes, all cuts, no rewrites).** A second, sharper pass on top of the
+  2026-07-14 flat-fact weed-out, using a lens pass 1 missed: cut facts **obvious to a modern adult** or
+  **well-worn "everyone's heard it" factoids** (exemplar: *"Digital Signatures Became Legally Equal to Written
+  Ones"*). Candidates were pre-flagged into `approved-content/pass2-candidates.csv` (Tier A = confident cuts,
+  Tier B = well-known classics for the user's call).
+- **Decision: Tier A only (46) + glass.** User kept **all 19 Tier B classics** (honey never spoils, sun
+  8-min-old, banana DNA, sharks older than dinosaurs, Beethoven going deaf, etc.). The one exception —
+  *"Glass Is Technically a Frozen Liquid"* — was cut despite being Tier B because it's an **accuracy** problem
+  (glass is an amorphous solid, a misconception, not an editorial call). = **47 total.**
+- **Dropped emptied topic `technology/Cryptography`** (its only remaining fact was the digital-signatures one;
+  fully redundant with the `secret-codes` category, which keeps its own Cryptography topic).
+- Ran the full pipeline (normalize:tags → assign:themes → generate:related → export:facts): **0 dangling
+  relatedFactIds, 0 self-refs.** Synced `Nib/Nib/Data/facts.json` (1881). CSV count == facts.json count == 1881,
+  no dup ids, no topic > 3.
+- **Fixed 4 dangling `collections.json` refs:** repointed 2 to the best same-topic survivor — *Great
+  Transformations* → `states-of-matter-familiar-three`, *Time Plays Tricks* → `light-years-looking-back-time`;
+  **dropped 2** where the removed fact was the collection's thematic anchor and no on-theme survivor existed —
+  *Where Names Come From* (lost the marathon-name fact) and *Rise of the Machines* (lost the Deep-Blue fact),
+  each now 5 facts.
+- **CDN v5 staged, NOT uploaded.** `exports/manifest.json` bumped to **contentVersion 5** (facts + collections
+  checksums changed; categories unchanged). Upload the 3 JSON files then `manifest.json` last to the R2 bucket
+  per `Nib/cdn/README.md`, then verify `curl -s https://cdn.nibapp.net/v1/manifest.json | grep contentVersion`.
+  **Note:** pass-1 **v4 is confirmed live** (verified 2026-07-15: 200 + matching shas) — the earlier "still v3?"
+  worry is resolved; v5 is the only pending drop.
+- Backup / audit trail: `approved-content/approved-facts.backup-20260715-090418.csv` +
+  `approved-content/pass2-candidates.csv`.
 
 ### What changed on 2026-07-14 (major library edit — reproduce via curation-guide §8)
 - **Flat-fact weed-out: 2187 → 1928.** Read every fact; flagged 284 flat ones (the 4 red-flags now in

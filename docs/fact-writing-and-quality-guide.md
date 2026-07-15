@@ -70,8 +70,18 @@ Catchy, curiosity-creating, Title Case. **Lead with the surprise, not a definiti
 
 Not academic, not clickbait, never exaggerated beyond the source.
 
+**It MUST stand alone without its topic.** The headline is the Spotlight title, the widget copy, and the
+Siri snippet — surfaces that show **no topic label**. So never lean on the topic for the referent: no
+anaphoric `Its` / `Their` / `His` / `She` / `It`, and no bare `The Test` / `The Color` / `The Expedition`.
+Name the subject in the headline itself.
+- ❌ *The American Revolution Helped Trigger It* (topic: French Revolution) → reads as nonsense in a widget
+- ❌ *Its Feathers Reveal How Flight Began* → ✅ **Archaeopteryx's Lopsided Feathers Give Away How Flight Began**
+- Cataphoric `This`/`That` is fine when self-contained: *This Island Used Giant Stone Coins Too Heavy to Move*.
+
 ### `summary` — a TEASER, never an echo
-The `headline` + `summary` are the two lines of a push notification. The summary must **add** intrigue — a
+The `summary` **is** the push-notification body — the notification is a fixed `"Today's Fact"` title plus this
+line (`NotificationService.notificationContent`; the headline is deliberately NOT used, as it truncates on one
+line). It's also the copy in the small widget. The summary must **add** intrigue — a
 number, a twist, a "wait" angle, or a concrete image — so the reader taps. **Never restate the headline.**
 - Headline: *Gunpowder Began as a Chinese Discovery* → Summary: *"They were hunting for a potion to live
   forever. They found something explosive instead."*
