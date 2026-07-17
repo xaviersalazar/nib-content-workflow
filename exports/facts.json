@@ -725,9 +725,9 @@
   },
   {
     "id": "uranus-coldest-planet",
-    "headline": "Uranus Is the Coldest Planet in the Solar System",
+    "headline": "Neptune Sits Farther From the Sun, Yet Uranus Is Colder",
     "body": "Neptune sits farther from the Sun, yet Uranus is the coldest planet of all, dropping to around -371°F. The strange part is that Uranus gives off almost no internal heat of its own, unlike the other giants, and scientists still don't know why. It's an odd world in other ways too: it rotates at nearly a 90-degree angle to its orbit, so it appears to spin on its side, circled by faint rings and more than two dozen small moons.",
-    "summary": "Neptune is farther out, yet Uranus is the colder one.",
+    "summary": "It plunges to around -371 F, and nobody knows why it gives off almost no heat of its own.",
     "categoryId": "space",
     "topic": "Uranus",
     "tags": [
@@ -1791,9 +1791,9 @@
   },
   {
     "id": "nebulae-dead-stars",
-    "headline": "Some Nebulae Are the Remains of Dead Stars",
+    "headline": "A Dying Star Seeds the Next Generation of Planets",
     "body": "Not every nebula makes stars — some are made by dying ones. When an old star sheds its outer layers, or a giant star explodes, it leaves an expanding cloud of gas and dust. These clouds carry heavy elements that may someday form new stars and planets. The Crab Nebula and Ring Nebula are famous examples. In space, a star's death helps fuel the next generation.",
-    "summary": "Some glowing clouds are what a star leaves behind when it dies.",
+    "summary": "Some glowing clouds are what a star leaves behind when it sheds its layers or explodes.",
     "categoryId": "astronomy",
     "topic": "Nebulae",
     "tags": [
@@ -2268,9 +2268,9 @@
   },
   {
     "id": "quasars-angle-changes-view",
-    "headline": "Quasars Are the Brightest Things in the Universe",
+    "headline": "One Feeding Black Hole Can Outshine Its Whole Galaxy",
     "body": "A quasar is a giant black hole feeding at the heart of a galaxy, and it can outshine everything around it. A single quasar can blaze brighter than its entire galaxy — hundreds of billions of stars combined. That's how we can see some of them from billions of light-years away, near the edge of the visible universe. They are the most luminous objects we know of.",
-    "summary": "One feeding black hole can outshine its whole galaxy — hundreds of billions of stars at once.",
+    "summary": "That's how we can spot some of them from near the very edge of the visible universe.",
     "categoryId": "astronomy",
     "topic": "Quasars",
     "tags": [
@@ -3386,9 +3386,9 @@
   },
   {
     "id": "mongol-empire-largest-contiguous",
-    "headline": "The Mongols Built the Largest Contiguous Empire Ever",
+    "headline": "Steppe Nomads Built History's Biggest Land Empire in a Few Generations",
     "body": "At its peak in the 1200s, the Mongol Empire was the largest connected land empire in history. It covered about nine million square miles, reaching from the Pacific coast of Asia to the edges of Europe. Unlike sea empires scattered across distant colonies, it was one continuous stretch of land. It linked many peoples, religions, and trade routes under a single rule. That nomads from the steppes built it in just a few generations is astonishing.",
-    "summary": "Nine million square miles, all in one connected block.",
+    "summary": "Nine million square miles, from the Pacific coast of Asia to the edges of Europe, in one connected block.",
     "categoryId": "history",
     "topic": "Mongol Empire",
     "tags": [
@@ -4354,9 +4354,9 @@
   },
   {
     "id": "maya-zero",
-    "headline": "The Maya Discovered Zero",
+    "headline": "The Maya Invented Zero on Their Own, an Ocean Away",
     "body": "The ancient Maya came up with one of math's most powerful ideas all on their own: zero. While other early cultures struggled without it, the Maya used a symbol for zero in their counting, which made big numbers far easier to handle. That was a huge help for their detailed calendars and star records. And they did it completely separate from the Old World. Their use of zero shows just how advanced Maya math really was.",
-    "summary": "They invented 'nothing' as a number all on their own.",
+    "summary": "While other early cultures struggled without it, they used zero to power detailed calendars and star charts.",
     "categoryId": "ancient-civilizations",
     "topic": "Maya Civilization",
     "tags": [
@@ -4528,9 +4528,9 @@
   },
   {
     "id": "inca-road-network",
-    "headline": "The Inca Built Thousands of Miles of Roads",
+    "headline": "The Inca Built Thousands of Miles of Roads Without the Wheel",
     "body": "To hold their mountain empire together, the Inca built an amazing road network stretching many thousands of miles. The roads climbed steep slopes, crossed rivers, and cut through some of the roughest land on Earth — all without the wheel or iron tools. They let armies, messengers, and goods move fast across the empire. Rest stops along the way offered food and shelter. These roads were the backbone of Inca power, tying together a vast realm high in the Andes.",
-    "summary": "Built across the Andes without the wheel or iron tools.",
+    "summary": "The roads climbed steep slopes and crossed rivers through some of the roughest land on Earth.",
     "categoryId": "ancient-civilizations",
     "topic": "Inca Civilization",
     "tags": [
@@ -4674,9 +4674,9 @@
   },
   {
     "id": "sumerians-earliest-civilization",
-    "headline": "The Sumerians Built the Earliest Known Civilization",
+    "headline": "The World's First True Cities Rose More Than 5,000 Years Ago",
     "body": "The Sumerians, who lived in southern Mesopotamia, built what many consider the earliest known civilization. Over 5,000 years ago, they founded some of the world's first true cities, with temples, markets, and governments. They developed writing, advanced farming, and complex social structures long before most other peoples. Many basics of organized life trace back to them. By laying these foundations, the Sumerians helped launch the very idea of civilization.",
-    "summary": "They built the world's first true cities over 5,000 years ago.",
+    "summary": "Temples, markets, writing, government; much of organized life traces back to one people in Mesopotamia.",
     "categoryId": "ancient-civilizations",
     "topic": "Sumerians",
     "tags": [
@@ -4702,9 +4702,9 @@
   },
   {
     "id": "sumerians-cuneiform",
-    "headline": "The Sumerians Invented Cuneiform",
+    "headline": "The First Writing Was Invented to Track Goods, Not Tell Stories",
     "body": "The Sumerians created one of humanity's greatest inventions: the first known writing, called cuneiform. Using a reed tool, they pressed wedge-shaped marks into soft clay tablets. It began as simple symbols for counting goods, then grew into a flexible script that could capture language, laws, and stories. Suddenly, knowledge could be stored and shared across time like never before. With cuneiform, the Sumerians opened the door to recorded history.",
-    "summary": "The first writing started as marks for counting goods.",
+    "summary": "Pressed into clay with a reed, it let people store and share knowledge across time for the first time.",
     "categoryId": "ancient-civilizations",
     "topic": "Sumerians",
     "tags": [
@@ -4732,9 +4732,9 @@
   },
   {
     "id": "sumerians-wheel",
-    "headline": "The Sumerians Invented the Wheel",
+    "headline": "The First Wheels Shaped Pottery, Not Carts",
     "body": "The wheel, one of history's most important inventions, is believed to come from the Sumerians. Surprisingly, the first wheels weren't for transport — they were potter's wheels for shaping clay. Later, the Sumerians and their neighbors used the idea for carts and chariots, transforming travel and trade. This simple device made it far easier to move heavy loads. From those beginnings, the wheel spread worldwide and still powers countless machines today.",
-    "summary": "The first wheels weren't for carts — they shaped pottery.",
+    "summary": "One of history's most important inventions began as a tool for spinning clay.",
     "categoryId": "ancient-civilizations",
     "topic": "Sumerians",
     "tags": [
@@ -5235,9 +5235,9 @@
   },
   {
     "id": "olmecs-colossal-stone-heads",
-    "headline": "The Olmecs Carved Giant Stone Heads",
+    "headline": "Olmec Sculptors Carved Ruler Portraits Taller Than a Person",
     "body": "The Olmecs are especially famous for the huge stone heads found at major sites like San Lorenzo and La Venta. Seventeen of these heads are known. They range from about 4.82 feet to 11.15 feet tall, with flat faces, full lips, and helmet-like headgear. They're generally thought to be portraits of Olmec rulers.",
-    "summary": "Some Olmec ruler portraits were carved as stone heads taller than a person.",
+    "summary": "Seventeen are known, up to about 11 feet tall, with flat faces and helmet-like headgear.",
     "categoryId": "ancient-civilizations",
     "topic": "Olmecs",
     "tags": [
@@ -5489,9 +5489,9 @@
   },
   {
     "id": "elephants-twenty-two-month-pregnancy",
-    "headline": "Elephants Have the Longest Pregnancy of Any Mammal",
+    "headline": "An Elephant Is Pregnant for Nearly Two Years",
     "body": "Elephants hold a remarkable record: the longest pregnancy of any mammal. A mother carries her calf for about 22 months — nearly two full years — before giving birth. That long stretch lets the calf's big brain and body develop fully first. When it's finally born, the calf already weighs around 200 pounds and can stand within hours. It shows just how much time and energy elephants pour into each baby.",
-    "summary": "Nearly two full years before a single calf is born.",
+    "summary": "The long wait lets the calf develop fully; it's born at around 200 pounds and can stand within hours.",
     "categoryId": "animals",
     "topic": "Elephants",
     "tags": [
@@ -8469,9 +8469,9 @@
   },
   {
     "id": "hair-mostly-dead-tissue",
-    "headline": "Most of a Hair Is Dead Tissue",
+    "headline": "Your Hair Is Only Alive at the Roots",
     "body": "A strand of hair may grow from living skin, but most of the hair itself isn't alive. A typical mammal hair has a shaft above the skin and a root sunk into a follicle below. Except for a few growing cells at the base of the root, hair is dead tissue. It's made of keratin and related proteins.",
-    "summary": "The visible strand of hair on your head is mostly dead keratin tissue.",
+    "summary": "Except for a few growing cells at the base of each root, the strand is dead keratin.",
     "categoryId": "human-body",
     "topic": "Hair",
     "tags": [
@@ -12340,9 +12340,9 @@
   },
   {
     "id": "streaming-data-packets",
-    "headline": "Video Streaming Is Most of the Internet",
+    "headline": "Netflix and YouTube Eat Over Half the World's Bandwidth",
     "body": "When you picture internet traffic, you might imagine emails, searches, and web pages. But the vast majority of it is video. Streaming services like YouTube and Netflix gobble up the lion's share of the world's internet bandwidth — well over half of all traffic. Every show, clip, and livestream is an enormous river of data. The internet, more than anything else, has become a machine for delivering video.",
-    "summary": "More than half of all internet traffic is just video streaming flowing to screens.",
+    "summary": "You picture emails and web pages, but the internet is mostly a video-delivery machine.",
     "categoryId": "internet-culture",
     "topic": "Streaming",
     "tags": [
@@ -12748,9 +12748,9 @@
   },
   {
     "id": "minecraft-virtual-blocks",
-    "headline": "Minecraft Is the Best-Selling Video Game Ever",
+    "headline": "A Solo Side Project Outsold Every Game in History",
     "body": "That blocky little world is the most popular video game of all time. Minecraft has sold more than 300 million copies, outselling every other game in history. It began as the side project of a single Swedish programmer and grew into a global phenomenon played by kids, scientists, and architects alike. Its secret is simple: hand people a world made of blocks and let them build absolutely anything.",
-    "summary": "With 300 million+ copies sold, the blocky world is the best-selling game in history.",
+    "summary": "One Swedish programmer's block-building experiment now has more than 300 million copies out there.",
     "categoryId": "video-games",
     "topic": "Minecraft",
     "tags": [
@@ -12892,9 +12892,9 @@
   },
   {
     "id": "pokemon-more-than-game",
-    "headline": "Pokémon Is the Highest-Grossing Franchise of All Time",
+    "headline": "Pokemon Has Out-Earned Star Wars, Marvel, and Mickey Mouse",
     "body": "Pokemon started as a pair of Game Boy games in 1996, but it grew into the most lucrative entertainment franchise ever created. Counting games, cards, toys, movies, and merchandise, it has out-earned giants like Star Wars, Marvel, and Mickey Mouse. A simple idea — collect, battle, and trade pocket monsters — became a global money machine bigger than any single movie series or superhero universe.",
-    "summary": "Counting everything, Pokemon has out-earned Star Wars, Marvel, and Mickey Mouse.",
+    "summary": "It started as two Game Boy games in 1996 and grew into the biggest franchise ever made.",
     "categoryId": "video-games",
     "topic": "Pokémon",
     "tags": [
@@ -15495,9 +15495,9 @@
   },
   {
     "id": "steel-builds-almost-everything",
-    "headline": "Steel Is the Most Recycled Material on Earth",
+    "headline": "The Steel in Your Car May Have Once Been a Ship or a Bridge",
     "body": "Steel quietly holds a green superpower: it can be melted down and reused over and over without ever losing quality. That makes it the most recycled material in the world — more is recycled each year than paper, plastic, and glass combined. The steel in a new car or skyscraper may have lived past lives as ships, cans, or bridges. It's endlessly reborn.",
-    "summary": "Steel can be recycled endlessly without losing strength — more is reused than any other material.",
+    "summary": "Steel can be melted down and reused over and over without ever losing quality.",
     "categoryId": "engineering",
     "topic": "Steel",
     "tags": [
@@ -15521,9 +15521,9 @@
   },
   {
     "id": "hydroelectric-power-head-height",
-    "headline": "Falling Water Is the World's Biggest Renewable Power Source",
+    "headline": "Water Makes More Clean Power Than Solar and Wind Combined",
     "body": "Solar panels and wind turbines get the headlines, but the quiet giant of clean energy is water. Hydropower — electricity made by water spinning turbines inside dams — generates more renewable power worldwide than solar and wind combined. Humans have harnessed flowing water for thousands of years, from grain mills to turbines. Gravity pulling water downhill remains our single largest source of green electricity.",
-    "summary": "Water spinning turbines makes more renewable electricity worldwide than solar and wind combined.",
+    "summary": "Solar and wind get the headlines, but the quiet giant of green energy is flowing water.",
     "categoryId": "engineering",
     "topic": "Hydroelectric Power",
     "tags": [
@@ -18602,9 +18602,9 @@
   },
   {
     "id": "superconductivity-cooper-pairs",
-    "headline": "A Room-Temperature Superconductor Is a Holy Grail",
+    "headline": "The Material That Would End Wasted Power Doesn't Exist Yet",
     "body": "Superconductors have a catch: most only work at brutally cold temperatures, hundreds of degrees below zero, which makes them expensive and awkward to use. A material that could superconduct at ordinary room temperature would be revolutionary — enabling lossless power grids, cheap maglev, and much more. It's been chased for decades. Every promising claim meets fierce scrutiny, because the prize is so enormous.",
-    "summary": "A superconductor that works at room temperature would transform technology — and no one's nailed it yet.",
+    "summary": "Today's superconductors only work hundreds of degrees below zero; a room-temperature one is the prize.",
     "categoryId": "physics",
     "topic": "Superconductivity",
     "tags": [
@@ -19398,9 +19398,9 @@
   },
   {
     "id": "metals-most-elements",
-    "headline": "Most of the Periodic Table Is Metal",
+    "headline": "Some Metals Float on Water and Catch Fire in Air",
     "body": "Picture the periodic table and you might imagine a balanced mix, but it's lopsided. About three out of every four known elements are metals. Tucked among the familiar iron, copper, and gold are oddballs you'd never guess: there are metals soft enough to cut with a butter knife, metals that float on water, and metals that catch fire in plain air. The table is overwhelmingly a metal's world.",
-    "summary": "Roughly three-quarters of all known elements are metals, including ones soft enough to slice with a knife.",
+    "summary": "About three of every four known elements are metals, including ones soft enough to cut with a knife.",
     "categoryId": "chemistry",
     "topic": "Metals",
     "tags": [
@@ -26252,9 +26252,9 @@
   },
   {
     "id": "concrete-aggregate-cement-water",
-    "headline": "Concrete Is the Most-Used Material After Water",
+    "headline": "Making Concrete Emits More Carbon Than Every Airplane Combined",
     "body": "Nothing humans manufacture gets used more than concrete; after water, it's the most consumed substance on Earth. We pour enough of it every year to bury entire cities. But there's a hidden cost: making cement, concrete's key binder, releases huge amounts of carbon dioxide. If the concrete industry were a country, it would be one of the world's top carbon emitters, producing more CO2 than all the planet's airplanes combined.",
-    "summary": "Concrete is the most-used material on Earth after water, and making its cement emits more carbon dioxide than all aviation.",
+    "summary": "After water, it's the most-used substance on Earth; we pour enough each year to bury whole cities.",
     "categoryId": "architecture",
     "topic": "Concrete",
     "tags": [
@@ -30790,9 +30790,9 @@
   },
   {
     "id": "glaciers-snow-becomes-ice",
-    "headline": "Most of Earth's Fresh Water Is Locked in Ice",
+    "headline": "Antarctica's Ice Is So Heavy It Pushes the Ground Below Sea Level",
     "body": "Glaciers begin as snow that never fully melts, building up year after year until it compresses into ice, and the totals are staggering. Glaciers and ice sheets hold roughly two-thirds of all the fresh water on Earth, far more than every river and lake combined. Antarctica's ice sheet alone is up to about four kilometers thick, so heavy it presses the bedrock beneath it down below sea level. Most of the planet's drinkable water is simply frozen and waiting.",
-    "summary": "Glaciers and ice sheets store about two-thirds of Earth's fresh water.",
+    "summary": "Glaciers and ice sheets store about two-thirds of all the fresh water on Earth.",
     "categoryId": "geography",
     "topic": "Glaciers",
     "tags": [
@@ -34669,9 +34669,9 @@
   },
   {
     "id": "islam-hajj-pilgrimage",
-    "headline": "The Hajj Is One of the Largest Gatherings on Earth",
+    "headline": "Two Million People Circle One Cube in the Same Few Days",
     "body": "Each year the hajj draws roughly two million or more Muslims to Mecca at the same time, making it one of the largest human gatherings on the planet. Pilgrims from every continent move together through shared rites, including walking seven times counterclockwise around the Kaaba, the cube-shaped structure at the center. Coordinating the food, water, travel, and safety of millions in a few days, in one place, is among the most complex logistical events humans regularly attempt.",
-    "summary": "The hajj gathers 2 million-plus Muslims in Mecca at once, among the largest human gatherings on Earth.",
+    "summary": "Feeding and moving millions safely through Mecca in days is among the hardest logistics humans attempt.",
     "categoryId": "religion-beliefs",
     "topic": "Islam",
     "tags": [
@@ -36069,9 +36069,9 @@
   },
   {
     "id": "triceratops-three-horns",
-    "headline": "Triceratops Had One of the Biggest Heads of Any Land Animal",
+    "headline": "A Triceratops Skull Was Nearly a Third of Its Whole Body",
     "body": "Triceratops is easy to recognize from its three horns and broad neck frill, but the real shock is scale. Its skull could reach around 2.5 meters, roughly 8 feet, long, making it one of the largest heads of any land animal ever known. In big individuals, the head alone made up close to a third of the entire body length. Carrying such an enormous, horned, frilled skull was a feat of engineering for the dinosaur's neck and shoulders.",
-    "summary": "Triceratops had a skull up to about 8 feet long, among the largest heads of any land animal ever.",
+    "summary": "Its head could reach about 8 feet long, among the largest of any land animal ever known.",
     "categoryId": "dinosaurs",
     "topic": "Triceratops",
     "tags": [
@@ -36942,9 +36942,9 @@
   },
   {
     "id": "woolly-mammoths-ice-age-coat",
-    "headline": "The Woolly Mammoth Is the Top Target to Bring Back",
+    "headline": "Scientists Are Editing Elephant DNA to Rebuild the Mammoth",
     "body": "Of all extinct animals, the woolly mammoth is the leading candidate for 'de-extinction.' Its closest living relative is the Asian elephant, with which it shares the vast majority of its DNA, and frozen carcasses provide unusually good genetic material. Scientists are now editing elephant genes, adding traits like thick fur and cold tolerance, in hopes of producing mammoth-like calves that could one day walk cold landscapes again. Bringing back the woolly mammoth has gone from science fiction to active laboratory work.",
-    "summary": "The woolly mammoth is the prime de-extinction target, with scientists editing Asian elephant DNA toward mammoth traits.",
+    "summary": "Its closest living relative is the Asian elephant, and frozen carcasses left unusually good DNA.",
     "categoryId": "ancient-creatures",
     "topic": "Woolly Mammoths",
     "tags": [
@@ -46091,9 +46091,9 @@
   },
   {
     "id": "lucky-numbers-seven",
-    "headline": "Seven Is the World's Favorite Number",
+    "headline": "Ask Anyone to Pick 1 to 10, and Most Say 7",
     "body": "Ask a room full of people to silently pick a number between 1 and 10, and far more will choose 7 than any other. Surveys around the world repeatedly crown 7 as humanity's favorite number. Part of the reason may be that it feels special and a little rebellious: among the numbers 1 through 10, it is the one that does not divide neatly or pair up with the others. That lonely, prime quality gives 7 an outsized mystique.",
-    "summary": "Asked to pick 1 to 10, most people say 7, making it the world's favorite number.",
+    "summary": "Among 1 through 10, it's the one that won't divide neatly or pair up, and that mystique sticks.",
     "categoryId": "superstitions",
     "topic": "Lucky Numbers",
     "tags": [
@@ -48230,9 +48230,9 @@
   },
   {
     "id": "bamboo-fast-growth",
-    "headline": "Bamboo Is the Fastest-Growing Plant on Earth",
+    "headline": "Some Bamboo Grows More Than an Inch an Hour",
     "body": "Bamboo holds the record as the fastest-growing plant known. Certain species can shoot up around three feet in a single day, which works out to more than an inch an hour. In the right conditions you can practically watch it climb. The secret is that a bamboo shoot emerges already containing all the segments it will ever have, so instead of adding new parts it just rapidly inflates the ones it already has.",
-    "summary": "The fastest-growing plant, some bamboo shoots up about three feet a day, over an inch an hour.",
+    "summary": "A shoot emerges already holding every segment it will ever have, then just rapidly inflates.",
     "categoryId": "famous-trees-plants",
     "topic": "Bamboo",
     "tags": [
@@ -49943,9 +49943,9 @@
   },
   {
     "id": "salar-de-uyuni-high-altitude",
-    "headline": "Salar de Uyuni Is the Flattest Place on Earth",
+    "headline": "This Salt Flat Stays Level to Within a Meter for Miles",
     "body": "Salar de Uyuni is not just huge; it is astonishingly level. Across its roughly 4,000 square miles, an area larger than some countries, the elevation changes by less than about one meter from end to end. That makes it one of the flattest places on the entire planet. The extreme flatness is part of why the rainy-season reflections are so perfect and why standing there can feel like floating in an endless, borderless white void.",
-    "summary": "Across its vast expanse, Salar de Uyuni varies in height by under a meter, one of Earth's flattest places.",
+    "summary": "Across an area larger than some countries, a thin layer of rain turns it into a borderless white void.",
     "categoryId": "strange-places",
     "topic": "Salar de Uyuni",
     "tags": [
@@ -50406,9 +50406,9 @@
   },
   {
     "id": "pamukkale-cotton-palace",
-    "headline": "Pamukkale's White Castle Is Made of Stone",
+    "headline": "This 'Cotton Castle' Is Actually Solid Rock",
     "body": "From a distance, Pamukkale in Turkey looks like a cascade of soft white cotton or fresh snow tumbling down a hillside, which is why its name means 'Cotton Palace.' But there is nothing soft about it. The dazzling white terraces are travertine, solid rock left behind by warm, calcite-rich spring water flowing down the nearly 200-meter cliff. Over thousands of years the minerals hardened into stepped pools and frozen-looking waterfalls of pure stone.",
-    "summary": "Pamukkale's snowy-white terraces are travertine, rock deposited by mineral-rich hot springs over millennia.",
+    "summary": "From afar it looks like cascading cotton or fresh snow tumbling down a nearly 200-meter cliff.",
     "categoryId": "strange-places",
     "topic": "Pamukkale",
     "tags": [
