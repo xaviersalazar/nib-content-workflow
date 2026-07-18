@@ -1,11 +1,11 @@
 {
-  "contentVersion": 6,
+  "contentVersion": 7,
   "schemaVersion": 1,
   "files": [
     {
       "name": "facts",
       "url": "facts.json",
-      "sha256": "d4d386c56d842e88403ef4b0ac95181ef8e00c65d2a6f602fd1da813eafffe07"
+      "sha256": "5e77638dc1df4c55d8b2a2f9eaa273f000d91c9b909d67cc11ea8aa442f0a4df"
     },
     {
       "name": "categories",
@@ -15,7 +15,7 @@
     {
       "name": "collections",
       "url": "collections.json",
-      "sha256": "639f373e067f8e92d3dca78a373371f4128ff92385db17b6558ab47b984a3461"
+      "sha256": "d6a99bb48d2a1e3fadd4805c4501be368fd167e5e82b20c2d99553a9d723070a"
     }
   ]
 }
