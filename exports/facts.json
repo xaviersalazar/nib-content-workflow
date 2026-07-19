@@ -479,8 +479,8 @@
       "dwarf-planets-hundreds-more",
       "dwarf-planets-definition-created-2006",
       "venus-backwards-rotation",
+      "motion-velocity-has-direction",
       "time-relativity-observer-dependent",
-      "jupiter-shortest-day",
       "uranus-sideways-planet"
     ],
     "themes": [
@@ -1401,8 +1401,8 @@
     "readTimeSeconds": 35,
     "featured": false,
     "relatedFactIds": [
-      "moon-volcanoes-io",
       "moon-ganymede-biggest",
+      "moon-volcanoes-io",
       "saturn-enceladus-ocean",
       "lasers-light-copy-itself",
       "oceans-drive-water-cycle",
@@ -2704,7 +2704,7 @@
       "knights-training-age-seven",
       "monsoons-agriculture-lifeline",
       "coffee-plant-beans-are-seeds",
-      "aztec-chocolate"
+      "cities-industrial-growth"
     ],
     "themes": [
       "coffee-and-tea"
@@ -2873,7 +2873,7 @@
       "golden-age-of-piracy-black-bart-400-ships",
       "privateers-blurred-line",
       "pigpen-civil-war-prisoners",
-      "french-revolution-louis-xvi"
+      "french-revolution-american-war"
     ],
     "themes": [
       "war-and-conflict"
@@ -2898,9 +2898,9 @@
     "relatedFactIds": [
       "american-revolution-civil-war",
       "american-revolution-paul-revere",
-      "french-revolution-louis-xvi",
+      "french-revolution-bastille",
       "privateers-blurred-line",
-      "french-revolution-bastille"
+      "golden-age-of-piracy-black-bart-400-ships"
     ],
     "themes": [
       "war-and-conflict",
@@ -3095,9 +3095,9 @@
     "relatedFactIds": [
       "ancient-india-zero",
       "ancient-india-chess",
+      "ancient-greece-olympics",
       "titanic-lifeboat-capacity-gap",
-      "silk-road-black-death",
-      "silk-road-not-one-road"
+      "silk-road-black-death"
     ],
     "themes": []
   },
@@ -3328,33 +3328,6 @@
     ]
   },
   {
-    "id": "french-revolution-louis-xvi",
-    "headline": "France Used the Guillotine Until 1977",
-    "body": "The guillotine feels like distant history, tied to the French Revolution of the 1790s. But France kept using it for almost two centuries more. The last person executed by guillotine was put to death in 1977 — the same year Star Wars hit theaters. France didn't abolish the death penalty until 1981. The Revolution's blade outlasted the Revolution itself by generations.",
-    "summary": "The Revolution's blade was still in use the year Star Wars premiered.",
-    "categoryId": "history",
-    "topic": "French Revolution",
-    "tags": [
-      "history",
-      "france",
-      "guillotine",
-      "revolution"
-    ],
-    "readTimeSeconds": 38,
-    "featured": false,
-    "relatedFactIds": [
-      "french-revolution-bastille",
-      "french-revolution-american-war",
-      "american-revolution-french-navy",
-      "american-revolution-civil-war",
-      "golden-age-of-piracy-black-bart-400-ships"
-    ],
-    "themes": [
-      "stars-and-cosmos",
-      "war-and-conflict"
-    ]
-  },
-  {
     "id": "french-revolution-american-war",
     "headline": "France Bankrupted Itself Helping America, Then Revolted",
     "body": "One spark of the French Revolution came from across the Atlantic. France spent enormous sums helping the American colonies beat Britain, hoping to weaken its old rival. The plan worked abroad — but pushed France toward financial ruin. Crushing debt forced the king to raise taxes and call meetings that exposed deep divisions at home. Watching Americans throw off a king also inspired French reformers. By aiding one revolution, France helped set off its own.",
@@ -3371,8 +3344,8 @@
     "featured": false,
     "relatedFactIds": [
       "french-revolution-bastille",
-      "french-revolution-louis-xvi",
       "roman-empire-roads-survive",
+      "american-revolution-civil-war",
       "privateers-blurred-line",
       "calendars-reform",
       "vikings-women-rights"
@@ -3397,11 +3370,11 @@
     "readTimeSeconds": 39,
     "featured": false,
     "relatedFactIds": [
-      "french-revolution-louis-xvi",
       "french-revolution-american-war",
       "american-revolution-french-navy",
+      "cold-war-orwell",
       "parkour-yamakasi-movement",
-      "calendars-reform"
+      "american-revolution-civil-war"
     ],
     "themes": [
       "energy-and-power",
@@ -3654,8 +3627,8 @@
       "salem-witch-trials-apology-centuries-later",
       "salem-witch-trials-accusations-spread",
       "ancient-china-wu-zetian",
-      "renaissance-constantinople",
-      "space-race-armstrong-aldrin"
+      "space-race-armstrong-aldrin",
+      "renaissance-constantinople"
     ],
     "themes": [
       "energy-and-power",
@@ -3906,7 +3879,7 @@
       "american-revolution-civil-war",
       "pirate-codes-articles",
       "privateers-blurred-line",
-      "french-revolution-louis-xvi"
+      "american-revolution-french-navy"
     ],
     "themes": [
       "war-and-conflict"
@@ -4238,7 +4211,7 @@
       "aztec-tenochtitlan-founded",
       "minoans-bull-leaping-art",
       "chocolate-drink-history",
-      "middle-ages-beans-population-boom",
+      "coffee-plant-beans-are-seeds",
       "chocolate-food-of-the-gods"
     ],
     "themes": [
@@ -4471,8 +4444,8 @@
       "babylonians-astronomy",
       "babylonians-hanging-gardens",
       "ancient-persia-royal-road",
-      "maps-city-memory",
-      "ancient-persia-persepolis"
+      "ancient-persia-persepolis",
+      "phoenicians-ships"
     ],
     "themes": [
       "money-trade-and-value"
@@ -6625,7 +6598,7 @@
       "deep-sea-underwater-lakes",
       "bioluminescence-most-deep-sea-animals-glow",
       "dragonflies-aquatic-nymphs",
-      "waterfalls-many-causes",
+      "sea-turtles-leatherbacks-10000-miles",
       "bioluminescence-shrimp-spit-light"
     ],
     "themes": [
@@ -10354,7 +10327,7 @@
       "blockchain-public-private-keys",
       "qr-codes-everyday-bridge",
       "windshield-wipers-snowy-trolley",
-      "email-more-than-text",
+      "smartphones-first-1993",
       "qr-codes-two-dimensional-data"
     ],
     "themes": [
@@ -10978,8 +10951,8 @@
       "ai-hallucinations-adversarial-attacks",
       "deep-learning-many-layers",
       "ai-ethics-biased-data",
-      "sleepwalking-partial-waking",
       "sleep-paralysis-hallucinations",
+      "emojis-replace-body-language",
       "recommendation-systems-guess-next"
     ],
     "themes": [
@@ -11907,8 +11880,8 @@
       "pac-man-food-gameplay",
       "pokemon-more-than-game",
       "recycling-symbol-contest",
-      "virtual-worlds-being-there",
-      "nintendo-ultra-hand-toy"
+      "nintendo-ultra-hand-toy",
+      "virtual-worlds-being-there"
     ],
     "themes": [
       "games-and-play",
@@ -12047,7 +12020,7 @@
       "pokemon-more-than-game",
       "zelda-childhood-exploration",
       "friday-13-calendar",
-      "arcade-games-coin-op-design"
+      "nintendo-ultra-hand-toy"
     ],
     "themes": [
       "money-trade-and-value",
@@ -12294,8 +12267,8 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "imax-sideways-film",
       "documentaries-shape-facts",
+      "imax-sideways-film",
       "cruise-control-set-speed",
       "writing-systems-represent-language",
       "film-festivals-rashomon-global"
@@ -12379,8 +12352,8 @@
     "relatedFactIds": [
       "academy-awards-ceremony-records",
       "technicolor-lasting-color",
-      "film-festivals-rashomon-global",
       "imax-sideways-film",
+      "film-festivals-rashomon-global",
       "stop-motion-coraline-3d"
     ],
     "themes": [
@@ -12530,9 +12503,9 @@
   },
   {
     "id": "documentaries-shape-facts",
-    "headline": "A Famous Nature Documentary Faked Lemming 'Suicide'",
-    "body": "The myth that lemmings hurl themselves off cliffs in mass suicides was spread by a 1958 Disney nature film. There was just one problem: the filmmakers staged it. They imported lemmings, herded them together, and reportedly pushed them off a cliff to get the dramatic footage. The 'documentary' invented a behavior the animals don't actually do. A made-up scene became a 'fact' that millions still believe.",
-    "summary": "The 'lemming mass suicide' is a myth — a 1958 Disney film staged it by pushing them off a cliff.",
+    "headline": "A Famous Nature Documentary Staged Its Most Famous Scene",
+    "body": "One of the most widely believed 'facts' about lemmings came from a 1958 Disney nature film. There was just one problem: the filmmakers staged it. They imported lemmings that weren't native to the area, herded them together, and arranged the dramatic footage themselves. The 'documentary' invented a behavior the animals don't actually do. A made-up scene became a 'fact' that millions still repeat today.",
+    "summary": "The lemming behavior millions of people still believe in was invented for a 1958 Disney film.",
     "categoryId": "movies",
     "topic": "Documentaries",
     "tags": [
@@ -12541,21 +12514,21 @@
       "disney",
       "myth"
     ],
-    "readTimeSeconds": 45,
+    "readTimeSeconds": 40,
     "featured": false,
     "relatedFactIds": [
       "silent-films-kinetoscope-viewer",
       "film-festivals-rashomon-global",
       "jacques-cousteau-filmmaker",
-      "myth-not-same-as-folktale",
-      "stop-motion-coraline-3d",
+      "myth-explains-world",
+      "imax-sideways-film",
       "castles-keeps-replaced-donjons"
     ],
     "themes": [
-      "storytelling-and-narrative",
-      "deception-and-hoax",
       "collective-behavior",
-      "myth-vs-reality"
+      "storytelling-and-narrative",
+      "myth-vs-reality",
+      "invention-and-breakthrough"
     ]
   },
   {
@@ -13023,43 +12996,16 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "rock-hard-to-define",
       "sound-recording-stores-vibrations",
       "jazz-african-european-roots",
       "jazz-armstrong-invented-swing",
-      "electronic-music-musique-concrete"
+      "electronic-music-musique-concrete",
+      "synthesizers-punched-paper-tape"
     ],
     "themes": [
       "music-and-sound",
       "energy-and-power",
       "invention-and-breakthrough"
-    ]
-  },
-  {
-    "id": "rock-hard-to-define",
-    "headline": "'Rock and Roll' Was Slang for Sex",
-    "body": "Before it named a genre, 'rock and roll' meant something a lot less wholesome. The phrase had long been African American slang for sex, showing up in blues and R&B lyrics with a wink. When a radio DJ borrowed the term in the early 1950s to brand the new sound for teenagers, most parents had no idea what they were really saying. The rebellious name fit the rebellious music.",
-    "summary": "Long before it was a music genre, 'rock and roll' was old slang for sex.",
-    "categoryId": "music",
-    "topic": "Rock Music",
-    "tags": [
-      "music",
-      "rock",
-      "language",
-      "history"
-    ],
-    "readTimeSeconds": 45,
-    "featured": false,
-    "relatedFactIds": [
-      "rock-global-mainstream",
-      "streaming-music-before-full-file",
-      "dj-culture-scratching-accident",
-      "printing-press-gutenberg-bible",
-      "alphabet-fewer-symbols"
-    ],
-    "themes": [
-      "music-and-sound",
-      "parental-care"
     ]
   },
   {
@@ -13190,10 +13136,10 @@
     "featured": false,
     "relatedFactIds": [
       "streaming-music-spotify-piracy",
-      "rock-hard-to-define",
       "dj-culture-scratching-accident",
+      "hip-hop-rappers-delight",
       "streaming-data-packets",
-      "hip-hop-rappers-delight"
+      "hip-hop-kool-herc-breakbeat"
     ],
     "themes": [
       "music-and-sound",
@@ -13363,11 +13309,11 @@
     "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
-      "rock-hard-to-define",
       "streaming-music-before-full-file",
       "hip-hop-kool-herc-breakbeat",
       "hip-hop-rappers-delight",
-      "classical-music-ancient-mediterranean-roots"
+      "classical-music-ancient-mediterranean-roots",
+      "synthesizers-punched-paper-tape"
     ],
     "themes": [
       "accidental-discovery",
@@ -13989,8 +13935,8 @@
       "chess-indian-war-game",
       "soccer-rugby-rule-split",
       "marathons-26-miles-385-yards",
-      "ancient-india-chess",
       "monopolies-one-seller-power",
+      "ancient-india-chess",
       "bees-royal-jelly"
     ],
     "themes": [
@@ -16200,9 +16146,9 @@
   },
   {
     "id": "crash-test-dummies-measure-crashes",
-    "headline": "Before Crash Dummies, Carmakers Used Real Bodies",
-    "body": "Crash test dummies didn't always exist, and the alternatives were grim. In the early days of safety research, engineers studied crash forces using human cadavers — donated bodies strapped into vehicles and subjected to impacts. The data helped design seat belts and safer interiors that have saved countless lives. The lifelike dummies we use today were created, in part, to replace that unsettling practice.",
-    "summary": "Before lifelike dummies, car-safety researchers tested crashes using real human cadavers.",
+    "headline": "Crash Test Dummies Were Invented to Replace Something Worse",
+    "body": "Crash test dummies didn't always exist, and the alternatives were grim. In the early days of safety research, engineers had no reliable way to measure what a collision does to a person, so they relied on stand-ins nobody would accept today. The push to build accurate, repeatable, lifelike dummies came directly from wanting to end that practice. The data those dummies produced shaped seat belts, airbags, and safer interiors that have saved countless lives.",
+    "summary": "Before engineers had lifelike dummies, early car-safety research relied on far grimmer stand-ins.",
     "categoryId": "cars",
     "topic": "Crash Test Dummies",
     "tags": [
@@ -16211,7 +16157,7 @@
       "crash-test",
       "history"
     ],
-    "readTimeSeconds": 54,
+    "readTimeSeconds": 46,
     "featured": false,
     "relatedFactIds": [
       "crash-test-dummies-different-bodies",
@@ -17099,8 +17045,8 @@
     "relatedFactIds": [
       "inertia-no-net-force",
       "inertia-resists-motion-change",
-      "light-exact-speed",
       "superconductivity-meissner-effect",
+      "light-exact-speed",
       "motion-force-changes-motion",
       "friction-tiny-surface-interactions"
     ],
@@ -18325,9 +18271,9 @@
   },
   {
     "id": "combustion-modern-chemistry",
-    "headline": "Solving Fire Launched Modern Chemistry, Then Cost Him His Head",
-    "body": "For centuries, people thought burning released a mystery substance called phlogiston. In the 1770s Antoine Lavoisier proved the opposite, that fire actually consumes oxygen, and by weighing everything precisely he turned chemistry into a measured science. His reward from history was grim: during the French Revolution he was sent to the guillotine. A judge supposedly sneered that the Republic had no need of scientists. Chemistry had just lost its founder.",
-    "summary": "The chemist who finally explained fire founded modern chemistry, then lost his head in the French Revolution.",
+    "headline": "Solving Fire Launched Modern Chemistry",
+    "body": "For centuries, people thought burning released a mystery substance called phlogiston. In the 1770s Antoine Lavoisier proved the opposite, that fire actually consumes oxygen, and by weighing everything precisely he turned chemistry into a measured science. His reward from history was grim: he was condemned during the French Revolution, and a judge supposedly sneered that the Republic had no need of scientists. Chemistry had just lost its founder.",
+    "summary": "The chemist who finally explained what fire is turned chemistry into a measured science — then lost everything in the Revolution.",
     "categoryId": "chemistry",
     "topic": "Combustion",
     "tags": [
@@ -18336,7 +18282,7 @@
       "lavoisier",
       "history"
     ],
-    "readTimeSeconds": 54,
+    "readTimeSeconds": 43,
     "featured": false,
     "relatedFactIds": [
       "combustion-oxygen-reaction",
@@ -20725,7 +20671,7 @@
       "business-cards-first-impression",
       "advertising-modern-printing",
       "lucky-numbers-symbolism",
-      "forensic-entomologists-blow-flies"
+      "dragons-appear-worldwide"
     ],
     "themes": [
       "money-trade-and-value",
@@ -21405,8 +21351,8 @@
     "readTimeSeconds": 54,
     "featured": false,
     "relatedFactIds": [
-      "economic-bubbles-name-matters",
       "economic-bubbles-dot-com-surge",
+      "economic-bubbles-name-matters",
       "gdp-measures-output",
       "stock-market-fuels-growth",
       "taxes-fund-public-needs",
@@ -22579,9 +22525,9 @@
   },
   {
     "id": "fairy-tales-not-always-fairies",
-    "headline": "The Original Grimm Fairy Tales Were Gruesome",
-    "body": "The Brothers Grimm didn't write gentle bedtime stories. In their early versions, Cinderella's stepsisters slice off parts of their own feet to squeeze into the slipper, then have their eyes pecked out by birds. Snow White's queen is forced to dance to death in red-hot iron shoes. The Grimms softened these horrors in later editions for younger readers. The cheerful fairy tales we know today are the cleaned-up rewrites.",
-    "summary": "In the Grimms' originals, Cinderella's stepsisters mutilate their feet and get their eyes pecked out.",
+    "headline": "The Grimms Rewrote Their Own Fairy Tales to Be Gentler",
+    "body": "The Brothers Grimm didn't set out to write gentle bedtime stories. Their earliest published versions were considerably darker and grimmer than the tales children hear today, full of harsh punishments and unhappy fates. As the collection became popular with families, the Grimms revised it edition after edition, softening the roughest material for younger readers. The cheerful fairy tales we know today are the cleaned-up rewrites, not the originals.",
+    "summary": "The cheerful fairy tales we know are cleaned-up rewrites — the Grimms' first versions were far darker.",
     "categoryId": "literature",
     "topic": "Fairy Tales",
     "tags": [
@@ -22589,7 +22535,7 @@
       "brothers-grimm",
       "folklore"
     ],
-    "readTimeSeconds": 49,
+    "readTimeSeconds": 43,
     "featured": false,
     "relatedFactIds": [
       "fairy-tales-folk-and-art",
@@ -22838,7 +22784,7 @@
       "myths-culture-validation",
       "fairy-tales-folk-and-art",
       "myth-not-same-as-folktale",
-      "vikings-no-horned-helmets"
+      "taste-buds-thousands-on-tongue"
     ],
     "themes": [
       "record-extremes",
@@ -22976,9 +22922,9 @@
     "relatedFactIds": [
       "novels-long-prose-worlds",
       "novels-character-depth",
+      "fairy-tales-not-always-fairies",
       "libraries-alexandria-symbol",
-      "fairy-tales-folk-and-art",
-      "fairy-tales-not-always-fairies"
+      "fairy-tales-folk-and-art"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -23611,8 +23557,8 @@
       "emojis-unicode-shared-code",
       "emojis-japanese-name",
       "morse-code-frequency-shortcuts",
-      "sign-language-face-is-grammar",
-      "translation-machine-vs-cat"
+      "ai-hallucinations-real-world-harm",
+      "sign-language-face-is-grammar"
     ],
     "themes": [
       "internet-and-virality"
@@ -23808,9 +23754,9 @@
   },
   {
     "id": "morse-code-not-a-language",
-    "headline": "A Prisoner Blinked the Word 'Torture' on TV",
-    "body": "Morse code can hide a message in almost anything, even a blink. In 1966, captured US Navy pilot Jeremiah Denton was forced onto North Vietnamese television for a propaganda interview. As he spoke the words his captors wanted, he repeatedly blinked his eyes in Morse code, spelling out T-O-R-T-U-R-E. US intelligence caught it. It was the first confirmation that American POWs were being abused, sent in dots and dashes of the eyelids.",
-    "summary": "A POW secretly blinked 'TORTURE' in Morse code during a 1966 propaganda interview, alerting US intelligence.",
+    "headline": "A Prisoner Sent a Secret Message by Blinking on TV",
+    "body": "Morse code can hide a message in almost anything, even a blink. In 1966, captured US Navy pilot Jeremiah Denton was forced onto North Vietnamese television for a propaganda interview. As he spoke the words his captors wanted to hear, he repeatedly blinked his eyes in Morse code, spelling out a warning about how prisoners were really being treated. US intelligence caught it. The first word of their true conditions arrived in dots and dashes of the eyelids.",
+    "summary": "A captured pilot blinked a hidden Morse message during a 1966 propaganda interview, and intelligence analysts caught it.",
     "categoryId": "languages",
     "topic": "Morse Code",
     "tags": [
@@ -23818,7 +23764,7 @@
       "history",
       "prisoners-of-war"
     ],
-    "readTimeSeconds": 52,
+    "readTimeSeconds": 49,
     "featured": false,
     "relatedFactIds": [
       "morse-code-sos-pattern",
@@ -23828,9 +23774,9 @@
       "palindromes-ancient-wordplay"
     ],
     "themes": [
+      "codes-and-cryptography",
       "deception-and-hoax",
       "flight-and-aviation",
-      "codes-and-cryptography",
       "war-and-conflict"
     ]
   },
@@ -24087,7 +24033,7 @@
       "tongue-twisters-sound-collisions",
       "accents-not-same-as-dialects",
       "alphabet-fewer-symbols",
-      "dictionaries-began-bilingual"
+      "loanwords-change-after-borrowing"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -24252,7 +24198,7 @@
       "sign-language-complete-language",
       "phoenicians-alphabet",
       "ampersand-more-than-decoration",
-      "rock-hard-to-define"
+      "accents-not-same-as-dialects"
     ],
     "themes": [
       "language-and-writing",
@@ -24262,9 +24208,9 @@
   },
   {
     "id": "dictionaries-began-bilingual",
-    "headline": "A Killer in an Asylum Helped Write the Oxford Dictionary",
-    "body": "The Oxford English Dictionary took around 70 years to complete and leaned on an army of volunteers mailing in word examples. One of the most prolific was Dr. William Chester Minor, an American surgeon, who contributed thousands of entries from his cell, he was confined to an asylum for the criminally insane after committing a murder. For years the editors didn't know. The definitive English dictionary owes a debt to a brilliant madman.",
-    "summary": "One of the Oxford English Dictionary's top contributors was a murderer writing entries from an asylum.",
+    "headline": "The Oxford Dictionary Was Crowdsourced by Mail",
+    "body": "The Oxford English Dictionary took around 70 years to complete and leaned on an army of volunteers mailing in examples of words in use. One of the most prolific was Dr. William Chester Minor, an American surgeon, who contributed thousands of entries from his room — he was confined to an asylum, and for years the editors had no idea. The definitive dictionary of English was assembled largely by strangers writing letters.",
+    "summary": "Its most prolific volunteer mailed in thousands of entries from a cell in an asylum.",
     "categoryId": "languages",
     "topic": "Dictionaries",
     "tags": [
@@ -24272,7 +24218,7 @@
       "oxford-english-dictionary",
       "history"
     ],
-    "readTimeSeconds": 52,
+    "readTimeSeconds": 45,
     "featured": false,
     "relatedFactIds": [
       "dictionaries-not-always-alphabetical",
@@ -24283,6 +24229,7 @@
     ],
     "themes": [
       "human-body-quirks",
+      "collective-behavior",
       "war-and-conflict"
     ]
   },
@@ -25754,7 +25701,7 @@
       "atlantis-history-debate",
       "loch-ness-surgeons-photo-hoax",
       "legends-place-person-history",
-      "werewolves-human-wolf"
+      "phoenix-heliopolis-ashes"
     ],
     "themes": [
       "lost-and-rediscovered",
@@ -25809,7 +25756,7 @@
       "unicorns-purity-symbol",
       "horseshoes-st-dunstan",
       "sleep-paralysis-hallucinations",
-      "werewolves-medical-theories"
+      "business-cards-calling-card-origin"
     ],
     "themes": [
       "energy-and-power",
@@ -25888,7 +25835,7 @@
       "egyptian-religion-afterlife",
       "sasquatch-footprint-legend",
       "heart-symbol-ancient-beliefs",
-      "atlantis-from-plato"
+      "yeti-himalayan-snowline"
     ],
     "themes": [
       "human-body-quirks",
@@ -25991,7 +25938,7 @@
       "kraken-may-reflect-squid",
       "knocking-wood-avoid-jinx",
       "sleep-paralysis-hallucinations",
-      "four-leaf-clovers-celtic-charms"
+      "werewolves-medical-theories"
     ],
     "themes": [
       "myth-vs-reality",
@@ -26018,7 +25965,8 @@
       "fairies-not-always-sweet",
       "minotaur-man-bull",
       "cicadas-shed-skins",
-      "ants-queen-role"
+      "ants-queen-role",
+      "egyptian-religion-afterlife"
     ],
     "themes": [
       "hidden-underground",
@@ -26310,9 +26258,9 @@
     "relatedFactIds": [
       "loch-ness-global-myth",
       "loch-ness-home",
-      "werewolves-human-wolf",
       "atlantis-sank-in-one-day",
-      "sasquatch-patterson-film"
+      "sasquatch-patterson-film",
+      "sasquatch-pop-culture"
     ],
     "themes": [
       "storytelling-and-narrative"
@@ -26358,8 +26306,8 @@
     "relatedFactIds": [
       "mermaids-andersen-changed-image",
       "mermaids-sailor-stories",
-      "egyptian-religion-afterlife",
       "kraken-may-reflect-squid",
+      "egyptian-religion-afterlife",
       "loch-ness-surgeons-photo-hoax"
     ],
     "themes": []
@@ -26738,31 +26686,6 @@
     ]
   },
   {
-    "id": "werewolves-human-wolf",
-    "headline": "A Man Was Executed as a Werewolf in 1589",
-    "body": "Werewolf panic could be deadly serious. In 1589 in Germany, a farmer named Peter Stumpp was put on trial accused of being a werewolf and committing a string of grisly murders, supposedly using a magic belt to transform. Under brutal torture he confessed, and his execution was one of the most savage on record. For a time, 'werewolf' wasn't a movie monster but a capital charge that could send a real person to the scaffold.",
-    "summary": "In 1589, German farmer Peter Stumpp was tried, tortured, and executed for supposedly being a murderous werewolf.",
-    "categoryId": "myths-legends",
-    "topic": "Werewolves",
-    "tags": [
-      "werewolves",
-      "witch-trials",
-      "history"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "werewolves-medical-theories",
-      "werewolves-trials-europe",
-      "loch-ness-surgeons-photo-hoax",
-      "atlantis-sank-in-one-day",
-      "sasquatch-patterson-film"
-    ],
-    "themes": [
-      "storytelling-and-narrative"
-    ]
-  },
-  {
     "id": "werewolves-trials-europe",
     "headline": "Some People Truly Believe They Turn Into Animals",
     "body": "There's a rare psychiatric condition with a mythic name: clinical lycanthropy. People experiencing it sincerely believe they are transforming, or have transformed, into an animal, sometimes a wolf, sometimes a dog, bird, or other creature. They may growl, move on all fours, or feel fur growing. It's understood today as a symptom of underlying mental illness, but it shows how the ancient werewolf legend may have brushed up against real human experience.",
@@ -26778,10 +26701,10 @@
     "featured": false,
     "relatedFactIds": [
       "werewolves-medical-theories",
-      "werewolves-human-wolf",
       "unicorns-tapestry-fame",
       "norse-mythology-world-tree",
-      "kraken-may-reflect-squid"
+      "kraken-may-reflect-squid",
+      "unicorns-purity-symbol"
     ],
     "themes": [
       "transformation-metamorphosis",
@@ -26804,9 +26727,9 @@
     "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
-      "werewolves-human-wolf",
       "werewolves-trials-europe",
       "dragons-appear-worldwide",
+      "fairies-global-analogues",
       "myth-explains-world",
       "fairy-tales-folk-and-art",
       "fairy-tales-not-always-fairies"
@@ -27310,7 +27233,7 @@
     "relatedFactIds": [
       "crop-circles-human-hoaxes",
       "crop-circles-mystery-culture",
-      "nazca-lines-best-from-air",
+      "amelia-earhart-mystery-survives",
       "fairies-not-always-sweet",
       "sasquatch-patterson-film",
       "king-arthur-medieval-expansion"
@@ -27892,9 +27815,9 @@
   },
   {
     "id": "dyatlov-avalanche-model",
-    "headline": "The Dyatlov Hikers Had Crushed Bones but Almost No Bruises",
-    "body": "What made the Dyatlov Pass case truly chilling were the details. Some hikers had massive internal injuries, crushed ribs and a fractured skull, yet little external damage. One woman was missing her tongue and eyes. Faint traces of radiation turned up on some clothing. The secretive Soviet investigation closed the case blaming a vague 'compelling natural force.' That void of answers spawned theories of military tests, secret weapons, yetis, and aliens.",
-    "summary": "Dyatlov victims' crushed bones, a missing tongue, and clothing radiation fueled decades of conspiracy theories.",
+    "headline": "Soviet Investigators Blamed a 'Compelling Natural Force'",
+    "body": "What made the Dyatlov Pass case truly puzzling was how little was explained. The hikers had abandoned their tent in freezing conditions for no clear reason, and faint traces of radiation turned up on some clothing. After a secretive investigation, Soviet authorities closed the file blaming a vague 'compelling natural force' and sealed the records. That void where an answer should have been spawned decades of theories about military tests, secret weapons, yetis, and aliens.",
+    "summary": "The official Dyatlov Pass verdict was so vague it fueled decades of conspiracy theories.",
     "categoryId": "mysteries",
     "topic": "Dyatlov Pass",
     "tags": [
@@ -27902,7 +27825,7 @@
       "conspiracy",
       "injuries"
     ],
-    "readTimeSeconds": 52,
+    "readTimeSeconds": 47,
     "featured": false,
     "relatedFactIds": [
       "dyatlov-conspiracy-fuel",
@@ -28234,7 +28157,7 @@
       "stethoscope-distance-invention",
       "germ-theory-microbes-cause-disease",
       "insulin-discovery-transformed-diabetes",
-      "anesthesia-ether-public-demo"
+      "transplant-surgery-donor-shortage"
     ],
     "themes": [
       "parental-care",
@@ -28316,7 +28239,7 @@
       "anesthesia-made-surgery-bearable",
       "transplant-surgery-donor-shortage",
       "insulin-discovery-transformed-diabetes",
-      "blood-transfusions-human-blood-breakthrough"
+      "stethoscope-distance-invention"
     ],
     "themes": [
       "origins-and-naming",
@@ -28504,8 +28427,8 @@
       "diagnostic-imaging-many-tools",
       "diagnostic-imaging-changed-diagnosis",
       "antibiotics-resistance-evolution",
-      "transplant-surgery-rejection",
-      "blood-transfusions-human-blood-breakthrough"
+      "blood-transfusions-human-blood-breakthrough",
+      "transplant-surgery-rejection"
     ],
     "themes": [
       "parental-care",
@@ -28752,7 +28675,7 @@
       "mri-soft-tissue-detail",
       "blood-types-landsteiner",
       "blood-types-antigens",
-      "blood-transfusions-began-before-types"
+      "transplant-surgery-rejection"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -29023,7 +28946,7 @@
       "blood-transfusions-human-blood-breakthrough",
       "transplant-surgery-donor-shortage",
       "insulin-discovery-transformed-diabetes",
-      "x-rays-accidental-discovery-impact"
+      "anesthesia-ether-public-demo"
     ],
     "themes": [
       "medicine-and-cures",
@@ -29559,8 +29482,8 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "glaciers-climate-archives",
       "glaciers-snow-becomes-ice",
+      "glaciers-climate-archives",
       "fjords-glacier-carved",
       "mars-search-for-life",
       "blue-pigment-history",
@@ -32864,7 +32787,7 @@
       "printing-press-mass-copying",
       "velcro-manufacturing-challenge",
       "printing-press-korea-first",
-      "rock-hard-to-define"
+      "alphabet-fewer-symbols"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -32944,8 +32867,7 @@
       "wheel-axle-basic",
       "printing-press-mass-copying",
       "wheels-pottery-turntable",
-      "sumerians-wheel",
-      "forensic-entomologists-blow-flies"
+      "sumerians-wheel"
     ],
     "themes": [
       "war-and-conflict",
@@ -33034,7 +32956,7 @@
   {
     "id": "christianity-rooted-in-jesus",
     "headline": "The First Christian Symbol Was a Fish, Not a Cross",
-    "body": "Long before the cross became Christianity's emblem, early believers used the image of a fish. The reason was partly secrecy during times of persecution, and partly a word puzzle: the Greek word for fish, ichthys, worked as an acronym for a short phrase naming Jesus. Believers reportedly used it as a quiet sign of recognition. The cross came to dominate later, in part because crucifixion had been a shameful form of execution most early Christians did not depict.",
+    "body": "Long before the cross became Christianity's emblem, early believers used the image of a fish. The reason was partly secrecy during times of persecution, and partly a word puzzle: the Greek word for fish, ichthys, worked as an acronym for a short phrase naming Jesus. Believers reportedly used it as a quiet sign of recognition, scratched on walls and tombs. The cross only came to dominate Christian art much later.",
     "summary": "Early Christians used a fish as their symbol, its Greek name forming an acronym, before the cross.",
     "categoryId": "religion-beliefs",
     "topic": "Christianity",
@@ -33043,7 +32965,7 @@
       "ichthys",
       "early-church"
     ],
-    "readTimeSeconds": 53,
+    "readTimeSeconds": 44,
     "featured": false,
     "relatedFactIds": [
       "christianity-global-branches",
@@ -33677,7 +33599,7 @@
       "myth-validates-customs",
       "prayer-beads-cross-religious",
       "werewolves-medical-theories",
-      "fairy-tales-folk-and-art",
+      "documentaries-shape-facts",
       "giants-causeway-finn-mccool"
     ],
     "themes": [
@@ -33706,7 +33628,7 @@
       "myth-explains-world",
       "ritual-repeated-action",
       "minoans-bull-leaping-art",
-      "vikings-no-horned-helmets",
+      "documentaries-shape-facts",
       "ritual-rites-of-passage"
     ],
     "themes": [
@@ -34868,7 +34790,7 @@
       "triceratops-three-horns",
       "fossils-careful-excavation",
       "stegosaurus-plates-not-simple-armor",
-      "dinosaur-eggs-embryos-rare"
+      "fossils-rare-preservation"
     ],
     "themes": [
       "energy-and-power"
@@ -35064,7 +34986,7 @@
   {
     "id": "dunkleosteus-jaw-bones",
     "headline": "Dunkleosteus Had No Teeth, Just Self-Sharpening Blades",
-    "body": "Dunkleosteus terrorized ancient seas without a single true tooth in its head. Instead, the edges of its jaws were formed from bone, honed into two pairs of sharp, shearing blades. As the mouth opened and closed, the blades ground against one another, keeping each edge keen, like self-sharpening scissors. The bony plates even kept growing to replace what wore away. Rather than biting with teeth, this armored fish guillotined its prey with continually sharpened blades of its own skull.",
+    "body": "Dunkleosteus ruled ancient seas without a single true tooth in its head. Instead, the edges of its jaws were formed from bone, honed into two pairs of sharp, shearing blades. As the mouth opened and closed, the blades ground against one another, keeping each edge keen, like self-sharpening scissors. The bony plates even kept growing to replace what wore away. Rather than biting with teeth, this armored fish sheared through its prey with continually sharpened blades of its own skull.",
     "summary": "Dunkleosteus had no teeth, slicing prey with self-sharpening bony blades formed from its jaws.",
     "categoryId": "ancient-creatures",
     "topic": "Dunkleosteus",
@@ -35073,7 +34995,7 @@
       "jaws",
       "prehistoric-fish"
     ],
-    "readTimeSeconds": 52,
+    "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
       "dunkleosteus-self-sharpening-jaws",
@@ -35632,8 +35554,8 @@
       "saber-toothed-cats-not-tigers",
       "saber-toothed-cats-tar-trap",
       "megalodon-largest-fish",
-      "dunkleosteus-jaw-bones",
-      "mosasaurs-aquatic-lizards"
+      "mosasaurs-aquatic-lizards",
+      "dunkleosteus-jaw-bones"
     ],
     "themes": [
       "human-body-quirks",
@@ -35842,39 +35764,14 @@
     "featured": false,
     "relatedFactIds": [
       "blackbeard-treasure-myth",
-      "blackbeard-killed-at-ocracoke",
-      "female-pirates-rackham-crew",
       "jolly-roger-custom-designs",
-      "pirate-ships-langrage"
+      "pirate-ships-langrage",
+      "pirate-codes-articles",
+      "buccaneers-democratic-discipline"
     ],
     "themes": [
       "war-and-conflict",
       "psychology-and-behavior"
-    ]
-  },
-  {
-    "id": "blackbeard-killed-at-ocracoke",
-    "headline": "Killing Blackbeard Took Five Shots and Twenty Cuts",
-    "body": "Blackbeard did not go down easily. On November 22, 1718, near Ocracoke Island, North Carolina, a navy force under Lieutenant Robert Maynard cornered him. In the savage hand-to-hand fight that followed, Blackbeard reportedly absorbed around five gunshot wounds and some twenty sword cuts before he finally fell. Maynard then had him beheaded and hung the severed head from the ship's bowsprit as proof. The brutal, drawn-out end only deepened the legend of an almost unkillable pirate.",
-    "summary": "Blackbeard reportedly survived about five gunshots and twenty cuts before dying, and his head was hung from the victor's ship.",
-    "categoryId": "pirates",
-    "topic": "Blackbeard",
-    "tags": [
-      "blackbeard",
-      "ocracoke",
-      "robert-maynard"
-    ],
-    "readTimeSeconds": 53,
-    "featured": false,
-    "relatedFactIds": [
-      "blackbeard-treasure-myth",
-      "blackbeard-queen-annes-revenge",
-      "pirate-havens-nassau",
-      "pirate-ships-intimidation",
-      "pirate-ships-cannon"
-    ],
-    "themes": [
-      "motion-and-force"
     ]
   },
   {
@@ -35893,10 +35790,10 @@
     "featured": false,
     "relatedFactIds": [
       "blackbeard-queen-annes-revenge",
-      "blackbeard-killed-at-ocracoke",
       "jolly-roger-custom-designs",
-      "female-pirates-rackham-crew",
-      "treasure-maps-navigation-intelligence"
+      "treasure-maps-navigation-intelligence",
+      "captain-kidd-quedagh-merchant",
+      "pirate-ships-langrage"
     ],
     "themes": [
       "hidden-underground",
@@ -35921,7 +35818,7 @@
     "relatedFactIds": [
       "buccaneers-democratic-discipline",
       "buccaneers-targeted-spain",
-      "captain-kidd-executed",
+      "captain-kidd-privateer",
       "question-mark-uncertainty",
       "algebra-symbols-generalize-math",
       "yinyang-circle-balance"
@@ -35986,9 +35883,9 @@
   },
   {
     "id": "captain-kidd-privateer",
-    "headline": "Captain Kidd Was Hired to Catch Pirates, Then Hanged as One",
+    "headline": "Captain Kidd Was Hired to Catch Pirates, Then Condemned as One",
     "body": "Captain Kidd's story is full of irony. He set out in 1696 not as an outlaw but as a privateer, commissioned with the backing of powerful English lords to hunt down pirates and seize their loot. The voyage went badly, his crew grew mutinous, and Kidd ended up attacking ships he perhaps should not have. When scandal threatened his influential sponsors, they abandoned him. The pirate-hunter was condemned as a pirate, a convenient scapegoat for his politically nervous backers.",
-    "summary": "Captain Kidd began as a state-backed pirate hunter but was abandoned by his sponsors and hanged as a pirate himself.",
+    "summary": "Captain Kidd began as a state-backed pirate hunter, then was abandoned by his own sponsors.",
     "categoryId": "pirates",
     "topic": "Captain Kidd",
     "tags": [
@@ -35999,11 +35896,10 @@
     "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
-      "captain-kidd-executed",
       "captain-kidd-quedagh-merchant",
       "treasure-maps-atlas-booty",
-      "great-fire-london-pudding-lane",
       "privateers-legal-raiders",
+      "great-fire-london-pudding-lane",
       "treasure-maps-saved-life"
     ],
     "themes": [
@@ -36026,42 +35922,17 @@
     "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
-      "captain-kidd-executed",
       "captain-kidd-privateer",
       "treasure-maps-navigation-intelligence",
+      "pirate-ships-cannon",
       "atari-cartridge-shift",
-      "pirate-ships-cannon"
+      "blackbeard-treasure-myth"
     ],
     "themes": [
       "storytelling-and-narrative",
       "parental-care",
       "hidden-underground",
       "myth-vs-reality"
-    ]
-  },
-  {
-    "id": "captain-kidd-executed",
-    "headline": "Captain Kidd's Hanging Went Horribly Wrong",
-    "body": "Captain Kidd's execution in 1701 was a gruesome spectacle. On the first attempt the hangman's rope snapped and Kidd tumbled to the ground alive, so he had to be strung up and hanged a second time before he died. The authorities were not finished. They coated his body in tar and locked it in an iron cage suspended over the River Thames, where it dangled for years as a rotting warning to any sailor tempted by piracy.",
-    "summary": "Captain Kidd's hanging rope broke on the first try, so he was hanged twice, then gibbeted over the Thames for years.",
-    "categoryId": "pirates",
-    "topic": "Captain Kidd",
-    "tags": [
-      "captain-kidd",
-      "execution",
-      "gibbet"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "captain-kidd-privateer",
-      "captain-kidd-quedagh-merchant",
-      "pirate-codes-articles",
-      "buccaneers-started-as-hunters",
-      "treasure-maps-navigation-intelligence"
-    ],
-    "themes": [
-      "storytelling-and-narrative"
     ]
   },
   {
@@ -36079,8 +35950,8 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "jolly-roger-custom-designs",
       "jolly-roger-not-always-flown",
+      "jolly-roger-custom-designs",
       "treasure-maps-saved-life",
       "afterimages-retina-desensitized",
       "blackbeard-queen-annes-revenge"
@@ -36135,7 +36006,7 @@
       "jolly-roger-not-always-flown",
       "blackbeard-treasure-myth",
       "blackbeard-queen-annes-revenge",
-      "blackbeard-killed-at-ocracoke"
+      "pirate-codes-articles"
     ],
     "themes": [
       "human-body-quirks"
@@ -36239,7 +36110,7 @@
       "treasure-maps-navigation-intelligence",
       "captain-kidd-privateer",
       "privateers-legal-raiders",
-      "captain-kidd-executed"
+      "pirate-codes-articles"
     ],
     "themes": [
       "money-trade-and-value",
@@ -36266,7 +36137,7 @@
       "treasure-maps-navigation-intelligence",
       "captain-kidd-privateer",
       "pirate-ships-langrage",
-      "female-pirates-rackham-crew"
+      "pirate-codes-articles"
     ],
     "themes": [
       "exploration-and-navigation",
@@ -36320,8 +36191,7 @@
       "pirate-codes-harsh-punishments",
       "buccaneers-democratic-discipline",
       "golden-age-of-piracy-black-bart-400-ships",
-      "ancient-greece-democracy",
-      "captain-kidd-executed"
+      "ancient-greece-democracy"
     ],
     "themes": [
       "energy-and-power",
@@ -36348,7 +36218,7 @@
       "pirate-codes-articles",
       "buccaneers-democratic-discipline",
       "treasure-maps-atlas-booty",
-      "pirate-havens-nassau"
+      "female-pirates-bonny-read"
     ],
     "themes": []
   },
@@ -36378,7 +36248,7 @@
   {
     "id": "female-pirates-bonny-read",
     "headline": "The Most Powerful Pirate in History Was a Woman",
-    "body": "Forget the Caribbean: the most powerful pirate who ever lived commanded the seas off China. In the early 1800s, a former Cantonese sex worker known as Ching Shih took over a vast pirate confederation, eventually leading a fleet of hundreds of ships and tens of thousands of pirates, far larger than any Caribbean operation. She imposed a strict code, battled the Chinese navy to a standstill, and then did the near-impossible, negotiating a pardon and retiring wealthy and free.",
+    "body": "Forget the Caribbean: the most powerful pirate who ever lived commanded the seas off China. In the early 1800s, a Cantonese woman known as Ching Shih took over a vast pirate confederation, eventually leading a fleet of hundreds of ships and tens of thousands of pirates, far larger than any Caribbean operation. She imposed a strict code, battled the Chinese navy to a standstill, and then did the near-impossible, negotiating a pardon and retiring wealthy and free.",
     "summary": "Ching Shih commanded a Chinese pirate fleet of tens of thousands, the largest in history, then retired with a pardon.",
     "categoryId": "pirates",
     "topic": "Female Pirates",
@@ -36387,70 +36257,19 @@
       "ching-shih",
       "south-china-sea"
     ],
-    "readTimeSeconds": 53,
+    "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
-      "female-pirates-rackham-crew",
-      "female-pirates-fought-capture",
       "privateers-blurred-line",
       "buccaneers-democratic-discipline",
-      "pirate-ships-langrage"
+      "pirate-ships-langrage",
+      "pirate-codes-articles",
+      "blackbeard-queen-annes-revenge"
     ],
     "themes": [
       "record-extremes",
       "money-trade-and-value",
       "war-and-conflict"
-    ]
-  },
-  {
-    "id": "female-pirates-rackham-crew",
-    "headline": "Anne Bonny Told Calico Jack He Deserved to Hang",
-    "body": "Anne Bonny's most famous moment came not in battle but at her lover's execution. As the captured Captain John 'Calico Jack' Rackham was about to be hanged, Bonny was reportedly allowed to see him. Instead of comfort, she gave him scorn, telling him she was sorry to see him there, but that if he had fought like a man, he need not have been hanged like a dog. The cutting line cemented her reputation as the fiercer of the two.",
-    "summary": "Anne Bonny reportedly told the doomed Calico Jack that if he'd 'fought like a man,' he'd not be 'hang'd like a dog.'",
-    "categoryId": "pirates",
-    "topic": "Female Pirates",
-    "tags": [
-      "female-pirates",
-      "calico-jack",
-      "anne-bonny"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "female-pirates-fought-capture",
-      "female-pirates-bonny-read",
-      "blackbeard-queen-annes-revenge",
-      "pirate-ships-langrage",
-      "pirate-codes-articles"
-    ],
-    "themes": [
-      "war-and-conflict"
-    ]
-  },
-  {
-    "id": "female-pirates-fought-capture",
-    "headline": "Two Pirate Women Escaped Hanging by Revealing Pregnancies",
-    "body": "When Calico Jack Rackham's crew was captured off Jamaica in 1720, Anne Bonny and Mary Read were convicted of piracy and sentenced to hang alongside the men. The two women then made a startling revelation: both were pregnant. Under the law, an expectant mother could not be executed, so their hangings were stayed, a maneuver known as 'pleading the belly.' Read reportedly died of fever in prison soon after, while Anne Bonny's ultimate fate vanished from the record.",
-    "summary": "Convicted pirates Anne Bonny and Mary Read avoided the gallows by revealing they were pregnant, or 'pleading the belly.'",
-    "categoryId": "pirates",
-    "topic": "Female Pirates",
-    "tags": [
-      "female-pirates",
-      "anne-bonny",
-      "mary-read"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "female-pirates-rackham-crew",
-      "female-pirates-bonny-read",
-      "captain-kidd-quedagh-merchant",
-      "buccaneers-democratic-discipline",
-      "privateers-legal-raiders"
-    ],
-    "themes": [
-      "parental-care",
-      "lost-and-rediscovered"
     ]
   },
   {
@@ -36470,9 +36289,9 @@
     "relatedFactIds": [
       "pirate-havens-safe-base",
       "pirate-havens-shipwreck-clues",
-      "blackbeard-killed-at-ocracoke",
       "pirate-ships-intimidation",
-      "pirate-ships-cannon"
+      "pirate-ships-cannon",
+      "blackbeard-treasure-myth"
     ],
     "themes": [
       "motion-and-force"
@@ -36551,8 +36370,8 @@
       "pirate-ships-cannon",
       "pirate-ships-langrage",
       "pirate-havens-nassau",
-      "blackbeard-killed-at-ocracoke",
-      "treasure-maps-saved-life"
+      "treasure-maps-saved-life",
+      "pirate-codes-articles"
     ],
     "themes": [
       "motion-and-force"
@@ -36575,9 +36394,9 @@
     "relatedFactIds": [
       "pirate-ships-intimidation",
       "pirate-ships-langrage",
-      "blackbeard-killed-at-ocracoke",
       "pirate-havens-nassau",
-      "captain-kidd-quedagh-merchant"
+      "captain-kidd-quedagh-merchant",
+      "captain-kidd-privateer"
     ],
     "themes": [
       "myth-vs-reality",
@@ -36602,9 +36421,9 @@
     "relatedFactIds": [
       "pirate-ships-intimidation",
       "pirate-ships-cannon",
-      "female-pirates-rackham-crew",
       "pirate-codes-articles",
-      "blackbeard-queen-annes-revenge"
+      "blackbeard-queen-annes-revenge",
+      "treasure-maps-saved-life"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -36657,7 +36476,7 @@
       "battlements-crenels-merlons",
       "dungeon-myths-prison-not-common",
       "dungeon-myths-oubliette",
-      "siege-towers-protected-approach"
+      "japanese-castles-power-display"
     ],
     "themes": [
       "war-and-conflict",
@@ -36696,7 +36515,7 @@
   {
     "id": "drawbridges-controlled-access",
     "headline": "The Castle Gate Became Its Strongest Point, Not Its Weakest",
-    "body": "A gateway is naturally a wall's weak spot, so castle builders responded by piling defenses onto it until they flipped the weakness into a strength. They flanked the entrance with twin towers, stacked it with drawbridges, portcullises, and murder holes, and made the gatehouse the most heavily fortified structure in the whole castle. In many later castles the gatehouse grew so strong and spacious that the lord himself chose to live there. The most vulnerable point had become the safest.",
+    "body": "A gateway is naturally a wall's weak spot, so castle builders responded by piling defenses onto it until they flipped the weakness into a strength. They flanked the entrance with twin towers and stacked it with drawbridges, iron portcullises, and defensive openings in the ceiling, making the gatehouse the most heavily fortified structure in the whole castle. In many later castles the gatehouse grew so strong and spacious that the lord himself chose to live there. The most vulnerable point had become the safest.",
     "summary": "Castles fortified the gate so heavily that the gatehouse became the strongest part, sometimes the lord's home.",
     "categoryId": "castles-fortresses",
     "topic": "Drawbridges",
@@ -36705,45 +36524,18 @@
       "gatehouse",
       "castle-defense"
     ],
-    "readTimeSeconds": 50,
+    "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
       "drawbridges-could-swing",
-      "drawbridges-protected-weak-gates",
       "moats-obstacle-design",
       "castle-keeps-last-refuge",
       "medieval-castles-stone-evolution",
+      "siege-towers-moving-platforms",
       "japanese-castles-adapted-over-time"
     ],
     "themes": [
       "architecture-and-structures",
-      "war-and-conflict"
-    ]
-  },
-  {
-    "id": "drawbridges-protected-weak-gates",
-    "headline": "The Castle Gate Was a Carefully Designed Death Trap",
-    "body": "Once past the drawbridge, an attacker entered the most dangerous place in the castle. The gate passage was built as a kill zone: a heavy iron grille called a portcullis could crash down behind intruders, sealing them inside a narrow tunnel. Overhead were 'murder holes,' openings in the ceiling through which defenders dropped stones, fired arrows, or poured scalding water on the trapped attackers. Far from a simple doorway, the entrance was an engineered gauntlet meant to slaughter anyone who forced it.",
-    "summary": "Beyond the drawbridge, the gate passage was a kill zone with a portcullis and overhead 'murder holes.'",
-    "categoryId": "castles-fortresses",
-    "topic": "Drawbridges",
-    "tags": [
-      "drawbridges",
-      "portcullis",
-      "murder-holes"
-    ],
-    "readTimeSeconds": 53,
-    "featured": false,
-    "relatedFactIds": [
-      "drawbridges-controlled-access",
-      "drawbridges-could-swing",
-      "castle-keeps-three-types",
-      "moats-stopped-siege-machines",
-      "japanese-castles-power-display"
-    ],
-    "themes": [
-      "hidden-underground",
-      "disaster-and-catastrophe",
       "war-and-conflict"
     ]
   },
@@ -36763,10 +36555,10 @@
     "featured": false,
     "relatedFactIds": [
       "drawbridges-controlled-access",
-      "drawbridges-protected-weak-gates",
       "castle-keeps-last-refuge",
       "siege-towers-moving-platforms",
-      "medieval-castles-stone-evolution"
+      "medieval-castles-stone-evolution",
+      "siege-towers-protected-approach"
     ],
     "themes": [
       "animal-intelligence",
@@ -36794,7 +36586,7 @@
       "castle-keeps-last-refuge",
       "castles-not-palaces",
       "beetles-help-and-harm",
-      "drawbridges-protected-weak-gates"
+      "medieval-castles-defense-layers"
     ],
     "themes": [
       "war-and-conflict"
@@ -36983,7 +36775,8 @@
       "siege-towers-engineering-scale",
       "castle-keeps-last-refuge",
       "medieval-castles-stone-evolution",
-      "drawbridges-controlled-access"
+      "drawbridges-controlled-access",
+      "drawbridges-could-swing"
     ],
     "themes": [
       "war-and-conflict",
@@ -37130,7 +36923,7 @@
   {
     "id": "dungeon-myths-prison-not-common",
     "headline": "Captured Nobles Were Ransomed, Not Thrown in a Cell",
-    "body": "Locking people in cells was not a common medieval punishment; justice usually meant fines, mutilation, or execution, not long imprisonment. When castles did hold captives, the most valuable were enemy nobles taken in battle, who were worth far more alive. Rather than rotting in a pit, a high-ranking prisoner might be kept in decent quarters, dine with the lord, and wait while a huge ransom was negotiated. For the wealthy, capture was less a horror than an expensive inconvenience.",
+    "body": "Locking people in cells was not a common medieval punishment; justice usually meant fines or other immediate penalties, not long imprisonment. When castles did hold captives, the most valuable were enemy nobles taken in battle, who were worth far more alive. Rather than rotting in a pit, a high-ranking prisoner might be kept in decent quarters, dine with the lord, and wait while a huge ransom was negotiated. For the wealthy, capture was less a horror than an expensive inconvenience.",
     "summary": "Medieval castles rarely jailed people long-term; captured nobles were held comfortably and ransomed.",
     "categoryId": "castles-fortresses",
     "topic": "Dungeon Myths",
@@ -37139,7 +36932,7 @@
       "ransom",
       "medieval-justice"
     ],
-    "readTimeSeconds": 52,
+    "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
       "dungeon-myths-not-always-underground",
@@ -37306,8 +37099,8 @@
       "castle-keeps-last-refuge",
       "castle-keeps-contained-life",
       "moats-stopped-siege-machines",
-      "drawbridges-protected-weak-gates",
-      "japanese-castles-stone-bases"
+      "japanese-castles-stone-bases",
+      "japanese-castles-power-display"
     ],
     "themes": [
       "hidden-underground",
@@ -37388,8 +37181,7 @@
       "moats-earth-reused",
       "castle-keeps-three-types",
       "tunnels-boring-machines-speed",
-      "castles-motte-bailey-fast",
-      "drawbridges-protected-weak-gates"
+      "castles-motte-bailey-fast"
     ],
     "themes": [
       "hidden-underground",
@@ -37779,9 +37571,9 @@
   },
   {
     "id": "pompeii-preserved-city",
-    "headline": "Pompeii's Victims Left Body-Shaped Holes in the Ash",
-    "body": "As Pompeii was buried, the volcanic ash hardened around its victims. Over centuries the bodies decayed away, leaving empty, body-shaped cavities sealed in the rock. In the 1860s an archaeologist realized he could pour liquid plaster into these hollows, and when it set, it produced haunting casts of the victims in their final moments, capturing exact poses, clothing folds, and facial expressions. Among the casts is even a dog, still twisted as it strained against its chain. Emptiness became a portrait of catastrophe.",
-    "summary": "Archaeologists poured plaster into the body-shaped cavities left in Pompeii's ash, creating haunting casts of victims' final moments.",
+    "headline": "Pompeii's Ash Preserved Perfect Hollow Molds",
+    "body": "As Pompeii was buried, the volcanic ash hardened into a solid shell around everything it covered. Over the centuries, what was sealed inside broke down, leaving empty, perfectly shaped cavities in the rock. In the 1860s an archaeologist realized these hollows were natural molds, and poured liquid plaster into them. When it set, it produced astonishingly detailed casts, capturing exact poses, the folds of clothing, and even a household dog still straining at its chain. Emptiness had become a portrait of the city's last day.",
+    "summary": "An archaeologist realized the empty cavities in Pompeii's ash were molds — and poured plaster into them.",
     "categoryId": "famous-disasters",
     "topic": "Pompeii",
     "tags": [
@@ -37789,7 +37581,7 @@
       "plaster-casts",
       "archaeology"
     ],
-    "readTimeSeconds": 52,
+    "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
       "pompeii-vesuvius-burial",
@@ -37821,9 +37613,9 @@
     "relatedFactIds": [
       "pompeii-preserved-city",
       "pompeii-vesuvius-burial",
-      "great-molasses-flood-tank",
+      "great-fire-london-pudding-lane",
       "volcanoes-not-just-lava",
-      "great-fire-london-pudding-lane"
+      "great-molasses-flood-tank"
     ],
     "themes": [
       "music-and-sound",
@@ -37834,9 +37626,9 @@
   },
   {
     "id": "great-fire-london-pudding-lane",
-    "headline": "An Innocent Man Was Hanged for the Great Fire",
-    "body": "London needed someone to blame for the Great Fire, and it found a tragic scapegoat. A disturbed French watchmaker named Robert Hubert bizarrely confessed to deliberately starting the blaze, and despite doubts about his story, he was convicted and hanged. It later became clear his confession was false; evidence showed his ship had not even reached London until after the fire had already begun. He had taken the blame for a catastrophe that actually started by accident in a Pudding Lane bakery.",
-    "summary": "A disturbed Frenchman falsely confessed to starting the Great Fire and was hanged, though he wasn't even in London when it began.",
+    "headline": "A Man Confessed to the Great Fire — He Wasn't Even in London",
+    "body": "London needed someone to blame for the Great Fire, and it found a tragic scapegoat. A troubled French watchmaker named Robert Hubert bizarrely confessed to deliberately starting the blaze, and despite serious doubts about his story, he was convicted. It later became clear his confession was false: evidence showed his ship had not even reached London until after the fire had already begun. The blaze had actually started by accident in a Pudding Lane bakery.",
+    "summary": "A troubled watchmaker confessed to starting the Great Fire, though his ship hadn't yet reached the city.",
     "categoryId": "famous-disasters",
     "topic": "Great Fire of London",
     "tags": [
@@ -37844,18 +37636,17 @@
       "robert-hubert",
       "scapegoat"
     ],
-    "readTimeSeconds": 52,
+    "readTimeSeconds": 47,
     "featured": false,
     "relatedFactIds": [
       "great-fire-london-four-fifths",
       "great-fire-london-old-foundations",
-      "challenger-pressure-loss",
+      "pompeii-excavation-source",
       "captain-kidd-privateer",
-      "krakatoa-loudest-sound"
+      "great-chicago-fire-oleary-barn"
     ],
     "themes": [
       "accidental-discovery",
-      "disaster-and-catastrophe",
       "storytelling-and-narrative"
     ]
   },
@@ -37874,8 +37665,8 @@
     "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
-      "great-fire-london-pudding-lane",
       "great-fire-london-old-foundations",
+      "great-fire-london-pudding-lane",
       "challenger-crew-report-uncertainty",
       "challenger-pressure-loss",
       "krakatoa-loudest-sound",
@@ -38247,8 +38038,8 @@
       "snake-milkers-research-venom",
       "snake-milkers-face-shields",
       "professional-sleepers-space-body",
-      "forensic-entomologists-temperature",
-      "pearl-divers-dangerous-work"
+      "pearl-divers-dangerous-work",
+      "professional-sleepers-head-down"
     ],
     "themes": [
       "human-body-quirks",
@@ -38300,8 +38091,8 @@
       "snake-milkers-venom-collection",
       "snake-milkers-face-shields",
       "professional-sleepers-space-body",
-      "forensic-entomologists-temperature",
-      "pearl-divers-dangerous-work"
+      "pearl-divers-dangerous-work",
+      "professional-sleepers-head-down"
     ],
     "themes": [
       "medicine-and-cures",
@@ -38381,9 +38172,9 @@
     "relatedFactIds": [
       "foley-artists-live-sounds",
       "foley-artists-become-actor",
-      "forensic-entomologists-arrive-fast",
+      "pearl-divers-dangerous-work",
       "radio-sound-effects-art",
-      "pearl-divers-dangerous-work"
+      "snake-milkers-venom-collection"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -38514,7 +38305,7 @@
       "professional-sleepers-boredom-data",
       "snake-milkers-venom-collection",
       "snake-milkers-research-venom",
-      "forensic-entomologists-temperature"
+      "pearl-divers-dangerous-work"
     ],
     "themes": [
       "human-body-quirks",
@@ -38545,86 +38336,6 @@
       "tea-tasters-every-lot"
     ],
     "themes": []
-  },
-  {
-    "id": "forensic-entomologists-blow-flies",
-    "headline": "Flies Solved a Murder in 13th-Century China",
-    "body": "The first recorded case of using insects to catch a killer dates back nearly 800 years. A Chinese investigator's 1247 handbook describes a stabbing in a village where the murder weapon, a sickle, could not be identified among many. The investigator had all the local workers lay down their sickles in the sun. Flies, drawn by invisible traces of blood and tissue, swarmed onto just one of them. Confronted with the buzzing evidence, its owner confessed. Forensic entomology is centuries older than the modern crime lab.",
-    "summary": "A 1247 Chinese handbook records the first forensic entomology case: flies swarmed a killer's blood-traced sickle.",
-    "categoryId": "strange-jobs",
-    "topic": "Forensic Entomologists",
-    "tags": [
-      "forensic-entomology",
-      "history",
-      "china"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "forensic-entomologists-arrive-fast",
-      "forensic-entomologists-temperature",
-      "pearl-divers-dangerous-work",
-      "wheel-spokes-chariots",
-      "business-cards-calling-card-origin",
-      "lucky-numbers-symbolism"
-    ],
-    "themes": [
-      "human-body-quirks",
-      "collective-behavior",
-      "war-and-conflict"
-    ]
-  },
-  {
-    "id": "forensic-entomologists-arrive-fast",
-    "headline": "Maggots Act Like a Clock for Time of Death",
-    "body": "Blow flies can smell death from far away and may arrive at a body within minutes, laying eggs almost immediately. That punctuality turns the insects that follow into a kind of clock. Because maggots hatch and grow through predictable stages at rates tied to temperature, a forensic entomologist can identify the species, measure how far the larvae have developed, and work backward to estimate how long ago death occurred, sometimes narrowing it to a matter of hours. The maggots quietly keep time.",
-    "summary": "Because blow-fly maggots grow at predictable, temperature-linked rates, entomologists use them to estimate time of death.",
-    "categoryId": "strange-jobs",
-    "topic": "Forensic Entomologists",
-    "tags": [
-      "forensic-entomology",
-      "maggots",
-      "time-of-death"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "forensic-entomologists-blow-flies",
-      "forensic-entomologists-temperature",
-      "foley-artists-junk-stages",
-      "falconers-master-apprentice",
-      "odor-judges-trained-panel"
-    ],
-    "themes": [
-      "timekeeping",
-      "flight-and-aviation"
-    ]
-  },
-  {
-    "id": "forensic-entomologists-temperature",
-    "headline": "Maggots Can Be Tested for Drugs and Poisons",
-    "body": "Insects on a body do more than tell time; they can be analyzed like tiny evidence lockers. In a field called entomotoxicology, scientists test the maggots feeding on remains for drugs, poisons, or toxins, which the larvae absorb from the tissue they eat. This can reveal substances even when a body is too decayed for ordinary testing. The insects can also betray that a corpse was moved, if species turn up that only live somewhere other than where the body was found.",
-    "summary": "Maggots feeding on a body absorb drugs and toxins, so testing them can reveal poisoning or that a corpse was moved.",
-    "categoryId": "strange-jobs",
-    "topic": "Forensic Entomologists",
-    "tags": [
-      "forensic-entomology",
-      "entomotoxicology",
-      "evidence"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "forensic-entomologists-blow-flies",
-      "forensic-entomologists-arrive-fast",
-      "snake-milkers-venom-collection",
-      "snake-milkers-research-venom",
-      "professional-sleepers-space-body"
-    ],
-    "themes": [
-      "medicine-and-cures",
-      "food-and-cuisine"
-    ]
   },
   {
     "id": "food-tasters-five-senses",
@@ -38907,9 +38618,9 @@
     "relatedFactIds": [
       "falconers-elite-books",
       "falconers-ancient-art",
-      "forensic-entomologists-blow-flies",
-      "forensic-entomologists-arrive-fast",
-      "foley-artists-become-actor"
+      "foley-artists-become-actor",
+      "foley-artists-junk-stages",
+      "odor-judges-trained-panel"
     ],
     "themes": [
       "flight-and-aviation",
@@ -39035,7 +38746,7 @@
       "forks-replaced-table-knives",
       "pencils-hardness-grades",
       "mirrors-venice-glass",
-      "buttons-buttonholes-changed-clothes"
+      "umbrellas-europe-return"
     ],
     "themes": [
       "food-and-cuisine"
@@ -39270,7 +38981,7 @@
   {
     "id": "umbrellas-europe-return",
     "headline": "A Man Was Mocked for 30 Years for Using an Umbrella",
-    "body": "Carrying an umbrella in the rain was once social suicide. In 1750s London, a traveler named Jonas Hanway began using one to stay dry and was ridiculed for it for some 30 years. Umbrellas were thought of as feminine, foreign, and faintly absurd, and coach drivers, whose business depended on rainy days, jeered at him for stealing their fares. Hanway stubbornly kept at it until his death, and only afterward did the practical umbrella finally catch on with English gentlemen.",
+    "body": "Carrying an umbrella in the rain was once social ruin. In 1750s London, a traveler named Jonas Hanway began using one to stay dry and was ridiculed for it for some 30 years. Umbrellas were thought of as feminine, foreign, and faintly absurd, and coach drivers, whose business depended on rainy days, jeered at him for stealing their fares. Hanway stubbornly kept at it, and only later did the practical umbrella finally catch on with English gentlemen.",
     "summary": "Jonas Hanway was mocked for about 30 years for carrying an umbrella in rainy 1750s London before the habit caught on.",
     "categoryId": "everyday-objects",
     "topic": "Umbrellas",
@@ -39279,14 +38990,14 @@
       "jonas-hanway",
       "london"
     ],
-    "readTimeSeconds": 53,
+    "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
       "umbrellas-started-as-sunshades",
       "umbrellas-steel-frame",
       "pencils-borrowdale-discovery",
       "coffeehouses-london-news-hubs",
-      "buttons-buttonholes-changed-clothes"
+      "forks-single-point"
     ],
     "themes": [
       "psychology-and-behavior"
@@ -42352,32 +42063,6 @@
     ]
   },
   {
-    "id": "sleepwalking-partial-waking",
-    "headline": "A Man Was Acquitted of Murder He Did in His Sleep",
-    "body": "In 1987, Canadian Kenneth Parks got out of bed, drove roughly 14 miles to his in-laws' home, and attacked them, killing his mother-in-law, all while, he said, sound asleep. His lawyers argued he was sleepwalking and had no conscious control. Sleep experts and a jury agreed, and he was acquitted. The case remains a famous, unsettling example of how much a sleeping body can do without a waking mind.",
-    "summary": "In 1987 a sleepwalking man drove miles and killed a relative, then was acquitted of murder.",
-    "categoryId": "sleep-dreams",
-    "topic": "Sleepwalking",
-    "tags": [
-      "sleepwalking",
-      "law",
-      "parasomnia"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "sleepwalking-first-hours",
-      "sleepwalking-childhood-common",
-      "rem-sleep-muscle-atonia",
-      "ai-hallucinations-real-world-harm",
-      "snoring-sleep-apnea-sign"
-    ],
-    "themes": [
-      "parental-care",
-      "music-and-sound"
-    ]
-  },
-  {
     "id": "sleepwalking-childhood-common",
     "headline": "Sleepwalkers Move Around With Their Eyes Open",
     "body": "Sleepwalkers are not shuffling with arms outstretched and eyes shut like in cartoons. Their eyes are usually wide open but glassy and vacant, and they can carry out surprisingly complex actions: walking, dressing, cooking, eating, even driving or sending texts. It happens during deep sleep in the first hours of the night, not during vivid dreams. Afterward, they typically remember none of it.",
@@ -42393,8 +42078,8 @@
     "featured": false,
     "relatedFactIds": [
       "sleepwalking-first-hours",
-      "sleepwalking-partial-waking",
       "nightmares-rem-second-half",
+      "rem-sleep-muscle-atonia",
       "sleep-purpose-mystery",
       "sloths-bathroom-weekly",
       "giraffes-spread-legs-drink"
@@ -42420,8 +42105,8 @@
     "featured": false,
     "relatedFactIds": [
       "sleepwalking-childhood-common",
-      "sleepwalking-partial-waking",
       "sleep-paralysis-hallucinations",
+      "nightmares-rem-second-half",
       "taste-buds-thousands-on-tongue",
       "red-opposite-green"
     ],
@@ -42448,7 +42133,7 @@
     "relatedFactIds": [
       "snoring-sleep-apnea-sign",
       "snoring-common-risk",
-      "sleepwalking-first-hours",
+      "sleep-paralysis-brief",
       "supersonic-flight-hypersonic-mach-five",
       "cicadas-loud-songs"
     ],
@@ -42506,7 +42191,7 @@
       "snoring-airway-vibration",
       "lucid-dreaming-rem",
       "lungs-gas-exchange",
-      "sleepwalking-partial-waking"
+      "circadian-rhythm-master-clock"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -42585,10 +42270,9 @@
     "relatedFactIds": [
       "rem-sleep-night-cycles",
       "rem-sleep-two-phases",
-      "sleep-paralysis-rem-mix",
-      "sleep-babies-half-rem",
       "nightmares-rem-second-half",
-      "sleepwalking-partial-waking"
+      "sleep-babies-half-rem",
+      "sleep-paralysis-rem-mix"
     ],
     "themes": [
       "human-body-quirks",
@@ -42879,7 +42563,7 @@
       "sleep-paralysis-rem-mix",
       "nightmares-common-adults",
       "dragons-appear-worldwide",
-      "fairy-tales-not-always-fairies",
+      "fairy-tales-folk-and-art",
       "ai-hallucinations-real-world-harm"
     ],
     "themes": [
@@ -43905,8 +43589,8 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "enigma-polish-breakthrough",
       "enigma-turing-bletchley",
+      "enigma-polish-breakthrough",
       "navajo-code-talkers-indigenous-languages",
       "pigpen-symbol-substitution",
       "book-cipher-key-weakness",
@@ -44670,8 +44354,8 @@
       "evil-eye-envy-glance",
       "evil-eye-amulets-protection",
       "friday-13-calendar",
-      "walking-under-ladders-gallows",
-      "friday-13-country-variations"
+      "friday-13-country-variations",
+      "knocking-wood-avoid-jinx"
     ],
     "themes": [
       "luck-ritual-superstition",
@@ -44808,7 +44492,7 @@
       "lucky-numbers-seven",
       "horseshoes-iron-seven",
       "business-cards-calling-card-origin",
-      "forensic-entomologists-blow-flies"
+      "dragons-appear-worldwide"
     ],
     "themes": [
       "money-trade-and-value",
@@ -45023,9 +44707,9 @@
     "relatedFactIds": [
       "knocking-wood-tree-spirits",
       "knocking-wood-avoid-jinx",
-      "walking-under-ladders-gallows",
+      "four-leaf-clovers-celtic-charms",
       "handshakes-empty-hands",
-      "four-leaf-clovers-celtic-charms"
+      "four-leaf-clovers-not-shamrocks"
     ],
     "themes": [
       "luck-ritual-superstition",
@@ -45051,9 +44735,9 @@
     "relatedFactIds": [
       "rabbits-foot-graveyard-rules",
       "rabbits-foot-us-folklore",
-      "walking-under-ladders-gallows",
       "friday-13-fear-name",
-      "black-cats-not-always-bad"
+      "black-cats-not-always-bad",
+      "horseshoes-evil-eye"
     ],
     "themes": [
       "medicine-and-cures",
@@ -45133,12 +44817,12 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "walking-under-ladders-gallows",
       "walking-under-ladders-triangle",
       "knocking-wood-tree-spirits",
+      "friday-13-fear-name",
       "crash-test-dummies-different-bodies",
       "crash-test-dummies-measure-crashes",
-      "friday-13-fear-name"
+      "black-cats-control-uncertainty"
     ],
     "themes": [
       "luck-ritual-superstition",
@@ -45161,42 +44845,16 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "walking-under-ladders-gallows",
       "walking-under-ladders-practical-danger",
       "horseshoes-iron-seven",
       "rabbits-foot-us-folklore",
-      "four-leaf-clovers-celtic-charms"
+      "four-leaf-clovers-celtic-charms",
+      "rabbits-foot-graveyard-rules"
     ],
     "themes": [
       "record-extremes",
       "parental-care",
       "numbers-and-mathematics"
-    ]
-  },
-  {
-    "id": "walking-under-ladders-gallows",
-    "headline": "Ladders Carried the Shadow of the Gallows",
-    "body": "A darker theory ties the ladder to execution. For centuries, ladders were propped against gallows so the condemned could climb up to the hanging rope, which linked the humble tool with death in the public imagination. By this logic, walking beneath a ladder meant passing under the very frame of an execution, symbolically stepping into the space of the doomed. The bad luck was really the lingering shadow of the hangman.",
-    "summary": "Ladders leaned against gallows for hangings, tying them to death and passing under one to doom.",
-    "categoryId": "superstitions",
-    "topic": "Walking Under Ladders",
-    "tags": [
-      "walking-under-ladders",
-      "gallows",
-      "death"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "walking-under-ladders-practical-danger",
-      "walking-under-ladders-triangle",
-      "horseshoes-evil-eye",
-      "black-cats-not-always-bad",
-      "friday-13-fear-name",
-      "evil-eye-global-belief"
-    ],
-    "themes": [
-      "luck-ritual-superstition"
     ]
   },
   {
@@ -45451,7 +45109,7 @@
       "eye-contact-engagement",
       "microexpressions-fraction-second",
       "laughter-not-always-jokes",
-      "handshakes-quaker-greeting"
+      "smiling-short-expression"
     ],
     "themes": [
       "symbiosis-and-cooperation",
@@ -45583,8 +45241,8 @@
       "personal-space-learned-rules",
       "personal-space-invisible-bubble",
       "laughter-social-signal",
-      "eye-contact-cultural-meaning",
-      "smiling-duchenne-muscles"
+      "smiling-duchenne-muscles",
+      "eye-contact-cultural-meaning"
     ],
     "themes": []
   },
@@ -46785,8 +46443,8 @@
     "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
-      "zheng-he-treasure-fleets",
       "zheng-he-maritime-legacy",
+      "zheng-he-treasure-fleets",
       "magellan-strait",
       "lewis-clark-native-assistance",
       "marco-polo-kublai-khan"
@@ -48146,7 +47804,7 @@
       "dragonflies-nearly-360-vision",
       "cicadas-loud-songs",
       "flying-boats-fuselage-hull",
-      "termites-mound-engineers"
+      "bees-pollination"
     ],
     "themes": [
       "record-extremes",
@@ -48226,39 +47884,13 @@
     "relatedFactIds": [
       "fireflies-bioluminescence",
       "fireflies-are-beetles",
-      "praying-mantis-raptorial-forelegs",
       "termites-mound-engineers",
-      "mosquitoes-sense-breath"
+      "mosquitoes-sense-breath",
+      "butterflies-proboscis"
     ],
     "themes": [
       "camouflage-and-mimicry",
       "materials-and-chemistry",
-      "food-and-cuisine"
-    ]
-  },
-  {
-    "id": "praying-mantis-raptorial-forelegs",
-    "headline": "Female Mantises Sometimes Eat the Male's Head",
-    "body": "Mating can be a deadly business for a male praying mantis. The female sometimes turns and bites off her partner's head during or after the act. The truly startling part is what happens next: a decapitated male can keep right on mating, because much of the movement is controlled by nerve centers in the body, not the head. Losing his head may even remove inhibitions and make him mate more vigorously before he finally dies.",
-    "summary": "A female mantis may bite off the male's head during mating, and headless, he keeps going.",
-    "categoryId": "insects",
-    "topic": "Praying Mantises",
-    "tags": [
-      "praying-mantises",
-      "sexual-cannibalism",
-      "mating"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "praying-mantis-keen-vision",
-      "praying-mantis-camouflage",
-      "fireflies-mating-flashes",
-      "mosquitoes-females-bite",
-      "mosquitoes-sense-breath"
-    ],
-    "themes": [
-      "human-body-quirks",
       "food-and-cuisine"
     ]
   },
@@ -48278,8 +47910,8 @@
     "featured": false,
     "relatedFactIds": [
       "praying-mantis-camouflage",
-      "praying-mantis-raptorial-forelegs",
       "termites-social-castes",
+      "dragonflies-nearly-360-vision",
       "dyatlov-conspiracy-fuel",
       "airplanes-wing-airfoils"
     ],
@@ -48304,8 +47936,8 @@
     "featured": false,
     "relatedFactIds": [
       "praying-mantis-keen-vision",
-      "praying-mantis-raptorial-forelegs",
       "cicadas-loud-songs",
+      "dragonflies-nearly-360-vision",
       "taos-hum-worldwide-pattern",
       "sound-human-frequency-range"
     ],
@@ -48472,7 +48104,7 @@
       "mosquitoes-vectors",
       "butterflies-proboscis",
       "sharks-electroreceptors",
-      "praying-mantis-raptorial-forelegs"
+      "beetles-help-and-harm"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -49529,7 +49161,7 @@
       "timekeeping-escapement",
       "french-revolution-american-war",
       "religious-calendars-sky-cycles",
-      "french-revolution-bastille"
+      "timekeeping-mechanical-clocks"
     ],
     "themes": [
       "timekeeping",
@@ -49673,9 +49305,9 @@
   },
   {
     "id": "coins-ruler-portraits",
-    "headline": "Brutus Bragged About Killing Caesar on a Coin",
-    "body": "Ancient coins doubled as mass media, and one of the boldest ever minted was pure political bragging. After Brutus and his fellow conspirators assassinated Julius Caesar, Brutus issued a coin advertising the deed. It showed two daggers flanking a 'pileus,' the cap freed slaves wore to signal liberty, above the inscription 'EID MAR', short for the Ides of March, the date of the murder. It was a claim, stamped in metal and passed hand to hand, that killing Caesar had freed Rome.",
-    "summary": "After killing Caesar, Brutus minted a coin showing two daggers, a liberty cap, and the date 'Ides of March.'",
+    "headline": "Brutus Put the Ides of March on a Coin",
+    "body": "Ancient coins doubled as mass media, and one of the boldest ever minted was pure political bragging. After Brutus and his fellow conspirators brought down Julius Caesar, Brutus issued a coin advertising the deed. It showed a 'pileus,' the cap freed slaves wore to signal liberty, above the inscription 'EID MAR', short for the Ides of March. It was a claim, stamped in metal and passed hand to hand, that toppling Caesar had freed Rome.",
+    "summary": "Brutus minted a coin stamped 'EID MAR' to advertise the day he and his conspirators overthrew Caesar.",
     "categoryId": "human-civilization",
     "topic": "Coins",
     "tags": [
@@ -49683,7 +49315,7 @@
       "brutus",
       "rome"
     ],
-    "readTimeSeconds": 52,
+    "readTimeSeconds": 47,
     "featured": false,
     "relatedFactIds": [
       "coins-historical-data",
@@ -50166,7 +49798,7 @@
       "coins-ruler-portraits",
       "age-of-exploration-new-world",
       "dragons-east-west-difference",
-      "babylonians-hammurabi"
+      "babylonians-hanging-gardens"
     ],
     "themes": [
       "record-extremes",

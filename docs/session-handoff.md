@@ -1,6 +1,6 @@
 # Nib Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-18 · 1836 facts · 55 categories
+> Last updated: 2026-07-19 · 1822 facts · 55 categories
 > (Keep this line current — bump it every time a category is finished or the library changes. See step 9 of the standing pattern.)
 
 ## What this is
@@ -24,8 +24,45 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   state + every de-dup decision (exhaustive per-category log). Update it alongside this handoff doc — but
   **this doc, not memory, is the durable handoff** (memory can't be relied on across machines/devs).
 
-## Current state (2026-07-18)
-- **1836 facts · 55 categories · 719 topics · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+## Current state (2026-07-19)
+- **1822 facts · 55 categories · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+
+### What changed on 2026-07-19 (4+ age-appropriateness pass — 1836 → 1822)
+
+Triggered by the Fact of the Day surfacing *"A Famous Nature Documentary Faked Lemming 'Suicide'"* — the
+app is rated **4+** and every fact is also an Instagram carousel candidate via `nib-social`, which burns
+`headline`, `summary`, **and** `body` into slide images. The library had **no age rule at all** until now.
+
+- **New rule: `fact-writing-and-quality-guide.md` §9 — the 4+ hard gate.** Auto-reject categories
+  (self-harm, execution methods, torture, murder-as-subject, sexual content, recreational substances),
+  a rewrite-instead band, and — importantly — an **explicitly-allowed** list so future passes don't
+  over-sanitize (dying stars, the Dead Sea, "died in 1943", educational Nazi-era history, predation).
+  Also added to the §6 validation gate as an automatic reject.
+- **New script: `pnpm check:age-rating`** (`scripts/check-age-rating.ts`) — screens all three surfaced
+  fields, BLOCK/WARN severity, `--warn`/`--json` flags, exits 1 on any BLOCK so it can gate export.
+  It is a **regex prefilter with a deliberately high false-positive rate** ("icy *bodies*", trades
+  "*executed* by computer", Poe's *"The Murders in the Rue Morgue"*) — **read every hit.** Confirmed
+  false positives go in the script's `ALLOWLIST` **with a written justification** (1 entry so far).
+- **14 facts removed** where the graphic detail *was* the hook: the lemming one, `captain-kidd-executed`,
+  `blackbeard-killed-at-ocracoke`, `werewolves-human-wolf`, `sleepwalking-partial-waking`,
+  `rock-hard-to-define`, `praying-mantis-raptorial-forelegs`, `walking-under-ladders-gallows`,
+  `female-pirates-fought-capture`, `female-pirates-rackham-crew`, all three `forensic-entomologists-*`,
+  `drawbridges-protected-weak-gates`, `french-revolution-louis-xvi`.
+- **17 facts rewritten** per §7 (id kept, only headline/summary/body/tags/readTime changed), re-hooking
+  claims already in the body — e.g. Captain Kidd keeps the pirate-hunter irony without the execution;
+  Pompeii keeps the plaster-cast technique without the decomposition; the OED keeps the crowdsourcing
+  and the asylum cell without the killing; the lemming fact survives as a **media-deception** fact.
+- **1 topic dropped:** `strange-jobs / Forensic Entomologists` — inherently about corpses, no fact in it
+  can clear the gate. Its registry row is now `status=excluded-age-rating` so `scrape:batch` won't
+  resurrect it (new status value documented in `source-discovery-and-registry.md`).
+- **Collection repointed, not shrunk** (§8 step 7): `your-strange-body` → `sleepwalking-partial-waking`
+  replaced with `sleepwalking-childhood-common` (same topic, same angle). All 28 collections resolve.
+- **Graph regenerated, not hand-fixed:** `normalize:tags && assign:themes && generate:related &&
+  export:facts` → 0 dangling IDs, 0 self-refs. Synced to `Nib/Nib/Data/{facts,collections}.json` and
+  `nib-social/public/data/facts.json` (all three at 1822).
+
+> **Note for the next pass:** the CDN at `https://nibapp.net/v1` still serves the old 1836-fact dataset.
+> Re-publish via `../Nib/cdn/build-manifest.sh` to push these removals to already-installed apps.
 
 ### What changed on 2026-07-18 (second "wow" weed-out — 1880 → 1836)
 Triggered by a real in-app complaint: the daily fact was *"Pokémon Started as Red and Green, Not Red and

@@ -142,6 +142,8 @@ whether it clears these tests:
 - **Conversation** — someone would naturally tell another person ("Did you know black holes aren't
   actually holes?").
 - **Not flat** — clears all four §3 red-flags.
+- **Age-appropriate** — clears the 4+ hard gate in §9. *(Failing this is an automatic reject, even if the
+  fact is otherwise excellent.)*
 - **Non-duplicate** — doesn't repeat another fact's idea (keep the stronger version).
 - **Tone** — conversational, not textbook/Wikipedia.
 
@@ -197,6 +199,60 @@ id,categoryId,topic,headline,body,summary,tags,readTimeSeconds,featured,relatedF
 **Formatting:** strict CSV. Quote any field containing a comma; prefer quoting all text fields. Escape
 quotes as `""`. No blank lines between rows. Use plain ASCII in edit scripts (`CO2` not the subscript
 form; straight quotes) — the rewrite matcher's `norm()` handles curly→straight quotes in old headlines.
+
+---
+
+## 9. Age-appropriateness — the 4+ hard gate
+
+Nib ships with a **4+ App Store rating**, and every fact is also a candidate for an **Instagram carousel**
+via `nib-social` (which burns `headline`, `summary`, *and* `body` into slide images). So a fact has two
+audiences it must clear: a **young child reading over a parent's shoulder**, and an **automated content
+moderator**. This gate is independent of quality — a fact can be genuinely fascinating and still fail.
+
+**The test:** *would this be fine as a full-screen push notification on a 5-year-old's iPad?*
+
+### Automatic reject — the graphic detail IS the hook
+
+Cut the fact entirely when the surprise depends on the disturbing part. There is no rewrite that saves it,
+because removing the graphic detail removes the reason the fact exists.
+
+| Never ship | Why |
+| --- | --- |
+| **Suicide or self-harm** — in any framing, including debunked myths and animal behavior | The word alone is disqualifying. Killed the lemming fact even though the *point* was that it never happened. |
+| **Execution methods & their mechanics** | hanging, beheading, guillotine, gibbeting, burning at the stake |
+| **Torture, mutilation, dismemberment, cannibalism** | including in folklore and fairy tales |
+| **Murder as the subject** — killers, victims, weapons, forensics of a killing | "solved a murder," "time of death," corpse handling |
+| **Sex, sexual slang, or mating as the subject** | *"'Rock and Roll' Was Slang for Sex"* — flagged on both counts |
+| **Recreational drugs, alcohol, or tobacco framed positively or as trivia** | incidental historical mention is fine (see below) |
+
+### Rewrite instead — the graphic detail is incidental
+
+Most flagged facts are salvageable: the interesting hook survives without the gore. Rewrite per §7 (keep the
+`id`, swap only `headline` / `summary` / `body` / `tags`).
+
+- **Captain Kidd** — keep the pirate-hunter-turned-pirate irony, drop the two hangings and the gibbeting.
+- **Pompeii** — keep the ash cavities as an archaeological technique, drop the decomposition.
+- **Castle gatehouses** — keep the layered-defense engineering, drop "death trap" / "kill zone."
+
+### Explicitly allowed — do NOT over-sanitize
+
+Over-pruning costs real facts and thins categories. These are fine:
+
+- **Death as a neutral scientific or historical event** — dying stars, dead skin cells, the Dead Sea,
+  extinction, "died in 1943," a fossil record. The word "died" is not the problem; **dwelling on how** is.
+- **Educational 20th-century history**, including Nazi-era facts told from a resistance, cultural, or
+  design angle (Norwegian paper clips, the Bauhaus exile, the swastika's pre-20th-century meaning).
+  Keep the framing factual and non-graphic.
+- **Incidental period detail** — cigarettes as POW-camp currency, mead as an ancient drink. The fact is
+  about economics or archaeology, not the substance.
+- **Predation and animal biology** — hunting, venom, scavenging, an anglerfish swallowing prey. Natural
+  history is not violence. Avoid only the gratuitous close-up (a mantis eating a mate's head).
+
+### Screening
+
+`pnpm check:age-rating` flags candidates across all three surfaced fields. It is a **regex prefilter with a
+high false-positive rate** ("icy *bodies*", trades "*executed* by computer") — it cannot judge context.
+**Always read the flagged headlines and decide by hand**, exactly as with the §3 flatness pass.
 
 ---
 

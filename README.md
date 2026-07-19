@@ -63,6 +63,7 @@ cp docs/sources.csv source-registry/sources.csv
 - `pnpm scrape:next`
 - `pnpm scrape:batch`
 - `pnpm export:facts`
+- `pnpm check:age-rating` — screens the library against the 4+ age gate (exits 1 on any BLOCK)
 
 ### Scrape a Single Source
 
@@ -127,7 +128,9 @@ Notes:
 4. Validate claims against source text only.
 5. Perform human review and approve only the best facts per topic — **up to 3 (quality-gated, never padded)**.
 6. Store approved rows in `approved-content/approved-facts.csv`.
-7. Export with `pnpm export:facts`.
+7. Screen for age-appropriateness with `pnpm check:age-rating` (the app is rated 4+ and facts are also
+   posted to Instagram). Read every hit — it's a regex prefilter, not a judge.
+8. Export with `pnpm export:facts`.
 
 For detailed process guidance, see:
 

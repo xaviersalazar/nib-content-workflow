@@ -718,7 +718,8 @@ category,topic,institution,url,status
 ```
 
 `status` values: `backlog` (staged, not ready) · `pending` (ready; picked up by `scrape:batch`) ·
-`complete` (scraped). Batch scripts only process `pending`.
+`complete` (scraped) · `excluded-age-rating` (the topic can't yield a fact that clears the 4+ gate in
+`fact-writing-and-quality-guide.md` §9 — don't re-scrape it). Batch scripts only process `pending`.
 
 ## Scraped-file layout
 
