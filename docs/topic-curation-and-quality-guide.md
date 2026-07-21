@@ -237,8 +237,8 @@ the actual call comes from **reading** the fact.
    to the **best surviving fact in the same topic** (don't just delete the ref).
 8. **Verify (must all be clean):** 0 dangling `relatedFactIds`, 0 dangling collection refs, 0 dup ids, no
    topic > 3, CSV row count == `facts.json` count (integrity check 5e + a collections pass).
-9. **Publish to CDN** (see `Nib/cdn/README.md`): sync `exports/{categories,collections}.json`, run
-   `Nib/cdn/build-manifest.sh <next-version> ../nib-content-workflow/exports` (**bump `contentVersion`**),
+9. **Publish to CDN** (see `cdn/README.md`): sync `exports/{categories,collections}.json`, then from the
+   `cdn/` folder run `./build-manifest.sh <next-version> ../exports` (**bump `contentVersion`**),
    then upload the three JSON files **first** and `manifest.json` **last** to the R2 bucket behind
    `cdn.nibapp.net/v1`. Verify: `curl -s https://cdn.nibapp.net/v1/manifest.json | grep contentVersion`.
 10. **Update** `session-handoff.md` (current state + this event) and the memory pipeline-state file.

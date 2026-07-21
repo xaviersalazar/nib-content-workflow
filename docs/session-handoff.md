@@ -1,6 +1,6 @@
 # Nib Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-19 · 1822 facts · 55 categories
+> Last updated: 2026-07-21 · 1716 facts · 55 categories
 > (Keep this line current — bump it every time a category is finished or the library changes. See step 9 of the standing pattern.)
 
 ## What this is
@@ -19,13 +19,27 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
 - **Source discovery + registry:** `docs/source-discovery-and-registry.md` (now includes the old
   `trusted-source-workflow`).
 - **Roadmap (fascination-first):** `docs/content-expansion-roadmap.md`.
-- **CDN publish:** `../Nib/cdn/README.md` + `../Nib/cdn/build-manifest.sh`.
+- **CDN publish:** `cdn/README.md` + `cdn/build-manifest.sh` (moved here from the Nib app repo).
 - **Persistent memory:** `nib_content_pipeline_state.md` (in the Claude memory dir) tracks the running
   state + every de-dup decision (exhaustive per-category log). Update it alongside this handoff doc — but
   **this doc, not memory, is the durable handoff** (memory can't be relied on across machines/devs).
 
 ## Current state (2026-07-19)
-- **1822 facts · 55 categories · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+- **1716 facts · 55 categories · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+
+### What changed on 2026-07-21 (third "wow" weed-out — 1822 → 1716)
+
+Triggered by the Fact of the Day *"The Javelin Was Redesigned Because Throwers Got Too Good"* reading flat.
+The failure mode this round was **over-circulated `KNOWN` factoids** — true and well-written, but the reader
+has already met them — distinct from the *textbook-definition* lens of the 2026-07-14/18 passes. **106
+removed · 21 rewritten across 33 categories**, 15 tier-1 flags withdrawn on close reading (well-known but
+still reliably surprising). Full per-fact rationale in **`docs/wow-weedout-2026-07-21.md`**; machine-readable
+changelog in `approved-content/wow-weedout-2026-07-21-changelog.csv`; the flag file that seeded it is
+`approved-content/flagged-wow-candidates.csv` (its 93 tier-2 rows are a watchlist, not yet actioned). Graph
+regenerated + exported (1716, 0 dangling/self-ref), `pnpm check:age-rating` = 0 BLOCK. **Still to do
+(outward-facing):** app-seed sync + collections.json dangling-ref check (§8 step 7) and CDN publish (§8 step
+9). **Re-source candidates** (topics gutted to weak/empty by this pass): food/Cheese, food/Spices,
+food/Chocolate, food/Pizza, history/Vikings, history/Knights.
 
 ### What changed on 2026-07-19 (4+ age-appropriateness pass — 1836 → 1822)
 
@@ -62,7 +76,7 @@ app is rated **4+** and every fact is also an Instagram carousel candidate via `
   `nib-social/public/data/facts.json` (all three at 1822).
 
 > **Note for the next pass:** the CDN at `https://nibapp.net/v1` still serves the old 1836-fact dataset.
-> Re-publish via `../Nib/cdn/build-manifest.sh` to push these removals to already-installed apps.
+> Re-publish via `cdn/build-manifest.sh` to push these removals to already-installed apps.
 
 ### What changed on 2026-07-18 (second "wow" weed-out — 1880 → 1836)
 Triggered by a real in-app complaint: the daily fact was *"Pokémon Started as Red and Green, Not Red and
@@ -221,7 +235,7 @@ time, so check before removing. Dropping either is a schema/CDN change, deferred
   each now 5 facts.
 - **CDN v5 staged, NOT uploaded.** `exports/manifest.json` bumped to **contentVersion 5** (facts + collections
   checksums changed; categories unchanged). Upload the 3 JSON files then `manifest.json` last to the R2 bucket
-  per `Nib/cdn/README.md`, then verify `curl -s https://cdn.nibapp.net/v1/manifest.json | grep contentVersion`.
+  per `cdn/README.md`, then verify `curl -s https://cdn.nibapp.net/v1/manifest.json | grep contentVersion`.
   **Note:** pass-1 **v4 is confirmed live** (verified 2026-07-15: 200 + matching shas) — the earlier "still v3?"
   worry is resolved; v5 is the only pending drop.
 - Backup / audit trail: `approved-content/approved-facts.backup-20260715-090418.csv` +
@@ -247,7 +261,7 @@ time, so check before removing. Dropping either is a schema/CDN change, deferred
   Limits, Forensics, Poisons/Venom & Toxins, Perfume & Smell, Microscopic Life, Heists/Escapes & Cons);
   seasonal weight moved onto the Collections. See `content-expansion-roadmap.md`.
 - **CDN:** v4 drop staged in `nib-content-workflow/exports/` (facts + collections checksums changed);
-  publish per `Nib/cdn/README.md`. Confirm live version with `curl cdn.nibapp.net/v1/manifest.json`.
+  publish per `cdn/README.md`. Confirm live version with `curl cdn.nibapp.net/v1/manifest.json`.
 
 - All 55 categories were rewritten via this workflow. Categories: space, astronomy, history,
   ancient-civilizations, animals, ocean-life, human-body, psychology, food, coffee, technology,
