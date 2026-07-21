@@ -5034,34 +5034,6 @@
     ]
   },
   {
-    "id": "bees-royal-jelly",
-    "headline": "Bees Can Create a New Queen",
-    "body": "Bees can create a brand-new queen whenever they need one — and the secret is food. Worker bees make a special substance called royal jelly. Ordinary larvae get it only briefly, but a chosen larva is fed it nonstop. That rich diet makes the larva grow into a full queen instead of a worker, even though they started out genetically the same. In other words, what a young bee eats can change its whole destiny. It lets a hive raise a new queen whenever the old one is lost.",
-    "summary": "The right food can turn an ordinary larva into a queen.",
-    "categoryId": "insects",
-    "topic": "Bees",
-    "tags": [
-      "insects",
-      "bees",
-      "royal-jelly",
-      "queen"
-    ],
-    "readTimeSeconds": 40,
-    "featured": false,
-    "relatedFactIds": [
-      "bees-pollination",
-      "bees-honey-from-nectar",
-      "termites-cellulose-digesters",
-      "fibonacci-golden-ratio",
-      "chess-queen-power-upgrade"
-    ],
-    "themes": [
-      "food-and-cuisine",
-      "collective-behavior",
-      "lost-and-rediscovered"
-    ]
-  },
-  {
     "id": "wolves-unique-howls",
     "headline": "Every Wolf Pack Has Its Own Howl",
     "body": "Just like human communities have their own way of speaking, every wolf pack has its own distinctive howl. The mix of voices, pitches, and patterns creates a signature sound unique to each group. It helps packs recognize each other and lets a wolf pick out its own family from a distance. A pack's shared howl can also announce its presence and warn neighbors to stay back. Howling together strengthens the bonds within the pack.",
@@ -11888,64 +11860,6 @@
     "themes": [
       "invention-and-breakthrough",
       "games-and-play"
-    ]
-  },
-  {
-    "id": "world-records-pub-argument",
-    "headline": "Guinness World Records Started From a Pub Argument",
-    "body": "Guinness World Records began with the kind of debate people still have today. In the early 1950s, Sir Hugh Beaver got into an argument about which game bird was the fastest in Europe. When he couldn't find a reliable answer in any reference book, he imagined a book that could settle exactly those kinds of disputes. A trivia argument helped launch one of the world's most famous fact books.",
-    "summary": "Guinness World Records began as an idea for settling hard-to-answer pub arguments.",
-    "categoryId": "literature",
-    "topic": "Guinness World Records",
-    "tags": [
-      "literature",
-      "guinness-world-records",
-      "books",
-      "trivia"
-    ],
-    "readTimeSeconds": 50,
-    "featured": false,
-    "relatedFactIds": [
-      "world-records-global-brand",
-      "printing-gutenberg-revolution",
-      "printing-literacy-spread",
-      "cold-war-orwell",
-      "translation-printing-press-demand",
-      "detective-fiction-hard-boiled"
-    ],
-    "themes": [
-      "record-extremes",
-      "storytelling-and-narrative",
-      "games-and-play"
-    ]
-  },
-  {
-    "id": "world-records-global-brand",
-    "headline": "The Guinness Book Is One of the Most-Stolen Library Books",
-    "body": "The Guinness Book of Records is packed with the world's extremes — and, fittingly, it holds an unofficial one of its own. For years it has been reported as one of the most frequently stolen books from public libraries, swiped so often that some branches keep it behind the desk. A book devoted to record-breaking apparently inspires a record amount of shoplifting.",
-    "summary": "A book full of world records is itself reportedly one of the most-stolen from libraries.",
-    "categoryId": "literature",
-    "topic": "Guinness World Records",
-    "tags": [
-      "literature",
-      "guinness-world-records",
-      "books",
-      "libraries"
-    ],
-    "readTimeSeconds": 48,
-    "featured": false,
-    "relatedFactIds": [
-      "world-records-pub-argument",
-      "libraries-store-memory",
-      "printing-gutenberg-revolution",
-      "cold-war-orwell",
-      "libraries-changing-role",
-      "comics-grew-up"
-    ],
-    "themes": [
-      "record-extremes",
-      "parental-care",
-      "storytelling-and-narrative"
     ]
   },
   {
@@ -19702,6 +19616,64 @@
       "perception-and-brain",
       "money-trade-and-value",
       "animal-intelligence"
+    ]
+  },
+  {
+    "id": "world-records-pub-argument",
+    "headline": "Guinness World Records Started From a Pub Argument",
+    "body": "Guinness World Records began with the kind of debate people still have today. In the early 1950s, Sir Hugh Beaver got into an argument about which game bird was the fastest in Europe. When he couldn't find a reliable answer in any reference book, he imagined a book that could settle exactly those kinds of disputes. A trivia argument helped launch one of the world's most famous fact books.",
+    "summary": "Guinness World Records began as an idea for settling hard-to-answer pub arguments.",
+    "categoryId": "literature",
+    "topic": "Guinness World Records",
+    "tags": [
+      "literature",
+      "guinness-world-records",
+      "books",
+      "trivia"
+    ],
+    "readTimeSeconds": 50,
+    "featured": false,
+    "relatedFactIds": [
+      "world-records-global-brand",
+      "printing-gutenberg-revolution",
+      "printing-literacy-spread",
+      "cold-war-orwell",
+      "translation-printing-press-demand",
+      "detective-fiction-hard-boiled"
+    ],
+    "themes": [
+      "record-extremes",
+      "storytelling-and-narrative",
+      "games-and-play"
+    ]
+  },
+  {
+    "id": "world-records-global-brand",
+    "headline": "The Guinness Book Is One of the Most-Stolen Library Books",
+    "body": "The Guinness Book of Records is packed with the world's extremes — and, fittingly, it holds an unofficial one of its own. For years it has been reported as one of the most frequently stolen books from public libraries, swiped so often that some branches keep it behind the desk. A book devoted to record-breaking apparently inspires a record amount of shoplifting.",
+    "summary": "A book full of world records is itself reportedly one of the most-stolen from libraries.",
+    "categoryId": "literature",
+    "topic": "Guinness World Records",
+    "tags": [
+      "literature",
+      "guinness-world-records",
+      "books",
+      "libraries"
+    ],
+    "readTimeSeconds": 48,
+    "featured": false,
+    "relatedFactIds": [
+      "world-records-pub-argument",
+      "libraries-store-memory",
+      "printing-gutenberg-revolution",
+      "cold-war-orwell",
+      "libraries-changing-role",
+      "comics-grew-up"
+    ],
+    "themes": [
+      "record-extremes",
+      "parental-care",
+      "storytelling-and-narrative"
     ]
   },
   {
@@ -44397,6 +44369,34 @@
     ],
     "themes": [
       "plants-and-botany"
+    ]
+  },
+  {
+    "id": "bees-royal-jelly",
+    "headline": "Bees Can Create a New Queen",
+    "body": "Bees can create a brand-new queen whenever they need one — and the secret is food. Worker bees make a special substance called royal jelly. Ordinary larvae get it only briefly, but a chosen larva is fed it nonstop. That rich diet makes the larva grow into a full queen instead of a worker, even though they started out genetically the same. In other words, what a young bee eats can change its whole destiny. It lets a hive raise a new queen whenever the old one is lost.",
+    "summary": "The right food can turn an ordinary larva into a queen.",
+    "categoryId": "insects",
+    "topic": "Bees",
+    "tags": [
+      "insects",
+      "bees",
+      "royal-jelly",
+      "queen"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "bees-pollination",
+      "bees-honey-from-nectar",
+      "termites-cellulose-digesters",
+      "fibonacci-golden-ratio",
+      "chess-queen-power-upgrade"
+    ],
+    "themes": [
+      "food-and-cuisine",
+      "collective-behavior",
+      "lost-and-rediscovered"
     ]
   },
   {
