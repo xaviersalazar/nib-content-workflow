@@ -1,6 +1,6 @@
 # Nib Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-21 · 1716 facts · 55 categories
+> Last updated: 2026-07-21 · 1713 facts · 55 categories
 > (Keep this line current — bump it every time a category is finished or the library changes. See step 9 of the standing pattern.)
 
 ## What this is
@@ -25,7 +25,20 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   **this doc, not memory, is the durable handoff** (memory can't be relied on across machines/devs).
 
 ## Current state (2026-07-19)
-- **1716 facts · 55 categories · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+- **1713 facts · 55 categories · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+
+### What changed on 2026-07-21 (later — category-fit pass, 1716 → 1713)
+
+Triggered by the Fact of the Day *"The Guinness Book Is One of the Most-Stolen Library Books"* appearing under
+**sports**. Audited category placement at the **topic level** (~600 topics; the tag-vs-category heuristic is
+noise — tags are subject keywords). Two genuine misfiles fixed: **(1)** `sports/World Records` (both facts
+about the Guinness *book*) → moved to **literature**, topic renamed **Guinness World Records**. **(2)** `Bees`
+existed in both `animals` and `insects` (bees are insects) → merged into insects, trimmed the combined 6 → 3.
+The 4 remaining cross-category duplicate topics (Printing Press, Internet, QR Codes, Concrete) are
+**intentional** distinct-angle pairs — do not "fix" them. Graph regenerated + exported (1713, 0 dangling),
+age-rating 0 BLOCK. Moving a topic = change `categoryId` + fix the leading category tag; `id` stays permanent
+so related/collections are safe (verified). Same **outward-facing steps still pending** (app-seed sync + CDN)
+as the wow pass — do them together.
 
 ### What changed on 2026-07-21 (third "wow" weed-out — 1822 → 1716)
 

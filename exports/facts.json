@@ -2254,8 +2254,8 @@
       "roman-empire-roads-survive",
       "ancient-india-chess",
       "ancient-greece-olympics",
-      "ancient-rome-small-town-empire",
-      "american-revolution-civil-war"
+      "american-revolution-civil-war",
+      "industrial-revolution-child-labor"
     ],
     "themes": [
       "invention-and-breakthrough",
@@ -2494,8 +2494,8 @@
       "age-of-exploration-new-world",
       "ancient-china-wu-zetian",
       "vikings-women-rights",
-      "magellan-pacific-name",
       "magnetism-moving-charges",
+      "magellan-pacific-name",
       "meteor-showers-tons-fall-daily"
     ],
     "themes": [
@@ -2691,8 +2691,8 @@
       "industrial-revolution-illegal-export",
       "silk-road-not-one-road",
       "roman-empire-gladiators-etruscan",
-      "bees-not-all-honeybees",
-      "american-revolution-civil-war"
+      "american-revolution-civil-war",
+      "golden-age-of-piracy-black-bart-400-ships"
     ],
     "themes": [
       "origins-and-naming",
@@ -3198,7 +3198,7 @@
       "printing-literacy-spread",
       "peace-symbol-despair",
       "american-revolution-civil-war",
-      "world-records-global-brand"
+      "world-records-pub-argument"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -3610,7 +3610,7 @@
       "babylonians-astronomy",
       "pyramids-sloping-sides",
       "woolly-mammoths-late-islands",
-      "pyramids-global-form"
+      "honey-egyptian-mummies"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -4395,8 +4395,8 @@
       "ancient-rome-conquered-citizenship",
       "ancient-rome-augustus-first-emperor",
       "carthage-rome-burned-city",
-      "roman-empire-gladiators-etruscan",
-      "indus-city-planning"
+      "indus-city-planning",
+      "inca-suspension-bridges"
     ],
     "themes": [
       "collective-behavior",
@@ -5038,10 +5038,10 @@
     "headline": "Bees Can Create a New Queen",
     "body": "Bees can create a brand-new queen whenever they need one — and the secret is food. Worker bees make a special substance called royal jelly. Ordinary larvae get it only briefly, but a chosen larva is fed it nonstop. That rich diet makes the larva grow into a full queen instead of a worker, even though they started out genetically the same. In other words, what a young bee eats can change its whole destiny. It lets a hive raise a new queen whenever the old one is lost.",
     "summary": "The right food can turn an ordinary larva into a queen.",
-    "categoryId": "animals",
+    "categoryId": "insects",
     "topic": "Bees",
     "tags": [
-      "animals",
+      "insects",
       "bees",
       "royal-jelly",
       "queen"
@@ -5049,76 +5049,16 @@
     "readTimeSeconds": 40,
     "featured": false,
     "relatedFactIds": [
-      "bees-expelled-winter",
-      "bees-winter-ball",
-      "axolotls-regrow-leg",
+      "bees-pollination",
+      "bees-honey-from-nectar",
       "termites-cellulose-digesters",
+      "fibonacci-golden-ratio",
       "chess-queen-power-upgrade"
     ],
     "themes": [
       "food-and-cuisine",
       "collective-behavior",
       "lost-and-rediscovered"
-    ]
-  },
-  {
-    "id": "bees-winter-ball",
-    "headline": "Honeybees Survive Winter by Forming a Ball",
-    "body": "Honeybees have a clever way to survive winter, when flowers and warmth disappear. Instead of hibernating, they pack tightly together in the hive to form a dense cluster, sometimes called a winter ball. The bees inside shiver their flight muscles to make heat, while those on the outside form an insulating layer. They constantly swap positions so no bee stays out in the cold too long. Working together, the colony keeps its center surprisingly warm even in freezing weather.",
-    "summary": "They shiver in shifts so no bee freezes on the outside.",
-    "categoryId": "animals",
-    "topic": "Bees",
-    "tags": [
-      "animals",
-      "bees",
-      "winter",
-      "survival"
-    ],
-    "readTimeSeconds": 40,
-    "featured": false,
-    "relatedFactIds": [
-      "bees-expelled-winter",
-      "bees-royal-jelly",
-      "sloths-slow-for-survival",
-      "hibernation-not-all-dormancy",
-      "bees-not-all-honeybees",
-      "fibonacci-golden-ratio"
-    ],
-    "themes": [
-      "collective-behavior",
-      "extreme-temperature",
-      "plants-and-botany",
-      "human-body-quirks"
-    ]
-  },
-  {
-    "id": "bees-expelled-winter",
-    "headline": "Male Bees Are Kicked Out Before Winter",
-    "body": "As winter nears, life turns harsh for the male bees, called drones. Drones don't collect food or do work in the hive, so they become a burden when supplies run low in the cold. To save their precious honey, the female workers force the drones out of the hive before winter sets in. Unable to survive alone in the cold, the evicted drones soon die. It's a stark example of the colony's ruthless focus on survival.",
-    "summary": "When food runs short, the drones get evicted to die.",
-    "categoryId": "animals",
-    "topic": "Bees",
-    "tags": [
-      "animals",
-      "bees",
-      "drones",
-      "winter"
-    ],
-    "readTimeSeconds": 40,
-    "featured": false,
-    "relatedFactIds": [
-      "bees-winter-ball",
-      "bees-royal-jelly",
-      "ravens-solve-problems-together",
-      "drones-national-airspace",
-      "bees-not-all-honeybees",
-      "drones-advanced-operations"
-    ],
-    "themes": [
-      "collective-behavior",
-      "food-and-cuisine",
-      "automation-robots-ai",
-      "symbiosis-and-cooperation"
     ]
   },
   {
@@ -5141,7 +5081,7 @@
       "dolphins-signature-whistle",
       "cheetahs-cannot-roar",
       "axolotls-regrow-leg",
-      "bees-winter-ball"
+      "penguins-winter-breeding"
     ],
     "themes": [
       "music-and-sound"
@@ -5273,7 +5213,7 @@
     "relatedFactIds": [
       "sloths-bathroom-weekly",
       "sloths-algae-camouflage",
-      "bees-winter-ball",
+      "giraffes-spread-legs-drink",
       "giant-sloths-claws-leaves",
       "laughter-contagious",
       "sharks-older-than-dinosaurs"
@@ -7702,8 +7642,8 @@
       "honey-mead-alcohol",
       "bananas-gros-michel-disease",
       "rice-white-rice-beriberi",
-      "bees-not-all-honeybees",
-      "irrigation-hydraulic-civilization"
+      "irrigation-hydraulic-civilization",
+      "ancient-egypt-3000-years"
     ],
     "themes": [
       "food-and-cuisine",
@@ -7729,8 +7669,8 @@
       "honey-egyptian-mummies",
       "salt-only-rock-we-eat",
       "bread-used-as-plates",
-      "bees-not-all-honeybees",
       "pizza-roman-no-tomatoes",
+      "pasta-vermicelli-little-worms",
       "salt-created-trade-routes"
     ],
     "themes": [
@@ -8883,8 +8823,8 @@
     "relatedFactIds": [
       "virtual-reality-heavy-headset",
       "email-more-than-text",
-      "search-engines-google-backrub",
       "world-wide-web-cern-1989",
+      "search-engines-google-backrub",
       "data-centers-avoid-downtime"
     ],
     "themes": [
@@ -9340,7 +9280,8 @@
       "chatbots-eliza-first",
       "generative-ai-new-content-prompts",
       "ai-hallucinations-adversarial-attacks",
-      "computer-vision-machines-see"
+      "computer-vision-machines-see",
+      "machine-learning-pattern-learning"
     ],
     "themes": [
       "automation-robots-ai",
@@ -11747,7 +11688,7 @@
     "relatedFactIds": [
       "olympic-games-ancient-greek-festival",
       "parkour-yamakasi-movement",
-      "world-records-global-brand",
+      "swimming-olympic-obstacle-race",
       "ancient-greece-olympics",
       "marathons-26-miles-385-yards"
     ],
@@ -11916,7 +11857,7 @@
       "olympic-games-ancient-greek-festival",
       "ancient-greece-olympics",
       "tennis-french-palm-game",
-      "soccer-worlds-most-popular-ball-game"
+      "olympic-games-first-champion-cook"
     ],
     "themes": [
       "games-and-play"
@@ -11954,28 +11895,28 @@
     "headline": "Guinness World Records Started From a Pub Argument",
     "body": "Guinness World Records began with the kind of debate people still have today. In the early 1950s, Sir Hugh Beaver got into an argument about which game bird was the fastest in Europe. When he couldn't find a reliable answer in any reference book, he imagined a book that could settle exactly those kinds of disputes. A trivia argument helped launch one of the world's most famous fact books.",
     "summary": "Guinness World Records began as an idea for settling hard-to-answer pub arguments.",
-    "categoryId": "sports",
-    "topic": "World Records",
+    "categoryId": "literature",
+    "topic": "Guinness World Records",
     "tags": [
-      "sports",
-      "world-records",
+      "literature",
       "guinness-world-records",
-      "sir-hugh-beaver",
+      "books",
       "trivia"
     ],
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
       "world-records-global-brand",
-      "swimming-olympic-obstacle-race",
-      "marathons-26-miles-385-yards",
+      "printing-gutenberg-revolution",
+      "printing-literacy-spread",
+      "cold-war-orwell",
       "translation-printing-press-demand",
-      "tennis-french-palm-game"
+      "detective-fiction-hard-boiled"
     ],
     "themes": [
       "record-extremes",
-      "games-and-play",
-      "storytelling-and-narrative"
+      "storytelling-and-narrative",
+      "games-and-play"
     ]
   },
   {
@@ -11983,29 +11924,28 @@
     "headline": "The Guinness Book Is One of the Most-Stolen Library Books",
     "body": "The Guinness Book of Records is packed with the world's extremes — and, fittingly, it holds an unofficial one of its own. For years it has been reported as one of the most frequently stolen books from public libraries, swiped so often that some branches keep it behind the desk. A book devoted to record-breaking apparently inspires a record amount of shoplifting.",
     "summary": "A book full of world records is itself reportedly one of the most-stolen from libraries.",
-    "categoryId": "sports",
-    "topic": "World Records",
+    "categoryId": "literature",
+    "topic": "Guinness World Records",
     "tags": [
-      "sports",
-      "world-records",
-      "guinness",
-      "books"
+      "literature",
+      "guinness-world-records",
+      "books",
+      "libraries"
     ],
     "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
       "world-records-pub-argument",
-      "olympic-games-first-champion-cook",
-      "parkour-yamakasi-movement",
+      "libraries-store-memory",
       "printing-gutenberg-revolution",
       "cold-war-orwell",
-      "libraries-changing-role"
+      "libraries-changing-role",
+      "comics-grew-up"
     ],
     "themes": [
       "record-extremes",
       "parental-care",
-      "storytelling-and-narrative",
-      "games-and-play"
+      "storytelling-and-narrative"
     ]
   },
   {
@@ -12113,9 +12053,9 @@
     "relatedFactIds": [
       "skateboarding-surfing-without-waves",
       "swimming-thousands-of-years",
-      "world-records-pub-argument",
-      "world-records-global-brand",
-      "formula-1-upside-down-airplane"
+      "formula-1-upside-down-airplane",
+      "golf-scotland-real-golf",
+      "swimming-olympic-obstacle-race"
     ],
     "themes": [
       "record-extremes",
@@ -12260,8 +12200,8 @@
       "olympic-games-first-champion-cook",
       "swimming-olympic-obstacle-race",
       "french-revolution-bastille",
-      "world-records-global-brand",
-      "marathons-26-miles-385-yards"
+      "marathons-26-miles-385-yards",
+      "tennis-french-palm-game"
     ],
     "themes": [
       "parental-care",
@@ -12859,7 +12799,8 @@
       "helicopters-sikorsky-vs300",
       "airplanes-four-forces",
       "polymers-life-natural-polymers",
-      "friction-tiny-surface-interactions"
+      "friction-tiny-surface-interactions",
+      "tires-compressed-air-load"
     ],
     "themes": [
       "extreme-temperature",
@@ -13001,8 +12942,8 @@
       "supersonic-flight-hypersonic-mach-five",
       "jet-engines-compress-burn-expand",
       "autopilot-straight-level-flight",
-      "airplanes-four-forces",
-      "hot-air-balloons-animal-passengers"
+      "hot-air-balloons-animal-passengers",
+      "airplanes-four-forces"
     ],
     "themes": [
       "flight-and-aviation",
@@ -13321,8 +13262,8 @@
       "drones-advanced-operations",
       "autopilot-complex-flight-plans",
       "autopilot-straight-level-flight",
-      "bees-expelled-winter",
-      "winglets-total-wing-design"
+      "winglets-total-wing-design",
+      "hot-air-balloons-animal-passengers"
     ],
     "themes": [
       "automation-robots-ai",
@@ -13350,8 +13291,8 @@
       "drones-national-airspace",
       "autopilot-complex-flight-plans",
       "autopilot-straight-level-flight",
-      "bees-expelled-winter",
-      "hot-air-balloons-animal-passengers"
+      "hot-air-balloons-animal-passengers",
+      "airplanes-four-forces"
     ],
     "themes": [
       "automation-robots-ai",
@@ -13774,7 +13715,7 @@
       "windshield-wipers-cadillac-standard",
       "internal-combustion-engines-combustion-inside",
       "concrete-steel-reinforcement",
-      "afterimages-retina-desensitized",
+      "jet-engines-throw-air-backward",
       "brakes-hydraulic-balance",
       "steel-iron-carbon-alloy"
     ],
@@ -15190,8 +15131,8 @@
     "relatedFactIds": [
       "atoms-outer-electrons-chemistry",
       "atoms-atomic-number-identity",
-      "metals-free-electrons-conduct",
       "oxidation-electron-loss",
+      "metals-free-electrons-conduct",
       "molecules-bond-lower-energy"
     ],
     "themes": [
@@ -16540,8 +16481,8 @@
       "fibonacci-rabbit-origin",
       "golden-ratio-one-point-six-one-eight",
       "bees-pollination",
-      "bees-winter-ball",
-      "fractals-repeat-shape"
+      "seahorses-male-give-birth",
+      "bees-royal-jelly"
     ],
     "themes": [
       "parental-care",
@@ -18260,7 +18201,7 @@
       "stock-market-fuels-growth",
       "corporations-owned-by-shareholders",
       "economic-bubbles-dot-com-surge",
-      "corporations-exist-legally"
+      "trademarks-not-own-word"
     ],
     "themes": [
       "automation-robots-ai",
@@ -19913,9 +19854,9 @@
     "relatedFactIds": [
       "comics-sequential-art",
       "comics-newspaper-roots",
+      "world-records-global-brand",
       "novels-long-prose-worlds",
-      "poetry-compressed-language",
-      "novels-character-depth"
+      "poetry-compressed-language"
     ],
     "themes": [
       "record-extremes",
@@ -19994,7 +19935,7 @@
     "relatedFactIds": [
       "detective-fiction-reader-sleuth",
       "detective-fiction-poe-origin",
-      "shakespeare-borrowed-sources",
+      "world-records-pub-argument",
       "voynich-strange-illustrations",
       "lighthouse-keepers-aids-navigation",
       "indus-undeciphered-script"
@@ -20156,8 +20097,8 @@
       "fairy-tales-not-always-fairies",
       "fairy-tales-folk-and-art",
       "comics-sequential-art",
-      "printing-press-idea-machine",
       "book-covers-before-dust-jackets",
+      "printing-press-idea-machine",
       "book-covers-cloth-design"
     ],
     "themes": [
@@ -20213,7 +20154,7 @@
       "legends-travel-and-change",
       "detective-fiction-poe-origin",
       "king-arthur-history-uncertain",
-      "epic-poems-heroic-scale"
+      "world-records-global-brand"
     ],
     "themes": [
       "parental-care",
@@ -20267,9 +20208,9 @@
     "relatedFactIds": [
       "libraries-changing-role",
       "libraries-alexandria-symbol",
+      "world-records-global-brand",
       "epic-poems-gilgamesh-old",
-      "epic-poems-heroic-scale",
-      "myths-explain-world"
+      "epic-poems-heroic-scale"
     ],
     "themes": [
       "record-extremes"
@@ -20292,7 +20233,7 @@
     "relatedFactIds": [
       "libraries-store-memory",
       "libraries-changing-role",
-      "printing-gutenberg-revolution",
+      "world-records-global-brand",
       "printing-press-surviving-bibles",
       "punctuation-originally-for-reading-aloud",
       "comics-newspaper-roots"
@@ -20319,9 +20260,9 @@
     "relatedFactIds": [
       "libraries-store-memory",
       "libraries-alexandria-symbol",
-      "epic-poems-gilgamesh-old",
       "world-records-global-brand",
-      "epic-poems-heroic-scale"
+      "epic-poems-gilgamesh-old",
+      "world-records-pub-argument"
     ],
     "themes": [
       "record-extremes"
@@ -20591,10 +20532,10 @@
     "relatedFactIds": [
       "printing-literacy-spread",
       "printing-press-idea-machine",
-      "book-covers-before-dust-jackets",
       "world-records-global-brand",
       "cold-war-orwell",
-      "banned-books-ideas-under-pressure"
+      "printing-press-surviving-bibles",
+      "world-records-pub-argument"
     ],
     "themes": [
       "storytelling-and-narrative"
@@ -20617,9 +20558,9 @@
     "relatedFactIds": [
       "printing-gutenberg-revolution",
       "printing-press-idea-machine",
-      "banned-books-can-increase-interest",
-      "renaissance-constantinople",
       "world-records-global-brand",
+      "renaissance-constantinople",
+      "printing-press-mass-copying",
       "cold-war-orwell"
     ],
     "themes": [
@@ -20646,6 +20587,7 @@
       "printing-literacy-spread",
       "comics-sequential-art",
       "fairy-tales-childlike-dark",
+      "world-records-pub-argument",
       "book-covers-cloth-design"
     ],
     "themes": [
@@ -25826,8 +25768,8 @@
     "relatedFactIds": [
       "antibiotics-resistance-evolution",
       "antibiotics-target-bacteria",
-      "anesthesia-made-surgery-bearable",
       "placebo-effect-clinical-trials",
+      "anesthesia-made-surgery-bearable",
       "anesthesia-not-always-unconscious",
       "placebo-effect-expectation"
     ],
@@ -28114,10 +28056,10 @@
     "relatedFactIds": [
       "monsoons-agriculture-lifeline",
       "monsoons-seasonal-wind-shift",
-      "el-nino-irregular-cycle",
+      "el-nino-global-weather",
       "deserts-defined-by-dryness",
       "socotra-marine-diversity",
-      "el-nino-global-weather"
+      "el-nino-irregular-cycle"
     ],
     "themes": [
       "record-extremes",
@@ -28170,7 +28112,6 @@
       "hail-growing-ice",
       "hail-minimum-size",
       "atmosphere-layered",
-      "bees-winter-ball",
       "thunder-lightning-sound",
       "clouds-cumulonimbus-storms"
     ],
@@ -28793,7 +28734,8 @@
       "atmosphere-circulation-deflection",
       "hail-different-from-sleet",
       "hibernation-bears-misleading",
-      "thunder-lightning-sound"
+      "thunder-lightning-sound",
+      "hail-growing-ice"
     ],
     "themes": [
       "extreme-temperature",
@@ -31616,7 +31558,7 @@
       "ankylosaurus-tail-club",
       "tyrannosaurus-sixty-teeth",
       "stegosaurus-ankylosaur-relatives",
-      "triceratops-three-horns"
+      "brachiosaurus-treetop-browser"
     ],
     "themes": [
       "record-extremes",
@@ -31783,7 +31725,7 @@
       "dinosaur-extinction-kpg-scale",
       "dinosaur-eggs-embryos-rare",
       "dinosaur-eggs-nesting-colonies",
-      "ankylosaurus-tail-club"
+      "tyrannosaurus-predator-scavenger"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -32923,8 +32865,8 @@
       "saber-toothed-cats-not-tigers",
       "saber-toothed-cats-tar-trap",
       "megalodon-largest-fish",
-      "mosasaurs-aquatic-lizards",
-      "dunkleosteus-jaw-bones"
+      "dunkleosteus-jaw-bones",
+      "mosasaurs-aquatic-lizards"
     ],
     "themes": [
       "human-body-quirks",
@@ -33319,8 +33261,8 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "jolly-roger-not-always-flown",
       "jolly-roger-custom-designs",
+      "jolly-roger-not-always-flown",
       "treasure-maps-saved-life",
       "afterimages-retina-desensitized",
       "blackbeard-queen-annes-revenge"
@@ -39128,8 +39070,8 @@
       "hibernation-bears-misleading",
       "hibernation-slowed-body",
       "circadian-rhythm-melatonin",
-      "bees-winter-ball",
-      "covalent-bonds-polar-sharing"
+      "covalent-bonds-polar-sharing",
+      "snoring-common-risk"
     ],
     "themes": [
       "extreme-temperature",
@@ -40045,7 +39987,7 @@
       "blind-spots-sharp-fovea",
       "ancient-temples-cella-inner-room",
       "fly-geyser-art-landscape",
-      "tires-compressed-air-load"
+      "bridges-materials-changed-spans"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -44278,8 +44220,8 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "corpse-flower-one-evening-stink",
       "corpse-flower-giant-inflorescence",
+      "corpse-flower-one-evening-stink",
       "bamboo-rare-flowering",
       "cherry-blossoms-fairchild-test",
       "baobab-nine-species"
@@ -44555,45 +44497,16 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "bees-not-all-honeybees",
+      "bees-royal-jelly",
       "bees-honey-from-nectar",
       "butterflies-conservation-decline",
-      "mongol-empire-messenger-network",
-      "fibonacci-golden-ratio"
+      "fibonacci-golden-ratio",
+      "mongol-empire-messenger-network"
     ],
     "themes": [
       "plants-and-botany",
       "flight-and-aviation",
       "food-and-cuisine"
-    ]
-  },
-  {
-    "id": "bees-not-all-honeybees",
-    "headline": "A Bee Makes a Twelfth of a Teaspoon of Honey",
-    "body": "Honey is the work of countless tiny lifetimes. A single worker honeybee produces only about one twelfth of a teaspoon of honey in her entire life. To fill a single one-pound jar, the hive's foragers collectively fly a distance roughly equal to several times around the planet, visiting millions of flowers. Every spoonful on your toast represents an enormous, invisible marathon of insect labor stored up drop by drop.",
-    "summary": "One worker bee makes about 1/12 teaspoon of honey in her life, so a jar equals flights around the world.",
-    "categoryId": "insects",
-    "topic": "Bees",
-    "tags": [
-      "bees",
-      "honey",
-      "labor"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "bees-pollination",
-      "bees-honey-from-nectar",
-      "cicadas-loud-songs",
-      "bees-winter-ball",
-      "honey-egyptian-mummies",
-      "industrial-revolution-child-labor"
-    ],
-    "themes": [
-      "collective-behavior",
-      "stars-and-cosmos",
-      "plants-and-botany",
-      "flight-and-aviation"
     ]
   },
   {
@@ -44612,7 +44525,7 @@
     "featured": false,
     "relatedFactIds": [
       "bees-pollination",
-      "bees-not-all-honeybees",
+      "bees-royal-jelly",
       "beetles-most-diverse",
       "ravens-solve-problems-together",
       "artificial-intelligence-wasp-example",
@@ -44698,7 +44611,7 @@
     "relatedFactIds": [
       "cicadas-shed-skins",
       "cicadas-underground-years",
-      "bees-not-all-honeybees",
+      "dragonflies-flight-hunters",
       "snoring-airway-vibration",
       "supersonic-flight-hypersonic-mach-five",
       "prime-numbers-building-blocks"
@@ -44889,7 +44802,7 @@
     "relatedFactIds": [
       "fireflies-are-beetles",
       "fireflies-mating-flashes",
-      "bees-not-all-honeybees",
+      "ants-queen-role",
       "bioluminescence-most-deep-sea-animals-glow",
       "bioluminescence-shrimp-spit-light",
       "anglerfish-built-in-fishing-rod"
@@ -45024,10 +44937,10 @@
     "relatedFactIds": [
       "termites-social-castes",
       "termites-mound-engineers",
-      "ants-chemical-communication",
       "bees-royal-jelly",
       "baobab-nine-species",
-      "happiness-social-relationships"
+      "happiness-social-relationships",
+      "ants-chemical-communication"
     ],
     "themes": [
       "record-extremes",
