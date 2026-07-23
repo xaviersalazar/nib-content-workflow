@@ -5,7 +5,6 @@
     "subtitle": "Breakthroughs nobody meant to make.",
     "icon": "lightbulb",
     "factIds": [
-      "cheese-accidental-discovery",
       "steel-iron-carbon-alloy",
       "polymers-tunable-materials",
       "post-it-notes-weak-adhesive",
@@ -21,7 +20,6 @@
     "subtitle": "Popular \"facts\" that fall apart.",
     "icon": "exclamationmark.bubble",
     "factIds": [
-      "vikings-no-horned-helmets",
       "black-holes-not-vacuum-cleaners",
       "blood-color-changes-with-oxygen",
       "espresso-crema-traps-aroma",
@@ -50,12 +48,12 @@
     "subtitle": "Minds we love to underestimate.",
     "icon": "pawprint",
     "factIds": [
-      "octopus-open-jars",
       "ravens-solve-problems-together",
       "dolphins-signature-whistle",
       "bees-honey-from-nectar",
       "venus-flytrap-snap-trap",
-      "beetles-eat-everything"
+      "beetles-eat-everything",
+      "sleep-half-brain-awake"
     ]
   },
   {
@@ -165,12 +163,12 @@
     "subtitle": "The machine you live inside.",
     "icon": "heart.text.square",
     "factIds": [
-      "muscles-heart-is-a-muscle",
       "skeletal-system-206-bones",
       "sleepwalking-childhood-common",
       "smiling-duchenne-muscles",
       "caffeine-naturally-bitter",
-      "hair-mostly-dead-tissue"
+      "heart-one-way-valves",
+      "eyes-retina-part-of-brain"
     ]
   },
   {
@@ -183,8 +181,8 @@
       "sound-human-frequency-range",
       "musical-instruments-human-universal",
       "dolphins-echoes",
-      "attention-name-special",
-      "auto-tune-cher-effect"
+      "auto-tune-cher-effect",
+      "supersonic-flight-hypersonic-mach-five"
     ]
   },
   {
@@ -240,7 +238,7 @@
       "salar-de-uyuni-largest-salt-flat",
       "agriculture-settled-societies",
       "blood-transfusions-storage-changed-everything",
-      "popcorn-expands-40-times"
+      "atoms-atomic-number-identity"
     ]
   },
   {
@@ -265,7 +263,6 @@
     "factIds": [
       "loch-ness-home",
       "crop-circles-field-art",
-      "radio-sound-without-wires",
       "documentaries-shape-facts",
       "babylonians-hanging-gardens",
       "foley-artists-junk-stages",
@@ -278,7 +275,7 @@
     "subtitle": "Our slippery grip on time.",
     "icon": "clock.arrow.circlepath",
     "factIds": [
-      "light-years-looking-back-time",
+      "light-years-early-universe",
       "mesopotamia-sixty-minute-hour",
       "calendars-not-one-system",
       "religious-calendars-different-years",
@@ -293,10 +290,10 @@
     "factIds": [
       "internet-arpanet-first-connection",
       "barcode-upc-adoption",
-      "space-race-gagarin",
       "novels-long-prose-worlds",
       "coins-ancient-origins",
-      "world-records-pub-argument"
+      "world-records-pub-argument",
+      "air-conditioning-printing-plant"
     ]
   },
   {
@@ -307,9 +304,10 @@
     "factIds": [
       "shackleton-endurance-survival",
       "magellan-strait",
-      "vikings-before-columbus",
       "constellations-astronauts-navigation",
-      "oceans-cover-most-earth"
+      "oceans-cover-most-earth",
+      "phoenicians-ships",
+      "age-of-exploration-new-world"
     ]
   },
   {
@@ -336,7 +334,8 @@
       "mario-landlord-name",
       "vaccines-jenner-smallpox",
       "zippers-name-from-overshoes",
-      "chocolate-food-of-the-gods"
+      "pasta-vermicelli-little-worms",
+      "branding-memory-tool"
     ]
   },
   {

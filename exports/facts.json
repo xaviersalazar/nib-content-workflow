@@ -278,7 +278,7 @@
       "exoplanets-strange-worlds",
       "asteroids-older-than-earth",
       "supernovae-create-elements",
-      "white-dwarfs-sun-earth-size"
+      "red-giants-sun-future"
     ],
     "themes": [
       "stars-and-cosmos"
@@ -330,8 +330,8 @@
     "relatedFactIds": [
       "comets-shoemaker-jupiter",
       "comets-oumuamua-first",
-      "meteor-showers-no-meteorites",
       "oort-cloud-comets-before-humans",
+      "meteor-showers-no-meteorites",
       "asteroids-older-than-earth"
     ],
     "themes": [
@@ -389,8 +389,8 @@
       "comets-million-mile-tails",
       "comets-shoemaker-jupiter",
       "uranus-discovered-by-telescope",
+      "nebulae-eyeball",
       "meteor-showers-no-meteorites",
-      "oort-cloud-comets-before-humans",
       "mars-ai-driving"
     ],
     "themes": [
@@ -461,7 +461,7 @@
   {
     "id": "dwarf-planets-definition-created-2006",
     "headline": "The Official Planet Definition Didn't Exist Until 2006",
-    "body": "It sounds odd, but for most of history there was no exact definition of a planet. That changed in 2006, when astronomers finally set official rules. The same rules created the dwarf planet group and changed how we sort worlds. It's proof that even a familiar word like “planet” can change as science learns more.",
+    "body": "It sounds odd, but for most of history there was no exact definition of a planet. That changed in 2006, when astronomers finally set official rules. Those rules created a brand-new category: the dwarf planets. A single vote rewrote what counts as a world.",
     "summary": "For most of history, nobody had agreed on what 'planet' even meant.",
     "categoryId": "space",
     "topic": "Dwarf Planets",
@@ -472,14 +472,14 @@
       "astronomy",
       "planets"
     ],
-    "readTimeSeconds": 36,
+    "readTimeSeconds": 32,
     "featured": false,
     "relatedFactIds": [
       "dwarf-planets-hundreds-more",
       "dwarf-planets-haumea-fast-spin",
       "venus-backwards-rotation",
-      "jupiter-thousand-earths",
-      "uranus-sideways-planet"
+      "uranus-sideways-planet",
+      "jupiter-thousand-earths"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -838,7 +838,7 @@
   {
     "id": "solar-system-only-24-moonwalkers",
     "headline": "Only 24 Humans Have Ever Traveled to the Moon",
-    "body": "Only 24 people have ever traveled to the Moon, all during NASA's Apollo missions between 1968 and 1972. Of those, just 12 actually walked on the surface. Since the last trip in 1972, no one has gone back — or even left low Earth orbit. It's still one of humanity's greatest achievements.",
+    "body": "Only 24 people have ever traveled to the Moon, all during NASA's Apollo missions between 1968 and 1972. Of those, just 12 actually walked on the surface. Since the last trip in 1972, no one has gone back — or even left low Earth orbit. Twelve pairs of bootprints, and no new ones since.",
     "summary": "And just 12 of them actually walked on it.",
     "categoryId": "space",
     "topic": "Solar System",
@@ -849,7 +849,7 @@
       "apollo",
       "history"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 36,
     "featured": false,
     "relatedFactIds": [
       "solar-system-life-only-earth",
@@ -1171,7 +1171,8 @@
       "asteroids-less-mass-than-moon",
       "asteroids-older-than-earth",
       "time-relativity-observer-dependent",
-      "age-of-exploration-circumnavigation"
+      "motion-velocity-has-direction",
+      "magnetism-moving-charges"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -1526,7 +1527,7 @@
   {
     "id": "constellations-astronauts-navigation",
     "headline": "NASA Astronauts Still Train to Navigate by the Stars",
-    "body": "Even with high-tech computers, astronauts still learn to navigate by the stars. It's a backup in case the electronic systems fail during a mission. By spotting certain stars and constellations, they can tell which way they're facing in space. Sailors and explorers used the same trick for centuries. Ancient sky knowledge still comes in handy in the age of spaceflight.",
+    "body": "Even with high-tech computers, astronauts still learn to navigate by the stars. It's a backup in case the electronic systems fail during a mission. By spotting certain stars and constellations, they can tell which way they're facing in space. Sailors and explorers used the same trick for centuries. The same trick that guided ancient sailors is still a spaceflight backup.",
     "summary": "If the computers fail, the stars are the backup plan.",
     "categoryId": "astronomy",
     "topic": "Constellations",
@@ -1536,7 +1537,7 @@
       "astronauts",
       "navigation"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 40,
     "featured": false,
     "relatedFactIds": [
       "constellations-stars-not-connected",
@@ -1554,37 +1555,38 @@
   },
   {
     "id": "nebulae-eyeball",
-    "headline": "One Nebula Looks Like a Giant Eyeball",
-    "body": "The Helix Nebula is nicknamed “The Eye of God” because it looks like a giant eye staring out of space. It formed when a dying star puffed off its outer layers. The colorful rings in photos are glowing gas lit up by the hot remains of the star at the center. Its strange shape makes it one of the most recognizable objects in the sky.",
-    "summary": "It's nicknamed 'The Eye of God' for a reason.",
+    "headline": "A Nebula Looks Solid but Is Emptier Than Any Vacuum on Earth",
+    "body": "In photos, a nebula looks like a dense, glowing cloud you could scoop up in your hands. The truth is the opposite. A nebula is one of the emptiest places imaginable; even its thickest regions hold far fewer particles than the best vacuum ever created in a lab on Earth. It only looks solid because it is so enormous, stretching across many light-years, that all that wispy gas adds up along your line of sight. Fly through one and you would barely notice it.",
+    "summary": "Those glowing space clouds look thick enough to touch, yet a nebula is far emptier than the best vacuum scientists can make in a lab.",
     "categoryId": "astronomy",
     "topic": "Nebulae",
     "tags": [
-      "astronomy",
-      "helix-nebula",
+      "nebulae",
       "space",
-      "nebulae"
+      "vacuum",
+      "astronomy",
+      "interstellar"
     ],
-    "readTimeSeconds": 33,
+    "readTimeSeconds": 60,
     "featured": false,
     "relatedFactIds": [
-      "red-giants-cooler-when-bigger",
       "cosmic-microwave-background-oldest-light",
+      "red-giants-cooler-when-bigger",
+      "comets-oumuamua-first",
       "quasars-angle-changes-view",
-      "webb-spf-million",
-      "milky-way-no-photo"
+      "webb-spf-million"
     ],
     "themes": [
       "stars-and-cosmos",
       "camouflage-and-mimicry",
-      "color-and-light",
+      "flight-and-aviation",
       "bioluminescence-and-glow"
     ]
   },
   {
     "id": "supernovae-outshine-galaxies",
     "headline": "Some Supernovas Outshine Entire Galaxies",
-    "body": "When a giant star explodes as a supernova, it can briefly shine brighter than every star in its galaxy combined. The blast releases so much energy it can be seen across the universe. The dazzling light may last only weeks, but the wreckage spreads for millions of years. Astronomers study supernovas to learn how stars live and die. They're some of the most spectacular events in the universe.",
+    "body": "When a giant star explodes as a supernova, it can briefly shine brighter than every star in its galaxy combined. The blast releases so much energy it can be seen across the universe. The dazzling light may last only weeks, but the wreckage spreads for millions of years. Astronomers study supernovas to learn how stars live and die. So for a few weeks, the death of one star can outshine everything around it.",
     "summary": "For a few weeks, one exploding star outshines billions of others.",
     "categoryId": "astronomy",
     "topic": "Supernovas",
@@ -1594,7 +1596,7 @@
       "stars",
       "galaxy"
     ],
-    "readTimeSeconds": 34,
+    "readTimeSeconds": 44,
     "featured": false,
     "relatedFactIds": [
       "supernovae-visible-daytime",
@@ -1655,9 +1657,9 @@
     "relatedFactIds": [
       "supernovae-outshine-galaxies",
       "supernovae-create-elements",
-      "light-years-early-universe",
       "white-dwarfs-no-black-dwarfs-yet",
-      "webb-13-billion-years"
+      "milky-way-no-photo",
+      "light-years-early-universe"
     ],
     "themes": [
       "stars-and-cosmos"
@@ -1683,7 +1685,8 @@
       "galaxy-black-hole-centers",
       "light-years-early-universe",
       "solar-system-galactic-year",
-      "exoplanets-more-than-stars"
+      "exoplanets-more-than-stars",
+      "supernovae-visible-daytime"
     ],
     "themes": [
       "stars-and-cosmos"
@@ -1721,8 +1724,8 @@
   },
   {
     "id": "light-years-early-universe",
-    "headline": "Some Galaxies Are Seen Near the Dawn of Time",
-    "body": "Powerful telescopes like Hubble and Webb can catch light that has traveled for more than 13 billion years. That light comes from galaxies that formed just a few hundred million years after the Big Bang. So scientists are basically seeing the universe as a baby. These views help them learn how the first stars and galaxies appeared. It's one of science's most amazing feats.",
+    "headline": "Our Best Telescopes Look Back to the Universe's Infancy",
+    "body": "Powerful telescopes like Hubble and Webb can catch light that has traveled for more than 13 billion years. That light comes from galaxies that formed just a few hundred million years after the Big Bang. So scientists are basically seeing the universe as a baby. These views help them learn how the first stars and galaxies appeared. In effect, the telescope is a time machine pointed at the newborn cosmos.",
     "summary": "Their light has been traveling for over 13 billion years.",
     "categoryId": "astronomy",
     "topic": "Light Years",
@@ -1732,14 +1735,14 @@
       "galaxy",
       "time"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 44,
     "featured": false,
     "relatedFactIds": [
-      "webb-13-billion-years",
       "cosmic-microwave-background-oldest-light",
-      "solar-system-galactic-year",
-      "hinduism-karma-samsara-moksha",
       "supernovae-outshine-galaxies",
+      "solar-system-galactic-year",
+      "time-atomic-clocks-precision",
+      "white-dwarfs-no-black-dwarfs-yet",
       "jupiter-shortest-day"
     ],
     "themes": [
@@ -1748,7 +1751,7 @@
   },
   {
     "id": "hubble-repaired-by-astronauts",
-    "headline": "Astronauts Repaired a Telescope in Space",
+    "headline": "Hubble Is the Only Telescope Astronauts Flew Up to Repair",
     "body": "Unlike most space telescopes, Hubble was built to be fixed by astronauts. Between 1993 and 2009, NASA sent several crews to repair and upgrade it while it orbited Earth. They fixed problems, added new instruments, and kept it running far longer than planned. These were some of the most daring missions in spaceflight history. Thanks to them, Hubble is still going strong.",
     "summary": "Crews flew up five times to fix and upgrade it in orbit.",
     "categoryId": "astronomy",
@@ -1759,7 +1762,7 @@
       "astronauts",
       "nasa"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 42,
     "featured": false,
     "relatedFactIds": [
       "hubble-discovered-dark-energy",
@@ -1806,7 +1809,7 @@
   {
     "id": "webb-origami",
     "headline": "Webb Had to Fold Like Origami",
-    "body": "The James Webb Space Telescope was too big to fit inside its rocket fully open. So engineers designed it to fold up like origami and then unfold itself once in space. The process used hundreds of moving parts and was one of the trickiest things ever attempted. Over several weeks, Webb slowly opened into its full shape. It pulled off a stunning transformation far from Earth.",
+    "body": "The James Webb Space Telescope was too big to fit inside its rocket fully open. So engineers designed it to fold up like origami and then unfold itself once in space. The process used hundreds of moving parts and was one of the trickiest things ever attempted. Over several weeks, Webb slowly opened into its full shape. Hundreds of moving parts had to unfold flawlessly, with no way to fix a mistake.",
     "summary": "It was too big for its rocket, so it unfolded itself in space.",
     "categoryId": "astronomy",
     "topic": "James Webb Space Telescope",
@@ -1816,18 +1819,16 @@
       "telescope",
       "engineering"
     ],
-    "readTimeSeconds": 34,
+    "readTimeSeconds": 46,
     "featured": false,
     "relatedFactIds": [
       "webb-spf-million",
-      "webb-13-billion-years",
       "light-years-early-universe",
+      "hubble-repaired-by-astronauts",
       "uranus-discovered-by-telescope",
-      "hubble-repaired-by-astronauts"
+      "milky-way-andromeda-collision"
     ],
-    "themes": [
-      "transformation-metamorphosis"
-    ]
+    "themes": []
   },
   {
     "id": "webb-spf-million",
@@ -1845,43 +1846,16 @@
     "readTimeSeconds": 35,
     "featured": false,
     "relatedFactIds": [
-      "webb-13-billion-years",
       "webb-origami",
       "red-giants-cooler-when-bigger",
       "quasars-angle-changes-view",
-      "cosmic-microwave-background-oldest-light"
+      "cosmic-microwave-background-oldest-light",
+      "light-years-early-universe"
     ],
     "themes": [
       "stars-and-cosmos",
       "bioluminescence-and-glow",
       "music-and-sound"
-    ]
-  },
-  {
-    "id": "webb-13-billion-years",
-    "headline": "Webb Can See More Than 13 Billion Years Into the Past",
-    "body": "Light takes time to travel, so looking far away means looking far back in time. Webb can catch light that has traveled more than 13 billion years. That light comes from a period shortly after the Big Bang. By studying it, scientists hope to learn how the first stars and galaxies formed. Webb is letting us read the universe's earliest chapters.",
-    "summary": "It catches light that left soon after the Big Bang.",
-    "categoryId": "astronomy",
-    "topic": "James Webb Space Telescope",
-    "tags": [
-      "astronomy",
-      "webb",
-      "big-bang",
-      "galaxy"
-    ],
-    "readTimeSeconds": 35,
-    "featured": false,
-    "relatedFactIds": [
-      "webb-spf-million",
-      "webb-origami",
-      "light-years-early-universe",
-      "solar-system-galactic-year",
-      "blind-spots-sharp-fovea",
-      "supernovae-visible-daytime"
-    ],
-    "themes": [
-      "stars-and-cosmos"
     ]
   },
   {
@@ -2022,8 +1996,7 @@
       "white-dwarfs-sirius-hidden-star",
       "pulsars-sugar-cube-mountain",
       "moon-ganymede-biggest",
-      "states-of-matter-plasma-fourth",
-      "exoplanets-rogue-planets"
+      "states-of-matter-plasma-fourth"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -2164,9 +2137,9 @@
       "cosmic-microwave-background-tiny-temperature-differences",
       "cosmic-microwave-background-atoms-five-percent",
       "light-years-early-universe",
-      "webb-13-billion-years",
       "quasars-angle-changes-view",
-      "nebulae-eyeball"
+      "red-giants-cooler-when-bigger",
+      "webb-spf-million"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -2195,7 +2168,7 @@
       "cosmic-microwave-background-atoms-five-percent",
       "light-years-early-universe",
       "solar-system-galactic-year",
-      "webb-13-billion-years"
+      "supernovae-outshine-galaxies"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -2251,43 +2224,16 @@
     "readTimeSeconds": 35,
     "featured": false,
     "relatedFactIds": [
-      "roman-empire-roads-survive",
       "ancient-india-chess",
       "ancient-greece-olympics",
       "american-revolution-civil-war",
-      "industrial-revolution-child-labor"
+      "industrial-revolution-child-labor",
+      "golden-age-of-piracy-black-bart-400-ships"
     ],
     "themes": [
       "invention-and-breakthrough",
       "games-and-play",
       "war-and-conflict"
-    ]
-  },
-  {
-    "id": "roman-empire-roads-survive",
-    "headline": "You Can Still Walk on 2,000-Year-Old Roman Roads",
-    "body": "The Romans built a huge network of roads linking cities across their empire. Armies, traders, and travelers could move quickly over long distances. Roman engineers built some roads so well that parts are still standing — and walkable — today, 2,000 years later. The roads helped tie the empire together and boost trade. They're one of the great engineering feats of the ancient world.",
-    "summary": "Some were built so well you can still walk on them today.",
-    "categoryId": "history",
-    "topic": "Roman Empire",
-    "tags": [
-      "history",
-      "roman-empire",
-      "roads",
-      "engineering"
-    ],
-    "readTimeSeconds": 35,
-    "featured": false,
-    "relatedFactIds": [
-      "roman-empire-gladiators-etruscan",
-      "french-revolution-american-war",
-      "mongol-empire-largest-contiguous",
-      "ancient-persia-royal-road",
-      "roads-military-first",
-      "vikings-women-rights"
-    ],
-    "themes": [
-      "money-trade-and-value"
     ]
   },
   {
@@ -2310,7 +2256,7 @@
       "french-revolution-american-war",
       "air-conditioning-comfort-later",
       "bluetooth-direct-device-talk",
-      "roman-empire-roads-survive"
+      "mongol-empire-largest-contiguous"
     ],
     "themes": [
       "money-trade-and-value",
@@ -2440,8 +2386,8 @@
       "middle-ages-universities",
       "knights-training-age-seven",
       "monsoons-agriculture-lifeline",
-      "decaf-caffeine-reused",
-      "aztec-chocolate"
+      "aztec-chocolate",
+      "cities-industrial-growth"
     ],
     "themes": [
       "coffee-and-tea"
@@ -2463,46 +2409,16 @@
     "readTimeSeconds": 37,
     "featured": false,
     "relatedFactIds": [
-      "age-of-exploration-circumnavigation",
       "space-race-sputnik",
       "titanic-four-compartments",
       "maps-city-memory",
       "dragons-east-west-difference",
+      "titanic-warning-never-reached-bridge",
       "maps-preserve-worldviews"
     ],
     "themes": [
       "exploration-and-navigation",
       "disaster-and-catastrophe"
-    ]
-  },
-  {
-    "id": "age-of-exploration-circumnavigation",
-    "headline": "Magellan Died Before His Voyage Circled the World",
-    "body": "In 1519, Ferdinand Magellan left Spain with five ships to find a western route to Asia. It became the first voyage around the world. The trip was brutal: storms, starvation, and fighting killed most of the crew, and Magellan himself died in the Philippines in 1521. Yet one battered ship, led by Juan Sebastián Elcano, completed the loop and limped home in 1522. It proved the oceans were connected and the planet could be circled.",
-    "summary": "Magellan died midway — but one ship finished the loop.",
-    "categoryId": "history",
-    "topic": "Age of Exploration",
-    "tags": [
-      "history",
-      "age-of-exploration",
-      "magellan",
-      "earth"
-    ],
-    "readTimeSeconds": 41,
-    "featured": false,
-    "relatedFactIds": [
-      "age-of-exploration-new-world",
-      "ancient-china-wu-zetian",
-      "vikings-women-rights",
-      "magnetism-moving-charges",
-      "magellan-pacific-name",
-      "meteor-showers-tons-fall-daily"
-    ],
-    "themes": [
-      "self-sacrifice",
-      "stars-and-cosmos",
-      "energy-and-power",
-      "exploration-and-navigation"
     ]
   },
   {
@@ -2549,8 +2465,8 @@
     "featured": false,
     "relatedFactIds": [
       "renaissance-constantinople",
-      "ancient-india-zero",
       "industrial-revolution-illegal-export",
+      "middle-ages-universities",
       "golden-ratio-euclid-origin",
       "black-absence-of-light",
       "generative-ai-new-content-prompts"
@@ -2582,7 +2498,7 @@
       "golden-age-of-piracy-black-bart-400-ships",
       "privateers-blurred-line",
       "pigpen-civil-war-prisoners",
-      "french-revolution-american-war"
+      "ancient-india-chess"
     ],
     "themes": [
       "war-and-conflict"
@@ -2662,7 +2578,7 @@
     "relatedFactIds": [
       "industrial-revolution-child-labor",
       "ancient-china-gunpowder",
-      "golden-age-of-piracy-privateering-to-piracy",
+      "roman-empire-gladiators-etruscan",
       "windshield-wipers-snowy-trolley",
       "writing-systems-represent-language",
       "hillforts-ramparts-ditches"
@@ -2786,59 +2702,6 @@
     ]
   },
   {
-    "id": "ancient-india-sewage-systems",
-    "headline": "Some Indus Cities Had Sewage Systems",
-    "body": "The ancient cities of the Indus Valley had sanitation so advanced it wouldn't be matched for thousands of years. Homes in places like Mohenjo-daro had private bathrooms and drains that carried wastewater into covered sewers beneath the streets. Many even had wells and bathing areas. This careful handling of water and waste was remarkably modern. It's proof that some ancient peoples solved everyday problems with surprising sophistication.",
-    "summary": "Homes had private bathrooms 4,000 years ago.",
-    "categoryId": "history",
-    "topic": "Ancient India",
-    "tags": [
-      "history",
-      "ancient-india",
-      "indus-valley",
-      "sewage"
-    ],
-    "readTimeSeconds": 38,
-    "featured": false,
-    "relatedFactIds": [
-      "ancient-india-zero",
-      "ancient-india-chess",
-      "ancient-greece-olympics",
-      "titanic-lifeboat-capacity-gap",
-      "silk-road-black-death"
-    ],
-    "themes": []
-  },
-  {
-    "id": "ancient-india-zero",
-    "headline": "India Turned Zero From a Placeholder Into a Number",
-    "body": "One of the most powerful ideas in math — the number zero — took shape in ancient India. Other cultures used placeholders, but Indian mathematicians treated zero as a real number you could calculate with, and scholars like Brahmagupta wrote rules for using it. That made it possible to write huge numbers and do complex arithmetic. The idea spread west through the Islamic world into Europe. Modern math, computers, and money would be unthinkable without it.",
-    "summary": "Treating 'nothing' as a number rewired all of math.",
-    "categoryId": "history",
-    "topic": "Ancient India",
-    "tags": [
-      "history",
-      "ancient-india",
-      "zero",
-      "mathematics"
-    ],
-    "readTimeSeconds": 38,
-    "featured": false,
-    "relatedFactIds": [
-      "ancient-india-chess",
-      "ancient-india-sewage-systems",
-      "silk-road-not-one-road",
-      "zero-cultural-journey",
-      "maya-zero",
-      "zero-nothing-and-number"
-    ],
-    "themes": [
-      "numbers-and-mathematics",
-      "money-trade-and-value",
-      "computing-and-web"
-    ]
-  },
-  {
     "id": "ancient-india-chess",
     "headline": "Chess Pieces Started as an Indian Army's Four Divisions",
     "body": "Chess can be traced back to ancient India, where an early version called chaturanga was played over 1,500 years ago. Its pieces mirrored the four parts of an Indian army — infantry, cavalry, elephants, and chariots — which became today's pawns, knights, bishops, and rooks. From India the game spread to Persia, the Islamic world, and Europe, changing along the way. Each culture added its own twists. A game born in India is now played all over the world.",
@@ -2854,12 +2717,12 @@
     "readTimeSeconds": 41,
     "featured": false,
     "relatedFactIds": [
-      "ancient-india-zero",
-      "ancient-india-sewage-systems",
       "ancient-greece-olympics",
+      "roman-empire-gladiators-etruscan",
       "chess-indian-war-game",
       "reinforcement-learning-reward-signal",
-      "roman-empire-gladiators-etruscan"
+      "american-revolution-civil-war",
+      "chess-queen-power-upgrade"
     ],
     "themes": [
       "games-and-play",
@@ -2884,10 +2747,10 @@
     "relatedFactIds": [
       "mongol-empire-messenger-network",
       "mongol-empire-small-armies",
-      "roman-empire-roads-survive",
+      "printing-press-lawsuit",
       "ancient-persia-cyrus-great",
       "salt-created-trade-routes",
-      "printing-press-lawsuit"
+      "french-revolution-american-war"
     ],
     "themes": [
       "record-extremes",
@@ -2997,7 +2860,7 @@
     "relatedFactIds": [
       "silk-road-not-one-road",
       "silk-road-black-death",
-      "roman-empire-roads-survive",
+      "french-revolution-american-war",
       "religion-symbols-matter",
       "buddhism-spread-across-asia",
       "buddhism-eightfold-path"
@@ -3027,9 +2890,9 @@
     "relatedFactIds": [
       "silk-road-not-one-road",
       "silk-road-buddhism",
-      "roman-empire-roads-survive",
+      "french-revolution-american-war",
       "great-fire-london-old-foundations",
-      "french-revolution-american-war"
+      "ancient-persia-royal-road"
     ],
     "themes": [
       "money-trade-and-value",
@@ -3053,8 +2916,8 @@
     "featured": false,
     "relatedFactIds": [
       "french-revolution-bastille",
-      "roman-empire-roads-survive",
       "american-revolution-civil-war",
+      "mongol-empire-largest-contiguous",
       "privateers-blurred-line",
       "calendars-reform",
       "vikings-women-rights"
@@ -3305,8 +3168,8 @@
       "salem-witch-trials-apology-centuries-later",
       "salem-witch-trials-accusations-spread",
       "ancient-china-wu-zetian",
-      "space-race-armstrong-aldrin",
-      "renaissance-constantinople"
+      "renaissance-constantinople",
+      "space-race-armstrong-aldrin"
     ],
     "themes": [
       "energy-and-power",
@@ -3494,43 +3357,15 @@
     "readTimeSeconds": 45,
     "featured": false,
     "relatedFactIds": [
-      "golden-age-of-piracy-privateering-to-piracy",
       "golden-age-of-piracy-black-bart-400-ships",
       "renaissance-constantinople",
+      "printing-press-surviving-bibles",
       "comics-newspaper-roots",
-      "printing-press-surviving-bibles"
+      "cold-war-orwell"
     ],
     "themes": [
       "deception-and-hoax",
       "storytelling-and-narrative"
-    ]
-  },
-  {
-    "id": "golden-age-of-piracy-privateering-to-piracy",
-    "headline": "Many Pirates Started Out With a Government License",
-    "body": "Some pirates came out of a legal gray area at sea. During wartime, British captains could receive a letter of marque allowing them to attack enemy shipping — a practice called privateering. But once captains saw how profitable captured cargo could be, those wartime habits could slip into peacetime piracy. The line between sanctioned raiding and outright piracy was thin.",
-    "summary": "Some sea robbers began with permission to attack ships, then crossed into piracy.",
-    "categoryId": "history",
-    "topic": "Golden Age of Piracy",
-    "tags": [
-      "history",
-      "pirates",
-      "privateering",
-      "caribbean",
-      "maritime-history"
-    ],
-    "readTimeSeconds": 42,
-    "featured": false,
-    "relatedFactIds": [
-      "golden-age-of-piracy-exaggerated-news",
-      "golden-age-of-piracy-black-bart-400-ships",
-      "french-revolution-american-war",
-      "privateers-legal-raiders",
-      "roman-empire-roads-survive"
-    ],
-    "themes": [
-      "money-trade-and-value",
-      "psychology-and-behavior"
     ]
   },
   {
@@ -3550,12 +3385,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "golden-age-of-piracy-privateering-to-piracy",
       "golden-age-of-piracy-exaggerated-news",
       "american-revolution-civil-war",
+      "american-revolution-french-navy",
       "pirate-codes-articles",
-      "privateers-blurred-line",
-      "american-revolution-french-navy"
+      "privateers-blurred-line"
     ],
     "themes": [
       "war-and-conflict"
@@ -3607,10 +3441,10 @@
     "relatedFactIds": [
       "ancient-egypt-cats",
       "ancient-egypt-king-tut",
-      "babylonians-astronomy",
+      "hittites-kadesh-indecisive",
       "pyramids-sloping-sides",
       "woolly-mammoths-late-islands",
-      "honey-egyptian-mummies"
+      "pyramids-global-form"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -3688,7 +3522,7 @@
       "maya-descendants",
       "mesopotamia-sixty-minute-hour",
       "stars-one-septillion",
-      "ancient-india-zero",
+      "zero-cultural-journey",
       "zero-nothing-and-number"
     ],
     "themes": [
@@ -3700,9 +3534,9 @@
   },
   {
     "id": "maya-astronomy",
-    "headline": "The Maya Predicted Eclipses Centuries Ahead",
-    "body": "The ancient Maya were brilliant astronomers who watched the sky with incredible care. Without any telescopes, they tracked the Sun, Moon, planets, and stars. Their measurements of Venus were especially accurate, and they could predict eclipses far into the future. They built this knowledge into their calendars, religion, and even their buildings, some lined up with the Sun on key days. It reveals a civilization deeply connected to the cosmos.",
-    "summary": "No telescopes — yet they tracked Venus with stunning accuracy.",
+    "headline": "The Maya Tracked Venus for Centuries Without a Telescope",
+    "body": "The ancient Maya were brilliant astronomers who watched the sky with extraordinary care. Without any telescopes, they charted the movements of Venus so precisely that they could predict where it would appear years in advance. They wove this knowledge into their calendars, religion, and architecture, aligning some buildings with the sky on key days. They could forecast eclipses far into the future too. Their patient sky-watching reveals a civilization deeply connected to the cosmos.",
+    "summary": "Maya skywatchers charted Venus so precisely their predictions held years in advance — with no telescope.",
     "categoryId": "ancient-civilizations",
     "topic": "Maya Civilization",
     "tags": [
@@ -3711,7 +3545,7 @@
       "moon",
       "venus"
     ],
-    "readTimeSeconds": 40,
+    "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
       "maya-zero",
@@ -3724,6 +3558,7 @@
     "themes": [
       "stars-and-cosmos",
       "timekeeping",
+      "exploration-and-navigation",
       "architecture-and-structures"
     ]
   },
@@ -3803,7 +3638,7 @@
       "aztec-chocolate",
       "maya-descendants",
       "axolotls-aztec-god-name",
-      "coffee-origins-discovery-mystery",
+      "king-arthur-history-uncertain",
       "legends-place-person-history"
     ],
     "themes": [
@@ -3861,7 +3696,7 @@
       "inca-quipu",
       "sumerians-wheel",
       "roads-military-first",
-      "roman-empire-roads-survive",
+      "roads-drainage-engineering",
       "roads-roman-network"
     ],
     "themes": [
@@ -3886,8 +3721,8 @@
     "readTimeSeconds": 39,
     "featured": false,
     "relatedFactIds": [
-      "inca-road-network",
       "inca-suspension-bridges",
+      "inca-road-network",
       "sumerians-cuneiform",
       "translation-printing-press-demand",
       "mesopotamia-sixty-minute-hour"
@@ -3945,8 +3780,8 @@
     "relatedFactIds": [
       "maya-zero",
       "babylonians-hanging-gardens",
-      "timekeeping-mechanical-clocks",
       "time-atomic-clocks-precision",
+      "timekeeping-mechanical-clocks",
       "inca-quipu",
       "circadian-rhythm-24-hour"
     ],
@@ -4116,7 +3951,7 @@
       "phoenicians-purple-dye",
       "ancient-persia-royal-road",
       "babylonians-hammurabi",
-      "ancient-persia-persepolis"
+      "maya-astronomy"
     ],
     "themes": [
       "money-trade-and-value",
@@ -4230,8 +4065,8 @@
       "ancient-persia-cyrus-great",
       "babylonians-hammurabi",
       "trade-comparative-advantage",
-      "roman-empire-roads-survive",
-      "phoenicians-ships"
+      "salt-created-trade-routes",
+      "silk-road-black-death"
     ],
     "themes": [
       "money-trade-and-value"
@@ -4451,8 +4286,8 @@
       "ancient-rome-conquered-citizenship",
       "ancient-rome-small-town-empire",
       "carthage-rome-burned-city",
-      "roman-empire-roads-survive",
-      "hittites-iron-age"
+      "hittites-iron-age",
+      "ancient-persia-royal-road"
     ],
     "themes": []
   },
@@ -4475,8 +4310,8 @@
     "relatedFactIds": [
       "olmecs-oldest-americas-writing",
       "babylonians-hammurabi",
-      "hittites-raided-babylon",
       "babylonians-hanging-gardens",
+      "hittites-raided-babylon",
       "hittites-kadesh-indecisive"
     ],
     "themes": []
@@ -4845,7 +4680,7 @@
   {
     "id": "penguins-winter-breeding",
     "headline": "Emperor Penguins Raise Their Young During Winter",
-    "body": "Emperor penguins are one of the only animals that raise their young in the depths of the Antarctic winter — one of the coldest seasons on Earth. While most creatures flee, these penguins gather to breed as temperatures plunge far below freezing and fierce winds howl. The timing means their chicks are ready to feed themselves once food is plentiful in summer. To survive, the adults huddle together and endure incredible hardship. It makes the emperor penguin a true symbol of endurance.",
+    "body": "Emperor penguins are one of the only animals that raise their young in the depths of the Antarctic winter — one of the coldest seasons on Earth. While most creatures flee, these penguins gather to breed as temperatures plunge far below freezing and fierce winds howl. The timing means their chicks are ready to feed themselves once food is plentiful in summer. To survive, the adults huddle together and endure incredible hardship. So the chicks grow up just in time for summer's feast — a payoff worth a winter of suffering.",
     "summary": "Most animals flee the Antarctic winter — these birds breed in it.",
     "categoryId": "animals",
     "topic": "Penguins",
@@ -4855,14 +4690,14 @@
       "antarctica",
       "birds"
     ],
-    "readTimeSeconds": 41,
+    "readTimeSeconds": 55,
     "featured": false,
     "relatedFactIds": [
       "penguins-fathers-incubate",
       "penguins-creches",
-      "ravens-solve-problems-together",
+      "elephants-twenty-two-month-pregnancy",
       "deserts-defined-by-dryness",
-      "shackleton-endurance-wreck"
+      "hail-different-from-sleet"
     ],
     "themes": [
       "record-extremes",
@@ -4919,8 +4754,8 @@
       "giraffes-spread-legs-drink",
       "giraffes-other-animals-benefit",
       "platypus-chews-with-gravel",
-      "lungs-gas-exchange",
-      "whales-are-mammals"
+      "whales-are-mammals",
+      "lungs-oxygen-enters-blood"
     ],
     "themes": [
       "human-body-quirks",
@@ -4946,8 +4781,8 @@
       "giraffes-tallest-land-animal",
       "giraffes-other-animals-benefit",
       "sloths-bathroom-weekly",
-      "habits-single-experience",
       "sleepwalking-childhood-common",
+      "decision-making-environment-shapes",
       "elephants-footprint-ecosystems"
     ],
     "themes": [
@@ -5187,8 +5022,8 @@
       "sloths-algae-camouflage",
       "giraffes-spread-legs-drink",
       "giant-sloths-claws-leaves",
-      "laughter-contagious",
-      "sharks-older-than-dinosaurs"
+      "sharks-older-than-dinosaurs",
+      "pareidolia-survival-skill"
     ],
     "themes": [
       "energy-and-power",
@@ -5243,7 +5078,7 @@
       "sloths-algae-camouflage",
       "giraffes-spread-legs-drink",
       "sleepwalking-childhood-common",
-      "habits-single-experience",
+      "baobab-water-trunk",
       "octopus-mothers-stop-eating"
     ],
     "themes": [
@@ -5588,9 +5423,8 @@
       "ravens-five-foot-nests",
       "ravens-midair-catch",
       "giraffes-spread-legs-drink",
-      "artificial-intelligence-wasp-example",
-      "glass-buildings-postwar-energy",
-      "bees-honey-from-nectar"
+      "bees-honey-from-nectar",
+      "glass-buildings-postwar-energy"
     ],
     "themes": [
       "symbiosis-and-cooperation",
@@ -5620,6 +5454,7 @@
       "mantis-shrimp-complex-eyes",
       "elephants-twenty-two-month-pregnancy",
       "waves-disturbance-travels",
+      "jellyfish-long-tentacles",
       "giant-squid-sperm-whale-scars"
     ],
     "themes": [
@@ -5677,8 +5512,8 @@
       "mantis-shrimp-bullet-fast-punch",
       "mantis-shrimp-bubble-shockwave",
       "cheetahs-tear-marks",
-      "trilobites-eyes-complex",
       "eyes-two-eyes-3d-vision",
+      "trilobites-eyes-complex",
       "blind-spots-optic-nerve"
     ],
     "themes": [
@@ -5688,7 +5523,7 @@
   {
     "id": "coral-reefs-largest-biological-structures",
     "headline": "Some Coral Reefs Can Be Seen From Space",
-    "body": "Coral reefs are among the largest structures built by living things on Earth. They're made by countless coral polyps working together over millions of years. Some reef systems are so big they can be seen from space. They shelter huge numbers of ocean species and support coastal communities worldwide. For something built by tiny animals, their size is astonishing.",
+    "body": "Coral reefs are among the largest structures built by living things on Earth. They're made by countless coral polyps working together over millions of years. Some reef systems are so big they can be seen from space. They shelter huge numbers of ocean species and support coastal communities worldwide. Nothing else built by living things is big enough to see from orbit.",
     "summary": "Tiny animals built structures big enough to spot from orbit.",
     "categoryId": "ocean-life",
     "topic": "Coral Reefs",
@@ -5698,14 +5533,14 @@
       "ecosystems",
       "animals"
     ],
-    "readTimeSeconds": 36,
+    "readTimeSeconds": 40,
     "featured": false,
     "relatedFactIds": [
       "coral-reefs-can-bleach",
       "whales-are-mammals",
       "ocean-currents-eight-knot-speeds",
       "elephants-footprint-ecosystems",
-      "orcas-are-dolphins"
+      "pluto-charon-size"
     ],
     "themes": [
       "record-extremes",
@@ -5731,8 +5566,8 @@
     "featured": false,
     "relatedFactIds": [
       "coral-reefs-largest-biological-structures",
+      "jellyfish-long-tentacles",
       "orcas-are-dolphins",
-      "sharks-older-than-dinosaurs",
       "cherry-blossoms-scidmore",
       "baobab-nine-species"
     ],
@@ -5742,9 +5577,9 @@
   },
   {
     "id": "sharks-electroreceptors",
-    "headline": "Sharks Can Detect Electricity",
-    "body": "Sharks have tiny organs called the ampullae of Lorenzini that let them sense electrical fields in the water. These receptors sit around the nose, eyes, and mouth. They help sharks find hidden prey and even pick up small temperature changes. It's a sense humans don't have at all. It makes sharks some of the most finely tuned hunters on Earth.",
-    "summary": "Special pores let them feel the electric buzz of hidden prey.",
+    "headline": "Sharks Can Sense the Faint Electricity of Hidden Prey",
+    "body": "Sharks have tiny organs called the ampullae of Lorenzini that let them sense electrical fields in the water. These receptors sit around the nose, eyes, and mouth. They help sharks find hidden prey and even pick up small temperature changes. It's a sense humans don't have at all. It's a sixth sense that turns even hidden, motionless prey into an easy target.",
+    "summary": "They don't need to see or smell a fish to know exactly where it's hiding.",
     "categoryId": "ocean-life",
     "topic": "Sharks",
     "tags": [
@@ -5753,12 +5588,12 @@
       "electroreception",
       "senses"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 43,
     "featured": false,
     "relatedFactIds": [
       "sharks-older-than-dinosaurs",
-      "jellyfish-long-tentacles",
       "seahorses-no-stomachs",
+      "jellyfish-long-tentacles",
       "mosquitoes-sense-breath",
       "whales-are-mammals"
     ],
@@ -5827,7 +5662,7 @@
   {
     "id": "bioluminescence-shrimp-spit-light",
     "headline": "Some Shrimp Can Spit Out Light",
-    "body": "Some deep-sea shrimp can shoot glowing material out of glands near their mouths. The burst of light may confuse a predator long enough for the shrimp to escape — like a glowing smoke bomb. It sounds like science fiction, but it's real, happening in the dark depths of the ocean. Scientists are still studying these unusual defenses. Nature has found some wildly creative uses for light.",
+    "body": "Some deep-sea shrimp can shoot glowing material out of glands near their mouths. The burst of light may confuse a predator long enough for the shrimp to escape — like a glowing smoke bomb. It sounds like science fiction, but it's real, happening in the dark depths of the ocean. Scientists are still studying these unusual defenses. In the pitch-dark depths, a burst of light can be the perfect smokescreen.",
     "summary": "A glowing 'smoke bomb' to blind predators and flee.",
     "categoryId": "ocean-life",
     "topic": "Bioluminescence",
@@ -5837,7 +5672,7 @@
       "shrimp",
       "deep-sea"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 42,
     "featured": false,
     "relatedFactIds": [
       "bioluminescence-most-deep-sea-animals-glow",
@@ -5848,9 +5683,9 @@
     ],
     "themes": [
       "bioluminescence-and-glow",
+      "music-and-sound",
       "deep-sea-and-abyss",
-      "storytelling-and-narrative",
-      "music-and-sound"
+      "storytelling-and-narrative"
     ]
   },
   {
@@ -5900,7 +5735,7 @@
       "deep-sea-underwater-lakes",
       "bioluminescence-most-deep-sea-animals-glow",
       "dragonflies-aquatic-nymphs",
-      "waterfalls-many-causes",
+      "sea-turtles-leatherbacks-10000-miles",
       "bioluminescence-shrimp-spit-light"
     ],
     "themes": [
@@ -5940,28 +5775,30 @@
   },
   {
     "id": "jellyfish-long-tentacles",
-    "headline": "Some Jellyfish Trail Tentacles Longer Than a Bus",
-    "body": "Sea nettles and other jellyfish can trail tentacles and mouth-arms 12 to 15 feet long. These drift through the water covered in stinging cells that catch prey. Tiny fish and plankton that brush against them get paralyzed and pulled toward the mouth. Despite having no brain or bones, jellyfish are surprisingly effective hunters. Their graceful look hides a capable predator.",
-    "summary": "Tentacles 12–15 feet long, lined with stinging cells.",
+    "headline": "One Jellyfish's Tentacles Can Outstretch a Blue Whale",
+    "body": "The lion's mane jellyfish is one of the longest animals on Earth. The largest one ever recorded washed ashore in 1870 with tentacles stretching about 120 feet — longer than a blue whale. Hundreds of thin, hair-like tentacles hang from its bell in flowing clusters, each lined with stinging cells. They drift like a living net, paralyzing tiny fish and plankton that brush past. Despite having no brain or bones, it is a patient, far-reaching hunter.",
+    "summary": "The lion's mane jellyfish can trail stinging tentacles longer than a blue whale — well over 100 feet.",
     "categoryId": "ocean-life",
     "topic": "Jellyfish",
     "tags": [
       "ocean-life",
       "jellyfish",
       "tentacles",
+      "lions-mane",
       "predators"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
       "jellyfish-daily-commute",
       "jellyfish-hitchhiking-crabs",
-      "anglerfish-built-in-fishing-rod",
+      "whales-largest-animal-ever",
+      "mantis-shrimp-bullet-fast-punch",
       "giant-squid-sperm-whale-scars",
-      "sharks-electroreceptors",
-      "whales-are-mammals"
+      "coral-reefs-can-bleach"
     ],
     "themes": [
+      "record-extremes",
       "human-body-quirks"
     ]
   },
@@ -5981,8 +5818,8 @@
     "readTimeSeconds": 35,
     "featured": false,
     "relatedFactIds": [
-      "jellyfish-long-tentacles",
       "jellyfish-daily-commute",
+      "jellyfish-long-tentacles",
       "bioluminescence-most-deep-sea-animals-glow",
       "sea-otters-snack-pockets",
       "sea-stars-regrow-bodies"
@@ -5994,7 +5831,7 @@
   {
     "id": "jellyfish-daily-commute",
     "headline": "Some Jellyfish Travel Thousands of Feet Every Day",
-    "body": "Some jellyfish make a daily up-and-down journey that can cover more than 3,600 feet. They rise and sink through the water as they hunt for food and respond to changing conditions. And they do it without muscles built for speed or any real navigation system. Despite their simple bodies, they pull off trips that would challenge much bigger animals. It's one of the ocean's hidden marvels.",
+    "body": "Some jellyfish make a daily up-and-down journey that can cover more than 3,600 feet. They rise and sink through the water as they hunt for food and respond to changing conditions. And they do it without muscles built for speed or any real navigation system. Despite their simple bodies, they pull off trips that would challenge much bigger animals. Not bad for an animal with no real muscles or sense of direction.",
     "summary": "They rise and sink 3,600+ feet a day — with no real muscles.",
     "categoryId": "ocean-life",
     "topic": "Jellyfish",
@@ -6004,7 +5841,7 @@
       "migration",
       "ocean"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 46,
     "featured": false,
     "relatedFactIds": [
       "jellyfish-long-tentacles",
@@ -6038,11 +5875,11 @@
     "featured": false,
     "relatedFactIds": [
       "whales-are-mammals",
+      "jellyfish-long-tentacles",
       "anglerfish-males-fuse-to-females",
-      "anglerfish-swallow-twice-size",
       "lungs-oxygen-enters-blood",
-      "jupiter-thousand-earths",
-      "lungs-gas-exchange"
+      "stegosaurus-plates-not-simple-armor",
+      "jupiter-thousand-earths"
     ],
     "themes": [
       "record-extremes",
@@ -6123,7 +5960,7 @@
     "relatedFactIds": [
       "seahorses-male-give-birth",
       "sea-stars-external-digestion",
-      "sea-stars-regrow-bodies",
+      "sharks-electroreceptors",
       "tigers-eighty-pound-meal",
       "brachiosaurus-treetop-browser",
       "hibernation-slowed-body"
@@ -6188,7 +6025,7 @@
   {
     "id": "sea-stars-regrow-bodies",
     "headline": "Sea Stars Can Regrow Entire Bodies",
-    "body": "Sea stars are famous for regrowing lost arms, but some can do something even wilder. In certain species, a piece of a cut-off arm — as long as it includes part of the central disc — can grow into a whole new animal. This helps them recover from injuries and survive predator attacks. Scientists still study how it works. Few animals have such incredible powers of renewal.",
+    "body": "Sea stars are famous for regrowing lost arms, but some can do something even wilder. In certain species, a piece of a cut-off arm — as long as it includes part of the central disc — can grow into a whole new animal. This helps them recover from injuries and survive predator attacks. Scientists still study how it works. In a way, the lost arm doesn't just heal — it becomes a second sea star.",
     "summary": "A single severed arm can grow into a whole new animal.",
     "categoryId": "ocean-life",
     "topic": "Sea Stars",
@@ -6198,18 +6035,17 @@
       "regeneration",
       "biology"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 46,
     "featured": false,
     "relatedFactIds": [
       "sea-stars-external-digestion",
       "seahorses-no-stomachs",
-      "sharks-older-than-dinosaurs",
+      "sea-turtles-lay-eggs-on-land",
       "axolotls-regrow-leg",
       "circadian-rhythm-master-clock"
     ],
     "themes": [
       "stars-and-cosmos",
-      "energy-and-power",
       "lost-and-rediscovered",
       "counterintuitive-scale"
     ]
@@ -6245,7 +6081,7 @@
   {
     "id": "ocean-currents-eight-knot-speeds",
     "headline": "Some Tidal Currents Can Move Faster Than a Sprinter",
-    "body": "In some spots, powerful tidal currents can top eight knots — faster than many people can sprint. These rushes are strongest near coastlines and narrow passages where water gets squeezed through tight spaces. Currents like these can seriously affect boats and marine life. The ocean can move much faster than most people realize.",
+    "body": "In some spots, powerful tidal currents can top eight knots — faster than many people can sprint. These rushes are strongest near coastlines and narrow passages where water gets squeezed through tight spaces. Currents like these can seriously affect boats and marine life. Where the sea gets funneled through a narrow gap, it can outrun a sprinting human.",
     "summary": "Some tides rush faster than a person can run.",
     "categoryId": "ocean-life",
     "topic": "Ocean Currents",
@@ -6255,7 +6091,7 @@
       "speed",
       "tides"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 38,
     "featured": false,
     "relatedFactIds": [
       "ocean-currents-warm-norway",
@@ -6272,9 +6108,9 @@
   },
   {
     "id": "ocean-currents-warm-norway",
-    "headline": "Norway Has Milder Winters Than Expected Because of Ocean Currents",
-    "body": "The Gulf Stream carries warm water across the Atlantic and helps warm up northern Europe. Thanks to it, Bergen, Norway has milder winters than places much farther south — including New York City. So an ocean current can shape the weather thousands of miles from where it starts. Its effects reach far beyond the water itself. The oceans influence life on land in surprising ways.",
-    "summary": "A warm Atlantic current keeps Norway milder than New York.",
+    "headline": "A Warm Atlantic Current Gives Norway Milder Winters Than New York",
+    "body": "The Gulf Stream carries warm water across the Atlantic and helps warm up northern Europe. Thanks to it, Bergen, Norway has milder winters than places much farther south — including New York City. An ocean current can shape the weather thousands of miles from where it starts. A river in the sea decides what winter feels like on land.",
+    "summary": "Bergen sits far north of New York, yet its winters are gentler — thanks to water, not luck.",
     "categoryId": "ocean-life",
     "topic": "Ocean Currents",
     "tags": [
@@ -6283,14 +6119,14 @@
       "gulf-stream",
       "climate"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 44,
     "featured": false,
     "relatedFactIds": [
       "ocean-currents-eight-knot-speeds",
       "coral-reefs-can-bleach",
-      "whales-are-mammals",
+      "sea-turtles-lay-eggs-on-land",
       "fog-air-saturation",
-      "sea-turtles-lay-eggs-on-land"
+      "sea-stars-regrow-bodies"
     ],
     "themes": []
   },
@@ -6316,7 +6152,7 @@
       "bioluminescence-most-deep-sea-animals-glow",
       "fireflies-bioluminescence",
       "bioluminescence-shrimp-spit-light",
-      "jellyfish-long-tentacles"
+      "giant-squid-sperm-whale-scars"
     ],
     "themes": [
       "bioluminescence-and-glow",
@@ -6524,8 +6360,8 @@
       "deep-sea-underwater-lakes",
       "seahorses-no-stomachs",
       "sloths-algae-camouflage",
-      "swimming-thousands-of-years",
-      "circadian-rhythm-master-clock"
+      "circadian-rhythm-master-clock",
+      "swimming-thousands-of-years"
     ],
     "themes": [
       "plants-and-botany",
@@ -6553,7 +6389,7 @@
     "relatedFactIds": [
       "orcas-menopause",
       "coral-reefs-can-bleach",
-      "whales-largest-animal-ever",
+      "jellyfish-long-tentacles",
       "dolphins-signature-whistle",
       "dolphins-mud-rings",
       "dolphins-echoes"
@@ -6584,7 +6420,7 @@
       "sea-otters-snack-pockets",
       "sea-otters-densest-fur",
       "whales-are-mammals",
-      "giant-squid-sperm-whale-scars"
+      "anglerfish-males-fuse-to-females"
     ],
     "themes": [
       "flight-and-aviation"
@@ -6664,8 +6500,8 @@
       "heart-one-way-valves",
       "lungs-oxygen-enters-blood",
       "blood-color-changes-with-oxygen",
-      "lungs-gas-exchange",
-      "fingerprints-dont-change-growth"
+      "fingerprints-dont-change-growth",
+      "dna-mitochondria-own-dna"
     ],
     "themes": [
       "human-body-quirks",
@@ -6695,7 +6531,7 @@
       "skin-largest-organ",
       "diagnostic-imaging-changed-diagnosis",
       "lungs-oxygen-enters-blood",
-      "lungs-gas-exchange"
+      "fingerprints-dont-change-growth"
     ],
     "themes": [
       "human-body-quirks"
@@ -6833,7 +6669,7 @@
     "relatedFactIds": [
       "eyes-retina-part-of-brain",
       "brain-folds-more-power",
-      "lungs-gas-exchange",
+      "fingerprints-dont-change-growth",
       "perception-brain-fills-gaps",
       "blind-spots-optic-nerve",
       "cheetahs-tear-marks"
@@ -6903,33 +6739,6 @@
     ]
   },
   {
-    "id": "lungs-gas-exchange",
-    "headline": "Your Lungs Could Cover a Tennis Court",
-    "body": "Your lungs look compact, but they're folded into millions of tiny air sacs called alveoli. Unfold all of them and spread them flat, and the surface would roughly cover a tennis court. That vast hidden area is what lets your blood grab enough oxygen with every breath. All of it is packed inside your chest, quietly working about 20,000 times a day.",
-    "summary": "Unfolded, the inner surface of your lungs would roughly cover a whole tennis court.",
-    "categoryId": "human-body",
-    "topic": "Lungs",
-    "tags": [
-      "human-body",
-      "lungs",
-      "breathing",
-      "anatomy"
-    ],
-    "readTimeSeconds": 35,
-    "featured": false,
-    "relatedFactIds": [
-      "lungs-oxygen-enters-blood",
-      "fingerprints-dont-change-growth",
-      "heart-one-way-valves",
-      "giraffes-tallest-land-animal",
-      "whales-largest-animal-ever",
-      "gut-microbiome-unique-network"
-    ],
-    "themes": [
-      "human-body-quirks"
-    ]
-  },
-  {
     "id": "lungs-oxygen-enters-blood",
     "headline": "Your Left Lung Is Smaller Than Your Right",
     "body": "Your two lungs aren't a matching pair. The left one is noticeably smaller and has only two lobes, while the right has three. The reason is simple: the left lung gives up some of its space to make room for your heart, which sits slightly to that side. Your body quietly shrank one organ just to fit another beside it.",
@@ -6945,11 +6754,12 @@
     "readTimeSeconds": 34,
     "featured": false,
     "relatedFactIds": [
-      "lungs-gas-exchange",
       "heart-center-of-network",
       "heart-one-way-valves",
       "whales-largest-animal-ever",
-      "stegosaurus-plates-not-simple-armor"
+      "stegosaurus-plates-not-simple-armor",
+      "fingerprints-dont-change-growth",
+      "giraffes-tallest-land-animal"
     ],
     "themes": [
       "human-body-quirks",
@@ -7060,7 +6870,7 @@
     "relatedFactIds": [
       "fingerprints-regrow-same-pattern",
       "skin-largest-organ",
-      "lungs-gas-exchange",
+      "heart-one-way-valves",
       "chameleons-see-through-skin-layers",
       "tigers-largest-cat",
       "skeletal-system-206-bones"
@@ -7194,9 +7004,9 @@
     "relatedFactIds": [
       "gut-microbiome-makes-vitamins",
       "heart-one-way-valves",
-      "lungs-gas-exchange",
+      "fingerprints-dont-change-growth",
       "brachiosaurus-treetop-browser",
-      "fingerprints-dont-change-growth"
+      "immune-system-fights-cancer"
     ],
     "themes": [
       "human-body-quirks",
@@ -7219,8 +7029,8 @@
     "readTimeSeconds": 35,
     "featured": false,
     "relatedFactIds": [
-      "habits-single-experience",
       "decision-making-environment-shapes",
+      "memory-fading-helps-time",
       "facial-expressions-universal",
       "brands-shape-perception",
       "deja-vu-brain-misfire"
@@ -7234,55 +7044,60 @@
   },
   {
     "id": "memory-fading-helps-time",
-    "headline": "Memories Fade to Help You Tell Time",
-    "body": "The way memories slowly fade actually helps you tell recent events from distant ones. Strong, fresh memories and weaker, older ones give you clues about how much time has passed. This helps you organize your experiences and stay oriented. So forgetting isn't just a flaw — it helps you sense time. Fading memories serve a real purpose.",
-    "summary": "Fuzzy old memories are how you sense how long ago things happened.",
+    "headline": "A Brain Surgery Left One Man Unable to Form New Memories",
+    "body": "In 1953, surgeons removed a seahorse-shaped part of the brain called the hippocampus from a man to stop his seizures. It worked, but he could never form a new lasting memory again. Known for decades only as H.M., he would forget a visitor minutes after they left the room. Strangely, he could still master new skills, like tracing shapes in a mirror, with no memory of ever practicing. His case revealed that the brain builds different kinds of memory in different places.",
+    "summary": "After surgeons removed part of his brain in 1953, a patient known only as H.M. spent the rest of his life unable to remember anything new.",
     "categoryId": "psychology",
     "topic": "Memory",
     "tags": [
-      "psychology",
       "memory",
-      "time",
-      "forgetting"
+      "hippocampus",
+      "brain",
+      "neuroscience",
+      "amnesia"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 60,
     "featured": false,
     "relatedFactIds": [
       "deja-vu-brain-misfire",
-      "habits-single-experience",
-      "butterflies-complete-metamorphosis",
-      "sleep-babies-half-rem",
+      "sleep-half-brain-awake",
+      "personal-space-invisible-bubble",
+      "brands-shape-perception",
+      "emotions-change-thinking",
       "happiness-twins-similar-levels"
     ],
     "themes": [
+      "medicine-and-cures",
       "psychology-and-behavior"
     ]
   },
   {
     "id": "habits-single-experience",
-    "headline": "Some Habits Form After a Single Experience",
-    "body": "Most habits build up slowly, but a powerful emotional experience can create one in a single moment. A really memorable or intense event can leave such a strong impression that your behavior changes right away. Psychologists know that strong emotions can supercharge habit-forming. Sometimes one experience is enough to lock in a lasting pattern. Not every habit takes years to form.",
-    "summary": "One intense moment can lock in a habit for good.",
+    "headline": "Forming a New Habit Takes About 66 Days, Not 21",
+    "body": "You've probably heard it takes 21 days to build a habit. That number is a myth, traced to a 1960s surgeon's offhand remark about how long patients took to adjust. When researchers actually tracked people forming new daily routines, they found it took about 66 days on average for the behavior to start feeling automatic. And the range was huge, anywhere from 18 days to over 250, depending on the person and the habit. Real habits take more patience than the sayings promise.",
+    "summary": "The popular \"21 days to a habit\" rule is a myth; when researchers actually measured it, the average was 66 days, and sometimes far longer.",
     "categoryId": "psychology",
     "topic": "Habits",
     "tags": [
-      "psychology",
       "habits",
-      "emotion",
-      "behavior"
+      "habit-formation",
+      "behavior",
+      "psychology"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 59,
     "featured": false,
     "relatedFactIds": [
       "decision-making-environment-shapes",
-      "emotions-change-thinking",
-      "facial-expressions-universal",
-      "giraffes-spread-legs-drink",
       "deja-vu-brain-misfire",
-      "sloths-bathroom-weekly"
+      "crossed-arms-context-matters",
+      "sleepwalking-childhood-common",
+      "sleep-babies-half-rem"
     ],
     "themes": [
-      "psychology-and-behavior"
+      "psychology-and-behavior",
+      "automation-robots-ai",
+      "myth-vs-reality",
+      "numbers-and-mathematics"
     ]
   },
   {
@@ -7302,8 +7117,8 @@
     "featured": false,
     "relatedFactIds": [
       "happiness-twins-similar-levels",
-      "motivation-money-association",
       "deja-vu-brain-misfire",
+      "sleep-babies-half-rem",
       "baobab-nine-species",
       "termites-cellulose-digesters"
     ],
@@ -7330,11 +7145,10 @@
     "featured": false,
     "relatedFactIds": [
       "happiness-social-relationships",
-      "habits-single-experience",
       "deja-vu-brain-misfire",
-      "memory-fading-helps-time",
       "sleep-babies-half-rem",
-      "decision-making-environment-shapes"
+      "decision-making-environment-shapes",
+      "memory-fading-helps-time"
     ],
     "themes": [
       "psychology-and-behavior"
@@ -7385,11 +7199,12 @@
     "readTimeSeconds": 35,
     "featured": false,
     "relatedFactIds": [
-      "habits-single-experience",
       "emotions-change-thinking",
+      "happiness-twins-similar-levels",
       "ravens-five-foot-nests",
       "sleepwalking-childhood-common",
-      "happiness-twins-similar-levels"
+      "habits-single-experience",
+      "giraffes-spread-legs-drink"
     ],
     "themes": [
       "psychology-and-behavior",
@@ -7398,31 +7213,31 @@
   },
   {
     "id": "motivation-money-association",
-    "headline": "Money Means Nothing to Your Body — You Learned to Want It",
-    "body": "Money has no value to your body on its own, yet it powerfully motivates us. The reason is association. Because money is tied to food, comfort, safety, and countless other rewards, it takes on motivating power of its own. Over time, a once-meaningless object becomes something we crave. Money's pull is mostly learned.",
-    "summary": "Paper and metal mean nothing — until they buy everything.",
+    "headline": "Paying Kids to Draw Made Them Enjoy It Less",
+    "body": "Rewards don't always boost motivation; sometimes they backfire. In a well-known experiment, psychologists watched preschoolers who already loved to draw. Some were promised a shiny certificate for drawing, while others were promised nothing. Afterward, the children who had drawn for the reward spent far less of their free time drawing than the ones who hadn't. Once the activity became about the prize, the simple joy of it faded. Psychologists call it the overjustification effect: an outside reward can crowd out the pleasure inside.",
+    "summary": "In a classic experiment, children promised a reward for drawing lost interest in it afterward, showing a reward can quietly kill the fun.",
     "categoryId": "psychology",
     "topic": "Motivation",
     "tags": [
-      "psychology",
       "motivation",
-      "money",
-      "association"
+      "rewards",
+      "intrinsic-motivation",
+      "overjustification",
+      "psychology"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 58,
     "featured": false,
     "relatedFactIds": [
-      "happiness-social-relationships",
-      "memory-fading-helps-time",
-      "barter-direct-exchange",
-      "currency-can-be-unusual",
-      "habits-single-experience"
+      "optical-illusions-mirror-therapy",
+      "sleep-babies-half-rem",
+      "deja-vu-brain-misfire",
+      "happiness-twins-similar-levels",
+      "decision-making-environment-shapes"
     ],
     "themes": [
       "psychology-and-behavior",
-      "money-trade-and-value",
-      "materials-and-chemistry",
-      "energy-and-power"
+      "collective-behavior",
+      "lost-and-rediscovered"
     ]
   },
   {
@@ -7473,10 +7288,10 @@
     "relatedFactIds": [
       "sleep-half-brain-awake",
       "deja-vu-brain-misfire",
-      "memory-fading-helps-time",
+      "happiness-twins-similar-levels",
       "nightmares-rem-second-half",
       "sleepwalking-childhood-common",
-      "happiness-twins-similar-levels"
+      "rem-sleep-muscle-atonia"
     ],
     "themes": [
       "psychology-and-behavior"
@@ -7500,7 +7315,7 @@
     "relatedFactIds": [
       "sleep-babies-half-rem",
       "deja-vu-brain-misfire",
-      "perception-brain-fills-gaps",
+      "memory-fading-helps-time",
       "nightmares-rem-second-half",
       "brain-folds-more-power",
       "attention-cannot-focus-everything"
@@ -7560,7 +7375,7 @@
       "sleep-half-brain-awake",
       "butterflies-complete-metamorphosis",
       "personal-space-invisible-bubble",
-      "habits-single-experience",
+      "sleep-babies-half-rem",
       "happiness-social-relationships"
     ],
     "themes": [
@@ -7584,10 +7399,10 @@
     "featured": false,
     "relatedFactIds": [
       "salt-only-rock-we-eat",
-      "bread-used-as-plates",
+      "honey-egyptian-mummies",
       "aztec-chocolate",
       "microwaves-accidental-cooking",
-      "pizza-roman-no-tomatoes",
+      "bread-used-as-plates",
       "ice-cream-cone-worlds-fair"
     ],
     "themes": [
@@ -7597,29 +7412,28 @@
   },
   {
     "id": "honey-egyptian-mummies",
-    "headline": "Ancient Egyptians Used Honey for Mummification",
-    "body": "Ancient Egyptians valued honey so much they used it for far more than food. Records show it played a role in embalming and preserving the dead. Its mild germ-fighting properties made it useful in many ways. Honey reached into medicine, religion, and daily life. To the Egyptians, it was far more than a sweet treat.",
-    "summary": "It even helped preserve the dead.",
+    "headline": "Honey Found in Egyptian Tombs Is Still Edible After 3,000 Years",
+    "body": "Honey may be the only food that never truly spoils. Archaeologists exploring ancient Egyptian tombs have found pots of honey sealed for more than 3,000 years, still preserved and even edible. The secret is chemistry: honey holds almost no water, is naturally acidic, and makes tiny amounts of hydrogen peroxide from an enzyme that bees add. Together those defenses make it nearly impossible for bacteria or mold to grow. Stored dry and sealed, a jar of honey can outlast entire civilizations.",
+    "summary": "Sealed in tombs for over 3,000 years, ancient Egyptian honey never spoiled; honey is one of the only foods that essentially lasts forever.",
     "categoryId": "food",
     "topic": "Honey",
     "tags": [
-      "food",
       "honey",
-      "egypt",
-      "history"
+      "food-preservation",
+      "ancient-egypt",
+      "chemistry"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 58,
     "featured": false,
     "relatedFactIds": [
       "honey-mead-alcohol",
-      "bananas-gros-michel-disease",
-      "rice-white-rice-beriberi",
-      "irrigation-hydraulic-civilization",
-      "ancient-egypt-3000-years"
+      "bread-used-as-plates",
+      "salt-only-rock-we-eat",
+      "chocolate-drink-history",
+      "potatoes-poisonous-berries"
     ],
     "themes": [
-      "food-and-cuisine",
-      "medicine-and-cures"
+      "food-and-cuisine"
     ]
   },
   {
@@ -7641,7 +7455,6 @@
       "honey-egyptian-mummies",
       "salt-only-rock-we-eat",
       "bread-used-as-plates",
-      "pizza-roman-no-tomatoes",
       "pasta-vermicelli-little-worms",
       "salt-created-trade-routes"
     ],
@@ -7697,7 +7510,7 @@
     "relatedFactIds": [
       "bread-predates-agriculture",
       "salt-only-rock-we-eat",
-      "pizza-roman-no-tomatoes",
+      "honey-egyptian-mummies",
       "middle-ages-no-one-knew",
       "castles-not-palaces",
       "chocolate-drink-history"
@@ -7724,7 +7537,7 @@
     "relatedFactIds": [
       "salt-created-trade-routes",
       "bread-used-as-plates",
-      "pizza-roman-no-tomatoes",
+      "honey-egyptian-mummies",
       "chemical-elements-compounds-transform-properties",
       "turkish-coffee-salty-groom",
       "chocolate-drink-history"
@@ -7751,7 +7564,7 @@
     "relatedFactIds": [
       "salt-only-rock-we-eat",
       "honey-mead-alcohol",
-      "pizza-roman-no-tomatoes",
+      "bread-used-as-plates",
       "ancient-persia-royal-road",
       "trade-comparative-advantage",
       "mongol-empire-largest-contiguous"
@@ -7808,10 +7621,10 @@
     "readTimeSeconds": 35,
     "featured": false,
     "relatedFactIds": [
-      "honey-egyptian-mummies",
       "bananas-gros-michel-disease",
       "bananas-modern-clones",
       "salt-only-rock-we-eat",
+      "honey-egyptian-mummies",
       "bread-used-as-plates"
     ],
     "themes": [
@@ -7837,10 +7650,10 @@
     "featured": false,
     "relatedFactIds": [
       "chocolate-drink-history",
-      "bread-used-as-plates",
+      "salt-only-rock-we-eat",
       "documentaries-shape-facts",
       "food-tasters-ice-cream-texture",
-      "salt-only-rock-we-eat",
+      "bread-used-as-plates",
       "coffee-roasting-dark-not-more-caffeine"
     ],
     "themes": [
@@ -7852,58 +7665,32 @@
   },
   {
     "id": "pizza-roman-no-tomatoes",
-    "headline": "Roman Pizza Often Doesn't Use Tomatoes",
-    "body": "Tomatoes feel essential to pizza today, but some traditional Roman pizzas skip them entirely. Instead, they use ingredients like onions, olives, and olive oil. These recipes reflect how pizza varied from region to region across Italy. Pizza grew in many directions, not one single formula. Not every classic pizza is red.",
-    "summary": "Not every classic pizza is red.",
+    "headline": "The Margherita Pizza Was Colored to Match Italy's Flag",
+    "body": "The classic Margherita pizza may be a patriotic tribute. As the popular story goes, in 1889 a Naples pizzamaker named Raffaele Esposito prepared a pizza for the visiting Queen Margherita of Italy. He topped it with red tomatoes, white mozzarella, and green basil, the three colors of the young nation's flag, and named it in her honor. Historians debate whether it truly happened that way, since similar pizzas existed earlier. But the red-white-and-green legend is how the Margherita got its name.",
+    "summary": "As the story goes, a Naples pizzamaker built the Margherita from red, white, and green toppings to honor a visiting queen in 1889.",
     "categoryId": "food",
     "topic": "Pizza",
     "tags": [
-      "food",
       "pizza",
-      "rome",
-      "italy"
+      "margherita",
+      "italy",
+      "food-history",
+      "naples"
     ],
-    "readTimeSeconds": 35,
+    "readTimeSeconds": 56,
     "featured": false,
     "relatedFactIds": [
-      "bread-used-as-plates",
+      "honey-egyptian-mummies",
       "salt-only-rock-we-eat",
       "latte-popular-espresso-drink",
-      "concrete-steel-reinforcement",
-      "honey-mead-alcohol",
-      "chocolate-drink-history"
+      "afterimages-retina-desensitized",
+      "bread-used-as-plates",
+      "cappuccino-morning-italy"
     ],
     "themes": [
-      "food-and-cuisine"
-    ]
-  },
-  {
-    "id": "popcorn-expands-40-times",
-    "headline": "A Popcorn Kernel Can Grow 40 Times Bigger",
-    "body": "A popped kernel is far bigger than the tiny seed it came from. Popcorn can expand into a fluffy mass about 20 to 40 times its original size. That dramatic change happens when heat turns the moisture inside the kernel into steam. In a split second, a small, hard grain becomes a light, irregular snack.",
-    "summary": "One tiny popcorn kernel can puff up to 40 times its original size.",
-    "categoryId": "food",
-    "topic": "Popcorn",
-    "tags": [
-      "food",
-      "popcorn",
-      "corn",
-      "snacks",
-      "food-science"
-    ],
-    "readTimeSeconds": 42,
-    "featured": false,
-    "relatedFactIds": [
-      "popcorn-thousands-years-old",
-      "potatoes-poisonous-berries",
-      "bread-predates-agriculture",
-      "agriculture-settled-societies",
-      "bananas-giant-herb"
-    ],
-    "themes": [
-      "plants-and-botany",
-      "counterintuitive-scale",
-      "food-and-cuisine"
+      "food-and-cuisine",
+      "color-and-light",
+      "storytelling-and-narrative"
     ]
   },
   {
@@ -7922,8 +7709,8 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "popcorn-expands-40-times",
       "salt-only-rock-we-eat",
+      "honey-egyptian-mummies",
       "bread-used-as-plates",
       "pizza-roman-no-tomatoes",
       "honey-mead-alcohol"
@@ -8013,9 +7800,9 @@
     "relatedFactIds": [
       "bananas-modern-clones",
       "bananas-giant-herb",
-      "honey-egyptian-mummies",
       "rice-white-rice-beriberi",
-      "potatoes-poisonous-berries"
+      "potatoes-poisonous-berries",
+      "bread-predates-agriculture"
     ],
     "themes": [
       "money-trade-and-value",
@@ -8221,8 +8008,7 @@
       "caffeine-naturally-bitter",
       "taste-buds-thousands-on-tongue",
       "topology-doughnut-coffee-cup",
-      "decaf-caffeine-reused",
-      "coffee-origins-discovery-mystery"
+      "decaf-caffeine-reused"
     ],
     "themes": [
       "coffee-and-tea",
@@ -8262,9 +8048,9 @@
   },
   {
     "id": "decaf-caffeine-reused",
-    "headline": "The Caffeine Taken Out of Decaf Ends Up in Other Products",
-    "body": "Decaffeination doesn't simply make caffeine vanish. In one method, the beans are rinsed with a solvent that bonds to and pulls out the caffeine. The caffeine is then separated from that rinsing solution and used in other products. The solution itself is captured and reused to decaffeinate more beans in a closed loop.",
-    "summary": "The caffeine removed from decaf beans can be collected for other uses.",
+    "headline": "The Caffeine Stripped From Decaf Is Sold to Soda and Drug Makers",
+    "body": "Making decaf doesn't destroy the caffeine; it just relocates it. During decaffeination, the caffeine is rinsed out of the beans and then purified into pure white crystals. Instead of throwing that away, producers sell it. Beverage and drug companies buy up extracted caffeine to add to their own products, so the jolt removed from your decaf can be reborn in a can of soda or a headache pill. The stimulant you paid to avoid may end up energizing someone else.",
+    "summary": "The caffeine removed to make your decaf doesn't vanish; it's purified and sold, sometimes ending up in a soft drink or a headache pill.",
     "categoryId": "coffee",
     "topic": "Decaf Coffee",
     "tags": [
@@ -8272,20 +8058,22 @@
       "decaf-coffee",
       "caffeine",
       "decaffeination",
-      "coffee-processing"
+      "beverages"
     ],
-    "readTimeSeconds": 48,
+    "readTimeSeconds": 58,
     "featured": false,
     "relatedFactIds": [
       "espresso-crema-traps-aroma",
-      "coffee-roasting-dark-not-more-caffeine",
-      "middle-ages-beans-population-boom",
       "caffeine-naturally-bitter",
-      "coffee-origins-boston-tea-party"
+      "coffee-roasting-dark-not-more-caffeine",
+      "coffee-origins-boston-tea-party",
+      "cappuccino-morning-italy"
     ],
     "themes": [
       "coffee-and-tea",
-      "materials-and-chemistry"
+      "materials-and-chemistry",
+      "medicine-and-cures",
+      "self-organizing-patterns"
     ]
   },
   {
@@ -8433,35 +8221,6 @@
     ]
   },
   {
-    "id": "coffee-origins-discovery-mystery",
-    "headline": "Legend Says a Goat Herder Discovered Coffee",
-    "body": "Nobody actually knows who discovered coffee. There's no record of the first person to brew it, only a legend. As the story goes, an Ethiopian goat herder named Kaldi noticed his goats grew strangely frisky after nibbling the bright red cherries of a certain shrub. Curious, he tried them himself. Whether or not it happened, the tale stuck, and coffee's real beginning stays hidden somewhere in the Ethiopian highlands.",
-    "summary": "An Ethiopian herder supposedly noticed his goats got frisky after eating the berries, and tried them himself.",
-    "categoryId": "coffee",
-    "topic": "Coffee Origins",
-    "tags": [
-      "coffee",
-      "history",
-      "ethiopia",
-      "legend"
-    ],
-    "readTimeSeconds": 48,
-    "featured": false,
-    "relatedFactIds": [
-      "coffee-origins-boston-tea-party",
-      "coffee-origins-one-seedling-americas",
-      "espresso-crema-traps-aroma",
-      "aztec-flag-legend",
-      "coffee-roasting-dark-not-more-caffeine"
-    ],
-    "themes": [
-      "world-first",
-      "coffee-and-tea",
-      "collective-behavior",
-      "myth-vs-reality"
-    ]
-  },
-  {
     "id": "coffee-origins-one-seedling-americas",
     "headline": "One Coffee Seedling Changed the Americas",
     "body": "Coffee's spread through the Americas may trace back to one dramatic voyage. Gabriel de Clieu carried a coffee seedling from a tree in France to Martinique in 1723, surviving foul weather, a pirate attack, and even a saboteur. That single seedling thrived and helped spread coffee through the Caribbean, South America, and Central America.",
@@ -8479,10 +8238,10 @@
     "featured": false,
     "relatedFactIds": [
       "coffee-origins-boston-tea-party",
-      "coffee-origins-discovery-mystery",
       "instant-coffee-crystals-rehydrate",
       "caffeine-naturally-bitter",
-      "latte-popular-espresso-drink"
+      "latte-popular-espresso-drink",
+      "coffee-plant-arabica-delicate"
     ],
     "themes": [
       "plants-and-botany",
@@ -8508,8 +8267,8 @@
     "featured": false,
     "relatedFactIds": [
       "coffee-origins-one-seedling-americas",
-      "coffee-origins-discovery-mystery",
       "latte-popular-espresso-drink",
+      "instant-coffee-crystals-rehydrate",
       "tea-tasters-repealed",
       "vacuum-cleaners-luxury-first",
       "coffee-plant-arabica-delicate"
@@ -8538,7 +8297,6 @@
       "world-wide-web-cern-1989",
       "internet-commercial-expansion",
       "internet-communities-closed-systems",
-      "data-centers-small-town-electricity",
       "cloud-computing-name-diagrams"
     ],
     "themes": [
@@ -8569,7 +8327,7 @@
       "internet-commercial-expansion",
       "streaming-data-packets",
       "blockchain-public-private-keys",
-      "usb-imac-mainstream"
+      "virtual-reality-heavy-headset"
     ],
     "themes": [
       "invention-and-breakthrough",
@@ -8593,11 +8351,11 @@
     "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
+      "search-engines-google-backrub",
       "virtual-reality-heavy-headset",
-      "usb-imac-mainstream",
       "babylonians-astronomy",
-      "internet-arpanet-first-connection",
-      "email-more-than-text"
+      "usb-imac-mainstream",
+      "internet-arpanet-first-connection"
     ],
     "themes": [
       "computing-and-web",
@@ -8625,7 +8383,7 @@
       "world-wide-web-cern-1989",
       "viral-content-small-enough-email",
       "advertising-modern-printing",
-      "data-centers-small-town-electricity",
+      "cloud-computing-name-diagrams",
       "virtual-reality-heavy-headset"
     ],
     "themes": [
@@ -8652,9 +8410,9 @@
     "relatedFactIds": [
       "internet-arpanet-first-connection",
       "email-more-than-text",
-      "data-centers-small-town-electricity",
       "cloud-computing-name-diagrams",
-      "captcha-trains-ai"
+      "usb-imac-mainstream",
+      "qr-codes-car-parts"
     ],
     "themes": [
       "internet-and-virality",
@@ -8711,8 +8469,8 @@
       "usb-imac-mainstream",
       "email-more-than-text",
       "blockchain-public-private-keys",
-      "data-centers-small-town-electricity",
-      "world-wide-web-cern-1989"
+      "world-wide-web-cern-1989",
+      "wi-fi-signals-bounce"
     ],
     "themes": [
       "computing-and-web"
@@ -8735,10 +8493,10 @@
     "featured": false,
     "relatedFactIds": [
       "email-more-than-text",
-      "data-centers-small-town-electricity",
+      "internet-arpanet-first-connection",
       "clouds-cumulonimbus-storms",
       "clouds-classified-by-height",
-      "internet-arpanet-first-connection",
+      "bluetooth-direct-device-talk",
       "clouds-condensation"
     ],
     "themes": [
@@ -8796,8 +8554,8 @@
       "virtual-reality-heavy-headset",
       "email-more-than-text",
       "world-wide-web-cern-1989",
-      "search-engines-google-backrub",
-      "data-centers-avoid-downtime"
+      "data-centers-avoid-downtime",
+      "blockchain-public-private-keys"
     ],
     "themes": [
       "computing-and-web"
@@ -8831,9 +8589,9 @@
   },
   {
     "id": "search-engines-google-backrub",
-    "headline": "Google Began as BackRub",
-    "body": "Google didn't start out with the name Google. Larry Page and Sergey Brin tested their search engine on Stanford University's network in August 1996 under the name BackRub. They later renamed it and launched Google in 1998. With a clean design and the PageRank algorithm, it quickly became one of the most important tools on the Web.",
-    "summary": "Before it was Google, the search engine was tested under the name BackRub.",
+    "headline": "Google's First Name, BackRub, Came From a Page's 'Back Links'",
+    "body": "Google didn't start with that name. In 1996, Stanford students Larry Page and Sergey Brin built a search engine that ranked a web page by how many other pages linked back to it, treating each link as a kind of vote. Because it studied these 'back links,' they called it BackRub. They soon renamed it Google, a play on 'googol,' the number 1 followed by 100 zeros, to reflect the vast web it searched. That link-counting idea became the famous PageRank algorithm.",
+    "summary": "Larry Page and Sergey Brin first called their search engine BackRub because it ranked pages by the links pointing back to them.",
     "categoryId": "technology",
     "topic": "Search Engines",
     "tags": [
@@ -8841,21 +8599,23 @@
       "search-engines",
       "google",
       "backrub",
-      "pagerank"
+      "pagerank",
+      "backlinks"
     ],
-    "readTimeSeconds": 45,
+    "readTimeSeconds": 57,
     "featured": false,
     "relatedFactIds": [
+      "wi-fi-signals-bounce",
       "usb-imac-mainstream",
-      "captcha-trains-ai",
-      "trademarks-protect-brands",
       "virtual-reality-heavy-headset",
-      "data-centers-small-town-electricity"
+      "email-more-than-text",
+      "world-wide-web-cern-1989"
     ],
     "themes": [
       "computing-and-web",
       "automation-robots-ai",
-      "energy-and-power"
+      "energy-and-power",
+      "animal-intelligence"
     ]
   },
   {
@@ -8874,76 +8634,16 @@
     "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
-      "captcha-trains-ai",
       "search-engines-google-backrub",
       "world-wide-web-cern-1989",
       "microexpressions-universal-signals",
-      "prime-numbers-cryptography"
+      "bluetooth-direct-device-talk",
+      "smartphones-first-1993"
     ],
     "themes": [
       "automation-robots-ai",
       "myth-vs-reality",
       "psychology-and-behavior"
-    ]
-  },
-  {
-    "id": "captcha-trains-ai",
-    "headline": "CAPTCHA Answers Can Help Train AI",
-    "body": "CAPTCHA tests can do more than block bots. When millions of people identify hard-to-read text or objects in blurry images, those answers can feed AI programs and help them improve at the same tasks. Human responses become examples for machine-learning systems. The little puzzle you solve online may also be teaching computers to recognize the world.",
-    "summary": "Some CAPTCHA answers become training data for AI image and text recognition.",
-    "categoryId": "technology",
-    "topic": "CAPTCHA",
-    "tags": [
-      "technology",
-      "captcha",
-      "artificial-intelligence",
-      "machine-learning",
-      "recaptcha"
-    ],
-    "readTimeSeconds": 48,
-    "featured": false,
-    "relatedFactIds": [
-      "captcha-checkbox-movement",
-      "email-more-than-text",
-      "data-centers-small-town-electricity",
-      "machine-learning-pattern-learning",
-      "computer-vision-machines-see"
-    ],
-    "themes": [
-      "automation-robots-ai",
-      "computing-and-web",
-      "internet-and-virality",
-      "collective-behavior"
-    ]
-  },
-  {
-    "id": "data-centers-small-town-electricity",
-    "headline": "Big Data Centers Can Use Small-Town Levels of Electricity",
-    "body": "Data centers aren't just server rooms — they can be major power users. The electricity used by a large data center can rival that of a small town. That's why efficiency matters so much, from better cooling to energy-saving hardware. Keeping the Internet running can take an enormous amount of hidden electricity.",
-    "summary": "A large data center can consume as much electricity as a small town.",
-    "categoryId": "technology",
-    "topic": "Data Centers",
-    "tags": [
-      "technology",
-      "data-centers",
-      "electricity",
-      "servers",
-      "energy-efficiency"
-    ],
-    "readTimeSeconds": 45,
-    "featured": false,
-    "relatedFactIds": [
-      "data-centers-avoid-downtime",
-      "email-more-than-text",
-      "internet-arpanet-first-connection",
-      "light-switch-infrastructure",
-      "superconductivity-zero-resistance",
-      "virtual-reality-heavy-headset"
-    ],
-    "themes": [
-      "energy-and-power",
-      "computing-and-web",
-      "internet-and-virality"
     ]
   },
   {
@@ -8962,11 +8662,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "data-centers-small-town-electricity",
       "usb-imac-mainstream",
       "virtual-reality-heavy-headset",
       "internet-undersea-cables",
-      "wi-fi-signals-bounce"
+      "wi-fi-signals-bounce",
+      "world-wide-web-cern-1989"
     ],
     "themes": [
       "computing-and-web",
@@ -8976,31 +8676,30 @@
   },
   {
     "id": "artificial-intelligence-wasp-example",
-    "headline": "A Wasp Helped Explain What Intelligence Is Not",
-    "body": "A digger wasp shows why intelligence is more than complex behavior. The female checks her burrow before dragging food inside, but if the food is moved while she checks, she repeats the same routine over and over. The behavior looks organized, yet it doesn't adapt to a changed situation. Real intelligence has to include adapting to new circumstances.",
-    "summary": "A digger wasp's repeated routine helps show why true intelligence requires adaptation.",
+    "headline": "Artificial Intelligence Got Its Name at a 1956 Summer Workshop",
+    "body": "The phrase \"artificial intelligence\" was born at a summer workshop. In 1955, four scientists led by John McCarthy proposed a two-month, ten-person study at Dartmouth College for the summer of 1956, confident a small team could make real headway on machines that think. They coined the name \"artificial intelligence\" for the project. The gathering is now seen as the founding moment of the field, even though actually building thinking machines took far longer than one summer.",
+    "summary": "Four scientists once believed they could make major progress on artificial intelligence in a single two-month summer.",
     "categoryId": "artificial-intelligence",
     "topic": "Artificial Intelligence",
     "tags": [
       "artificial-intelligence",
-      "intelligence",
-      "wasps",
-      "behavior"
+      "ai-history",
+      "dartmouth",
+      "john-mccarthy"
     ],
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "ai-ethics-help-harm",
-      "ai-ethics-biased-data",
-      "ravens-solve-problems-together",
-      "sleepwalking-childhood-common",
+      "chatbots-eliza-first",
       "turing-test-chinese-room",
-      "bees-honey-from-nectar"
+      "computer-vision-machines-see",
+      "natural-language-processing-more-than-speech",
+      "machine-learning-pattern-learning"
     ],
     "themes": [
       "automation-robots-ai",
-      "psychology-and-behavior",
-      "food-and-cuisine"
+      "origins-and-naming",
+      "architecture-and-structures"
     ]
   },
   {
@@ -9021,9 +8720,9 @@
     "relatedFactIds": [
       "reinforcement-learning-reward-signal",
       "turing-test-chinese-room",
-      "captcha-trains-ai",
       "ai-ethics-help-harm",
-      "turing-test-seem-human"
+      "chatbots-eliza-first",
+      "deep-learning-many-layers"
     ],
     "themes": [
       "automation-robots-ai",
@@ -9048,9 +8747,9 @@
     "relatedFactIds": [
       "computer-vision-machines-see",
       "turing-test-chinese-room",
-      "chatbots-eliza-first",
       "reinforcement-learning-reward-signal",
-      "turing-test-seem-human"
+      "chatbots-eliza-first",
+      "machine-learning-pattern-learning"
     ],
     "themes": [
       "automation-robots-ai",
@@ -9079,7 +8778,7 @@
       "machine-learning-pattern-learning",
       "impossible-shapes-three-two-prongs",
       "brands-shape-perception",
-      "turing-test-seem-human",
+      "ai-ethics-help-harm",
       "mars-planet-of-robots"
     ],
     "themes": [
@@ -9103,12 +8802,12 @@
     "readTimeSeconds": 45,
     "featured": false,
     "relatedFactIds": [
-      "ai-hallucinations-adversarial-attacks",
-      "chatbots-eliza-first",
+      "generative-ai-new-content-prompts",
+      "turing-test-chinese-room",
       "superconductivity-cooper-pairs",
-      "captcha-trains-ai",
-      "turing-test-seem-human",
-      "neural-networks-weighted-paths"
+      "minimum-wage-global-policy",
+      "neural-networks-weighted-paths",
+      "tongue-twisters-sound-collisions"
     ],
     "themes": [
       "automation-robots-ai",
@@ -9134,10 +8833,10 @@
     "relatedFactIds": [
       "ai-ethics-biased-data",
       "deep-learning-many-layers",
-      "translation-machine-vs-cat",
+      "translation-more-than-word-swapping",
       "gothic-architecture-not-gothic-tribes",
-      "reinforcement-learning-reward-signal",
-      "translation-more-than-word-swapping"
+      "artificial-intelligence-wasp-example",
+      "translation-printing-press-demand"
     ],
     "themes": [
       "automation-robots-ai",
@@ -9148,9 +8847,9 @@
   },
   {
     "id": "chatbots-eliza-first",
-    "headline": "The First Chatbot Ran on a Typewriter in 1966",
-    "body": "The first software recognized as a chatbot was Eliza. Computer scientist Joseph Weizenbaum developed it in 1966. A user typed a phrase on an electric typewriter connected to a mainframe, and Eliza used pattern recognition and rules to type back a response. It was historically important, even though its replies could be incoherent and it couldn't pass the Turing test.",
-    "summary": "The first recognized chatbot answered typed messages through a mainframe-connected typewriter.",
+    "headline": "People Poured Their Hearts Out to the First Chatbot",
+    "body": "In 1966, MIT scientist Joseph Weizenbaum built ELIZA, a simple program that echoed people's words back the way a therapist might. It understood nothing; it just matched patterns. Yet people were captivated. Weizenbaum's own secretary, who knew exactly how it worked, asked him to leave the room so she could talk to it privately. He was disturbed by how quickly ordinary people confided in a machine and believed it cared. That reaction is now called the ELIZA effect.",
+    "summary": "ELIZA, a simple 1966 program, so convinced people it understood them that its creator's own secretary asked to be left alone with it.",
     "categoryId": "artificial-intelligence",
     "topic": "Chatbots",
     "tags": [
@@ -9160,19 +8859,18 @@
       "joseph-weizenbaum",
       "ai-history"
     ],
-    "readTimeSeconds": 52,
+    "readTimeSeconds": 55,
     "featured": false,
     "relatedFactIds": [
-      "turing-test-seem-human",
       "ai-ethics-help-harm",
-      "computer-vision-machines-see",
-      "ai-hallucinations-adversarial-attacks",
-      "generative-ai-new-content-prompts"
+      "artificial-intelligence-wasp-example",
+      "turing-test-chinese-room",
+      "machine-learning-pattern-learning",
+      "computer-vision-machines-see"
     ],
     "themes": [
       "automation-robots-ai",
-      "computing-and-web",
-      "energy-and-power"
+      "materials-and-chemistry"
     ]
   },
   {
@@ -9191,12 +8889,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "turing-test-seem-human",
-      "ai-hallucinations-adversarial-attacks",
+      "computer-vision-machines-see",
+      "turing-test-chinese-room",
       "golden-ratio-euclid-origin",
       "renaissance-perspective",
-      "computer-vision-machines-see",
-      "chatbots-eliza-first"
+      "deep-learning-many-layers"
     ],
     "themes": [
       "automation-robots-ai",
@@ -9232,35 +8929,6 @@
     ]
   },
   {
-    "id": "turing-test-seem-human",
-    "headline": "A Computer Passes the Turing Test by Being Mistaken for You",
-    "body": "The Turing test doesn't look inside a machine's mind. Alan Turing proposed it in 1950 as a way to judge whether a computer can think. In the test, a remote human questioner interviews both a computer and a human and tries to tell them apart from their replies. The computer succeeds by being mistaken for the person.",
-    "summary": "The Turing test judges machine intelligence by whether a computer can be mistaken for a human.",
-    "categoryId": "artificial-intelligence",
-    "topic": "Turing Test",
-    "tags": [
-      "artificial-intelligence",
-      "turing-test",
-      "alan-turing",
-      "ai-history",
-      "computer-science"
-    ],
-    "readTimeSeconds": 50,
-    "featured": false,
-    "relatedFactIds": [
-      "turing-test-chinese-room",
-      "chatbots-eliza-first",
-      "generative-ai-new-content-prompts",
-      "ai-hallucinations-adversarial-attacks",
-      "computer-vision-machines-see",
-      "machine-learning-pattern-learning"
-    ],
-    "themes": [
-      "automation-robots-ai",
-      "computing-and-web"
-    ]
-  },
-  {
     "id": "turing-test-chinese-room",
     "headline": "A Man in a Room Can Fake Chinese He Doesn't Speak",
     "body": "The Chinese room argument pushes back against the Turing test. John Searle proposed it in 1981 to challenge the idea that passing the test proves a machine can think. In the thought experiment, a person who knows no Chinese follows a manual to produce correct Chinese replies. Outsiders may think the room understands Chinese, but the person is only following rules.",
@@ -9277,12 +8945,12 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "turing-test-seem-human",
+      "chatbots-eliza-first",
       "machine-learning-pattern-learning",
-      "generative-ai-new-content-prompts",
       "ai-ethics-help-harm",
-      "ai-hallucinations-adversarial-attacks",
-      "artificial-intelligence-wasp-example"
+      "generative-ai-new-content-prompts",
+      "artificial-intelligence-wasp-example",
+      "neural-networks-weighted-paths"
     ],
     "themes": [
       "automation-robots-ai"
@@ -9304,7 +8972,6 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "ai-hallucinations-adversarial-attacks",
       "deep-learning-many-layers",
       "ai-ethics-biased-data",
       "emojis-replace-body-language",
@@ -9316,35 +8983,6 @@
       "storytelling-and-narrative",
       "invention-and-breakthrough",
       "music-and-sound"
-    ]
-  },
-  {
-    "id": "ai-hallucinations-adversarial-attacks",
-    "headline": "Tiny Input Changes Can Fool AI Systems",
-    "body": "AI systems can sometimes be tricked by changes that look tiny to humans. In an adversarial attack, someone subtly tweaks the input data to manipulate the model. In image recognition, that might mean adding specially crafted noise to a picture so the AI misclassifies it. A barely noticeable change can push a model toward the wrong answer.",
-    "summary": "Small, carefully designed input changes can make an AI misclassify what it sees.",
-    "categoryId": "artificial-intelligence",
-    "topic": "AI Hallucinations",
-    "tags": [
-      "artificial-intelligence",
-      "ai-hallucinations",
-      "adversarial-attacks",
-      "computer-vision",
-      "ai-security"
-    ],
-    "readTimeSeconds": 48,
-    "featured": false,
-    "relatedFactIds": [
-      "ai-hallucinations-real-world-harm",
-      "computer-vision-machines-see",
-      "generative-ai-new-content-prompts",
-      "turing-test-seem-human",
-      "chatbots-eliza-first",
-      "turing-test-chinese-room"
-    ],
-    "themes": [
-      "automation-robots-ai",
-      "computing-and-web"
     ]
   },
   {
@@ -9366,8 +9004,8 @@
       "turing-test-chinese-room",
       "ai-hallucinations-real-world-harm",
       "generative-ai-new-content-prompts",
-      "ai-ethics-help-harm",
-      "machine-learning-pattern-learning"
+      "chatbots-eliza-first",
+      "ai-ethics-help-harm"
     ],
     "themes": [
       "automation-robots-ai",
@@ -9393,9 +9031,9 @@
     "relatedFactIds": [
       "ai-ethics-biased-data",
       "chatbots-eliza-first",
-      "artificial-intelligence-wasp-example",
       "turing-test-chinese-room",
-      "machine-learning-pattern-learning"
+      "machine-learning-pattern-learning",
+      "robotics-uncanny-valley"
     ],
     "themes": [
       "automation-robots-ai",
@@ -9419,10 +9057,10 @@
     "featured": false,
     "relatedFactIds": [
       "ai-ethics-help-harm",
-      "artificial-intelligence-wasp-example",
       "deep-learning-many-layers",
       "natural-language-processing-more-than-speech",
       "reinforcement-learning-reward-signal",
+      "turing-test-chinese-room",
       "ai-hallucinations-real-world-harm"
     ],
     "themes": [
@@ -9482,7 +9120,7 @@
       "hashtags-too-nerdy-twitter",
       "area-51-acknowledged-late",
       "coffeehouses-london-news-hubs",
-      "friday-13-country-variations"
+      "hashtags-symbol-older-social-media"
     ],
     "themes": [
       "internet-and-virality",
@@ -9538,9 +9176,9 @@
     "relatedFactIds": [
       "hashtags-too-nerdy-twitter",
       "internet-communities-closed-systems",
-      "viral-content-ocean-spray-doggface",
       "viral-content-small-enough-email",
-      "social-media-sixdegrees-profiles"
+      "social-media-sixdegrees-profiles",
+      "memes-cultural-genes"
     ],
     "themes": [
       "internet-and-virality",
@@ -9567,8 +9205,8 @@
       "hashtags-symbol-older-social-media",
       "social-media-sixdegrees-profiles",
       "memes-cultural-genes",
-      "viral-content-ocean-spray-doggface",
-      "internet-communities-closed-systems"
+      "internet-communities-closed-systems",
+      "viral-content-small-enough-email"
     ],
     "themes": [
       "internet-and-virality",
@@ -9594,39 +9232,10 @@
     "readTimeSeconds": 45,
     "featured": false,
     "relatedFactIds": [
-      "viral-content-ocean-spray-doggface",
       "streaming-data-packets",
       "internet-communities-closed-systems",
       "email-more-than-text",
       "hashtags-symbol-older-social-media",
-      "social-media-sixdegrees-profiles"
-    ],
-    "themes": [
-      "internet-and-virality",
-      "computing-and-web"
-    ]
-  },
-  {
-    "id": "viral-content-ocean-spray-doggface",
-    "headline": "A Skateboarding Cranberry Juice Video Became a Global Moment",
-    "body": "One casual TikTok became a perfect example of modern virality. Nathan Apodaca, known as Doggface, filmed himself skateboarding while drinking Ocean Spray cranberry juice and listening to Fleetwood Mac's \"Dreams.\" The video quickly became a global sensation, and Mick Fleetwood even recreated it. During the COVID-19 pandemic, the clip became a symbol of optimism and shared connection.",
-    "summary": "The Ocean Spray skateboarding TikTok became a viral symbol of optimism during the pandemic.",
-    "categoryId": "internet-culture",
-    "topic": "Viral Content",
-    "tags": [
-      "internet-culture",
-      "viral-content",
-      "tiktok",
-      "doggface",
-      "ocean-spray"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "viral-content-small-enough-email",
-      "hashtags-symbol-older-social-media",
-      "internet-communities-closed-systems",
-      "streaming-data-packets",
       "memes-cultural-power",
       "hashtags-too-nerdy-twitter"
     ],
@@ -9723,31 +9332,32 @@
   },
   {
     "id": "viral-challenges-three-types",
-    "headline": "Some Viral Challenges Sent People to the ER",
-    "body": "Not every viral challenge is harmless fun. Some dares spread faster than common sense. The 'cinnamon challenge' had people choking on dry spice, and the notorious 'Tide Pod challenge' encouraged biting into toxic laundry detergent. Hospitals reported real injuries and poisonings as the videos spread. They're a reminder that when 'copy this and post it' goes viral, the results can turn genuinely dangerous.",
-    "summary": "From the cinnamon to the Tide Pod challenge, some viral dares landed people in the hospital.",
+    "headline": "A Silly Ice-Water Challenge Funded a Real ALS Breakthrough",
+    "body": "Not every viral challenge is empty fun. In the summer of 2014, millions of people filmed themselves dumping buckets of ice water over their heads to raise money for ALS, a serious disease that attacks the body's nerves. The stunt looked silly, but it raised about $115 million in just eight weeks. That money funded a global research project, and in 2016 scientists used it to help identify a gene tied to ALS, a clue that could guide future treatments. Sometimes a goofy trend does real good.",
+    "summary": "The 2014 Ice Bucket Challenge raised over $100 million and helped scientists pinpoint a gene behind ALS.",
     "categoryId": "internet-culture",
     "topic": "Viral Challenges",
     "tags": [
       "internet-culture",
       "viral-challenges",
-      "safety",
-      "trends"
+      "ice-bucket-challenge",
+      "als",
+      "charity"
     ],
-    "readTimeSeconds": 48,
+    "readTimeSeconds": 56,
     "featured": false,
     "relatedFactIds": [
+      "memes-cultural-power",
       "viral-content-small-enough-email",
-      "streaming-data-packets",
-      "crash-test-dummies-measure-crashes",
-      "viral-content-ocean-spray-doggface",
-      "internet-communities-closed-systems"
+      "speedrunning-charity-marathons",
+      "hashtags-symbol-older-social-media",
+      "memes-cultural-genes"
     ],
     "themes": [
-      "gravity-and-orbits",
+      "medicine-and-cures",
       "internet-and-virality",
-      "food-and-cuisine",
-      "computing-and-web"
+      "money-trade-and-value",
+      "human-body-quirks"
     ]
   },
   {
@@ -9800,7 +9410,7 @@
       "hashtags-symbol-older-social-media",
       "minecraft-virtual-blocks",
       "virtual-worlds-being-there",
-      "viral-content-ocean-spray-doggface"
+      "viral-content-small-enough-email"
     ],
     "themes": [
       "internet-and-virality",
@@ -9859,8 +9469,8 @@
       "nintendo-nes-revival",
       "zelda-childhood-exploration",
       "mario-landlord-name",
-      "zelda-breath-wild-reinvention",
-      "playstation-failed-nintendo-deal"
+      "playstation-failed-nintendo-deal",
+      "pokemon-more-than-game"
     ],
     "themes": [
       "games-and-play",
@@ -9947,7 +9557,7 @@
       "pac-man-paku-paku-name",
       "arcade-games-coin-op-design",
       "zelda-childhood-exploration",
-      "tetris-game-boy-stardom"
+      "easter-eggs-konami-code-testing"
     ],
     "themes": [
       "games-and-play",
@@ -10058,9 +9668,9 @@
     "relatedFactIds": [
       "easter-eggs-hidden-credit-origin",
       "nintendo-nes-revival",
-      "captain-kidd-quedagh-merchant",
       "zelda-childhood-exploration",
-      "playstation-failed-nintendo-deal"
+      "playstation-failed-nintendo-deal",
+      "minecraft-virtual-blocks"
     ],
     "themes": [
       "games-and-play",
@@ -10086,10 +9696,10 @@
     "featured": false,
     "relatedFactIds": [
       "minecraft-virtual-blocks",
-      "nintendo-ultra-hand-toy",
+      "tetris-game-boy-stardom",
       "insomnia-short-chronic",
       "chess-indian-war-game",
-      "zelda-childhood-exploration"
+      "nintendo-ultra-hand-toy"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -10182,31 +9792,31 @@
   },
   {
     "id": "tetris-game-boy-stardom",
-    "headline": "Tetris Survived Years of Lawsuits to Conquer the Game Boy",
-    "body": "Tetris was already a classic puzzle idea, but Nintendo's Game Boy helped make it famous everywhere. The franchise endured years of licensing-rights lawsuits, yet that didn't stop the game from appearing on the Game Boy, where it rose to stardom. The handheld made Tetris easy to play almost anywhere. A portable console helped turn falling blocks into a global habit.",
-    "summary": "Tetris rose to new fame after being featured on Nintendo's Game Boy.",
+    "headline": "Tetris Made Millions While Its Soviet Creator Earned Nothing",
+    "body": "In 1984, Russian engineer Alexey Pajitnov created Tetris on a computer at a Soviet state lab. Because he built it as a government employee, the Soviet state owned the game, not him. As it leaked west and became a phenomenon, rival companies waged a tangled fight over who could sell it. One businessman, Henk Rogers, flew to Moscow to negotiate the rights directly with Soviet officials, winning them for Nintendo's new Game Boy. Pajitnov himself earned almost nothing from his creation until 1996.",
+    "summary": "Alexey Pajitnov built Tetris in a Soviet state lab, so the government owned it, and companies fought a fierce battle over rights the creator never held.",
     "categoryId": "video-games",
     "topic": "Tetris",
     "tags": [
       "video-games",
       "tetris",
-      "game-boy",
-      "nintendo",
-      "puzzle-games"
+      "alexey-pajitnov",
+      "soviet-union",
+      "game-boy"
     ],
-    "readTimeSeconds": 45,
+    "readTimeSeconds": 59,
     "featured": false,
     "relatedFactIds": [
+      "pokemon-more-than-game",
+      "easter-eggs-hidden-credit-origin",
       "zelda-childhood-exploration",
       "nintendo-playing-card-origin",
-      "nintendo-ultra-hand-toy",
-      "nintendo-nes-revival",
-      "pac-man-food-gameplay"
+      "minecraft-virtual-blocks"
     ],
     "themes": [
       "games-and-play",
-      "survival-adaptation",
-      "psychology-and-behavior"
+      "war-and-conflict",
+      "computing-and-web"
     ]
   },
   {
@@ -10353,7 +9963,7 @@
   {
     "id": "easter-eggs-hidden-credit-origin",
     "headline": "A Hidden Credit Helped Name Video Game Easter Eggs",
-    "body": "The term \"Easter egg\" in games is often traced to a hidden credit. The 1980 Atari game Adventure came out at a time when many studios didn't credit developers inside their games. Designer Warren Robinett disagreed with that policy and secretly coded his name into the game. That hidden message became part of gaming's language.",
+    "body": "The term \"Easter egg\" in games is often traced to a hidden credit. The 1980 Atari game Adventure came out when many studios didn't credit developers inside their games. Designer Warren Robinett disagreed, and secretly hid a message players could reach only by carrying a single grey pixel into a hidden room: \"Created by Warren Robinett.\" He told no one, and it wasn't found until after he'd left Atari. That hidden message became part of gaming's language.",
     "summary": "A secret credit in Adventure helped popularize the idea of video game Easter eggs.",
     "categoryId": "video-games",
     "topic": "Easter Eggs",
@@ -10364,45 +9974,18 @@
       "warren-robinett",
       "atari"
     ],
-    "readTimeSeconds": 48,
+    "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "easter-eggs-grey-dot",
       "easter-eggs-konami-code-testing",
       "atari-cartridge-shift",
+      "tetris-game-boy-stardom",
       "zelda-childhood-exploration",
       "nintendo-playing-card-origin"
     ],
     "themes": [
       "games-and-play",
-      "codes-and-cryptography"
-    ]
-  },
-  {
-    "id": "easter-eggs-grey-dot",
-    "headline": "Adventure Hid a Secret Grey Dot",
-    "body": "Adventure's secret was hidden behind a tiny object. If a player carried a single pixel known as the Grey Dot to a certain spot, they'd see the message \"Created by Warren Robinett.\" Robinett told no one about it, and it wasn't discovered until after he had left Atari. A single pixel became one of gaming's most famous secrets.",
-    "summary": "Adventure used a tiny Grey Dot to reveal its designer's hidden credit.",
-    "categoryId": "video-games",
-    "topic": "Easter Eggs",
-    "tags": [
-      "video-games",
-      "easter-eggs",
-      "grey-dot",
-      "adventure",
-      "game-secrets"
-    ],
-    "readTimeSeconds": 48,
-    "featured": false,
-    "relatedFactIds": [
-      "easter-eggs-hidden-credit-origin",
-      "easter-eggs-konami-code-testing",
-      "zelda-childhood-exploration",
-      "pac-man-food-gameplay",
-      "nintendo-playing-card-origin"
-    ],
-    "themes": [
-      "games-and-play",
+      "codes-and-cryptography",
       "computing-and-web"
     ]
   },
@@ -10423,11 +10006,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "easter-eggs-grey-dot",
       "easter-eggs-hidden-credit-origin",
       "nintendo-nes-revival",
       "zelda-childhood-exploration",
-      "nintendo-playing-card-origin"
+      "nintendo-playing-card-origin",
+      "minecraft-virtual-blocks"
     ],
     "themes": [
       "games-and-play",
@@ -10451,9 +10034,9 @@
     "relatedFactIds": [
       "nintendo-playing-card-origin",
       "esports-space-invaders-high-scores",
+      "viral-challenges-three-types",
       "zelda-breath-wild-reinvention",
-      "zelda-childhood-exploration",
-      "minecraft-virtual-blocks"
+      "zelda-childhood-exploration"
     ],
     "themes": [
       "games-and-play",
@@ -10703,8 +10286,8 @@
       "stop-motion-coraline-3d",
       "television-motion-illusion",
       "television-kept-changing",
-      "special-effects-miniature-physics",
-      "television-scans-images"
+      "imax-sideways-film",
+      "special-effects-miniature-physics"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -10927,8 +10510,8 @@
     "relatedFactIds": [
       "animation-gertie-cartoon-star",
       "imax-sideways-film",
-      "habits-single-experience",
       "sleepwalking-childhood-common",
+      "giraffes-spread-legs-drink",
       "imax-heavy-reels"
     ],
     "themes": [
@@ -11015,7 +10598,7 @@
       "electronic-music-musique-concrete",
       "hip-hop-kool-herc-breakbeat",
       "car-horns-vibrating-diaphragm",
-      "hip-hop-rappers-delight"
+      "classical-music-ancient-mediterranean-roots"
     ],
     "themes": [
       "music-and-sound",
@@ -11122,39 +10705,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "hip-hop-rappers-delight",
       "sampling-citizen-dj-free",
       "drum-machines-808-failure-success",
       "electronic-music-musique-concrete",
       "synthesizers-punched-paper-tape",
-      "synthesizers-beyond-instruments"
-    ],
-    "themes": [
-      "music-and-sound"
-    ]
-  },
-  {
-    "id": "hip-hop-rappers-delight",
-    "headline": "'Rapper's Delight' Was Not the First Rap Song, but the First Hit",
-    "body": "Rap broke into national pop culture with a single that became impossible to ignore. The Sugarhill Gang's 1979 song \"Rapper's Delight\" wasn't the first hip-hop song, but it's considered the genre's first significant single. Within weeks of release, it became a chart-topping phenomenon. Its danceable beat and lighthearted lyrics helped give a new pop genre its name.",
-    "summary": "Rapper's Delight helped bring rap to national attention and gave the genre a name.",
-    "categoryId": "music",
-    "topic": "Hip-Hop",
-    "tags": [
-      "music",
-      "hip-hop",
-      "rappers-delight",
-      "sugarhill-gang",
-      "rap-history"
-    ],
-    "readTimeSeconds": 48,
-    "featured": false,
-    "relatedFactIds": [
-      "hip-hop-kool-herc-breakbeat",
-      "sampling-citizen-dj-free",
-      "drum-machines-808-failure-success",
-      "musical-instruments-sound-families",
-      "jazz-armstrong-invented-swing",
+      "classical-music-ancient-mediterranean-roots",
       "synthesizers-beyond-instruments"
     ],
     "themes": [
@@ -11179,9 +10734,9 @@
     "relatedFactIds": [
       "jazz-armstrong-invented-swing",
       "sound-recording-stores-vibrations",
-      "hip-hop-rappers-delight",
       "rock-global-mainstream",
-      "electronic-music-musique-concrete"
+      "electronic-music-musique-concrete",
+      "hip-hop-kool-herc-breakbeat"
     ],
     "themes": [
       "music-and-sound",
@@ -11211,7 +10766,7 @@
       "classical-music-ancient-mediterranean-roots",
       "hip-hop-kool-herc-breakbeat",
       "synthesizers-punched-paper-tape",
-      "hip-hop-rappers-delight"
+      "rock-global-mainstream"
     ],
     "themes": [
       "music-and-sound"
@@ -11295,7 +10850,7 @@
       "electronic-music-musique-concrete",
       "synthesizers-punched-paper-tape",
       "hip-hop-kool-herc-breakbeat",
-      "hip-hop-rappers-delight"
+      "classical-music-ancient-mediterranean-roots"
     ],
     "themes": [
       "music-and-sound"
@@ -11322,7 +10877,7 @@
       "sign-language-complete-language",
       "jazz-armstrong-invented-swing",
       "hip-hop-kool-herc-breakbeat",
-      "sampling-citizen-dj-free"
+      "synthesizers-beyond-instruments"
     ],
     "themes": [
       "music-and-sound"
@@ -11374,9 +10929,9 @@
     "relatedFactIds": [
       "streaming-music-spotify-piracy",
       "dj-culture-scratching-accident",
-      "hip-hop-rappers-delight",
+      "hip-hop-kool-herc-breakbeat",
       "streaming-data-packets",
-      "hip-hop-kool-herc-breakbeat"
+      "electronic-music-musique-concrete"
     ],
     "themes": [
       "music-and-sound",
@@ -11461,10 +11016,10 @@
     "featured": false,
     "relatedFactIds": [
       "auto-tune-oil-technology",
-      "hip-hop-rappers-delight",
       "hip-hop-kool-herc-breakbeat",
       "electronic-music-musique-concrete",
-      "jazz-armstrong-invented-swing"
+      "jazz-armstrong-invented-swing",
+      "synthesizers-punched-paper-tape"
     ],
     "themes": [
       "music-and-sound",
@@ -11491,8 +11046,8 @@
       "drum-machines-rhythmicon-wheels",
       "sampling-citizen-dj-free",
       "hip-hop-kool-herc-breakbeat",
-      "hip-hop-rappers-delight",
-      "synthesizers-punched-paper-tape"
+      "synthesizers-punched-paper-tape",
+      "electronic-music-musique-concrete"
     ],
     "themes": [
       "music-and-sound",
@@ -11548,9 +11103,9 @@
     "relatedFactIds": [
       "streaming-music-before-full-file",
       "hip-hop-kool-herc-breakbeat",
-      "hip-hop-rappers-delight",
       "classical-music-ancient-mediterranean-roots",
-      "synthesizers-punched-paper-tape"
+      "synthesizers-punched-paper-tape",
+      "jazz-armstrong-invented-swing"
     ],
     "themes": [
       "accidental-discovery",
@@ -11576,9 +11131,9 @@
     "relatedFactIds": [
       "drum-machines-808-failure-success",
       "hip-hop-kool-herc-breakbeat",
-      "hip-hop-rappers-delight",
       "electronic-music-musique-concrete",
-      "classical-music-ancient-mediterranean-roots"
+      "classical-music-ancient-mediterranean-roots",
+      "synthesizers-punched-paper-tape"
     ],
     "themes": [
       "music-and-sound",
@@ -11602,11 +11157,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "hip-hop-rappers-delight",
       "jazz-armstrong-invented-swing",
       "classical-music-ancient-mediterranean-roots",
       "hip-hop-kool-herc-breakbeat",
-      "electronic-music-musique-concrete"
+      "electronic-music-musique-concrete",
+      "synthesizers-punched-paper-tape"
     ],
     "themes": [
       "myth-vs-reality",
@@ -11634,7 +11189,7 @@
       "swimming-olympic-obstacle-race",
       "ancient-greece-olympics",
       "antikythera-predicted-eclipses",
-      "skateboarding-olympic-debut"
+      "track-and-field-many-events"
     ],
     "themes": [
       "origins-and-naming",
@@ -12139,10 +11694,10 @@
     "featured": false,
     "relatedFactIds": [
       "hydraulics-pressure-everywhere",
-      "elevators-otis-safety-brake",
       "gears-speed-torque-tradeoff",
       "wheels-pottery-turntable",
-      "cranes-lift-and-shift-sideways"
+      "cranes-lift-and-shift-sideways",
+      "elevators-otis-safety-brake"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -12166,8 +11721,8 @@
     "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
-      "levers-multiply-force-distance",
       "elevators-otis-safety-brake",
+      "levers-multiply-force-distance",
       "sumerians-wheel",
       "wheel-axle-basic",
       "hydraulics-pressure-everywhere",
@@ -12229,7 +11784,7 @@
       "concrete-ancient-material",
       "cities-ancient-roots",
       "gears-speed-torque-tradeoff",
-      "pizza-roman-no-tomatoes"
+      "tires-compressed-air-load"
     ],
     "themes": [
       "food-and-cuisine",
@@ -12254,9 +11809,9 @@
     "featured": false,
     "relatedFactIds": [
       "levers-multiply-force-distance",
-      "elevators-otis-safety-brake",
-      "brakes-hydraulic-balance",
       "wheels-pottery-turntable",
+      "brakes-hydraulic-balance",
+      "elevators-otis-safety-brake",
       "cranes-lift-and-shift-sideways"
     ],
     "themes": [
@@ -12506,11 +12061,11 @@
     "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
+      "elevators-otis-safety-brake",
       "earthquake-engineering-strong-joints",
-      "steel-builds-almost-everything",
       "skyscrapers-elevators-made-height-usable",
       "japanese-castles-stone-bases",
-      "wheels-pottery-turntable",
+      "steel-builds-almost-everything",
       "arches-voussoir-wedges"
     ],
     "themes": [
@@ -12521,31 +12076,32 @@
   },
   {
     "id": "elevators-otis-safety-brake",
-    "headline": "A Safety Brake Made Passenger Elevators Possible",
-    "body": "Passenger elevators needed trust before anyone would ride them. In 1853, Elisha Graves Otis introduced a safety device that gripped the guide rails the instant tension was lost from the hoist rope. Before that, unreliable hemp ropes made lifting platforms risky for passengers. Otis's safety brake helped turn elevators from freight equipment into something people could ride.",
-    "summary": "Elisha Otis's 1853 safety device made passenger elevators practical and trustworthy.",
+    "headline": "An Inventor Cut His Own Elevator's Rope to Prove It Was Safe",
+    "body": "People feared elevators would plunge if the rope snapped, so almost no one would ride them. At the 1854 world's fair in New York, Elisha Otis settled the matter with a stunt. He rode a hoisting platform high above the crowd, then ordered an assistant to cut the rope with an axe. Instead of dropping, the platform lurched only a few inches and held, caught by his new safety brake. That leap of trust helped make passenger elevators, and skyscrapers, possible.",
+    "summary": "At an 1854 world's fair, Elisha Otis rode a platform high above the crowd, had the cable axed, and his new brake caught it before it fell.",
     "categoryId": "engineering",
     "topic": "Elevators",
     "tags": [
-      "engineering",
       "elevators",
       "elisha-otis",
       "safety-brake",
-      "vertical-transport"
+      "engineering",
+      "skyscrapers"
     ],
-    "readTimeSeconds": 52,
+    "readTimeSeconds": 60,
     "featured": false,
     "relatedFactIds": [
-      "levers-multiply-force-distance",
-      "hydraulics-pressure-everywhere",
+      "cranes-lift-and-shift-sideways",
+      "earthquake-engineering-strong-joints",
       "skyscrapers-elevators-made-height-usable",
-      "wheels-pottery-turntable",
-      "cranes-lift-and-shift-sideways"
+      "great-chicago-fire-wooden-city",
+      "wheels-pottery-turntable"
     ],
     "themes": [
       "machines-and-mechanisms",
-      "lost-and-rediscovered",
-      "motion-and-force"
+      "collective-behavior",
+      "invention-and-breakthrough",
+      "architecture-and-structures"
     ]
   },
   {
@@ -12568,7 +12124,7 @@
       "steel-builds-almost-everything",
       "japanese-castles-stone-bases",
       "skyscrapers-technology-coincidence",
-      "suspension-bridges-tacoma-narrows",
+      "elevators-otis-safety-brake",
       "skyscrapers-name-1880s"
     ],
     "themes": [
@@ -13375,7 +12931,7 @@
       "air-bags-supplement-seat-belts",
       "internal-combustion-engines-hot-gas-work",
       "caffeine-naturally-bitter",
-      "air-bags-blink-deployment"
+      "electric-cars-early-competitive"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -13488,9 +13044,9 @@
     "featured": false,
     "relatedFactIds": [
       "electric-cars-self-starter-shift",
-      "crumple-zones-mercedes-1959",
       "internal-combustion-engines-combustion-inside",
       "internal-combustion-engines-hot-gas-work",
+      "crumple-zones-mercedes-1959",
       "automobile-racing-first-true-race"
     ],
     "themes": [
@@ -13516,10 +13072,10 @@
     "featured": false,
     "relatedFactIds": [
       "electric-cars-early-competitive",
-      "windshield-wipers-cadillac-standard",
       "internal-combustion-engines-combustion-inside",
       "crumple-zones-mercedes-1959",
-      "hybrid-cars-two-power-sources"
+      "hybrid-cars-two-power-sources",
+      "internal-combustion-engines-hot-gas-work"
     ],
     "themes": [
       "energy-and-power",
@@ -13544,9 +13100,9 @@
     "relatedFactIds": [
       "internal-combustion-engines-hot-gas-work",
       "internal-combustion-engines-combustion-inside",
-      "windshield-wipers-cadillac-standard",
       "transmission-torque-converter",
-      "car-horns-klaxon-ahooga"
+      "car-horns-klaxon-ahooga",
+      "air-bags-supplement-seat-belts"
     ],
     "themes": [
       "energy-and-power",
@@ -13601,7 +13157,7 @@
       "crash-test-dummies-vince-larry",
       "crash-test-dummies-measure-crashes",
       "posture-spine-curves",
-      "crumple-zones-safety-cage"
+      "crash-test-dummies-different-bodies"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -13626,11 +13182,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "windshield-wipers-cadillac-standard",
       "internal-combustion-engines-combustion-inside",
+      "brakes-hydraulic-balance",
       "concrete-steel-reinforcement",
       "jet-engines-throw-air-backward",
-      "brakes-hydraulic-balance",
+      "crash-test-dummies-measure-crashes",
       "steel-iron-carbon-alloy"
     ],
     "themes": [
@@ -13716,7 +13272,7 @@
       "internal-combustion-engines-combustion-inside",
       "brakes-hydraulic-balance",
       "hybrid-cars-two-power-sources",
-      "windshield-wipers-cadillac-standard"
+      "electric-cars-early-competitive"
     ],
     "themes": [
       "machines-and-mechanisms",
@@ -13726,7 +13282,7 @@
   {
     "id": "windshield-wipers-snowy-trolley",
     "headline": "Windshield Wipers Came From a Snowy Trolley Ride",
-    "body": "Windshield wipers began with a very everyday problem. Mary Anderson got the idea while riding a trolley through snowy New York City in the early 1900s. She noticed streetcar drivers had to open windows, stop, or step outside just to clear the glass. A bad-weather nuisance became the spark for one of driving's most familiar safety features.",
+    "body": "Windshield wipers began with a very everyday problem. Mary Anderson got the idea while riding a trolley through snowy New York City in the early 1900s. She noticed streetcar drivers had to open windows, stop, or step outside just to clear the glass. She patented her hand-cranked blade in 1903, and by 1922 Cadillac was fitting wipers as standard equipment. A bad-weather nuisance became the spark for one of driving's most familiar safety features.",
     "summary": "Mary Anderson imagined windshield wipers after seeing trolley drivers struggle to see in snowy weather.",
     "categoryId": "cars",
     "topic": "Windshield Wipers",
@@ -13737,12 +13293,12 @@
       "invention",
       "car-safety"
     ],
-    "readTimeSeconds": 52,
+    "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
-      "windshield-wipers-cadillac-standard",
       "windshield-wipers-inside-lever",
       "cruise-control-set-speed",
+      "seat-belts-prevent-ejection",
       "patents-right-to-exclude",
       "qr-codes-car-parts",
       "industrial-revolution-illegal-export"
@@ -13768,11 +13324,11 @@
     "featured": false,
     "relatedFactIds": [
       "windshield-wipers-snowy-trolley",
-      "windshield-wipers-cadillac-standard",
       "seat-belts-prevent-ejection",
+      "cruise-control-set-speed",
       "patents-protect-innovation-cycle",
       "qr-codes-everyday-bridge",
-      "cruise-control-set-speed"
+      "patents-three-main-types"
     ],
     "themes": [
       "invention-and-breakthrough",
@@ -13781,37 +13337,9 @@
     ]
   },
   {
-    "id": "windshield-wipers-cadillac-standard",
-    "headline": "Wipers Were an Optional Extra Until Cadillac in 1922",
-    "body": "The windshield wiper didn't instantly appear on every car. Mary Anderson dreamed it up while riding a New York trolley on a snowy day in the early 1900s, watching drivers stop and climb out to clear the glass by hand. Her 1903 patent used a lever inside the cab to swing a spring-loaded rubber blade, with a counterweight holding it against the window. It was the first wiper that actually worked. In 1922, Cadillac began fitting them as standard equipment.",
-    "summary": "Cadillac began installing windshield wipers as standard equipment in 1922.",
-    "categoryId": "cars",
-    "topic": "Windshield Wipers",
-    "tags": [
-      "cars",
-      "windshield-wipers",
-      "cadillac",
-      "automotive-history",
-      "standard-equipment"
-    ],
-    "readTimeSeconds": 56,
-    "featured": false,
-    "relatedFactIds": [
-      "windshield-wipers-snowy-trolley",
-      "windshield-wipers-inside-lever",
-      "electric-cars-self-starter-shift",
-      "car-horns-klaxon-ahooga",
-      "hybrid-cars-two-power-sources"
-    ],
-    "themes": [
-      "invention-and-breakthrough",
-      "machines-and-mechanisms"
-    ]
-  },
-  {
     "id": "air-bags-supplement-seat-belts",
     "headline": "Air Bags Inflate Using a Tiny Explosion",
-    "body": "An airbag has to go from folded to fully inflated in well under a tenth of a second — far too fast for a simple pump. So it uses a small, controlled chemical explosion instead. A crash sensor triggers an igniter, which sets off a rapid reaction that floods the bag with gas almost instantly. There's basically a tiny, carefully tamed blast hidden inside your steering wheel.",
+    "body": "An airbag has to go from folded to fully inflated in less than a twentieth of a second — far too fast for a simple pump. So it uses a small, controlled chemical explosion instead. A crash sensor triggers an igniter, which sets off a rapid reaction that floods the bag with gas almost instantly. There's basically a tiny, carefully tamed blast hidden inside your steering wheel.",
     "summary": "An airbag fires faster than you can blink by setting off a tiny controlled explosion in the wheel.",
     "categoryId": "cars",
     "topic": "Air Bags",
@@ -13821,14 +13349,14 @@
       "safety",
       "science"
     ],
-    "readTimeSeconds": 50,
+    "readTimeSeconds": 46,
     "featured": false,
     "relatedFactIds": [
-      "air-bags-blink-deployment",
       "internal-combustion-engines-hot-gas-work",
       "crash-test-dummies-different-bodies",
       "light-switch-1884",
       "poison-ivy-three-leaflets",
+      "crash-test-dummies-measure-crashes",
       "automobiles-early-electric-cars"
     ],
     "themes": [
@@ -13838,38 +13366,9 @@
     ]
   },
   {
-    "id": "air-bags-blink-deployment",
-    "headline": "Air Bags Inflate in Less Than 1/20th of a Second",
-    "body": "An air bag has to work almost instantly. In a moderate to severe crash, the system sends a signal to an inflator inside the air bag module. An igniter starts a chemical reaction that produces gas and inflates the bag in the blink of an eye — less than 1/20th of a second. That speed is exactly why sitting too close can be dangerous.",
-    "summary": "An igniter sets off a chemical reaction that fills the bag with gas before you can blink.",
-    "categoryId": "cars",
-    "topic": "Air Bags",
-    "tags": [
-      "cars",
-      "air-bags",
-      "inflators",
-      "crash-safety",
-      "nhtsa"
-    ],
-    "readTimeSeconds": 54,
-    "featured": false,
-    "relatedFactIds": [
-      "air-bags-supplement-seat-belts",
-      "crumple-zones-mercedes-1959",
-      "crash-test-dummies-different-bodies",
-      "electric-cars-early-competitive",
-      "seat-belts-webbing-strength"
-    ],
-    "themes": [
-      "materials-and-chemistry",
-      "disaster-and-catastrophe",
-      "motion-and-force"
-    ]
-  },
-  {
     "id": "crumple-zones-mercedes-1959",
     "headline": "Cars Were Built Rigid Until Mercedes Made Them Fold in 1959",
-    "body": "Crumple zones weren't always part of car design. Early car bodies were built to be rigid, with less concern for what happened to occupants in a crash. In 1959, Mercedes-Benz began building cars designed to absorb impact energy using the crumple-zone concept. Later safety ratings pushed nearly all passenger-car and light-truck makers toward the design.",
+    "body": "Crumple zones weren't always part of car design. Early cars were built rigid, with little concern for what happened to occupants in a crash. In 1959, Mercedes-Benz began building cars engineered to crumple: the outer body deforms to absorb impact energy while a rigid cage around the passengers preserves survival space. Good crash design means sacrificing parts of the car to protect the people inside. Later safety ratings pushed nearly every automaker toward the approach.",
     "summary": "Mercedes-Benz began making cars with crumple-zone impact absorption in 1959.",
     "categoryId": "cars",
     "topic": "Crumple Zones",
@@ -13880,48 +13379,20 @@
       "automotive-history",
       "crash-safety"
     ],
-    "readTimeSeconds": 52,
+    "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
-      "crumple-zones-safety-cage",
-      "electric-cars-early-competitive",
       "electric-cars-self-starter-shift",
-      "air-bags-blink-deployment",
-      "crash-test-dummies-different-bodies"
-    ],
-    "themes": [
-      "energy-and-power",
-      "disaster-and-catastrophe",
-      "architecture-and-structures"
-    ]
-  },
-  {
-    "id": "crumple-zones-safety-cage",
-    "headline": "Good Crash Design Sacrifices the Car to Save the People",
-    "body": "Crumple zones are only part of the crash-safety system. An engineered crumple zone works best alongside a rigid occupant compartment, also called a safety cage. The outer parts of the vehicle are made to deform and absorb energy, while the passenger area is built to preserve survival space. Good crash design means sacrificing parts of the car to protect the people inside.",
-    "summary": "Crumple zones absorb impact energy while a rigid safety cage helps preserve passenger space.",
-    "categoryId": "cars",
-    "topic": "Crumple Zones",
-    "tags": [
-      "cars",
-      "crumple-zones",
-      "safety-cage",
-      "occupant-compartment",
-      "car-safety"
-    ],
-    "readTimeSeconds": 54,
-    "featured": false,
-    "relatedFactIds": [
-      "crumple-zones-mercedes-1959",
-      "crash-test-dummies-vince-larry",
-      "seat-belts-webbing-strength",
+      "electric-cars-early-competitive",
       "crash-test-dummies-different-bodies",
-      "windshield-wipers-snowy-trolley"
+      "crash-test-dummies-vince-larry",
+      "crash-test-dummies-measure-crashes"
     ],
     "themes": [
       "self-sacrifice",
       "energy-and-power",
-      "disaster-and-catastrophe"
+      "disaster-and-catastrophe",
+      "architecture-and-structures"
     ]
   },
   {
@@ -13942,10 +13413,10 @@
     "featured": false,
     "relatedFactIds": [
       "car-horns-vibrating-diaphragm",
-      "windshield-wipers-cadillac-standard",
       "internal-combustion-engines-hot-gas-work",
       "hybrid-cars-two-power-sources",
-      "seat-belts-prevent-ejection"
+      "seat-belts-prevent-ejection",
+      "windshield-wipers-snowy-trolley"
     ],
     "themes": [
       "invention-and-breakthrough",
@@ -14027,7 +13498,7 @@
       "crash-test-dummies-vince-larry",
       "seat-belts-prevent-ejection",
       "autopilot-complex-flight-plans",
-      "viral-challenges-three-types",
+      "walking-under-ladders-practical-danger",
       "seat-belts-webbing-strength"
     ],
     "themes": [
@@ -14056,8 +13527,8 @@
       "crash-test-dummies-different-bodies",
       "crash-test-dummies-measure-crashes",
       "seat-belts-webbing-strength",
-      "crumple-zones-safety-cage",
-      "seat-belts-prevent-ejection"
+      "seat-belts-prevent-ejection",
+      "air-bags-supplement-seat-belts"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -14254,7 +13725,7 @@
       "quantum-mechanics-microscopic-predictions",
       "lasers-light-copy-itself",
       "quasars-near-light-speed-jets",
-      "superconductivity-zero-resistance"
+      "light-exact-speed"
     ],
     "themes": [
       "stars-and-cosmos"
@@ -14338,7 +13809,7 @@
       "superconductivity-zero-resistance",
       "lasers-mirrors-build-beam",
       "light-switch-infrastructure",
-      "light-bulb-changed-night"
+      "airplanes-four-forces"
     ],
     "themes": [
       "energy-and-power",
@@ -14507,9 +13978,9 @@
     "featured": false,
     "relatedFactIds": [
       "magnetism-domains-powerful-magnets",
-      "gravity-weak-universe-shaping",
       "time-relativity-observer-dependent",
-      "age-of-exploration-circumnavigation",
+      "gravity-weak-universe-shaping",
+      "meteor-showers-tons-fall-daily",
       "shackleton-nimrod-near-pole"
     ],
     "themes": [
@@ -14823,7 +14294,7 @@
       "time-relativity-observer-dependent",
       "quantum-mechanics-hilbert-space",
       "asteroids-less-mass-than-moon",
-      "maya-astronomy",
+      "golf-scotland-real-golf",
       "moon-volcanoes-io"
     ],
     "themes": [
@@ -14963,8 +14434,8 @@
       "superconductivity-meissner-effect",
       "electricity-electric-charges",
       "light-switch-infrastructure",
-      "light-bulb-changed-night",
-      "data-centers-small-town-electricity"
+      "hydroelectric-power-water-battery",
+      "electricity-static-electron-transfer"
     ],
     "themes": [
       "energy-and-power",
@@ -16232,7 +15703,7 @@
       "zero-placeholder-power",
       "cryptography-secret-communication",
       "voynich-yale-library",
-      "captcha-checkbox-movement"
+      "voynich-unreadable-script"
     ],
     "themes": [
       "numbers-and-mathematics",
@@ -16366,8 +15837,8 @@
       "fibonacci-number-pattern",
       "fibonacci-golden-ratio",
       "zero-cultural-journey",
-      "algebra-equations-took-centuries",
       "algebra-symbols-generalize-math",
+      "algebra-equations-took-centuries",
       "fractals-repeat-shape"
     ],
     "themes": [
@@ -16396,7 +15867,7 @@
       "golden-ratio-one-point-six-one-eight",
       "bees-pollination",
       "seahorses-male-give-birth",
-      "bees-royal-jelly"
+      "fractals-repeat-shape"
     ],
     "themes": [
       "parental-care",
@@ -16502,8 +15973,8 @@
       "zero-cultural-journey",
       "zero-placeholder-power",
       "pi-ancient-approximations",
-      "ancient-india-zero",
-      "maya-zero"
+      "maya-zero",
+      "calculus-tiny-pieces-whole"
     ],
     "themes": [
       "numbers-and-mathematics",
@@ -16528,8 +15999,8 @@
       "zero-cultural-journey",
       "zero-nothing-and-number",
       "calculus-tiny-pieces-whole",
-      "ancient-india-zero",
       "maya-zero",
+      "stars-one-septillion",
       "algebra-before-symbols"
     ],
     "themes": [
@@ -16554,8 +16025,8 @@
       "zero-placeholder-power",
       "zero-nothing-and-number",
       "algebra-equations-took-centuries",
-      "ancient-india-zero",
       "maya-zero",
+      "fibonacci-rabbit-origin",
       "pi-ancient-approximations"
     ],
     "themes": [
@@ -16633,8 +16104,8 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "algebra-symbols-generalize-math",
       "algebra-equations-took-centuries",
+      "algebra-symbols-generalize-math",
       "geometry-earth-measurement",
       "babylonians-astronomy",
       "zero-placeholder-power"
@@ -16933,8 +16404,8 @@
       "chaos-theory-strange-attractors",
       "chaos-theory-rules-unpredictable",
       "prime-numbers-building-blocks",
-      "logarithms-multiplication-addition",
-      "golden-ratio-euclid-origin"
+      "golden-ratio-euclid-origin",
+      "logarithms-multiplication-addition"
     ],
     "themes": [
       "flight-and-aviation",
@@ -17639,7 +17110,7 @@
       "monopolies-competition-spectrum",
       "franchises-support-control-tradeoff",
       "corporations-owned-by-shareholders",
-      "trade-secrets-can-last-indefinitely"
+      "supply-demand-price-signal"
     ],
     "themes": []
   },
@@ -18171,7 +17642,8 @@
       "business-cards-first-impression",
       "advertising-modern-printing",
       "lucky-numbers-symbolism",
-      "dragons-appear-worldwide"
+      "dragons-appear-worldwide",
+      "trademarks-protect-brands"
     ],
     "themes": [
       "money-trade-and-value",
@@ -18357,8 +17829,8 @@
       "trade-secrets-valuable-because-secret",
       "trade-secrets-can-last-indefinitely",
       "patents-three-main-types",
-      "monopolies-one-seller-power",
-      "franchises-license-a-business"
+      "franchises-license-a-business",
+      "monopolies-one-seller-power"
     ],
     "themes": [
       "money-trade-and-value",
@@ -18437,11 +17909,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "trademarks-not-own-word",
       "trademarks-identify-source",
+      "trademarks-not-own-word",
       "brands-identity-not-logo",
       "velcro-manufacturing-challenge",
-      "search-engines-google-backrub",
+      "business-cards-calling-card-origin",
       "brands-shape-perception"
     ],
     "themes": [
@@ -18578,8 +18050,8 @@
       "barter-oldest-commerce",
       "barter-gift-exchange-different",
       "currency-can-be-unusual",
-      "motivation-money-association",
-      "recession-business-cycle-downturn"
+      "recession-business-cycle-downturn",
+      "banking-creates-bank-money"
     ],
     "themes": [
       "money-trade-and-value",
@@ -18742,8 +18214,8 @@
       "currency-more-than-cash",
       "barter-oldest-commerce",
       "barter-direct-exchange",
-      "motivation-money-association",
-      "gdp-measures-output"
+      "gdp-measures-output",
+      "economic-bubbles-boom-and-bust"
     ],
     "themes": [
       "money-trade-and-value",
@@ -19340,8 +18812,8 @@
       "supply-chains-raw-to-retail",
       "supply-chains-ev-complexity",
       "economic-bubbles-dot-com-surge",
-      "recession-ripples-through-economy",
-      "globalization-industrial-revolution"
+      "globalization-industrial-revolution",
+      "recession-ripples-through-economy"
     ],
     "themes": [
       "money-trade-and-value",
@@ -19882,8 +19354,8 @@
       "detective-fiction-reader-sleuth",
       "detective-fiction-hard-boiled",
       "epic-poems-heroic-scale",
-      "banned-books-history-old",
-      "storytelling-older-than-writing"
+      "storytelling-older-than-writing",
+      "banned-books-history-old"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -20532,7 +20004,7 @@
       "printing-press-idea-machine",
       "world-records-global-brand",
       "renaissance-constantinople",
-      "printing-press-mass-copying",
+      "air-conditioning-printing-plant",
       "cold-war-orwell"
     ],
     "themes": [
@@ -21162,8 +20634,8 @@
       "loanwords-change-after-borrowing",
       "loanwords-language-borrowing",
       "alphabet-name-alpha-beta",
-      "dollar-sign-spanish-pesos",
-      "orange-long-wavelength"
+      "orange-long-wavelength",
+      "dollar-sign-spanish-pesos"
     ],
     "themes": [
       "origins-and-naming",
@@ -21753,8 +21225,8 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "punctuation-comma-from-slash",
       "punctuation-spaces-enabled-silent-reading",
+      "punctuation-comma-from-slash",
       "dictionaries-not-always-alphabetical",
       "libraries-alexandria-symbol",
       "question-mark-inside-sentence",
@@ -22934,9 +22406,9 @@
       "skyscrapers-technology-coincidence",
       "skyscrapers-name-1880s",
       "ancient-temples-sacred-design",
-      "cranes-lift-and-shift-sideways",
+      "elevators-otis-safety-brake",
       "great-chicago-fire-wooden-city",
-      "elevators-otis-safety-brake"
+      "cranes-lift-and-shift-sideways"
     ],
     "themes": [
       "architecture-and-structures",
@@ -25578,7 +25050,7 @@
       "stethoscope-distance-invention",
       "germ-theory-microbes-cause-disease",
       "insulin-discovery-transformed-diabetes",
-      "transplant-surgery-donor-shortage"
+      "anesthesia-ether-public-demo"
     ],
     "themes": [
       "parental-care",
@@ -25660,7 +25132,7 @@
       "anesthesia-made-surgery-bearable",
       "transplant-surgery-donor-shortage",
       "insulin-discovery-transformed-diabetes",
-      "stethoscope-distance-invention"
+      "blood-transfusions-human-blood-breakthrough"
     ],
     "themes": [
       "origins-and-naming",
@@ -25725,7 +25197,7 @@
   },
   {
     "id": "antibiotics-penicillin-accident",
-    "headline": "The First Penicillin Patient Was Saved by His Own Urine",
+    "headline": "The First Penicillin Patient's Medicine Was Recycled From His Urine",
     "body": "Alexander Fleming noticed in 1928 that a stray mold had killed bacteria on a forgotten dish, but he could barely make the drug. Years later, other scientists treated a policeman dying from a scratch he got pruning roses. He improved fast, then they ran out of penicillin. It was so precious they filtered it back out of his urine to keep dosing him. Even that was not enough, and he died.",
     "summary": "Penicillin was so scarce that doctors recovered it from a patient's urine to keep treating him.",
     "categoryId": "medicine",
@@ -25741,8 +25213,8 @@
       "antibiotics-resistance-evolution",
       "antibiotics-target-bacteria",
       "placebo-effect-clinical-trials",
-      "anesthesia-made-surgery-bearable",
       "anesthesia-not-always-unconscious",
+      "anesthesia-made-surgery-bearable",
       "placebo-effect-expectation"
     ],
     "themes": [
@@ -25794,8 +25266,8 @@
     "featured": false,
     "relatedFactIds": [
       "blood-types-landsteiner",
-      "transplant-surgery-rejection",
       "blood-transfusions-began-before-types",
+      "transplant-surgery-rejection",
       "blood-transfusions-storage-changed-everything",
       "mri-magnets-not-x-rays"
     ],
@@ -26067,8 +25539,8 @@
       "insulin-pancreas-beta-cells",
       "insulin-blood-sugar-signal",
       "anesthesia-not-always-unconscious",
-      "stethoscope-distance-invention",
       "blood-transfusions-human-blood-breakthrough",
+      "diagnostic-imaging-many-tools",
       "anesthesia-ether-public-demo"
     ],
     "themes": [
@@ -26096,7 +25568,7 @@
       "mri-soft-tissue-detail",
       "blood-types-landsteiner",
       "blood-types-antigens",
-      "blood-transfusions-began-before-types"
+      "transplant-surgery-rejection"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -26284,8 +25756,8 @@
       "prosthetics-more-than-limbs",
       "prosthetics-function-and-identity",
       "x-rays-bones-visible",
-      "medical-robots-three-main-parts",
-      "blood-types-antigens"
+      "blood-types-antigens",
+      "blood-types-landsteiner"
     ],
     "themes": [
       "human-body-quirks",
@@ -26335,10 +25807,10 @@
     "featured": false,
     "relatedFactIds": [
       "stethoscope-distance-invention",
-      "stethoscope-symbol-of-medicine",
       "germ-theory-changed-cleanliness",
       "blood-transfusions-began-before-types",
-      "insulin-pancreas-beta-cells"
+      "insulin-pancreas-beta-cells",
+      "germ-theory-key-figures"
     ],
     "themes": [
       "human-body-quirks",
@@ -26350,7 +25822,7 @@
   {
     "id": "stethoscope-distance-invention",
     "headline": "Embarrassment Invented the Stethoscope",
-    "body": "In 1816, French doctor Rene Laennec needed to listen to a young woman's heart but felt too awkward to press his ear directly to her chest, as was then the custom. So he rolled a sheet of paper into a tight tube, put one end to her chest and the other to his ear, and was amazed to hear the heartbeat more clearly than ever. One of medicine's most iconic instruments was born from a moment of simple embarrassment.",
+    "body": "In 1816, French doctor Rene Laennec needed to listen to a young woman's heart but felt too awkward to press his ear directly to her chest, as was then the custom. So he rolled a sheet of paper into a tight tube, put one end to her chest and the other to his ear, and was amazed to hear the heartbeat more clearly than ever. Born from a moment of simple embarrassment, the instrument endures two centuries later as the very symbol of medicine, draped around nearly every doctor's neck.",
     "summary": "Laennec invented the stethoscope because he was too embarrassed to press his ear to a patient's chest.",
     "categoryId": "medicine",
     "topic": "Stethoscope",
@@ -26359,47 +25831,20 @@
       "medical-history",
       "auscultation"
     ],
-    "readTimeSeconds": 52,
+    "readTimeSeconds": 56,
     "featured": false,
     "relatedFactIds": [
       "stethoscope-listening-tool",
-      "stethoscope-symbol-of-medicine",
       "blood-transfusions-human-blood-breakthrough",
       "transplant-surgery-donor-shortage",
       "insulin-discovery-transformed-diabetes",
-      "anesthesia-ether-public-demo"
+      "anesthesia-not-always-unconscious"
     ],
     "themes": [
       "medicine-and-cures",
       "human-body-quirks",
-      "invention-and-breakthrough",
-      "music-and-sound"
-    ]
-  },
-  {
-    "id": "stethoscope-symbol-of-medicine",
-    "headline": "Medicine's Most Famous Tool Started as a Rolled Paper Tube",
-    "body": "Two centuries after a rolled paper tube started it all, the stethoscope is medicine's most recognizable symbol, draped around necks on every hospital ward. Some doctors now argue pocket-sized ultrasound devices can \"see\" what the stethoscope only \"hears,\" and may one day replace it. Yet it endures, cheap, instant, and personal, a quiet act of listening to a patient. It remains the badge of the profession precisely because it represents hands-on, attentive care.",
-    "summary": "Despite pocket ultrasound rivals, the 200-year-old stethoscope endures as medicine's symbol.",
-    "categoryId": "medicine",
-    "topic": "Stethoscope",
-    "tags": [
-      "stethoscope",
-      "medical-symbols",
-      "doctors"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "stethoscope-distance-invention",
-      "stethoscope-listening-tool",
-      "anesthesia-made-surgery-bearable",
-      "anesthesia-not-always-unconscious",
-      "vaccines-train-immune-system"
-    ],
-    "themes": [
-      "medicine-and-cures",
-      "survival-adaptation"
+      "survival-adaptation",
+      "invention-and-breakthrough"
     ]
   },
   {
@@ -26475,8 +25920,8 @@
       "transplant-surgery-rejection",
       "transplant-surgery-more-than-organs",
       "anesthesia-not-always-unconscious",
-      "stethoscope-distance-invention",
       "blood-transfusions-human-blood-breakthrough",
+      "x-rays-accidental-discovery-impact",
       "anesthesia-ether-public-demo"
     ],
     "themes": [
@@ -26611,7 +26056,7 @@
       "x-rays-bones-visible",
       "transplant-surgery-donor-shortage",
       "anesthesia-not-always-unconscious",
-      "stethoscope-distance-invention",
+      "blood-transfusions-human-blood-breakthrough",
       "diagnostic-imaging-many-tools"
     ],
     "themes": [
@@ -26635,44 +26080,16 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "medical-robots-three-main-parts",
       "medical-robots-minimally-invasive",
       "insulin-pancreas-beta-cells",
       "germ-theory-key-figures",
-      "anesthesia-not-always-unconscious"
+      "anesthesia-not-always-unconscious",
+      "germ-theory-changed-cleanliness"
     ],
     "themes": [
       "automation-robots-ai",
       "medicine-and-cures",
       "human-body-quirks"
-    ]
-  },
-  {
-    "id": "medical-robots-three-main-parts",
-    "headline": "The Surgeon Never Touches the Patient",
-    "body": "A robotic surgery setup has three pieces: robotic arms holding tiny instruments, a high-definition 3D camera, and a console where the surgeon sits. The strange part is the distance. The surgeon is not leaning over the patient at all. They sit at the console a few feet away, peering into a 3D viewer and working hand controls, almost like playing an immersive video game. The robot's arms, not the surgeon's hands, are what enter the body.",
-    "summary": "In robotic surgery the surgeon works from a nearby console and never touches the patient.",
-    "categoryId": "medicine",
-    "topic": "Medical Robots",
-    "tags": [
-      "medical-robots",
-      "surgical-robots",
-      "medical-technology"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "medical-robots-minimally-invasive",
-      "medical-robots-surgeon-controlled",
-      "stethoscope-distance-invention",
-      "germ-theory-changed-cleanliness",
-      "vaccines-train-immune-system"
-    ],
-    "themes": [
-      "games-and-play",
-      "automation-robots-ai",
-      "medicine-and-cures",
-      "music-and-sound"
     ]
   },
   {
@@ -26690,11 +26107,11 @@
     "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
-      "medical-robots-three-main-parts",
       "medical-robots-surgeon-controlled",
       "transplant-surgery-donor-shortage",
-      "stethoscope-distance-invention",
-      "vaccines-train-immune-system"
+      "vaccines-train-immune-system",
+      "anesthesia-not-always-unconscious",
+      "stethoscope-listening-tool"
     ],
     "themes": [
       "automation-robots-ai",
@@ -28084,6 +27501,7 @@
       "hail-growing-ice",
       "hail-minimum-size",
       "atmosphere-layered",
+      "penguins-winter-breeding",
       "thunder-lightning-sound",
       "clouds-cumulonimbus-storms"
     ],
@@ -28706,8 +28124,7 @@
       "atmosphere-circulation-deflection",
       "hail-different-from-sleet",
       "hibernation-bears-misleading",
-      "thunder-lightning-sound",
-      "hail-growing-ice"
+      "thunder-lightning-sound"
     ],
     "themes": [
       "extreme-temperature",
@@ -29347,8 +28764,8 @@
     "featured": false,
     "relatedFactIds": [
       "velcro-manufacturing-challenge",
-      "qr-codes-everyday-bridge",
       "printing-press-spread-ideas",
+      "qr-codes-everyday-bridge",
       "professional-sleepers-head-down",
       "hubble-repaired-by-astronauts",
       "odor-judges-symptom-timing"
@@ -29458,7 +28875,7 @@
     "relatedFactIds": [
       "batteries-electrochemical-cells",
       "batteries-primary-vs-storage",
-      "light-bulb-changed-night",
+      "printing-press-gutenberg-bible",
       "oxidation-electron-loss",
       "salar-de-uyuni-lithium"
     ],
@@ -29677,8 +29094,8 @@
       "gps-satellite-positioning",
       "gps-everyday-infrastructure",
       "ballpoint-pen-ink-problem",
-      "light-bulb-changed-night",
-      "wheel-spokes-chariots"
+      "wheel-spokes-chariots",
+      "wheel-axle-basic"
     ],
     "themes": [
       "exploration-and-navigation",
@@ -29783,7 +29200,7 @@
       "television-motion-illusion",
       "qr-codes-everyday-bridge",
       "three-d-movies-television-threat",
-      "telephone-transmits-speech"
+      "safety-pin-debt"
     ],
     "themes": [
       "invention-and-breakthrough"
@@ -29896,9 +29313,9 @@
   },
   {
     "id": "light-bulb-changed-night",
-    "headline": "Edison Electrocuted Animals to Win the 'War of Currents'",
-    "body": "Once bulbs existed, a brutal fight broke out over how to deliver the electricity to power them. Edison backed direct current, while Tesla and Westinghouse promoted alternating current, which worked better over distance. To frighten the public away from his rivals' system, Edison staged grim public demonstrations electrocuting animals with AC to paint it as deadly, and even quietly helped promote the first electric chair. AC won anyway, and it is what powers your home today.",
-    "summary": "To discredit rival AC power, Edison publicly electrocuted animals during the 'War of the Currents.'",
+    "headline": "Your Home Runs on the Current Edison Fought to Destroy",
+    "body": "Once light bulbs existed, a fierce fight broke out over how to deliver electricity to them. Thomas Edison championed direct current, while Nikola Tesla and George Westinghouse backed alternating current, which could travel far more cheaply over long distances. Edison waged a bitter public campaign to convince people his rivals' system was too dangerous to trust. He lost. Alternating current won the 'War of the Currents,' and it is exactly what powers your home today.",
+    "summary": "The AC power in your walls won the bitter 'War of the Currents' — the very system Thomas Edison fought hard to defeat.",
     "categoryId": "inventions",
     "topic": "Light Bulb",
     "tags": [
@@ -29906,18 +29323,18 @@
       "war-of-the-currents",
       "electricity"
     ],
-    "readTimeSeconds": 51,
+    "readTimeSeconds": 54,
     "featured": false,
     "relatedFactIds": [
       "light-bulb-filament",
       "light-bulb-not-one-inventor-story",
       "batteries-electrochemical-cells",
       "light-switch-infrastructure",
-      "superconductivity-zero-resistance",
-      "electricity-static-electron-transfer"
+      "superconductivity-zero-resistance"
     ],
     "themes": [
       "energy-and-power",
+      "lost-and-rediscovered",
       "war-and-conflict"
     ]
   },
@@ -29941,7 +29358,7 @@
       "qr-codes-everyday-bridge",
       "patents-three-main-types",
       "safety-pin-debt",
-      "television-kept-changing"
+      "radio-golden-age"
     ],
     "themes": [
       "invention-and-breakthrough"
@@ -30310,8 +29727,8 @@
       "christianity-scripture-and-authority",
       "christianity-rooted-in-jesus",
       "monotheism-shared-and-distinct",
-      "roman-empire-roads-survive",
-      "monotheism-one-god"
+      "monotheism-one-god",
+      "religion-symbols-matter"
     ],
     "themes": [
       "hidden-underground",
@@ -30438,8 +29855,7 @@
       "hinduism-dharma-paths",
       "pilgrimage-many-destinations",
       "black-holes-light-cannot-escape",
-      "time-hard-to-define",
-      "light-years-early-universe"
+      "time-hard-to-define"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -31697,7 +31113,7 @@
       "dinosaur-extinction-kpg-scale",
       "dinosaur-eggs-embryos-rare",
       "dinosaur-eggs-nesting-colonies",
-      "tyrannosaurus-predator-scavenger"
+      "ankylosaurus-tail-club"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -33154,9 +32570,9 @@
     "relatedFactIds": [
       "buccaneers-started-as-hunters",
       "buccaneers-targeted-spain",
+      "pirate-codes-harsh-punishments",
       "pirate-codes-articles",
-      "female-pirates-bonny-read",
-      "privateers-legal-raiders"
+      "female-pirates-bonny-read"
     ],
     "themes": [
       "money-trade-and-value",
@@ -33208,8 +32624,8 @@
       "captain-kidd-privateer",
       "treasure-maps-navigation-intelligence",
       "pirate-ships-cannon",
-      "atari-cartridge-shift",
-      "blackbeard-treasure-myth"
+      "blackbeard-treasure-myth",
+      "pirate-codes-articles"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -33237,7 +32653,7 @@
       "jolly-roger-not-always-flown",
       "treasure-maps-saved-life",
       "afterimages-retina-desensitized",
-      "blackbeard-queen-annes-revenge"
+      "pirate-codes-harsh-punishments"
     ],
     "themes": [
       "human-body-quirks",
@@ -33313,8 +32729,8 @@
       "privateers-blurred-line",
       "privateers-profit-motive",
       "captain-kidd-privateer",
-      "golden-age-of-piracy-privateering-to-piracy",
-      "buccaneers-democratic-discipline"
+      "buccaneers-democratic-discipline",
+      "pirate-codes-articles"
     ],
     "themes": [
       "money-trade-and-value",
@@ -33470,8 +32886,8 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "pirate-codes-shares",
       "pirate-codes-harsh-punishments",
+      "pirate-codes-shares",
       "buccaneers-democratic-discipline",
       "golden-age-of-piracy-black-bart-400-ships",
       "ancient-greece-democracy"
@@ -33507,9 +32923,9 @@
   },
   {
     "id": "pirate-codes-harsh-punishments",
-    "headline": "Marooning Left a Pirate Alone With a Single Shot",
-    "body": "Pirate justice could be chillingly precise. One of the worst punishments was marooning: abandoning an offender on a tiny, deserted spit of sand with almost nothing. By grim custom he was often left with a bottle of water and a loaded pistol holding a single shot, the unspoken suggestion being that he could face slow death by thirst and exposure, or use the one bullet on himself. For betraying the crew, a pirate was sentenced to lonely, near-certain doom.",
-    "summary": "Marooned pirates were left on a barren sandbar with little more than a pistol holding a single shot.",
+    "headline": "Pirates Dreaded Marooning More Than a Sea Battle",
+    "body": "Pirate crews governed themselves with written codes, and their harshest sentence was marooning. A pirate who betrayed the crew was rowed to a tiny, deserted spit of sand — often little more than a sandbar that vanished at high tide — and left behind as the ship sailed away. With no fresh water and no way off the island, the punishment traded a quick fight for slow, lonely isolation. To a pirate, being cut off from the crew was a fate worse than any battle.",
+    "summary": "The pirate code's worst sentence was marooning — being abandoned alone on a tiny, deserted spit of sand.",
     "categoryId": "pirates",
     "topic": "Pirate Codes",
     "tags": [
@@ -33517,16 +32933,21 @@
       "marooning",
       "punishment"
     ],
-    "readTimeSeconds": 52,
+    "readTimeSeconds": 56,
     "featured": false,
     "relatedFactIds": [
-      "pirate-codes-shares",
       "pirate-codes-articles",
+      "pirate-codes-shares",
       "buccaneers-democratic-discipline",
-      "pirate-ships-langrage",
-      "jolly-roger-custom-designs"
+      "female-pirates-bonny-read",
+      "privateers-legal-raiders"
     ],
-    "themes": []
+    "themes": [
+      "gravity-and-orbits",
+      "money-trade-and-value",
+      "lost-and-rediscovered",
+      "war-and-conflict"
+    ]
   },
   {
     "id": "female-pirates-bonny-read",
@@ -33545,9 +32966,9 @@
     "relatedFactIds": [
       "privateers-blurred-line",
       "buccaneers-democratic-discipline",
+      "pirate-codes-harsh-punishments",
       "pirate-ships-langrage",
-      "pirate-codes-articles",
-      "blackbeard-queen-annes-revenge"
+      "pirate-codes-articles"
     ],
     "themes": [
       "record-extremes",
@@ -33654,7 +33075,7 @@
       "pirate-ships-langrage",
       "pirate-havens-nassau",
       "treasure-maps-saved-life",
-      "pirate-codes-articles"
+      "pirate-codes-harsh-punishments"
     ],
     "themes": [
       "motion-and-force"
@@ -34222,7 +33643,7 @@
       "dungeon-myths-oubliette",
       "battlements-dropped-objects",
       "battlements-became-decoration",
-      "hillforts-ramparts-ditches"
+      "siege-towers-protected-approach"
     ],
     "themes": [
       "money-trade-and-value",
@@ -34680,7 +34101,7 @@
       "krakatoa-loudest-sound",
       "earthquake-engineering-strong-joints",
       "skyscrapers-name-1880s",
-      "skyscrapers-technology-coincidence"
+      "elevators-otis-safety-brake"
     ],
     "themes": [
       "architecture-and-structures",
@@ -36967,7 +36388,7 @@
       "vacuum-cleaners-horse-drawn",
       "superconductivity-zero-resistance",
       "light-bulb-changed-night",
-      "data-centers-small-town-electricity"
+      "hydroelectric-power-water-battery"
     ],
     "themes": [
       "energy-and-power"
@@ -38041,7 +37462,7 @@
     "relatedFactIds": [
       "question-mark-inside-sentence",
       "question-mark-uncertainty",
-      "check-mark-yes-symbol",
+      "yinyang-complementary-forces",
       "punctuation-originally-for-reading-aloud",
       "phoenicians-alphabet"
     ],
@@ -39959,7 +39380,7 @@
       "blind-spots-sharp-fovea",
       "ancient-temples-cella-inner-room",
       "fly-geyser-art-landscape",
-      "bridges-materials-changed-spans"
+      "pizza-roman-no-tomatoes"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -40092,8 +39513,8 @@
       "blind-spots-optic-nerve",
       "blind-spots-brain-fills-in",
       "afterimages-retina-desensitized",
-      "webb-13-billion-years",
-      "afterimages-not-on-wall"
+      "afterimages-not-on-wall",
+      "the-dress-color-constancy"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -41015,8 +40436,8 @@
       "one-time-pad-hard-distribution",
       "one-time-pad-spy-booklets",
       "pigpen-freemason-cipher",
-      "scytale-transposition",
-      "book-cipher-key-weakness"
+      "book-cipher-key-weakness",
+      "scytale-transposition"
     ],
     "themes": [
       "energy-and-power",
@@ -41996,7 +41417,7 @@
     "relatedFactIds": [
       "broken-mirrors-ancient-reflections",
       "broken-mirrors-roman-mirrors",
-      "black-cats-not-always-bad",
+      "knocking-wood-avoid-jinx",
       "fairies-global-analogues",
       "sleep-paralysis-hallucinations",
       "four-leaf-clovers-not-shamrocks"
@@ -42079,7 +41500,7 @@
       "smiling-duchenne-muscles",
       "personal-space-learned-rules",
       "gestures-co-speech",
-      "eye-contact-cultural-meaning"
+      "crossed-arms-not-always-defensive"
     ],
     "themes": []
   },
@@ -42180,8 +41601,8 @@
       "personal-space-learned-rules",
       "eye-contact-hierarchy",
       "crossed-arms-negative-default",
+      "memory-fading-helps-time",
       "eyes-retina-part-of-brain",
-      "sleep-half-brain-awake",
       "deja-vu-brain-misfire"
     ],
     "themes": [
@@ -42363,8 +41784,8 @@
       "facial-expressions-emotional-signals",
       "facial-expressions-evolution",
       "smiling-short-expression",
-      "habits-single-experience",
       "emotions-change-thinking",
+      "microexpressions-macro-difference",
       "gestures-before-words"
     ],
     "themes": [
@@ -42624,8 +42045,8 @@
       "microexpressions-macro-difference",
       "facial-expressions-universal",
       "smiling-short-expression",
-      "gestures-before-words",
-      "facial-expressions-emotional-signals"
+      "facial-expressions-emotional-signals",
+      "facial-expressions-evolution"
     ],
     "themes": [
       "psychology-and-behavior"
@@ -42649,8 +42070,8 @@
       "microexpressions-fraction-second",
       "microexpressions-universal-signals",
       "facial-expressions-universal",
-      "habits-single-experience",
       "light-exact-speed",
+      "ocean-currents-eight-knot-speeds",
       "cheetahs-built-for-speed"
     ],
     "themes": [
@@ -42755,9 +42176,9 @@
     "relatedFactIds": [
       "crossed-arms-negative-default",
       "crossed-arms-not-always-defensive",
-      "gestures-before-words",
+      "facial-expressions-universal",
       "habits-single-experience",
-      "facial-expressions-universal"
+      "gestures-before-words"
     ],
     "themes": [
       "automation-robots-ai",
@@ -42784,7 +42205,7 @@
       "lewis-clark-corps-discovery",
       "blood-falls-rust-red",
       "deserts-defined-by-dryness",
-      "sacagawea-shoshone-horses"
+      "magellan-crew-circumnavigation"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -42837,10 +42258,9 @@
     "relatedFactIds": [
       "shackleton-endurance-survival",
       "shackleton-nimrod-near-pole",
-      "magellan-pacific-name",
+      "sacagawea-practical-knowledge",
       "titanic-lifeboat-capacity-gap",
-      "antikythera-ancient-computer",
-      "penguins-winter-breeding"
+      "antikythera-ancient-computer"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -43124,8 +42544,8 @@
       "magellan-strait",
       "magellan-crew-circumnavigation",
       "amundsen-south-pole-first",
-      "age-of-exploration-circumnavigation",
-      "el-nino-trade-winds-weaken"
+      "el-nino-trade-winds-weaken",
+      "shackleton-endurance-wreck"
     ],
     "themes": [
       "self-sacrifice",
@@ -43150,8 +42570,8 @@
       "magellan-strait",
       "magellan-pacific-name",
       "lewis-clark-corps-discovery",
-      "age-of-exploration-circumnavigation",
-      "sacagawea-shoshone-horses"
+      "sacagawea-shoshone-horses",
+      "shackleton-endurance-survival"
     ],
     "themes": [
       "exploration-and-navigation",
@@ -43417,8 +42837,8 @@
     "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
-      "zheng-he-maritime-legacy",
       "zheng-he-treasure-fleets",
+      "zheng-he-maritime-legacy",
       "magellan-strait",
       "lewis-clark-native-assistance",
       "marco-polo-kublai-khan"
@@ -44114,8 +43534,8 @@
     "relatedFactIds": [
       "giant-sequoias-fire-bark",
       "giant-sequoias-largest-trees",
-      "cacti-spines-leaves",
       "bonsai-living-sculptures",
+      "cacti-spines-leaves",
       "baobab-tree-of-life",
       "mangroves-storm-barriers"
     ],
@@ -44528,7 +43948,7 @@
       "bees-royal-jelly",
       "beetles-most-diverse",
       "ravens-solve-problems-together",
-      "artificial-intelligence-wasp-example",
+      "fibonacci-golden-ratio",
       "gestures-before-words"
     ],
     "themes": [
@@ -44556,8 +43976,8 @@
       "butterflies-conservation-decline",
       "dragonflies-nearly-360-vision",
       "fireflies-are-beetles",
-      "memory-fading-helps-time",
-      "deja-vu-brain-misfire"
+      "deja-vu-brain-misfire",
+      "memory-fading-helps-time"
     ],
     "themes": [
       "transformation-metamorphosis",
@@ -45999,7 +45419,7 @@
       "agriculture-many-origins",
       "agriculture-domestication-shift",
       "laws-national-codification",
-      "popcorn-expands-40-times",
+      "bread-predates-agriculture",
       "ants-queen-role"
     ],
     "themes": [
@@ -46294,7 +45714,7 @@
       "irrigation-water-control",
       "maps-preserve-worldviews",
       "rivers-shaped-settlements",
-      "honey-egyptian-mummies"
+      "ancient-egypt-3000-years"
     ],
     "themes": [
       "counterintuitive-scale"
@@ -46423,8 +45843,8 @@
       "roads-military-first",
       "roads-drainage-engineering",
       "laws-ancient-codes",
-      "roman-empire-roads-survive",
-      "inca-road-network"
+      "inca-road-network",
+      "coins-historical-data"
     ],
     "themes": [
       "human-body-quirks",
@@ -46450,7 +45870,7 @@
       "roads-drainage-engineering",
       "coins-historical-data",
       "inca-road-network",
-      "roman-empire-roads-survive",
+      "concrete-steel-reinforcement",
       "carthage-rome-burned-city"
     ],
     "themes": [
@@ -46478,7 +45898,7 @@
       "roads-roman-network",
       "cities-ancient-roots",
       "inca-road-network",
-      "roman-empire-roads-survive"
+      "coins-historical-data"
     ],
     "themes": [
       "energy-and-power",
