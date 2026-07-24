@@ -12,14 +12,23 @@ you upload.
 
 ## What lives on the CDN
 
-Four files at the configured base URL, uploaded together:
+Files at the configured base URL, uploaded together:
 
 ```
 <base>/manifest.json      ← the app polls this
 <base>/facts.json
 <base>/categories.json
 <base>/collections.json
+<base>/sources.json       ← topic-level provenance ("Source ↗")
 ```
+
+> `sources.json` is listed in the manifest by `build-manifest.sh` so every drop
+> carries it. The app fetches it **over-the-air** as an *optional, best-effort*
+> file (`RemoteContentConfig.optionalFiles`): it's downloaded, validated, and
+> applied when the manifest advertises it, and silently skipped when it doesn't
+> — a drop without sources still applies facts/categories/collections, and the
+> app always falls back to its bundled sources seed. So including it is safe for
+> every app version, and omitting it never blocks a content update.
 
 The base URL is set locally in `Nib/Resources/Secrets.xcconfig` (gitignored) as
 `NIB_CONTENT_BASE_URL`, injected into `Info.plist` → read by `RemoteContentConfig`.
@@ -32,8 +41,9 @@ The base URL is set locally in `Nib/Resources/Secrets.xcconfig` (gitignored) as
 
 ## Publishing a content drop
 
-1. Export the three JSON files from the repo root (`pnpm export:facts`, etc.) —
-   they land in `../exports/` with the same filenames.
+1. Export the JSON files from the repo root (`pnpm export:facts` and
+   `pnpm export:sources`; `categories.json`/`collections.json` are maintained in
+   `../exports/`) — they land in `../exports/` with the same filenames.
 2. Generate the manifest (bumping the version every time), run from this `cdn/`
    folder:
 
@@ -41,9 +51,9 @@ The base URL is set locally in `Nib/Resources/Secrets.xcconfig` (gitignored) as
    ./build-manifest.sh 2 ../exports
    ```
 
-3. Upload `facts.json`, `categories.json`, `collections.json`, **and**
-   `manifest.json` to the bucket. Upload the content files before/with the
-   manifest so a client can't read a manifest that points at not-yet-uploaded
+3. Upload `facts.json`, `categories.json`, `collections.json`, `sources.json`,
+   **and** `manifest.json` to the bucket. Upload the content files before/with
+   the manifest so a client can't read a manifest that points at not-yet-uploaded
    files.
 
 ## Version rules (the "version floor")

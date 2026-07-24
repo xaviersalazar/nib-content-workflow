@@ -63,6 +63,7 @@ cp docs/sources.csv source-registry/sources.csv
 - `pnpm scrape:next`
 - `pnpm scrape:batch`
 - `pnpm export:facts`
+- `pnpm export:sources` — builds `exports/sources.json`, the topic-level provenance map the app shows as a "Source ↗" line
 - `pnpm check:age-rating` — screens the library against the 4+ age gate (exits 1 on any BLOCK)
 
 ### Scrape a Single Source
@@ -120,6 +121,34 @@ Notes:
 | `featured`        | `true` or `false` — whether the fact is featured.                                                                                                                                                                                   |
 | `relatedFactIds`  | Comma-separated list of related fact `id` values. Leave blank if none.                                                                                                                                                              |
 
+### Export Sources (provenance)
+
+`pnpm export:sources` reads `source-registry/sources.csv`, `exports/categories.json`, and
+`exports/facts.json`, and writes `exports/sources.json` — the topic-level provenance map the Nib app
+renders as a quiet "Source: NASA ↗" line (its _Trust First_ attribution).
+
+It joins the registry to the app's `categoryId` values and the **exact** `topic` strings on facts, so
+the app does a trivial O(1) lookup with no normalization of its own. All reconciliation happens here:
+
+- Category names join to app ids by name (one alias for `Illusions & Perception`).
+- Topics normalize `&`↔`and` for matching; a small `TOPIC_ALIASES` map in the script covers topics
+  whose display name diverges from the registry label (e.g. the registry's `Recording Studios` row
+  actually points at the sound-recording article).
+- Tracking query params (`srsltid`, `utm_*`, …) are stripped from every URL; load-bearing params
+  (e.g. a WordPress `?p=1503`) are preserved.
+
+The script prints its coverage (currently **100% — 703/703 topics**) and lists any topic without a
+registry match. A missing topic simply shows no source line in the app, so the export never fails on a
+gap — but aim to keep coverage at 100% by adding the missing source to `source-registry/sources.csv`.
+
+Output shape (`categoryId → topic → { institution, url }`):
+
+```json
+{
+  "space": { "Venus": { "institution": "NASA", "url": "https://science.nasa.gov/venus/" } }
+}
+```
+
 ## Recommended Workflow
 
 1. Add or update trusted URLs in `source-registry/sources.csv`.
@@ -131,6 +160,12 @@ Notes:
 7. Screen for age-appropriateness with `pnpm check:age-rating` (the app is rated 4+ and facts are also
    posted to Instagram). Read every hit — it's a regex prefilter, not a judge.
 8. Export with `pnpm export:facts`.
+9. Whenever `source-registry/sources.csv` changes (or after adding facts on new topics), regenerate
+   provenance with `pnpm export:sources` and confirm coverage stays at 100%.
+
+Both exports land in `exports/`. To ship them to the app, copy the JSON into the app's bundled seed
+(`Nib/Data/`) and/or publish them to the CDN (see `cdn/README.md`) — `sources.json` travels the same
+path as `facts.json`.
 
 For detailed process guidance, see:
 
@@ -154,10 +189,11 @@ For detailed process guidance, see:
 │   └── sources.csv
 ├── scripts/
 │   ├── export-facts.ts
+│   ├── export-sources.ts         # builds exports/sources.json (provenance)
 │   ├── scrape-batch.ts
 │   ├── scrape-next.ts
 │   └── scrape-source.ts
-├── source-registry/              # expected by scrape-batch.ts
+├── source-registry/              # expected by scrape-batch.ts + export-sources.ts
 │   └── sources.csv
 ├── approved-content/             # expected by export-facts.ts
 │   └── approved-facts.csv

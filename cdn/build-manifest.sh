@@ -24,7 +24,11 @@ CONTENT_VERSION="${1:?usage: build-manifest.sh <contentVersion> [content-dir] [o
 CONTENT_DIR="${2:-.}"
 OUTPUT="${3:-${CONTENT_DIR}/manifest.json}"
 SCHEMA_VERSION=1
-FILES=(facts categories collections)
+# sources.json (topic-level provenance) ships alongside the content. The app
+# fetches it over-the-air as an optional, best-effort file: applied when the
+# manifest lists it, safely skipped when it doesn't (never blocks a core content
+# update). Regenerate it first with `pnpm export:sources`.
+FILES=(facts categories collections sources)
 
 sha256_of() {
   # Prefer shasum (macOS default); fall back to sha256sum (Linux/CI).

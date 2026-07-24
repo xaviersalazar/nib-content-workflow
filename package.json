@@ -14,7 +14,8 @@
      "assign:themes": "tsx scripts/assign-themes.ts",
      "generate:related": "tsx scripts/generate-related-fact-ids.ts",
      "check:age-rating": "tsx scripts/check-age-rating.ts",
-     "export:facts": "tsx scripts/export-facts.ts"
+     "export:facts": "tsx scripts/export-facts.ts",
+  "export:sources": "tsx scripts/export-sources.ts"
   },
   "keywords": [],
   "author": "",

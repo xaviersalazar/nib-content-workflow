@@ -1,0 +1,2924 @@
+{
+  "space": {
+    "Venus": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/venus/"
+    },
+    "Mars": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/mars/"
+    },
+    "Asteroids": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/solar-system/asteroids/"
+    },
+    "Exoplanets": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/exoplanets/"
+    },
+    "Comets": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/solar-system/comets/"
+    },
+    "Dwarf Planets": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/dwarf-planets/"
+    },
+    "Jupiter": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/jupiter/"
+    },
+    "Saturn": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/saturn/"
+    },
+    "Uranus": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/uranus/"
+    },
+    "Pluto": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/dwarf-planets/pluto/"
+    },
+    "Solar System": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/solar-system/"
+    },
+    "Sun": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/sun/"
+    },
+    "Kuiper Belt": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/solar-system/kuiper-belt/facts/"
+    },
+    "Oort Cloud": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/solar-system/oort-cloud/facts/"
+    },
+    "Meteor Showers": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/solar-system/meteors-meteorites/facts/"
+    },
+    "Voyager Program": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/mission/voyager/fast-facts/"
+    },
+    "Moons": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/moons/"
+    }
+  },
+  "astronomy": {
+    "Black Holes": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/universe/black-holes/"
+    },
+    "Galaxies": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/universe/galaxies/"
+    },
+    "Stars": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/universe/stars/"
+    },
+    "Constellations": {
+      "institution": "NASA Space Place",
+      "url": "https://spaceplace.nasa.gov/constellations/en/"
+    },
+    "Nebulae": {
+      "institution": "NASA Space Place",
+      "url": "https://spaceplace.nasa.gov/nebula/en/"
+    },
+    "Supernovas": {
+      "institution": "NASA Space Place",
+      "url": "https://spaceplace.nasa.gov/supernova/en/"
+    },
+    "Milky Way": {
+      "institution": "NASA Imagine",
+      "url": "https://imagine.gsfc.nasa.gov/science/objects/milkyway1.html"
+    },
+    "Light Years": {
+      "institution": "NASA Space Place",
+      "url": "https://spaceplace.nasa.gov/light-year/en/"
+    },
+    "Hubble Space Telescope": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/mission/hubble/"
+    },
+    "James Webb Space Telescope": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/mission/webb/"
+    },
+    "Quasars": {
+      "institution": "NASA",
+      "url": "https://imagine.gsfc.nasa.gov/science/objects/active_galaxies1.html"
+    },
+    "Pulsars": {
+      "institution": "NASA",
+      "url": "https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html"
+    },
+    "White Dwarfs": {
+      "institution": "NASA",
+      "url": "https://imagine.gsfc.nasa.gov/science/objects/dwarfs1.html"
+    },
+    "Red Giants": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/universe/stars/types/"
+    },
+    "Cosmic Microwave Background": {
+      "institution": "NASA",
+      "url": "https://map.gsfc.nasa.gov/universe/bb_tests_cmb.html"
+    }
+  },
+  "history": {
+    "Roman Empire": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/ancient-Rome"
+    },
+    "Vikings": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Viking-people"
+    },
+    "Ancient Greece": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/ancient-Greece"
+    },
+    "Middle Ages": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/event/Middle-Ages"
+    },
+    "Age of Exploration": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/European-exploration/The-Age-of-Discovery"
+    },
+    "Renaissance": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/event/Renaissance"
+    },
+    "American Revolution": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/event/American-Revolution"
+    },
+    "Industrial Revolution": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/event/Industrial-Revolution"
+    },
+    "Ancient China": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/China/History"
+    },
+    "Ancient India": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/India/History"
+    },
+    "Mongol Empire": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Mongol-empire"
+    },
+    "Silk Road": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Silk-Road-trade-route"
+    },
+    "French Revolution": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/event/French-Revolution"
+    },
+    "Printing Press": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/printing-press"
+    },
+    "Cold War": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/event/Cold-War"
+    },
+    "Space Race": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/event/space-race"
+    },
+    "Salem Witch Trials": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/event/Salem-witch-trials"
+    },
+    "Titanic": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Titanic"
+    },
+    "Samurai": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/samurai"
+    },
+    "Golden Age of Piracy": {
+      "institution": "Royal Museums Greenwich",
+      "url": "https://www.rmg.co.uk/stories/maritime-history/pirates-history-golden-age-piracy"
+    },
+    "Knights": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/knight-cavalryman"
+    }
+  },
+  "ancient-civilizations": {
+    "Ancient Egypt": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/ancient-Egypt"
+    },
+    "Maya Civilization": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Maya-people"
+    },
+    "Aztec Civilization": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Aztec"
+    },
+    "Inca Civilization": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Inca"
+    },
+    "Mesopotamia": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/Mesopotamia-historical-region-Asia"
+    },
+    "Sumerians": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/Sumer"
+    },
+    "Babylonians": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/Babylonia"
+    },
+    "Phoenicians": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Phoenician"
+    },
+    "Ancient Persia": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/ancient-Iran"
+    },
+    "Indus Valley Civilization": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Indus-civilization"
+    },
+    "Carthage": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/Carthage-ancient-city-Tunisia"
+    },
+    "Ancient Rome": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/ancient-Rome"
+    },
+    "Olmecs": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Olmec"
+    },
+    "Minoans": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Minoan-civilization"
+    },
+    "Hittites": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Hittite"
+    }
+  },
+  "animals": {
+    "Octopus": {
+      "institution": "Monterey Bay Aquarium",
+      "url": "https://www.montereybayaquarium.org/animals/animals-a-to-z/giant-pacific-octopus"
+    },
+    "Elephants": {
+      "institution": "WWF",
+      "url": "https://www.worldwildlife.org/species/elephant"
+    },
+    "Dolphins": {
+      "institution": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/bottlenose-dolphin"
+    },
+    "Penguins": {
+      "institution": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/birds/facts/emperor-penguin"
+    },
+    "Giraffes": {
+      "institution": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/giraffe"
+    },
+    "Tigers": {
+      "institution": "WWF",
+      "url": "https://www.worldwildlife.org/species/tiger"
+    },
+    "Wolves": {
+      "institution": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/gray-wolf"
+    },
+    "Cheetahs": {
+      "institution": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/cheetah"
+    },
+    "Sloths": {
+      "institution": "National Geographic Kids",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/sloth"
+    },
+    "Platypus": {
+      "institution": "National Geographic",
+      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/platypus"
+    },
+    "Axolotls": {
+      "institution": "National Geographic",
+      "url": "https://kids.nationalgeographic.com/animals/amphibians/facts/axolotl"
+    },
+    "Chameleons": {
+      "institution": "National Geographic",
+      "url": "https://kids.nationalgeographic.com/animals/reptiles/facts/chameleon"
+    },
+    "Ravens": {
+      "institution": "Cornell Lab of Ornithology",
+      "url": "https://www.allaboutbirds.org/guide/Common_Raven/lifehistory"
+    },
+    "Mantis Shrimp": {
+      "institution": "National Geographic",
+      "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/mantis-shrimp"
+    }
+  },
+  "ocean-life": {
+    "Coral Reefs": {
+      "institution": "NOAA",
+      "url": "https://oceanservice.noaa.gov/facts/coral.html"
+    },
+    "Sharks": {
+      "institution": "Fisheries",
+      "url": "https://www.fisheries.noaa.gov/feature-story/12-shark-facts-may-surprise-you"
+    },
+    "Bioluminescence": {
+      "institution": "NOAA Ocean Explorer",
+      "url": "https://oceanexplorer.noaa.gov/facts/bioluminescence.html"
+    },
+    "Deep Sea": {
+      "institution": "Smithsonian",
+      "url": "https://ocean.si.edu/ecosystems/deep-sea/deep-sea"
+    },
+    "Jellyfish": {
+      "institution": "Monterey Bay Aquarium",
+      "url": "https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-nettle"
+    },
+    "Whales": {
+      "institution": "NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/whales"
+    },
+    "Seahorses": {
+      "institution": "National Geographic",
+      "url": "https://kids.nationalgeographic.com/animals/fish/facts/seahorse"
+    },
+    "Sea Turtles": {
+      "institution": "NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/sea-turtles"
+    },
+    "Sea Stars": {
+      "institution": "National Geographic",
+      "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/starfish-1"
+    },
+    "Ocean Currents": {
+      "institution": "NOAA",
+      "url": "https://oceanservice.noaa.gov/facts/current.html"
+    },
+    "Anglerfish": {
+      "institution": "National Geographic",
+      "url": "https://www.nationalgeographic.com/animals/fish/facts/anglerfish"
+    },
+    "Giant Squid": {
+      "institution": "Smithsonian Ocean",
+      "url": "https://ocean.si.edu/ocean-life/invertebrates/giant-squid"
+    },
+    "Kelp Forests": {
+      "institution": "NOAA",
+      "url": "https://oceanservice.noaa.gov/facts/kelp.html"
+    },
+    "Orcas": {
+      "institution": "NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/species/killer-whale"
+    },
+    "Sea Otters": {
+      "institution": "Monterey Bay Aquarium",
+      "url": "https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-otter"
+    }
+  },
+  "human-body": {
+    "Heart": {
+      "institution": "NHLBI",
+      "url": "https://www.nhlbi.nih.gov/health/heart"
+    },
+    "Brain": {
+      "institution": "NIH News in Health",
+      "url": "https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain"
+    },
+    "Skeletal System": {
+      "institution": "Cleveland Clinic",
+      "url": "https://my.clevelandclinic.org/health/body/21048-skeletal-system"
+    },
+    "Blood": {
+      "institution": "Cleveland Clinic",
+      "url": "https://my.clevelandclinic.org/health/body/24836-blood"
+    },
+    "Eyes": {
+      "institution": "Cleveland Clinic",
+      "url": "https://my.clevelandclinic.org/health/body/21823-eyes"
+    },
+    "DNA": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/DNA"
+    },
+    "Lungs": {
+      "institution": "NHLBI",
+      "url": "https://www.nhlbi.nih.gov/health/lungs"
+    },
+    "Immune System": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/immune-system"
+    },
+    "Skin": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/skin"
+    },
+    "Fingerprints": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/fingerprint"
+    },
+    "Taste Buds": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/taste-bud"
+    },
+    "Gut Microbiome": {
+      "institution": "Harvard T.H. Chan School of Public Health",
+      "url": "https://nutritionsource.hsph.harvard.edu/microbiome/"
+    }
+  },
+  "psychology": {
+    "Emotions": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/emotion"
+    },
+    "Memory": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/memory-psychology"
+    },
+    "Habits": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/habit-behavior"
+    },
+    "Happiness": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/happiness"
+    },
+    "Attention": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/attention"
+    },
+    "Decision Making": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/decision-making"
+    },
+    "Motivation": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/motivation"
+    },
+    "Perception": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/perception"
+    },
+    "Sleep": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/sleep"
+    },
+    "Optical Illusions": {
+      "institution": "HowStuffWorks",
+      "url": "https://science.howstuffworks.com/optical-illusions.htm"
+    },
+    "Déjà Vu": {
+      "institution": "Cleveland Clinic",
+      "url": "https://health.clevelandclinic.org/deja-vu-what-it-is-and-when-it-may-be-cause-for-concern"
+    }
+  },
+  "food": {
+    "Chocolate": {
+      "institution": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/arts-culture/a-brief-history-of-chocolate-21860917/"
+    },
+    "Honey": {
+      "institution": "Smithsonian Magazine",
+      "url": "https://www.britannica.com/topic/honey"
+    },
+    "Bread": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/bread-food-product"
+    },
+    "Salt": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/salt"
+    },
+    "Pasta": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/pasta"
+    },
+    "Rice": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/plant/rice"
+    },
+    "Ice Cream": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/ice-cream"
+    },
+    "Pizza": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/pizza"
+    },
+    "Popcorn": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/popcorn"
+    },
+    "Bananas": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/plant/banana-plant"
+    },
+    "Potatoes": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/plant/potato"
+    },
+    "Peanuts": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/plant/peanut"
+    }
+  },
+  "coffee": {
+    "Caffeine": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/caffeine"
+    },
+    "Coffee Plant": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/plant/Coffea"
+    },
+    "Instant Coffee": {
+      "institution": "National Coffee Association",
+      "url": "https://www.ncausa.org/About-Coffee/Types-of-Coffee/Instant-Coffee"
+    },
+    "Espresso": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/espresso"
+    },
+    "Coffee Roasting": {
+      "institution": "National Coffee Association",
+      "url": "https://www.ncausa.org/About-Coffee/Coffee-Roasts-Guide"
+    },
+    "Decaf Coffee": {
+      "institution": "National Coffee Association",
+      "url": "https://www.ncausa.org/About-Coffee/Decaffeinated-Coffee"
+    },
+    "Cappuccino": {
+      "institution": "National Coffee Association",
+      "url": "https://www.ncausa.org/About-Coffee/Types-of-Coffee"
+    },
+    "Latte": {
+      "institution": "National Coffee Association",
+      "url": "https://www.ncausa.org/About-Coffee/Types-of-Coffee"
+    },
+    "Turkish Coffee": {
+      "institution": "UNESCO Courier",
+      "url": "https://courier.unesco.org/en/articles/turkish-coffee-not-just-drink-culture"
+    },
+    "Coffeehouses": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/cafe-eating-and-drinking-establishment"
+    },
+    "Coffee Origins": {
+      "institution": "National Coffee Association",
+      "url": "https://www.aboutcoffee.org/origins/history-of-coffee/"
+    }
+  },
+  "technology": {
+    "Internet": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Internet"
+    },
+    "World Wide Web": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/World-Wide-Web"
+    },
+    "Wi-Fi": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/Wi-Fi"
+    },
+    "E-mail": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/email"
+    },
+    "Smartphones": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/smartphone"
+    },
+    "QR Codes": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/QR-Code"
+    },
+    "Virtual Reality": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/virtual-reality"
+    },
+    "Cloud Computing": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/cloud-computing"
+    },
+    "Blockchain": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/blockchain"
+    },
+    "USB": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/USB"
+    },
+    "Bluetooth": {
+      "institution": "HowStuffWorks",
+      "url": "https://electronics.howstuffworks.com/bluetooth.htm"
+    },
+    "Search Engines": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/search-engine"
+    },
+    "CAPTCHA": {
+      "institution": "Cloudflare",
+      "url": "https://www.cloudflare.com/learning/bots/how-captchas-work/"
+    },
+    "Data Centers": {
+      "institution": "Cloudflare",
+      "url": "https://www.cloudflare.com/learning/cdn/glossary/data-center/"
+    }
+  },
+  "artificial-intelligence": {
+    "Artificial Intelligence": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/artificial-intelligence"
+    },
+    "Machine Learning": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/machine-learning"
+    },
+    "Neural Networks": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/neural-network-computing"
+    },
+    "Robotics": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/robotics"
+    },
+    "Computer Vision": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/computer-vision"
+    },
+    "Natural Language Processing": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/natural-language-processing"
+    },
+    "Chatbots": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/chatbot"
+    },
+    "Generative AI": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/generative-artificial-intelligence"
+    },
+    "Deep Learning": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/deep-learning-artificial-intelligence"
+    },
+    "Turing Test": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/Turing-test"
+    },
+    "AI Hallucinations": {
+      "institution": "IBM",
+      "url": "https://www.ibm.com/think/topics/ai-hallucinations"
+    },
+    "Recommendation Systems": {
+      "institution": "IBM",
+      "url": "https://www.ibm.com/topics/recommendation-engine"
+    },
+    "AI Ethics": {
+      "institution": "IBM",
+      "url": "https://www.ibm.com/think/topics/ai-ethics"
+    },
+    "Reinforcement Learning": {
+      "institution": "IBM",
+      "url": "https://www.ibm.com/think/topics/reinforcement-learning"
+    }
+  },
+  "internet-culture": {
+    "Memes": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/meme"
+    },
+    "Hashtags": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/hashtag"
+    },
+    "Viral Content": {
+      "institution": "Madedaily.com",
+      "url": "https://madedaily.com/blog/wayback/the-evolution-of-viral-content"
+    },
+    "Streaming": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/streaming-media"
+    },
+    "Internet Communities": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/online-community"
+    },
+    "Social Media": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/social-media"
+    },
+    "Viral Challenges": {
+      "institution": "The Falcon",
+      "url": "https://thefalcon.kinkaid.org/2841/features/internet-challenges-came/"
+    },
+    "Reddit": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Reddit"
+    },
+    "Livestreaming": {
+      "institution": "IBM",
+      "url": "https://www.ibm.com/topics/live-streaming"
+    }
+  },
+  "video-games": {
+    "Nintendo": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Nintendo-Company-Ltd"
+    },
+    "Pac-Man": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Pac-Man-video-game"
+    },
+    "Minecraft": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Minecraft-video-game"
+    },
+    "PlayStation": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/PlayStation"
+    },
+    "Atari": {
+      "institution": "Britannica",
+      "url": "https://kids.britannica.com/students/article/Atari-Inc/273095"
+    },
+    "Pokémon": {
+      "institution": "Pokemon",
+      "url": "https://corporate.pokemon.co.jp/en/aboutus/history/"
+    },
+    "Arcade Games": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/electronic-game"
+    },
+    "Esports": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/sports/esports"
+    },
+    "Tetris": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Tetris"
+    },
+    "Virtual Worlds": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/virtual-reality"
+    },
+    "The Legend of Zelda": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/The-Legend-of-Zelda"
+    },
+    "Mario": {
+      "institution": "History",
+      "url": "https://www.history.com/articles/super-mario-history-nintendo-donkey-kong-facts"
+    },
+    "Easter Eggs": {
+      "institution": "BBC Bitesize",
+      "url": "https://www.bbc.co.uk/bitesize/articles/zcts46f"
+    },
+    "Speedrunning": {
+      "institution": "BBC",
+      "url": "https://www.bbc.co.uk/programmes/articles/3YmM2yrG4rp9ZHG54pcKjgf/speedrunning-a-brief-history-of-the-gaming-phenomenon"
+    }
+  },
+  "movies": {
+    "Animation": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/animation"
+    },
+    "Silent Films": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/silent-film-era"
+    },
+    "Special Effects": {
+      "institution": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/special-effects"
+    },
+    "Academy Awards": {
+      "institution": "Oscars",
+      "url": "https://www.oscars.org/oscars"
+    },
+    "Movie Cameras": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/camera"
+    },
+    "IMAX": {
+      "institution": "FilmAtlas",
+      "url": "https://www.filmatlas.com/entry/244"
+    },
+    "3D Movies": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/3-D-film"
+    },
+    "Film Editing": {
+      "institution": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/arts/encyclopedias-almanacs-transcripts-and-maps/editing-film"
+    },
+    "Documentaries": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/documentary-film"
+    },
+    "Film Festivals": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/film-festival"
+    },
+    "Pixar": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Pixar-Animation-Studios"
+    },
+    "Stop-Motion": {
+      "institution": "Fathom Entertainment",
+      "url": "https://www.fathomentertainment.com/blog/masters-of-stop-motion/"
+    },
+    "Movie Makeup": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/makeup-performing-arts"
+    },
+    "Movie Trailers": {
+      "institution": "Brown Film Magazine",
+      "url": "https://www.brownfilmmagazine.com/blog/history-of-trailers-will-havens"
+    },
+    "Technicolor": {
+      "institution": "Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/business/business-news/technicolor-rise-fall-hollywood-1236159788/"
+    }
+  },
+  "music": {
+    "Synthesizers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/music-synthesizer"
+    },
+    "Vinyl Records": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/sound-recording"
+    },
+    "Electronic Music": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/electronic-music"
+    },
+    "Hip-Hop": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/hip-hop"
+    },
+    "Jazz": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/jazz"
+    },
+    "Rock Music": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/rock"
+    },
+    "Musical Instruments": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/musical-instrument"
+    },
+    "Classical Music": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/Western-music"
+    },
+    "Sound Recording": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/sound-recording"
+    },
+    "Streaming Music": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/streaming-media"
+    },
+    "Auto-Tune": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/Auto-Tune"
+    },
+    "Drum Machines": {
+      "institution": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/arts-culture/history-tr-808-drum-machine-180975205/"
+    },
+    "DJ Culture": {
+      "institution": "PBS",
+      "url": "https://www.pbs.org/opb/historydetectives/feature/the-art-of-turntablism/"
+    },
+    "Sampling": {
+      "institution": "Library of Congress / Citizen DJ",
+      "url": "https://citizen-dj.labs.loc.gov/guide/"
+    },
+    "Music Festivals": {
+      "institution": "TIME",
+      "url": "https://time.com/5651255/business-of-music-festivals/"
+    }
+  },
+  "sports": {
+    "Olympic Games": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/sports/Olympic-Games"
+    },
+    "Soccer": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/sports/football-soccer"
+    },
+    "Marathons": {
+      "institution": "World Athletics",
+      "url": "https://worldathletics.org/disciplines/road-running/marathon"
+    },
+    "Tennis": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/sports/tennis"
+    },
+    "Swimming": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/sports/swimming-sport"
+    },
+    "Track and Field": {
+      "institution": "World Athletics",
+      "url": "https://worldathletics.org/disciplines"
+    },
+    "Golf": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/sports/golf"
+    },
+    "Skateboarding": {
+      "institution": "Olympics",
+      "url": "https://www.olympics.com/en/sports/skateboarding/"
+    },
+    "Surfing": {
+      "institution": "Olympics",
+      "url": "https://www.olympics.com/en/sports/surfing/"
+    },
+    "Chess": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/chess"
+    },
+    "Formula 1": {
+      "institution": "Formula 1",
+      "url": "https://www.formula1.com/en/latest/article/drivers-teams-cars-circuits-and-more-everything-you-need-to-know-about.7iQfL3Rivf1comzdqV5jwc"
+    },
+    "Parkour": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/sports/parkour"
+    }
+  },
+  "engineering": {
+    "Levers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/lever"
+    },
+    "Wheels": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/wheel"
+    },
+    "Gears": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/gear"
+    },
+    "Concrete": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/concrete-building-material"
+    },
+    "Hydraulics": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/hydraulics"
+    },
+    "Dams": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/dam-engineering"
+    },
+    "Steel": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/steel"
+    },
+    "Hydroelectric Power": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/hydroelectric-power"
+    },
+    "Tunnels": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/tunnel"
+    },
+    "Suspension Bridges": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/suspension-bridge"
+    },
+    "Cranes": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/crane-materials-handling"
+    },
+    "Elevators": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/elevator-vertical-transport"
+    },
+    "Earthquake Engineering": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/earthquake-resistant-structure"
+    }
+  },
+  "aviation": {
+    "Aerodynamics": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/aerodynamics"
+    },
+    "Airplanes": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/airplane"
+    },
+    "Helicopters": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/helicopter"
+    },
+    "Jet Engines": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/jet-engine"
+    },
+    "Hot-Air Balloons": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/hot-air-balloon"
+    },
+    "Concorde": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Concorde"
+    },
+    "Air Traffic Control": {
+      "institution": "FAA",
+      "url": "https://www.faa.gov/about/history/photo_album/air_traffic_control"
+    },
+    "Gliders": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/glider-aircraft"
+    },
+    "Supersonic Flight": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/supersonic-flight"
+    },
+    "Flight Recorders": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/flight-recorder"
+    },
+    "Flying Boats": {
+      "institution": "Hartzell Propeller",
+      "url": "https://hartzellprop.com/history-of-seaplanes/"
+    },
+    "Winglets": {
+      "institution": "NASA Glenn Research Center",
+      "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/winglets/"
+    },
+    "Drones": {
+      "institution": "FAA",
+      "url": "https://www.faa.gov/uas"
+    },
+    "Ejection Seats": {
+      "institution": "Martin-Baker",
+      "url": "https://martin-baker.com/our-history/"
+    },
+    "Autopilot": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/automatic-pilot"
+    }
+  },
+  "cars": {
+    "Automobiles": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/automobile"
+    },
+    "Internal-Combustion Engines": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/internal-combustion-engine"
+    },
+    "Automobile Racing": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/sports/automobile-racing"
+    },
+    "Electric Cars": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/electric-car"
+    },
+    "Hybrid Cars": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/How-Does-a-Hybrid-Car-Work"
+    },
+    "Seat Belts": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/seat-belt"
+    },
+    "Tires": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/tire"
+    },
+    "Cruise Control": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/cruise-control"
+    },
+    "Brakes": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/brake"
+    },
+    "Transmission": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/automobile/Transmission"
+    },
+    "Windshield Wipers": {
+      "institution": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/mary-anderson"
+    },
+    "Air Bags": {
+      "institution": "NHTSA",
+      "url": "https://www.nhtsa.gov/vehicle-safety/air-bags"
+    },
+    "Crumple Zones": {
+      "institution": "Travelers",
+      "url": "https://www.travelers.com/resources/auto/safe-driving/how-crumple-zones-work"
+    },
+    "Car Horns": {
+      "institution": "Car and Driver",
+      "url": "https://www.caranddriver.com/features/a20776837/meep-meep-the-history-and-evolution-of-car-horns-feature/"
+    },
+    "Crash Test Dummies": {
+      "institution": "NHTSA",
+      "url": "https://www.nhtsa.gov/nhtsas-crash-test-dummies"
+    }
+  },
+  "physics": {
+    "Relativity": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/relativity"
+    },
+    "Gravity": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/gravity-physics"
+    },
+    "Light": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/light"
+    },
+    "Quantum Mechanics": {
+      "institution": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/qm/"
+    },
+    "Electricity": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/electricity"
+    },
+    "Sound": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/sound-physics"
+    },
+    "Energy": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/energy"
+    },
+    "Magnetism": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/magnetism"
+    },
+    "Time": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/time"
+    },
+    "Motion": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/motion-physics"
+    },
+    "Inertia": {
+      "institution": "NASA Glenn Research Center",
+      "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/newtons-laws-of-motion/"
+    },
+    "Friction": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/friction"
+    },
+    "Lasers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/How-Does-a-Laser-Work"
+    },
+    "Waves": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/wave-physics"
+    },
+    "Superconductivity": {
+      "institution": "CERN",
+      "url": "https://home.cern/science/physics/superconductivity/"
+    }
+  },
+  "chemistry": {
+    "Atoms": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/atom"
+    },
+    "Molecules": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/molecule"
+    },
+    "Periodic Table": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/periodic-table"
+    },
+    "Chemical Elements": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/chemical-element"
+    },
+    "Covalent Bonds": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/covalent-bond"
+    },
+    "Chemical Reactions": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/chemical-reaction"
+    },
+    "States of Matter": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/state-of-matter"
+    },
+    "Acids & Bases": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/acid-base-reaction"
+    },
+    "Radioactivity": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/radioactivity"
+    },
+    "Metals": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/metal-chemistry"
+    },
+    "Oxidation": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/oxidation-reduction-reaction"
+    },
+    "Combustion": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/combustion"
+    },
+    "Catalysts": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/catalyst"
+    },
+    "Polymers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/polymer"
+    },
+    "Crystals": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/crystal"
+    }
+  },
+  "mathematics": {
+    "Pi": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/pi-mathematics"
+    },
+    "Prime Numbers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/prime-number"
+    },
+    "Infinity": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/infinity-mathematics"
+    },
+    "Fibonacci Sequence": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/Fibonacci-number"
+    },
+    "Probability": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/probability"
+    },
+    "Zero": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/0-mathematics"
+    },
+    "Algebra": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/algebra"
+    },
+    "Geometry": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/geometry"
+    },
+    "Fractals": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/fractal"
+    },
+    "Calculus": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/calculus-mathematics"
+    },
+    "Chaos Theory": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/chaos-theory"
+    },
+    "Golden Ratio": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/golden-ratio"
+    },
+    "Logarithms": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/logarithm"
+    },
+    "Game Theory": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/game-theory"
+    },
+    "Topology": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/topology"
+    }
+  },
+  "business": {
+    "Advertising": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/advertising"
+    },
+    "Brands": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/trademark"
+    },
+    "Corporations": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/corporation"
+    },
+    "Entrepreneurship": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/entrepreneur-business"
+    },
+    "Monopolies": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/money/monopoly-economics"
+    },
+    "Supply and Demand": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/supply-and-demand"
+    },
+    "Trade": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/trade-economic-system"
+    },
+    "Branding": {
+      "institution": "Investopedia",
+      "url": "https://www.investopedia.com/terms/b/brand.asp"
+    },
+    "Franchises": {
+      "institution": "Investopedia",
+      "url": "https://www.investopedia.com/terms/f/franchise.asp"
+    },
+    "Startups": {
+      "institution": "Investopedia",
+      "url": "https://www.investopedia.com/terms/s/startup.asp"
+    },
+    "Stock Market": {
+      "institution": "Investopedia",
+      "url": "https://www.investopedia.com/terms/s/stockmarket.asp"
+    },
+    "Business Cards": {
+      "institution": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/instead-cheesy-pickup-lines-19th-century-americans-gave-out-calling-cards-180957743/"
+    },
+    "Patents": {
+      "institution": "USPTO",
+      "url": "https://www.uspto.gov/patents/basics/essentials"
+    },
+    "Trade Secrets": {
+      "institution": "USPTO",
+      "url": "https://www.uspto.gov/ip-policy/trade-secret-policy"
+    },
+    "Trademarks": {
+      "institution": "USPTO",
+      "url": "https://www.uspto.gov/trademarks/basics/what-trademark"
+    }
+  },
+  "economics": {
+    "Banking": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/bank"
+    },
+    "Barter": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/money/barter-trade"
+    },
+    "Capitalism": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/capitalism"
+    },
+    "Currency": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/currency"
+    },
+    "Economic Bubbles": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/money/dot-com-bubble"
+    },
+    "Globalization": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/globalization"
+    },
+    "GDP": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/gross-domestic-product"
+    },
+    "Inflation": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/inflation-economics"
+    },
+    "Interest Rates": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/money/interest-rates"
+    },
+    "Minimum Wage": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/money/minimum-wage"
+    },
+    "Recession": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/recession"
+    },
+    "Supply Chains": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/money/what-is-supply-chain-management"
+    },
+    "Taxes": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/taxation"
+    },
+    "Opportunity Cost": {
+      "institution": "Investopedia",
+      "url": "https://www.investopedia.com/terms/o/opportunitycost.asp"
+    },
+    "Scarcity": {
+      "institution": "Investopedia",
+      "url": "https://www.investopedia.com/terms/s/scarcity.asp"
+    }
+  },
+  "literature": {
+    "Guinness World Records": {
+      "institution": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/"
+    },
+    "Banned Books": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/book-banning"
+    },
+    "Comics": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/comic-strip"
+    },
+    "Detective Fiction": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/detective-story-narrative-genre"
+    },
+    "Epic Poems": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/epic"
+    },
+    "Fairy Tales": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/fairy-tale"
+    },
+    "Legends": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/legend-literature"
+    },
+    "Libraries": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/library"
+    },
+    "Myths": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/myth"
+    },
+    "Novels": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/novel"
+    },
+    "Poetry": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/poetry"
+    },
+    "Printing": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/printing-press"
+    },
+    "Shakespeare": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/biography/William-Shakespeare"
+    },
+    "Storytelling": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/storytelling"
+    },
+    "Book Covers": {
+      "institution": "Public Domain Review",
+      "url": "https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914"
+    },
+    "Pseudonyms": {
+      "institution": "Royal Literary Fund",
+      "url": "https://www.rlf.org.uk/posts/pseudonyms/"
+    }
+  },
+  "languages": {
+    "Accents": {
+      "institution": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/history/a-brief-history-of-the-united-states-accents-and-dialects-180983591/"
+    },
+    "Emojis": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/emoji"
+    },
+    "Hieroglyphics": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/hieroglyphic-writing"
+    },
+    "Loanwords": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/loanword"
+    },
+    "Morse Code": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Morse-Code"
+    },
+    "Palindromes": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/palindrome"
+    },
+    "Sign Language": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/sign-language"
+    },
+    "Tongue Twisters": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/tongue-twister"
+    },
+    "Writing Systems": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/writing"
+    },
+    "Alphabet": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/alphabet-writing"
+    },
+    "Dictionaries": {
+      "institution": "Word Connection",
+      "url": "https://www.word-connection.com/blogs/a-brief-history-of-dictionaries"
+    },
+    "Punctuation": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/punctuation"
+    },
+    "Translation": {
+      "institution": "Atlas Language Services",
+      "url": "https://atlasls.com/the-history-of-translation/"
+    }
+  },
+  "architecture": {
+    "Ancient Temples": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/temple-building"
+    },
+    "Arches": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/arch-architecture"
+    },
+    "Bauhaus": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Bauhaus"
+    },
+    "Bridges": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/bridge-engineering"
+    },
+    "Brutalism": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/Brutalism-architecture"
+    },
+    "Columns": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/column-architecture"
+    },
+    "Concrete": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/concrete-building-material"
+    },
+    "Courtyards": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/court-architecture"
+    },
+    "Domes": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/dome-architecture"
+    },
+    "Glass Buildings": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/curtain-wall"
+    },
+    "Gothic Architecture": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/Gothic-architecture"
+    },
+    "Pyramids": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/pyramid-architecture"
+    },
+    "Skyscrapers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/skyscraper"
+    },
+    "Urban Planning": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/urban-planning"
+    },
+    "Castles": {
+      "institution": "HowStuffWorks",
+      "url": "https://history.howstuffworks.com/historical-figures/castle1.htm"
+    }
+  },
+  "myths-legends": {
+    "Atlantis": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Atlantis-legendary-island"
+    },
+    "Dragons": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/dragon-mythological-creature"
+    },
+    "Egyptian Religion": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Egyptian-religion"
+    },
+    "Fairies": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/fairy"
+    },
+    "Greek Mythology": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Greek-mythology"
+    },
+    "King Arthur": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/King-Arthur"
+    },
+    "Kraken": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/kraken"
+    },
+    "Loch Ness Monster": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Loch-Ness-monster-legendary-creature"
+    },
+    "Mermaids": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/mermaid"
+    },
+    "Minotaur": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Minotaur"
+    },
+    "Phoenix": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/phoenix-mythological-bird"
+    },
+    "Sasquatch": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/sasquatch"
+    },
+    "Unicorns": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/unicorn"
+    },
+    "Werewolves": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/werewolf"
+    },
+    "Yeti": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Abominable-Snowman"
+    },
+    "Norse Mythology": {
+      "institution": "World History Encyclopedia",
+      "url": "https://www.worldhistory.org/Norse_Mythology/"
+    }
+  },
+  "mysteries": {
+    "Amelia Earhart": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/biography/Amelia-Earhart"
+    },
+    "Antikythera Mechanism": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Antikythera-mechanism"
+    },
+    "Area 51": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/Area-51"
+    },
+    "Bermuda Triangle": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/Bermuda-Triangle"
+    },
+    "Crop Circles": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/crop-circle"
+    },
+    "Easter Island": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/Easter-Island"
+    },
+    "Nazca Lines": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/Nazca-Lines"
+    },
+    "Roanoke Colony": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/Roanoke-Island"
+    },
+    "Stonehenge": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Stonehenge"
+    },
+    "UFOs": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/unidentified-flying-object"
+    },
+    "Voynich Manuscript": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Voynich-manuscript"
+    },
+    "Dyatlov Pass": {
+      "institution": "National Geographic",
+      "url": "https://www.nationalgeographic.com/premium/article/has-science-solved-history-greatest-adventure-mystery-dyatlov"
+    },
+    "Oak Island": {
+      "institution": "The Canadian Encyclopedia",
+      "url": "https://thecanadianencyclopedia.ca/en/article/oak-island"
+    },
+    "Taos Hum": {
+      "institution": "Thrillist",
+      "url": "https://www.thrillist.com/travel/nation/taos-hum-mystery"
+    },
+    "Wow! Signal": {
+      "institution": "SETI Institute",
+      "url": "https://www.seti.org/news/the-wow-signal-a-lingering-mystery-or-a-natural-phenomenon//"
+    }
+  },
+  "medicine": {
+    "Blood Transfusions": {
+      "institution": "American Red Cross",
+      "url": "https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood/blood-transfusions/history-blood-transfusion.html"
+    },
+    "Anesthesia": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/anesthesia"
+    },
+    "Antibiotics": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/antibiotic"
+    },
+    "Blood Types": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/blood-group"
+    },
+    "Diagnostic Imaging": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/diagnostic-imaging"
+    },
+    "Germ Theory": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/germ-theory"
+    },
+    "Insulin": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/insulin"
+    },
+    "MRI": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/magnetic-resonance-imaging"
+    },
+    "Placebo Effect": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/placebo-effect"
+    },
+    "Prosthetics": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/prosthesis"
+    },
+    "Stethoscope": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/stethoscope"
+    },
+    "Transplant Surgery": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/transplant-surgery"
+    },
+    "Vaccines": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/vaccine"
+    },
+    "X-rays": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/X-ray"
+    },
+    "Medical Robots": {
+      "institution": "Cleveland Clinic",
+      "url": "https://my.clevelandclinic.org/health/treatments/22178-robotic-surgery"
+    }
+  },
+  "geography": {
+    "Coral Islands": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/coral-island"
+    },
+    "Deserts": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/desert"
+    },
+    "Glaciers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/glacier"
+    },
+    "Islands": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/island"
+    },
+    "Lakes": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/lake"
+    },
+    "Mountains": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/mountain-landform"
+    },
+    "Oceans": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/ocean"
+    },
+    "Plate Tectonics": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/plate-tectonics"
+    },
+    "Rivers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/river"
+    },
+    "Valleys": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/valley"
+    },
+    "Volcanoes": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/volcano"
+    },
+    "Fjords": {
+      "institution": "National Geographic Education",
+      "url": "https://education.nationalgeographic.org/resource/fjord/"
+    },
+    "Rainforests": {
+      "institution": "National Geographic Education",
+      "url": "https://education.nationalgeographic.org/resource/rain-forest/"
+    },
+    "Waterfalls": {
+      "institution": "National Geographic Education",
+      "url": "https://education.nationalgeographic.org/resource/waterfall/"
+    },
+    "Caves": {
+      "institution": "National Park Service",
+      "url": "https://www.nps.gov/subjects/caves/making-a-cave.htm"
+    }
+  },
+  "weather": {
+    "El Niño": {
+      "institution": "NOAA Ocean Service",
+      "url": "https://oceanservice.noaa.gov/facts/ninonina.html"
+    },
+    "Monsoons": {
+      "institution": "National Geographic Education",
+      "url": "https://education.nationalgeographic.org/resource/monsoon/"
+    },
+    "Hail": {
+      "institution": "NOAA National Severe Storms Laboratory",
+      "url": "https://www.nssl.noaa.gov/education/svrwx101/hail/types/"
+    },
+    "Fog": {
+      "institution": "National Weather Service",
+      "url": "https://www.weather.gov/source/zhu/ZHU_Training_Page/fog_stuff/fog_definitions/Fog_definitions.html"
+    },
+    "Rainbows": {
+      "institution": "NOAA NESDIS",
+      "url": "https://www.nesdis.noaa.gov/about/k-12-education/optical-phenomena/what-causes-rainbow"
+    },
+    "Aurora": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/aurora-atmospheric-phenomenon"
+    },
+    "Seasons": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/season"
+    },
+    "Climate": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/climate-meteorology"
+    },
+    "Thunder": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/thunder"
+    },
+    "Snow": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/snow-weather"
+    },
+    "Clouds": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/cloud-meteorology"
+    },
+    "Atmosphere": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/atmosphere"
+    },
+    "Lightning": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/lightning-meteorology"
+    },
+    "Hurricanes": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/tropical-cyclone"
+    },
+    "Tornadoes": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/tornado"
+    }
+  },
+  "inventions": {
+    "Post-it Notes": {
+      "institution": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/blog/trends-stem/who-invented-post-it-notes"
+    },
+    "Safety Pin": {
+      "institution": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/walter-hunt"
+    },
+    "Ballpoint Pen": {
+      "institution": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/laszlo-josef-biro"
+    },
+    "Barcode": {
+      "institution": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/bernard-silver"
+    },
+    "Velcro": {
+      "institution": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/george-de-mestral"
+    },
+    "Batteries": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/battery-electronics"
+    },
+    "QR Codes": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/QR-Code"
+    },
+    "Internet": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Internet"
+    },
+    "GPS": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/GPS"
+    },
+    "Television": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/television-technology"
+    },
+    "Radio": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/radio"
+    },
+    "Light Bulb": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/lightbulb"
+    },
+    "Telephone": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/telephone"
+    },
+    "Printing Press": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/printing-press"
+    },
+    "Wheel": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/wheel"
+    }
+  },
+  "religion-beliefs": {
+    "Buddhism": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Buddhism"
+    },
+    "Christianity": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Christianity"
+    },
+    "Fasting": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/fasting"
+    },
+    "Hinduism": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Hinduism"
+    },
+    "Iconography": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/iconography"
+    },
+    "Islam": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Islam"
+    },
+    "Judaism": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Judaism"
+    },
+    "Monasteries": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/monasticism"
+    },
+    "Monotheism": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/monotheism"
+    },
+    "Myth": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/myth"
+    },
+    "Pilgrimage": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/pilgrimage-religion"
+    },
+    "Prayer Beads": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/rosary"
+    },
+    "Religion": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/religion"
+    },
+    "Religious Calendars": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/calendar/Ancient-and-religious-calendar-systems"
+    },
+    "Ritual": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/ritual"
+    },
+    "Sacred Texts": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/scripture"
+    }
+  },
+  "dinosaurs": {
+    "Dinosaur Eggs": {
+      "institution": "American Museum of Natural History",
+      "url": "https://www.amnh.org/dinosaurs/dinosaur-eggs"
+    },
+    "Ankylosaurus": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/Ankylosaurus"
+    },
+    "Brachiosaurus": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/brachiosaur"
+    },
+    "Dinosaur Extinction": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/K-T-extinction"
+    },
+    "Fossils": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/fossil"
+    },
+    "Iguanodon": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/Iguanodon"
+    },
+    "Stegosaurus": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/Stegosaurus"
+    },
+    "Triceratops": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/Triceratops"
+    },
+    "Tyrannosaurus rex": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/Tyrannosaurus-rex"
+    },
+    "Velociraptor": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/Velociraptor"
+    }
+  },
+  "ancient-creatures": {
+    "Dunkleosteus": {
+      "institution": "American Museum of Natural History",
+      "url": "https://www.amnh.org/exhibitions/permanent/vertebrate-origins/dunkleosteus"
+    },
+    "Trilobites": {
+      "institution": "American Museum of Natural History",
+      "url": "https://www.amnh.org/research/paleontology/collections/fossil-invertebrate-collection/trilobite-website"
+    },
+    "Archaeopteryx": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/Archaeopteryx"
+    },
+    "Dire Wolves": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/dire-wolf"
+    },
+    "Giant Sloths": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/Megatherium"
+    },
+    "Megalodon": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/megalodon"
+    },
+    "Mosasaurs": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/mosasaur"
+    },
+    "Saber-Toothed Cats": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/saber-toothed-cat"
+    },
+    "Woolly Mammoths": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/woolly-mammoth"
+    },
+    "Terror Birds": {
+      "institution": "Florida Museum of Natural History",
+      "url": "https://www.floridamuseum.ufl.edu/science/terror-bird-arrived-in-north-america-before-land-bridge/"
+    }
+  },
+  "pirates": {
+    "Blackbeard": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/biography/Blackbeard"
+    },
+    "Buccaneers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/buccaneer"
+    },
+    "Captain Kidd": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/biography/William-Kidd"
+    },
+    "Jolly Roger": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Jolly-Roger"
+    },
+    "Privateers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/privateer"
+    },
+    "Treasure Maps": {
+      "institution": "National Geographic",
+      "url": "https://www.nationalgeographic.com/culture/article/pirate-maps-all-over-the-map"
+    },
+    "Pirate Codes": {
+      "institution": "New England Pirate Museum",
+      "url": "https://www.piratemuseum.com/edagreem.htm"
+    },
+    "Female Pirates": {
+      "institution": "Royal Museums Greenwich",
+      "url": "https://www.rmg.co.uk/stories/maritime-history/real-pirates-anne-bonny-mary-read"
+    },
+    "Pirate Havens": {
+      "institution": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/shipwrecks-discovered-near-the-bahamas-tantalize-researchers-with-possible-ties-to-the-real-pirates-of-the-caribbean-180988901/"
+    },
+    "Pirate Ships": {
+      "institution": "Smithsonian National Museum of American History",
+      "url": "https://americanhistory.si.edu/explore/exhibitions/on-the-water/online/living-atlantic-world/pirates/arsenal"
+    }
+  },
+  "castles-fortresses": {
+    "Battlements": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/battlement"
+    },
+    "Drawbridges": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/military-technology/The-castle"
+    },
+    "Japanese Castles": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/Japanese-architecture/The-Azuchi-Momoyama-period"
+    },
+    "Medieval Castles": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/castle-architecture"
+    },
+    "Siege Towers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/siege-tower"
+    },
+    "Fortresses": {
+      "institution": "English Heritage",
+      "url": "https://www.english-heritage.org.uk/castles/castles-through-time/"
+    },
+    "Dungeon Myths": {
+      "institution": "Exploring Castles",
+      "url": "https://www.exploring-castles.com/castle_designs/castle_dungeon/"
+    },
+    "Hillforts": {
+      "institution": "Historic Environment Scotland",
+      "url": "https://www.historicenvironment.scot/visit-a-place/places/castlelaw-hill-fort/"
+    },
+    "Castle Keeps": {
+      "institution": "World History Encyclopedia",
+      "url": "https://www.worldhistory.org/Castle_Keep/"
+    },
+    "Moats": {
+      "institution": "World History Encyclopedia",
+      "url": "https://www.worldhistory.org/Medieval_Castle/"
+    }
+  },
+  "famous-disasters": {
+    "Chernobyl": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/event/Chernobyl-disaster"
+    },
+    "Fukushima": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/event/Fukushima-accident"
+    },
+    "Great Chicago Fire": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/event/Chicago-fire-of-1871"
+    },
+    "Krakatoa": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/Krakatoa"
+    },
+    "Pompeii": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/Pompeii"
+    },
+    "Great Fire of London": {
+      "institution": "London Museum",
+      "url": "https://www.londonmuseum.org.uk/collections/london-stories/great-fire-of-london/"
+    },
+    "Challenger Disaster": {
+      "institution": "NASA",
+      "url": "https://www.nasa.gov/missions/space-shuttle/sts-51l/challenger-crew-report/"
+    },
+    "Great Molasses Flood": {
+      "institution": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/history/without-warning-molasses-january-surged-over-boston-180971251/"
+    },
+    "Hindenburg": {
+      "institution": "Smithsonian National Postal Museum",
+      "url": "https://postalmuseum.si.edu/exhibition/fire-ice-hindenburg-and-titanic-exhibition/the-hindenburg-disaster"
+    }
+  },
+  "strange-jobs": {
+    "Pearl Divers": {
+      "institution": "Britannica Kids",
+      "url": "https://kids.britannica.com/students/article/Australian-pearling-industry/629336"
+    },
+    "Snake Milkers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/spitting-cobra-group"
+    },
+    "Foley Artists": {
+      "institution": "FilmSound.org",
+      "url": "https://www.filmsound.org/terminology/foley.htm"
+    },
+    "Odor Judges": {
+      "institution": "Monell Chemical Senses Center",
+      "url": "https://monell.org/potential-new-causes-for-the-odor-producing-disorder-tmau/"
+    },
+    "Professional Sleepers": {
+      "institution": "NASA",
+      "url": "https://www.nasa.gov/hrp/bedrest-faqs/"
+    },
+    "Food Tasters": {
+      "institution": "NC State Sensory Service Center",
+      "url": "https://sensory.ncsu.edu/evaluation/"
+    },
+    "Lighthouse Keepers": {
+      "institution": "Smithsonian Institution Archives",
+      "url": "https://siarchives.si.edu/collections/siris_sic_317"
+    },
+    "Tea Tasters": {
+      "institution": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/fda-used-have-people-whose-job-was-taste-tea-180967545/"
+    },
+    "Falconers": {
+      "institution": "The Archives of Falconry",
+      "url": "https://falconry.org/virtual_exhibits/falconry_timeline/"
+    }
+  },
+  "everyday-objects": {
+    "Buttons": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/button-clothing-accessory"
+    },
+    "Forks": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/flatware"
+    },
+    "Mirrors": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/mirror-optics"
+    },
+    "Pencils": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/pencil-writing-implement"
+    },
+    "Umbrellas": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/umbrella"
+    },
+    "Zippers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/art/zipper"
+    },
+    "Toothbrushes": {
+      "institution": "Library of Congress",
+      "url": "https://www.loc.gov/everyday-mysteries/technology/item/who-invented-the-toothbrush-and-when-was-it-invented/"
+    },
+    "Shoelaces": {
+      "institution": "Lock Laces",
+      "url": "https://www.locklaces.com/blogs/resources/history-of-shoes-shoelaces"
+    },
+    "Paper Clips": {
+      "institution": "Michigan State University Campus Archaeology Program",
+      "url": "https://campusarch.msu.edu/?p=1503"
+    },
+    "Keys": {
+      "institution": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/linus-yale-jr"
+    }
+  },
+  "household-science": {
+    "Laundry Detergent": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/detergent"
+    },
+    "Refrigerators": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/refrigeration"
+    },
+    "Soap": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/story/how-does-soap-work"
+    },
+    "Light Switches": {
+      "institution": "Design Museum",
+      "url": "https://designmuseum.org/exhibitions/home-futures/the-light-switch"
+    },
+    "Air Conditioning": {
+      "institution": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/willis-haviland-carrier"
+    },
+    "Dishwashers": {
+      "institution": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/josephine-garis-cochran"
+    },
+    "Microwaves": {
+      "institution": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/percy-l-spencer"
+    },
+    "Smoke Detectors": {
+      "institution": "NIST",
+      "url": "https://www.nist.gov/fire/history/1970s/driving-residential-smoke-alarm-adoption-1970s"
+    },
+    "Vacuum Cleaners": {
+      "institution": "Science Museum",
+      "url": "https://www.sciencemuseum.org.uk/objects-and-stories/everyday-wonders/invention-vacuum-cleaner"
+    },
+    "Nonstick Pans": {
+      "institution": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/science-nature/the-long-strange-history-of-teflon-the-indestructible-product-nothing-seems-to-stick-to-180984920/"
+    }
+  },
+  "famous-symbols": {
+    "Infinity Symbol": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/infinity-mathematics"
+    },
+    "Peace Symbol": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/story/where-did-the-peace-sign-come-from"
+    },
+    "Yin-Yang": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/yinyang"
+    },
+    "Recycling Symbol": {
+      "institution": "Grist",
+      "url": "https://grist.org/culture/recycling-symbol-logo-plastic-design/"
+    },
+    "Heart Symbol": {
+      "institution": "History Facts",
+      "url": "https://historyfacts.com/arts-culture/article/where-did-the-heart-symbol-come-from/"
+    },
+    "Ampersand": {
+      "institution": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/ampersand"
+    },
+    "Skull & Crossbones": {
+      "institution": "MySafetySign",
+      "url": "https://www.mysafetysign.com/poison-symbol-history"
+    },
+    "Check Mark": {
+      "institution": "Symbols.com",
+      "url": "https://www.symbols.com/symbol/check-mark"
+    },
+    "Question Mark": {
+      "institution": "The Punctuation Guide",
+      "url": "https://www.thepunctuationguide.com/question-mark.html"
+    },
+    "Dollar Sign": {
+      "institution": "U.S. Currency Education Program",
+      "url": "https://www.uscurrency.gov/history"
+    }
+  },
+  "colors": {
+    "Gold": {
+      "institution": "Art UK",
+      "url": "https://artuk.org/discover/stories/colour-in-art-a-brief-history-of-gold"
+    },
+    "Black": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/black-color"
+    },
+    "Blue": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/blue-color"
+    },
+    "Green": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/green-color"
+    },
+    "Indigo": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/indigo-dye"
+    },
+    "Orange": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/orange-color"
+    },
+    "Pink": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/story/has-pink-always-been-a-girly-color"
+    },
+    "Purple": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/purple-color"
+    },
+    "Red": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/red-color"
+    },
+    "White": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/white-color"
+    }
+  },
+  "sleep-dreams": {
+    "Hibernation": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/hibernation"
+    },
+    "Lucid Dreaming": {
+      "institution": "Cleveland Clinic",
+      "url": "https://health.clevelandclinic.org/lucid-dreams"
+    },
+    "Nightmares": {
+      "institution": "Cleveland Clinic",
+      "url": "https://health.clevelandclinic.org/what-causes-nightmares"
+    },
+    "Sleepwalking": {
+      "institution": "Cleveland Clinic",
+      "url": "https://my.clevelandclinic.org/health/diseases/14292-sleepwalking"
+    },
+    "Snoring": {
+      "institution": "MedlinePlus",
+      "url": "https://medlineplus.gov/snoring.html"
+    },
+    "REM Sleep": {
+      "institution": "NIH / NCBI Bookshelf",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK526132/"
+    },
+    "Insomnia": {
+      "institution": "NIH / NHLBI",
+      "url": "https://www.nhlbi.nih.gov/health/insomnia"
+    },
+    "Circadian Rhythm": {
+      "institution": "NIH / NIGMS",
+      "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms"
+    },
+    "Naps": {
+      "institution": "Sleep Foundation",
+      "url": "https://www.sleepfoundation.org/napping"
+    },
+    "Sleep Paralysis": {
+      "institution": "Sleep Foundation",
+      "url": "https://www.sleepfoundation.org/parasomnias/sleep-paralysis"
+    }
+  },
+  "illusions-perceptions": {
+    "Depth Perception": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/space-perception"
+    },
+    "Mirage": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/mirage-optical-illusion"
+    },
+    "Pareidolia": {
+      "institution": "EBSCO",
+      "url": "https://www.ebsco.com/research-starters/health-and-medicine/pareidolia"
+    },
+    "Afterimages": {
+      "institution": "Exploratorium",
+      "url": "https://www.exploratorium.edu/snacks/afterimage"
+    },
+    "Blind Spots": {
+      "institution": "Exploratorium",
+      "url": "https://www.exploratorium.edu/snacks/blind-spot"
+    },
+    "Color Illusions": {
+      "institution": "Exploratorium",
+      "url": "https://www.exploratorium.edu/snacks/colored-shadows"
+    },
+    "Impossible Shapes": {
+      "institution": "Illusions Index",
+      "url": "https://www.illusionsindex.org/i/impossible-trident"
+    },
+    "Motion Illusions": {
+      "institution": "Illusions Index",
+      "url": "https://www.illusionsindex.org/i/rotating-snakes"
+    },
+    "Forced Perspective": {
+      "institution": "Nashville Film Institute",
+      "url": "https://www.nfi.edu/forced-perspective/"
+    },
+    "The Dress": {
+      "institution": "Scientific American",
+      "url": "https://www.scientificamerican.com/blog/illusion-chasers/the-current-biology-of-the-dress/"
+    }
+  },
+  "secret-codes": {
+    "Caesar Cipher": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Caesar-cipher"
+    },
+    "Cryptography": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/cryptography"
+    },
+    "Enigma Machine": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Enigma-German-code-device"
+    },
+    "Semaphore": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/semaphore"
+    },
+    "Steganography": {
+      "institution": "CompTIA",
+      "url": "https://www.comptia.org/en-us/blog/the-ancient-practice-of-steganography/"
+    },
+    "Pigpen Cipher": {
+      "institution": "Crypto Corner",
+      "url": "https://crypto.interactive-maths.com/pigpen-cipher.html"
+    },
+    "One-Time Pad": {
+      "institution": "Crypto Museum",
+      "url": "https://www.cryptomuseum.com/crypto/otp/index.htm"
+    },
+    "Book Cipher": {
+      "institution": "Derek Bruff / Vanderbilt University",
+      "url": "https://derekbruff.org/blogs/fywscrypto/historical-crypto/whats-in-a-book-a-brief-history-of-book-ciphers/"
+    },
+    "Scytale": {
+      "institution": "Science and Media Museum",
+      "url": "https://blog.scienceandmediamuseum.org.uk/top-secret-ciphers-from-ancient-greece-to-the-second-world-war/"
+    },
+    "Navajo Code Talkers": {
+      "institution": "Smithsonian National Museum of the American Indian",
+      "url": "https://americanindian.si.edu/why-we-serve/topics/code-talkers/"
+    }
+  },
+  "superstitions": {
+    "Four-Leaf Clovers": {
+      "institution": "Better Homes & Gardens",
+      "url": "https://www.bhg.com/holidays/st-patricks-day/traditions/fun-facts-about-four-leaf-clovers/"
+    },
+    "Evil Eye": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/evil-eye"
+    },
+    "Friday the 13th": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/Friday-the-13th-superstition"
+    },
+    "Lucky Numbers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/number-symbolism"
+    },
+    "Black Cats": {
+      "institution": "Carnegie Museum of Natural History",
+      "url": "https://carnegiemnh.org/superstitions-and-black-cats/"
+    },
+    "Knocking on Wood": {
+      "institution": "HISTORY",
+      "url": "https://www.history.com/articles/why-do-people-knock-on-wood-for-luck"
+    },
+    "Rabbit’s Foot": {
+      "institution": "HowStuffWorks",
+      "url": "https://people.howstuffworks.com/rabbit-foot-lucky.htm"
+    },
+    "Walking Under Ladders": {
+      "institution": "HowStuffWorks",
+      "url": "https://people.howstuffworks.com/why-is-walking-under-ladder-unlucky.htm"
+    },
+    "Horseshoes": {
+      "institution": "Kentucky Derby Museum",
+      "url": "https://www.derbymuseum.org/hoofnotes/the-legend-of-the-horseshoe"
+    },
+    "Broken Mirrors": {
+      "institution": "University of South Carolina",
+      "url": "https://sc.edu/uofsc/posts/2021/06/06_conversation_broken_mirror.php"
+    }
+  },
+  "human-behavior": {
+    "Smiling": {
+      "institution": "Association for Psychological Science",
+      "url": "https://www.psychologicalscience.org/observer/the-psychological-study-of-smiling"
+    },
+    "Eye Contact": {
+      "institution": "EBSCO",
+      "url": "https://www.ebsco.com/research-starters/communication-and-mass-media/eye-contact"
+    },
+    "Personal Space": {
+      "institution": "EBSCO",
+      "url": "https://www.ebsco.com/research-starters/communication-and-mass-media/personal-space"
+    },
+    "Handshakes": {
+      "institution": "HISTORY",
+      "url": "https://www.history.com/articles/what-is-the-origin-of-the-handshake"
+    },
+    "Facial Expressions": {
+      "institution": "iMotions",
+      "url": "https://imotions.com/blog/learning/research-fundamentals/facial-expressions-a-complete-guide/"
+    },
+    "Posture": {
+      "institution": "MedlinePlus",
+      "url": "https://medlineplus.gov/guidetogoodposture.html"
+    },
+    "Gestures": {
+      "institution": "NIH / PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7438760/"
+    },
+    "Laughter": {
+      "institution": "NIH / PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4255480/"
+    },
+    "Microexpressions": {
+      "institution": "Paul Ekman Group",
+      "url": "https://www.paulekman.com/resources/micro-expressions/"
+    },
+    "Crossed Arms": {
+      "institution": "Talk About Talk",
+      "url": "https://www.talkabouttalk.com/body-language-and-communication/"
+    }
+  },
+  "explorers": {
+    "Ernest Shackleton": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/biography/Ernest-Henry-Shackleton"
+    },
+    "Ibn Battuta": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/biography/Ibn-Battuta"
+    },
+    "Jacques Cousteau": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/biography/Jacques-Cousteau"
+    },
+    "Lewis and Clark": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/event/Lewis-and-Clark-Expedition"
+    },
+    "Ferdinand Magellan": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/biography/Ferdinand-Magellan"
+    },
+    "Marco Polo": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/biography/Marco-Polo"
+    },
+    "Nellie Bly": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/biography/Nellie-Bly"
+    },
+    "Roald Amundsen": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/biography/Roald-Amundsen"
+    },
+    "Zheng He": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/biography/Zheng-He"
+    },
+    "Sacagawea": {
+      "institution": "National Park Service",
+      "url": "https://www.nps.gov/people/sacagawea.htm"
+    }
+  },
+  "famous-trees-plants": {
+    "Bamboo": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/plant/bamboo"
+    },
+    "Baobab Trees": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/plant/baobab-tree-genus"
+    },
+    "Cacti": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/plant/cactus"
+    },
+    "Poison Ivy": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/plant/poison-ivy-plant"
+    },
+    "Venus Flytraps": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/plant/Venus-flytrap"
+    },
+    "Cherry Blossoms": {
+      "institution": "National Park Service",
+      "url": "https://www.nps.gov/subjects/cherryblossom/history-of-the-cherry-trees.htm"
+    },
+    "Giant Sequoias": {
+      "institution": "National Park Service",
+      "url": "https://www.nps.gov/seki/learn/nature/bigtrees.htm"
+    },
+    "Corpse Flower": {
+      "institution": "Royal Botanic Gardens Kew",
+      "url": "https://www.kew.org/plants/titan-arum"
+    },
+    "Mangroves": {
+      "institution": "Smithsonian Ocean",
+      "url": "https://ocean.si.edu/ocean-life/plants-algae/mangroves"
+    },
+    "Bonsai": {
+      "institution": "U.S. National Arboretum",
+      "url": "https://www.usna.usda.gov/discover/gardens-collections/national-bonsai-penjing-museum"
+    }
+  },
+  "insects": {
+    "Bees": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/bee"
+    },
+    "Ants": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/ant"
+    },
+    "Butterflies": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/butterfly-insect"
+    },
+    "Cicadas": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/cicada"
+    },
+    "Dragonflies": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/dragonfly"
+    },
+    "Fireflies": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/firefly-insect"
+    },
+    "Praying Mantises": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/mantid"
+    },
+    "Termites": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/termite"
+    },
+    "Mosquitoes": {
+      "institution": "CDC",
+      "url": "https://www.cdc.gov/mosquitoes/about/index.html"
+    },
+    "Beetles": {
+      "institution": "Smithsonian Institution",
+      "url": "https://www.si.edu/spotlight/buginfo/beetle"
+    }
+  },
+  "strange-places": {
+    "Dead Sea": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/Dead-Sea"
+    },
+    "Salar de Uyuni": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/place/Uyuni-Salt-Flat"
+    },
+    "Fly Geyser": {
+      "institution": "Friends of Black Rock-High Rock",
+      "url": "https://www.blackrockdesert.org/fly-ranch"
+    },
+    "Door to Hell": {
+      "institution": "National Geographic Education",
+      "url": "https://education.nationalgeographic.org/resource/entering-door-hell/"
+    },
+    "Giant’s Causeway": {
+      "institution": "National Trust",
+      "url": "https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway/history-of-giants-causeway"
+    },
+    "Paris Catacombs": {
+      "institution": "Paris Catacombs Official Site",
+      "url": "https://www.catacombes.paris.fr/en/history/site-history"
+    },
+    "Blood Falls": {
+      "institution": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/travel/antarcticas-blood-red-waterfall-180949507/"
+    },
+    "Pamukkale": {
+      "institution": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/485/"
+    },
+    "Socotra": {
+      "institution": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1263/"
+    },
+    "Lake Hillier": {
+      "institution": "Western Australia Tourism",
+      "url": "https://www.westernaustralia.com/us/plan-my-trip/planning-tools/travel-stories/the-amazing-pink-lakes-of-western-australia"
+    }
+  },
+  "human-civilization": {
+    "Agriculture": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/agriculture/How-agriculture-and-domestication-began"
+    },
+    "Calendars": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/science/calendar"
+    },
+    "Cities": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/city"
+    },
+    "Coins": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/money/coin"
+    },
+    "Irrigation": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/hydraulic-civilization"
+    },
+    "Laws": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/topic/law-code"
+    },
+    "Roads": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/Roman-road-system"
+    },
+    "Sewers": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/sewerage-system"
+    },
+    "Timekeeping": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/technology/clock"
+    },
+    "Maps": {
+      "institution": "Library of Congress",
+      "url": "https://www.loc.gov/maps/collections/"
+    }
+  }
+}

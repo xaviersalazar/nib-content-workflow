@@ -1,20 +1,21 @@
 # Nib Content Workflow — Nib Content Schema Reference
 
-This document describes the three JSON content files that power the **Nib** iOS app. It is intended to give a content-generation application everything it needs to produce valid, well-structured `categories.json` and `collections.json` files, anchored to the existing facts in `facts.json`.
+This document describes the JSON content files that power the **Nib** iOS app. It is intended to give a content-generation application everything it needs to produce valid, well-structured `categories.json` and `collections.json` files, anchored to the existing facts in `facts.json`, plus the generated `sources.json` provenance map.
 
 ---
 
 ## Overview
 
-The app ships three JSON files inside its bundle. They form the entire content database:
+The app ships these JSON files inside its bundle. They form the entire content database:
 
 | File               | Role                                                                                                       |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- |
 | `facts.json`       | The **source of truth**. Every individual fact lives here.                                                 |
 | `categories.json`  | Classifies facts into broad topic areas. Each fact belongs to exactly one category.                        |
 | `collections.json` | Curated thematic groupings of facts that cut across categories. A fact can appear in multiple collections. |
+| `sources.json`     | **Generated** topic-level provenance. Maps `categoryId → topic → { institution, url }` for the "Source ↗" line. Built by `pnpm export:sources`; never hand-edited. |
 
-The app reads all three files through `FactRepository`, which first checks an App Group shared-cache directory (populated by remote content delivery), then falls back to the bundled seed. **Dates are decoded as ISO-8601 strings.**
+The app reads these files through `FactRepository`, which first checks an App Group shared-cache directory (populated by remote content delivery), then falls back to the bundled seed. **Dates are decoded as ISO-8601 strings.**
 
 ---
 
@@ -198,6 +199,43 @@ An array of `Collection` objects. Collections are **curated, thematic groupings*
 | `nature-is-crazy`               | Nature Is Crazy               | 4          |
 | `hidden-connections`            | Hidden Connections            | 4          |
 | `accidental-inventions`         | Accidental Inventions         | 4          |
+
+---
+
+## `sources.json` — topic-level provenance
+
+**Generated, never hand-edited.** Produced by `pnpm export:sources` from `source-registry/sources.csv`
+(joined to `categories.json` and `facts.json`). The app surfaces it as a quiet "Source: NASA ↗" line —
+its _Trust First_ attribution.
+
+A nested object keyed by `categoryId`, then by the **exact** `topic` string used on facts, so the app
+looks up `sources[fact.categoryId][fact.topic]` with no normalization:
+
+```json
+{
+  "space": {
+    "Venus": { "institution": "NASA", "url": "https://science.nasa.gov/venus/" },
+    "Mars":  { "institution": "NASA", "url": "https://science.nasa.gov/mars/" }
+  },
+  "chemistry": {
+    "Atoms": { "institution": "Britannica", "url": "https://www.britannica.com/science/atom" }
+  }
+}
+```
+
+| Field         | Type     | Notes                                                                          |
+| ------------- | -------- | ------------------------------------------------------------------------------ |
+| `institution` | `String` | Display name shown after "Source:" (e.g. `NASA`, `Britannica`).                |
+| `url`         | `String` | Canonical page, opened in-app via `SafariView`. **Must be `http(s)`** — the app drops any other scheme. Tracking query params are stripped at export. |
+
+Rules:
+
+- **Every fact `topic` should resolve.** Coverage is currently **100% (703/703)**. A topic with no entry
+  simply shows no source line (no error), but treat a gap as a bug — add the source to
+  `source-registry/sources.csv` (or a `TOPIC_ALIASES` entry in `scripts/export-sources.ts` if the fact's
+  display topic just differs from the registry label) and re-run `pnpm export:sources`.
+- **Attribution is topic-level, not per-fact** — every fact on a topic shares that topic's source.
+- Keys mirror `facts.json`; regenerate this file whenever facts or the registry change.
 
 ---
 
