@@ -1,6 +1,6 @@
 # Nib Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-21 · 1713 facts · 55 categories
+> Last updated: 2026-07-28 · 1717 facts · 56 categories
 > (Keep this line current — bump it every time a category is finished or the library changes. See step 9 of the standing pattern.)
 
 ## What this is
@@ -25,7 +25,44 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   **this doc, not memory, is the durable handoff** (memory can't be relied on across machines/devs).
 
 ## Current state (2026-07-19)
-- **1713 facts · 55 categories · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+- **1717 facts · 56 categories · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+
+### What changed on 2026-07-28 (NEW CATEGORY — first monthly expansion drop: Aug 2026)
+
+First execution of the `content-expansion-roadmap.md` monthly cadence. **New category `survival-body-limits`
+("Survival & the Body's Limits"), 10 topics, +25 facts (1692 → 1717).** This was a from-scratch build (source
+discovery → scrape → draft), NOT a wow-rewrite. Full source-discovery + scrape validation done; all 10 registry
+rows in `sources.csv` are `complete`; 10 clean markdown files in `sources/survival-and-the-bodys-limits/`.
+
+- **Roadmap deviations, all user-approved:** the roadmap's Aug slate was `Survival & the Body's Limits` with a
+  specific 10 topics. Final shipped topics differ: **Rule of Threes → The Vacuum of Space** (weak/blog-only
+  source), **The Bends → Heatstroke** (heat counterpart to the cold topics), **Paradoxical Undressing → Hysterical
+  Strength** (Live Science was JS-gated junk; then rejected Wikipedia as a source on principle — user won't use
+  editable-by-anyone sources), **The Death Zone → Hypothermia** (scraped NatGeo page was a climbing *memoir*, not
+  physiology), **The Will to Live → Surviving a Fall** (scraped NatGeo page was a "vacation mindset" essay, off
+  topic). Lesson: **validate that a scraped page is actually about the topic AND scrapes to real body text before
+  committing** — three sources failed this at draft time (JS-gate, memoir, off-topic essay).
+- **Final 10 topics / institutions:** The Vacuum of Space (ScienceABC), Heatstroke (Cleveland Clinic), Hypothermia
+  (Cleveland Clinic), Hysterical Strength (Cleveland Clinic), G-Force (Smithsonian), Wilderness Survival (National
+  Geographic), Surviving a Fall (Guinness World Records), Freediving (Divers Alert Network), The Mammalian Dive
+  Reflex (Ochsner Health), Surviving Without Food (Scientific American). **Zero Britannica, zero Wikipedia** — a
+  strong source-diversification win for the roadmap's 50%-Britannica goal.
+- **Facts-per-topic (quality-gated, user-enforced):** Vacuum 3, Heatstroke 3, Hypothermia 3, Hysterical Strength
+  3, G-Force 3, Wilderness 3, Surviving a Fall **1** (user cut 2 same-incident facts — "up to 3" is a ceiling),
+  Freediving 2, Dive Reflex 2, Surviving Without Food 2.
+- **4+ age-gate routing (this category pulls morbid/medical sources):** Dive Reflex source is self-harm-framed →
+  facts kept to physiology only; Surviving Without Food source is heavily morbid (anorexia/end-of-life) → kept to
+  Gandhi's fast + metabolism downshift; Surviving a Fall → survival + physics only, no crash/injury/bombing detail.
+  `pnpm check:age-rating` = **0 BLOCK, 0 WARN** on all 25 (reworded one summary that said "act drunk").
+- **STILL TO DO (outward-facing, NOT done):** (1) run the graph pipeline `normalize:tags → assign:themes →
+  generate:related` (the 25 rows have empty `relatedFactIds`/`themes`); (2) `pnpm export:facts` + sync to
+  `Nib/Nib/Data/facts.json`; (3) **app-side: add `survival-body-limits` to `categories.json`** (color token, icon,
+  description) — the app won't render facts for an unknown categoryId; (4) CDN republish. Backup:
+  `approved-content/approved-facts.backup-survival-20260728-003432.csv`.
+- **Roadmap monthly cadence also expects 2 Collections** ("Written in the Stars", "Too Hot to Handle") — NOT
+  started; those are pure curation of existing facts, no drafting. **Cadence changed 2026-07-28:** category drops
+  on the 1st, and **both** Collections now drop together on the **15th** (was 1st + 15th). See
+  `content-expansion-roadmap.md`.
 
 ### What changed on 2026-07-21 (later — category-fit pass, 1716 → 1713)
 

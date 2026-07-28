@@ -312,6 +312,12 @@
     "description": "Luck, omens, and the fears we can't shake."
   },
   {
+    "id": "survival-body-limits",
+    "name": "Survival & the Body's Limits",
+    "icon": "bolt.heart",
+    "description": "The extremes the human body can endure."
+  },
+  {
     "id": "technology",
     "name": "Technology",
     "icon": "cpu",

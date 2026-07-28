@@ -71,8 +71,8 @@ Every month ships **three** drops — all of them, not a pick-one:
    it's an *opportunistic, analytics-driven* activity — see the expansion backlog
    below — not the monthly drop.)
 
-2. **Two new Collections** — a curated, cross-category journey each, dropped on
-   the **1st** and the **15th**.
+2. **Two new Collections** — a curated, cross-category journey each, both dropped
+   together on the **15th** (a mid-month beat, separate from the category on the 1st).
 
    Collections are **curation, not new content**: each one is a hand-picked
    `factIds` list drawn from facts that already exist (see
@@ -84,8 +84,8 @@ Every month ships **three** drops — all of them, not a pick-one:
    **wacky** — the unexpected, off-the-wall angle ("Food Coma," "You've Been
    Fooled," "The Chemistry of Love") outperforms the safe one.
 
-A healthy month = **one intriguing new category + two themed Collections (1st &
-15th).**
+A healthy month = **one intriguing new category (1st) + two themed Collections
+(both on the 15th).**
 
 ---
 
@@ -131,8 +131,8 @@ drop lands **August 2026** and the launch year runs **Aug 2026 → Jul 2027**.
 This is **not** the old schedule shifted a month. Each slot was re-chosen for the
 month it actually lands in. The rhythm each month:
 
-- **1st** → a new **Collection** *and* the month's new **category** go live.
-- **15th** → a second **Collection** drops.
+- **1st** → the month's new **category** goes live.
+- **15th** → **both** of the month's new **Collections** drop together.
 
 Categories are now **fascination-first**: each earns its slot on "wait, really?" alone
 (**Survival & the Body's Limits** in Aug, **Forensics** in Sep, **Poisons, Venom & Toxins**
@@ -180,20 +180,28 @@ B12) and Fungi (Nov) and geography/Rainforests (plankton-oxygen) — leads with 
 the Year-2 *Magic & Illusions* backlog and Jul's Games/Magic-Tricks must route around Houdini; Camouflage/
 Mimic-Octopus + Cuttlefish coordinate with animals/Octopus.
 
-## Collections — two per month (1st & 15th)
+## Collections — two per month (both drop on the 15th)
 
 Each Collection is a curated pull from **existing** facts (illustrative members
 shown; final `factIds` verified — and de-duped across Collections — at build).
 
 > **Collections now carry the calendar.** Since the 2026-07-14 rewrite made the
-> *categories* fascination-first, the twice-monthly Collections are where every
+> *categories* fascination-first, the month's two Collections are where every
 > seasonal beat lives (Perseids, back-to-school, Halloween, Valentine's, Earth Day,
 > solstices, etc.). The schedule below already does this — every month's holiday/
 > season hook is a Collection, so no category has to chase the calendar. As each new
 > fascination category ships, it unlocks fresh Collection material too (e.g. after
 > **Poisons** drops, a "Deadly Beauty" pack; after **Forensics**, a "Caught in the Act").
+>
+> **Timing note (2026-07-28 cadence change).** Both Collections now drop together on
+> the **15th** (previously one on the 1st, one on the 15th). The two columns below are
+> just the two Collections for that month, not two different dates. A few packs were
+> chosen for an *early-month* holiday when they rode the 1st — **April Fools'** (Apr 1)
+> and **Lunar New Year** (Feb 6) — so on a strict 15th drop their calendar hook lands
+> late. When a holiday genuinely demands it, drop that month's pair a few days early
+> rather than splitting them back across two dates.
 
-| Month | 1st of month | 15th of month |
+| Month | Collection 1 (15th) | Collection 2 (15th) |
 | --- | --- | --- |
 | **Aug '26** | **"Written in the Stars"** — Meteor Showers, Comets, Supernovas, Auroras, Cicadas *(Perseid peak, Aug 11–13)* | **"Too Hot to Handle"** — the Sun, Red Giants, Volcanoes, Lasers, Deserts *(dog days of summer)* |
 | **Sep '26** | **"How Your Brain Learns"** — Learning, Memory, Attention, Habits, Neural Networks *(back-to-school)* | **"Your Lying Eyes"** — Optical Illusions, Motion Illusions, Color Illusions, Mirage, Placebo Effect *(how your brain fools you)* |
@@ -209,8 +217,8 @@ shown; final `factIds` verified — and de-duped across Collections — at build
 | **Jul '27** | **"Light Show"** — Auroras, Fireflies, Bioluminescence, Lasers, Supernovas *(July 4th fireworks weekend)* | **"Best of Year One"** — top facts from the launch year *(launch anniversary + Apollo 11, Jul 20)* |
 
 **Tally:** 12 new categories + **24 Collections** (two a month) across the year. The
-Categories screen gains a fresh tile monthly; the Collections screen gets a new
-themed pack twice a month — all 24 with **zero** new drafting. Category *expansions*
+Categories screen gains a fresh tile on the 1st; the Collections screen gets two new
+themed packs on the 15th — all 24 with **zero** new drafting. Category *expansions*
 remain opportunistic, layered on only when analytics flag a winner.
 
 **Roster changes (2026-07-14 fascination-first rewrite):** six categories that were structurally prone to flat,
@@ -430,9 +438,11 @@ change is required to adopt this convention.
 
 # How To Use This Document
 
-1. Finish the current launch backlog first (635 rows still `pending`).
-2. Each month, ship **one new category** (on the 1st) **and two new Collections**
-   (on the 1st and the 15th). The category can be seasonal *or* just intriguing —
+1. Finish the current launch backlog first. *(Complete as of 2026-07-28 — 0 `pending`
+   rows in `sources.csv`; the Aug 2026 Survival & the Body's Limits category was the
+   first expansion drop.)*
+2. Each month, ship **one new category** (on the **1st**) **and two new Collections**
+   (**both on the 15th**). The category can be seasonal *or* just intriguing —
    pull it from the schedule, the Year-2 backlog, or the Unexpected & Intriguing
    bank. The Collections come from the schedule or the Collection Ideas Bank.
 3. Confirm every proposed **category topic** is still absent from `sources.csv`,
