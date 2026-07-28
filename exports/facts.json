@@ -3977,7 +3977,6 @@
       "phoenicians-ships",
       "phoenicians-alphabet",
       "ancient-persia-royal-road",
-      "trade-comparative-advantage",
       "purple-fixed-dye",
       "ancient-persia-persepolis"
     ],
@@ -4064,7 +4063,6 @@
       "ancient-persia-persepolis",
       "ancient-persia-cyrus-great",
       "babylonians-hammurabi",
-      "trade-comparative-advantage",
       "salt-created-trade-routes",
       "silk-road-black-death"
     ],
@@ -7014,35 +7012,6 @@
     ]
   },
   {
-    "id": "emotions-change-thinking",
-    "headline": "Without Emotion, You Can't Make Even Simple Decisions",
-    "body": "We like to think feelings get in the way of good decisions. But people with brain damage that wipes out their emotions, while leaving logic intact, become unable to decide almost anything. Faced with a choice as small as where to eat, they reason endlessly and never settle. It turns out emotion is what lets us finally commit. Pure logic alone leaves you stuck.",
-    "summary": "People who lose their emotions but keep their logic can't decide even where to eat.",
-    "categoryId": "psychology",
-    "topic": "Emotions",
-    "tags": [
-      "psychology",
-      "emotion",
-      "decisions",
-      "neuroscience"
-    ],
-    "readTimeSeconds": 35,
-    "featured": false,
-    "relatedFactIds": [
-      "decision-making-environment-shapes",
-      "memory-fading-helps-time",
-      "facial-expressions-universal",
-      "brands-shape-perception",
-      "deja-vu-brain-misfire"
-    ],
-    "themes": [
-      "psychology-and-behavior",
-      "plants-and-botany",
-      "counterintuitive-scale",
-      "food-and-cuisine"
-    ]
-  },
-  {
     "id": "memory-fading-helps-time",
     "headline": "A Brain Surgery Left One Man Unable to Form New Memories",
     "body": "In 1953, surgeons removed a seahorse-shaped part of the brain called the hippocampus from a man to stop his seizures. It worked, but he could never form a new lasting memory again. Known for decades only as H.M., he would forget a visitor minutes after they left the room. Strangely, he could still master new skills, like tracing shapes in a mirror, with no memory of ever practicing. His case revealed that the brain builds different kinds of memory in different places.",
@@ -7063,7 +7032,6 @@
       "sleep-half-brain-awake",
       "personal-space-invisible-bubble",
       "brands-shape-perception",
-      "emotions-change-thinking",
       "happiness-twins-similar-levels"
     ],
     "themes": [
@@ -7199,7 +7167,6 @@
     "readTimeSeconds": 35,
     "featured": false,
     "relatedFactIds": [
-      "emotions-change-thinking",
       "happiness-twins-similar-levels",
       "ravens-five-foot-nests",
       "sleepwalking-childhood-common",
@@ -7566,7 +7533,6 @@
       "honey-mead-alcohol",
       "bread-used-as-plates",
       "ancient-persia-royal-road",
-      "trade-comparative-advantage",
       "mongol-empire-largest-contiguous"
     ],
     "themes": [
@@ -16897,8 +16863,7 @@
       "trademarks-protect-brands",
       "trademarks-identify-source",
       "afterimages-one-eye",
-      "attention-cannot-focus-everything",
-      "emotions-change-thinking"
+      "attention-cannot-focus-everything"
     ],
     "themes": [
       "perception-and-brain",
@@ -16923,8 +16888,7 @@
       "corporations-limit-owner-risk",
       "corporations-owned-by-shareholders",
       "franchises-support-control-tradeoff",
-      "inflation-has-multiple-causes",
-      "trade-comparative-advantage"
+      "inflation-has-multiple-causes"
     ],
     "themes": [
       "record-extremes",
@@ -16950,8 +16914,7 @@
       "corporations-exist-legally",
       "corporations-limit-owner-risk",
       "supply-demand-demand-curve",
-      "supply-demand-equilibrium",
-      "trade-comparative-advantage"
+      "supply-demand-equilibrium"
     ],
     "themes": [
       "money-trade-and-value"
@@ -17002,7 +16965,6 @@
     "featured": false,
     "relatedFactIds": [
       "entrepreneurship-combines-resources",
-      "entrepreneurship-schumpeter-growth",
       "patents-three-main-types",
       "crossed-arms-negative-default",
       "patents-right-to-exclude"
@@ -17026,7 +16988,6 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "entrepreneurship-schumpeter-growth",
       "entrepreneurship-risk-profit",
       "startups-early-risk",
       "startups-first-years-matter",
@@ -17035,33 +16996,6 @@
     "themes": [
       "storytelling-and-narrative",
       "architecture-and-structures"
-    ]
-  },
-  {
-    "id": "entrepreneurship-schumpeter-growth",
-    "headline": "Capitalism Grows by Destroying Itself",
-    "body": "Economist Joseph Schumpeter argued that progress isn't gentle; it's violent. He called it creative destruction: each new innovation wipes out the businesses that came before. Cars destroyed the horse-and-buggy trade, streaming flattened video rental, smartphones erased whole shelves of gadgets. In his view, this churn isn't a flaw in capitalism, it's the engine. The entrepreneur's job is to keep tearing down the old to make room for the new.",
-    "summary": "Schumpeter said capitalism advances through 'creative destruction,' with each innovation killing off what came before.",
-    "categoryId": "business",
-    "topic": "Entrepreneurship",
-    "tags": [
-      "entrepreneurship",
-      "schumpeter",
-      "economics"
-    ],
-    "readTimeSeconds": 53,
-    "featured": false,
-    "relatedFactIds": [
-      "entrepreneurship-combines-resources",
-      "entrepreneurship-risk-profit",
-      "branding-consistency-builds-trust",
-      "advertising-modern-printing",
-      "startups-first-years-matter"
-    ],
-    "themes": [
-      "money-trade-and-value",
-      "internet-and-virality",
-      "energy-and-power"
     ]
   },
   {
@@ -17182,8 +17116,7 @@
       "supply-demand-equilibrium",
       "supply-demand-price-signal",
       "corporations-owned-by-shareholders",
-      "vacuum-cleaners-luxury-first",
-      "trade-comparative-advantage"
+      "vacuum-cleaners-luxury-first"
     ],
     "themes": [
       "money-trade-and-value"
@@ -17207,8 +17140,7 @@
       "supply-demand-demand-curve",
       "supply-demand-price-signal",
       "corporations-owned-by-shareholders",
-      "supply-chains-ev-complexity",
-      "trade-comparative-advantage"
+      "supply-chains-ev-complexity"
     ],
     "themes": [
       "money-trade-and-value"
@@ -17230,7 +17162,6 @@
     "featured": false,
     "relatedFactIds": [
       "trade-not-just-nations",
-      "trade-comparative-advantage",
       "brands-identity-not-logo",
       "globalization-world-integration",
       "salt-created-trade-routes",
@@ -17241,32 +17172,6 @@
       "materials-and-chemistry",
       "plants-and-botany",
       "symbiosis-and-cooperation"
-    ]
-  },
-  {
-    "id": "trade-comparative-advantage",
-    "headline": "Even If You're Better at Everything, You Should Still Specialize",
-    "body": "Imagine a lawyer who also happens to type faster than any assistant she could hire. Should she do her own typing? No, because every hour spent typing is an hour stolen from far more valuable legal work. She comes out ahead by hiring a slower typist and focusing on law. This is comparative advantage, and it's the surprising reason countries that are more productive at everything still gain from trading.",
-    "summary": "A lawyer who types faster than her assistant should still hire one, the same logic that drives global trade.",
-    "categoryId": "business",
-    "topic": "Trade",
-    "tags": [
-      "trade",
-      "comparative-advantage",
-      "economics"
-    ],
-    "readTimeSeconds": 54,
-    "featured": false,
-    "relatedFactIds": [
-      "trade-crosses-borders",
-      "trade-not-just-nations",
-      "supply-demand-equilibrium",
-      "ancient-persia-royal-road",
-      "globalization-world-integration",
-      "phoenicians-purple-dye"
-    ],
-    "themes": [
-      "money-trade-and-value"
     ]
   },
   {
@@ -17285,7 +17190,6 @@
     "featured": false,
     "relatedFactIds": [
       "trade-crosses-borders",
-      "trade-comparative-advantage",
       "supply-demand-demand-curve",
       "globalization-world-integration",
       "ancient-persia-royal-road"
@@ -17371,7 +17275,6 @@
     "relatedFactIds": [
       "branding-protected-by-trademarks",
       "branding-memory-tool",
-      "entrepreneurship-schumpeter-growth",
       "velcro-manufacturing-challenge",
       "scarcity-raises-value",
       "advertising-persuades-public"
@@ -17476,7 +17379,6 @@
       "startups-first-years-matter",
       "entrepreneurship-combines-resources",
       "suspension-bridges-tacoma-narrows",
-      "capitalism-private-ownership",
       "brands-identity-not-logo"
     ],
     "themes": [
@@ -17995,7 +17897,6 @@
       "banking-deposits-become-loans",
       "banking-central-banks-last-resort",
       "interest-rates-risk-priced",
-      "gdp-final-goods-only",
       "scarcity-raises-value",
       "minimum-wage-alternatives-debate"
     ],
@@ -18107,39 +18008,11 @@
       "barter-direct-exchange",
       "minimum-wage-global-policy",
       "banking-deposits-become-loans",
-      "inflation-weakens-buying-power",
-      "capitalism-private-ownership"
+      "inflation-weakens-buying-power"
     ],
     "themes": [
       "money-trade-and-value",
       "food-and-cuisine"
-    ]
-  },
-  {
-    "id": "capitalism-private-ownership",
-    "headline": "Your Dinner Depends on the Baker's Self-Interest, Not Kindness",
-    "body": "In 1776, Adam Smith captured the strange magic of markets in a single line: we get our dinner not from the kindness of the butcher, brewer, or baker, but from their regard for their own interest. Each person chasing personal gain, he argued, is led 'as if by an invisible hand' to serve everyone else. No one plans it, yet bread appears, shoes get made, and a vast economy quietly coordinates itself.",
-    "summary": "Adam Smith's 'invisible hand': bakers feed you not from kindness but self-interest, and the whole economy self-organizes.",
-    "categoryId": "economics",
-    "topic": "Capitalism",
-    "tags": [
-      "capitalism",
-      "adam-smith",
-      "markets"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "capitalism-growth-not-guaranteed",
-      "barter-gift-exchange-different",
-      "minimum-wage-global-policy",
-      "startups-early-risk",
-      "interest-rates-risk-priced"
-    ],
-    "themes": [
-      "money-trade-and-value",
-      "food-and-cuisine",
-      "coffee-and-tea"
     ]
   },
   {
@@ -18157,8 +18030,6 @@
     "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
-      "capitalism-private-ownership",
-      "taxes-burden-can-shift",
       "currency-more-than-cash",
       "supply-chains-raw-to-retail",
       "interest-rates-price-of-borrowing"
@@ -18187,7 +18058,6 @@
     "relatedFactIds": [
       "currency-can-be-unusual",
       "barter-oldest-commerce",
-      "taxes-burden-can-shift",
       "banking-deposits-become-loans",
       "supply-chains-raw-to-retail",
       "interest-rates-price-of-borrowing"
@@ -18297,7 +18167,6 @@
     "relatedFactIds": [
       "economic-bubbles-dot-com-surge",
       "economic-bubbles-boom-and-bust",
-      "recession-ripples-through-economy",
       "taxes-direct-indirect",
       "opportunity-cost-better-decisions"
     ],
@@ -18327,8 +18196,7 @@
       "globalization-industrial-revolution",
       "taxes-direct-indirect",
       "trade-crosses-borders",
-      "ancient-persia-royal-road",
-      "trade-comparative-advantage"
+      "ancient-persia-royal-road"
     ],
     "themes": [
       "money-trade-and-value",
@@ -18407,7 +18275,6 @@
     "featured": false,
     "relatedFactIds": [
       "gdp-not-whole-story",
-      "gdp-final-goods-only",
       "recession-business-cycle-downturn",
       "economic-bubbles-boom-and-bust",
       "taxes-fund-public-needs",
@@ -18417,33 +18284,6 @@
       "money-trade-and-value",
       "disaster-and-catastrophe",
       "architecture-and-structures"
-    ]
-  },
-  {
-    "id": "gdp-final-goods-only",
-    "headline": "GDP's Inventor Warned Us Not to Use It This Way",
-    "body": "The modern measure of GDP was largely built by economist Simon Kuznets in the 1930s to help make sense of the Great Depression. But Kuznets gave a blunt warning: the welfare of a nation can hardly be inferred from this number. He knew it ignored too much. A century later, we routinely treat GDP as the headline score of a country's success, doing exactly what its own creator cautioned against.",
-    "summary": "Simon Kuznets built GDP in the 1930s, then warned a nation's welfare 'can hardly be inferred' from it.",
-    "categoryId": "economics",
-    "topic": "GDP",
-    "tags": [
-      "gdp",
-      "kuznets",
-      "history"
-    ],
-    "readTimeSeconds": 53,
-    "featured": false,
-    "relatedFactIds": [
-      "gdp-not-whole-story",
-      "gdp-measures-output",
-      "recession-business-cycle-downturn",
-      "banking-creates-bank-money",
-      "minimum-wage-alternatives-debate"
-    ],
-    "themes": [
-      "money-trade-and-value",
-      "invention-and-breakthrough",
-      "numbers-and-mathematics"
     ]
   },
   {
@@ -18462,10 +18302,8 @@
     "featured": false,
     "relatedFactIds": [
       "gdp-measures-output",
-      "gdp-final-goods-only",
       "recession-business-cycle-downturn",
-      "globalization-term-levitt",
-      "taxes-burden-can-shift"
+      "globalization-term-levitt"
     ],
     "themes": [
       "money-trade-and-value",
@@ -18489,7 +18327,6 @@
     "relatedFactIds": [
       "inflation-has-multiple-causes",
       "inflation-demand-pull",
-      "recession-ripples-through-economy",
       "minimum-wage-global-policy",
       "barter-gift-exchange-different"
     ],
@@ -18574,7 +18411,6 @@
       "interest-rates-risk-priced",
       "interest-rates-compounding",
       "banking-deposits-become-loans",
-      "taxes-burden-can-shift",
       "currency-more-than-cash",
       "supply-chains-raw-to-retail"
     ],
@@ -18653,8 +18489,7 @@
       "barter-gift-exchange-different",
       "barter-oldest-commerce",
       "superconductivity-cooper-pairs",
-      "computer-vision-machines-see",
-      "capitalism-private-ownership"
+      "computer-vision-machines-see"
     ],
     "themes": [
       "money-trade-and-value",
@@ -18679,7 +18514,6 @@
       "minimum-wage-global-policy",
       "opportunity-cost-next-best",
       "banking-creates-bank-money",
-      "gdp-final-goods-only",
       "interest-rates-risk-priced"
     ],
     "themes": [
@@ -18703,9 +18537,7 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "recession-ripples-through-economy",
       "recession-not-depression",
-      "gdp-final-goods-only",
       "gdp-not-whole-story",
       "gdp-measures-output",
       "barter-direct-exchange"
@@ -18713,33 +18545,6 @@
     "themes": [
       "money-trade-and-value",
       "myth-vs-reality"
-    ]
-  },
-  {
-    "id": "recession-ripples-through-economy",
-    "headline": "Everyone Saving Money Can Make a Recession Worse",
-    "body": "In hard times, saving money is the sensible personal move. But here's the trap, called the paradox of thrift: if everyone tightens their belt at once, total spending plunges. One person's spending cut is another person's lost income, so businesses earn less, lay off workers, and the downturn deepens. What's wise for a single household can be harmful for the whole economy when everybody does it at the same time.",
-    "summary": "The paradox of thrift: when everyone sensibly saves during a downturn, the falling spending makes the recession worse.",
-    "categoryId": "economics",
-    "topic": "Recession",
-    "tags": [
-      "recession",
-      "paradox-of-thrift",
-      "spending"
-    ],
-    "readTimeSeconds": 53,
-    "featured": false,
-    "relatedFactIds": [
-      "recession-business-cycle-downturn",
-      "recession-not-depression",
-      "taxes-direct-indirect",
-      "opportunity-cost-better-decisions",
-      "inflation-weakens-buying-power",
-      "economic-bubbles-name-matters"
-    ],
-    "themes": [
-      "money-trade-and-value",
-      "lost-and-rediscovered"
     ]
   },
   {
@@ -18757,7 +18562,6 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "recession-ripples-through-economy",
       "recession-business-cycle-downturn",
       "inflation-has-multiple-causes",
       "economic-bubbles-boom-and-bust",
@@ -18812,8 +18616,7 @@
       "supply-chains-raw-to-retail",
       "supply-chains-ev-complexity",
       "economic-bubbles-dot-com-surge",
-      "globalization-industrial-revolution",
-      "recession-ripples-through-economy"
+      "globalization-industrial-revolution"
     ],
     "themes": [
       "money-trade-and-value",
@@ -18862,7 +18665,6 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "taxes-burden-can-shift",
       "taxes-direct-indirect",
       "economic-bubbles-boom-and-bust",
       "gdp-measures-output",
@@ -18889,8 +18691,6 @@
     "featured": false,
     "relatedFactIds": [
       "taxes-fund-public-needs",
-      "taxes-burden-can-shift",
-      "recession-ripples-through-economy",
       "american-revolution-civil-war",
       "globalization-world-integration"
     ],
@@ -18898,32 +18698,6 @@
       "money-trade-and-value",
       "lost-and-rediscovered",
       "war-and-conflict"
-    ]
-  },
-  {
-    "id": "taxes-burden-can-shift",
-    "headline": "A Napkin Sketch Reshaped Tax Policy",
-    "body": "In 1974, economist Arthur Laffer reportedly drew a simple curve on a cocktail napkin for two officials over dinner. His point: tax rates of both 0% and 100% raise no money (at 100%, why bother working?), so somewhere between lies a rate that maximizes revenue, and cutting rates can sometimes raise it. The 'Laffer curve' became a cornerstone argument for tax cuts, one of the most influential doodles in economic history.",
-    "summary": "Arthur Laffer's curve, said to be sketched on a napkin in 1974, became a powerful argument that lower tax rates can raise revenue.",
-    "categoryId": "economics",
-    "topic": "Taxes",
-    "tags": [
-      "taxes",
-      "laffer-curve",
-      "policy"
-    ],
-    "readTimeSeconds": 54,
-    "featured": false,
-    "relatedFactIds": [
-      "taxes-fund-public-needs",
-      "taxes-direct-indirect",
-      "interest-rates-risk-priced",
-      "currency-more-than-cash",
-      "banking-deposits-become-loans",
-      "gdp-not-whole-story"
-    ],
-    "themes": [
-      "money-trade-and-value"
     ]
   },
   {
@@ -18972,8 +18746,7 @@
       "opportunity-cost-not-accounting",
       "scarcity-limited-resources",
       "snake-milkers-face-shields",
-      "bonsai-constant-care",
-      "recession-ripples-through-economy"
+      "bonsai-constant-care"
     ],
     "themes": [
       "money-trade-and-value",
@@ -19024,7 +18797,6 @@
     "featured": false,
     "relatedFactIds": [
       "scarcity-raises-value",
-      "scarcity-forces-choices",
       "opportunity-cost-better-decisions",
       "snake-milkers-face-shields",
       "bonsai-constant-care"
@@ -19049,7 +18821,6 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "scarcity-forces-choices",
       "scarcity-limited-resources",
       "banking-creates-bank-money",
       "advertising-persuades-public",
@@ -19060,34 +18831,6 @@
       "money-trade-and-value",
       "invention-and-breakthrough",
       "storytelling-and-narrative"
-    ]
-  },
-  {
-    "id": "scarcity-forces-choices",
-    "headline": "Being Short on Money Can Tax Your Brain",
-    "body": "Scarcity isn't only about resources; it changes how we think. Research suggests that worrying about a pressing shortage, especially of money, consumes mental bandwidth, leaving less capacity for everything else. In one striking finding, the stress of scarcity reduced people's effective problem-solving as much as losing a full night's sleep. Poverty, in this view, isn't just a lack of cash; it imposes a hidden tax on attention and decision-making.",
-    "summary": "Studies suggest the mental strain of scarcity, especially financial, drains brainpower as much as a sleepless night.",
-    "categoryId": "economics",
-    "topic": "Scarcity",
-    "tags": [
-      "scarcity",
-      "psychology",
-      "poverty"
-    ],
-    "readTimeSeconds": 50,
-    "featured": false,
-    "relatedFactIds": [
-      "scarcity-raises-value",
-      "scarcity-limited-resources",
-      "opportunity-cost-not-accounting",
-      "banking-deposits-become-loans",
-      "taxes-burden-can-shift"
-    ],
-    "themes": [
-      "psychology-and-behavior",
-      "perception-and-brain",
-      "money-trade-and-value",
-      "animal-intelligence"
     ]
   },
   {
@@ -20584,7 +20327,6 @@
       "hieroglyphics-hieratic-daily-writing",
       "hieroglyphics-always-phonetic",
       "writing-systems-represent-language",
-      "trade-comparative-advantage",
       "ancient-persia-royal-road",
       "writing-systems-defeat-distance-time"
     ],
@@ -41784,7 +41526,6 @@
       "facial-expressions-emotional-signals",
       "facial-expressions-evolution",
       "smiling-short-expression",
-      "emotions-change-thinking",
       "microexpressions-macro-difference",
       "gestures-before-words"
     ],

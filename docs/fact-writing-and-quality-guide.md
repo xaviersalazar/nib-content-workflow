@@ -127,6 +127,28 @@ Blue* beat Kasparov," "the ancient *Olympics*." Quick test: if the sentence stil
 fact after you delete the org name, it was a citation — cut it. If deleting it breaks the fact, it's the
 subject — keep it (but still drop any "says / according to" framing).
 
+### Verifiable fact, not an expert's opinion or theory
+A fact must state something **empirically verifiable** — not an opinion, argument, model, worldview, or
+theory attributed to a subject-matter expert. This is about **substance**, not phrasing: the attribution
+rule above stops you *writing* "Schumpeter argued…"; this rule stops the underlying **claim itself** from
+being one person's interpretation dressed as fact. An opinion-as-fact can have a great "wait, really?"
+hook and still fail — the hook is not the test.
+
+**The test:** strip any attribution and ask — is what remains an empirically verifiable fact, or is it
+inherently contestable (a matter of opinion, interpretation, or theory a reasonable person could reject)?
+
+- ❌ *Capitalism Grows by Destroying Itself* — Schumpeter's "creative destruction" **theory**. (Removed 2026-07-28.)
+- ❌ *Your Dinner Depends on the Baker's Self-Interest, Not Kindness* — Adam Smith's "invisible hand" **argument**.
+- ❌ *Even If You're Better at Everything, You Should Still Specialize* — an economic **model** (comparative advantage), stated as fact.
+- ✅ *Ancient Egyptian Embalmers Threw the Brain Away* — a **documented belief/practice**; the fact is the belief itself.
+- ✅ *He Left Blanks in the Table for Elements Nobody Had Found* — Mendeleev's predictions were later **confirmed**.
+
+**When a theory or named idea IS allowed:** only when the fact is about a **verifiable event or a confirmed
+result**, not the idea's truth — *who* proposed it, *when*, and *what verifiably happened* (a genuine
+scientific debate honestly labeled as unsettled; an origin theory hedged with "may"/"one theory"; a
+prediction that was later proven). Economics, philosophy, and psychology topics are the highest-risk
+categories — an interesting-sounding "principle" there is often a contested theory, not a fact.
+
 ---
 
 ## 6. Validation — the pass/fail gate (no numeric score)
@@ -136,6 +158,9 @@ whether it clears these tests:
 
 - **Source-grounded** — everything is supported by the supplied source. No outside knowledge, no
   embellishment, no invented comparisons. *(Failing this is an automatic reject/review.)*
+- **Verifiable, not opinion** — the claim is an empirically verifiable fact, not an expert's opinion,
+  argument, model, or theory presented as fact (see §5). *(Failing this is an automatic reject, even if
+  the hook is excellent.)*
 - **Standalone** — understandable with no surrounding context.
 - **Curiosity** — sparks a genuine "want to know more."
 - **Memory** — a user will remember it tomorrow.
@@ -151,8 +176,9 @@ whether it clears these tests:
 - **PASS** — clears every test above. Export it.
 - **NEEDS_REVIEW** — salvageable (weak phrasing, academic tone, a flat headline hiding a real gem).
   Rewrite per §7; if the rewrite passes, promote to PASS.
-- **REJECTED** — a §3 red-flag with no salvageable gem, duplicate, unsupported, or genuinely dull. Remove;
-  do not export.
+- **REJECTED** — a §3 red-flag with no salvageable gem, an opinion/theory presented as fact (§5) that
+  can't be re-anchored on a verifiable event, a duplicate, unsupported, or genuinely dull. Remove; do not
+  export.
 
 ---
 
