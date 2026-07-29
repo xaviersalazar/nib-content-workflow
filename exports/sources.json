@@ -450,10 +450,6 @@
     }
   },
   "psychology": {
-    "Emotions": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/science/emotion"
-    },
     "Memory": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/science/memory-psychology"
@@ -2919,6 +2915,48 @@
     "Maps": {
       "institution": "Library of Congress",
       "url": "https://www.loc.gov/maps/collections/"
+    }
+  },
+  "survival-body-limits": {
+    "The Vacuum of Space": {
+      "institution": "ScienceABC",
+      "url": "https://www.scienceabc.com/pure-sciences/what-happens-to-a-human-body-if-exposed-to-the-vacuum-of-space"
+    },
+    "Heatstroke": {
+      "institution": "Cleveland Clinic",
+      "url": "https://my.clevelandclinic.org/health/diseases/21812-heatstroke"
+    },
+    "Hypothermia": {
+      "institution": "Cleveland Clinic",
+      "url": "https://my.clevelandclinic.org/health/diseases/21164-hypothermia-low-body-temperature"
+    },
+    "Hysterical Strength": {
+      "institution": "Cleveland Clinic",
+      "url": "https://health.clevelandclinic.org/what-happens-to-your-body-during-the-fight-or-flight-response"
+    },
+    "G-Force": {
+      "institution": "Smithsonian",
+      "url": "https://airandspace.si.edu/stories/editorial/record-breaking-rocket-sled-created-modern-safety-standards"
+    },
+    "Wilderness Survival": {
+      "institution": "National Geographic",
+      "url": "https://www.nationalgeographic.com/adventure/article/hikers-survival-tips"
+    },
+    "Surviving a Fall": {
+      "institution": "Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/news/2022/4/how-vesna-vulovic-survived-the-highest-fall-ever-with-no-parachute-697786"
+    },
+    "Freediving": {
+      "institution": "Divers Alert Network",
+      "url": "https://dan.org/alert-diver/article/hypoxia-in-breath-hold-diving/"
+    },
+    "The Mammalian Dive Reflex": {
+      "institution": "Ochsner Health",
+      "url": "https://blog.ochsner.org/articles/mammalian-dive-reflex-a-cool-way-to-reduce-stress-anxiety-and-panic-attacks/"
+    },
+    "Surviving Without Food": {
+      "institution": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/how-long-can-a-person-survive-without-food/"
     }
   }
 }

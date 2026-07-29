@@ -218,8 +218,8 @@
       "asteroids-older-than-earth",
       "asteroids-less-mass-than-moon",
       "comets-shoemaker-jupiter",
-      "space-race-sputnik",
-      "constellations-astronauts-navigation"
+      "vacuum-of-space-leblanc-saliva-boiled",
+      "space-race-sputnik"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -1545,7 +1545,7 @@
       "milky-way-andromeda-collision",
       "magnetism-domains-powerful-magnets",
       "beetles-eat-everything",
-      "asteroids-dart-changed-orbit"
+      "voyager-program-voyager-2-launched-first"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -1572,9 +1572,10 @@
     "relatedFactIds": [
       "cosmic-microwave-background-oldest-light",
       "red-giants-cooler-when-bigger",
+      "vacuum-of-space-swell-not-explode",
       "comets-oumuamua-first",
       "quasars-angle-changes-view",
-      "webb-spf-million"
+      "vacuum-of-space-suffocate-not-freeze"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -2107,8 +2108,8 @@
       "red-giants-sun-future",
       "webb-spf-million",
       "stars-live-trillions-years",
-      "sea-turtles-lay-eggs-on-land",
       "states-of-matter-plasma-fourth",
+      "sea-turtles-lay-eggs-on-land",
       "uranus-coldest-planet"
     ],
     "themes": [
@@ -3088,6 +3089,7 @@
       "space-race-armstrong-aldrin",
       "titanic-four-compartments",
       "titanic-warning-never-reached-bridge",
+      "vacuum-of-space-leblanc-saliva-boiled",
       "asteroids-dart-changed-orbit",
       "age-of-exploration-new-world"
     ],
@@ -4859,7 +4861,7 @@
       "sloths-bathroom-weekly",
       "cheetahs-cannot-roar",
       "seahorses-no-stomachs",
-      "posture-health-effects"
+      "energy-conservation-law"
     ],
     "themes": [
       "food-and-cuisine",
@@ -4968,7 +4970,7 @@
       "cheetahs-built-for-speed",
       "mantis-shrimp-complex-eyes",
       "eyes-two-eyes-3d-vision",
-      "dolphins-mud-rings"
+      "eyes-retina-part-of-brain"
     ],
     "themes": []
   },
@@ -5020,8 +5022,8 @@
       "sloths-algae-camouflage",
       "giraffes-spread-legs-drink",
       "giant-sloths-claws-leaves",
-      "sharks-older-than-dinosaurs",
-      "pareidolia-survival-skill"
+      "laughter-contagious",
+      "sharks-older-than-dinosaurs"
     ],
     "themes": [
       "energy-and-power",
@@ -5593,7 +5595,7 @@
       "seahorses-no-stomachs",
       "jellyfish-long-tentacles",
       "mosquitoes-sense-breath",
-      "whales-are-mammals"
+      "hysterical-strength-senses-max-alert"
     ],
     "themes": [
       "energy-and-power",
@@ -6037,8 +6039,8 @@
     "featured": false,
     "relatedFactIds": [
       "sea-stars-external-digestion",
-      "seahorses-no-stomachs",
       "sea-turtles-lay-eggs-on-land",
+      "seahorses-no-stomachs",
       "axolotls-regrow-leg",
       "circadian-rhythm-master-clock"
     ],
@@ -6124,7 +6126,7 @@
       "coral-reefs-can-bleach",
       "sea-turtles-lay-eggs-on-land",
       "fog-air-saturation",
-      "sea-stars-regrow-bodies"
+      "seahorses-male-give-birth"
     ],
     "themes": []
   },
@@ -6498,8 +6500,8 @@
       "heart-one-way-valves",
       "lungs-oxygen-enters-blood",
       "blood-color-changes-with-oxygen",
-      "fingerprints-dont-change-growth",
-      "dna-mitochondria-own-dna"
+      "mammalian-dive-reflex-cold-water-slows-heart",
+      "fingerprints-dont-change-growth"
     ],
     "themes": [
       "human-body-quirks",
@@ -6528,8 +6530,8 @@
       "immune-system-fights-cancer",
       "skin-largest-organ",
       "diagnostic-imaging-changed-diagnosis",
-      "lungs-oxygen-enters-blood",
-      "fingerprints-dont-change-growth"
+      "mammalian-dive-reflex-cold-water-slows-heart",
+      "lungs-oxygen-enters-blood"
     ],
     "themes": [
       "human-body-quirks"
@@ -6699,7 +6701,7 @@
       "fingerprints-dont-change-growth",
       "afterimages-not-on-wall",
       "rem-sleep-night-cycles",
-      "personal-space-invisible-bubble"
+      "cheetahs-tear-marks"
     ],
     "themes": [
       "perception-and-brain",
@@ -7058,7 +7060,7 @@
       "decision-making-environment-shapes",
       "deja-vu-brain-misfire",
       "crossed-arms-context-matters",
-      "sleepwalking-childhood-common",
+      "giraffes-spread-legs-drink",
       "sleep-babies-half-rem"
     ],
     "themes": [
@@ -7257,8 +7259,8 @@
       "deja-vu-brain-misfire",
       "happiness-twins-similar-levels",
       "nightmares-rem-second-half",
-      "sleepwalking-childhood-common",
-      "rem-sleep-muscle-atonia"
+      "hypothermia-babies-lose-heat-fastest",
+      "sleepwalking-childhood-common"
     ],
     "themes": [
       "psychology-and-behavior"
@@ -7310,10 +7312,10 @@
     "featured": false,
     "relatedFactIds": [
       "perception-brain-fills-gaps",
-      "sleep-half-brain-awake",
+      "deja-vu-brain-misfire",
       "columns-support-and-symbol",
       "crossed-arms-not-always-defensive",
-      "deja-vu-brain-misfire"
+      "sleep-half-brain-awake"
     ],
     "themes": [
       "optical-illusion",
@@ -7341,7 +7343,7 @@
       "memory-fading-helps-time",
       "sleep-half-brain-awake",
       "butterflies-complete-metamorphosis",
-      "personal-space-invisible-bubble",
+      "hypothermia-clouds-judgment",
       "sleep-babies-half-rem",
       "happiness-social-relationships"
     ],
@@ -7943,8 +7945,8 @@
     "featured": false,
     "relatedFactIds": [
       "caffeine-naturally-bitter",
-      "coffee-origins-boston-tea-party",
       "coffee-origins-one-seedling-americas",
+      "coffee-origins-boston-tea-party",
       "latte-popular-espresso-drink",
       "coffee-plant-arabica-delicate"
     ],
@@ -8688,7 +8690,7 @@
       "turing-test-chinese-room",
       "ai-ethics-help-harm",
       "chatbots-eliza-first",
-      "deep-learning-many-layers"
+      "generative-ai-new-content-prompts"
     ],
     "themes": [
       "automation-robots-ai",
@@ -8743,9 +8745,8 @@
       "turing-test-chinese-room",
       "machine-learning-pattern-learning",
       "impossible-shapes-three-two-prongs",
-      "brands-shape-perception",
-      "ai-ethics-help-harm",
-      "mars-planet-of-robots"
+      "mars-planet-of-robots",
+      "ai-ethics-help-harm"
     ],
     "themes": [
       "perception-and-brain",
@@ -9202,7 +9203,7 @@
       "internet-communities-closed-systems",
       "email-more-than-text",
       "hashtags-symbol-older-social-media",
-      "memes-cultural-power",
+      "memes-cultural-genes",
       "hashtags-too-nerdy-twitter"
     ],
     "themes": [
@@ -10366,7 +10367,7 @@
       "film-festivals-rashomon-global",
       "imax-sideways-film",
       "imax-heavy-reels",
-      "three-d-movies-television-threat"
+      "film-editing-piece-by-piece"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -11041,7 +11042,7 @@
       "synthesizers-punched-paper-tape",
       "rock-global-mainstream",
       "hip-hop-kool-herc-breakbeat",
-      "jazz-african-european-roots"
+      "sound-recording-stores-vibrations"
     ],
     "themes": [
       "music-and-sound",
@@ -11320,7 +11321,8 @@
       "marathons-26-miles-385-yards",
       "surfing-best-two-waves",
       "kelp-forests-storms-tear-apart",
-      "hibernation-slowed-body"
+      "freediving-hyperventilation-blackout",
+      "mammalian-dive-reflex-cold-water-slows-heart"
     ],
     "themes": [
       "human-body-quirks",
@@ -11603,8 +11605,8 @@
     "featured": false,
     "relatedFactIds": [
       "formula-1-name-rules",
-      "golf-scotland-real-golf",
       "marathons-26-miles-385-yards",
+      "swimming-olympic-obstacle-race",
       "suspension-bridges-tacoma-narrows",
       "aerodynamics-pressure-lift",
       "brakes-hydraulic-balance"
@@ -11777,8 +11779,8 @@
       "levers-multiply-force-distance",
       "wheels-pottery-turntable",
       "brakes-hydraulic-balance",
-      "elevators-otis-safety-brake",
-      "cranes-lift-and-shift-sideways"
+      "g-force-stapp-stop-broke-ribs",
+      "elevators-otis-safety-brake"
     ],
     "themes": [
       "motion-and-force",
@@ -12146,9 +12148,9 @@
       "airplanes-wing-airfoils",
       "helicopters-sikorsky-vs300",
       "autopilot-complex-flight-plans",
-      "radioactivity-particles-energy",
       "lightning-rods-protection",
-      "electricity-electric-charges"
+      "electricity-electric-charges",
+      "electricity-static-electron-transfer"
     ],
     "themes": [
       "flight-and-aviation",
@@ -12204,9 +12206,9 @@
     "relatedFactIds": [
       "airplanes-four-forces",
       "gliders-fly-without-engines",
+      "g-force-stapp-seatbelt-legacy",
       "poison-ivy-three-leaflets",
-      "autopilot-complex-flight-plans",
-      "jet-engines-compress-burn-expand"
+      "autopilot-complex-flight-plans"
     ],
     "themes": [
       "gravity-and-orbits",
@@ -12840,8 +12842,8 @@
       "autopilot-straight-level-flight",
       "airplanes-four-forces",
       "helicopters-sikorsky-vs300",
-      "crash-test-dummies-measure-crashes",
-      "drones-advanced-operations"
+      "g-force-stapp-seatbelt-legacy",
+      "crash-test-dummies-measure-crashes"
     ],
     "themes": [
       "flight-and-aviation",
@@ -12922,7 +12924,7 @@
     "relatedFactIds": [
       "internal-combustion-engines-hot-gas-work",
       "hybrid-cars-two-power-sources",
-      "transmission-torque-converter",
+      "electric-cars-self-starter-shift",
       "waves-disturbance-travels",
       "winglets-total-wing-design",
       "electric-cars-early-competitive"
@@ -13095,7 +13097,7 @@
       "crash-test-dummies-measure-crashes",
       "windshield-wipers-snowy-trolley",
       "qr-codes-everyday-bridge",
-      "light-switch-1884",
+      "g-force-stapp-seatbelt-legacy",
       "windshield-wipers-inside-lever"
     ],
     "themes": [
@@ -13122,8 +13124,8 @@
       "seat-belts-prevent-ejection",
       "crash-test-dummies-vince-larry",
       "crash-test-dummies-measure-crashes",
-      "posture-spine-curves",
-      "crash-test-dummies-different-bodies"
+      "g-force-stapp-seatbelt-legacy",
+      "posture-spine-curves"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -13178,8 +13180,8 @@
     "relatedFactIds": [
       "windshield-wipers-snowy-trolley",
       "windshield-wipers-inside-lever",
+      "g-force-stapp-seatbelt-legacy",
       "silent-films-kinetoscope-viewer",
-      "writing-systems-represent-language",
       "seat-belts-prevent-ejection"
     ],
     "themes": [
@@ -13348,8 +13350,8 @@
     "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
-      "electric-cars-self-starter-shift",
       "electric-cars-early-competitive",
+      "electric-cars-self-starter-shift",
       "crash-test-dummies-different-bodies",
       "crash-test-dummies-vince-larry",
       "crash-test-dummies-measure-crashes"
@@ -13438,7 +13440,7 @@
       "crash-test-dummies-vince-larry",
       "air-bags-supplement-seat-belts",
       "walking-under-ladders-practical-danger",
-      "crumple-zones-mercedes-1959"
+      "hysterical-strength-switches-off-pain"
     ],
     "themes": [
       "disaster-and-catastrophe"
@@ -13463,8 +13465,8 @@
       "crash-test-dummies-different-bodies",
       "crash-test-dummies-vince-larry",
       "seat-belts-prevent-ejection",
+      "g-force-stapp-seatbelt-legacy",
       "autopilot-complex-flight-plans",
-      "walking-under-ladders-practical-danger",
       "seat-belts-webbing-strength"
     ],
     "themes": [
@@ -13746,8 +13748,8 @@
       "superconductivity-zero-resistance",
       "energy-joule-force-distance",
       "thunder-lightning-sound",
-      "airplanes-four-forces",
-      "lightning-charge-discharge"
+      "heatstroke-fan-useless-above-99",
+      "airplanes-four-forces"
     ],
     "themes": [
       "extreme-temperature",
@@ -13889,7 +13891,7 @@
       "waves-disturbance-travels",
       "sun-billions-of-twins",
       "venus-flytrap-carolina-native",
-      "quantum-mechanics-measurement-probabilities"
+      "tigers-eighty-pound-meal"
     ],
     "themes": [
       "energy-and-power",
@@ -13946,8 +13948,8 @@
       "magnetism-domains-powerful-magnets",
       "time-relativity-observer-dependent",
       "gravity-weak-universe-shaping",
-      "meteor-showers-tons-fall-daily",
-      "shackleton-nimrod-near-pole"
+      "shackleton-nimrod-near-pole",
+      "meteor-showers-tons-fall-daily"
     ],
     "themes": [
       "exploration-and-navigation",
@@ -14482,8 +14484,8 @@
     "relatedFactIds": [
       "atoms-outer-electrons-chemistry",
       "atoms-atomic-number-identity",
-      "oxidation-electron-loss",
       "metals-free-electrons-conduct",
+      "oxidation-electron-loss",
       "molecules-bond-lower-energy"
     ],
     "themes": [
@@ -14566,10 +14568,10 @@
     "relatedFactIds": [
       "molecules-same-atoms-different-arrangements",
       "molecules-bond-lower-energy",
-      "covalent-bonds-polar-sharing",
+      "polymers-giant-monomer-chains",
+      "surviving-without-food-gandhi-21-days",
       "giraffes-spread-legs-drink",
-      "light-exact-speed",
-      "acids-bases-ph-scale"
+      "covalent-bonds-polar-sharing"
     ],
     "themes": [
       "record-extremes",
@@ -15304,8 +15306,8 @@
       "catalysts-industrial-chemistry",
       "catalysts-speed-without-consuming",
       "crystals-unit-cells-repeat",
-      "fibonacci-number-pattern",
-      "crystals-structure-changes-strength"
+      "crystals-structure-changes-strength",
+      "crystals-hidden-internal-order"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -15448,7 +15450,8 @@
       "crystals-structure-changes-strength",
       "atoms-atomic-number-identity",
       "trilobites-eyes-complex",
-      "atoms-outer-electrons-chemistry"
+      "atoms-outer-electrons-chemistry",
+      "catalysts-temporary-intermediates"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -15776,7 +15779,6 @@
       "fibonacci-rabbit-origin",
       "fibonacci-golden-ratio",
       "golden-ratio-fibonacci-connection",
-      "catalysts-temporary-intermediates",
       "fractals-fractional-dimensions",
       "fractals-repeat-shape"
     ],
@@ -17116,7 +17118,8 @@
       "supply-demand-equilibrium",
       "supply-demand-price-signal",
       "corporations-owned-by-shareholders",
-      "vacuum-cleaners-luxury-first"
+      "vacuum-cleaners-luxury-first",
+      "opportunity-cost-next-best"
     ],
     "themes": [
       "money-trade-and-value"
@@ -17731,8 +17734,8 @@
       "trade-secrets-valuable-because-secret",
       "trade-secrets-can-last-indefinitely",
       "patents-three-main-types",
-      "franchises-license-a-business",
-      "monopolies-one-seller-power"
+      "monopolies-one-seller-power",
+      "franchises-license-a-business"
     ],
     "themes": [
       "money-trade-and-value",
@@ -18718,8 +18721,8 @@
       "opportunity-cost-better-decisions",
       "opportunity-cost-not-accounting",
       "banking-central-banks-last-resort",
-      "minimum-wage-alternatives-debate",
-      "currency-more-than-cash"
+      "supply-demand-demand-curve",
+      "minimum-wage-alternatives-debate"
     ],
     "themes": [
       "money-trade-and-value",
@@ -19284,8 +19287,8 @@
       "fairy-tales-not-always-fairies",
       "fairy-tales-folk-and-art",
       "comics-sequential-art",
-      "book-covers-before-dust-jackets",
       "printing-press-idea-machine",
+      "book-covers-before-dust-jackets",
       "book-covers-cloth-design"
     ],
     "themes": [
@@ -20376,8 +20379,8 @@
       "loanwords-change-after-borrowing",
       "loanwords-language-borrowing",
       "alphabet-name-alpha-beta",
-      "orange-long-wavelength",
-      "dollar-sign-spanish-pesos"
+      "dollar-sign-spanish-pesos",
+      "orange-long-wavelength"
     ],
     "themes": [
       "origins-and-naming",
@@ -21157,8 +21160,8 @@
       "ancient-temples-sacred-design",
       "bridges-materials-changed-spans",
       "afterimages-retina-desensitized",
-      "technicolor-lasting-color",
-      "columns-capitals-show-style"
+      "fly-geyser-art-landscape",
+      "technicolor-lasting-color"
     ],
     "themes": [
       "color-and-light"
@@ -22496,9 +22499,9 @@
     "relatedFactIds": [
       "egyptian-religion-many-gods",
       "egyptian-religion-afterlife",
-      "sasquatch-footprint-legend",
+      "atlantis-from-plato",
       "heart-symbol-ancient-beliefs",
-      "atlantis-from-plato"
+      "sasquatch-footprint-legend"
     ],
     "themes": [
       "human-body-quirks",
@@ -22600,7 +22603,7 @@
       "fairies-not-always-sweet",
       "kraken-may-reflect-squid",
       "black-cats-not-always-bad",
-      "sleep-paralysis-hallucinations",
+      "fairy-tales-folk-and-art",
       "werewolves-medical-theories"
     ],
     "themes": [
@@ -23631,7 +23634,7 @@
       "amelia-earhart-howland-island",
       "bermuda-triangle-disputed-map",
       "radio-sound-effects-art",
-      "area-51-real-base"
+      "taos-hum-investigation-found-nothing"
     ],
     "themes": [
       "deception-and-hoax",
@@ -24087,8 +24090,7 @@
       "nazca-lines-desert-drawings",
       "crop-circles-field-art",
       "deserts-have-specialized-life",
-      "sacred-texts-scripture-authority",
-      "deserts-defined-by-dryness"
+      "sacred-texts-scripture-authority"
     ],
     "themes": [
       "plants-and-botany"
@@ -24493,9 +24495,9 @@
     "relatedFactIds": [
       "dyatlov-avalanche-model",
       "dyatlov-tent-cut-open",
-      "voynich-strange-illustrations",
+      "ufos-unidentified-not-alien",
       "praying-mantis-keen-vision",
-      "ufos-unidentified-not-alien"
+      "voynich-strange-illustrations"
     ],
     "themes": [
       "storytelling-and-narrative"
@@ -24628,7 +24630,7 @@
     "relatedFactIds": [
       "taos-hum-low-frequency",
       "taos-hum-worldwide-pattern",
-      "wow-signal-1977-detection",
+      "amelia-earhart-mystery-survives",
       "car-horns-vibrating-diaphragm",
       "electronic-music-musique-concrete",
       "vinyl-turntable-speed-control"
@@ -24981,10 +24983,10 @@
     "relatedFactIds": [
       "antibiotics-target-bacteria",
       "antibiotics-penicillin-accident",
-      "diagnostic-imaging-sees-inside",
+      "blood-transfusions-human-blood-breakthrough",
       "superconductivity-zero-resistance",
       "paper-clips-norway-symbol",
-      "germ-theory-microbes-cause-disease"
+      "diagnostic-imaging-sees-inside"
     ],
     "themes": [
       "medicine-and-cures",
@@ -25008,8 +25010,8 @@
     "featured": false,
     "relatedFactIds": [
       "blood-types-landsteiner",
-      "blood-transfusions-began-before-types",
       "transplant-surgery-rejection",
+      "blood-transfusions-began-before-types",
       "blood-transfusions-storage-changed-everything",
       "mri-magnets-not-x-rays"
     ],
@@ -25691,7 +25693,7 @@
       "anesthesia-made-surgery-bearable",
       "anesthesia-not-always-unconscious",
       "germ-theory-key-figures",
-      "antibiotics-penicillin-accident"
+      "insulin-pancreas-beta-cells"
     ],
     "themes": [
       "medicine-and-cures"
@@ -25852,7 +25854,7 @@
       "medical-robots-surgeon-controlled",
       "transplant-surgery-donor-shortage",
       "vaccines-train-immune-system",
-      "anesthesia-not-always-unconscious",
+      "memory-fading-helps-time",
       "stethoscope-listening-tool"
     ],
     "themes": [
@@ -25959,7 +25961,7 @@
       "deserts-have-specialized-life",
       "lakes-basins-hold-water",
       "monsoons-winter-can-be-dry",
-      "nazca-lines-best-from-air",
+      "shackleton-endurance-survival",
       "penguins-winter-breeding"
     ],
     "themes": [
@@ -26355,10 +26357,10 @@
     "relatedFactIds": [
       "oceans-cover-most-earth",
       "oceans-drive-water-cycle",
-      "valleys-climate-influence",
+      "waterfalls-many-causes",
       "saturn-enceladus-ocean",
       "moon-europa-ocean",
-      "volcanoes-not-just-lava"
+      "valleys-climate-influence"
     ],
     "themes": [
       "record-extremes",
@@ -26784,7 +26786,7 @@
       "fjords-glacier-carved",
       "valleys-climate-influence",
       "paper-clips-norway-symbol",
-      "caves-speleothems-redeposited"
+      "rivers-change-channel-shapes"
     ],
     "themes": [
       "extreme-temperature",
@@ -27103,8 +27105,8 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "el-nino-trade-winds-weaken",
       "el-nino-global-weather",
+      "el-nino-trade-winds-weaken",
       "clouds-cumulonimbus-storms",
       "snowflakes-aggregates",
       "monsoons-winter-can-be-dry"
@@ -27499,7 +27501,7 @@
       "aurora-charged-particles",
       "rainbows-viewer-position",
       "blood-color-changes-with-oxygen",
-      "pink-1980s-comeback",
+      "ancient-temples-cella-inner-room",
       "rainforests-climate-regulators"
     ],
     "themes": [
@@ -27865,7 +27867,8 @@
       "atmosphere-weather-engine",
       "atmosphere-circulation-deflection",
       "hail-different-from-sleet",
-      "hibernation-bears-misleading",
+      "heatstroke-fan-useless-above-99",
+      "heatstroke-brain-confusion-sign",
       "thunder-lightning-sound"
     ],
     "themes": [
@@ -27973,8 +27976,8 @@
       "lightning-rods-protection",
       "lightning-charge-discharge",
       "thunder-lightning-sound",
-      "airplanes-four-forces",
-      "electricity-electric-charges"
+      "electricity-electric-charges",
+      "airplanes-four-forces"
     ],
     "themes": [
       "storytelling-and-narrative"
@@ -28506,8 +28509,8 @@
     "featured": false,
     "relatedFactIds": [
       "velcro-manufacturing-challenge",
-      "printing-press-spread-ideas",
       "qr-codes-everyday-bridge",
+      "printing-press-spread-ideas",
       "professional-sleepers-head-down",
       "hubble-repaired-by-astronauts",
       "odor-judges-symptom-timing"
@@ -28809,6 +28812,7 @@
       "gps-everyday-infrastructure",
       "ballpoint-pen-ink-problem",
       "magnetism-domains-powerful-magnets",
+      "wilderness-survival-getting-lost-top-cause",
       "butterflies-conservation-decline"
     ],
     "themes": [
@@ -28942,7 +28946,7 @@
       "television-motion-illusion",
       "qr-codes-everyday-bridge",
       "three-d-movies-television-threat",
-      "safety-pin-debt"
+      "telephone-transmits-speech"
     ],
     "themes": [
       "invention-and-breakthrough"
@@ -29100,7 +29104,7 @@
       "qr-codes-everyday-bridge",
       "patents-three-main-types",
       "safety-pin-debt",
-      "radio-golden-age"
+      "television-kept-changing"
     ],
     "themes": [
       "invention-and-breakthrough"
@@ -30688,7 +30692,7 @@
       "ankylosaurus-tail-club",
       "tyrannosaurus-sixty-teeth",
       "stegosaurus-ankylosaur-relatives",
-      "brachiosaurus-treetop-browser"
+      "triceratops-three-horns"
     ],
     "themes": [
       "record-extremes",
@@ -30768,8 +30772,8 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "brachiosaurus-treetop-browser",
       "brachiosaurus-not-a-swimmer",
+      "brachiosaurus-treetop-browser",
       "dinosaur-eggs-all-dinosaurs-hatched",
       "tyrannosaurus-predator-scavenger",
       "stegosaurus-ankylosaur-relatives"
@@ -31310,7 +31314,7 @@
       "tyrannosaurus-king-name",
       "fossils-permineralization",
       "archaeopteryx-short-flight",
-      "triceratops-late-and-numerous",
+      "velociraptor-sickle-claw",
       "ankylosaurus-leaf-teeth"
     ],
     "themes": [
@@ -31995,8 +31999,8 @@
       "saber-toothed-cats-not-tigers",
       "saber-toothed-cats-tar-trap",
       "megalodon-largest-fish",
-      "dunkleosteus-jaw-bones",
-      "mosasaurs-aquatic-lizards"
+      "mosasaurs-aquatic-lizards",
+      "dunkleosteus-jaw-bones"
     ],
     "themes": [
       "human-body-quirks",
@@ -32180,9 +32184,9 @@
     "relatedFactIds": [
       "terror-birds-seven-foot-predators",
       "terror-birds-before-land-bridge",
-      "archaeopteryx-short-flight",
+      "dunkleosteus-self-sharpening-jaws",
       "dragonflies-nearly-360-vision",
-      "dunkleosteus-self-sharpening-jaws"
+      "archaeopteryx-short-flight"
     ],
     "themes": [
       "flight-and-aviation",
@@ -32391,8 +32395,8 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "jolly-roger-custom-designs",
       "jolly-roger-not-always-flown",
+      "jolly-roger-custom-designs",
       "treasure-maps-saved-life",
       "afterimages-retina-desensitized",
       "pirate-codes-harsh-punishments"
@@ -34898,7 +34902,7 @@
     "tags": [
       "lighthouse-keepers",
       "ida-lewis",
-      "rescues"
+      "rescue"
     ],
     "readTimeSeconds": 52,
     "featured": false,
@@ -34906,8 +34910,8 @@
       "lighthouse-keepers-aids-navigation",
       "lighthouse-keepers-large-workforce",
       "pearl-divers-dangerous-work",
-      "food-tasters-ice-cream-texture",
-      "professional-sleepers-boredom-data"
+      "wilderness-survival-day-hikers-most-rescued",
+      "food-tasters-ice-cream-texture"
     ],
     "themes": [
       "parental-care"
@@ -36074,7 +36078,7 @@
       "nonstick-pans-ptfe-stability",
       "air-bags-supplement-seat-belts",
       "airplanes-four-forces",
-      "seat-belts-prevent-ejection"
+      "refrigerators-slow-spoilage"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -36237,6 +36241,7 @@
       "dishwasher-patent-name",
       "vacuum-cleaners-suck-not-blow",
       "zippers-modern-sundback",
+      "g-force-stapp-seatbelt-legacy",
       "sumerians-cuneiform"
     ],
     "themes": [
@@ -37907,8 +37912,7 @@
       "pink-not-always-girly",
       "indigo-air-oxidation",
       "ancient-temples-cella-inner-room",
-      "technicolor-lasting-color",
-      "aurora-other-planets"
+      "technicolor-lasting-color"
     ],
     "themes": [
       "energy-and-power",
@@ -38099,7 +38103,7 @@
       "white-lead-pigment",
       "pink-1980s-comeback",
       "dead-sea-too-salty-for-fish",
-      "green-before-blue"
+      "red-opposite-green"
     ],
     "themes": [
       "human-body-quirks"
@@ -38178,8 +38182,7 @@
       "hibernation-bears-misleading",
       "circadian-rhythm-master-clock",
       "yeti-himalayan-snowline",
-      "seahorses-no-stomachs",
-      "swimming-thousands-of-years"
+      "seahorses-no-stomachs"
     ],
     "themes": [
       "human-body-quirks",
@@ -38205,8 +38208,9 @@
       "hibernation-bears-misleading",
       "hibernation-slowed-body",
       "circadian-rhythm-melatonin",
+      "heatstroke-fan-useless-above-99",
       "covalent-bonds-polar-sharing",
-      "snoring-common-risk"
+      "vacuum-of-space-suffocate-not-freeze"
     ],
     "themes": [
       "extreme-temperature",
@@ -38233,8 +38237,9 @@
       "hibernation-not-all-dormancy",
       "hibernation-slowed-body",
       "rem-sleep-muscle-atonia",
-      "atmosphere-layered",
-      "rem-sleep-night-cycles"
+      "hypothermia-clouds-judgment",
+      "hypothermia-babies-lose-heat-fastest",
+      "hypothermia-shivering-stops"
     ],
     "themes": [
       "record-extremes",
@@ -38262,7 +38267,8 @@
       "lucid-dreaming-rem",
       "rem-sleep-two-phases",
       "batteries-primary-vs-storage",
-      "rem-sleep-muscle-atonia"
+      "rem-sleep-muscle-atonia",
+      "rem-sleep-night-cycles"
     ],
     "themes": []
   },
@@ -38553,7 +38559,7 @@
     "relatedFactIds": [
       "rem-sleep-muscle-atonia",
       "rem-sleep-two-phases",
-      "circadian-rhythm-melatonin",
+      "lucid-dreaming-aware",
       "eyes-retina-part-of-brain",
       "stegosaurus-plates-not-simple-armor",
       "brain-folds-more-power"
@@ -38743,8 +38749,7 @@
       "circadian-rhythm-24-hour",
       "naps-performance-boost",
       "pink-not-always-girly",
-      "sun-billions-of-twins",
-      "rem-sleep-night-cycles"
+      "sun-billions-of-twins"
     ],
     "themes": [
       "perception-and-brain",
@@ -39175,8 +39180,8 @@
       "afterimages-not-on-wall",
       "afterimages-retina-desensitized",
       "impossible-shapes-three-two-prongs",
-      "blue-late-color-word",
       "brands-shape-perception",
+      "blue-late-color-word",
       "depth-perception-motion-parallax"
     ],
     "themes": [
@@ -39666,8 +39671,8 @@
       "the-dress-color-constancy",
       "the-dress-split-perception",
       "afterimages-one-eye",
-      "blue-late-color-word",
-      "brands-shape-perception"
+      "brands-shape-perception",
+      "blue-late-color-word"
     ],
     "themes": [
       "music-and-sound",
@@ -41242,7 +41247,7 @@
       "smiling-duchenne-muscles",
       "personal-space-learned-rules",
       "gestures-co-speech",
-      "crossed-arms-not-always-defensive"
+      "eye-contact-cultural-meaning"
     ],
     "themes": []
   },
@@ -41292,7 +41297,7 @@
       "crossed-arms-negative-default",
       "attention-cannot-focus-everything",
       "afterimages-one-eye",
-      "personal-space-invisible-bubble"
+      "crossed-arms-not-always-defensive"
     ],
     "themes": [
       "perception-and-brain"
@@ -41344,8 +41349,7 @@
       "eye-contact-hierarchy",
       "crossed-arms-negative-default",
       "memory-fading-helps-time",
-      "eyes-retina-part-of-brain",
-      "deja-vu-brain-misfire"
+      "eyes-retina-part-of-brain"
     ],
     "themes": [
       "perception-and-brain",
@@ -41448,7 +41452,7 @@
       "handshakes-ancient-relief",
       "eye-contact-cultural-meaning",
       "microexpressions-universal-signals",
-      "laughter-contagious"
+      "posture-health-effects"
     ],
     "themes": [
       "collective-behavior",
@@ -41604,7 +41608,7 @@
       "posture-dynamic-static",
       "posture-spine-curves",
       "smiling-duchenne-muscles",
-      "tigers-eighty-pound-meal",
+      "surviving-without-food-metabolism-downshift",
       "microexpressions-fraction-second"
     ],
     "themes": [
@@ -41786,8 +41790,8 @@
       "microexpressions-macro-difference",
       "facial-expressions-universal",
       "smiling-short-expression",
-      "facial-expressions-emotional-signals",
-      "facial-expressions-evolution"
+      "gestures-before-words",
+      "facial-expressions-emotional-signals"
     ],
     "themes": [
       "psychology-and-behavior"
@@ -41945,8 +41949,8 @@
       "shackleton-nimrod-near-pole",
       "lewis-clark-corps-discovery",
       "blood-falls-rust-red",
-      "deserts-defined-by-dryness",
-      "magellan-crew-circumnavigation"
+      "vacuum-of-space-leblanc-saliva-boiled",
+      "deserts-defined-by-dryness"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -41999,7 +42003,7 @@
     "relatedFactIds": [
       "shackleton-endurance-survival",
       "shackleton-nimrod-near-pole",
-      "sacagawea-practical-knowledge",
+      "magellan-pacific-name",
       "titanic-lifeboat-capacity-gap",
       "antikythera-ancient-computer"
     ],
@@ -42181,9 +42185,9 @@
       "lewis-clark-pacific-return",
       "lewis-clark-native-assistance",
       "sacagawea-only-woman",
-      "sacagawea-shoshone-horses",
-      "shackleton-endurance-survival",
-      "magellan-crew-circumnavigation"
+      "wilderness-survival-getting-lost-top-cause",
+      "wilderness-survival-cold-not-starvation",
+      "shackleton-endurance-survival"
     ],
     "themes": [
       "exploration-and-navigation",
@@ -44185,8 +44189,9 @@
       "mosquitoes-females-bite",
       "beetles-help-and-harm",
       "fireflies-mating-flashes",
+      "freediving-urge-is-co2-not-oxygen",
       "sharks-electroreceptors",
-      "cicadas-shed-skins"
+      "heatstroke-sweat-only-defense"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -45883,6 +45888,713 @@
     "themes": [
       "record-extremes",
       "exploration-and-navigation"
+    ]
+  },
+  {
+    "id": "vacuum-of-space-suffocate-not-freeze",
+    "headline": "Space Would Suffocate You Long Before It Froze You",
+    "body": "Movies love the idea of an astronaut instantly freezing solid in space. The real physics is slower and stranger. Space is bitterly cold, but with no air to carry heat away, your body can only lose warmth by radiation, and that takes a long time. The real threat is lack of oxygen. With no air to breathe, your brain burns through the oxygen left in your blood in about 15 seconds, and then you black out. You would be unconscious long before frostbite ever mattered.",
+    "summary": "The freezing part is real, it is just far too slow to be what actually gets you.",
+    "categoryId": "survival-body-limits",
+    "topic": "The Vacuum of Space",
+    "tags": [
+      "space",
+      "vacuum",
+      "human-body",
+      "survival"
+    ],
+    "readTimeSeconds": 59,
+    "featured": false,
+    "relatedFactIds": [
+      "vacuum-of-space-swell-not-explode",
+      "vacuum-of-space-leblanc-saliva-boiled",
+      "heatstroke-fan-useless-above-99",
+      "hibernation-not-all-dormancy",
+      "nebulae-eyeball",
+      "heatstroke-sweat-only-defense"
+    ],
+    "themes": [
+      "perception-and-brain",
+      "extreme-temperature",
+      "human-body-quirks",
+      "storytelling-and-narrative"
+    ]
+  },
+  {
+    "id": "vacuum-of-space-leblanc-saliva-boiled",
+    "headline": "A NASA Technician Felt His Saliva Boil in a Vacuum, and Survived",
+    "body": "In 1966, a NASA technician named Jim LeBlanc was testing a spacesuit inside a vacuum chamber when his air hose came loose. The pressure around him crashed to nearly nothing in seconds. He stayed conscious for about 14 seconds, and the last thing he remembers is the saliva on his tongue starting to bubble and boil. The crew rushed the chamber back to normal pressure, and LeBlanc walked away with barely a scratch. Repressurized within a minute or two, a body can survive vacuum with no lasting harm.",
+    "summary": "The last thing he remembers is the spit on his tongue starting to bubble.",
+    "categoryId": "survival-body-limits",
+    "topic": "The Vacuum of Space",
+    "tags": [
+      "space",
+      "vacuum",
+      "nasa",
+      "survival"
+    ],
+    "readTimeSeconds": 62,
+    "featured": false,
+    "relatedFactIds": [
+      "vacuum-of-space-suffocate-not-freeze",
+      "vacuum-of-space-swell-not-explode",
+      "hysterical-strength-switches-off-pain",
+      "space-race-sputnik",
+      "asteroids-dart-changed-orbit",
+      "shackleton-endurance-survival"
+    ],
+    "themes": [
+      "disaster-and-catastrophe"
+    ]
+  },
+  {
+    "id": "vacuum-of-space-swell-not-explode",
+    "headline": "Your Body Would Not Explode in Space, It Would Puff Up",
+    "body": "Hollywood loves showing people burst apart in space, but skin is far too tough and stretchy for that. The pressure inside your body is real, yet it is nowhere near strong enough to tear you open. Instead, the water in your soft tissues turns to vapor, because with no pressure pushing back, water boils at body temperature. This is called ebullism, and it makes you swell up like a balloon. Your blood stays liquid, though, sealed safely inside your pressurized vessels.",
+    "summary": "The pressure that pops you in the movies barely dents how tough your skin really is.",
+    "categoryId": "survival-body-limits",
+    "topic": "The Vacuum of Space",
+    "tags": [
+      "space",
+      "vacuum",
+      "human-body",
+      "physics"
+    ],
+    "readTimeSeconds": 57,
+    "featured": false,
+    "relatedFactIds": [
+      "vacuum-of-space-suffocate-not-freeze",
+      "vacuum-of-space-leblanc-saliva-boiled",
+      "hypothermia-babies-lose-heat-fastest",
+      "nebulae-eyeball",
+      "fossils-permineralization"
+    ],
+    "themes": [
+      "human-body-quirks",
+      "storytelling-and-narrative"
+    ]
+  },
+  {
+    "id": "heatstroke-sweat-only-defense",
+    "headline": "Your Body Has Just One Real Weapon Against Heat: Sweat",
+    "body": "Your body has one main trick for shedding extra heat, and that is sweating. As sweat evaporates off your skin, it carries warmth away and cools the tissues underneath. The system works so smoothly you barely notice it. But it has a hard limit. When the air is very hot, or so humid that sweat cannot evaporate, that cooling stalls out. Heat then piles up faster than your body can lose it, your core temperature climbs, and heat stroke sets in.",
+    "summary": "Take away one simple trick and your body has almost no backup plan for cooling down.",
+    "categoryId": "survival-body-limits",
+    "topic": "Heatstroke",
+    "tags": [
+      "heat",
+      "human-body",
+      "temperature",
+      "survival"
+    ],
+    "readTimeSeconds": 57,
+    "featured": false,
+    "relatedFactIds": [
+      "heatstroke-fan-useless-above-99",
+      "heatstroke-brain-confusion-sign",
+      "vacuum-of-space-suffocate-not-freeze",
+      "energy-joule-force-distance",
+      "mosquitoes-sense-breath",
+      "hypothermia-babies-lose-heat-fastest"
+    ],
+    "themes": [
+      "human-body-quirks",
+      "war-and-conflict"
+    ]
+  },
+  {
+    "id": "heatstroke-fan-useless-above-99",
+    "headline": "Once It Passes 99 Degrees, a Fan Stops Cooling You Down",
+    "body": "On a hot day a fan feels like relief, and usually it is. Moving air helps sweat evaporate off your skin, which carries heat away. But when the temperature climbs very high, especially above about 99 degrees Fahrenheit, a fan stops helping. Now it is just pushing hot air across you, a bit like a convection oven. It can even add heat instead of removing it. That is why fans alone are not enough to keep you safe during the worst heat waves.",
+    "summary": "Past a certain temperature, that breeze is basically a convection oven pointed at you.",
+    "categoryId": "survival-body-limits",
+    "topic": "Heatstroke",
+    "tags": [
+      "heat",
+      "temperature",
+      "household-science",
+      "survival"
+    ],
+    "readTimeSeconds": 58,
+    "featured": false,
+    "relatedFactIds": [
+      "heatstroke-sweat-only-defense",
+      "heatstroke-brain-confusion-sign",
+      "vacuum-of-space-suffocate-not-freeze",
+      "atmosphere-layered",
+      "electricity-electric-charges",
+      "hibernation-not-all-dormancy"
+    ],
+    "themes": [
+      "extreme-temperature",
+      "human-body-quirks"
+    ]
+  },
+  {
+    "id": "heatstroke-brain-confusion-sign",
+    "headline": "The Scariest Sign of Heat Stroke Is Confusion, Not Sweating",
+    "body": "Ordinary heat exhaustion makes you feel dizzy, weak, and queasy. Heat stroke is different, and far more dangerous, because it reaches your brain. Once your core temperature soars past about 104 degrees Fahrenheit, your thinking starts to break down. People get confused, slur their speech, and can turn agitated or aggressive, almost like a different person. That mental change is the real warning sign. Someone in serious trouble may not even realize that anything is wrong.",
+    "summary": "Heat exhaustion just wears you down; heat stroke reaches in and scrambles your thinking.",
+    "categoryId": "survival-body-limits",
+    "topic": "Heatstroke",
+    "tags": [
+      "heat",
+      "brain",
+      "human-body",
+      "temperature"
+    ],
+    "readTimeSeconds": 53,
+    "featured": false,
+    "relatedFactIds": [
+      "heatstroke-fan-useless-above-99",
+      "heatstroke-sweat-only-defense",
+      "hypothermia-clouds-judgment",
+      "atmosphere-layered",
+      "electricity-electric-charges"
+    ],
+    "themes": [
+      "perception-and-brain",
+      "extreme-temperature"
+    ]
+  },
+  {
+    "id": "hypothermia-shivering-stops",
+    "headline": "When Hypothermia Turns Deadly, the Shivering Stops",
+    "body": "Shivering is your body's built-in furnace. Those fast little muscle twitches burn energy to make heat the moment you get cold. As long as you are shivering hard, your body is still fighting back. The frightening part is what comes next. As hypothermia deepens and your core temperature keeps dropping, the shivering slows, and in severe cold it stops completely. That is not relief. It means your body has run out of fuel to warm itself, and it marks the point where things turn truly dangerous.",
+    "summary": "You would expect more shivering in the cold, but the real danger begins when it quits.",
+    "categoryId": "survival-body-limits",
+    "topic": "Hypothermia",
+    "tags": [
+      "cold",
+      "hypothermia",
+      "human-body",
+      "survival"
+    ],
+    "readTimeSeconds": 60,
+    "featured": false,
+    "relatedFactIds": [
+      "hypothermia-clouds-judgment",
+      "hypothermia-babies-lose-heat-fastest",
+      "wilderness-survival-cold-not-starvation",
+      "hibernation-bears-misleading",
+      "sloths-slow-for-survival",
+      "surviving-without-food-metabolism-downshift"
+    ],
+    "themes": [
+      "energy-and-power",
+      "human-body-quirks",
+      "counterintuitive-scale"
+    ]
+  },
+  {
+    "id": "hypothermia-clouds-judgment",
+    "headline": "The Cold Fogs Your Thinking Before You Realize You Are in Danger",
+    "body": "Hypothermia does not just make you cold, it goes after your judgment early. Even in the mild stage, before your temperature has dropped very far, it brings confusion, clumsiness, and poor decisions. That is what makes it so sneaky. The very organ you would use to notice the danger and get help is the one being slowed down. People make baffling choices or brush off obvious warning signs, never grasping how much trouble they are in. Cold quietly disarms your best survival tool: your own mind.",
+    "summary": "It slows down the one organ you would need to notice that you are freezing.",
+    "categoryId": "survival-body-limits",
+    "topic": "Hypothermia",
+    "tags": [
+      "cold",
+      "hypothermia",
+      "brain",
+      "survival"
+    ],
+    "readTimeSeconds": 60,
+    "featured": false,
+    "relatedFactIds": [
+      "hypothermia-shivering-stops",
+      "hypothermia-babies-lose-heat-fastest",
+      "heatstroke-fan-useless-above-99",
+      "hibernation-bears-misleading",
+      "sleep-half-brain-awake",
+      "deja-vu-brain-misfire"
+    ],
+    "themes": [
+      "extreme-temperature",
+      "human-body-quirks",
+      "psychology-and-behavior"
+    ]
+  },
+  {
+    "id": "hypothermia-babies-lose-heat-fastest",
+    "headline": "A Baby Can Get Dangerously Cold Just Sleeping in a Chilly Room",
+    "body": "Babies lose body heat far faster than adults, and they are less equipped to fight back. Compared to their tiny weight, they have a lot of surface area, so warmth escapes quickly from all that skin. They also cannot shiver the way older kids and adults do, so they cannot crank out extra heat when they need it. Put those two things together, and an infant can slip into hypothermia just by sleeping in a room that is too cold.",
+    "summary": "It takes no snowstorm, just a nursery that sits a few degrees too cold.",
+    "categoryId": "survival-body-limits",
+    "topic": "Hypothermia",
+    "tags": [
+      "cold",
+      "hypothermia",
+      "babies",
+      "human-body"
+    ],
+    "readTimeSeconds": 56,
+    "featured": false,
+    "relatedFactIds": [
+      "hypothermia-shivering-stops",
+      "hypothermia-clouds-judgment",
+      "heatstroke-sweat-only-defense",
+      "hibernation-bears-misleading",
+      "sleep-babies-half-rem",
+      "vacuum-of-space-swell-not-explode"
+    ],
+    "themes": [
+      "human-body-quirks"
+    ]
+  },
+  {
+    "id": "hysterical-strength-switches-off-pain",
+    "headline": "In a Real Emergency, Your Body Can Switch Off Pain",
+    "body": "When danger hits, your body flips into fight-or-flight mode, and one of its strangest tricks is turning down pain. Flooded with stress signals, you can take a real injury and feel almost nothing in the moment. It is why people walk away from car crashes or fights and only discover their injuries later, once they have calmed down and the rush has faded. In the middle of a crisis, your body decides that hurting can wait, because staying alive comes first.",
+    "summary": "It is why crash survivors often do not feel their injuries until hours later.",
+    "categoryId": "survival-body-limits",
+    "topic": "Hysterical Strength",
+    "tags": [
+      "adrenaline",
+      "fight-or-flight",
+      "human-body",
+      "survival"
+    ],
+    "readTimeSeconds": 57,
+    "featured": false,
+    "relatedFactIds": [
+      "hysterical-strength-reroutes-blood",
+      "hysterical-strength-senses-max-alert",
+      "vacuum-of-space-leblanc-saliva-boiled",
+      "crash-test-dummies-different-bodies",
+      "shackleton-endurance-survival",
+      "surviving-a-fall-vulovic-33000-feet"
+    ],
+    "themes": [
+      "flight-and-aviation",
+      "disaster-and-catastrophe"
+    ]
+  },
+  {
+    "id": "hysterical-strength-reroutes-blood",
+    "headline": "Fear Reroutes Your Blood in a Split Second",
+    "body": "The instant you sense danger, your body starts redirecting blood on the fly. It rushes toward the big muscles that might have to fight or run, and pulls away from anything not needed right now. Your face can flush while your hands go pale, cold, and clammy. Meanwhile jobs like digestion, growth, and repair get put on hold, because there is no point digesting lunch if you are about to sprint for your life. Everything reorganizes around a single goal: survival.",
+    "summary": "There is no point digesting lunch when you might have to run for your life.",
+    "categoryId": "survival-body-limits",
+    "topic": "Hysterical Strength",
+    "tags": [
+      "adrenaline",
+      "fight-or-flight",
+      "blood",
+      "human-body"
+    ],
+    "readTimeSeconds": 57,
+    "featured": false,
+    "relatedFactIds": [
+      "hysterical-strength-switches-off-pain",
+      "hysterical-strength-senses-max-alert",
+      "hypothermia-clouds-judgment",
+      "blood-color-changes-with-oxygen",
+      "hypothermia-babies-lose-heat-fastest"
+    ],
+    "themes": [
+      "human-body-quirks",
+      "flight-and-aviation",
+      "psychology-and-behavior"
+    ]
+  },
+  {
+    "id": "hysterical-strength-senses-max-alert",
+    "headline": "Adrenaline Rewires Your Whole Body in a Heartbeat",
+    "body": "In a scary moment, a surge of adrenaline retunes your entire body at once. Your heart pounds faster and your breathing quickens, driving oxygen out to your muscles. Your senses sharpen, so you notice more and react faster. You might feel a jolt of extra strength or speed, along with a jittery, tense, ready-to-move feeling. It is an ancient alarm system, built to get you out of danger before your slower, thinking brain has even caught up to what is happening.",
+    "summary": "Your body is primed to move before your thinking brain has even caught up.",
+    "categoryId": "survival-body-limits",
+    "topic": "Hysterical Strength",
+    "tags": [
+      "adrenaline",
+      "fight-or-flight",
+      "senses",
+      "human-body"
+    ],
+    "readTimeSeconds": 57,
+    "featured": false,
+    "relatedFactIds": [
+      "hysterical-strength-switches-off-pain",
+      "hysterical-strength-reroutes-blood",
+      "vacuum-of-space-suffocate-not-freeze",
+      "mosquitoes-sense-breath",
+      "sharks-electroreceptors"
+    ],
+    "themes": [
+      "human-body-quirks",
+      "perception-and-brain",
+      "flight-and-aviation",
+      "ancient-engineering"
+    ]
+  },
+  {
+    "id": "g-force-stapp-632-mph-sled",
+    "headline": "A Doctor Rode a Rocket Sled Faster Than a Bullet, on Purpose",
+    "body": "To learn how to keep pilots alive in crashes, Colonel John Stapp did something wild: he made himself the crash-test dummy. In 1954 he strapped into a rocket-powered sled called Sonic Wind No. 1, lit off nine rockets, and shot down a track at 632 miles per hour, faster than a .45-caliber bullet. It earned him the nickname the Fastest Man on Earth. He was not chasing a thrill. He was gathering data on what extreme speed does to the human body.",
+    "summary": "To learn what a crash does to a body, he made his own body the test subject.",
+    "categoryId": "survival-body-limits",
+    "topic": "G-Force",
+    "tags": [
+      "g-force",
+      "acceleration",
+      "human-body",
+      "history"
+    ],
+    "readTimeSeconds": 57,
+    "featured": false,
+    "relatedFactIds": [
+      "g-force-stapp-stop-broke-ribs",
+      "g-force-stapp-seatbelt-legacy",
+      "surviving-a-fall-vulovic-33000-feet",
+      "motion-velocity-has-direction",
+      "hysterical-strength-switches-off-pain"
+    ],
+    "themes": [
+      "motion-and-force",
+      "record-extremes",
+      "energy-and-power",
+      "flight-and-aviation"
+    ]
+  },
+  {
+    "id": "g-force-stapp-stop-broke-ribs",
+    "headline": "Stopping From 632 MPH in 1.4 Seconds Nearly Tore Him Apart",
+    "body": "Hitting top speed was not the dangerous part of John Stapp's rocket-sled ride. Stopping was. Water brakes slammed the sled from 632 miles per hour to a dead halt in just 1.4 seconds. For that instant, his body was crushed by a force of nearly four tons. The brutal stop broke his ribs and both wrists and burst blood vessels in his eyes, leaving him briefly blind. Incredibly, he recovered with no permanent injuries, then climbed aboard for more runs.",
+    "summary": "Top speed did not hurt him. Coming to a stop in 1.4 seconds nearly did.",
+    "categoryId": "survival-body-limits",
+    "topic": "G-Force",
+    "tags": [
+      "g-force",
+      "acceleration",
+      "human-body",
+      "physics"
+    ],
+    "readTimeSeconds": 56,
+    "featured": false,
+    "relatedFactIds": [
+      "g-force-stapp-632-mph-sled",
+      "g-force-stapp-seatbelt-legacy",
+      "mammalian-dive-reflex-calms-racing-heart",
+      "brakes-hydraulic-balance",
+      "hydraulics-pressure-everywhere",
+      "freediving-urge-is-co2-not-oxygen"
+    ],
+    "themes": [
+      "motion-and-force",
+      "human-body-quirks",
+      "machines-and-mechanisms"
+    ]
+  },
+  {
+    "id": "g-force-stapp-seatbelt-legacy",
+    "headline": "Your Car's Seatbelt Exists Thanks to One Man's Brutal Rides",
+    "body": "John Stapp's punishing rocket-sled runs were not just daredevil stunts. They produced hard data on exactly how much force a human body can survive. That knowledge reshaped safety far beyond the test track. Engineers used it to build stronger seats for jet pilots and, over time, to improve the seat belts in ordinary cars. So every time you buckle up, you are leaning on lessons a physician once absorbed the hard way, nearly four tons at a time, strapped to a sled.",
+    "summary": "Every time you buckle up, you are using what he learned the hard way.",
+    "categoryId": "survival-body-limits",
+    "topic": "G-Force",
+    "tags": [
+      "g-force",
+      "safety",
+      "invention",
+      "history"
+    ],
+    "readTimeSeconds": 57,
+    "featured": false,
+    "relatedFactIds": [
+      "g-force-stapp-632-mph-sled",
+      "g-force-stapp-stop-broke-ribs",
+      "hysterical-strength-switches-off-pain",
+      "crash-test-dummies-measure-crashes",
+      "zippers-modern-sundback",
+      "helicopters-sikorsky-vs300"
+    ],
+    "themes": [
+      "flight-and-aviation",
+      "invention-and-breakthrough",
+      "computing-and-web",
+      "motion-and-force"
+    ]
+  },
+  {
+    "id": "wilderness-survival-day-hikers-most-rescued",
+    "headline": "Day Hikers Need Rescuing Far More Than Deep-Woods Backpackers",
+    "body": "You would think the people who need saving in the wild are the ones going deepest, the backcountry backpackers. It is the opposite. Across U.S. national parks over one ten-year stretch, day hikers made up 42 percent of search-and-rescue cases, nearly four times the next-biggest group. The reason is simple: day hikers travel light. They will carry a camera but skip the warm layers, shelter, and extra food that could carry them through an unexpected night outside.",
+    "summary": "The people who go in deepest are not the ones who usually need saving.",
+    "categoryId": "survival-body-limits",
+    "topic": "Wilderness Survival",
+    "tags": [
+      "survival",
+      "hiking",
+      "wilderness",
+      "rescue"
+    ],
+    "readTimeSeconds": 54,
+    "featured": false,
+    "relatedFactIds": [
+      "wilderness-survival-getting-lost-top-cause",
+      "wilderness-survival-cold-not-starvation",
+      "surviving-a-fall-vulovic-33000-feet",
+      "lighthouse-keepers-supplies",
+      "surviving-without-food-gandhi-21-days"
+    ],
+    "themes": [
+      "record-extremes",
+      "food-and-cuisine",
+      "numbers-and-mathematics"
+    ]
+  },
+  {
+    "id": "wilderness-survival-getting-lost-top-cause",
+    "headline": "The Top Reason Hikers Get Rescued Is Not Injury, It Is a Wrong Turn",
+    "body": "Ahead of injuries and bad weather, the single most common way adult hikers end up needing rescue is simply losing the trail. In one study, about 41 percent of survivors got into trouble after wandering off the path. And it is not just clueless beginners. It happens to fit, experienced hikers at decision points, a fork, a side path, or a spot where the real trail fades out. One wrong turn, and a pleasant hike quietly becomes a survival situation.",
+    "summary": "It is rarely a dramatic fall. It is a faint side-path and one wrong turn.",
+    "categoryId": "survival-body-limits",
+    "topic": "Wilderness Survival",
+    "tags": [
+      "survival",
+      "hiking",
+      "wilderness",
+      "navigation"
+    ],
+    "readTimeSeconds": 56,
+    "featured": false,
+    "relatedFactIds": [
+      "wilderness-survival-day-hikers-most-rescued",
+      "wilderness-survival-cold-not-starvation",
+      "hypothermia-clouds-judgment",
+      "gps-satellite-positioning",
+      "magnetism-domains-powerful-magnets",
+      "lewis-clark-corps-discovery"
+    ],
+    "themes": [
+      "exploration-and-navigation",
+      "psychology-and-behavior",
+      "numbers-and-mathematics"
+    ]
+  },
+  {
+    "id": "wilderness-survival-cold-not-starvation",
+    "headline": "If You Are Lost in the Woods, Cold Gets You Long Before Hunger",
+    "body": "Survival shows make it look like the big threat is starving, so you had better learn to trap animals and eat bugs. In reality, food is almost never the problem. Even a lean person carries enough stored energy to last about a month. The actual killer is the cold. Hypothermia can set in even at 65 degrees if you are wet from rain, sweat, or a creek. Staying warm and dry matters far more than finding your next meal.",
+    "summary": "Forget trapping dinner, getting wet at 65 degrees is the real danger.",
+    "categoryId": "survival-body-limits",
+    "topic": "Wilderness Survival",
+    "tags": [
+      "survival",
+      "hiking",
+      "hypothermia",
+      "wilderness"
+    ],
+    "readTimeSeconds": 55,
+    "featured": false,
+    "relatedFactIds": [
+      "wilderness-survival-day-hikers-most-rescued",
+      "wilderness-survival-getting-lost-top-cause",
+      "hypothermia-shivering-stops",
+      "sloths-slow-for-survival",
+      "lewis-clark-corps-discovery",
+      "surviving-without-food-gandhi-21-days"
+    ],
+    "themes": [
+      "food-and-cuisine",
+      "self-sacrifice",
+      "energy-and-power",
+      "lost-and-rediscovered"
+    ]
+  },
+  {
+    "id": "surviving-a-fall-vulovic-33000-feet",
+    "headline": "A Flight Attendant Fell 33,000 Feet and Lived to Walk Again",
+    "body": "In 1972, flight attendant Vesna Vulovic fell more than 33,000 feet, over six miles, after the plane she was working on came apart high in the sky. She was the only person to survive. More than fifty years later, it is still the highest fall anyone has ever lived through without a parachute. A few lucky details saved her. She was pinned inside a section of the plane that landed on a steep, snow-covered slope at just the right angle. After months of recovery, she walked again.",
+    "summary": "Six miles straight down with no parachute, and it is still a record no one wants to break.",
+    "categoryId": "survival-body-limits",
+    "topic": "Surviving a Fall",
+    "tags": [
+      "survival",
+      "falling",
+      "human-body",
+      "history"
+    ],
+    "readTimeSeconds": 61,
+    "featured": false,
+    "relatedFactIds": [
+      "hysterical-strength-switches-off-pain",
+      "wilderness-survival-day-hikers-most-rescued",
+      "gliders-fly-without-engines",
+      "g-force-stapp-632-mph-sled",
+      "vacuum-of-space-suffocate-not-freeze"
+    ],
+    "themes": [
+      "flight-and-aviation",
+      "record-extremes"
+    ]
+  },
+  {
+    "id": "freediving-urge-is-co2-not-oxygen",
+    "headline": "The Urge to Breathe Has Nothing to Do With Running Out of Oxygen",
+    "body": "Hold your breath, and that growing, desperate need for air feels like your body screaming for oxygen. It is not. The urge to breathe is actually triggered by carbon dioxide building up in your blood, not by oxygen running low. Your body watches carbon dioxide closely. Normally there is well over a hundred times more of it in your blood than in the air around you. Once that level climbs past a certain point, it trips the switch that forces you to gasp.",
+    "summary": "That burning need for air is your body reacting to a completely different gas.",
+    "categoryId": "survival-body-limits",
+    "topic": "Freediving",
+    "tags": [
+      "freediving",
+      "breathing",
+      "human-body",
+      "carbon-dioxide"
+    ],
+    "readTimeSeconds": 58,
+    "featured": false,
+    "relatedFactIds": [
+      "freediving-hyperventilation-blackout",
+      "g-force-stapp-stop-broke-ribs",
+      "mammalian-dive-reflex-calms-racing-heart",
+      "mosquitoes-sense-breath",
+      "hypothermia-babies-lose-heat-fastest"
+    ],
+    "themes": [
+      "human-body-quirks",
+      "architecture-and-structures",
+      "motion-and-force"
+    ]
+  },
+  {
+    "id": "freediving-hyperventilation-blackout",
+    "headline": "The Breath-Holding Trick That Can Make You Black Out Underwater",
+    "body": "Some swimmers take a rapid series of deep breaths before going under, certain it is loading them up with oxygen. It barely does. What all that huffing really does is flush out carbon dioxide, the very gas that tells you to come up for air. So you feel fine while your oxygen quietly drops, until it falls so low that you black out with no warning at all. Known as shallow-water blackout, it can strike a strong swimmer before they ever feel short of breath.",
+    "summary": "It barely adds oxygen, it just deletes the alarm that keeps you alive.",
+    "categoryId": "survival-body-limits",
+    "topic": "Freediving",
+    "tags": [
+      "freediving",
+      "breathing",
+      "safety",
+      "blackout"
+    ],
+    "readTimeSeconds": 59,
+    "featured": false,
+    "relatedFactIds": [
+      "freediving-urge-is-co2-not-oxygen",
+      "mammalian-dive-reflex-cold-water-slows-heart",
+      "g-force-stapp-seatbelt-legacy",
+      "swimming-thousands-of-years",
+      "vacuum-of-space-suffocate-not-freeze"
+    ],
+    "themes": [
+      "deep-sea-and-abyss"
+    ]
+  },
+  {
+    "id": "mammalian-dive-reflex-cold-water-slows-heart",
+    "headline": "Dunk Your Face in Cold Water and Your Heart Automatically Slows",
+    "body": "Splash cold water on your face, or dip it into a cold bowl, and your body does something remarkable without asking: your heart slows down. It is called the mammalian dive reflex, an ancient survival feature humans share with seals, dolphins, and other mammals. Cold water on your face, especially around the nose and eyes, signals that you might be heading underwater. In response, your body slows your heart, steers blood toward your brain and heart, and shifts into a quiet oxygen-saving mode.",
+    "summary": "Your body shares this ancient underwater survival switch with seals and dolphins.",
+    "categoryId": "survival-body-limits",
+    "topic": "The Mammalian Dive Reflex",
+    "tags": [
+      "dive-reflex",
+      "cold-water",
+      "human-body",
+      "heart"
+    ],
+    "readTimeSeconds": 58,
+    "featured": false,
+    "relatedFactIds": [
+      "mammalian-dive-reflex-calms-racing-heart",
+      "freediving-hyperventilation-blackout",
+      "vacuum-of-space-suffocate-not-freeze",
+      "heart-one-way-valves",
+      "swimming-thousands-of-years",
+      "heart-center-of-network"
+    ],
+    "themes": [
+      "human-body-quirks",
+      "perception-and-brain",
+      "automation-robots-ai",
+      "deep-sea-and-abyss"
+    ]
+  },
+  {
+    "id": "mammalian-dive-reflex-calms-racing-heart",
+    "headline": "The Same Reflex That Helps Seals Dive Can Calm a Racing Heart",
+    "body": "The dive reflex is not just for swimming, and you can trigger it on dry land. When you are panicked and your heart is pounding, dipping your face into cold water for a moment can hit the brakes on that stress response. Because it is a physical reflex, it works even when your thoughts are racing and you cannot reason yourself calm. Your body eases from high-alert mode toward calm on its own, no willpower required. It is like a reset button you carry everywhere.",
+    "summary": "You cannot always think your way calm, but your body has a built-in shortcut.",
+    "categoryId": "survival-body-limits",
+    "topic": "The Mammalian Dive Reflex",
+    "tags": [
+      "dive-reflex",
+      "cold-water",
+      "calm",
+      "human-body"
+    ],
+    "readTimeSeconds": 59,
+    "featured": false,
+    "relatedFactIds": [
+      "mammalian-dive-reflex-cold-water-slows-heart",
+      "g-force-stapp-stop-broke-ribs",
+      "freediving-urge-is-co2-not-oxygen",
+      "hypothermia-babies-lose-heat-fastest",
+      "heatstroke-sweat-only-defense"
+    ],
+    "themes": [
+      "human-body-quirks",
+      "machines-and-mechanisms",
+      "motion-and-force"
+    ]
+  },
+  {
+    "id": "surviving-without-food-gandhi-21-days",
+    "headline": "At Age 74, Gandhi Went 21 Days With No Food but Sips of Water",
+    "body": "Just how long the human body can last without food turns out to be surprisingly hard to pin down, because so much depends on the person. One well-documented case shows the extreme. At 74 years old and already thin, Mohandas Gandhi survived 21 days of total starvation, taking nothing but small sips of water. Other documented hunger strikers have gone even longer, roughly 28 to 40 days. The one ingredient they all needed was not food at all. It was water.",
+    "summary": "Frail and in his 70s, he lasted three weeks on nothing but sips of water.",
+    "categoryId": "survival-body-limits",
+    "topic": "Surviving Without Food",
+    "tags": [
+      "starvation",
+      "human-body",
+      "survival",
+      "water"
+    ],
+    "readTimeSeconds": 57,
+    "featured": false,
+    "relatedFactIds": [
+      "surviving-without-food-metabolism-downshift",
+      "wilderness-survival-cold-not-starvation",
+      "wilderness-survival-day-hikers-most-rescued",
+      "molecules-smallest-identity-unit",
+      "giraffes-spread-legs-drink"
+    ],
+    "themes": [
+      "food-and-cuisine",
+      "self-sacrifice"
+    ]
+  },
+  {
+    "id": "surviving-without-food-metabolism-downshift",
+    "headline": "Starve, and Your Body Quietly Turns Down Its Own Engine",
+    "body": "When food stops coming, your body does not just burn through its reserves at full speed and quit. It adapts. It can actually slow its own metabolism, spending less energy so it can stretch what is left as far as possible. Part of this happens through changes in the thyroid, the gland that helps set your body's pace. It is a big reason survival times vary so wildly from one person to the next, and why the body can hold on far longer than you would guess.",
+    "summary": "Deprived of fuel, it quietly dials back its own settings to buy you more time.",
+    "categoryId": "survival-body-limits",
+    "topic": "Surviving Without Food",
+    "tags": [
+      "starvation",
+      "metabolism",
+      "human-body",
+      "survival"
+    ],
+    "readTimeSeconds": 61,
+    "featured": false,
+    "relatedFactIds": [
+      "surviving-without-food-gandhi-21-days",
+      "wilderness-survival-cold-not-starvation",
+      "hypothermia-shivering-stops",
+      "posture-health-effects",
+      "sloths-slow-for-survival"
+    ],
+    "themes": [
+      "energy-and-power",
+      "self-sacrifice",
+      "food-and-cuisine",
+      "motion-and-force"
     ]
   }
 ]
