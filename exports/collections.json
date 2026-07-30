@@ -20,12 +20,12 @@
     "subtitle": "Popular \"facts\" that fall apart.",
     "icon": "exclamationmark.bubble",
     "factIds": [
-      "black-holes-not-vacuum-cleaners",
       "blood-color-changes-with-oxygen",
       "espresso-crema-traps-aroma",
       "crossed-arms-not-always-defensive",
-      "four-leaf-clovers-not-shamrocks",
-      "velociraptor-not-movie-sized"
+      "velociraptor-not-movie-sized",
+      "pink-not-always-girly",
+      "orcas-are-dolphins"
     ]
   },
   {
@@ -35,10 +35,10 @@
     "icon": "magnifyingglass",
     "factIds": [
       "antikythera-ancient-computer",
-      "concrete-ancient-material",
+      "concrete-steel-reinforcement",
       "sacred-texts-scripture-authority",
       "shoelaces-areni-one",
-      "giant-squid-filmed-2012",
+      "giant-squid-sperm-whale-scars",
       "woolly-mammoths-permafrost-preserved"
     ]
   },
@@ -96,7 +96,7 @@
       "morse-code-sos-pattern",
       "voynich-unreadable-script",
       "business-cards-first-impression",
-      "easter-eggs-hidden-credit-origin",
+      "easter-eggs-konami-code-testing",
       "steganography-hidden-message"
     ]
   },
@@ -106,13 +106,13 @@
     "subtitle": "Surprisingly ancient things.",
     "icon": "hourglass",
     "factIds": [
-      "asteroids-older-than-earth",
       "sharks-older-than-dinosaurs",
-      "bread-predates-agriculture",
       "email-more-than-text",
       "ancient-temples-sacred-design",
       "dollar-sign-adopted-1785",
-      "hashtags-symbol-older-social-media"
+      "hot-air-balloons-hot-air-lighter",
+      "oort-cloud-comets-before-humans",
+      "epic-poems-heroic-scale"
     ]
   },
   {
@@ -122,11 +122,11 @@
     "icon": "exclamationmark.triangle",
     "factIds": [
       "titanic-lifeboat-capacity-gap",
-      "potatoes-famine-dependence",
       "great-chicago-fire-wooden-city",
       "dinosaur-extinction-asteroid-theory",
       "krakatoa-global-sunsets",
-      "fukushima-earthquake-tsunami"
+      "fukushima-hydrogen-explosions",
+      "hindenburg-thirty-four-seconds"
     ]
   },
   {
@@ -137,10 +137,10 @@
     "factIds": [
       "whales-largest-animal-ever",
       "jupiter-thousand-earths",
-      "elephants-twenty-two-month-pregnancy",
       "giant-sequoias-largest-trees",
       "pyramids-global-form",
-      "fjords-deepest-inland"
+      "fjords-deepest-inland",
+      "moon-ganymede-biggest"
     ]
   },
   {
@@ -181,7 +181,7 @@
       "sound-human-frequency-range",
       "musical-instruments-human-universal",
       "dolphins-echoes",
-      "auto-tune-cher-effect",
+      "auto-tune-oil-technology",
       "supersonic-flight-hypersonic-mach-five"
     ]
   },
@@ -195,8 +195,8 @@
       "concrete-steel-reinforcement",
       "keys-ancient-pin-tumbler",
       "inca-suspension-bridges",
-      "salt-created-trade-routes",
-      "woolly-mammoths-late-islands"
+      "woolly-mammoths-late-islands",
+      "domes-arch-turned-space"
     ]
   },
   {
@@ -208,9 +208,9 @@
       "forced-perspective-camera-distance",
       "rainbows-water-droplet-prism",
       "blue-short-wavelength",
-      "three-d-movies-television-threat",
-      "virtual-reality-heavy-headset",
-      "glaciers-flow-slowly"
+      "depth-perception-learned-cues",
+      "pareidolia-survival-skill",
+      "motion-illusions-rotating-snakes"
     ]
   },
   {
@@ -219,12 +219,12 @@
     "subtitle": "The superstitions we can't shake.",
     "icon": "wand.and.stars",
     "factIds": [
-      "friday-13-calendar",
+      "friday-13-country-variations",
       "black-cats-control-uncertainty",
       "placebo-effect-expectation",
       "turkish-coffee-fortune-grounds",
-      "ritual-social-function",
-      "oak-island-flooded-shaft"
+      "oak-island-flooded-shaft",
+      "horseshoes-st-dunstan"
     ]
   },
   {
@@ -234,11 +234,11 @@
     "icon": "arrow.triangle.2.circlepath",
     "factIds": [
       "butterflies-complete-metamorphosis",
-      "states-of-matter-familiar-three",
+      "states-of-matter-plasma-fourth",
       "salar-de-uyuni-largest-salt-flat",
       "agriculture-settled-societies",
-      "blood-transfusions-storage-changed-everything",
-      "atoms-atomic-number-identity"
+      "atoms-atomic-number-identity",
+      "metals-free-electrons-conduct"
     ]
   },
   {
@@ -247,7 +247,7 @@
     "subtitle": "Cooperation that shouldn't work, but does.",
     "icon": "link",
     "factIds": [
-      "gut-microbiome-makes-vitamins",
+      "gut-microbiome-unique-network",
       "jellyfish-hitchhiking-crabs",
       "ants-chemical-communication",
       "wolves-older-siblings-help",
@@ -275,11 +275,11 @@
     "subtitle": "Our slippery grip on time.",
     "icon": "clock.arrow.circlepath",
     "factIds": [
-      "light-years-early-universe",
       "mesopotamia-sixty-minute-hour",
       "calendars-not-one-system",
-      "religious-calendars-different-years",
-      "magellan-crew-circumnavigation"
+      "magellan-crew-circumnavigation",
+      "time-hard-to-define",
+      "timekeeping-mechanical-clocks"
     ]
   },
   {
@@ -292,8 +292,8 @@
       "barcode-upc-adoption",
       "novels-long-prose-worlds",
       "coins-ancient-origins",
-      "world-records-pub-argument",
-      "air-conditioning-printing-plant"
+      "air-conditioning-printing-plant",
+      "batteries-portable-power"
     ]
   },
   {
@@ -304,10 +304,10 @@
     "factIds": [
       "shackleton-endurance-survival",
       "magellan-strait",
-      "constellations-astronauts-navigation",
       "oceans-cover-most-earth",
-      "phoenicians-ships",
-      "age-of-exploration-new-world"
+      "amundsen-northwest-passage",
+      "lewis-clark-corps-discovery",
+      "zheng-he-treasure-fleets"
     ]
   },
   {
@@ -318,10 +318,9 @@
     "factIds": [
       "octopus-mothers-stop-eating",
       "seahorses-male-give-birth",
-      "dinosaur-eggs-nesting-colonies",
+      "dinosaur-eggs-embryos-rare",
       "mangroves-salt-filter",
-      "penguins-fathers-incubate",
-      "mosasaurs-flippers-tail"
+      "penguins-fathers-incubate"
     ]
   },
   {
@@ -347,8 +346,8 @@
       "ai-ethics-help-harm",
       "medical-robots-surgeon-controlled",
       "autopilot-complex-flight-plans",
-      "mars-planet-of-robots",
-      "stock-market-primary-secondary"
+      "mars-ai-driving",
+      "reinforcement-learning-reward-signal"
     ]
   },
   {
@@ -386,7 +385,7 @@
     "icon": "figure.climbing",
     "factIds": [
       "hibernation-not-all-dormancy",
-      "penguins-winter-breeding",
+      "penguins-fathers-incubate",
       "door-to-hell-extremophiles",
       "deserts-have-specialized-life",
       "antibiotics-resistance-evolution",

@@ -1,6 +1,6 @@
 # Nib Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-28 · 1717 facts · 56 categories
+> Last updated: 2026-07-30 · 1177 facts · 56 categories
 > (Keep this line current — bump it every time a category is finished or the library changes. See step 9 of the standing pattern.)
 
 ## What this is
@@ -23,9 +23,140 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
 - **Persistent memory:** `nib_content_pipeline_state.md` (in the Claude memory dir) tracks the running
   state + every de-dup decision (exhaustive per-category log). Update it alongside this handoff doc — but
   **this doc, not memory, is the durable handoff** (memory can't be relied on across machines/devs).
+- **Archived, fully-actioned audits:** `docs/archive/` — the wow-factor audit (HANDOFF + report + raw CSV,
+  2026-07-22/23) and the opinion-vs-fact audit (2026-07-28). Both are content work that's done and
+  verified (see the 2026-07-29 entry below); kept for provenance, not something a new session needs to
+  read to get oriented.
 
-## Current state (2026-07-19)
-- **1717 facts · 56 categories · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+## Current state (2026-07-30)
+- **1177 facts · 56 categories · 28 collections · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+- **App bundle (`Nib/Nib/Data/`) is in sync with the pipeline as of 2026-07-30.** CDN is NOT — a publish is
+  owed (see below), left for the user to run manually rather than pushed automatically.
+
+### What changed on 2026-07-30 (wow-factor audit remediation, Phases 1-5 — 1704 → 1177, a 31% cut)
+
+Full detail lives in `docs/wow-factor-audit-2026-07-29/SESSION-HANDOFF.md` (that file's own round-by-round
+log); this is the summary for this doc's running history.
+
+- **Phase 1** (already done before this remediation began): removed all 106 REJECT facts from the
+  2026-07-29 audit.
+- **Phase 2** (7 rounds): worked through all 153 REVISE facts across every category that had one. Only 5
+  survived with a rewrite (`ravens-solve-problems-together`, `supply-chains-ev-complexity`,
+  `television-kept-changing`, `sleep-half-brain-awake`, `baobab-nine-species`); the rest were removed — in
+  practice REVISE got the same "presumed removable" bar the rubric reserves for BORDERLINE.
+- **Phase 3**: resolved the audit's named redundant clusters — almost all had already self-resolved via
+  Phases 1-2 (Salem witch trials, golden-age-of-piracy, banana/IMAX/CMB/platypus/chameleon/giant-squid
+  trios, Antikythera, Mongol Empire). Also ran a fresh whole-database cross-category redundancy scan (the
+  audit itself flagged this as never having been done) and found + fixed one real hit: the "Concrete" topic
+  spanned engineering + architecture with 3 of 4 facts independently claiming "Roman concrete outlasts
+  modern concrete" — kept only `concrete-steel-reinforcement` (note: **this id is mislabeled**, its content
+  is actually about self-healing Roman concrete, not steel reinforcement — same for `qr-codes-denso-wave`,
+  whose content is about error-correction, not the company; both flagged for a future rename pass, not
+  fixed yet since renaming risks breaking `relatedFactIds`/collections cross-refs).
+- **Phase 4**: resolved all 335 BORDERLINE facts. Parsed each fact's own "Recommended Action" from the
+  original batch reports and auto-applied the unambiguous ones (85 "Remove", 37 "Keep unchanged" — no
+  per-fact review needed). The remaining 213 genuine exceptions (rewrite-suggested / "human judgment call" /
+  merge candidates) got a lightest-touch batch review; every batch came back "remove," and partway through,
+  the user opted to bulk-remove the rest rather than continue one-by-one. **Caught and fixed one conflict**
+  before auto-applying: `titanic-warning-never-reached-bridge` was flagged for removal for redundancy
+  reasons the user had just explicitly overruled in Phase 3 (kept all 3 Titanic facts) — pulled it into the
+  keep bucket to honor that decision.
+- **Theory-vs-fact pass** (run before Phase 5, at the user's request, to avoid a second regen): re-checked
+  facts already marked PASS or kept during remediation against the "verifiable fact, not a theory dressed as
+  fact" rule (`fact-writing-and-quality-guide.md` §5). Read all 78 facts in the guide's own named
+  highest-risk categories (economics, business, psychology, human-behavior) in full, then regex-scanned all
+  1,179 facts for "solved/the answer is/the reason is" certainty language. Found and removed 2:
+  `scarcity-limited-resources` (stated marginal-utility theory as "the answer" to the diamond-water paradox
+  — same pattern as the guide's own removed comparative-advantage example) and `dyatlov-conspiracy-fuel`
+  (framed the 2021 slab-avalanche study as having "solved" the Dyatlov Pass mystery, which remains genuinely
+  disputed — same pattern as the already-removed Bermuda Triangle methane fact). Note: `dyatlov-
+  conspiracy-fuel` had been in the original audit's own top-20 "Strongest Facts Benchmark" list — a good
+  illustration of why this pass is worth doing even on facts the audit itself loved.
+- **Pre-Phase-5 sanity check** (worth reusing next time): before calling any multi-phase audit remediation
+  "done," diff every non-PASS fact's *current* headline **and body** against the original audit's flagged
+  version — not just the headline. A REVISE/BORDERLINE fact whose recommended action was "rewrite body
+  only" is *supposed* to keep its original headline, so headline-only comparison produces false positives.
+  Caught 15 apparent "never reviewed" facts this way that turned out to be correctly rewritten (verified via
+  diff against the `approved-facts.backup-*.csv` snapshots) — a real scare, but ultimately a clean result.
+- **Phase 5** (regenerate/export/ship): ran `normalize:tags` (0 changes), `assign:themes` (56 themes, avg
+  2.55/fact, 41 facts with none), `generate:related` (0 dangling, 0 self-refs, avg 5.29 links/fact),
+  `export:facts` (1177 → `exports/facts.json`), `check:age-rating` (**0 BLOCK, 28 WARN** — read every WARN
+  individually; all matched the guide's own explicitly-allowed patterns: educational Nazi/WWII history,
+  neutral historical death tolls, "smoking" as an incidental word, "corpse flower" regex false positive —
+  nothing needed fixing). Synced `exports/facts.json` → `Nib/Nib/Data/facts.json` and re-verified
+  `collections.json` has zero dangling refs against the app bundle. **CDN publish was intentionally left
+  undone** — the user wants to run `cdn/build-manifest.sh` + the upload themselves rather than have it
+  pushed live automatically; do not publish to the live CDN without the user explicitly asking for that
+  specific step.
+- **Still owed, not urgent:** rename `concrete-steel-reinforcement` and `qr-codes-denso-wave` (mislabeled
+  ids, see Phase 3 above); the CDN publish itself, whenever the user runs it.
+- **Post-remediation collections audit (same day, after Phase 5):** the user asked whether any of the 28
+  collections got weak from all the removals. Diffed every collection's current `factIds` length against
+  the pre-audit count (`git show HEAD:exports/collections.json`, since this repo has git history unlike
+  the CSV-only workflow described elsewhere in this doc). Found 3 genuinely thinned: `into-the-unknown`
+  (6→3, -50%), `time-plays-tricks` (5→3, -40%), `tricks-of-the-eye` (6→4, -33%, plus a content-fit issue —
+  `glaciers-flow-slowly` isn't actually an optical illusion, it's real ice-compression physics). Restored
+  all 3 by pulling genuinely-fitting, currently-unused facts from the same theme within the existing 1177
+  fact database (no new writing needed): `into-the-unknown` → +`amundsen-northwest-passage`,
+  `lewis-clark-corps-discovery`, `zheng-he-treasure-fleets` (6 total); `time-plays-tricks` → +`time-hard-
+  to-define`, `timekeeping-mechanical-clocks` (5 total); `tricks-of-the-eye` → dropped `glaciers-flow-
+  slowly`, added `depth-perception-learned-cues`, `pareidolia-survival-skill`, `motion-illusions-rotating-
+  snakes` (6 total). Re-verified zero dangling refs and synced `exports/collections.json` →
+  `Nib/Nib/Data/collections.json` again. **Worth reusing next time a big removal pass runs:** always diff
+  collection sizes against the pre-audit snapshot afterward — a collection can silently drop to a
+  too-thin size or lose its thematic coherence with no integrity-check failure to catch it (dangling-ref
+  checks only catch removed facts, not "technically fine but now too small/misaligned" collections).
+  **Follow-up same day:** also restored the 2 collections flagged as "thinner but still coherent" rather
+  than leaving them alone — `older-than-you-think` (7→4, -43%) got +`hot-air-balloons-hot-air-lighter`,
+  `oort-cloud-comets-before-humans`, `epic-poems-heroic-scale` (back to 7); `everything-you-know-is-wrong`
+  (6→4, -33%) got +`pink-not-always-girly` (notably, one of the original audit's own top-20 strongest
+  facts in the whole database) and `orcas-are-dolphins` (back to 6). Same method: pull unused, genuinely
+  on-theme facts already in the 1177-fact database, verify zero dangling refs, sync to the app bundle.
+  **Follow-up #2, same day:** user asked to top up the remaining 8 too. Found strong on-theme, unused
+  candidates for 7 and applied them: `when-disaster-struck` +`hindenburg-thirty-four-seconds` (another
+  audit top-20 fact), `record-breakers` +`moon-ganymede-biggest`, `built-to-outlast-us` +`domes-arch-
+  turned-space`, `luck-omens-and-rituals` +`horseshoes-st-dunstan`, `great-transformations` +`metals-free-
+  electrons-conduct`, `the-first-of-its-kind` +`batteries-portable-power`, `rise-of-the-machines`
+  +`reinforcement-learning-reward-signal` (all back to their pre-audit size). `devoted-parents` was left at
+  5 (not 6) — the only candidate found (`penguins-creches`) would've been a second penguin fact in a
+  6-fact collection and a weaker parental-devotion fit than the rest; user chose not to force it. **Final
+  state: 27 of 28 collections at or above pre-audit size, 1 (`devoted-parents`) deliberately left 1 short
+  rather than padding with a mediocre fit** — consistent with this whole project's "never pad" rule.
+
+### What changed on 2026-07-29 (reconciliation — outward sync that was flagged "DUE" since 07-23, plus doc cleanup)
+
+Picked up in an unrelated Series-feature session; the app bundle turned out to be **17 facts behind** the
+pipeline, going back to the wow-factor audit's deferred outward batch that was never run.
+
+- **Traced the actual state** (three sources had three different counts): CSV/`exports/facts.json` = 1709,
+  this doc's own banner claimed 1717 (stale), `Nib/Nib/Data/facts.json` = 1692 (frozen from *before* the
+  Aug 1 expansion below — the app-seed sync step was never run at all).
+- **Confirmed `opinion-vs-fact-audit-2026-07-28.md` (archived, see above) was fully actioned**: 8 of its 9
+  flagged facts are gone from the CSV (`entrepreneurship-schumpeter-growth`, `capitalism-private-ownership`,
+  `taxes-burden-can-shift`, `recession-ripples-through-economy`, `trade-comparative-advantage`,
+  `gdp-final-goods-only`, `scarcity-forces-choices`, `emotions-change-thinking`); `turing-test-chinese-room`
+  correctly kept per the audit's own "weakest of the tier" note. Math checks out: 1717 (post-expansion) − 8
+  = 1709 (current).
+- **Ran integrity + gate checks on the live CSV/export before syncing anything:** 0 dup ids, 0 dangling
+  `relatedFactIds`, 0 self-refs, no topic > 3, 0 facts with an unknown `categoryId`, 0 dangling collection
+  refs, 28/28 collections resolve. `pnpm check:age-rating` = **0 BLOCK, 39 WARN** (matches the known
+  pre-existing §9 false-positive baseline from Tier 3 of the wow audit — nothing new).
+- **Ran the app-seed sync** (`cp exports/{facts,categories,sources}.json ../Nib/Nib/Data/`):
+  `facts.json` 1692 → 1709, `categories.json` gained `survival-body-limits` (confirmed present — this is
+  the fix for the "app won't render facts for an unknown categoryId" gotcha the Aug expansion entry below
+  flagged as outstanding), `sources.json` refreshed for the new topics. `collections.json` was already in
+  sync (no diff) — the `great-transformations`/`popcorn-expands-40-times` dangling-ref fix the wow-audit
+  HANDOFF flagged had already been handled at some point, just never logged here.
+- **Left uncommitted in the `Nib` app repo** — a clean 3-file diff (`git status Nib/Nib/Data/`), ready for
+  review/commit on the app side.
+- **STILL TO DO (outward-facing, NOT done): CDN publish.** The CDN at `https://nibapp.net/v1` still serves
+  whatever version was last uploaded — this session did not touch it (needs R2 credentials). `curl` the
+  live manifest first to confirm the actual served version before picking the next one (per the CDN
+  gotcha further down this doc — the "notes are wrong" trap has bitten twice already). Then
+  `cdn/build-manifest.sh` + upload content JSONs first, `manifest.json` last, per `cdn/README.md`.
+- **Docs reorganized:** the two fully-actioned audits above moved to `docs/archive/` (git `mv`, history
+  preserved). No other doc in `docs/` was stale — the five core reference guides + this handoff are all
+  current and unchanged.
 
 ### What changed on 2026-07-28 (NEW CATEGORY — first monthly expansion drop: Aug 2026)
 

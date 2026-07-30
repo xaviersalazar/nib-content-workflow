@@ -1,11 +1,11 @@
 {
-  "contentVersion": 14,
+  "contentVersion": 15,
   "schemaVersion": 1,
   "files": [
     {
       "name": "facts",
       "url": "facts.json",
-      "sha256": "d965cc21d1b4de36195dbae0e68d0a234fcd429afdc58f23cc07822c7c79b489"
+      "sha256": "a3fadf559d43ab55ab651262a2e9ec706c71d28ac248fb345d38b68ea7ed1c18"
     },
     {
       "name": "categories",
@@ -15,12 +15,12 @@
     {
       "name": "collections",
       "url": "collections.json",
-      "sha256": "7e20d54f6e7a1b649fd0f91c7fa129bcd17d520dfa6614d1a697c01c3ae48437"
+      "sha256": "b4872ed3bb249289786a6d0de62aca67523464e736cda3e5fadbc5fef26d05a2"
     },
     {
       "name": "sources",
       "url": "sources.json",
-      "sha256": "39efc4ecabbc57b0c665d1431e5d369fb6becd39faf1efeaf1876f77e7c0be01"
+      "sha256": "4f5cbbcdb7a731377f94bc00bb05bfa8b6bab855af26820a3974ac87dda3a8cb"
     }
   ]
 }

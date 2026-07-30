@@ -1,0 +1,58 @@
+[
+  {
+    "id": "the-alien-island",
+    "title": "The Alien Island",
+    "subtitle": "Inside Socotra, one of the strangest ecosystems on Earth.",
+    "icon": "leaf",
+    "_curationNote": "DRAFT — 6 facts / 3 categories (strange-places, geography, ancient-creatures). Needs ~3-4 more, hitting a 4th+ category, before the 8-fact/4-category MVP bar.",
+    "_candidateNewFactTopics": [
+      "The Soqotri language — unwritten, endangered, linguistically distinct from Arabic (new category: languages)",
+      "Dendrosicyos socotranus, the desert cucumber that evolved into a swollen-trunk tree (new category: famous-trees-plants)",
+      "Hoq Cave inscriptions — ancient sailors from India, Arabia, and Greece left graffiti dated ~1st c. BCE-6th c. CE (new category: ancient-civilizations)",
+      "Why dragon's blood trees grow umbrella-shaped canopies — the arid-climate mechanism, distinct from the 'looks alien'/'bleeds red' facts already covered"
+    ],
+    "factIds": [
+      "socotra-endemic-plants",
+      "socotra-reptiles-snails",
+      "islands-isolation-shapes-life",
+      "woolly-mammoths-late-islands",
+      "terror-birds-before-land-bridge",
+      "socotra-marine-diversity"
+    ]
+  },
+  {
+    "id": "the-city-vesuvius-stopped",
+    "title": "The City Vesuvius Stopped",
+    "subtitle": "How one afternoon in 79 CE preserved Pompeii in perfect detail.",
+    "icon": "flame",
+    "_curationNote": "DRAFT — 5 facts / 3 categories (geography, famous-disasters, languages). Needs ~3-4 more, hitting a 4th+ category, before the 8-fact/4-category MVP bar.",
+    "_candidateNewFactTopics": [
+      "Herculaneum's carbonized scrolls, now being read by AI/X-ray without unrolling them (the 'Vesuvius Challenge') (new category: technology)",
+      "Pliny the Younger's eyewitness letter — the only firsthand account, source of the term 'Plinian eruption' (new category: literature or history)",
+      "Pompeian Red — the pigment named for the frescoes found on Pompeii's walls (new category: colors)",
+      "Vesuvius is still active today, looming over ~3 million people in modern Naples"
+    ],
+    "factIds": [
+      "volcanoes-not-just-lava",
+      "pompeii-preserved-city",
+      "pompeii-vesuvius-burial",
+      "pompeii-excavation-source",
+      "palindromes-ancient-wordplay"
+    ]
+  },
+  {
+    "id": "apollo-13",
+    "title": "The Successful Failure",
+    "subtitle": "How three astronauts turned a doomed Moon mission into NASA's finest hour.",
+    "icon": "moon.stars",
+    "_curationNote": "NEW CANDIDATE, replaces the-machine-time-forgot (Antikythera) — 0 facts / 0 categories, fully from-scratch. All 4 candidate topics below are sourced and verified but not yet drafted into approved-facts.csv.",
+    "_whyThisCandidate": "Antikythera was dropped for low remaining wow-ceiling — its 3 best mysteries-topic angles were already mined, and the only fresh sources found were thin (a ~300-word LEGO-replica piece). A same-session Chernobyl candidate was also dropped, on user judgment, for sitting too close to Pompeii's 'historical disaster' flavor. Apollo 13 was chosen after an extended brainstorm specifically for being a different 'shape' of subject (a single bounded mission, not a place or a disaster) and for having zero prior content in the library, so every fact is genuinely new ground. Framed as a triumph, not a tragedy — everyone survived.",
+    "_candidateNewFactTopics": [
+      "The mission itself — the oxygen-tank explosion, the free-return trajectory slingshot around the Moon, and Lovell manually aligning the ship on Earth's horizon for the final correction burn with no working nav computer (category: space)",
+      "The improvised 'mailbox' CO2 scrubber fix — square Command Module filters jury-rigged into round Lunar Module ports using plastic bags, cardboard, and tape, talked through by voice with no way to send a picture (category: engineering)",
+      "The Apollo Guidance Computer — less computing power than a modern calculator, its flight software physically hand-woven into copper-wire 'rope memory' by former textile workers (category: technology)",
+      "The crew's physical toll — dehydration and near-freezing cabin temperatures gave Fred Haise a real kidney infection, documented in an official NASA health brief (category: medicine)"
+    ],
+    "factIds": []
+  }
+]
