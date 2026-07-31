@@ -1,5 +1,5 @@
 {
-  "contentVersion": 16,
+  "contentVersion": 17,
   "schemaVersion": 1,
   "files": [
     {
@@ -15,7 +15,7 @@
     {
       "name": "collections",
       "url": "collections.json",
-      "sha256": "b4872ed3bb249289786a6d0de62aca67523464e736cda3e5fadbc5fef26d05a2"
+      "sha256": "6e9b0a40c5bd0dc01c8a9bda25f8ec05011ab68ed585671cb7ff04e1cc1d9025"
     },
     {
       "name": "sources",

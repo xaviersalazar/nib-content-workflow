@@ -391,5 +391,35 @@
       "antibiotics-resistance-evolution",
       "shackleton-nimrod-near-pole"
     ]
+  },
+  {
+    "id": "written-in-the-stars",
+    "title": "Written in the Stars",
+    "subtitle": "Every August, the sky keeps a schedule older than us.",
+    "icon": "sparkles",
+    "factIds": [
+      "supernovae-create-elements",
+      "meteor-showers-tons-fall-daily",
+      "comets-shoemaker-jupiter",
+      "aurora-charged-particles",
+      "aurora-other-planets",
+      "cicadas-underground-years"
+    ],
+    "addedAt": "2026-08-15T09:00:00Z"
+  },
+  {
+    "id": "too-hot-to-handle",
+    "title": "Too Hot to Handle",
+    "subtitle": "The sun, the lasers, and the mountain that ended a city — heat that doesn't ask permission.",
+    "icon": "flame.fill",
+    "factIds": [
+      "red-giants-sun-future",
+      "lasers-mirrors-build-beam",
+      "mount-vesuvius-population-risk",
+      "volcanoes-not-just-lava",
+      "sun-billions-of-twins",
+      "deserts-defined-by-dryness"
+    ],
+    "addedAt": "2026-08-15T09:00:00Z"
   }
 ]

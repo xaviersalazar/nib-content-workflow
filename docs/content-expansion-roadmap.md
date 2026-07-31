@@ -19,7 +19,7 @@ Grow breadth deliberately.
 
 Keep trust high.
 
-Avoid running dry on the Categories and Collections screens.
+Avoid running dry on the Categories, Collections, and Series ("Journeys") screens.
 
 ---
 
@@ -58,10 +58,10 @@ three things —
 
 # The Monthly Cadence (the rule this roadmap follows)
 
-Every month ships **three** drops — all of them, not a pick-one:
+Every month ships **two** drops, and **every other month** a third:
 
 1. **One new category** (8–10 topics) for the Categories screen — dropped at the
-   **start of the month**.
+   **start of the month (1st)**.
 
    Every month adds a genuinely new tile — not an expansion of an existing one.
    A calendar tie is welcome where it fits, but **not required**: a category
@@ -84,8 +84,16 @@ Every month ships **three** drops — all of them, not a pick-one:
    **wacky** — the unexpected, off-the-wall angle ("Food Coma," "You've Been
    Fooled," "The Chemistry of Love") outperforms the safe one.
 
+3. **One new Series** — a bounded, documentary-style set (8–15 facts) on a single
+   named subject (an island, a doomed mission, a disaster) — dropped on the
+   **22nd, every other month** (six a year, not twelve). See
+   [§ New Series Every Other Month](#the-content-drop-new-series-every-other-month)
+   below for why it's slower than the other two and how it's sourced.
+
 A healthy month = **one intriguing new category (1st) + two themed Collections
-(both on the 15th).**
+(both on the 15th)**, and **every other month** a third beat: **one Series (22nd)**.
+The three drop days never share a type or a date — each is its own standalone
+editorial event on Today.
 
 ---
 
@@ -123,6 +131,60 @@ category earns it.
 
 ---
 
+# The Content Drop: New Series Every Other Month
+
+## Why Series runs on a slower clock than Category and Collections
+
+A Series ("The Spread" in-app) is a **documentary, not a set or a category** — 8–15
+facts that explain one bounded, named subject end to end (an island, a doomed
+mission, a city frozen in time), mixing facts that already exist with a handful
+drafted specifically for that subject. That makes it the **heaviest** of the three
+drops to produce: unlike a Collection (pure curation, zero drafting), a Series
+still needs new-fact authoring — just scoped to one subject instead of a whole
+category's 8–10 topics.
+
+The app's own "NEW" badge windows already encode this: Categories and Collections
+show their pill for **16 days**; a Series shows it for **64 days** — four times
+longer, because the app was built assuming Series ships far less often than
+monthly. A bi-monthly cadence (a new Series roughly every 60 days) lands each
+next drop just as the previous one's badge is finishing its run — no overlap,
+no two Series reading "new" at once. **Do not schedule a Series more often than
+every other month** without also shrinking that badge window in the app
+(`FeaturedSeriesPicker.newBadgeWindow`) to match, or two will show "NEW"
+simultaneously.
+
+The **22nd** was chosen deliberately: it's not the 1st (Category) or the 15th
+(Collections), and the app's Today whisper can only ever show **one** card at a
+time — the newest undismissed drop (`NewDropState.todayCard`). Two drop types
+landing on the same day means one silently loses its Today moment (it still gets
+a tab dot and a durable home in its tab, just not the flagship Today card). Never
+move a Series drop onto the 1st or the 15th.
+
+## Sourcing a Series
+
+Same validation discipline as a new category: confirm the subject's facts are
+either already live (check `facts.json`) or genuinely new topics absent from
+`source-registry/sources.csv`, prefer a specialist institution per new topic, and
+route around any category/Collection that already owns the angle (see the
+de-dup notes in the category table above — a Series pulling from, say, `space`
+or `history` needs the same cross-check). A Series also needs a
+`NibColors.topicColorMap` entry before it ships (one per Series, app-side).
+
+Because the reveal gate (`nib-docs/content-reveal-gate.md` in the Nib app repo)
+decouples publishing from the reveal date, a Series can be drafted and CDN-staged
+weeks ahead of its 22nd debut with zero risk of it leaking early — publish with
+`addedAt` set to the real date and let the gate hold it invisible until then.
+
+The cheapest possible Series is one built around a subject that's **already a
+topic somewhere in `sources.csv` with `status=complete`** — its 1–3 anchor facts
+are already scraped and drafted, so the Series-specific work is just the
+cross-category pull plus a handful of new facts for the narrower angle (see
+Production Math). The 12-month schedule below and the Series Backlog do exactly
+this: every scheduled/bench Series is anchored to a real, already-complete topic
+row, verified against `facts.json` and `sources.csv` directly (not guessed).
+
+---
+
 # 12-Month Schedule — Launch Year (Aug 2026 → Jul 2027)
 
 **Launch is July 2026.** Expansion begins the month *after* launch, so the first
@@ -133,6 +195,10 @@ month it actually lands in. The rhythm each month:
 
 - **1st** → the month's new **category** goes live.
 - **15th** → **both** of the month's new **Collections** drop together.
+- **22nd, every other month** → the month's new **Series** drops (six across the
+  year — see [§ New Series Every Other Month](#the-content-drop-new-series-every-other-month)
+  and the schedule table below). Aug/Oct/Dec/Feb/Apr/Jun carry a Series; the
+  in-between months don't — that's the point, not a gap to fill.
 
 Categories are now **fascination-first**: each earns its slot on "wait, really?" alone
 (**Survival & the Body's Limits** in Aug, **Forensics** in Sep, **Poisons, Venom & Toxins**
@@ -180,6 +246,36 @@ B12) and Fungi (Nov) and geography/Rainforests (plankton-oxygen) — leads with 
 the Year-2 *Magic & Illusions* backlog and Jul's Games/Magic-Tricks must route around Houdini; Camouflage/
 Mimic-Octopus + Cuttlefish coordinate with animals/Octopus.
 
+## New Series — one every other month (drops on the 22nd)
+
+Six slots (Aug/Oct/Dec/Feb/Apr/Jun), each anchored to a real, already-`complete`
+topic — verified directly against `facts.json` and `sources.csv`, not guessed.
+Titles below are working titles; the exact `factIds` set and any brand-new facts
+get finalized at draft time, same as a Collection.
+
+| Month | New Series | Anchor topic *(existing, complete)* | Live facts today | Why this slot |
+| --- | --- | --- | --- | --- |
+| **Aug '26** | **The Titanic** — "Built Unsinkable" | history/Titanic | 3 | Pairs with Aug's **Survival & the Body's Limits** category — the real hook isn't the engineering, it's a cold-water survival story (hypothermia, the lifeboat math) |
+| **Oct '26** | **The Bermuda Triangle** — "The Mystery That Wasn't" | mysteries/Bermuda Triangle | 1 | Halloween-adjacent mood without leaning supernatural — the hook is the mundane, verifiable explanations (weather, currents, human error) behind the legend |
+| **Dec '26** | **Voyager Program** — "The Farthest Thing We've Ever Made" | space/Voyager Program | 1 | No forced calendar tie (matches the category philosophy) — still transmitting from interstellar space 47+ years on, a genuinely awe-inducing story for a reflective month |
+| **Feb '27** | **Nellie Bly** — "Around the World in 72 Days" | explorers/Nellie Bly | 2 | A genre change from disaster/mystery — one audacious journalistic stunt; adds narrative variety and counter-programs Feb's Valentine's-heavy Collections |
+| **Apr '27** | **Chernobyl** — "The Zone That Became a Sanctuary" | famous-disasters/Chernobyl | 3 | Echoes Apr's Earth Day "Our Planet" Collection — the exclusion zone's unplanned rewilding is the counter-intuitive angle, not a disaster recap |
+| **Jun '27** | **Area 51** — "What Was Actually Out There" | mysteries/Area 51 | 2 | Loose echo of Jun's Heists/Escapes & Cons category (real government secrecy, not aliens) without touching Houdini/heist content |
+
+**De-dup flags honored:** all six route around subjects already spoken for —
+**Socotra / Pompeii / Apollo 13** (already-shipped Series); **Atlantis, Roanoke
+Colony, Easter Island, Voynich Manuscript** (reserved for the "Lost to Time"
+Collection idea below); **Shackleton** (reserved for "Against the Odds," paired
+with Survival); **Cottingley Fairies, the FeeJee Mermaid, Crop Circles, War of
+the Worlds** (reserved for "Caught in the Act," paired with Forensics).
+
+**Specialist source per Series** (same diversification rule as categories):
+Titanic → Britannica (already the anchor's source; pull cross-category facts
+from specialist-sourced topics where possible) · Bermuda Triangle → Britannica ·
+Voyager → NASA · Nellie Bly → Britannica · Chernobyl → Britannica (lean on
+IAEA/UN Chernobyl Forum sources for the rewilding angle when drafting new facts)
+· Area 51 → Britannica.
+
 ## Collections — two per month (both drop on the 15th)
 
 Each Collection is a curated pull from **existing** facts (illustrative members
@@ -201,9 +297,41 @@ shown; final `factIds` verified — and de-duped across Collections — at build
 > late. When a holiday genuinely demands it, drop that month's pair a few days early
 > rather than splitting them back across two dates.
 
+### Recent additions are part of the pool, not just the launch database
+
+The 24 Collections in the schedule below were picked against the content that
+existed *before* this cadence started. That's a snapshot, not a ceiling — every
+month a new Category (1st) lands ~25 fresh facts, and every other month a new
+Series (22nd) lands another handful on a bounded subject. By month six there's
+5–6 categories' + 2–3 Series' worth of material the original 24 picks never had
+access to. **Treat that as live inventory, not a one-time bonus:**
+
+- **Before finalizing a month's two Collections, check what's shipped in the
+  trailing ~2 quarters** (not just a whole-database search) — a recently-landed
+  Category or Series is usually the freshest, most on-brand material available,
+  and a Collection that deepens it doubles as a quiet reinforcement of that
+  drop's own "new" moment (a reader who noticed the Category weeks ago
+  rediscovers it via a Collection).
+- **Same-month pairing is usually too tight to plan for** — the 1st-to-15th gap
+  is two weeks, only workable if that month's category was staged and drafted
+  well ahead of time (see Production Math's "stage rows about a month ahead").
+  The reliable pairing window is a **prior** month's Category or Series, not
+  necessarily the current one's.
+- **This is additive, not retroactive** — it's a rule for picking future
+  Collections as the year unfolds, not a mandate to re-plan the 24 already
+  scheduled below (several already have their own solid seasonal logic).
+- The pattern already exists in practice — four "fascination-first" Collection
+  ideas below were built specifically to pair with a newly-shipped category
+  (Poisons → "Nature's Assassins," Forensics → "Caught in the Act," Microscopic
+  Life → "The Invisible World," Survival → "Against the Odds"). Three more now
+  do the same for the new Series schedule (Titanic, Bermuda Triangle, Voyager —
+  see the Collection Ideas Bank). Keep extending this bank every time a
+  Category or Series ships, so there's always a ready-made pairing on hand the
+  next time a month's picks are due.
+
 | Month | Collection 1 (15th) | Collection 2 (15th) |
 | --- | --- | --- |
-| **Aug '26** | **"Written in the Stars"** — Meteor Showers, Comets, Supernovas, Auroras, Cicadas *(Perseid peak, Aug 11–13)* | **"Too Hot to Handle"** — the Sun, Red Giants, Volcanoes, Lasers, Deserts *(dog days of summer)* |
+| **Aug '26** | ✅ **"Written in the Stars"** — Meteor Showers, Comets, Supernovas, Auroras, Cicadas *(Perseid peak, Aug 11–13)* | ✅ **"Too Hot to Handle"** — the Sun, Red Giants, Volcanoes, Lasers, Deserts *(dog days of summer)* |
 | **Sep '26** | **"How Your Brain Learns"** — Learning, Memory, Attention, Habits, Neural Networks *(back-to-school)* | **"Your Lying Eyes"** — Optical Illusions, Motion Illusions, Color Illusions, Mirage, Placebo Effect *(how your brain fools you)* |
 | **Oct '26** | **"Spooky Science"** — Bats, Spiders, Black Cats, Friday the 13th, Catacombs of Paris *(Halloween)* | **"Glow in the Dark"** — Bioluminescence, Fireflies, Anglerfish, Jellyfish, Cicadas *(eerie natural glow)* |
 | **Nov '26** | **"Around the Table"** — Chocolate, Honey, Salt, Spices, Coffee *(Thanksgiving feast)* | **"Food Coma"** — Hibernation, Dreams, Yawning, Naps, Melatonin *(post-feast drowsiness)* |
@@ -216,10 +344,25 @@ shown; final `factIds` verified — and de-duped across Collections — at build
 | **Jun '27** | **"Into the Deep"** — Deep Sea, Coral Reefs, Whales, Anglerfish, Bioluminescence *(World Oceans Day, Jun 8)* | **"Chasing the Sun"** — the Sun, Red Giants, Stonehenge, Comets, Meteor Showers *(summer solstice, Jun 21)* |
 | **Jul '27** | **"Light Show"** — Auroras, Fireflies, Bioluminescence, Lasers, Supernovas *(July 4th fireworks weekend)* | **"Best of Year One"** — top facts from the launch year *(launch anniversary + Apollo 11, Jul 20)* |
 
-**Tally:** 12 new categories + **24 Collections** (two a month) across the year. The
-Categories screen gains a fresh tile on the 1st; the Collections screen gets two new
-themed packs on the 15th — all 24 with **zero** new drafting. Category *expansions*
-remain opportunistic, layered on only when analytics flag a winner.
+**Aug '26 built (2026-07-30)** — real `factIds` written to `exports/collections.json` and synced to
+`Nib/Nib/Data/collections.json` (28 → 30 collections, both repos byte-identical), `addedAt:
+"2026-08-15T09:00:00Z"` on both so the reveal gate holds them invisible until the drop date. Verified:
+every factId resolves, no id collisions, no overlap between the two. **"Too Hot to Handle" pulled from
+the Pompeii Series** per the recent-additions rule above — `mount-vesuvius-population-risk` (new,
+drafted for the Series) and `volcanoes-not-just-lava` (pre-existing, Pompeii-adjacent) fill its
+Volcanoes slot. "Written in the Stars" found no Series fit (Apollo 13 and Alien Island's new facts
+are mission-drama/ecology, not night-sky phenomena) and draws entirely from the existing base, as
+planned. **Live on the CDN (2026-07-30)** — `contentVersion` 16→17, verified against
+`cdn.nibapp.net/v1/manifest.json` directly (checksum + fetched `collections.json` both confirmed).
+Held invisible by the reveal gate until Aug 15.
+
+**Tally:** 12 new categories + **24 Collections** (two a month) + **6 new Series**
+(Titanic, Bermuda Triangle, Voyager Program, Nellie Bly, Chernobyl, Area 51 — one
+every other month) across the year. The Categories screen gains a fresh tile on
+the 1st; the Collections screen gets two new themed packs on the 15th — all 24
+with **zero** new drafting; the Collections/Series "Journeys" segment gains a new
+bounded documentary on the 22nd every other month. Category *expansions* remain
+opportunistic, layered on only when analytics flag a winner.
 
 **Roster changes (2026-07-14 fascination-first rewrite):** six categories that were structurally prone to flat,
 textbook, or "so what?" facts were swapped for high-curiosity ones — **Mirrors & Reflections → Survival & the
@@ -271,6 +414,35 @@ first narrow it to the 2–3 genuinely tappable topics noted.
 | Mirrors & Reflections | Optics mechanism; triple-overlaps existing content | One-Way Glass, Mirror Writing, Hall of Mirrors |
 | Art | Survey-of-isms; Pigments duplicates **colors** | Mona Lisa theft, forgeries, hidden paintings under paintings |
 | Ships & Boats | Mechanism/infrastructure topics; overlaps econ + Titanic | Submarines, Shipwrecks, Icebreakers |
+
+---
+
+# Series Backlog (Year 2+)
+
+Bench candidates beyond the 6 scheduled above, for when the 12-month schedule is
+exhausted or a slot needs swapping. Every anchor topic below was verified against
+`sources.csv`/`facts.json` directly — no guessing. Unlike the Category backlog,
+this bank includes a few **flagged, handle-with-care** entries; read the caution
+column before scheduling one.
+
+| Series | Anchor topic *(existing)* | Live facts today | Likely categories it spans | The hook |
+| --- | --- | --- | --- | --- |
+| Krakatoa | famous-disasters/Krakatoa | 3 | famous-disasters, physics, weather, geography | The 1883 eruption produced the loudest sound ever recorded (heard 3,000 miles away) and cooled the planet for years |
+| Great Molasses Flood | famous-disasters/Great Molasses Flood | 2 | famous-disasters, physics, human-civilization | A wall of molasses moved at 35 mph — a "wacky" tone that varies the lineup away from disaster-as-tragedy |
+| Zheng He | explorers/Zheng He | 3 | explorers, ancient-civilizations, engineering | A 15th-century Chinese admiral's treasure fleet dwarfed Columbus's ships by a century — strong non-Western representation |
+| Marco Polo | explorers/Marco Polo | 3 | explorers, ancient-civilizations, human-civilization | Silk Road-era journey with a genuine "how much of this did he even see himself" hook |
+| Amelia Earhart | mysteries/Amelia Earhart | 2 | mysteries, aviation, explorers | The disappearance plus the real, physical search evidence (Nikumaroro) — verifiable, not speculative |
+
+**Caution entries — verify before scheduling:**
+
+| Series | Anchor topic | Status | Why it's flagged |
+| --- | --- | --- | --- |
+| Dust Bowl | famous-disasters/Dust Bowl | `complete` in `sources.csv`, but **0 facts exist anywhere** (checked `facts.json` and `approved-facts.csv`) | Scraped but never drafted. Budget this like a mini-category (real drafting work), not a light Series — don't assume the anchor facts are ready just because the row says `complete` |
+| Dyatlov Pass | mysteries/Dyatlov Pass | 3 facts live | A `dyatlov-conspiracy-fuel` fact was already **removed** (2026-07-30 audit) for presenting a disputed 2021 theory as settled fact. A Series here must stick strictly to documented, verifiable events (what was found, when, the official conclusion) and never present any single explanation as *the* answer — same rule that got the last fact pulled |
+| Roman Empire | history/Roman Empire | Down to **1 fact**, already flagged as a re-source candidate in the 2026-07-23 dup-merge pass | Too thin an anchor as-is — re-source the topic to at least 2–3 facts first, same as any new-category topic, before building a Series on it |
+
+Marco Polo overlaps route: watch **history/Silk Road** (already a topic) when
+drafting — split the trade-route angle so the two don't duplicate.
 
 ---
 
@@ -364,6 +536,17 @@ no new drafting required. Same rules: de-duped, and wacky beats safe.
 - **"Against the Odds"** — Shackleton, the mammalian dive reflex, wood frogs freezing
   solid, tardigrade-adjacent survival *(pairs w/ Survival & the Body's Limits)*
 
+**Series-paired additions (2026-07-30) — same pattern, tied to the new Series schedule:**
+
+- **"What the Ship Couldn't Outrun"** — Steel, Deep Sea, weather/ice angles already
+  live *(pairs w/ Aug's Titanic Series; illustrative — finalize against what the
+  Series actually drafts)*
+- **"The Mundane Explanation"** — other legend-vs-reality debunkings already live
+  across myths-legends, illusions-perceptions, and mysteries siblings *(pairs w/
+  Oct's Bermuda Triangle Series — "the boring truth is wilder than the myth")*
+- **"Farther Than Anyone"** — Kuiper Belt, Oort Cloud, Solar System, the Sun *(pairs
+  w/ Dec's Voyager Series — the edge of what we've ever reached)*
+
 ---
 
 # Source Diversification Goal
@@ -410,6 +593,13 @@ load — both are curation of facts that already shipped. (Opportunistic expansi
 when you choose to run one, add their own 15–24 facts on top — budget for them only
 in the months you actually do them.)
 
+A bi-monthly Series adds its own small spike **in the months it lands**: a Series
+is 8–15 facts total, but most of that can be existing facts pulled from live
+categories — budget for roughly **5–10 genuinely new facts** per Series (the
+launch three, Alien Island / Pompeii / Apollo 13, ran 9/11/9 facts each, a mix of
+new and existing). That's a real but modest addition on top of that month's ~25
+category facts, landing every other month rather than stacking every month.
+
 - The bottleneck is the **human review pass**, not scraping. Keep each drop to one
   category, not three.
 - Stage rows about a month ahead, batch-scrape, then draft and review in weekly
@@ -445,10 +635,17 @@ change is required to adopt this convention.
    (**both on the 15th**). The category can be seasonal *or* just intriguing —
    pull it from the schedule, the Year-2 backlog, or the Unexpected & Intriguing
    bank. The Collections come from the schedule or the Collection Ideas Bank.
+   **Every other month**, also ship **one new Series** (on the **22nd**) — pull
+   from the Series backlog once one exists (see the sourcing note above); never
+   move it onto the 1st or 15th.
 3. Confirm every proposed **category topic** is still absent from `sources.csv`,
    and that every **Collection member** already exists in it, before staging — the
    schedule was de-duped against the registry, but the registry keeps growing.
-   Keep the two Collections in a month from overlapping each other.
+   Keep the two Collections in a month from overlapping each other. Before
+   finalizing a month's two Collections, also check the **trailing ~2 quarters**
+   of shipped Categories and Series (not just the whole database) for fresh
+   pairing material — see "Recent additions are part of the pool" under the
+   Collections section.
 4. Prefer a non-Britannica specialist source for every new row; validate it
    scrapes cleanly before adding it.
 5. Re-check the Britannica ratio quarterly and steer toward the 50% target.
