@@ -67,6 +67,10 @@
     "Moons": {
       "institution": "NASA",
       "url": "https://science.nasa.gov/moons/"
+    },
+    "Apollo 13": {
+      "institution": "NASA",
+      "url": "https://www.nasa.gov/missions/apollo/the-hard-won-triumph-of-the-apollo-13-mission-45-years-later/"
     }
   },
   "astronomy": {
@@ -201,6 +205,10 @@
     "Olmecs": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/Olmec"
+    },
+    "Hoq Cave": {
+      "institution": "National Geographic",
+      "url": "https://www.nationalgeographic.com/environment/article/socotra-yemen-biodiversity-photography"
     }
   },
   "animals": {
@@ -499,6 +507,14 @@
     "Data Centers": {
       "institution": "Cloudflare",
       "url": "https://www.cloudflare.com/learning/cdn/glossary/data-center/"
+    },
+    "Herculaneum Scrolls": {
+      "institution": "National Geographic",
+      "url": "https://www.nationalgeographic.com/history/article/herculaneum-scrolls-mount-vesuvius-ai"
+    },
+    "Apollo Guidance Computer": {
+      "institution": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/margaret-hamilton-led-nasa-software-team-landed-astronauts-moon-180971575/"
     }
   },
   "artificial-intelligence": {
@@ -753,6 +769,10 @@
     "Earthquake Engineering": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/earthquake-resistant-structure"
+    },
+    "Apollo 13 CO2 Scrubber": {
+      "institution": "Smithsonian",
+      "url": "https://airandspace.si.edu/stories/editorial/conserving-creativity-saved-apollo-13-astronauts"
     }
   },
   "aviation": {
@@ -911,6 +931,10 @@
     "Superconductivity": {
       "institution": "CERN",
       "url": "https://home.cern/science/physics/superconductivity/"
+    },
+    "Apollo 13 Re-Entry": {
+      "institution": "Universe Today",
+      "url": "https://www.universetoday.com/articles/13-more-things-that-saved-apollo-13-part-6-the-mysterious-longer-than-expected-communications-blackout"
     }
   },
   "chemistry": {
@@ -1217,6 +1241,10 @@
     "Pseudonyms": {
       "institution": "Royal Literary Fund",
       "url": "https://www.rlf.org.uk/posts/pseudonyms/"
+    },
+    "Pliny the Younger": {
+      "institution": "National Geographic",
+      "url": "https://www.nationalgeographic.com/history/article/who-was-pliny-the-younger"
     }
   },
   "languages": {
@@ -1271,6 +1299,10 @@
     "Translation": {
       "institution": "Atlas Language Services",
       "url": "https://atlasls.com/the-history-of-translation/"
+    },
+    "Soqotri Language": {
+      "institution": "UNESCO",
+      "url": "https://www.unesco.org/en/articles/safeguarding-soqotri-language-first-workshop-unified-alphabet"
     }
   },
   "architecture": {
@@ -1519,6 +1551,10 @@
     "Medical Robots": {
       "institution": "Cleveland Clinic",
       "url": "https://my.clevelandclinic.org/health/treatments/22178-robotic-surgery"
+    },
+    "Apollo 13 Crew Health": {
+      "institution": "NASA",
+      "url": "https://www.nasa.gov/ochmo-mtb-003-urinary-health-2/"
     }
   },
   "geography": {
@@ -1581,6 +1617,10 @@
     "Caves": {
       "institution": "National Park Service",
       "url": "https://www.nps.gov/subjects/caves/making-a-cave.htm"
+    },
+    "Mount Vesuvius": {
+      "institution": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-view-of-vesuvius-149298"
     }
   },
   "weather": {
@@ -2151,6 +2191,10 @@
     "White": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/science/white-color"
+    },
+    "Pompeian Red": {
+      "institution": "NIH",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8655737/"
     }
   },
   "sleep-dreams": {
@@ -2433,6 +2477,10 @@
     "Bonsai": {
       "institution": "U.S. National Arboretum",
       "url": "https://www.usna.usda.gov/discover/gardens-collections/national-bonsai-penjing-museum"
+    },
+    "Dragon's Blood Tree": {
+      "institution": "bioGraphic",
+      "url": "https://www.biographic.com/saving-the-dragons-blood/"
     }
   },
   "insects": {

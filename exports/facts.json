@@ -162,7 +162,7 @@
     "relatedFactIds": [
       "asteroids-less-mass-than-moon",
       "moon-volcanoes-io",
-      "kuiper-belt-arrokoth-red-snowman",
+      "apollo13-earth-horizon-navigation",
       "vacuum-of-space-leblanc-saliva-boiled",
       "space-race-sputnik"
     ],
@@ -483,7 +483,7 @@
       "uranus-coldest-planet",
       "exoplanets-strange-worlds",
       "lakes-basins-hold-water",
-      "covalent-bonds-polar-sharing"
+      "deserts-defined-by-dryness"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -687,8 +687,7 @@
       "pluto-blue-sky",
       "solar-system-only-24-moonwalkers",
       "time-relativity-observer-dependent",
-      "golf-scotland-real-golf",
-      "coral-reefs-largest-biological-structures"
+      "golf-scotland-real-golf"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -798,8 +797,8 @@
     "featured": false,
     "relatedFactIds": [
       "sun-creates-auroras",
+      "apollo13-explosion-lifeboat",
       "pluto-heart-shape",
-      "jupiter-shortest-day",
       "red-giants-sun-future",
       "quantum-mechanics-measurement-probabilities",
       "quasars-angle-changes-view"
@@ -942,8 +941,8 @@
       "uranus-coldest-planet",
       "uranus-sideways-planet",
       "uranus-discovered-by-telescope",
-      "kuiper-belt-arrokoth-red-snowman",
-      "saturn-enceladus-ocean"
+      "apollo13-earth-horizon-navigation",
+      "apollo13-explosion-lifeboat"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -970,7 +969,7 @@
       "moon-europa-ocean",
       "moon-ganymede-biggest",
       "asteroids-less-mass-than-moon",
-      "volcanoes-tectonic-links",
+      "mount-vesuvius-population-risk",
       "lasers-light-copy-itself",
       "asteroids-dart-changed-orbit"
     ],
@@ -995,8 +994,8 @@
     "readTimeSeconds": 35,
     "featured": false,
     "relatedFactIds": [
-      "moon-ganymede-biggest",
       "moon-volcanoes-io",
+      "moon-ganymede-biggest",
       "saturn-enceladus-ocean",
       "lasers-light-copy-itself",
       "oceans-drive-water-cycle",
@@ -1230,8 +1229,8 @@
       "stars-live-trillions-years",
       "pulsars-sugar-cube-mountain",
       "solar-system-galactic-year",
-      "exoplanets-more-than-stars",
-      "supernovae-create-elements"
+      "blind-spots-sharp-fovea",
+      "exoplanets-more-than-stars"
     ],
     "themes": [
       "stars-and-cosmos"
@@ -2008,7 +2007,8 @@
     "featured": false,
     "relatedFactIds": [
       "ancient-egypt-3000-years",
-      "indus-undeciphered-script"
+      "indus-undeciphered-script",
+      "hoq-cave-ancient-graffiti"
     ],
     "themes": [
       "accidental-discovery"
@@ -2090,8 +2090,8 @@
       "inca-road-network",
       "inca-suspension-bridges",
       "mesopotamia-sixty-minute-hour",
-      "indus-undeciphered-script",
-      "phoenicians-purple-dye"
+      "soqotri-language-no-alphabet",
+      "indus-undeciphered-script"
     ],
     "themes": [
       "color-and-light",
@@ -2227,11 +2227,11 @@
     "readTimeSeconds": 39,
     "featured": false,
     "relatedFactIds": [
+      "hoq-cave-ancient-graffiti",
       "inca-quipu",
-      "inca-road-network",
       "trade-not-just-nations",
       "purple-fixed-dye",
-      "aztec-flag-legend"
+      "inca-road-network"
     ],
     "themes": [
       "money-trade-and-value",
@@ -2284,10 +2284,10 @@
     "featured": false,
     "relatedFactIds": [
       "ancient-rome-small-town-empire",
-      "ancient-egypt-3000-years",
+      "hoq-cave-ancient-graffiti",
       "roads-military-first",
-      "babylonians-hanging-gardens",
-      "inca-road-network"
+      "ancient-egypt-3000-years",
+      "babylonians-hanging-gardens"
     ],
     "themes": [
       "war-and-conflict"
@@ -2413,7 +2413,7 @@
     "tags": [
       "animals",
       "elephants",
-      "ecosystems",
+      "ecosystem",
       "nature"
     ],
     "readTimeSeconds": 38,
@@ -2421,9 +2421,10 @@
     "relatedFactIds": [
       "chameleons-two-way-eyes",
       "giraffes-spread-legs-drink",
-      "coral-reefs-largest-biological-structures",
+      "dragons-blood-tree-umbrella-species",
       "golden-ratio-one-point-six-one-eight",
-      "sloths-bathroom-weekly"
+      "sloths-bathroom-weekly",
+      "coral-reefs-largest-biological-structures"
     ],
     "themes": [
       "plants-and-botany",
@@ -3084,7 +3085,7 @@
       "giraffes-spread-legs-drink",
       "sloths-bathroom-weekly",
       "giant-squid-dinner-plate-eyes",
-      "cacti-spines-leaves",
+      "dragons-blood-tree-fog-harvesting",
       "elephants-footprint-ecosystems"
     ],
     "themes": [
@@ -3222,7 +3223,7 @@
     "tags": [
       "ocean-life",
       "coral-reefs",
-      "ecosystems",
+      "ecosystem",
       "animals"
     ],
     "readTimeSeconds": 40,
@@ -3230,8 +3231,8 @@
     "relatedFactIds": [
       "whales-are-mammals",
       "orcas-are-dolphins",
+      "dragons-blood-tree-umbrella-species",
       "elephants-footprint-ecosystems",
-      "pluto-charon-size",
       "jellyfish-long-tentacles"
     ],
     "themes": [
@@ -4836,7 +4837,7 @@
       "cacti-areoles",
       "caffeine-naturally-bitter",
       "salt-only-rock-we-eat",
-      "bamboo-fast-growth"
+      "corpse-flower-giant-inflorescence"
     ],
     "themes": [
       "plants-and-botany",
@@ -5150,10 +5151,10 @@
     "featured": false,
     "relatedFactIds": [
       "usb-imac-mainstream",
+      "apollo-guidance-computer-rope-memory",
       "internet-arpanet-first-connection",
       "data-centers-avoid-downtime",
-      "email-more-than-text",
-      "world-wide-web-cern-1989"
+      "email-more-than-text"
     ],
     "themes": [
       "computing-and-web",
@@ -5209,7 +5210,7 @@
       "blockchain-public-private-keys",
       "windshield-wipers-snowy-trolley",
       "wheels-pottery-turntable",
-      "email-more-than-text",
+      "apollo-guidance-computer-rope-memory",
       "qr-codes-denso-wave"
     ],
     "themes": [
@@ -5373,11 +5374,11 @@
     "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
-      "world-wide-web-cern-1989",
-      "bluetooth-direct-device-talk",
+      "herculaneum-scrolls-ai-unwrapped",
+      "herculaneum-scrolls-vesuvius-challenge-prize",
       "prime-numbers-cryptography",
-      "cloud-computing-name-diagrams",
-      "qr-codes-car-parts"
+      "world-wide-web-cern-1989",
+      "apollo-guidance-computer-rope-memory"
     ],
     "themes": [
       "automation-robots-ai",
@@ -5487,7 +5488,8 @@
       "reinforcement-learning-reward-signal",
       "translation-more-than-word-swapping",
       "gothic-architecture-not-gothic-tribes",
-      "ai-hallucinations-real-world-harm"
+      "ai-hallucinations-real-world-harm",
+      "soqotri-language-no-alphabet"
     ],
     "themes": [
       "automation-robots-ai",
@@ -5905,9 +5907,9 @@
     "relatedFactIds": [
       "minecraft-virtual-blocks",
       "nintendo-playing-card-origin",
-      "captain-kidd-quedagh-merchant",
       "playstation-failed-nintendo-deal",
-      "easter-eggs-konami-code-testing"
+      "easter-eggs-konami-code-testing",
+      "pac-man-food-gameplay"
     ],
     "themes": [
       "games-and-play",
@@ -7064,10 +7066,10 @@
     "featured": false,
     "relatedFactIds": [
       "concrete-steel-reinforcement",
-      "wheels-pottery-turntable",
+      "apollo13-mailbox-co2-fix",
       "irrigation-water-control",
-      "suspension-bridges-tacoma-narrows",
-      "cranes-lift-and-shift-sideways"
+      "wheels-pottery-turntable",
+      "suspension-bridges-tacoma-narrows"
     ],
     "themes": [
       "hidden-underground"
@@ -7090,10 +7092,10 @@
     "featured": false,
     "relatedFactIds": [
       "earthquake-engineering-strong-joints",
-      "levers-multiply-force-distance",
+      "apollo13-mailbox-co2-fix",
       "bridges-live-dead-loads",
       "inca-suspension-bridges",
-      "hydraulics-pressure-everywhere",
+      "levers-multiply-force-distance",
       "bridges-five-basic-forms"
     ],
     "themes": [
@@ -7270,7 +7272,7 @@
       "gliders-fly-without-engines",
       "poison-ivy-three-leaflets",
       "autopilot-complex-flight-plans",
-      "jet-engines-compress-burn-expand"
+      "jet-engines-throw-air-backward"
     ],
     "themes": [
       "gravity-and-orbits",
@@ -8202,9 +8204,9 @@
     "relatedFactIds": [
       "quantum-mechanics-measurement-probabilities",
       "quantum-mechanics-hilbert-space",
-      "sound-human-frequency-range",
-      "motion-velocity-has-direction",
-      "time-hard-to-define"
+      "apollo13-reentry-blackout-87-seconds",
+      "apollo13-reentry-shallow-angle-cause",
+      "sound-human-frequency-range"
     ],
     "themes": [
       "record-extremes"
@@ -8600,7 +8602,8 @@
       "motion-force-changes-motion",
       "gravity-weak-universe-shaping",
       "venus-day-longer-than-year",
-      "black-holes-spaghettification"
+      "black-holes-spaghettification",
+      "velcro-hook-and-loop"
     ],
     "themes": [
       "gravity-and-orbits",
@@ -8629,7 +8632,8 @@
       "motion-force-changes-motion",
       "motion-velocity-has-direction",
       "light-exact-speed",
-      "superconductivity-meissner-effect"
+      "superconductivity-meissner-effect",
+      "apollo13-reentry-shallow-angle-cause"
     ],
     "themes": [
       "motion-and-force"
@@ -8652,10 +8656,10 @@
     "featured": false,
     "relatedFactIds": [
       "inertia-no-net-force",
+      "apollo13-reentry-shallow-angle-cause",
       "light-exact-speed",
       "superconductivity-meissner-effect",
-      "motion-force-changes-motion",
-      "gravity-weak-universe-shaping"
+      "motion-force-changes-motion"
     ],
     "themes": [
       "motion-and-force"
@@ -8905,7 +8909,7 @@
       "molecules-bond-lower-energy",
       "metals-free-electrons-conduct",
       "periodic-table-mendeleev-predictions",
-      "periodic-table-group-patterns"
+      "molecules-smallest-identity-unit"
     ],
     "themes": [
       "materials-and-chemistry"
@@ -8930,8 +8934,8 @@
       "molecules-bond-lower-energy",
       "polymers-giant-monomer-chains",
       "covalent-bonds-polar-sharing",
-      "giraffes-spread-legs-drink",
-      "surviving-without-food-gandhi-21-days",
+      "acids-bases-ph-scale",
+      "atoms-outer-electrons-chemistry",
       "covalent-bonds-resonance"
     ],
     "themes": [
@@ -9099,8 +9103,8 @@
       "covalent-bonds-resonance",
       "molecules-smallest-identity-unit",
       "metals-free-electrons-conduct",
-      "saturn-titan-lakes",
-      "hibernation-not-all-dormancy"
+      "hibernation-not-all-dormancy",
+      "atoms-outer-electrons-chemistry"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -9441,7 +9445,7 @@
       "chemical-reactions-rearrange-atoms",
       "atoms-atomic-number-identity",
       "periodic-table-group-patterns",
-      "chemical-elements-compounds-transform-properties"
+      "atoms-outer-electrons-chemistry"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -10150,8 +10154,8 @@
       "logarithms-multiplication-addition",
       "golden-ratio-one-point-six-one-eight",
       "pi-never-repeats",
-      "chaos-theory-butterfly-effect",
-      "geometry-earth-measurement"
+      "geometry-earth-measurement",
+      "chaos-theory-butterfly-effect"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -11168,8 +11172,8 @@
       "barter-oldest-commerce",
       "barter-direct-exchange",
       "banking-deposits-become-loans",
-      "currency-more-than-cash",
       "inflation-weakens-buying-power",
+      "currency-more-than-cash",
       "supply-chains-raw-to-retail"
     ],
     "themes": [
@@ -11413,8 +11417,8 @@
       "inflation-weakens-buying-power",
       "recession-not-depression",
       "currency-more-than-cash",
-      "currency-can-be-unusual",
-      "banking-deposits-become-loans"
+      "banking-deposits-become-loans",
+      "currency-can-be-unusual"
     ],
     "themes": [
       "money-trade-and-value",
@@ -11787,8 +11791,8 @@
       "detective-fiction-hard-boiled",
       "epic-poems-heroic-scale",
       "pseudonyms-famous-hidden-names",
-      "storytelling-older-than-writing",
-      "banned-books-can-increase-interest"
+      "banned-books-can-increase-interest",
+      "storytelling-older-than-writing"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -12484,9 +12488,9 @@
     "relatedFactIds": [
       "storytelling-older-than-writing",
       "storytelling-can-be-sung",
-      "novels-long-prose-worlds",
+      "pliny-younger-skipped-rescue",
       "sacred-texts-written-and-oral",
-      "poetry-compressed-language"
+      "novels-long-prose-worlds"
     ],
     "themes": [
       "counterintuitive-scale",
@@ -12640,10 +12644,10 @@
     "featured": false,
     "relatedFactIds": [
       "tongue-twisters-practice-tools",
-      "sign-language-complete-language",
+      "soqotri-language-no-alphabet",
       "lucid-dreaming-rem",
-      "loanwords-change-after-borrowing",
-      "writing-systems-sound-or-meaning"
+      "sign-language-complete-language",
+      "loanwords-change-after-borrowing"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -12720,7 +12724,7 @@
       "writing-systems-sound-or-meaning",
       "prosthetics-more-than-limbs",
       "indus-undeciphered-script",
-      "translation-more-than-word-swapping"
+      "soqotri-language-no-alphabet"
     ],
     "themes": [
       "language-and-writing",
@@ -12744,10 +12748,10 @@
     "featured": false,
     "relatedFactIds": [
       "writing-systems-sound-or-meaning",
+      "soqotri-language-no-alphabet",
       "morse-code-sos-pattern",
       "tongue-twisters-practice-tools",
-      "accents-not-same-as-dialects",
-      "dictionaries-not-always-alphabetical"
+      "accents-not-same-as-dialects"
     ],
     "themes": [
       "money-trade-and-value",
@@ -12803,7 +12807,7 @@
       "writing-systems-sound-or-meaning",
       "loanwords-change-after-borrowing",
       "barcode-checkout-problem",
-      "palindromes-ancient-wordplay"
+      "soqotri-language-no-alphabet"
     ],
     "themes": [
       "codes-and-cryptography",
@@ -12857,8 +12861,8 @@
       "sign-language-face-is-grammar",
       "writing-systems-sound-or-meaning",
       "alphabet-name-alpha-beta",
-      "hieroglyphics-always-phonetic",
-      "translation-more-than-word-swapping"
+      "soqotri-language-no-alphabet",
+      "hieroglyphics-always-phonetic"
     ],
     "themes": [
       "language-and-writing",
@@ -12881,10 +12885,10 @@
     "featured": false,
     "relatedFactIds": [
       "sign-language-complete-language",
+      "soqotri-language-no-alphabet",
       "writing-systems-sound-or-meaning",
       "accents-not-same-as-dialects",
-      "emojis-unicode-shared-code",
-      "loanwords-change-after-borrowing"
+      "emojis-unicode-shared-code"
     ],
     "themes": []
   },
@@ -12953,11 +12957,11 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
+      "soqotri-language-no-alphabet",
       "sign-language-complete-language",
       "alphabet-name-alpha-beta",
       "translation-more-than-word-swapping",
-      "hieroglyphics-always-phonetic",
-      "loanwords-change-after-borrowing"
+      "hieroglyphics-always-phonetic"
     ],
     "themes": [
       "language-and-writing",
@@ -12984,7 +12988,7 @@
       "writing-systems-sound-or-meaning",
       "ampersand-more-than-decoration",
       "brutalism-raw-concrete",
-      "hieroglyphics-always-phonetic"
+      "soqotri-language-no-alphabet"
     ],
     "themes": [
       "origins-and-naming",
@@ -13115,9 +13119,9 @@
     "relatedFactIds": [
       "punctuation-spaces-enabled-silent-reading",
       "hieroglyphics-always-phonetic",
+      "soqotri-language-no-alphabet",
       "loanwords-change-after-borrowing",
-      "morse-code-not-a-language",
-      "morse-code-sos-pattern"
+      "morse-code-not-a-language"
     ],
     "themes": []
   },
@@ -13137,10 +13141,10 @@
     "featured": false,
     "relatedFactIds": [
       "writing-systems-sound-or-meaning",
-      "sign-language-complete-language",
+      "soqotri-language-no-alphabet",
       "natural-language-processing-more-than-speech",
       "mars-search-for-life",
-      "hieroglyphics-always-phonetic",
+      "sign-language-complete-language",
       "mars-ai-driving"
     ],
     "themes": [
@@ -13619,7 +13623,7 @@
       "domes-push-outward",
       "skyscrapers-technology-coincidence",
       "gothic-architecture-not-gothic-tribes",
-      "gothic-architecture-pointed-up"
+      "urban-planning-industrial-pressure"
     ],
     "themes": [
       "record-extremes",
@@ -13728,7 +13732,6 @@
       "glass-buildings-curtain-wall",
       "bridges-five-basic-forms",
       "dead-sea-lowest-water",
-      "ravens-solve-problems-together",
       "irrigation-theory-debated"
     ],
     "themes": [
@@ -15124,6 +15127,7 @@
       "stonehenge-solstice-alignment",
       "oak-island-money-pit",
       "pompeii-preserved-city",
+      "hoq-cave-ancient-graffiti",
       "shoelaces-areni-one"
     ],
     "themes": [
@@ -16078,7 +16082,7 @@
       "blood-types-antigens",
       "blood-transfusions-began-before-types",
       "transplant-surgery-rejection",
-      "diagnostic-imaging-sees-inside"
+      "apollo13-haise-kidney-infection"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -16295,7 +16299,8 @@
       "blood-transfusions-began-before-types",
       "insulin-pancreas-beta-cells",
       "germ-theory-key-figures",
-      "blood-types-antigens"
+      "blood-types-antigens",
+      "antibiotics-target-bacteria"
     ],
     "themes": [
       "medicine-and-cures",
@@ -16592,7 +16597,7 @@
       "lakes-basins-hold-water",
       "shackleton-endurance-survival",
       "monsoons-winter-can-be-dry",
-      "caves-acidic-water"
+      "saturn-titan-lakes"
     ],
     "themes": [
       "record-extremes",
@@ -16724,7 +16729,7 @@
       "islands-surrounded-by-water",
       "volcanoes-shape-varies",
       "krakatoa-loudest-sound",
-      "coral-islands-two-formation-paths"
+      "mount-vesuvius-population-risk"
     ],
     "themes": [
       "plants-and-botany",
@@ -16800,10 +16805,10 @@
     "featured": false,
     "relatedFactIds": [
       "lakes-basins-hold-water",
+      "mount-vesuvius-population-risk",
       "islands-form-many-ways",
       "waterfalls-erosion-builds-and-breaks",
-      "coral-islands-two-formation-paths",
-      "volcanoes-tectonic-links"
+      "coral-islands-two-formation-paths"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -17150,8 +17155,8 @@
       "valleys-climate-influence",
       "glaciers-flow-slowly",
       "lakes-basins-hold-water",
-      "deserts-defined-by-dryness",
-      "oceans-have-hidden-landscapes"
+      "mount-vesuvius-population-risk",
+      "deserts-defined-by-dryness"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -17201,9 +17206,9 @@
     "relatedFactIds": [
       "volcanoes-shape-varies",
       "volcanoes-tectonic-links",
-      "oceans-have-hidden-landscapes",
+      "mount-vesuvius-population-risk",
       "pompeii-preserved-city",
-      "moon-volcanoes-io",
+      "pompeian-red-two-causes",
       "pompeii-vesuvius-burial"
     ],
     "themes": [
@@ -17230,9 +17235,9 @@
     "relatedFactIds": [
       "volcanoes-not-just-lava",
       "volcanoes-tectonic-links",
-      "islands-form-many-ways",
+      "mount-vesuvius-population-risk",
       "moon-volcanoes-io",
-      "deserts-surfaces-tell-stories"
+      "islands-form-many-ways"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -17256,11 +17261,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "volcanoes-shape-varies",
       "volcanoes-not-just-lava",
-      "mountains-erode-while-rising",
+      "volcanoes-shape-varies",
+      "mount-vesuvius-population-risk",
       "moon-volcanoes-io",
-      "mountains-come-in-belts"
+      "mountains-erode-while-rising"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -17365,9 +17370,9 @@
       "rainforests-small-area-huge-life",
       "rainforests-climate-regulators",
       "islands-form-many-ways",
+      "dragons-blood-tree-umbrella-species",
       "ants-queen-role",
-      "ants-social-colonies",
-      "beetles-most-diverse"
+      "ants-social-colonies"
     ],
     "themes": [
       "plants-and-botany",
@@ -17530,8 +17535,8 @@
       "caves-acidic-water",
       "caves-start-in-cracks",
       "valleys-climate-influence",
-      "mountains-made-by-tectonics",
-      "volcanoes-not-just-lava"
+      "dragons-blood-tree-fog-harvesting",
+      "mountains-made-by-tectonics"
     ],
     "themes": [
       "plants-and-botany",
@@ -18368,8 +18373,8 @@
       "hurricanes-tropical-cyclones",
       "hurricanes-eye-eyewall-rainbands",
       "clouds-cumulonimbus-storms",
-      "el-nino-trade-winds-weaken",
-      "lightning-rods-protection"
+      "lightning-rods-protection",
+      "el-nino-trade-winds-weaken"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -18636,8 +18641,8 @@
       "barcode-checkout-problem",
       "ballpoint-pen-air-force",
       "safety-pin-sold-rights",
-      "internet-commercial-expansion",
-      "batteries-primary-vs-storage"
+      "apollo13-mailbox-jettisoned-replica",
+      "internet-commercial-expansion"
     ],
     "themes": [
       "world-first",
@@ -18664,7 +18669,7 @@
       "safety-pin-debt",
       "television-kept-changing",
       "professional-sleepers-head-down",
-      "vacuum-of-space-leblanc-saliva-boiled",
+      "motion-acceleration-changing-velocity",
       "odor-judges-symptom-timing"
     ],
     "themes": [
@@ -18690,8 +18695,8 @@
     "featured": false,
     "relatedFactIds": [
       "velcro-hook-and-loop",
-      "ballpoint-pen-air-force",
       "post-it-notes-hymnal-bookmark",
+      "ballpoint-pen-air-force",
       "trademarks-identify-source",
       "trademarks-protect-brands",
       "branding-protected-by-trademarks"
@@ -18913,8 +18918,7 @@
       "wheel-spokes-chariots",
       "light-bulb-changed-night",
       "wilderness-survival-getting-lost-top-cause",
-      "butterflies-conservation-decline",
-      "beetles-eat-everything"
+      "butterflies-conservation-decline"
     ],
     "themes": [
       "exploration-and-navigation",
@@ -19361,8 +19365,8 @@
     "relatedFactIds": [
       "buddhism-four-noble-truths",
       "monasteries-spiritual-discipline",
-      "pilgrimage-many-destinations",
       "religion-symbols-matter",
+      "pilgrimage-many-destinations",
       "islam-hajj-pilgrimage"
     ],
     "themes": [
@@ -19621,8 +19625,8 @@
     "relatedFactIds": [
       "sacred-texts-scripture-authority",
       "religion-symbols-matter",
-      "buddhism-spread-across-asia",
       "islam-quran-foundation",
+      "buddhism-spread-across-asia",
       "sacred-texts-many-traditions"
     ],
     "themes": [
@@ -19864,8 +19868,8 @@
       "sacred-texts-written-and-oral",
       "sacred-texts-many-traditions",
       "buddhism-spread-across-asia",
-      "storytelling-older-than-writing",
-      "monotheism-one-god"
+      "monotheism-one-god",
+      "religion-symbols-matter"
     ],
     "themes": [
       "accidental-discovery",
@@ -21197,8 +21201,8 @@
     "relatedFactIds": [
       "blackbeard-queen-annes-revenge",
       "treasure-maps-navigation-intelligence",
-      "captain-kidd-quedagh-merchant",
       "pirate-ships-langrage",
+      "captain-kidd-quedagh-merchant",
       "pirate-codes-articles"
     ],
     "themes": [
@@ -21331,8 +21335,8 @@
       "captain-kidd-privateer",
       "treasure-maps-navigation-intelligence",
       "blackbeard-treasure-myth",
-      "atari-cartridge-shift",
-      "pirate-codes-articles"
+      "pirate-codes-articles",
+      "buccaneers-started-as-hunters"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -21678,8 +21682,8 @@
       "japanese-castles-stone-bases",
       "japanese-castles-adapted-over-time",
       "moats-obstacle-design",
-      "castles-not-palaces",
       "beetles-help-and-harm",
+      "castles-not-palaces",
       "medieval-castles-defense-layers"
     ],
     "themes": [
@@ -21897,7 +21901,8 @@
       "medieval-castles-defense-layers",
       "castles-motte-bailey-fast",
       "japanese-castles-stone-bases",
-      "japanese-castles-adapted-over-time"
+      "japanese-castles-adapted-over-time",
+      "fortresses-artillery-changed-design"
     ],
     "themes": [
       "war-and-conflict"
@@ -22215,8 +22220,8 @@
       "pompeii-preserved-city",
       "pompeii-excavation-source",
       "krakatoa-loudest-sound",
-      "volcanoes-not-just-lava",
-      "hindenburg-ended-airship-travel"
+      "pompeian-red-two-causes",
+      "volcanoes-not-just-lava"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -22243,9 +22248,9 @@
       "pompeii-vesuvius-burial",
       "pompeii-excavation-source",
       "krakatoa-loudest-sound",
+      "pompeian-red-two-causes",
       "volcanoes-not-just-lava",
-      "easter-island-moai-not-just-heads",
-      "shoelaces-areni-one"
+      "easter-island-moai-not-just-heads"
     ],
     "themes": [
       "hidden-underground",
@@ -22270,8 +22275,8 @@
       "pompeii-preserved-city",
       "pompeii-vesuvius-burial",
       "great-fire-london-pudding-lane",
-      "volcanoes-not-just-lava",
-      "great-molasses-flood-tank"
+      "pompeian-red-two-causes",
+      "volcanoes-not-just-lava"
     ],
     "themes": [
       "music-and-sound",
@@ -22564,7 +22569,7 @@
       "food-tasters-five-senses",
       "snake-milkers-research-venom",
       "snake-milkers-venom-collection",
-      "professional-sleepers-head-down"
+      "foley-artists-junk-stages"
     ],
     "themes": [
       "record-extremes",
@@ -22614,8 +22619,8 @@
       "snake-milkers-research-venom",
       "snake-milkers-face-shields",
       "pearl-divers-dangerous-work",
-      "professional-sleepers-head-down",
-      "foley-artists-junk-stages"
+      "foley-artists-junk-stages",
+      "professional-sleepers-head-down"
     ],
     "themes": [
       "human-body-quirks",
@@ -23228,8 +23233,8 @@
     "relatedFactIds": [
       "pencils-borrowdale-discovery",
       "forks-single-point",
-      "keys-ancient-pin-tumbler",
       "paper-clips-first-patent",
+      "keys-ancient-pin-tumbler",
       "zippers-name-from-overshoes"
     ],
     "themes": [
@@ -23327,8 +23332,8 @@
     "relatedFactIds": [
       "forks-replaced-table-knives",
       "forks-single-point",
-      "keys-ancient-pin-tumbler",
       "zippers-name-from-overshoes",
+      "keys-ancient-pin-tumbler",
       "mirrors-telescope-front-coating"
     ],
     "themes": [
@@ -24558,9 +24563,9 @@
     "relatedFactIds": [
       "black-basic-word",
       "black-carbon-pigment",
-      "orange-named-late",
+      "pink-not-always-girly",
       "generative-ai-new-content-prompts",
-      "pink-not-always-girly"
+      "orange-named-late"
     ],
     "themes": [
       "camouflage-and-mimicry",
@@ -24616,7 +24621,7 @@
       "black-absence-of-light",
       "indigo-synthetic-breakthrough",
       "gold-metal-as-pigment",
-      "green-middle-spectrum"
+      "purple-shellfish-origin"
     ],
     "themes": [
       "money-trade-and-value",
@@ -25021,8 +25026,8 @@
       "purple-fixed-dye",
       "purple-shellfish-origin",
       "green-before-blue",
-      "indigo-synthetic-breakthrough",
-      "red-longest-visible"
+      "pompeian-red-two-causes",
+      "indigo-synthetic-breakthrough"
     ],
     "themes": [
       "medicine-and-cures",
@@ -25101,7 +25106,8 @@
       "red-opposite-green",
       "purple-fixed-dye",
       "musical-instruments-human-universal",
-      "storytelling-older-than-writing"
+      "storytelling-older-than-writing",
+      "pompeian-red-two-causes"
     ],
     "themes": [
       "color-and-light",
@@ -25158,7 +25164,7 @@
       "white-lead-pigment",
       "pink-1980s-comeback",
       "dead-sea-too-salty-for-fish",
-      "red-opposite-green"
+      "green-before-blue"
     ],
     "themes": [
       "human-body-quirks"
@@ -26237,8 +26243,8 @@
       "blind-spots-optic-nerve",
       "blind-spots-brain-fills-in",
       "afterimages-retina-desensitized",
-      "motion-illusions-peripheral-drift",
-      "color-illusions-three-cones"
+      "milky-way-no-photo",
+      "motion-illusions-peripheral-drift"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -26620,8 +26626,8 @@
       "caesar-cipher-julius-caesar",
       "book-cipher-coordinates",
       "pigpen-freemason-cipher",
-      "book-cipher-book-as-key",
-      "steganography-hidden-message"
+      "apollo13-houston-misquote",
+      "book-cipher-book-as-key"
     ],
     "themes": [
       "codes-and-cryptography",
@@ -26670,10 +26676,10 @@
     "featured": false,
     "relatedFactIds": [
       "pigpen-symbol-substitution",
-      "navajo-code-talkers-indigenous-languages",
+      "one-time-pad-spy-booklets",
       "voynich-yale-library",
       "prime-numbers-cryptography",
-      "one-time-pad-spy-booklets",
+      "navajo-code-talkers-indigenous-languages",
       "voynich-unreadable-script"
     ],
     "themes": [
@@ -26811,7 +26817,7 @@
       "scytale-ancient-greek-cipher",
       "antikythera-predicted-eclipses",
       "olympic-games-ancient-greek-festival",
-      "caesar-cipher-letter-shift"
+      "pigpen-freemason-cipher"
     ],
     "themes": [
       "codes-and-cryptography",
@@ -26918,8 +26924,8 @@
       "caesar-cipher-letter-shift",
       "one-time-pad-hard-distribution",
       "steganography-hidden-message",
-      "book-cipher-coordinates",
-      "caesar-cipher-julius-caesar"
+      "caesar-cipher-julius-caesar",
+      "one-time-pad-unbreakable-rules"
     ],
     "themes": [
       "codes-and-cryptography"
@@ -28623,8 +28629,8 @@
       "bamboo-rare-flowering",
       "bamboo-giant-grass",
       "corpse-flower-giant-inflorescence",
+      "socotra-endemic-plants",
       "caffeine-naturally-bitter",
-      "potatoes-poisonous-berries",
       "light-bulb-filament"
     ],
     "themes": [
@@ -28731,8 +28737,7 @@
       "baobab-nine-species",
       "bonsai-living-sculptures",
       "sleep-paralysis-hallucinations",
-      "horseshoes-st-dunstan",
-      "giant-sequoias-tiny-seeds"
+      "horseshoes-st-dunstan"
     ],
     "themes": [
       "plants-and-botany",
@@ -28759,9 +28764,9 @@
       "cacti-spines-leaves",
       "cacti-living-fences",
       "corpse-flower-giant-inflorescence",
+      "socotra-endemic-plants",
       "caffeine-naturally-bitter",
-      "potatoes-poisonous-berries",
-      "wheel-early-wooden-disks"
+      "potatoes-poisonous-berries"
     ],
     "themes": [
       "plants-and-botany"
@@ -28784,9 +28789,9 @@
     "relatedFactIds": [
       "cacti-areoles",
       "cacti-living-fences",
-      "giant-sequoias-tiny-seeds",
+      "dragons-blood-tree-fog-harvesting",
       "chameleons-two-way-eyes",
-      "bonsai-living-sculptures"
+      "giant-sequoias-tiny-seeds"
     ],
     "themes": [
       "plants-and-botany",
@@ -29076,9 +29081,9 @@
     "relatedFactIds": [
       "giant-sequoias-fire-bark",
       "giant-sequoias-largest-trees",
+      "dragons-blood-tree-fog-harvesting",
       "bonsai-living-sculptures",
       "cacti-spines-leaves",
-      "baobab-tree-of-life",
       "mangroves-storm-barriers"
     ],
     "themes": [
@@ -29104,8 +29109,8 @@
       "corpse-flower-one-evening-stink",
       "bamboo-fast-growth",
       "cacti-areoles",
+      "socotra-endemic-plants",
       "potatoes-poisonous-berries",
-      "caffeine-naturally-bitter",
       "baobab-nine-species"
     ],
     "themes": [
@@ -29241,7 +29246,7 @@
       "baobab-tree-of-life",
       "giant-sequoias-tiny-seeds",
       "bridges-five-basic-forms",
-      "cacti-spines-leaves"
+      "dragons-blood-tree-fog-harvesting"
     ],
     "themes": [
       "plants-and-botany",
@@ -29376,8 +29381,8 @@
       "ants-queen-role",
       "ants-social-colonies",
       "termites-social-castes",
-      "bees-royal-jelly",
-      "fireflies-bioluminescence"
+      "rainforests-four-layers",
+      "bees-royal-jelly"
     ],
     "themes": [
       "architecture-and-structures",
@@ -29489,7 +29494,7 @@
       "beetles-eat-everything",
       "dragonflies-aquatic-nymphs",
       "gps-satellite-positioning",
-      "wilderness-survival-getting-lost-top-cause",
+      "apollo13-earth-horizon-navigation",
       "bees-pollination"
     ],
     "themes": [
@@ -29895,8 +29900,8 @@
       "beetles-most-diverse",
       "beetles-help-and-harm",
       "fireflies-are-beetles",
+      "apollo13-earth-horizon-navigation",
       "wilderness-survival-getting-lost-top-cause",
-      "gps-satellite-positioning",
       "butterflies-conservation-decline"
     ],
     "themes": [
@@ -30252,7 +30257,7 @@
       "giants-causeway-finn-mccool",
       "pamukkale-thermal-spa",
       "dead-sea-lowest-water",
-      "paris-catacombs-cemetery-crisis"
+      "dead-sea-too-salty-for-fish"
     ],
     "themes": [
       "hidden-underground",
@@ -30498,7 +30503,7 @@
       "pamukkale-cotton-palace",
       "dead-sea-lowest-water",
       "paris-catacombs-cemetery-crisis",
-      "door-to-hell-burning-crater"
+      "fly-geyser-conservation"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -30523,8 +30528,9 @@
       "socotra-reptiles-snails",
       "socotra-marine-diversity",
       "dead-sea-too-salty-for-fish",
-      "cacti-areoles",
-      "caffeine-naturally-bitter"
+      "dragons-blood-tree-fog-harvesting",
+      "caffeine-naturally-bitter",
+      "bamboo-fast-growth"
     ],
     "themes": [
       "plants-and-botany",
@@ -30761,8 +30767,8 @@
       "calendars-track-cycles",
       "calendars-reform",
       "coins-historical-data",
-      "nightmares-common-adults",
-      "branding-memory-tool"
+      "branding-memory-tool",
+      "nightmares-common-adults"
     ],
     "themes": [
       "origins-and-naming",
@@ -31434,8 +31440,8 @@
       "vacuum-of-space-swell-not-explode",
       "hysterical-strength-switches-off-pain",
       "space-race-sputnik",
-      "asteroids-dart-changed-orbit",
-      "velcro-hook-and-loop"
+      "shackleton-endurance-survival",
+      "asteroids-dart-changed-orbit"
     ],
     "themes": [
       "disaster-and-catastrophe"
@@ -31571,8 +31577,8 @@
       "hypothermia-clouds-judgment",
       "hypothermia-babies-lose-heat-fastest",
       "wilderness-survival-cold-not-starvation",
-      "sloths-slow-for-survival",
-      "hibernation-bears-misleading"
+      "hibernation-bears-misleading",
+      "sloths-slow-for-survival"
     ],
     "themes": [
       "energy-and-power",
@@ -31795,7 +31801,7 @@
       "wilderness-survival-cold-not-starvation",
       "hypothermia-clouds-judgment",
       "gps-satellite-positioning",
-      "butterflies-conservation-decline",
+      "apollo13-earth-horizon-navigation",
       "lewis-clark-corps-discovery"
     ],
     "themes": [
@@ -31965,7 +31971,7 @@
       "g-force-stapp-stop-broke-ribs",
       "freediving-urge-is-co2-not-oxygen",
       "hypothermia-babies-lose-heat-fastest",
-      "heatstroke-sweat-only-defense"
+      "g-force-stapp-632-mph-sled"
     ],
     "themes": [
       "human-body-quirks",
@@ -31991,13 +31997,550 @@
     "relatedFactIds": [
       "wilderness-survival-cold-not-starvation",
       "wilderness-survival-day-hikers-most-rescued",
-      "giraffes-spread-legs-drink",
-      "molecules-smallest-identity-unit",
-      "vacuum-of-space-suffocate-not-freeze"
+      "vacuum-of-space-suffocate-not-freeze",
+      "vacuum-of-space-leblanc-saliva-boiled",
+      "surviving-a-fall-vulovic-33000-feet"
     ],
     "themes": [
       "food-and-cuisine",
       "self-sacrifice"
+    ]
+  },
+  {
+    "id": "soqotri-language-no-alphabet",
+    "headline": "An Island Language Didn't Get a Written Alphabet Until 2024",
+    "body": "On the remote island of Socotra, off Yemen's coast, people have spoken Soqotri for centuries — but it has never had a standard written form. Without an alphabet, the language can't be taught in schools, used in official records, or reliably passed to the next generation. It took until September 2024 for that to start changing, when UNESCO and local scholars held the island's first-ever workshop to invent a Soqotri alphabet from scratch — working out, sound by sound, how to write a language that was never meant to be written.",
+    "summary": "A living language spoken for centuries, with zero written form — until a 2024 workshop tried to invent one from scratch.",
+    "categoryId": "languages",
+    "topic": "Soqotri Language",
+    "tags": [
+      "soqotri",
+      "socotra",
+      "language",
+      "unesco"
+    ],
+    "readTimeSeconds": 62,
+    "featured": false,
+    "relatedFactIds": [
+      "writing-systems-sound-or-meaning",
+      "sign-language-complete-language",
+      "natural-language-processing-more-than-speech",
+      "inca-quipu",
+      "alphabet-name-alpha-beta",
+      "translation-more-than-word-swapping"
+    ],
+    "themes": [
+      "language-and-writing",
+      "invention-and-breakthrough",
+      "music-and-sound",
+      "numbers-and-mathematics"
+    ]
+  },
+  {
+    "id": "hoq-cave-ancient-graffiti",
+    "headline": "Traders From India, Ethiopia, and Arabia All Left Graffiti in One Cave",
+    "body": "Deep inside a cave on the remote island of Socotra, centuries of rock art record a surprising cast of visitors. The carvings and inscriptions were left by traders from India, Ethiopia, and southern Arabia, drawn to the island by its exotic resins. Word of Socotra's incense spread even further, reaching Egypt, Greece, and Rome in the ancient world. Today, that scratched-in graffiti is one of archaeologists' best clues for piecing together the island's role on ancient trade routes across the Indian Ocean.",
+    "summary": "Traders from three different ancient civilizations left their marks on the exact same cave wall, half a world away from home.",
+    "categoryId": "ancient-civilizations",
+    "topic": "Hoq Cave",
+    "tags": [
+      "hoq-cave",
+      "socotra",
+      "ancient-trade",
+      "archaeology"
+    ],
+    "readTimeSeconds": 57,
+    "featured": false,
+    "relatedFactIds": [
+      "phoenicians-purple-dye",
+      "indus-undeciphered-script",
+      "easter-island-moai-not-just-heads",
+      "pompeii-preserved-city",
+      "ancient-egypt-3000-years"
+    ],
+    "themes": [
+      "hidden-underground",
+      "money-trade-and-value"
+    ]
+  },
+  {
+    "id": "dragons-blood-tree-fog-harvesting",
+    "headline": "The Dragon's Blood Tree's Umbrella Shape Turns Fog Into Water",
+    "body": "Most trees pull water up from the soil through their roots. Socotra's dragon's blood tree can do the reverse. Its odd, upside-down umbrella crown is shaped to catch fog and mist rolling across the island's high plateaus, then channel that moisture down the trunk and into the ground below. Researchers estimate a single tree can add hundreds of liters of water to the soil in a year — far more than the island's scarce rainfall provides on its own.",
+    "summary": "It doesn't just survive the desert — it single-handedly waters it.",
+    "categoryId": "famous-trees-plants",
+    "topic": "Dragon's Blood Tree",
+    "tags": [
+      "dragons-blood-tree",
+      "socotra",
+      "adaptation",
+      "water"
+    ],
+    "readTimeSeconds": 56,
+    "featured": false,
+    "relatedFactIds": [
+      "dragons-blood-tree-umbrella-species",
+      "cacti-spines-leaves",
+      "giant-sequoias-tiny-seeds",
+      "socotra-endemic-plants",
+      "giraffes-spread-legs-drink",
+      "chameleons-two-way-eyes"
+    ],
+    "themes": [
+      "plants-and-botany",
+      "hidden-underground",
+      "human-body-quirks"
+    ]
+  },
+  {
+    "id": "dragons-blood-tree-umbrella-species",
+    "headline": "Half of Socotra's Reptiles Live in One Kind of Tree",
+    "body": "The dragon's blood tree does more than survive Socotra's harsh climate — it holds the island's ecosystem together. More than half of Socotra's native reptile species live on or around these trees, and dozens of local plant species, including several found nowhere else on Earth, grow only in the shade beneath them. Lose the tree, and an entire community of dependent species goes with it. Ecologists call it an 'umbrella species' for exactly that reason — not for its shape, but for what it shelters.",
+    "summary": "It's not just alien-looking — an entire ecosystem depends on its shade.",
+    "categoryId": "famous-trees-plants",
+    "topic": "Dragon's Blood Tree",
+    "tags": [
+      "dragons-blood-tree",
+      "socotra",
+      "ecosystem",
+      "biodiversity"
+    ],
+    "readTimeSeconds": 57,
+    "featured": false,
+    "relatedFactIds": [
+      "dragons-blood-tree-fog-harvesting",
+      "cacti-areoles",
+      "venus-flytrap-carolina-native",
+      "socotra-endemic-plants",
+      "rainforests-four-layers",
+      "elephants-footprint-ecosystems"
+    ],
+    "themes": [
+      "plants-and-botany",
+      "human-body-quirks",
+      "survival-adaptation"
+    ]
+  },
+  {
+    "id": "herculaneum-scrolls-ai-unwrapped",
+    "headline": "AI Can Now Read Scrolls That a Volcano Sealed Shut in 79 AD",
+    "body": "When Mount Vesuvius buried the Roman town of Herculaneum, it also entombed a library of papyrus scrolls under 60 feet of ash. The heat didn't burn them — it baked them into blackened, brittle lumps too fragile to unroll without destroying them. For centuries, scholars who tried anyway mostly ruined what they touched. Now, particle accelerators scan the scrolls in 3D at a resolution finer than a human hair, and AI traces the papyrus fibers and ink to 'unwrap' the text virtually, without ever touching the actual object.",
+    "summary": "A volcano sealed them shut in 79 AD. A supercomputer just started reading them anyway.",
+    "categoryId": "technology",
+    "topic": "Herculaneum Scrolls",
+    "tags": [
+      "herculaneum",
+      "vesuvius-challenge",
+      "artificial-intelligence",
+      "archaeology"
+    ],
+    "readTimeSeconds": 60,
+    "featured": false,
+    "relatedFactIds": [
+      "herculaneum-scrolls-vesuvius-challenge-prize",
+      "captcha-checkbox-movement",
+      "data-centers-avoid-downtime",
+      "pompeii-preserved-city",
+      "easter-island-moai-not-just-heads"
+    ],
+    "themes": [
+      "automation-robots-ai",
+      "hidden-underground",
+      "disaster-and-catastrophe",
+      "food-and-cuisine"
+    ]
+  },
+  {
+    "id": "herculaneum-scrolls-vesuvius-challenge-prize",
+    "headline": "A $1.8 Million Contest Is Unlocking Scrolls Sealed by a Volcano",
+    "body": "For years, one scientist worked almost alone trying to virtually unroll the Herculaneum scrolls, sealed since Vesuvius erupted in 79 AD. In 2023, he gave up trying to solve it by himself: he released all his scanning data and code for free and helped launch the Vesuvius Challenge, a public contest offering cash prizes to anyone who could improve the AI reading the scrolls. It has since paid out more than $1.8 million in prizes — and helped reveal text nobody had read in nearly 2,000 years.",
+    "summary": "He couldn't crack the code alone, so he turned it into a contest — with real money on the line.",
+    "categoryId": "technology",
+    "topic": "Herculaneum Scrolls",
+    "tags": [
+      "herculaneum",
+      "vesuvius-challenge",
+      "technology",
+      "crowdsourcing"
+    ],
+    "readTimeSeconds": 59,
+    "featured": false,
+    "relatedFactIds": [
+      "herculaneum-scrolls-ai-unwrapped",
+      "captcha-checkbox-movement",
+      "data-centers-avoid-downtime",
+      "world-wide-web-cern-1989",
+      "qr-codes-car-parts"
+    ],
+    "themes": [
+      "automation-robots-ai",
+      "money-trade-and-value",
+      "collective-behavior",
+      "disaster-and-catastrophe"
+    ]
+  },
+  {
+    "id": "pliny-younger-skipped-rescue",
+    "headline": "Pliny the Younger Chose Homework Over a Rescue Mission — and Lived",
+    "body": "In 79 AD, as Mount Vesuvius erupted, the Roman commander Pliny the Elder prepared his ships to sail straight toward the danger and rescue people trapped near the volcano. He invited his teenage nephew to come along. The nephew, Pliny the Younger, chose to stay behind and keep studying instead. That decision saved his life — his uncle sailed into the eruption and died the next day, while the nephew survived to write the only eyewitness account of the disaster that still exists today.",
+    "summary": "One of them sailed toward the volcano. The other stayed home to study — and that's the one we still hear from.",
+    "categoryId": "literature",
+    "topic": "Pliny the Younger",
+    "tags": [
+      "pliny-the-younger",
+      "pompeii",
+      "vesuvius",
+      "ancient-rome"
+    ],
+    "readTimeSeconds": 56,
+    "featured": false,
+    "relatedFactIds": [
+      "storytelling-griots-memory",
+      "novels-long-prose-worlds",
+      "mount-vesuvius-population-risk",
+      "pompeii-preserved-city",
+      "legends-travel-and-change",
+      "mount-vesuvius-plinian-eruption-term"
+    ],
+    "themes": [
+      "disaster-and-catastrophe",
+      "psychology-and-behavior"
+    ]
+  },
+  {
+    "id": "pompeian-red-two-causes",
+    "headline": "The Same Black Stains on Pompeii's Walls Have Two Different Causes",
+    "body": "Pompeii's frescoes were often painted with cinnabar, a brilliant red mercury pigment — but today many of those reds look black instead. For decades, that blackening was blamed entirely on the 79 AD eruption's toxic volcanic gases. But chemical analysis found a twist: some of the darkest patches were on fragments buried and protected before the eruption even happened. Their black color came from something else entirely — a mineral crust of manganese and iron that built up over time, with the volcano never involved.",
+    "summary": "Not every black mark on Pompeii's walls is the volcano's fault — some formed with no eruption involved at all.",
+    "categoryId": "colors",
+    "topic": "Pompeian Red",
+    "tags": [
+      "pompeii",
+      "cinnabar",
+      "pigments",
+      "chemistry"
+    ],
+    "readTimeSeconds": 55,
+    "featured": false,
+    "relatedFactIds": [
+      "red-early-color-word",
+      "indigo-air-oxidation",
+      "pompeii-vesuvius-burial",
+      "volcanoes-not-just-lava",
+      "white-newton-prism",
+      "pompeii-preserved-city"
+    ],
+    "themes": [
+      "color-and-light",
+      "disaster-and-catastrophe",
+      "hidden-underground",
+      "materials-and-chemistry"
+    ]
+  },
+  {
+    "id": "mount-vesuvius-plinian-eruption-term",
+    "headline": "Explosive Volcanic Eruptions Are Named After a Roman Letter-Writer",
+    "body": "When Mount Vesuvius erupted in 79 AD, a Roman named Pliny the Younger watched from across the bay and later described the shape of the eruption's massive ash cloud in a letter. His description was so precise and widely read that volcanologists eventually adopted his name for the phenomenon: today, that type of large, explosive eruption is officially called 'Plinian,' and the term is used for volcanoes anywhere in the world, not just Vesuvius.",
+    "summary": "A 2,000-year-old letter is the reason volcanologists have a name for this kind of eruption at all.",
+    "categoryId": "geography",
+    "topic": "Mount Vesuvius",
+    "tags": [
+      "vesuvius",
+      "volcanology",
+      "pliny",
+      "geography"
+    ],
+    "readTimeSeconds": 51,
+    "featured": false,
+    "relatedFactIds": [
+      "mount-vesuvius-population-risk",
+      "islands-form-many-ways",
+      "waterfalls-erosion-builds-and-breaks",
+      "pliny-younger-skipped-rescue",
+      "lakes-can-mix-vertically"
+    ],
+    "themes": [
+      "disaster-and-catastrophe",
+      "origins-and-naming"
+    ]
+  },
+  {
+    "id": "mount-vesuvius-population-risk",
+    "headline": "About 800,000 People Live on the Slopes of One of Earth's Most Dangerous Volcanoes",
+    "body": "Mount Vesuvius hasn't erupted since 1944, but it's far from harmless. Naples and its surrounding towns are home to roughly 3 million people, and about 800,000 of them live directly on the volcano's slopes. That makes Vesuvius one of the most dangerous volcanoes on the planet — not because it's especially active right now, but because so many people are living in the path of its next eruption. Volcanologists keep it under constant watch, tracking earthquakes, ground movement, and gas seeping from its crater.",
+    "summary": "It hasn't erupted in 80 years — and that's exactly why 800,000 people living on it should keep watching the sky.",
+    "categoryId": "geography",
+    "topic": "Mount Vesuvius",
+    "tags": [
+      "vesuvius",
+      "naples",
+      "volcanoes",
+      "geography"
+    ],
+    "readTimeSeconds": 58,
+    "featured": false,
+    "relatedFactIds": [
+      "mount-vesuvius-plinian-eruption-term",
+      "volcanoes-tectonic-links",
+      "volcanoes-not-just-lava",
+      "moon-volcanoes-io",
+      "pliny-younger-skipped-rescue",
+      "islands-form-many-ways"
+    ],
+    "themes": [
+      "disaster-and-catastrophe",
+      "stars-and-cosmos"
+    ]
+  },
+  {
+    "id": "apollo13-earth-horizon-navigation",
+    "headline": "With No Navigation, Apollo 13's Crew Aimed Home Using Earth's Edge",
+    "body": "After an explosion crippled Apollo 13, the crew's navigation system was useless — debris floating around the spacecraft made it impossible to sight stars with the onboard sextant. To aim the ship back toward Earth, the astronauts improvised: they used the visible edge of the Earth itself, where the planet meets the black of space, as a manual reference point to align the spacecraft. That crude fix let them perform the precise engine burn needed to bring them home safely.",
+    "summary": "Their computer was useless, so they aimed for home using nothing but the edge of the Earth.",
+    "categoryId": "space",
+    "topic": "Apollo 13",
+    "tags": [
+      "apollo-13",
+      "nasa",
+      "navigation",
+      "space"
+    ],
+    "readTimeSeconds": 57,
+    "featured": false,
+    "relatedFactIds": [
+      "apollo13-explosion-lifeboat",
+      "apollo13-houston-misquote",
+      "moon-europa-ocean",
+      "apollo13-mailbox-co2-fix",
+      "apollo13-haise-kidney-infection",
+      "voyager-program-giant-planet-tour"
+    ],
+    "themes": [
+      "stars-and-cosmos",
+      "energy-and-power",
+      "exploration-and-navigation",
+      "computing-and-web"
+    ]
+  },
+  {
+    "id": "apollo13-explosion-lifeboat",
+    "headline": "Apollo 13's Crew Had 15 Minutes of Power to Escape Their Dying Ship",
+    "body": "Moments after finishing a TV broadcast on April 13, 1970, an explosion tore through the Apollo 13 spacecraft, destroying a fuel cell and an oxygen tank. Mission Control quickly declared the command module 'mortally wounded.' With only 15 minutes of power left, astronauts Jim Lovell, Jack Swigert, and Fred Haise scrambled into the attached lunar module, using it as a lifeboat for the rest of the flight home.",
+    "summary": "Their spacecraft was declared 'mortally wounded' — with 15 minutes of power left to escape it.",
+    "categoryId": "space",
+    "topic": "Apollo 13",
+    "tags": [
+      "apollo-13",
+      "nasa",
+      "spaceflight",
+      "moon"
+    ],
+    "readTimeSeconds": 46,
+    "featured": false,
+    "relatedFactIds": [
+      "apollo13-earth-horizon-navigation",
+      "apollo13-houston-misquote",
+      "asteroids-less-mass-than-moon",
+      "apollo13-haise-kidney-infection",
+      "apollo13-reentry-blackout-87-seconds"
+    ],
+    "themes": [
+      "energy-and-power",
+      "stars-and-cosmos",
+      "human-body-quirks",
+      "flight-and-aviation"
+    ]
+  },
+  {
+    "id": "apollo13-houston-misquote",
+    "headline": "Apollo 13's Famous Line Wasn't 'Houston, We Have a Problem'",
+    "body": "The most famous line from Apollo 13 gets misquoted constantly. What astronaut Jack Swigert actually radioed to Mission Control was 'Houston, we've had a problem here' — past tense, not present. Commander Jim Lovell followed up moments later with an even less quotable line: 'We've had a main B bus undervolt,' reporting that one of the spacecraft's two main electrical circuits had lost power. The real crisis started with a technical report, not a movie-ready one-liner.",
+    "summary": "Movies love 'Houston, we have a problem.' Nobody actually said that.",
+    "categoryId": "space",
+    "topic": "Apollo 13",
+    "tags": [
+      "apollo-13",
+      "nasa",
+      "pop-culture",
+      "misquotes"
+    ],
+    "readTimeSeconds": 53,
+    "featured": false,
+    "relatedFactIds": [
+      "apollo13-explosion-lifeboat",
+      "apollo13-earth-horizon-navigation",
+      "uranus-coldest-planet",
+      "apollo13-haise-kidney-infection",
+      "caesar-cipher-letter-shift"
+    ],
+    "themes": [
+      "energy-and-power",
+      "lost-and-rediscovered",
+      "storytelling-and-narrative"
+    ]
+  },
+  {
+    "id": "apollo13-mailbox-co2-fix",
+    "headline": "Duct Tape and a Plastic Bag Kept Apollo 13's Air Breathable",
+    "body": "When the crippled Apollo 13 spacecraft forced three astronauts into a lunar module built for two, carbon dioxide started building up faster than the module's air filters could handle — and the only spare filters on board were the wrong shape. Engineers on the ground worked out a fix using only what the crew had with them: a plastic bag, cardboard, a spacesuit hose, and duct tape. The astronauts built the device, nicknamed 'the mailbox,' and it worked perfectly for the rest of the trip home.",
+    "summary": "Three lives depended on an air filter jury-rigged from duct tape and a plastic bag.",
+    "categoryId": "engineering",
+    "topic": "Apollo 13 CO2 Scrubber",
+    "tags": [
+      "apollo-13",
+      "engineering",
+      "nasa",
+      "improvisation"
+    ],
+    "readTimeSeconds": 58,
+    "featured": false,
+    "relatedFactIds": [
+      "apollo13-mailbox-jettisoned-replica",
+      "suspension-bridges-tacoma-narrows",
+      "earthquake-engineering-strong-joints",
+      "apollo13-earth-horizon-navigation",
+      "apollo13-haise-kidney-infection",
+      "apollo-guidance-computer-rope-memory"
+    ],
+    "themes": [
+      "architecture-and-structures",
+      "computing-and-web"
+    ]
+  },
+  {
+    "id": "apollo13-mailbox-jettisoned-replica",
+    "headline": "The Real Device That Saved Apollo 13 Was Jettisoned Into Space",
+    "body": "The actual 'mailbox' device that kept Apollo 13's astronauts breathing was never recovered — it was left aboard the lunar module, which was jettisoned into the atmosphere before splashdown and destroyed. In 1975, the Smithsonian commissioned a faithful replica built by the original engineers. Decades later, the replica itself needed emergency conservation work: the duct tape's adhesive had failed and the plastic bag had torn under the weight of its own hose.",
+    "summary": "The object that saved three lives doesn't exist anymore — even its museum replica needed rescuing.",
+    "categoryId": "engineering",
+    "topic": "Apollo 13 CO2 Scrubber",
+    "tags": [
+      "apollo-13",
+      "smithsonian",
+      "museum",
+      "engineering"
+    ],
+    "readTimeSeconds": 50,
+    "featured": false,
+    "relatedFactIds": [
+      "apollo13-mailbox-co2-fix",
+      "suspension-bridges-tacoma-narrows",
+      "gears-speed-torque-tradeoff",
+      "barcode-upc-adoption",
+      "steel-iron-carbon-alloy"
+    ],
+    "themes": []
+  },
+  {
+    "id": "apollo-guidance-computer-rope-memory",
+    "headline": "Apollo's Flight Software Was Woven by Hand, Not Typed",
+    "body": "Before a line of Apollo code could fly, it had to be physically woven into existence. Once engineers finalized a program, factory workers — mostly women who'd previously worked in New England textile mills — threaded copper wires through tiny magnetic rings by hand, one wire per bit, to build what was called 'rope memory.' It was slow and exacting work, but it produced a memory chip tough enough to survive spaceflight without a single glitch.",
+    "summary": "Real astronauts flew to the Moon on code that was literally hand-woven by textile workers.",
+    "categoryId": "technology",
+    "topic": "Apollo Guidance Computer",
+    "tags": [
+      "apollo-guidance-computer",
+      "margaret-hamilton",
+      "nasa",
+      "technology"
+    ],
+    "readTimeSeconds": 51,
+    "featured": false,
+    "relatedFactIds": [
+      "usb-imac-mainstream",
+      "wi-fi-signals-bounce",
+      "apollo13-earth-horizon-navigation",
+      "apollo13-mailbox-co2-fix",
+      "internet-arpanet-first-connection"
+    ],
+    "themes": [
+      "flight-and-aviation",
+      "computing-and-web",
+      "stars-and-cosmos",
+      "survival-adaptation"
+    ]
+  },
+  {
+    "id": "apollo13-haise-kidney-infection",
+    "headline": "An Apollo 13 Astronaut Developed a Kidney Infection Mid-Flight",
+    "body": "Trapped in a freezing, dehydrated lunar module during Apollo 13's crisis, astronaut Fred Haise grew increasingly ill over the mission's final days, running a fever by the last one. Doctors later concluded he'd developed a urinary tract infection, likely triggered by dehydration and the physical stress of the ordeal, that spread toward his kidneys and caused intense pain. Haise recovered fully after treatment on Earth — but flight surgeons believe a longer mission could have turned it into a much more serious problem.",
+    "summary": "One astronaut's body nearly became Apollo 13's second emergency.",
+    "categoryId": "medicine",
+    "topic": "Apollo 13 Crew Health",
+    "tags": [
+      "apollo-13",
+      "fred-haise",
+      "nasa",
+      "medicine"
+    ],
+    "readTimeSeconds": 56,
+    "featured": false,
+    "relatedFactIds": [
+      "anesthesia-made-surgery-bearable",
+      "anesthesia-not-always-unconscious",
+      "apollo13-explosion-lifeboat",
+      "apollo13-reentry-blackout-87-seconds",
+      "vaccines-train-immune-system",
+      "apollo13-earth-horizon-navigation"
+    ],
+    "themes": [
+      "medicine-and-cures",
+      "extreme-temperature",
+      "flight-and-aviation"
+    ]
+  },
+  {
+    "id": "apollo13-reentry-blackout-87-seconds",
+    "headline": "Apollo 13 Went Silent 87 Seconds Longer Than Any Mission Before It",
+    "body": "Every Apollo re-entry included a routine few minutes of radio silence, when heat from the atmosphere ionizes the air around the capsule and blocks radio signals — and until Apollo 13, that blackout was predictable almost to the second. Apollo 13's crew stayed silent 87 seconds longer than expected, the longest blackout of the program. As the extra seconds ticked by with no signal, Mission Control ran through worst-case scenarios: a shredded heat shield, a failed hatch, frozen parachutes. Flight Director Gene Kranz later called it 'the toughest minute and a half we ever had.'",
+    "summary": "Every Apollo re-entry blacked out for a predictable few minutes — until Apollo 13 stayed silent 87 seconds too long.",
+    "categoryId": "physics",
+    "topic": "Apollo 13 Re-Entry",
+    "tags": [
+      "apollo-13",
+      "nasa",
+      "reentry",
+      "mission-control"
+    ],
+    "readTimeSeconds": 57,
+    "featured": false,
+    "relatedFactIds": [
+      "apollo13-reentry-shallow-angle-cause",
+      "quantum-mechanics-microscopic-predictions",
+      "sound-human-frequency-range",
+      "apollo13-haise-kidney-infection",
+      "apollo13-explosion-lifeboat"
+    ],
+    "themes": [
+      "record-extremes",
+      "flight-and-aviation"
+    ]
+  },
+  {
+    "id": "apollo13-reentry-shallow-angle-cause",
+    "headline": "A Slow Water Leak May Explain Apollo 13's Longest Silence",
+    "body": "For four days, Apollo 13's lunar module vented water vapor into space to cool its electronics, since the crew used it as a lifeboat far longer than the system was designed for. Commander Jim Lovell believes that extra venting acted like a tiny, invisible thruster, nudging the spacecraft onto a shallower path home and stretching its communications blackout to the longest of the program — though NASA never found a fully confirmed explanation. The shallower angle had one lucky side effect: it also made Apollo 13's splashdown one of the most accurate of any Apollo mission.",
+    "summary": "Nobody at NASA ever fully explained it, but the leading theory ties Apollo 13's scariest silence to its most accurate landing.",
+    "categoryId": "physics",
+    "topic": "Apollo 13 Re-Entry",
+    "tags": [
+      "apollo-13",
+      "nasa",
+      "mission-mystery",
+      "reentry"
+    ],
+    "readTimeSeconds": 58,
+    "featured": false,
+    "relatedFactIds": [
+      "apollo13-reentry-blackout-87-seconds",
+      "inertia-mass-resists-acceleration",
+      "inertia-no-net-force",
+      "apollo13-earth-horizon-navigation",
+      "apollo13-haise-kidney-infection"
+    ],
+    "themes": [
+      "record-extremes",
+      "motion-and-force"
     ]
   }
 ]
