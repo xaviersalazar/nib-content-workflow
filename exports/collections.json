@@ -80,7 +80,7 @@
       "paris-catacombs-night-transfers",
       "ancient-china-terracotta-army",
       "atari-cartridge-shift",
-      "caves-start-in-cracks",
+      "caves-acidic-water",
       "internet-undersea-cables"
     ]
   },
@@ -94,8 +94,6 @@
       "navajo-code-talkers-indigenous-languages",
       "prime-numbers-cryptography",
       "morse-code-sos-pattern",
-      "voynich-unreadable-script",
-      "business-cards-first-impression",
       "easter-eggs-konami-code-testing",
       "steganography-hidden-message"
     ]
@@ -107,7 +105,6 @@
     "icon": "hourglass",
     "factIds": [
       "sharks-older-than-dinosaurs",
-      "email-more-than-text",
       "ancient-temples-sacred-design",
       "dollar-sign-adopted-1785",
       "hot-air-balloons-hot-air-lighter",
@@ -122,8 +119,6 @@
     "icon": "exclamationmark.triangle",
     "factIds": [
       "titanic-lifeboat-capacity-gap",
-      "great-chicago-fire-wooden-city",
-      "dinosaur-extinction-asteroid-theory",
       "krakatoa-global-sunsets",
       "fukushima-hydrogen-explosions",
       "hindenburg-thirty-four-seconds"
@@ -177,7 +172,6 @@
     "subtitle": "How sound bends, tricks, and moves us.",
     "icon": "waveform",
     "factIds": [
-      "waves-add-or-cancel",
       "sound-human-frequency-range",
       "musical-instruments-human-universal",
       "dolphins-echoes",
@@ -194,7 +188,6 @@
       "pyramids-sloping-sides",
       "concrete-steel-reinforcement",
       "keys-ancient-pin-tumbler",
-      "inca-suspension-bridges",
       "woolly-mammoths-late-islands",
       "domes-arch-turned-space"
     ]
@@ -206,7 +199,6 @@
     "icon": "eye",
     "factIds": [
       "forced-perspective-camera-distance",
-      "rainbows-water-droplet-prism",
       "blue-short-wavelength",
       "depth-perception-learned-cues",
       "pareidolia-survival-skill",
@@ -222,7 +214,6 @@
       "friday-13-country-variations",
       "black-cats-control-uncertainty",
       "placebo-effect-expectation",
-      "turkish-coffee-fortune-grounds",
       "oak-island-flooded-shaft",
       "horseshoes-st-dunstan"
     ]
@@ -250,7 +241,6 @@
       "gut-microbiome-unique-network",
       "jellyfish-hitchhiking-crabs",
       "ants-chemical-communication",
-      "wolves-older-siblings-help",
       "trade-crosses-borders",
       "game-theory-not-winning-alone"
     ]
@@ -275,9 +265,7 @@
     "subtitle": "Our slippery grip on time.",
     "icon": "clock.arrow.circlepath",
     "factIds": [
-      "mesopotamia-sixty-minute-hour",
       "calendars-not-one-system",
-      "magellan-crew-circumnavigation",
       "time-hard-to-define",
       "timekeeping-mechanical-clocks"
     ]
@@ -332,9 +320,7 @@
       "bluetooth-direct-device-talk",
       "mario-landlord-name",
       "vaccines-jenner-smallpox",
-      "zippers-name-from-overshoes",
-      "pasta-vermicelli-little-worms",
-      "branding-memory-tool"
+      "pasta-vermicelli-little-worms"
     ]
   },
   {
@@ -346,7 +332,6 @@
       "ai-ethics-help-harm",
       "medical-robots-surgeon-controlled",
       "autopilot-complex-flight-plans",
-      "mars-ai-driving",
       "reinforcement-learning-reward-signal"
     ]
   },
@@ -372,8 +357,6 @@
     "factIds": [
       "bioluminescence-shrimp-spit-light",
       "aurora-charged-particles",
-      "energy-joule-force-distance",
-      "diagnostic-imaging-changed-diagnosis",
       "laundry-detergent-suspends-dirt",
       "light-bulb-not-one-inventor-story"
     ]
@@ -388,7 +371,6 @@
       "penguins-fathers-incubate",
       "door-to-hell-extremophiles",
       "deserts-have-specialized-life",
-      "antibiotics-resistance-evolution",
       "shackleton-nimrod-near-pole"
     ]
   },
@@ -410,7 +392,7 @@
   {
     "id": "too-hot-to-handle",
     "title": "Too Hot to Handle",
-    "subtitle": "The sun, the lasers, and the mountain that ended a city — heat that doesn't ask permission.",
+    "subtitle": "The sun, the lasers, and the mountain that ended a city \u2014 heat that doesn't ask permission.",
     "icon": "flame.fill",
     "factIds": [
       "red-giants-sun-future",

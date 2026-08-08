@@ -1,6 +1,6 @@
 # Nib Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-07-30 · 1177 facts · 56 categories
+> Last updated: 2026-08-07 · 996 facts · 56 categories
 > (Keep this line current — bump it every time a category is finished or the library changes. See step 9 of the standing pattern.)
 
 ## What this is
@@ -28,10 +28,131 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   verified (see the 2026-07-29 entry below); kept for provenance, not something a new session needs to
   read to get oriented.
 
-## Current state (2026-07-30)
-- **1177 facts · 56 categories · 28 collections · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
-- **App bundle (`Nib/Nib/Data/`) is in sync with the pipeline as of 2026-07-30.** CDN is NOT — a publish is
-  owed (see below), left for the user to run manually rather than pushed automatically.
+## Current state (2026-08-07)
+- **996 facts · 56 categories · 30 collections · 3 series (all at or above original size) · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+- **App bundle (`Nib/Nib/Data/`) and `nib-social/public/data/facts.json` are in sync with the pipeline as of
+  2026-08-07.** CDN is NOT — a publish is owed (see below), left for the user to run manually rather than
+  pushed automatically.
+
+### What changed on 2026-08-07 (Instagram social-hook trim — 1196 → 989, a 17% cut across 3 passes)
+
+Triggered by the user posting to `nib-social` (Instagram) daily and observing more people see that content
+than the app itself — content now needs to work as a cold-scroll hook, not just clear the app's own
+"wait, really?" bar. Full pass built and run via parallel subagent batches (8-10 batches per pass, each
+reading full body text, never sampling). Every removal/rewrite decision was reviewed by the user before
+being applied to the CSV — nothing was auto-applied.
+
+- **Scoring pass (diagnostic only, no changes applied):** built a 4-part rubric distinct from the app's own
+  quality bar — Headline Grab (0-3), Universal Relatability (0-3), Visceral Punch (0-2), Shareability (0-2)
+  — scored all 1196 facts. Calibration anchor: `trade-not-just-nations` ("A Simple Steel Box Built the
+  Modern World") scored 4/10 despite being a genuinely good app fact, because shipping-container logistics
+  requires the reader to already care about the subject. Result: 692 POST / 434 MAYBE / 70 SKIP. Saved to
+  `exports/social-scores.json` (may now be stale relative to the current CSV — treat as historical).
+- **Phase 1 (SKIP cut, 1196 → 1130, -66 facts, -14 topics):** cut all 70 SKIP facts except 4 user-approved
+  exceptions kept for narrative/collection reasons (`easter-eggs-konami-code-testing`,
+  `recession-not-depression`, `playstation-failed-nintendo-deal`, `jellyfish-hitchhiking-crabs` — the last
+  one anchors the `unlikely-partnerships` collection). 17 of the 70 were the sole fact in their topic;
+  user reviewed all 17 individually and approved cutting 14, keeping 3 (the exceptions above minus
+  jellyfish, which wasn't topic-emptying). Repointed `hidden-beneath-us` (`caves-start-in-cracks` →
+  `caves-acidic-water`) and trimmed `unlikely-partnerships` (dropped `wolves-older-siblings-help`, no
+  replacement forced — 5 facts is fine).
+- **Phase 2 (stricter "youth-engagement" pass, 1130 → 1103, -27 facts, -4 topics):** first MAYBE-tier pass
+  (434 facts) using only the app's own flatness red-flags found **0 REMOVE candidates** — everything either
+  already cleared the app bar or got a headline/summary rewrite (219 rewrites). User pushed back with a
+  concrete example (*"Brutalism Has Nothing to Do With Being Brutal"* — well-crafted, but architecture-
+  movement terminology has no baseline pull for a young audience) and asked for a second, stricter pass
+  judging the SUBJECT's inherent appeal, not just craft quality. That pass found 27 genuine removes
+  (etymology-for-its-own-sake, design philosophy, policy/corporate history — even when well-written).
+  4 more topics dropped (Yin-Yang — both facts independently flagged REMOVE by the same batch, a "sibling
+  interaction" the per-fact check missed and had to be caught manually; Courtyards, Business Cards, GDP).
+- **Final wow pass (989, -114 facts, -24 topics, +107 rewrites):** re-audited the ENTIRE current database
+  (not just the previously-flagged tier) against a raised "amazing, not just fine" bar — includes facts
+  that had already scored POST originally. Found 91 REMOVE + 31 FLAG_EMPTY_TOPIC (topic-emptying, held for
+  review) + 107 REWRITE across 874 STRONG. User reviewed all 91 REMOVEs in groups of 10 (approved all), then
+  the 31 empty-topic candidates as a single categorized list with per-item recommendations (kept 7: the 3
+  narrative exceptions + `jellyfish-hitchhiking-crabs` again + Fibonacci↔km / MP3-"Tom's Diner" / self-
+  climbing Cranes, all judged to have a genuine hook despite a "process" surface). 107 rewrites applied
+  without individual review (all were "surface the buried concrete detail" edits, same pattern as prior
+  passes, no new facts invented).
+- **Collections:** stripped dangling refs across ~15 collections as facts were cut; no anchor-critical
+  losses this round (unlike Phase 1's jellyfish near-miss). One collection, `time-plays-tricks`, is down to
+  **3 facts** (below the 4-8 guideline but still valid) — flagged to the user, no fix applied yet, worth a
+  same-theme top-up next time a curation session touches it (see the 2026-07-30 "post-remediation
+  collections audit" entry below for the exact restore method: pull unused on-theme facts already in the
+  database, never invent new ones).
+- **Graph regenerated fresh after each of the 3 phases**, not hand-fixed (`normalize:tags → assign:themes →
+  generate:related → export:facts`), self-validating to 0 dangling IDs / 0 self-refs every time. Final
+  integrity check: CSV 989 == facts.json 989, 0 dup ids, 0 dangling relatedFactIds, 0 dangling collection
+  refs, no topic > 3.
+- **Synced** `exports/{facts,collections}.json` → `Nib/Nib/Data/` and `exports/facts.json` →
+  `nib-social/public/data/facts.json`. **CDN publish intentionally NOT done** — same standing rule as every
+  prior pass, left for the user to trigger explicitly.
+- **Backups:** `approved-content/approved-facts.backup-20260807-181028.csv` (pre-Phase-1 snapshot, full
+  1196-fact state) — the only backup taken; Phases 2/3 were not separately snapshotted since they ran
+  same-session immediately after.
+- **Follow-up same day — fully restored `the-alien-island` series (989 → 993 facts, series 5 → 9):** the
+  trim had thinned this series (see the series.json gap above). First attempt added one new fact (goats
+  overgrazing threatening the dragon's blood tree) — user reviewed it and didn't like it, asked for a
+  different angle and a full restore to the original count of 9, "all facts sourced need to be amazing and
+  follow the same standards we just used to trim the others out." **Removed the goat fact** and re-mined the
+  cached National Geographic source `sources/ancient-civilizations/national-geographic-hoq-cave.md`
+  (originally scraped only for the Hoq Cave graffiti angle — turned out to be a full narrative feature with
+  much more unused material). **4 new facts written**, each checked against the same visceral/universal
+  bar as the trim, none reusing an already-cut angle:
+  - `socotra-man-lives-in-cave` (strange-places/Socotra) — a man born in, and still living in, a cliffside
+    cave (human-interest).
+  - `dragons-blood-tree-origin-legend` (famous-trees-plants/Dragon's Blood Tree) — the dragon-vs-elephant
+    myth explaining the tree's blood-red resin (distinct from the 2 existing biology-angle facts in that
+    topic — myth vs. mechanism, no overlap).
+  - `socotra-mistaken-for-atlantis` (strange-places/Socotra) — ancient sailors believed the island was part
+    of Atlantis (checked against existing DB Atlantis facts in `literature` and `myths-legends` — genuinely
+    distinct, neither covers Socotra).
+  - `socotra-twin-cyclones-2015` (famous-disasters, new topic "Socotra Cyclones") — 2015's twin cyclones
+    displaced a third of the island's population, a 2018 cyclone killed 19 more; "3 major storms in 3 years"
+    was unprecedented on record.
+  All 3 category/topic caps respected (strange-places/Socotra and famous-trees-plants/Dragon's Blood Tree
+  both landed at exactly 3; Socotra Cyclones is a new 1-fact topic, allowed). Ran the full pipeline again,
+  0 dangling refs (collections + series), synced all 3 bundle targets, rebuilt CDN v19 again (still
+  unpublished). **Lesson reinforced: a source cached for ONE narrow fact (here, just Hoq Cave graffiti) can
+  be a full-length piece with several other unused angles — re-read the whole cached file, not just the
+  paragraph the original fact came from, before concluding a topic is tapped out.**
+- **Follow-up same day — topped up the other 2 thinned series too (993 → 996):**
+  `the-city-vesuvius-stopped` (8 → 9) and `apollo-13` (8 → 10), same "amazing, source-grounded, no reused
+  cut angles" bar. For Vesuvius, re-read `sources/famous-disasters/britannica-pompeii.md` in full (previously
+  only mined for the plaster-cast and excavation-history facts) and found the 62 CE earthquake — Pompeii was
+  still mid-rebuild, its new baths literally under construction, when Vesuvius hit 17 years later — a distinct
+  dramatic-irony angle from the eruption-mechanics fact already in the series. New: `pompeii-earthquake-
+  before-eruption` (famous-disasters/Pompeii, now 3). For Apollo 13, re-read `sources/space/nasa-apollo-13.md`
+  past the paragraphs already mined (earth-horizon navigation, explosion/lifeboat, Houston misquote) and found
+  two unused concrete details in the same article: the cabin dropped to 38°F when the crew powered down the
+  heat, and the lunar module's food/water/power were designed for 2 astronauts for 1.5 days, not 3 for 3.5.
+  New: `apollo13-freezing-cabin` + `apollo13-lifeboat-rationing` (both medicine/Apollo 13 Crew Health, now 3).
+  Same pipeline-regen + sync + CDN-rebuild cycle as the other two top-ups. **Pattern now established for this
+  kind of request: when a series/collection needs restoring post-trim, re-read the FULL cached source(s) for
+  its topic(s) end-to-end (not just the paragraph the original fact came from) before deciding a fresh scrape
+  is needed — all 3 restores (9 new facts total) came from source material already sitting in `sources/` that
+  a prior single-fact draft had left untapped.**
+- **Follow-up same day — user wanted the 2 Apollo 13 facts swapped for something more interesting, "maybe
+  even from a different source."** The cached Apollo-13-adjacent sources were genuinely tapped out this
+  time — the big medicine source (`nasa-apollo-13-crew-health.md`) is a generic clinical brief on spaceflight
+  urinary health, not narrative; the engineering source (`smithsonian-apollo-13-co2-scrubber.md`) is a museum
+  conservation writeup, the same source that produced the jettisoned-replica fact already cut today for being
+  process trivia. **Did a fresh, live web search this time** (NASA/Universe-Today-caliber results) and found
+  two well-documented, previously-untapped angles: Ken Mattingly was pulled from the crew 72 hours before
+  launch after a measles exposure, replaced by Jack Swigert — whose specific skills (deep command-module
+  emergency-procedure knowledge, methodical nature) turned out to be exactly what the in-flight crisis needed;
+  and the line "Failure is not an option" was never actually said during the mission — it was invented for the
+  1995 movie (verified via 2 independent sources; Kranz's real words, and the "Houston we have a problem"
+  misquote already covered by an existing fact, were cross-checked to avoid overlap). Removed
+  `apollo13-freezing-cabin` + `apollo13-lifeboat-rationing`; added `apollo13-mattingly-measles-swap`
+  (new topic space/Apollo 13 Crew) + `apollo13-failure-not-option-myth` (new topic movies/Apollo 13 (Film)).
+  Cached both new sources to `sources/space/universe-today-apollo-13-measles.md` and
+  `sources/movies/irishnews-apollo-13-movie-quotes.md`, added rows to `source-registry/sources.csv`. Same
+  pipeline/sync/CDN-rebuild cycle; series stayed at 10 facts, just 2 different ones. **Lesson: when the
+  already-cached sources for a topic are genuinely exhausted (not just under-read), a live web search for a
+  well-documented, verifiable angle is the right move — same sourcing bar applies (verify via 2 sources where
+  possible, cache the result, add to the registry) even when it's not part of a scheduled source-discovery
+  session.**
 
 ### What changed on 2026-07-30 (wow-factor audit remediation, Phases 1-5 — 1704 → 1177, a 31% cut)
 

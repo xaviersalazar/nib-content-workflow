@@ -6,15 +6,16 @@
     "icon": "leaf",
     "factIds": [
       "socotra-endemic-plants",
-      "socotra-reptiles-snails",
+      "socotra-man-lives-in-cave",
       "islands-isolation-shapes-life",
       "woolly-mammoths-late-islands",
-      "socotra-marine-diversity",
-      "soqotri-language-no-alphabet",
-      "hoq-cave-ancient-graffiti",
       "dragons-blood-tree-fog-harvesting",
-      "dragons-blood-tree-umbrella-species"
-    ]
+      "dragons-blood-tree-umbrella-species",
+      "dragons-blood-tree-origin-legend",
+      "socotra-mistaken-for-atlantis",
+      "socotra-twin-cyclones-2015"
+    ],
+    "addedAt": "2026-08-01T09:00:00Z"
   },
   {
     "id": "the-city-vesuvius-stopped",
@@ -24,16 +25,15 @@
     "factIds": [
       "volcanoes-not-just-lava",
       "pompeii-preserved-city",
-      "pompeii-vesuvius-burial",
+      "pompeii-earthquake-before-eruption",
       "pompeii-excavation-source",
       "palindromes-ancient-wordplay",
       "herculaneum-scrolls-ai-unwrapped",
       "herculaneum-scrolls-vesuvius-challenge-prize",
       "pliny-younger-skipped-rescue",
-      "pompeian-red-two-causes",
-      "mount-vesuvius-plinian-eruption-term",
       "mount-vesuvius-population-risk"
-    ]
+    ],
+    "addedAt": "2026-08-01T09:00:00Z"
   },
   {
     "id": "apollo-13",
@@ -41,15 +41,17 @@
     "subtitle": "How three astronauts turned a doomed Moon mission into NASA's finest hour.",
     "icon": "moon.stars",
     "factIds": [
+      "apollo13-mattingly-measles-swap",
       "apollo13-earth-horizon-navigation",
       "apollo13-explosion-lifeboat",
       "apollo13-houston-misquote",
       "apollo13-mailbox-co2-fix",
-      "apollo13-mailbox-jettisoned-replica",
       "apollo-guidance-computer-rope-memory",
       "apollo13-haise-kidney-infection",
       "apollo13-reentry-blackout-87-seconds",
-      "apollo13-reentry-shallow-angle-cause"
-    ]
+      "apollo13-reentry-shallow-angle-cause",
+      "apollo13-failure-not-option-myth"
+    ],
+    "addedAt": "2026-08-01T09:00:00Z"
   }
 ]
