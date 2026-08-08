@@ -71,6 +71,10 @@
     "Apollo 13": {
       "institution": "NASA",
       "url": "https://www.nasa.gov/missions/apollo/the-hard-won-triumph-of-the-apollo-13-mission-45-years-later/"
+    },
+    "Apollo 13 Crew": {
+      "institution": "Universe Today",
+      "url": "https://www.universetoday.com/articles/13-things-that-saved-apollo-13-part-3-charlie-dukes-measles"
     }
   },
   "astronomy": {
@@ -136,14 +140,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/place/China/History"
     },
-    "Ancient India": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/place/India/History"
-    },
-    "Mongol Empire": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/Mongol-empire"
-    },
     "Silk Road": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/Silk-Road-trade-route"
@@ -166,18 +162,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/place/ancient-Egypt"
     },
-    "Aztec Civilization": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/Aztec"
-    },
-    "Inca Civilization": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/Inca"
-    },
-    "Mesopotamia": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/place/Mesopotamia-historical-region-Asia"
-    },
     "Sumerians": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/place/Sumer"
@@ -185,10 +169,6 @@
     "Babylonians": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/place/Babylonia"
-    },
-    "Phoenicians": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/Phoenician"
     },
     "Indus Valley Civilization": {
       "institution": "Britannica",
@@ -201,24 +181,12 @@
     "Ancient Rome": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/place/ancient-Rome"
-    },
-    "Olmecs": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/Olmec"
-    },
-    "Hoq Cave": {
-      "institution": "National Geographic",
-      "url": "https://www.nationalgeographic.com/environment/article/socotra-yemen-biodiversity-photography"
     }
   },
   "animals": {
     "Octopus": {
       "institution": "Monterey Bay Aquarium",
       "url": "https://www.montereybayaquarium.org/animals/animals-a-to-z/giant-pacific-octopus"
-    },
-    "Elephants": {
-      "institution": "WWF",
-      "url": "https://www.worldwildlife.org/species/elephant"
     },
     "Dolphins": {
       "institution": "National Geographic Kids",
@@ -235,10 +203,6 @@
     "Tigers": {
       "institution": "WWF",
       "url": "https://www.worldwildlife.org/species/tiger"
-    },
-    "Wolves": {
-      "institution": "National Geographic Kids",
-      "url": "https://kids.nationalgeographic.com/animals/mammals/facts/gray-wolf"
     },
     "Cheetahs": {
       "institution": "National Geographic Kids",
@@ -472,25 +436,9 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/Wi-Fi"
     },
-    "E-mail": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/email"
-    },
-    "QR Codes": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/QR-Code"
-    },
-    "Cloud Computing": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/cloud-computing"
-    },
     "Blockchain": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/blockchain"
-    },
-    "USB": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/USB"
     },
     "Bluetooth": {
       "institution": "HowStuffWorks",
@@ -570,10 +518,6 @@
     }
   },
   "video-games": {
-    "Nintendo": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/Nintendo-Company-Ltd"
-    },
     "Pac-Man": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/Pac-Man-video-game"
@@ -647,6 +591,10 @@
     "Movie Makeup": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/art/makeup-performing-arts"
+    },
+    "Apollo 13 (Film)": {
+      "institution": "Irish News",
+      "url": "https://www.irishnews.com/magazine/science/2020/04/12/news/hollywood-we-have-a-problem-some-apollo-13-movie-quotes-were-fiction-not-fact-1899667/"
     }
   },
   "music": {
@@ -750,10 +698,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/steel"
     },
-    "Tunnels": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/tunnel"
-    },
     "Suspension Bridges": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/suspension-bridge"
@@ -812,10 +756,6 @@
       "institution": "Hartzell Propeller",
       "url": "https://hartzellprop.com/history-of-seaplanes/"
     },
-    "Winglets": {
-      "institution": "NASA Glenn Research Center",
-      "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/winglets/"
-    },
     "Drones": {
       "institution": "FAA",
       "url": "https://www.faa.gov/uas"
@@ -842,10 +782,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/seat-belt"
     },
-    "Tires": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/tire"
-    },
     "Cruise Control": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/cruise-control"
@@ -854,10 +790,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/brake"
     },
-    "Transmission": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/automobile/Transmission"
-    },
     "Windshield Wipers": {
       "institution": "National Inventors Hall of Fame",
       "url": "https://www.invent.org/inductees/mary-anderson"
@@ -865,10 +797,6 @@
     "Air Bags": {
       "institution": "NHTSA",
       "url": "https://www.nhtsa.gov/vehicle-safety/air-bags"
-    },
-    "Crumple Zones": {
-      "institution": "Travelers",
-      "url": "https://www.travelers.com/resources/auto/safe-driving/how-crumple-zones-work"
     },
     "Crash Test Dummies": {
       "institution": "NHTSA",
@@ -1020,10 +948,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/science/probability"
     },
-    "Algebra": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/science/algebra"
-    },
     "Geometry": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/science/geometry"
@@ -1039,10 +963,6 @@
     "Chaos Theory": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/science/chaos-theory"
-    },
-    "Golden Ratio": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/science/golden-ratio"
     },
     "Logarithms": {
       "institution": "Britannica",
@@ -1102,10 +1022,6 @@
       "institution": "Investopedia",
       "url": "https://www.investopedia.com/terms/s/stockmarket.asp"
     },
-    "Business Cards": {
-      "institution": "Smithsonian Magazine",
-      "url": "https://www.smithsonianmag.com/smart-news/instead-cheesy-pickup-lines-19th-century-americans-gave-out-calling-cards-180957743/"
-    },
     "Patents": {
       "institution": "USPTO",
       "url": "https://www.uspto.gov/patents/basics/essentials"
@@ -1139,14 +1055,6 @@
     "Economic Bubbles": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/money/dot-com-bubble"
-    },
-    "Globalization": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/globalization"
-    },
-    "GDP": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/gross-domestic-product"
     },
     "Inflation": {
       "institution": "Britannica",
@@ -1260,10 +1168,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/hieroglyphic-writing"
     },
-    "Loanwords": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/loanword"
-    },
     "Morse Code": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/Morse-Code"
@@ -1292,27 +1196,15 @@
       "institution": "Word Connection",
       "url": "https://www.word-connection.com/blogs/a-brief-history-of-dictionaries"
     },
-    "Punctuation": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/punctuation"
-    },
     "Translation": {
       "institution": "Atlas Language Services",
       "url": "https://atlasls.com/the-history-of-translation/"
-    },
-    "Soqotri Language": {
-      "institution": "UNESCO",
-      "url": "https://www.unesco.org/en/articles/safeguarding-soqotri-language-first-workshop-unified-alphabet"
     }
   },
   "architecture": {
     "Ancient Temples": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/temple-building"
-    },
-    "Arches": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/arch-architecture"
     },
     "Bauhaus": {
       "institution": "Britannica",
@@ -1333,10 +1225,6 @@
     "Concrete": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/concrete-building-material"
-    },
-    "Courtyards": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/court-architecture"
     },
     "Domes": {
       "institution": "Britannica",
@@ -1738,10 +1626,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/telephone"
     },
-    "Printing Press": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/printing-press"
-    },
     "Wheel": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/wheel"
@@ -1755,10 +1639,6 @@
     "Christianity": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/Christianity"
-    },
-    "Fasting": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/fasting"
     },
     "Hinduism": {
       "institution": "Britannica",
@@ -1783,10 +1663,6 @@
     "Monotheism": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/monotheism"
-    },
-    "Myth": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/myth"
     },
     "Pilgrimage": {
       "institution": "Britannica",
@@ -1852,10 +1728,6 @@
       "institution": "American Museum of Natural History",
       "url": "https://www.amnh.org/research/paleontology/collections/fossil-invertebrate-collection/trilobite-website"
     },
-    "Archaeopteryx": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/animal/Archaeopteryx"
-    },
     "Dire Wolves": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/animal/dire-wolf"
@@ -1917,10 +1789,6 @@
     "Pirate Havens": {
       "institution": "Smithsonian Magazine",
       "url": "https://www.smithsonianmag.com/smart-news/shipwrecks-discovered-near-the-bahamas-tantalize-researchers-with-possible-ties-to-the-real-pirates-of-the-caribbean-180988901/"
-    },
-    "Pirate Ships": {
-      "institution": "Smithsonian National Museum of American History",
-      "url": "https://americanhistory.si.edu/explore/exhibitions/on-the-water/online/living-atlantic-world/pirates/arsenal"
     }
   },
   "castles-fortresses": {
@@ -1939,18 +1807,6 @@
     "Siege Towers": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/siege-tower"
-    },
-    "Fortresses": {
-      "institution": "English Heritage",
-      "url": "https://www.english-heritage.org.uk/castles/castles-through-time/"
-    },
-    "Dungeon Myths": {
-      "institution": "Exploring Castles",
-      "url": "https://www.exploring-castles.com/castle_designs/castle_dungeon/"
-    },
-    "Castle Keeps": {
-      "institution": "World History Encyclopedia",
-      "url": "https://www.worldhistory.org/Castle_Keep/"
     },
     "Moats": {
       "institution": "World History Encyclopedia",
@@ -1993,6 +1849,10 @@
     "Hindenburg": {
       "institution": "Smithsonian National Postal Museum",
       "url": "https://postalmuseum.si.edu/exhibition/fire-ice-hindenburg-and-titanic-exhibition/the-hindenburg-disaster"
+    },
+    "Socotra Cyclones": {
+      "institution": "National Geographic",
+      "url": "https://www.nationalgeographic.com/environment/article/socotra-yemen-biodiversity-photography"
     }
   },
   "strange-jobs": {
@@ -2118,10 +1978,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/story/where-did-the-peace-sign-come-from"
     },
-    "Yin-Yang": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/yinyang"
-    },
     "Recycling Symbol": {
       "institution": "Grist",
       "url": "https://grist.org/culture/recycling-symbol-logo-plastic-design/"
@@ -2191,10 +2047,6 @@
     "White": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/science/white-color"
-    },
-    "Pompeian Red": {
-      "institution": "NIH",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8655737/"
     }
   },
   "sleep-dreams": {
@@ -2286,10 +2138,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/Caesar-cipher"
     },
-    "Cryptography": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/cryptography"
-    },
     "Enigma Machine": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/Enigma-German-code-device"
@@ -2313,10 +2161,6 @@
     "Book Cipher": {
       "institution": "Derek Bruff / Vanderbilt University",
       "url": "https://derekbruff.org/blogs/fywscrypto/historical-crypto/whats-in-a-book-a-brief-history-of-book-ciphers/"
-    },
-    "Scytale": {
-      "institution": "Science and Media Museum",
-      "url": "https://blog.scienceandmediamuseum.org.uk/top-secret-ciphers-from-ancient-greece-to-the-second-world-war/"
     },
     "Navajo Code Talkers": {
       "institution": "Smithsonian National Museum of the American Indian",
@@ -2484,13 +2328,13 @@
     }
   },
   "insects": {
-    "Bees": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/animal/bee"
-    },
     "Ants": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/animal/ant"
+    },
+    "Bees": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/animal/bee"
     },
     "Butterflies": {
       "institution": "Britannica",

@@ -153,6 +153,22 @@ being applied to the CSV — nothing was auto-applied.
   well-documented, verifiable angle is the right move — same sourcing bar applies (verify via 2 sources where
   possible, cache the result, add to the registry) even when it's not part of a scheduled source-discovery
   session.**
+- **Follow-up same day — caught a missed step: `exports/sources.json` was never regenerated after adding new
+  topics.** User asked directly whether it had been updated. It hadn't — `sources.json` is a **generated**
+  file (`pnpm export:sources`, joins `source-registry/sources.csv` + `categories.json` + `facts.json`), not
+  something touched by the normal `normalize:tags → assign:themes → generate:related → export:facts` cycle,
+  so it's easy to forget when a session's changes are all fact-content edits. All 3 new-topic series-restore
+  facts today needed a matching registry row for "Source ↗" to resolve: `space/Apollo 13 Crew` and
+  `movies/Apollo 13 (Film)` already had rows (added alongside those facts); `famous-disasters/Socotra
+  Cyclones` did not — added it (National Geographic, same URL as the existing `ancient-civilizations/Hoq
+  Cave` row, since both facts came from the same source article, which is a normal/expected pattern in this
+  registry). Ran `pnpm export:sources`: **596/596 topics matched (100%), 0 unmatched** — confirms no other
+  topic was missed. Synced `exports/sources.json` → `Nib/Nib/Data/sources.json`, rebuilt CDN v19 once more
+  (sources checksum changed; facts/categories/collections/series unchanged from the prior rebuild).
+  **Lesson: after adding a fact under a brand-new topic (not just a new fact in an existing topic), always
+  check whether it needs a `source-registry/sources.csv` row too, then re-run `pnpm export:sources` — it's
+  not part of the standard 4-step content pipeline and won't error if skipped, it'll just silently ship
+  without a "Source ↗" link for that topic.**
 
 ### What changed on 2026-07-30 (wow-factor audit remediation, Phases 1-5 — 1704 → 1177, a 31% cut)
 
