@@ -1,6 +1,6 @@
 # Nib Content — "Wow" Rewrite Workflow: Session Handoff
 
-> Last updated: 2026-08-07 · 996 facts · 56 categories
+> Last updated: 2026-08-07 · 966 facts · 56 categories
 > (Keep this line current — bump it every time a category is finished or the library changes. See step 9 of the standing pattern.)
 
 ## What this is
@@ -29,12 +29,148 @@ and the job is to rewrite every fact into a genuine **"wait, really?" "wow"** fa
   read to get oriented.
 
 ## Current state (2026-08-07)
-- **996 facts · 56 categories · 30 collections · 3 series (all at or above original size) · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
+- **966 facts · 56 categories · 30 collections · 3 series (all at or above original size) · up to 3 facts per topic (quality-gated, NOT "exactly 3").**
 - **App bundle (`Nib/Nib/Data/`) and `nib-social/public/data/facts.json` are in sync with the pipeline as of
-  2026-08-07.** CDN is NOT — a publish is owed (see below), left for the user to run manually rather than
-  pushed automatically.
+  2026-08-07.** CDN: the manifest was rebuilt ~7 times over the course of today's session as content kept
+  changing, always as `contentVersion 19` (never bumped mid-session since nothing had been published yet)
+  — but **the user published one of the mid-session v19 builds live partway through**, so by the time the
+  final content state was reached, v19 was no longer available as a version number (must strictly increase
+  past whatever's live). **Final staged manifest is `contentVersion 20`**, matching the truly-final 966-fact
+  state (facts sha `a615cb8c...`). **Confirmed via direct curl of `https://cdn.nibapp.net/v1/manifest.json`
+  before rebuilding — same standing rule as every prior CDN note in this doc: don't trust what a doc says is
+  live, check.** Publish of v20 still owed, left for the user to run manually.
 
-### What changed on 2026-08-07 (Instagram social-hook trim — 1196 → 989, a 17% cut across 3 passes)
+### What changed on 2026-08-07, part 2 (explainer-pattern audit — 996 → 984, -12 facts)
+
+Same day as the trim above, later. Trigger: the Today fact `interest-rates-compounding` ("That $24 for
+Manhattan Could've Beaten Owning It") — a famous concrete hook (the $24 Manhattan sale) wrapping an
+abstract compound-interest lesson as the real payoff. User correctly clocked that this exact shape (vivid
+anecdote + abstract-principle payoff, "an explainer wearing a fun-fact costume") had slipped through all
+three passes above, and asked for another round.
+
+- **Scoped to 5 "explainer-prone" categories** (economics, business, mathematics, psychology,
+  human-behavior — 84 facts total) rather than the whole database again, per this project's own established
+  pattern: a 2026-07-22 audit already found psychology/AI/internet-culture/food ran 32-54% flagged as this
+  exact "explainer cluster" failure mode, and the fact-writing guide's §5 already calls out econ/business/
+  psychology/human-behavior as highest-risk for opinion-dressed-as-fact. Targeted pass = faster, hits where
+  risk concentrates; the other ~900 facts got scrutinized hard earlier today already.
+- **New criterion, distinct from the earlier passes' bars:** does the surprise live in something CONCRETE
+  (a person, event, number-with-stakes, object), or in an ABSTRACT LESSON (a principle, bias, formula,
+  mechanism) that the anecdote merely illustrates? Test: if you could rewrite the headline as "Fact X
+  teaches you that [lesson]" and lose nothing, it's an explainer regardless of how catchy the wrapper is.
+- **5 parallel category audits found: 60 STRONG / 8 REMOVE / 4 REWRITE / 12 FLAG_EMPTY_TOPIC** (out of 84).
+  Mathematics was worst (8/19 flagged — Cantor's infinities, Hilbert's Hotel, Monty Hall, birthday paradox,
+  hairy ball theorem, all "principle explained via puzzle"); psychology next (5/10 flagged, confirming its
+  known weak-category status).
+- **Caught the same "sibling-removal blind spot" as the Yin-Yang case earlier today:** both facts in
+  `mathematics/Infinity` (2 total) were independently marked REMOVE by the same agent without cross-
+  checking each other — always re-verify programmatically before applying, per-fact topic-count checks
+  don't catch this.
+- **Direct contradiction with 2 keep decisions from earlier the same day**, surfaced explicitly to the
+  user rather than silently overridden: `fibonacci-number-pattern` and `motivation-money-association` had
+  both been explicitly kept during the final-wow-pass FLAG_EMPTY_TOPIC review ("genuinely surprising,"
+  "genuinely counterintuitive") — this pass's stricter concrete-vs-abstract lens flagged them again. **User's
+  resolution: kept both** (along with `branding-protected-by-trademarks`, `facial-expressions-evolution`,
+  both Probability facts, `topology-loops-cannot-shrink`, `deja-vu-brain-misfire`,
+  `perception-brain-fills-gaps` — 8 of the 20 flagged, user's own judgment call after seeing full text).
+  **Lesson: different passes with different specific lenses can reasonably disagree on a borderline fact —
+  surface the tension, don't auto-resolve it either direction.**
+- **12 cut** (all approved individually by the user after seeing full body text, not a bulk trust call):
+  `trade-crosses-borders` ("I, Pencil"), `interest-rates-compounding` (the calibration case itself),
+  `opportunity-cost-better-decisions` (Bill Gates $100 bill), `supply-chains-ev-complexity` (2020 toilet
+  paper/bullwhip effect), `laughter-social-signal`, `fibonacci-number-pattern`, `fractals-repeat-shape`,
+  `infinity-different-sizes` + `infinity-ancient-potential` (topic dropped), `logarithms-ask-what-power`,
+  `habits-single-experience`, `happiness-social-relationships` (the 80-year Harvard study — had a rewrite
+  path available, leading with study scale instead of its conclusion, but user chose to cut rather than
+  rewrite).
+- **2 collections fixed** (dangling refs stripped, no replacement forced): `too-big-to-imagine` (6→5),
+  `unlikely-partnerships` (5→4).
+- Graph regenerated, 0 dangling/self-refs. Synced all 3 bundle targets, CDN v19 rebuilt again (facts +
+  collections checksums changed; sources/series/categories unchanged).
+
+### What changed on 2026-08-07, part 3 (explainer-pattern audit round 2 — 984 → 973, -11 facts)
+
+Same day, later. User asked which OTHER categories were likely to hide the same "vivid hook + abstract
+lesson payoff" pattern found in part 2. Answer built from a regex heuristic scan (same caveat as every
+pass: sorts reading priority, doesn't make the call) cross-referenced against this project's own documented
+history (the 2026-07-22 audit's "explainer cluster" finding). **Top 5 candidates by combined signal:**
+household-science (35% regex-flagged), illusions-perceptions (27%), engineering (25%), physics (22%),
+medicine (24%) — 107 facts total. Ran the same targeted pass, one category per agent.
+
+- **Result: 89 STRONG / 12 REMOVE / 1 REWRITE / 5 FLAG_EMPTY_TOPIC** (out of 107).
+- **Two more sibling-removal conflicts** (same blind spot as Yin-Yang/Infinity earlier today):
+  `household-science/Soap` (both facts independently flagged) and `medicine/Placebo Effect` (both facts
+  independently flagged) — this time the household-science agent caught its own conflict proactively and
+  flagged it in its report; the medicine one still needed the programmatic cross-check to catch.
+- **Surfaced a genuine tension rather than resolving it silently:** `energy-capacity-to-work` ("The Matter
+  in a Paperclip Could Level a City") got flagged here, but this exact fact is on record elsewhere in this
+  project's own history (2026-07-18 entry) as a **named model example of a good rewrite** — a prior regex
+  pass wrongly flagged it once before, and it was explicitly kept specifically because the "paperclip →
+  city" comparison makes an abstract E=mc² statement feel concrete. Presented this history to the user
+  before applying anything. **User's resolution: kept it** — along with `soap-germ-membranes` (the other
+  Soap fact, resolving that conflict), `pareidolia-survival-skill`, `placebo-effect-clinical-trials`
+  (nocebo — resolving that conflict), `inertia-no-net-force` (tablecloth trick), and
+  `relativity-redefined-space-time` (twin paradox). 6 of 17 flagged were kept after full-text review.
+- **11 cut:** `cranes-lift-and-shift-sideways`, `hydraulics-pressure-everywhere`,
+  `levers-multiply-force-distance` (all 3 sole-fact engineering topics — Cranes/Hydraulics/Levers all
+  dropped), `refrigerators-remove-heat`, `soap-micelles`, `antibiotics-target-bacteria`,
+  `placebo-effect-expectation`, `prosthetics-materials-matter`,
+  `quantum-mechanics-microscopic-predictions`, `superconductivity-zero-resistance`,
+  `waves-disturbance-travels` (sole-fact physics topic, dropped). 4 topics dropped total.
+- **1 collection fixed**: `luck-omens-and-rituals` (5→4, dangling ref to the cut placebo fact stripped, no
+  replacement forced).
+- Graph regenerated, 0 dangling/self-refs. Synced all 3 bundle targets, CDN v19 rebuilt again (facts +
+  collections checksums changed; sources/series/categories unchanged).
+- **Running total for the "explainer pattern" audit today: 23 facts cut across 10 categories** (economics,
+  business, math, psychology, human-behavior, household-science, illusions-perceptions, engineering,
+  physics, medicine), on top of the earlier 3-pass social-hook trim. Categories that came back clean and
+  are probably low-priority for a future pass: history, animals, ocean-life, literature, dinosaurs,
+  ancient-creatures, pirates, explorers, secret-codes, human-civilization (all 0% on the regex heuristic).
+  `coffee` and `artificial-intelligence` are flagged in this project's older history as historically weak
+  for this exact pattern but weren't re-checked this round (both are now small — 7 and 9 facts — likely
+  already thinned by prior passes; worth a 5-minute sanity check if doing a completeness pass later).
+
+### What changed on 2026-08-07, part 4 (coffee/AI sanity check + history/pirates/literature — 973 → 966)
+
+Same day, final stretch. Two follow-ups to part 3's "worth checking later" list.
+
+- **Coffee (7 facts) and AI (9 facts) sanity-checked directly** (small enough to read by hand rather than
+  spin up agents). Coffee came back **fully clean** — every fact is a concrete, specific claim (kopi luwak's
+  origin, the espresso-vs-drip caffeine flip, Italian "latte means milk," the salty-coffee wedding test),
+  confirming it was already thinned hard by earlier passes. AI came back **8/9 clean** (built around
+  specific dramatic events — AlphaGo move 37, Tay, Amazon's biased hiring AI, the sanctioned lawyer,
+  AlphaZero) with one exception: **`robotics-uncanny-valley`** ("A Robot That's 99% Human Is Creepier Than
+  One That's 50%") — describes the general uncanny-valley curve as the payoff, same shape as the psychology
+  cuts earlier, even though it names Masahiro Mori. User cut it (sole fact in "Robotics" topic — dropped).
+- **User then asked for history, pirates, and literature checked too** despite all three reading 0% on the
+  earlier regex heuristic — correctly suspecting the heuristic wasn't catching everything (regex only sorts
+  reading priority, never makes the call — same caveat as every pass in this project). Ran the same targeted
+  audit, one agent per category (61 facts total). **Result: history and literature stayed nearly clean (1
+  flagged each — Olympic-truce custom explainer; the "hero's journey"/Star Wars fact, Joseph Campbell's
+  concept with Star Wars as decoration) but pirates had a real cluster: 4 of 16 flagged** — buccaneer
+  injury-compensation system, red-vs-black Jolly Roger signaling convention, and BOTH `Pirate Codes` facts
+  (crew-voting governance, marooning-as-punishment) — all general-custom explainers with no specific named
+  pirate/ship/incident anchoring them. **User cut all 6**, including both Pirate Codes facts, dropping that
+  topic (along with the sole-fact Ancient Greece and Jolly Roger topics — 3 topics dropped total; Buccaneers
+  and Myths just lost one fact each and kept survivors).
+- No collection/series references to any of the 7 facts cut in this part — nothing to fix.
+- Graph regenerated, 0 dangling/self-refs. Synced all 3 bundle targets, CDN v19 rebuilt twice more (once
+  for the single AI cut, once for the 6-fact history/pirates/literature cut).
+- **Final running total for today's whole explainer-pattern audit: 30 facts cut across 13 categories**
+  (economics, business, math, psychology, human-behavior, household-science, illusions-perceptions,
+  engineering, physics, medicine, artificial-intelligence, pirates, literature). Coffee and history checked
+  and confirmed clean/near-clean. **Not yet checked at all today:** the remaining ~40 categories not on
+  either the original regex shortlist or this follow-up list (space, astronomy, technology,
+  internet-culture, video-games, movies, music, sports, aviation, cars, chemistry — already partly hit in
+  the earlier social-hook pass — languages, architecture, myths-legends, mysteries, geography, weather,
+  inventions, religion-beliefs, dinosaurs, ancient-creatures, castles-fortresses, famous-disasters,
+  strange-jobs, everyday-objects, famous-symbols, colors, sleep-dreams, secret-codes, superstitions,
+  explorers, famous-trees-plants, insects, strange-places, human-civilization, survival-body-limits,
+  ancient-civilizations, animals, ocean-life, food). Most of these are lower-risk by subject matter
+  (concrete/narrative-driven categories), but none have had this specific concrete-vs-abstract-lesson lens
+  applied — worth knowing if doing a fully exhaustive pass later.
+
+### What changed on 2026-08-07, part 1 (Instagram social-hook trim — 1196 → 989, a 17% cut across 3 passes)
 
 Triggered by the user posting to `nib-social` (Instagram) daily and observing more people see that content
 than the app itself — content now needs to work as a cold-scroll hook, not just clear the app's own

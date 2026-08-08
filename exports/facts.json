@@ -393,7 +393,8 @@
       "moon-europa-ocean",
       "asteroids-less-mass-than-moon",
       "deep-sea-underwater-lakes",
-      "oceans-cover-most-earth"
+      "oceans-cover-most-earth",
+      "oceans-have-hidden-landscapes"
     ],
     "themes": [
       "hidden-underground",
@@ -851,9 +852,9 @@
       "black-holes-spaghettification",
       "quasars-angle-changes-view",
       "stars-live-trillions-years",
-      "relativity-redefined-space-time",
+      "time-hard-to-define",
       "hinduism-karma-samsara-moksha",
-      "relativity-speed-of-light-limit"
+      "relativity-redefined-space-time"
     ],
     "themes": [
       "relativity-and-time-warp",
@@ -1022,9 +1023,9 @@
     "relatedFactIds": [
       "milky-way-andromeda-collision",
       "stars-live-trillions-years",
-      "supernovae-create-elements",
+      "pulsars-sugar-cube-mountain",
       "solar-system-galactic-year",
-      "pulsars-sugar-cube-mountain"
+      "supernovae-create-elements"
     ],
     "themes": [
       "stars-and-cosmos"
@@ -1165,9 +1166,9 @@
       "pulsars-sugar-cube-mountain",
       "stars-live-trillions-years",
       "red-giants-sun-future",
-      "waves-disturbance-travels",
       "hurricanes-tropical-cyclones",
-      "energy-capacity-to-work"
+      "energy-capacity-to-work",
+      "oxidation-numbers-track-change"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -1262,33 +1263,6 @@
     ]
   },
   {
-    "id": "ancient-greece-olympics",
-    "headline": "Wars Were Paused for the Ancient Olympics",
-    "body": "The ancient Olympics mattered so much that the Greeks stopped fighting for them. A sacred truce was declared across the often-warring city-states so athletes and fans could travel to Olympia and home again safely. Armies held back, and feuds waited. For a few weeks every four years, sport outranked war. The Games were less a competition than a fragile, shared peace.",
-    "summary": "Greek city-states halted their wars so athletes could travel safely to the Games.",
-    "categoryId": "history",
-    "topic": "Ancient Greece",
-    "tags": [
-      "history",
-      "ancient-greece",
-      "olympics",
-      "truce"
-    ],
-    "readTimeSeconds": 42,
-    "featured": false,
-    "relatedFactIds": [
-      "industrial-revolution-child-labor",
-      "french-revolution-bastille",
-      "olympic-games-ancient-greek-festival",
-      "marathons-26-miles-385-yards",
-      "ancient-china-terracotta-army"
-    ],
-    "themes": [
-      "games-and-play",
-      "war-and-conflict"
-    ]
-  },
-  {
     "id": "american-revolution-paul-revere",
     "headline": "Paul Revere Was Captured Before He Could Finish His Famous Ride",
     "body": "The most famous ride in American history didn't go as planned. On the night of April 18, 1775, Paul Revere rode out to warn that British troops were on the move — and was captured by a British patrol before he could finish. Other riders, William Dawes and Samuel Prescott, carried the alarm the rest of the way. A whole network of horsemen spread the warning, not one lone hero, while Revere himself was held at gunpoint. A poem written almost a century later made him the solo legend.",
@@ -1329,10 +1303,10 @@
     "featured": false,
     "relatedFactIds": [
       "ancient-china-gunpowder",
-      "ancient-greece-olympics",
       "french-revolution-bastille",
       "ancient-china-terracotta-army",
-      "titanic-warning-never-reached-bridge"
+      "titanic-warning-never-reached-bridge",
+      "american-revolution-paul-revere"
     ],
     "themes": [
       "war-and-conflict",
@@ -1359,7 +1333,7 @@
       "ancient-china-wu-zetian",
       "french-revolution-bastille",
       "industrial-revolution-child-labor",
-      "ancient-greece-olympics"
+      "space-race-armstrong-aldrin"
     ],
     "themes": [
       "hidden-underground",
@@ -1471,7 +1445,7 @@
       "ancient-china-terracotta-army",
       "calendars-reform",
       "industrial-revolution-child-labor",
-      "ancient-greece-olympics"
+      "ancient-china-gunpowder"
     ],
     "themes": [
       "energy-and-power",
@@ -2016,8 +1990,8 @@
       "sloths-bathroom-weekly",
       "chameleons-two-way-eyes",
       "sleepwalking-childhood-common",
-      "dragons-blood-tree-fog-harvesting",
-      "habits-single-experience"
+      "decision-making-environment-shapes",
+      "movie-makeup-corrective-creative"
     ],
     "themes": [
       "plants-and-botany",
@@ -2292,8 +2266,8 @@
     "relatedFactIds": [
       "giraffes-spread-legs-drink",
       "sloths-bathroom-weekly",
+      "sleep-half-brain-awake",
       "giant-squid-dinner-plate-eyes",
-      "dragons-blood-tree-fog-harvesting",
       "sloths-algae-camouflage"
     ],
     "themes": [
@@ -2352,7 +2326,6 @@
       "mantis-shrimp-bubble-shockwave",
       "tigers-eighty-pound-meal",
       "cheetahs-cannot-roar",
-      "waves-disturbance-travels",
       "jellyfish-long-tentacles",
       "giant-squid-sperm-whale-scars"
     ],
@@ -2382,8 +2355,8 @@
       "mantis-shrimp-bullet-fast-punch",
       "dolphins-mud-rings",
       "cheetahs-built-for-speed",
-      "waves-disturbance-travels",
-      "jellyfish-daily-commute"
+      "jellyfish-daily-commute",
+      "tigers-eighty-pound-meal"
     ],
     "themes": [
       "energy-and-power",
@@ -2554,7 +2527,7 @@
       "deep-sea-underwater-lakes",
       "bioluminescence-most-deep-sea-animals-glow",
       "mountains-erode-while-rising",
-      "giant-squid-sperm-whale-scars"
+      "anglerfish-males-fuse-to-females"
     ],
     "themes": [
       "deep-sea-and-abyss",
@@ -2977,7 +2950,7 @@
       "giant-squid-dinner-plate-eyes",
       "dinosaur-eggs-all-dinosaurs-hatched",
       "penguins-fathers-incubate",
-      "whales-largest-animal-ever"
+      "deep-sea-deeper-than-everest"
     ],
     "themes": [
       "human-body-quirks",
@@ -3037,7 +3010,7 @@
       "anglerfish-swallow-twice-size",
       "mantis-shrimp-bullet-fast-punch",
       "bioluminescence-most-deep-sea-animals-glow",
-      "deep-sea-deeper-than-everest"
+      "jellyfish-long-tentacles"
     ],
     "themes": [
       "human-body-quirks",
@@ -3344,7 +3317,7 @@
       "taste-buds-thousands-on-tongue",
       "aurora-other-planets",
       "red-opposite-green",
-      "skin-melanin-protects-dna",
+      "heart-one-way-valves",
       "rainforests-climate-regulators"
     ],
     "themes": [
@@ -3513,7 +3486,7 @@
     "relatedFactIds": [
       "taste-buds-on-fish-fins",
       "blood-color-changes-with-oxygen",
-      "eyes-retina-part-of-brain",
+      "heart-center-of-network",
       "dragons-east-west-difference",
       "apollo13-failure-not-option-myth",
       "espresso-crema-traps-aroma"
@@ -3568,8 +3541,8 @@
       "heart-one-way-valves",
       "taste-buds-on-fish-fins",
       "brachiosaurus-treetop-browser",
-      "skin-largest-organ",
-      "eyes-retina-part-of-brain"
+      "handshakes-quaker-greeting",
+      "skin-largest-organ"
     ],
     "themes": [
       "human-body-quirks",
@@ -3602,64 +3575,6 @@
     ],
     "themes": [
       "medicine-and-cures",
-      "psychology-and-behavior"
-    ]
-  },
-  {
-    "id": "habits-single-experience",
-    "headline": "Some Habits Can Take Over 250 Days to Form, Not 21",
-    "body": "You've probably heard it takes 21 days to build a habit. That number is a myth, traced to a 1960s surgeon's offhand remark about how long patients took to adjust. When researchers actually tracked people forming new daily routines, they found it took about 66 days on average for the behavior to start feeling automatic. And the range was huge, anywhere from 18 days to over 250, depending on the person and the habit. Real habits take more patience than the sayings promise.",
-    "summary": "The '21-day habit' rule is a myth traced to a surgeon's offhand remark; when researchers actually measured it, habits took 66 days on average, and some took more than 250.",
-    "categoryId": "psychology",
-    "topic": "Habits",
-    "tags": [
-      "habits",
-      "habit-formation",
-      "behavior",
-      "psychology"
-    ],
-    "readTimeSeconds": 59,
-    "featured": false,
-    "relatedFactIds": [
-      "decision-making-environment-shapes",
-      "sleep-half-brain-awake",
-      "crossed-arms-context-matters",
-      "giraffes-spread-legs-drink",
-      "memory-fading-helps-time"
-    ],
-    "themes": [
-      "psychology-and-behavior",
-      "automation-robots-ai",
-      "myth-vs-reality",
-      "numbers-and-mathematics"
-    ]
-  },
-  {
-    "id": "happiness-social-relationships",
-    "headline": "Harvard Tracked the Same People for 80 Years -- Money and Fame Lost",
-    "body": "Harvard researchers followed hundreds of people for more than 80 years, tracking their health from youth into old age. The clearest predictor of who stayed happy and healthy wasn't wealth, fame, or career success. It was the quality of their close relationships. Warm, dependable connections protected both mind and body, while loneliness quietly wore people down. The single biggest factor in a long, good life turned out to be other people.",
-    "summary": "The longest-running health study in history followed people from youth into old age for more than 80 years, and found the biggest predictor of a long life wasn't wealth, fame, or career -- it was close relationships, while loneliness quietly wore people down.",
-    "categoryId": "psychology",
-    "topic": "Happiness",
-    "tags": [
-      "psychology",
-      "happiness",
-      "relationships",
-      "longevity"
-    ],
-    "readTimeSeconds": 35,
-    "featured": false,
-    "relatedFactIds": [
-      "motivation-money-association",
-      "optical-illusions-mirror-therapy",
-      "baobab-nine-species",
-      "sleep-half-brain-awake",
-      "perception-brain-fills-gaps"
-    ],
-    "themes": [
-      "record-extremes",
-      "money-trade-and-value",
-      "lost-and-rediscovered",
       "psychology-and-behavior"
     ]
   },
@@ -3709,10 +3624,10 @@
     "featured": false,
     "relatedFactIds": [
       "sleep-half-brain-awake",
-      "habits-single-experience",
+      "memory-fading-helps-time",
       "giraffes-spread-legs-drink",
       "sleepwalking-childhood-common",
-      "memory-fading-helps-time"
+      "deja-vu-brain-misfire"
     ],
     "themes": [
       "psychology-and-behavior",
@@ -3736,11 +3651,11 @@
     "readTimeSeconds": 58,
     "featured": false,
     "relatedFactIds": [
-      "happiness-social-relationships",
       "optical-illusions-mirror-therapy",
       "sleep-half-brain-awake",
       "perception-brain-fills-gaps",
-      "decision-making-environment-shapes"
+      "decision-making-environment-shapes",
+      "memory-fading-helps-time"
     ],
     "themes": [
       "psychology-and-behavior",
@@ -3799,7 +3714,7 @@
       "sleepwalking-childhood-common",
       "personal-space-invisible-bubble",
       "memory-fading-helps-time",
-      "decision-making-environment-shapes"
+      "chameleons-two-way-eyes"
     ],
     "themes": [
       "psychology-and-behavior"
@@ -4394,8 +4309,8 @@
       "world-wide-web-cern-1989",
       "blockchain-public-private-keys",
       "trademarks-protect-brands",
-      "wi-fi-signals-bounce",
-      "data-centers-avoid-downtime"
+      "data-centers-avoid-downtime",
+      "wi-fi-signals-bounce"
     ],
     "themes": [
       "computing-and-web",
@@ -4479,39 +4394,12 @@
       "reinforcement-learning-reward-signal",
       "ai-ethics-help-harm",
       "chatbots-eliza-first",
-      "robotics-uncanny-valley",
-      "generative-ai-new-content-prompts"
+      "generative-ai-new-content-prompts",
+      "ai-ethics-biased-data"
     ],
     "themes": [
       "automation-robots-ai",
       "games-and-play"
-    ]
-  },
-  {
-    "id": "robotics-uncanny-valley",
-    "headline": "A Robot That's 99% Human Is Creepier Than One That's 50%",
-    "body": "Making a robot look more human doesn't steadily make people like it more. Up to a point, warmth grows with realism, and a cartoonish robot feels friendly. Then something flips. When a face gets almost human but not quite, it stops reading as charming and starts feeling eerie. Comfort only returns if the likeness becomes truly convincing. Masahiro Mori named that unsettling dip the uncanny valley.",
-    "summary": "Warmth climbs with realism, then falls off a cliff right before the finish line.",
-    "categoryId": "artificial-intelligence",
-    "topic": "Robotics",
-    "tags": [
-      "robotics",
-      "design",
-      "perception",
-      "uncanny-valley"
-    ],
-    "readTimeSeconds": 50,
-    "featured": false,
-    "relatedFactIds": [
-      "ai-ethics-help-harm",
-      "machine-learning-pattern-learning",
-      "afterimages-one-eye",
-      "brands-shape-perception",
-      "chatbots-eliza-first"
-    ],
-    "themes": [
-      "perception-and-brain",
-      "automation-robots-ai"
     ]
   },
   {
@@ -4563,8 +4451,8 @@
       "ai-ethics-help-harm",
       "machine-learning-pattern-learning",
       "generative-ai-new-content-prompts",
-      "robotics-uncanny-valley",
-      "ai-ethics-biased-data"
+      "ai-ethics-biased-data",
+      "reinforcement-learning-reward-signal"
     ],
     "themes": [
       "automation-robots-ai",
@@ -4591,7 +4479,7 @@
       "ai-ethics-help-harm",
       "black-absence-of-light",
       "machine-learning-pattern-learning",
-      "robotics-uncanny-valley"
+      "ai-ethics-biased-data"
     ],
     "themes": [
       "automation-robots-ai",
@@ -4646,8 +4534,8 @@
       "ai-ethics-biased-data",
       "chatbots-eliza-first",
       "machine-learning-pattern-learning",
-      "robotics-uncanny-valley",
-      "generative-ai-new-content-prompts"
+      "generative-ai-new-content-prompts",
+      "reinforcement-learning-reward-signal"
     ],
     "themes": [
       "automation-robots-ai",
@@ -4812,10 +4700,10 @@
     "featured": false,
     "relatedFactIds": [
       "internet-communities-closed-systems",
-      "viral-challenges-three-types",
+      "memes-cultural-power",
       "minecraft-virtual-blocks",
       "virtual-worlds-vr-term-1987",
-      "memes-cultural-power"
+      "viral-challenges-three-types"
     ],
     "themes": [
       "internet-and-virality",
@@ -4956,7 +4844,8 @@
       "tetris-game-boy-stardom",
       "insomnia-short-chronic",
       "chess-indian-war-game",
-      "arcade-games-coin-op-design"
+      "arcade-games-coin-op-design",
+      "virtual-worlds-vr-term-1987"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -5126,7 +5015,7 @@
       "minecraft-virtual-blocks",
       "esports-magazine-prize",
       "mario-landlord-name",
-      "pokemon-more-than-game"
+      "arcade-games-coin-op-design"
     ],
     "themes": [
       "games-and-play",
@@ -5630,10 +5519,10 @@
     "relatedFactIds": [
       "marathons-26-miles-385-yards",
       "track-and-field-many-events",
-      "ancient-greece-olympics",
       "antikythera-predicted-eclipses",
+      "steganography-hidden-message",
       "soccer-worlds-most-popular-ball-game",
-      "steganography-hidden-message"
+      "laws-ancient-codes"
     ],
     "themes": [
       "origins-and-naming",
@@ -5685,9 +5574,9 @@
     "relatedFactIds": [
       "olympic-games-ancient-greek-festival",
       "track-and-field-many-events",
-      "ancient-greece-olympics",
       "soccer-worlds-most-popular-ball-game",
-      "formula-1-name-rules"
+      "formula-1-name-rules",
+      "swimming-thousands-of-years"
     ],
     "themes": [
       "games-and-play"
@@ -5769,7 +5658,7 @@
       "chess-indian-war-game",
       "solar-system-only-24-moonwalkers",
       "time-relativity-observer-dependent",
-      "soccer-worlds-most-popular-ball-game",
+      "track-and-field-many-events",
       "moon-ganymede-biggest"
     ],
     "themes": [
@@ -5866,34 +5755,6 @@
     ]
   },
   {
-    "id": "levers-multiply-force-distance",
-    "headline": "You Could Move the Earth With a Lever — You'd Just Have to Push It Trillions of Miles",
-    "body": "The ancient Greek thinker Archimedes understood the lever so deeply that he made a famous boast: 'Give me a place to stand, and a lever long enough, and I will move the Earth.' He was right in principle. With a long enough lever and a fixed point to pivot on, even a tiny force can shift an enormous weight. The catch is you'd have to push for trillions of miles.",
-    "summary": "Archimedes was right that a long enough lever could move the planet. The catch: the push would have to travel trillions of miles.",
-    "categoryId": "engineering",
-    "topic": "Levers",
-    "tags": [
-      "engineering",
-      "levers",
-      "archimedes",
-      "physics"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "hydraulics-pressure-everywhere",
-      "gears-speed-torque-tradeoff",
-      "wheels-pottery-turntable",
-      "cranes-lift-and-shift-sideways",
-      "elevators-otis-safety-brake"
-    ],
-    "themes": [
-      "stars-and-cosmos",
-      "machines-and-mechanisms",
-      "motion-and-force"
-    ]
-  },
-  {
     "id": "wheels-pottery-turntable",
     "headline": "The Wheel Was Invented Surprisingly Late",
     "body": "The wheel feels so basic that you'd assume it came first. It didn't. Humans had sewing needles, woven cloth, boats, musical instruments, and farms for thousands of years before anyone built a working wheel, around 3500 BCE. The hard part wasn't the round wheel itself — it was the axle, and fitting the two together precisely. One of history's great inventions arrived later than you'd ever guess.",
@@ -5910,10 +5771,10 @@
     "featured": false,
     "relatedFactIds": [
       "elevators-otis-safety-brake",
-      "levers-multiply-force-distance",
+      "gears-speed-torque-tradeoff",
       "wheel-spokes-chariots",
       "patents-right-to-exclude",
-      "hydraulics-pressure-everywhere",
+      "steel-iron-carbon-alloy",
       "ancient-china-gunpowder"
     ],
     "themes": [
@@ -5938,11 +5799,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "levers-multiply-force-distance",
       "concrete-steel-reinforcement",
+      "wheels-pottery-turntable",
       "antikythera-ancient-computer",
       "antikythera-predicted-eclipses",
-      "wheels-pottery-turntable"
+      "elevators-otis-safety-brake"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -5971,42 +5832,13 @@
       "gears-speed-torque-tradeoff",
       "concrete-aggregate-cement-water",
       "cities-ancient-roots",
-      "cranes-lift-and-shift-sideways",
+      "wheels-pottery-turntable",
       "domes-arch-turned-space"
     ],
     "themes": [
       "food-and-cuisine",
       "ancient-engineering",
       "animal-intelligence"
-    ]
-  },
-  {
-    "id": "hydraulics-pressure-everywhere",
-    "headline": "Your Foot Stops Two Tons of Car With a Gentle Push",
-    "body": "When you tap the brake pedal, you're not muscling the car to a halt — hydraulics are. Your foot pushes fluid through thin tubes, and because liquid passes pressure along almost perfectly, that gentle push is multiplied into enormous force at each wheel. The result is enough power to stop two tons of metal from highway speed. A light press of your toe quietly commands tremendous strength.",
-    "summary": "A gentle press of your foot is multiplied by fluid into enough force to halt two tons of car.",
-    "categoryId": "engineering",
-    "topic": "Hydraulics",
-    "tags": [
-      "engineering",
-      "hydraulics",
-      "brakes",
-      "cars"
-    ],
-    "readTimeSeconds": 50,
-    "featured": false,
-    "relatedFactIds": [
-      "levers-multiply-force-distance",
-      "wheels-pottery-turntable",
-      "brakes-hydraulic-balance",
-      "g-force-stapp-stop-broke-ribs",
-      "elevators-otis-safety-brake"
-    ],
-    "themes": [
-      "motion-and-force",
-      "machines-and-mechanisms",
-      "materials-and-chemistry",
-      "energy-and-power"
     ]
   },
   {
@@ -6025,11 +5857,11 @@
     "readTimeSeconds": 54,
     "featured": false,
     "relatedFactIds": [
-      "levers-multiply-force-distance",
       "gears-speed-torque-tradeoff",
+      "earthquake-engineering-strong-joints",
       "time-relativity-observer-dependent",
       "venus-day-longer-than-year",
-      "earthquake-engineering-strong-joints"
+      "elevators-otis-safety-brake"
     ],
     "themes": [
       "gravity-and-orbits",
@@ -6057,7 +5889,7 @@
       "wheels-pottery-turntable",
       "jet-engines-throw-air-backward",
       "polymers-life-natural-polymers",
-      "hydraulics-pressure-everywhere"
+      "elevators-otis-safety-brake"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -6086,42 +5918,13 @@
       "apollo13-mailbox-co2-fix",
       "bridges-live-dead-loads",
       "bridges-five-basic-forms",
-      "levers-multiply-force-distance"
+      "elevators-otis-safety-brake"
     ],
     "themes": [
       "flight-and-aviation",
       "disaster-and-catastrophe",
       "architecture-and-structures",
       "motion-and-force"
-    ]
-  },
-  {
-    "id": "cranes-lift-and-shift-sideways",
-    "headline": "Skyscraper Cranes Climb Themselves Up the Building",
-    "body": "The towering cranes perched atop unfinished skyscrapers have a clever trick: they grow with the building. Rather than being impossibly tall from the start, a tower crane can lift a new section into its own base and jack itself higher, climbing floor by floor as the structure rises beneath it. When the building is done, the crane has to be carefully taken apart, sometimes by a smaller crane.",
-    "summary": "The giant cranes atop skyscrapers raise themselves higher, growing with the building they construct.",
-    "categoryId": "engineering",
-    "topic": "Cranes",
-    "tags": [
-      "engineering",
-      "cranes",
-      "construction",
-      "skyscrapers"
-    ],
-    "readTimeSeconds": 48,
-    "featured": false,
-    "relatedFactIds": [
-      "elevators-otis-safety-brake",
-      "earthquake-engineering-strong-joints",
-      "skyscrapers-elevators-made-height-usable",
-      "gothic-architecture-pointed-up",
-      "wheels-pottery-turntable",
-      "skyscrapers-technology-coincidence"
-    ],
-    "themes": [
-      "architecture-and-structures",
-      "animal-intelligence",
-      "machines-and-mechanisms"
     ]
   },
   {
@@ -6141,11 +5944,11 @@
     "readTimeSeconds": 60,
     "featured": false,
     "relatedFactIds": [
-      "cranes-lift-and-shift-sideways",
       "earthquake-engineering-strong-joints",
+      "wheels-pottery-turntable",
       "skyscrapers-elevators-made-height-usable",
       "skyscrapers-technology-coincidence",
-      "wheels-pottery-turntable"
+      "gears-speed-torque-tradeoff"
     ],
     "themes": [
       "machines-and-mechanisms",
@@ -6170,12 +5973,12 @@
     "readTimeSeconds": 54,
     "featured": false,
     "relatedFactIds": [
-      "cranes-lift-and-shift-sideways",
       "elevators-otis-safety-brake",
+      "suspension-bridges-tacoma-narrows",
       "skyscrapers-technology-coincidence",
       "pompeii-earthquake-before-eruption",
-      "suspension-bridges-tacoma-narrows",
-      "pirate-havens-safe-base"
+      "apollo13-mailbox-co2-fix",
+      "skyscrapers-elevators-made-height-usable"
     ],
     "themes": [
       "architecture-and-structures",
@@ -6289,7 +6092,6 @@
       "helicopters-sikorsky-vs300",
       "airplanes-four-forces",
       "polymers-life-natural-polymers",
-      "electricity-electric-charges",
       "steel-iron-carbon-alloy"
     ],
     "themes": [
@@ -6455,8 +6257,8 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "autopilot-straight-level-flight",
       "hot-air-balloons-hot-air-lighter",
+      "autopilot-straight-level-flight",
       "surviving-a-fall-vulovic-33000-feet",
       "air-traffic-control-air-and-ground",
       "jet-engines-compress-burn-expand",
@@ -6713,7 +6515,7 @@
       "internal-combustion-engines-hot-gas-work",
       "brakes-hydraulic-balance",
       "air-bags-supplement-seat-belts",
-      "waves-disturbance-travels",
+      "energy-capacity-to-work",
       "hurricanes-tropical-cyclones"
     ],
     "themes": [
@@ -6825,10 +6627,9 @@
     "relatedFactIds": [
       "internal-combustion-engines-hot-gas-work",
       "internal-combustion-engines-combustion-inside",
-      "hydraulics-pressure-everywhere",
+      "g-force-stapp-stop-broke-ribs",
       "formula-1-name-rules",
-      "automobiles-thousands-of-parts",
-      "g-force-stapp-stop-broke-ribs"
+      "automobiles-thousands-of-parts"
     ],
     "themes": [
       "motion-and-force",
@@ -7033,32 +6834,6 @@
     ]
   },
   {
-    "id": "quantum-mechanics-microscopic-predictions",
-    "headline": "A Particle Can Be in Two Places at Once",
-    "body": "In the quantum world, the rules get strange. A tiny particle like an electron doesn't have to be in one spot — it can exist in a blur of many places at the same time, a state called superposition. Only when you actually measure it does it 'pick' a single location. Until you look, it's genuinely everywhere it could be. Reality, at the smallest scale, is fuzzier than it seems.",
-    "summary": "Until you measure it, a single particle can occupy many places at the same time.",
-    "categoryId": "physics",
-    "topic": "Quantum Mechanics",
-    "tags": [
-      "physics",
-      "quantum-mechanics",
-      "superposition",
-      "particles"
-    ],
-    "readTimeSeconds": 54,
-    "featured": false,
-    "relatedFactIds": [
-      "quantum-mechanics-hilbert-space",
-      "quantum-mechanics-measurement-probabilities",
-      "apollo13-reentry-blackout-87-seconds",
-      "apollo13-reentry-shallow-angle-cause",
-      "sound-human-frequency-range"
-    ],
-    "themes": [
-      "record-extremes"
-    ]
-  },
-  {
     "id": "quantum-mechanics-hilbert-space",
     "headline": "Two Particles Can Stay Linked Across the Galaxy",
     "body": "When two particles become 'entangled,' they share a single fate. Measure one and you instantly know the other, no matter how far apart they are — across a room or across the galaxy. Change one and the partner seems to respond at once, faster than light could carry a message. Einstein hated this idea and called it 'spooky action at a distance.' Experiments keep proving it's real.",
@@ -7075,10 +6850,10 @@
     "featured": false,
     "relatedFactIds": [
       "quantum-mechanics-measurement-probabilities",
-      "quantum-mechanics-microscopic-predictions",
       "lasers-light-copy-itself",
+      "light-exact-speed",
       "quasars-angle-changes-view",
-      "light-exact-speed"
+      "energy-capacity-to-work"
     ],
     "themes": [
       "stars-and-cosmos"
@@ -7101,8 +6876,8 @@
     "featured": false,
     "relatedFactIds": [
       "quantum-mechanics-hilbert-space",
-      "quantum-mechanics-microscopic-predictions",
-      "superconductivity-zero-resistance",
+      "lasers-mirrors-build-beam",
+      "electricity-electric-charges",
       "red-giants-sun-future",
       "sun-billions-of-twins"
     ],
@@ -7130,8 +6905,8 @@
     "featured": false,
     "relatedFactIds": [
       "electricity-static-electron-transfer",
-      "superconductivity-zero-resistance",
       "lasers-mirrors-build-beam",
+      "motion-force-changes-motion",
       "thunder-lightning-sound",
       "heatstroke-fan-useless-above-99",
       "airplanes-four-forces"
@@ -7159,11 +6934,10 @@
     "featured": false,
     "relatedFactIds": [
       "electricity-electric-charges",
-      "superconductivity-zero-resistance",
       "lasers-mirrors-build-beam",
+      "energy-capacity-to-work",
       "airplanes-four-forces",
-      "light-bulb-changed-night",
-      "waves-disturbance-travels"
+      "light-bulb-changed-night"
     ],
     "themes": [
       "energy-and-power",
@@ -7188,7 +6962,7 @@
     "relatedFactIds": [
       "sound-human-frequency-range",
       "quantum-mechanics-hilbert-space",
-      "superconductivity-zero-resistance",
+      "lasers-light-copy-itself",
       "krakatoa-loudest-sound",
       "supersonic-flight-hypersonic-mach-five",
       "vinyl-turntable-speed-control"
@@ -7216,8 +6990,8 @@
     "featured": false,
     "relatedFactIds": [
       "sound-pressure-waves",
-      "quantum-mechanics-microscopic-predictions",
       "apollo13-reentry-blackout-87-seconds",
+      "apollo13-reentry-shallow-angle-cause",
       "cheetahs-cannot-roar",
       "taos-hum-worldwide-pattern",
       "praying-mantis-camouflage"
@@ -7244,11 +7018,12 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "waves-disturbance-travels",
       "quantum-mechanics-hilbert-space",
+      "lasers-light-copy-itself",
       "pulsars-magnetar-burst-sunlight",
       "hurricanes-tropical-cyclones",
-      "superconductivity-zero-resistance"
+      "relativity-redefined-space-time",
+      "internal-combustion-engines-combustion-inside"
     ],
     "themes": [
       "energy-and-power",
@@ -7528,70 +7303,15 @@
     "relatedFactIds": [
       "lasers-light-copy-itself",
       "electricity-static-electron-transfer",
-      "superconductivity-zero-resistance",
+      "electricity-electric-charges",
       "jet-engines-compress-burn-expand",
-      "electricity-electric-charges"
+      "motion-force-changes-motion"
     ],
     "themes": [
       "stars-and-cosmos",
       "energy-and-power",
       "materials-and-chemistry",
       "human-body-quirks"
-    ]
-  },
-  {
-    "id": "waves-disturbance-travels",
-    "headline": "Ocean Waves Barely Move the Water Forward",
-    "body": "Watch a wave roll across the sea and it looks like water rushing toward shore. But the water itself mostly stays put. As a wave passes, each bit of water bobs in a small circle — up, forward, down, back — and ends up roughly where it began. What actually travels is the energy, passing from one patch of water to the next. A floating gull rises and falls but hardly drifts at all.",
-    "summary": "A wave crossing the ocean carries energy, not water — the sea mostly just bobs in place.",
-    "categoryId": "physics",
-    "topic": "Waves",
-    "tags": [
-      "physics",
-      "waves",
-      "ocean",
-      "energy"
-    ],
-    "readTimeSeconds": 50,
-    "featured": false,
-    "relatedFactIds": [
-      "energy-capacity-to-work",
-      "superconductivity-zero-resistance",
-      "pulsars-magnetar-burst-sunlight",
-      "hurricanes-tropical-cyclones",
-      "electricity-static-electron-transfer",
-      "mantis-shrimp-bullet-fast-punch"
-    ],
-    "themes": [
-      "energy-and-power"
-    ]
-  },
-  {
-    "id": "superconductivity-zero-resistance",
-    "headline": "A Current in a Superconductor Could Flow Forever",
-    "body": "In a normal wire, electricity meets resistance and steadily loses energy as heat. But cool certain materials cold enough and the resistance vanishes completely. Start an electric current looping through such a superconductor, and it would keep circulating essentially forever — for billions of years — with no battery and no fading. The energy just never leaks away. It's about as close to perpetual motion as physics allows.",
-    "summary": "Get a current looping in a superconductor and it could circle for billions of years, no battery needed.",
-    "categoryId": "physics",
-    "topic": "Superconductivity",
-    "tags": [
-      "physics",
-      "superconductivity",
-      "electricity",
-      "resistance"
-    ],
-    "readTimeSeconds": 54,
-    "featured": false,
-    "relatedFactIds": [
-      "superconductivity-meissner-effect",
-      "electricity-electric-charges",
-      "electricity-static-electron-transfer",
-      "light-bulb-changed-night",
-      "paper-clips-norway-symbol",
-      "quantum-mechanics-measurement-probabilities"
-    ],
-    "themes": [
-      "energy-and-power",
-      "stars-and-cosmos"
     ]
   },
   {
@@ -7610,11 +7330,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "superconductivity-zero-resistance",
       "motion-force-changes-motion",
       "inertia-no-net-force",
       "inertia-mass-resists-acceleration",
-      "waves-disturbance-travels"
+      "apollo13-reentry-shallow-angle-cause",
+      "light-exact-speed"
     ],
     "themes": [
       "energy-and-power",
@@ -7696,8 +7416,8 @@
     "relatedFactIds": [
       "polymers-giant-monomer-chains",
       "acids-bases-ph-scale",
+      "atmosphere-layered",
       "giraffes-spread-legs-drink",
-      "surviving-without-food-gandhi-21-days",
       "metals-ores-and-free-state",
       "chemical-elements-cannot-break-down"
     ],
@@ -8006,7 +7726,7 @@
     "relatedFactIds": [
       "chemical-elements-cannot-break-down",
       "chemical-reactions-rearrange-atoms",
-      "waves-disturbance-travels",
+      "energy-capacity-to-work",
       "pulsars-magnetar-burst-sunlight",
       "combustion-heat-accelerates-reaction"
     ],
@@ -8385,86 +8105,6 @@
     ]
   },
   {
-    "id": "infinity-different-sizes",
-    "headline": "Some Infinities Are Bigger Than Others",
-    "body": "Infinity sounds like one single endless amount, but in the 1800s Georg Cantor proved it comes in different sizes. The counting numbers, 1, 2, 3, and on forever, are infinite. Yet the decimals between just 0 and 1 form a strictly larger infinity that can never be paired up one-to-one with them. One endlessness genuinely dwarfs another. Cantor's peers found the idea so disturbing they called it a disease.",
-    "summary": "Georg Cantor proved that the infinity of decimals is strictly larger than the infinity of counting numbers.",
-    "categoryId": "mathematics",
-    "topic": "Infinity",
-    "tags": [
-      "infinity",
-      "cantor",
-      "set-theory"
-    ],
-    "readTimeSeconds": 53,
-    "featured": false,
-    "relatedFactIds": [
-      "infinity-ancient-potential",
-      "geometry-earth-measurement",
-      "topology-rubber-sheet-geometry",
-      "pi-ancient-approximations",
-      "probability-gambling-origin"
-    ],
-    "themes": [
-      "numbers-and-mathematics",
-      "medicine-and-cures",
-      "animal-intelligence",
-      "counterintuitive-scale"
-    ]
-  },
-  {
-    "id": "infinity-ancient-potential",
-    "headline": "A Hotel With Infinite Rooms Is Never Full",
-    "body": "Imagine a hotel with infinitely many rooms, every one occupied. A new guest walks in. No problem: move room 1's guest to room 2, room 2's to room 3, and so on forever, freeing up room 1. You can even fit infinitely many new guests this way. This brain-teaser, dreamed up by David Hilbert, shows how infinity breaks the everyday rule that 'full' means 'no more room.'",
-    "summary": "Hilbert's infinite hotel can always make room for more guests, even when every room is already taken.",
-    "categoryId": "mathematics",
-    "topic": "Infinity",
-    "tags": [
-      "infinity",
-      "hilberts-hotel",
-      "paradoxes"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "infinity-different-sizes",
-      "probability-gambling-origin",
-      "pi-ancient-approximations",
-      "topology-rubber-sheet-geometry",
-      "topology-loops-cannot-shrink"
-    ],
-    "themes": [
-      "origins-and-naming",
-      "numbers-and-mathematics"
-    ]
-  },
-  {
-    "id": "fibonacci-number-pattern",
-    "headline": "Fibonacci Numbers Secretly Convert Miles to Kilometers",
-    "body": "The Fibonacci sequence, where each number is the sum of the two before it, runs 1, 2, 3, 5, 8, 13, 21. Here's a hidden bonus: neighboring Fibonacci numbers convert miles to kilometers almost perfectly. Five miles is about 8 kilometers, 8 miles is about 13, and 13 miles is about 21. It works because the ratio between Fibonacci neighbors is close to the real 1.609 conversion factor.",
-    "summary": "Consecutive Fibonacci numbers double as a miles-to-kilometers converter, thanks to a lucky ratio.",
-    "categoryId": "mathematics",
-    "topic": "Fibonacci Sequence",
-    "tags": [
-      "fibonacci-sequence",
-      "conversion",
-      "number-patterns"
-    ],
-    "readTimeSeconds": 49,
-    "featured": false,
-    "relatedFactIds": [
-      "fractals-repeat-shape",
-      "pi-ancient-approximations",
-      "topology-rubber-sheet-geometry",
-      "probability-gambling-origin",
-      "topology-loops-cannot-shrink"
-    ],
-    "themes": [
-      "numbers-and-mathematics",
-      "self-organizing-patterns"
-    ]
-  },
-  {
     "id": "probability-gambling-origin",
     "headline": "In a Room of 23 People, Two Probably Share a Birthday",
     "body": "It feels like you'd need hundreds of people for a birthday match, since there are 365 days. But you only need 23 for better-than-even odds. The trick is that you're not comparing yourself to everyone; you're comparing every possible pair, and 23 people make 253 pairs. By 70 people, a shared birthday is nearly certain. Our gut sense of chance is often wildly off.",
@@ -8483,8 +8123,7 @@
       "probability-logic-uncertainty",
       "topology-rubber-sheet-geometry",
       "pi-ancient-approximations",
-      "topology-loops-cannot-shrink",
-      "infinity-ancient-potential"
+      "topology-loops-cannot-shrink"
     ],
     "themes": [
       "numbers-and-mathematics"
@@ -8560,42 +8199,17 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "infinity-different-sizes",
       "pi-ancient-approximations",
       "topology-rubber-sheet-geometry",
       "probability-gambling-origin",
-      "prime-numbers-cryptography"
+      "prime-numbers-cryptography",
+      "topology-loops-cannot-shrink"
     ],
     "themes": [
       "numbers-and-mathematics",
       "record-extremes",
       "animal-intelligence",
       "music-and-sound"
-    ]
-  },
-  {
-    "id": "fractals-repeat-shape",
-    "headline": "How Long Is Britain's Coastline? It Depends",
-    "body": "Measure Britain's coastline with a long ruler and you get one length. Measure it with a shorter ruler that catches every bay and inlet and you get a longer one. Shrink the ruler further and the length keeps growing, with no final answer. Coastlines are fractals: jagged at every scale, the same kind of crinkle repeating as you zoom in. A coastline has no single true length.",
-    "summary": "A coastline gets longer the more finely you measure it, because its crinkles repeat at every scale.",
-    "categoryId": "mathematics",
-    "topic": "Fractals",
-    "tags": [
-      "fractals",
-      "coastline-paradox",
-      "self-similarity"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "fibonacci-number-pattern",
-      "pi-never-repeats",
-      "logarithms-ask-what-power",
-      "prime-numbers-building-blocks",
-      "topology-rubber-sheet-geometry"
-    ],
-    "themes": [
-      "self-organizing-patterns"
     ]
   },
   {
@@ -8643,8 +8257,8 @@
       "chaos-theory-butterfly-effect",
       "probability-logic-uncertainty",
       "probability-unfinished-bet",
-      "infinity-different-sizes",
-      "fibonacci-number-pattern"
+      "geometry-earth-measurement",
+      "game-theory-not-winning-alone"
     ],
     "themes": [
       "psychology-and-behavior"
@@ -8676,34 +8290,6 @@
       "accidental-discovery",
       "numbers-and-mathematics",
       "computing-and-web"
-    ]
-  },
-  {
-    "id": "logarithms-ask-what-power",
-    "headline": "A Magnitude 7 Quake Is 1,000 Times a Magnitude 4",
-    "body": "Earthquake magnitudes, sound in decibels, and the pH of acids all use logarithmic scales, where each step up multiplies rather than adds. On the old Richter scale, a magnitude 5 quake shakes ten times harder than a 4, and a 7 is a thousand times a 4, even though the numbers look close together. Logarithms let us squeeze enormous ranges, from whispers to jet engines, onto one friendly little scale.",
-    "summary": "Earthquake, decibel, and pH scales are logarithmic, so each step is a tenfold jump, not a small one.",
-    "categoryId": "mathematics",
-    "topic": "Logarithms",
-    "tags": [
-      "logarithms",
-      "richter-scale",
-      "decibels"
-    ],
-    "readTimeSeconds": 50,
-    "featured": false,
-    "relatedFactIds": [
-      "pi-never-repeats",
-      "chaos-theory-butterfly-effect",
-      "geometry-earth-measurement",
-      "prime-numbers-building-blocks",
-      "fractals-repeat-shape"
-    ],
-    "themes": [
-      "materials-and-chemistry",
-      "flight-and-aviation",
-      "disaster-and-catastrophe",
-      "music-and-sound"
     ]
   },
   {
@@ -8751,7 +8337,7 @@
       "pi-ancient-approximations",
       "probability-gambling-origin",
       "pi-never-repeats",
-      "infinity-ancient-potential"
+      "prime-numbers-building-blocks"
     ],
     "themes": [
       "numbers-and-mathematics"
@@ -8776,7 +8362,7 @@
       "pi-never-repeats",
       "pi-ancient-approximations",
       "probability-gambling-origin",
-      "infinity-ancient-potential"
+      "prime-numbers-building-blocks"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -8940,7 +8526,7 @@
       "patents-right-to-exclude",
       "monopolies-one-seller-power",
       "advertising-funds-media",
-      "trade-secrets-valuable-because-secret"
+      "trade-secrets-can-last-indefinitely"
     ],
     "themes": [
       "invention-and-breakthrough"
@@ -8991,8 +8577,8 @@
       "monopolies-one-seller-power",
       "monopolies-competition-spectrum",
       "franchises-support-control-tradeoff",
-      "trade-secrets-can-last-indefinitely",
-      "supply-demand-price-signal"
+      "supply-demand-price-signal",
+      "trade-secrets-can-last-indefinitely"
     ],
     "themes": []
   },
@@ -9044,34 +8630,6 @@
       "money-trade-and-value",
       "disaster-and-catastrophe",
       "numbers-and-mathematics"
-    ]
-  },
-  {
-    "id": "trade-crosses-borders",
-    "headline": "Not a Single Person on Earth Can Make a Pencil",
-    "body": "It sounds absurd, but it's true. A simple wooden pencil requires cedar from one country, graphite mined in another, rubber for the eraser, brass for the band, and machinery to assemble it all. No single individual knows how to do every step, from felling the tree to refining the metal. The humble pencil exists only because millions of strangers, who will never meet, unknowingly cooperate through trade.",
-    "summary": "No single human knows how to make a pencil from scratch; it takes a hidden global web of cooperation.",
-    "categoryId": "business",
-    "topic": "Trade",
-    "tags": [
-      "trade",
-      "economics",
-      "globalization"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "stock-market-fuels-growth",
-      "trade-secrets-valuable-because-secret",
-      "pencils-borrowdale-discovery",
-      "trade-secrets-can-last-indefinitely",
-      "advertising-modern-printing"
-    ],
-    "themes": [
-      "money-trade-and-value",
-      "materials-and-chemistry",
-      "plants-and-botany",
-      "symbiosis-and-cooperation"
     ]
   },
   {
@@ -9219,10 +8777,10 @@
     "featured": false,
     "relatedFactIds": [
       "supply-demand-price-signal",
-      "trade-crosses-borders",
       "monopolies-one-seller-power",
       "franchises-license-a-business",
-      "advertising-funds-media"
+      "advertising-funds-media",
+      "advertising-modern-printing"
     ],
     "themes": [
       "money-trade-and-value",
@@ -9302,8 +8860,8 @@
       "trade-secrets-can-last-indefinitely",
       "patents-three-main-types",
       "franchises-license-a-business",
-      "scarcity-raises-value",
-      "monopolies-one-seller-power"
+      "monopolies-one-seller-power",
+      "entrepreneurship-risk-profit"
     ],
     "themes": [
       "money-trade-and-value",
@@ -9521,8 +9079,8 @@
       "barter-oldest-commerce",
       "banking-deposits-become-loans",
       "supply-chains-raw-to-retail",
-      "opportunity-cost-better-decisions",
-      "barter-gift-exchange-different"
+      "barter-gift-exchange-different",
+      "inflation-has-multiple-causes"
     ],
     "themes": [
       "money-trade-and-value"
@@ -9571,10 +9129,10 @@
     "featured": false,
     "relatedFactIds": [
       "inflation-weakens-buying-power",
-      "opportunity-cost-better-decisions",
       "banking-deposits-become-loans",
       "currency-more-than-cash",
-      "supply-chains-raw-to-retail"
+      "supply-chains-raw-to-retail",
+      "barter-gift-exchange-different"
     ],
     "themes": [
       "money-trade-and-value",
@@ -9600,9 +9158,9 @@
     "relatedFactIds": [
       "inflation-has-multiple-causes",
       "barter-gift-exchange-different",
-      "opportunity-cost-better-decisions",
       "economic-bubbles-name-matters",
-      "banking-deposits-become-loans"
+      "banking-deposits-become-loans",
+      "currency-more-than-cash"
     ],
     "themes": [
       "money-trade-and-value",
@@ -9637,32 +9195,6 @@
       "record-extremes",
       "disaster-and-catastrophe",
       "music-and-sound"
-    ]
-  },
-  {
-    "id": "interest-rates-compounding",
-    "headline": "That $24 for Manhattan Could've Beaten Owning It",
-    "body": "Legend says Manhattan was sold by Native Americans in 1626 for about $24 in goods, often told as history's greatest bargain. But here's the twist of compound interest: if that $24 had instead been invested at a healthy annual return, earning interest on top of interest for nearly 400 years, it could now be worth more than all the real estate on the island. Compounding turns tiny sums into staggering ones, given enough time.",
-    "summary": "If the legendary $24 paid for Manhattan had earned compound interest since 1626, it might now top the island's value.",
-    "categoryId": "economics",
-    "topic": "Interest Rates",
-    "tags": [
-      "interest-rates",
-      "compound-interest",
-      "investing"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "opportunity-cost-better-decisions",
-      "economic-bubbles-name-matters",
-      "supply-chains-raw-to-retail",
-      "inflation-weakens-buying-power",
-      "currency-can-be-unusual"
-    ],
-    "themes": [
-      "materials-and-chemistry",
-      "myth-vs-reality"
     ]
   },
   {
@@ -9707,39 +9239,14 @@
     "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
-      "supply-chains-ev-complexity",
-      "currency-more-than-cash",
       "banking-deposits-become-loans",
+      "currency-more-than-cash",
       "barter-gift-exchange-different",
-      "taxes-fund-public-needs"
+      "taxes-fund-public-needs",
+      "scarcity-raises-value"
     ],
     "themes": [
       "money-trade-and-value"
-    ]
-  },
-  {
-    "id": "supply-chains-ev-complexity",
-    "headline": "The 2020 Toilet Paper Shortage Wasn't About Toilet Paper",
-    "body": "In 2020, a brief run on toilet paper spiraled into months of empty shelves, even though people weren't actually using dramatically more of it. The real culprit was something supply chains have built into them called the bullwhip effect: when shoppers buy just a bit more of something, each link up the chain, retailer, wholesaler, factory, over-orders to stay safe, and that small signal grows wildly with every step. A tiny wiggle in demand at the checkout counter becomes a violent swing in factory orders, months down the line. One extra pack in a shopping cart can end up looking like a crisis by the time it reaches the factory floor.",
-    "summary": "A tiny rise in shopping-cart demand snowballs into a factory-level crisis, the 'bullwhip effect' behind 2020's toilet-paper shortage.",
-    "categoryId": "economics",
-    "topic": "Supply Chains",
-    "tags": [
-      "supply-chains",
-      "bullwhip-effect",
-      "shortages"
-    ],
-    "readTimeSeconds": 54,
-    "featured": false,
-    "relatedFactIds": [
-      "supply-chains-raw-to-retail",
-      "scarcity-raises-value",
-      "barter-oldest-commerce",
-      "inflation-weakens-buying-power",
-      "banking-creates-bank-money"
-    ],
-    "themes": [
-      "self-organizing-patterns"
     ]
   },
   {
@@ -9769,33 +9276,6 @@
     ]
   },
   {
-    "id": "opportunity-cost-better-decisions",
-    "headline": "Bill Gates Shouldn't Stop to Pick Up a $100 Bill",
-    "body": "There's a famous thought experiment about the value of time. If Bill Gates earns so much that bending down to grab a $100 bill would cost him a couple of seconds he could spend earning far more, then in pure economic terms, it isn't worth his time to pick it up. The point isn't really about Gates. It's that every minute you spend on one thing carries the cost of whatever else it could have bought.",
-    "summary": "A classic thought experiment: Bill Gates earns so fast that grabbing a $100 bill could 'cost' him more in lost time.",
-    "categoryId": "economics",
-    "topic": "Opportunity Cost",
-    "tags": [
-      "opportunity-cost",
-      "time",
-      "value"
-    ],
-    "readTimeSeconds": 53,
-    "featured": false,
-    "relatedFactIds": [
-      "currency-more-than-cash",
-      "inflation-weakens-buying-power",
-      "snake-milkers-face-shields",
-      "economic-bubbles-name-matters",
-      "supply-chains-raw-to-retail"
-    ],
-    "themes": [
-      "money-trade-and-value",
-      "myth-vs-reality",
-      "lost-and-rediscovered"
-    ]
-  },
-  {
     "id": "scarcity-raises-value",
     "headline": "Companies Invent Scarcity on Purpose",
     "body": "Not all shortages are natural; some are manufactured to drive desire. Disney famously locked its classic films 'in the vault,' releasing them only briefly so families felt they had to buy now. Sneaker brands drop tiny batches, luxury makers cap production, and 'limited editions' are everywhere, all engineering artificial rarity. Because scarcity raises perceived value, making something feel hard to get can be more profitable than simply making more of it.",
@@ -9813,8 +9293,8 @@
       "banking-creates-bank-money",
       "currency-more-than-cash",
       "advertising-persuades-public",
-      "trade-secrets-valuable-because-secret",
-      "barter-oldest-commerce"
+      "barter-oldest-commerce",
+      "banking-deposits-become-loans"
     ],
     "themes": [
       "money-trade-and-value",
@@ -10053,7 +9533,7 @@
     "relatedFactIds": [
       "fairy-tales-childlike-dark",
       "myths-explain-world",
-      "myths-not-just-false",
+      "printing-gutenberg-revolution",
       "sleep-paralysis-hallucinations",
       "werewolves-medical-theories",
       "kraken-may-reflect-squid"
@@ -10240,12 +9720,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "myths-not-just-false",
       "myths-culture-validation",
       "fairy-tales-folk-and-art",
+      "epic-poems-heroic-scale",
       "taste-buds-thousands-on-tongue",
-      "apollo13-failure-not-option-myth",
-      "epic-poems-heroic-scale"
+      "apollo13-failure-not-option-myth"
     ],
     "themes": [
       "record-extremes",
@@ -10269,9 +9748,9 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "myths-not-just-false",
       "myths-explain-world",
       "fairy-tales-folk-and-art",
+      "epic-poems-gilgamesh-old",
       "check-mark-yes-symbol",
       "norse-mythology-fragmentary-sources",
       "pasta-vermicelli-little-worms"
@@ -10281,34 +9760,6 @@
       "stars-and-cosmos",
       "myth-vs-reality",
       "timekeeping"
-    ]
-  },
-  {
-    "id": "myths-not-just-false",
-    "headline": "Star Wars Was Built on an Ancient Story Pattern",
-    "body": "A scholar named Joseph Campbell studied myths from around the world and noticed they often share one underlying shape: an ordinary hero is called to adventure, faces trials, and returns transformed. He called it the 'hero's journey.' George Lucas read Campbell's work and deliberately built Star Wars on that ancient skeleton. Luke Skywalker follows the same path as countless mythic heroes before him. Old myths never died; they just got lightsabers.",
-    "summary": "George Lucas built Star Wars on the 'hero's journey,' a story pattern Joseph Campbell found in myths worldwide.",
-    "categoryId": "literature",
-    "topic": "Myths",
-    "tags": [
-      "myth",
-      "heros-journey",
-      "star-wars"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "myths-explain-world",
-      "myths-culture-validation",
-      "fairy-tales-folk-and-art",
-      "apollo13-failure-not-option-myth",
-      "taste-buds-thousands-on-tongue"
-    ],
-    "themes": [
-      "stars-and-cosmos",
-      "myth-vs-reality",
-      "transformation-metamorphosis",
-      "storytelling-and-narrative"
     ]
   },
   {
@@ -10908,8 +10359,8 @@
       "tongue-twisters-practice-tools",
       "sign-language-complete-language",
       "accents-not-same-as-dialects",
-      "laughter-social-signal",
-      "writing-systems-sound-or-meaning"
+      "writing-systems-sound-or-meaning",
+      "dictionaries-began-bilingual"
     ],
     "themes": []
   },
@@ -11414,8 +10865,8 @@
       "domes-romans-scaled-up",
       "domes-arch-turned-space",
       "gothic-architecture-walls-of-light",
-      "columns-support-and-symbol",
-      "gothic-architecture-pointed-up"
+      "gothic-architecture-pointed-up",
+      "columns-support-and-symbol"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -11552,8 +11003,8 @@
       "gothic-architecture-walls-of-light",
       "skyscrapers-technology-coincidence",
       "urban-planning-technical-political",
-      "cranes-lift-and-shift-sideways",
-      "glass-buildings-postwar-energy"
+      "glass-buildings-postwar-energy",
+      "pyramids-global-form"
     ],
     "themes": [
       "architecture-and-structures"
@@ -11578,7 +11029,8 @@
       "pyramids-giza-fame",
       "skyscrapers-technology-coincidence",
       "ancient-egypt-3000-years",
-      "woolly-mammoths-late-islands"
+      "woolly-mammoths-late-islands",
+      "gothic-architecture-pointed-up"
     ],
     "themes": [
       "architecture-and-structures",
@@ -11662,8 +11114,8 @@
       "gothic-architecture-pointed-up",
       "pyramids-global-form",
       "earthquake-engineering-strong-joints",
-      "cranes-lift-and-shift-sideways",
-      "elevators-otis-safety-brake"
+      "elevators-otis-safety-brake",
+      "domes-arch-turned-space"
     ],
     "themes": [
       "architecture-and-structures",
@@ -11689,7 +11141,7 @@
       "ancient-temples-sacred-design",
       "domes-arch-turned-space",
       "elevators-otis-safety-brake",
-      "cranes-lift-and-shift-sideways"
+      "earthquake-engineering-strong-joints"
     ],
     "themes": [
       "architecture-and-structures",
@@ -11846,7 +11298,7 @@
       "castles-not-palaces",
       "pyramids-giza-fame",
       "forced-perspective-focus-planning",
-      "gothic-architecture-pointed-up"
+      "urban-planning-city-shaping"
     ],
     "themes": [
       "war-and-conflict",
@@ -11923,8 +11375,8 @@
     "featured": false,
     "relatedFactIds": [
       "egyptian-religion-many-gods",
-      "sasquatch-footprint-legend",
       "kraken-may-reflect-squid",
+      "sasquatch-footprint-legend",
       "heart-symbol-ancient-beliefs",
       "yeti-himalayan-snowline"
     ],
@@ -13183,8 +12635,8 @@
     "featured": false,
     "relatedFactIds": [
       "blood-transfusions-human-blood-breakthrough",
-      "germ-theory-changed-cleanliness",
       "transplant-surgery-rejection",
+      "germ-theory-changed-cleanliness",
       "germ-theory-key-figures",
       "blood-types-antigens"
     ],
@@ -13277,34 +12729,6 @@
     ]
   },
   {
-    "id": "antibiotics-target-bacteria",
-    "headline": "Most Antibiotics Are Stolen Microbial Weapons",
-    "body": "Here is the twist behind antibiotics: many were not invented by people at all. Molds and soil bacteria evolved these chemicals over millions of years to poison their microbial rivals. We simply discovered the war already happening underground and borrowed the weapons. That is also why antibiotics do nothing against viruses like a cold, since they were built to target bacteria. We are latecomers to a fight microbes have waged forever.",
-    "summary": "Many antibiotics are chemical weapons microbes evolved to fight each other, which we borrowed.",
-    "categoryId": "medicine",
-    "topic": "Antibiotics",
-    "tags": [
-      "antibiotics",
-      "bacteria",
-      "microbes"
-    ],
-    "readTimeSeconds": 50,
-    "featured": false,
-    "relatedFactIds": [
-      "antibiotics-penicillin-accident",
-      "transplant-surgery-rejection",
-      "blood-transfusions-began-before-types",
-      "anesthesia-not-always-unconscious",
-      "anesthesia-made-surgery-bearable"
-    ],
-    "themes": [
-      "medicine-and-cures",
-      "war-and-conflict",
-      "hidden-underground",
-      "materials-and-chemistry"
-    ]
-  },
-  {
     "id": "antibiotics-penicillin-accident",
     "headline": "The First Penicillin Patient's Medicine Was Recycled From His Urine",
     "body": "Alexander Fleming noticed in 1928 that a stray mold had killed bacteria on a forgotten dish, but he could barely make the drug. Years later, other scientists treated a policeman dying from a scratch he got pruning roses. He improved fast, then they ran out of penicillin. It was so precious they filtered it back out of his urine to keep dosing him. Even that was not enough, and he died.",
@@ -13319,12 +12743,11 @@
     "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
-      "antibiotics-target-bacteria",
       "placebo-effect-clinical-trials",
       "anesthesia-not-always-unconscious",
       "anesthesia-made-surgery-bearable",
       "vaccines-train-immune-system",
-      "placebo-effect-expectation"
+      "insulin-pancreas-beta-cells"
     ],
     "themes": [
       "medicine-and-cures",
@@ -13350,7 +12773,7 @@
       "blood-transfusions-began-before-types",
       "mri-magnets-not-x-rays",
       "insulin-pancreas-beta-cells",
-      "prosthetics-materials-matter"
+      "germ-theory-key-figures"
     ],
     "themes": [
       "human-body-quirks",
@@ -13404,7 +12827,7 @@
       "germ-theory-key-figures",
       "blood-transfusions-human-blood-breakthrough",
       "soap-germ-membranes",
-      "prosthetics-more-than-limbs"
+      "x-rays-accidental-discovery-impact"
     ],
     "themes": [
       "parental-care"
@@ -13572,34 +12995,6 @@
     ]
   },
   {
-    "id": "placebo-effect-expectation",
-    "headline": "Placebos Can Work Even When You Know They're Fake",
-    "body": "The placebo effect can improve how people feel after a treatment with no active ingredient, usually linked to expectation. But here is the strange part: in \"open-label\" studies, patients are told outright that they are taking a fake pill, with nothing in it, and many still report real relief from things like pain or fatigue. The ritual of taking medicine, and the hope around it, seems to matter even when the secret is out.",
-    "summary": "In open-label trials, patients improve from placebos even after being told the pills are fake.",
-    "categoryId": "medicine",
-    "topic": "Placebo Effect",
-    "tags": [
-      "placebo-effect",
-      "expectation",
-      "psychology"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "placebo-effect-clinical-trials",
-      "antibiotics-penicillin-accident",
-      "anesthesia-not-always-unconscious",
-      "anesthesia-made-surgery-bearable",
-      "vaccines-train-immune-system"
-    ],
-    "themes": [
-      "medicine-and-cures",
-      "luck-ritual-superstition",
-      "psychology-and-behavior",
-      "food-and-cuisine"
-    ]
-  },
-  {
     "id": "placebo-effect-clinical-trials",
     "headline": "The Placebo Has an Evil Twin: the Nocebo",
     "body": "Just as belief can heal, it can also harm. The placebo's dark twin is the nocebo effect, where expecting something bad makes you feel it. In drug trials, people given the dummy sugar pill often report real side effects, like headaches or nausea, simply because they were warned the \"medicine\" might cause them. The same machinery that turns hope into relief can turn fear into genuine symptoms. Expectation cuts both ways.",
@@ -13614,11 +13009,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "placebo-effect-expectation",
       "antibiotics-penicillin-accident",
       "anesthesia-not-always-unconscious",
       "anesthesia-made-surgery-bearable",
-      "vaccines-train-immune-system"
+      "vaccines-train-immune-system",
+      "insulin-pancreas-beta-cells"
     ],
     "themes": [
       "medicine-and-cures",
@@ -13641,11 +13036,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "prosthetics-materials-matter",
       "x-rays-invisible-light",
       "anesthesia-not-always-unconscious",
       "monotheism-one-god",
       "hieroglyphics-always-phonetic",
+      "transplant-surgery-donor-shortage",
       "diagnostic-imaging-many-tools"
     ],
     "themes": [
@@ -13653,32 +13048,6 @@
       "medicine-and-cures",
       "world-first",
       "lost-and-rediscovered"
-    ]
-  },
-  {
-    "id": "prosthetics-materials-matter",
-    "headline": "Some Bionic Hands Now Move and Feel by Thought",
-    "body": "A prosthesis is an engineering puzzle of strength, weight, and comfort, but the newest limbs go further. Advanced bionic hands can be wired into the nerves and muscles left in the arm, so the person moves the hand simply by thinking, the way they once moved the real one. Some can even send touch signals back, letting the wearer feel pressure or texture. The line between a tool strapped on and a body part is starting to blur.",
-    "summary": "Advanced bionic limbs connect to nerves so users can move, and sometimes feel, by thought.",
-    "categoryId": "medicine",
-    "topic": "Prosthetics",
-    "tags": [
-      "prosthetics",
-      "bionics",
-      "medical-engineering"
-    ],
-    "readTimeSeconds": 53,
-    "featured": false,
-    "relatedFactIds": [
-      "prosthetics-more-than-limbs",
-      "blood-types-antigens",
-      "germ-theory-key-figures",
-      "insulin-pancreas-beta-cells",
-      "germ-theory-changed-cleanliness"
-    ],
-    "themes": [
-      "human-body-quirks",
-      "games-and-play"
     ]
   },
   {
@@ -13728,8 +13097,7 @@
       "blood-transfusions-began-before-types",
       "insulin-pancreas-beta-cells",
       "germ-theory-key-figures",
-      "blood-types-antigens",
-      "antibiotics-target-bacteria"
+      "blood-types-antigens"
     ],
     "themes": [
       "medicine-and-cures",
@@ -14189,6 +13557,7 @@
       "waterfalls-many-causes",
       "valleys-climate-influence",
       "moon-europa-ocean",
+      "saturn-enceladus-ocean",
       "mount-vesuvius-population-risk"
     ],
     "themes": [
@@ -14932,8 +14301,8 @@
     "featured": false,
     "relatedFactIds": [
       "seasons-sunlight-angle",
-      "tornadoes-mesocyclone",
       "hurricanes-tropical-cyclones",
+      "tornadoes-mesocyclone",
       "uranus-sideways-planet",
       "hail-different-from-sleet"
     ],
@@ -15144,7 +14513,7 @@
       "heatstroke-fan-useless-above-99",
       "uranus-coldest-planet",
       "aurora-other-planets",
-      "heatstroke-brain-confusion-sign"
+      "molecules-smallest-identity-unit"
     ],
     "themes": [
       "extreme-temperature",
@@ -15220,8 +14589,8 @@
       "hurricanes-storm-surge",
       "hurricanes-eye-eyewall-rainbands",
       "el-nino-global-weather",
-      "waves-disturbance-travels",
       "pulsars-magnetar-burst-sunlight",
+      "energy-capacity-to-work",
       "internal-combustion-engines-combustion-inside"
     ],
     "themes": [
@@ -15537,8 +14906,8 @@
       "batteries-primary-vs-storage",
       "batteries-portable-power",
       "light-bulb-changed-night",
-      "superconductivity-zero-resistance",
-      "telephone-long-distance-challenge"
+      "telephone-long-distance-challenge",
+      "gps-everyday-infrastructure"
     ],
     "themes": [
       "energy-and-power"
@@ -15863,7 +15232,7 @@
       "batteries-portable-power",
       "batteries-primary-vs-storage",
       "foley-artists-junk-stages",
-      "television-kept-changing"
+      "telephone-long-distance-challenge"
     ],
     "themes": [
       "perception-and-brain",
@@ -15941,8 +15310,8 @@
       "light-bulb-filament",
       "light-bulb-not-one-inventor-story",
       "batteries-electrochemical-cells",
-      "superconductivity-zero-resistance",
-      "electricity-static-electron-transfer"
+      "electricity-static-electron-transfer",
+      "electricity-electric-charges"
     ],
     "themes": [
       "energy-and-power",
@@ -16150,8 +15519,8 @@
     "relatedFactIds": [
       "sacred-texts-scripture-authority",
       "hinduism-karma-samsara-moksha",
-      "buddhism-spread-across-asia",
       "pilgrimage-many-destinations",
+      "buddhism-spread-across-asia",
       "religion-social-life"
     ],
     "themes": [
@@ -16469,8 +15838,8 @@
       "dinosaur-eggs-all-dinosaurs-hatched",
       "velociraptor-asian-dromaeosaur",
       "iguanodon-iguana-tooth-name",
-      "octopus-mothers-stop-eating",
-      "fossils-careful-excavation"
+      "fossils-careful-excavation",
+      "iguanodon-thumb-spike"
     ],
     "themes": [
       "parental-care"
@@ -17556,10 +16925,10 @@
     "featured": false,
     "relatedFactIds": [
       "blackbeard-treasure-myth",
-      "pirate-codes-articles",
-      "buccaneers-democratic-discipline",
-      "pirate-codes-harsh-punishments",
-      "female-pirates-bonny-read"
+      "female-pirates-bonny-read",
+      "treasure-maps-saved-life",
+      "pirate-havens-nassau",
+      "captain-kidd-privateer"
     ],
     "themes": [
       "war-and-conflict",
@@ -17585,7 +16954,7 @@
       "treasure-maps-navigation-intelligence",
       "captain-kidd-quedagh-merchant",
       "treasure-maps-saved-life",
-      "pirate-codes-articles"
+      "female-pirates-bonny-read"
     ],
     "themes": [
       "hidden-underground",
@@ -17608,42 +16977,15 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "buccaneers-democratic-discipline",
       "privateers-profit-motive",
       "pirate-havens-nassau",
       "pirate-havens-safe-base",
+      "treasure-maps-navigation-intelligence",
       "blackbeard-treasure-myth"
     ],
     "themes": [
       "collective-behavior",
       "symbiosis-and-cooperation"
-    ]
-  },
-  {
-    "id": "buccaneers-democratic-discipline",
-    "headline": "Buccaneers Had a Price List for Lost Body Parts",
-    "body": "Buccaneer crews ran on surprisingly organized rules, including an early form of injury insurance. Before sailing, they agreed on set payouts for wounds suffered in battle, drawn from the loot before shares were divided. Records describe fixed rates: so many pieces of eight for the loss of a right arm, a bit less for a left arm or a leg, smaller sums for an eye or a finger. A maimed pirate was compensated by a grim but genuine price list.",
-    "summary": "Buccaneers agreed on fixed payouts for battle injuries, a price list valuing a lost arm, leg, eye, or finger.",
-    "categoryId": "pirates",
-    "topic": "Buccaneers",
-    "tags": [
-      "buccaneers",
-      "injury-compensation",
-      "pirate-codes"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "buccaneers-targeted-spain",
-      "pirate-codes-harsh-punishments",
-      "pirate-codes-articles",
-      "female-pirates-bonny-read",
-      "privateers-legal-raiders"
-    ],
-    "themes": [
-      "money-trade-and-value",
-      "lost-and-rediscovered",
-      "war-and-conflict"
     ]
   },
   {
@@ -17691,39 +17033,13 @@
       "treasure-maps-navigation-intelligence",
       "blackbeard-treasure-myth",
       "atari-cartridge-shift",
-      "pirate-codes-articles"
+      "privateers-legal-raiders"
     ],
     "themes": [
       "storytelling-and-narrative",
       "parental-care",
       "hidden-underground",
       "myth-vs-reality"
-    ]
-  },
-  {
-    "id": "jolly-roger-surrender-tool",
-    "headline": "A Red Pirate Flag Was Scarier Than the Black One",
-    "body": "The name 'Jolly Roger' may come from the French jolie rouge, meaning 'pretty red,' and the color carried a deadly message. A black flag warned a ship to surrender and its crew might be spared. But a red flag meant something far worse: no quarter, no mercy, everyone aboard would be killed. So the truly terrifying sight was not the famous black skull-and-crossbones but a blood-red banner signaling that giving up would save no one. Color was a coded threat.",
-    "summary": "A pirate's red flag meant 'no mercy, everyone dies,' making it more terrifying than the black surrender-or-be-spared flag.",
-    "categoryId": "pirates",
-    "topic": "Jolly Roger",
-    "tags": [
-      "jolly-roger",
-      "jolie-rouge",
-      "no-quarter"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "treasure-maps-saved-life",
-      "pirate-codes-harsh-punishments",
-      "afterimages-retina-desensitized",
-      "pirate-havens-nassau",
-      "blackbeard-queen-annes-revenge"
-    ],
-    "themes": [
-      "human-body-quirks",
-      "color-and-light"
     ]
   },
   {
@@ -17743,9 +17059,9 @@
     "relatedFactIds": [
       "privateers-profit-motive",
       "captain-kidd-privateer",
-      "buccaneers-democratic-discipline",
-      "pirate-codes-articles",
-      "pirate-codes-harsh-punishments"
+      "female-pirates-bonny-read",
+      "pirate-havens-safe-base",
+      "treasure-maps-navigation-intelligence"
     ],
     "themes": [
       "money-trade-and-value",
@@ -17794,9 +17110,9 @@
     "relatedFactIds": [
       "treasure-maps-navigation-intelligence",
       "captain-kidd-privateer",
-      "pirate-codes-articles",
       "female-pirates-bonny-read",
-      "blackbeard-treasure-myth"
+      "blackbeard-treasure-myth",
+      "blackbeard-queen-annes-revenge"
     ],
     "themes": [
       "exploration-and-navigation",
@@ -17823,67 +17139,12 @@
       "captain-kidd-quedagh-merchant",
       "blackbeard-treasure-myth",
       "captain-kidd-privateer",
-      "pirate-codes-articles"
+      "privateers-legal-raiders"
     ],
     "themes": [
       "storytelling-and-narrative",
       "hidden-underground",
       "invention-and-breakthrough"
-    ]
-  },
-  {
-    "id": "pirate-codes-articles",
-    "headline": "Pirate Crews Voted Like a Democracy at Sea",
-    "body": "While kings ruled by birthright on land, many pirate ships ran as rough democracies decades ahead of their time. Crews elected their captain by vote and could depose him just as easily if he proved cowardly or unfair. A separate elected officer, the quartermaster, checked the captain's power and handled disputes and loot. The captain held absolute authority only during a chase or battle. Outlaws at sea practiced a kind of shared self-government their law-abiding societies did not.",
-    "summary": "Many pirate crews elected and could vote out their captains, running as democracies far ahead of their time.",
-    "categoryId": "pirates",
-    "topic": "Pirate Codes",
-    "tags": [
-      "pirate-codes",
-      "democracy",
-      "quartermaster"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "pirate-codes-harsh-punishments",
-      "buccaneers-democratic-discipline",
-      "privateers-legal-raiders",
-      "captain-kidd-privateer",
-      "blackbeard-queen-annes-revenge"
-    ],
-    "themes": [
-      "energy-and-power",
-      "storytelling-and-narrative",
-      "war-and-conflict"
-    ]
-  },
-  {
-    "id": "pirate-codes-harsh-punishments",
-    "headline": "Pirates Dreaded Marooning More Than a Sea Battle",
-    "body": "Pirate crews governed themselves with written codes, and their harshest sentence was marooning. A pirate who betrayed the crew was rowed to a tiny, deserted spit of sand — often little more than a sandbar that vanished at high tide — and left behind as the ship sailed away. With no fresh water and no way off the island, the punishment traded a quick fight for slow, lonely isolation. To a pirate, being cut off from the crew was a fate worse than any battle.",
-    "summary": "The pirate code's worst sentence was marooning — being abandoned alone on a tiny, deserted spit of sand.",
-    "categoryId": "pirates",
-    "topic": "Pirate Codes",
-    "tags": [
-      "pirate-codes",
-      "marooning",
-      "punishment"
-    ],
-    "readTimeSeconds": 56,
-    "featured": false,
-    "relatedFactIds": [
-      "pirate-codes-articles",
-      "buccaneers-democratic-discipline",
-      "female-pirates-bonny-read",
-      "privateers-legal-raiders",
-      "blackbeard-queen-annes-revenge"
-    ],
-    "themes": [
-      "gravity-and-orbits",
-      "money-trade-and-value",
-      "lost-and-rediscovered",
-      "war-and-conflict"
     ]
   },
   {
@@ -17901,11 +17162,11 @@
     "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
-      "buccaneers-democratic-discipline",
-      "pirate-codes-harsh-punishments",
-      "pirate-codes-articles",
       "treasure-maps-saved-life",
-      "blackbeard-queen-annes-revenge"
+      "blackbeard-treasure-myth",
+      "blackbeard-queen-annes-revenge",
+      "pirate-havens-safe-base",
+      "privateers-legal-raiders"
     ],
     "themes": [
       "record-extremes",
@@ -17931,8 +17192,8 @@
       "pirate-havens-safe-base",
       "blackbeard-treasure-myth",
       "female-pirates-bonny-read",
-      "pirate-codes-articles",
-      "buccaneers-targeted-spain"
+      "buccaneers-targeted-spain",
+      "captain-kidd-privateer"
     ],
     "themes": [
       "motion-and-force"
@@ -18514,8 +17775,8 @@
     "relatedFactIds": [
       "challenger-breakup-forces",
       "great-fire-london-four-fifths",
-      "hindenburg-ended-airship-travel",
       "chernobyl-unit-four-explosion",
+      "hindenburg-ended-airship-travel",
       "fukushima-mass-evacuation"
     ],
     "themes": [
@@ -18750,8 +18011,8 @@
       "snake-milkers-venom-collection",
       "snake-milkers-research-venom",
       "food-tasters-ice-cream-texture",
-      "opportunity-cost-better-decisions",
-      "professional-sleepers-head-down"
+      "professional-sleepers-head-down",
+      "odor-judges-trained-panel"
     ],
     "themes": [
       "money-trade-and-value",
@@ -19067,8 +18328,8 @@
       "pencils-borrowdale-discovery",
       "paper-clips-first-patent",
       "paper-clips-norway-symbol",
-      "forks-replaced-table-knives",
-      "zippers-slide-fastener"
+      "keys-ancient-pin-tumbler",
+      "forks-replaced-table-knives"
     ],
     "themes": [
       "money-trade-and-value",
@@ -19191,8 +18452,8 @@
       "pencils-hardness-grades",
       "buttons-shell-to-plastic",
       "paper-clips-first-patent",
-      "trade-crosses-borders",
-      "umbrellas-europe-return"
+      "umbrellas-europe-return",
+      "mirrors-venice-glass"
     ],
     "themes": [
       "money-trade-and-value"
@@ -19215,8 +18476,8 @@
     "relatedFactIds": [
       "pencils-borrowdale-discovery",
       "forks-single-point",
-      "keys-ancient-pin-tumbler",
       "paper-clips-first-patent",
+      "keys-ancient-pin-tumbler",
       "umbrellas-europe-return"
     ],
     "themes": [
@@ -19267,7 +18528,7 @@
       "mirrors-venice-glass",
       "pencils-borrowdale-discovery",
       "paper-clips-first-patent",
-      "toothbrushes-hog-bristles"
+      "buttons-shell-to-plastic"
     ],
     "themes": []
   },
@@ -19393,8 +18654,8 @@
       "paper-clips-first-patent",
       "forks-replaced-table-knives",
       "keys-ancient-pin-tumbler",
-      "superconductivity-zero-resistance",
-      "buttons-shell-to-plastic"
+      "buttons-shell-to-plastic",
+      "zippers-slide-fastener"
     ],
     "themes": [
       "invention-and-breakthrough",
@@ -19496,8 +18757,8 @@
     "featured": false,
     "relatedFactIds": [
       "dishwasher-chipped-dishes",
-      "nonstick-pans-accidental-teflon",
       "refrigerators-slow-spoilage",
+      "nonstick-pans-accidental-teflon",
       "nonstick-pans-pfas-concerns",
       "smoke-detectors-1970s-change"
     ],
@@ -19505,32 +18766,6 @@
       "materials-and-chemistry",
       "animal-intelligence",
       "bioluminescence-and-glow"
-    ]
-  },
-  {
-    "id": "refrigerators-remove-heat",
-    "headline": "Leaving the Fridge Open Actually Warms the Room",
-    "body": "A refrigerator cannot create cold; it can only move heat. It pulls warmth out of the food compartment and dumps it out the back, which is why the coils behind or beneath a fridge feel warm. This leads to a counterintuitive fact: you cannot cool a kitchen by leaving the refrigerator door open. The machine would pump the heat right back into the same room, and its hardworking motor would add even more, leaving the kitchen slightly warmer than before, not cooler.",
-    "summary": "A fridge moves heat rather than making cold, so leaving its door open actually warms the room slightly.",
-    "categoryId": "household-science",
-    "topic": "Refrigerators",
-    "tags": [
-      "refrigerators",
-      "heat-transfer",
-      "physics"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "refrigerators-vapor-cycle",
-      "refrigerators-slow-spoilage",
-      "microwaves-accidental-cooking",
-      "nonstick-pans-pfas-concerns",
-      "smoke-detectors-1970s-change"
-    ],
-    "themes": [
-      "machines-and-mechanisms",
-      "food-and-cuisine"
     ]
   },
   {
@@ -19549,10 +18784,10 @@
     "featured": false,
     "relatedFactIds": [
       "refrigerators-slow-spoilage",
-      "refrigerators-remove-heat",
       "vacuum-cleaners-horse-drawn",
       "vacuum-cleaners-suck-not-blow",
-      "dishwasher-chipped-dishes"
+      "dishwasher-chipped-dishes",
+      "nonstick-pans-accidental-teflon"
     ],
     "themes": [
       "invention-and-breakthrough",
@@ -19575,41 +18810,14 @@
     "featured": false,
     "relatedFactIds": [
       "refrigerators-vapor-cycle",
-      "refrigerators-remove-heat",
       "nonstick-pans-accidental-teflon",
       "vacuum-cleaners-horse-drawn",
-      "nonstick-pans-pfas-concerns"
+      "nonstick-pans-pfas-concerns",
+      "soap-germ-membranes"
     ],
     "themes": [
       "materials-and-chemistry",
       "invention-and-breakthrough"
-    ]
-  },
-  {
-    "id": "soap-micelles",
-    "headline": "The Lather Is Not What Cleans Your Hands",
-    "body": "It feels like rich, foamy bubbles are what get you clean, but the lather is mostly a side show. The real work is done by soap molecules surrounding bits of oil and grime and packaging them into microscopic balls called micelles. Each micelle traps dirt in its center, keeping it from sticking back to your skin so the water can rinse it away. Bubbles are just air caught in soapy film; you can clean perfectly well with soap that barely foams at all.",
-    "summary": "Soap cleans by trapping grime in microscopic 'micelles,' not through its bubbles, which are merely a side effect.",
-    "categoryId": "household-science",
-    "topic": "Soap",
-    "tags": [
-      "soap",
-      "micelles",
-      "cleaning-science"
-    ],
-    "readTimeSeconds": 50,
-    "featured": false,
-    "relatedFactIds": [
-      "soap-germ-membranes",
-      "nonstick-pans-pfas-concerns",
-      "nonstick-pans-accidental-teflon",
-      "refrigerators-slow-spoilage",
-      "smoke-detectors-1970s-change"
-    ],
-    "themes": [
-      "materials-and-chemistry",
-      "human-body-quirks",
-      "storytelling-and-narrative"
     ]
   },
   {
@@ -19627,11 +18835,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "soap-micelles",
       "refrigerators-slow-spoilage",
       "nonstick-pans-accidental-teflon",
       "germ-theory-microbes-cause-disease",
-      "nonstick-pans-pfas-concerns"
+      "nonstick-pans-pfas-concerns",
+      "smoke-detectors-1970s-change"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -19656,8 +18864,8 @@
       "air-conditioning-comfort-later",
       "microwaves-magnetron-roots",
       "refrigerators-vapor-cycle",
-      "refrigerators-remove-heat",
-      "refrigerators-slow-spoilage"
+      "refrigerators-slow-spoilage",
+      "vacuum-cleaners-suck-not-blow"
     ],
     "themes": [
       "plants-and-botany",
@@ -19683,9 +18891,9 @@
     "relatedFactIds": [
       "air-conditioning-printing-plant",
       "vacuum-cleaners-horse-drawn",
-      "soap-micelles",
       "smoke-detectors-1970s-change",
-      "vacuum-cleaners-suck-not-blow"
+      "vacuum-cleaners-suck-not-blow",
+      "vacuum-cleaners-luxury-first"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -19764,10 +18972,10 @@
     "featured": false,
     "relatedFactIds": [
       "microwaves-magnetron-roots",
-      "refrigerators-remove-heat",
       "nonstick-pans-pfas-concerns",
+      "smoke-detectors-1970s-change",
       "nazca-lines-dry-preserved",
-      "smoke-detectors-1970s-change"
+      "vacuum-cleaners-luxury-first"
     ],
     "themes": [
       "food-and-cuisine",
@@ -19819,8 +19027,8 @@
       "vacuum-cleaners-horse-drawn",
       "vacuum-cleaners-luxury-first",
       "dishwasher-chipped-dishes",
-      "refrigerators-slow-spoilage",
-      "refrigerators-vapor-cycle"
+      "refrigerators-vapor-cycle",
+      "refrigerators-slow-spoilage"
     ],
     "themes": [
       "invention-and-breakthrough",
@@ -19872,8 +19080,8 @@
       "vacuum-cleaners-suck-not-blow",
       "vacuum-cleaners-horse-drawn",
       "microwaves-accidental-cooking",
-      "soap-micelles",
-      "microwaves-magnetron-roots"
+      "microwaves-magnetron-roots",
+      "dishwasher-chipped-dishes"
     ],
     "themes": [
       "money-trade-and-value",
@@ -19901,7 +19109,7 @@
       "refrigerators-slow-spoilage",
       "soap-germ-membranes",
       "polymers-tunable-materials",
-      "soap-micelles"
+      "smoke-detectors-1970s-change"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -19925,7 +19133,7 @@
     "relatedFactIds": [
       "nonstick-pans-accidental-teflon",
       "smoke-detectors-1970s-change",
-      "soap-micelles",
+      "refrigerators-slow-spoilage",
       "dead-sea-lowest-water",
       "irrigation-theory-debated"
     ],
@@ -20314,7 +19522,7 @@
       "orange-named-late",
       "pink-not-always-girly",
       "generative-ai-new-content-prompts",
-      "pink-once-for-boys"
+      "gold-metal-as-pigment"
     ],
     "themes": [
       "camouflage-and-mimicry",
@@ -21006,7 +20214,7 @@
     "relatedFactIds": [
       "snoring-common-risk",
       "sleepwalking-childhood-common",
-      "insomnia-sleep-opportunity",
+      "nightmares-rem-second-half",
       "supersonic-flight-hypersonic-mach-five",
       "cicadas-loud-songs",
       "taos-hum-low-frequency"
@@ -21687,7 +20895,7 @@
       "depth-perception-learned-cues",
       "pink-not-always-girly",
       "crossed-arms-not-always-defensive",
-      "mirage-fake-water"
+      "blind-spots-brain-fills-in"
     ],
     "themes": [
       "perception-and-brain",
@@ -22794,9 +22002,9 @@
     "relatedFactIds": [
       "eye-contact-cultural-meaning",
       "laughter-contagious",
+      "gut-microbiome-unique-network",
       "laughter-not-always-jokes",
-      "crossed-arms-not-always-defensive",
-      "posture-spine-curves"
+      "crossed-arms-not-always-defensive"
     ],
     "themes": [
       "collective-behavior",
@@ -22934,31 +22142,6 @@
     ]
   },
   {
-    "id": "laughter-social-signal",
-    "headline": "Most Laughter Has Nothing to Do With Jokes",
-    "body": "A researcher who secretly logged more than a thousand real-life laughs made a surprising discovery: only a small fraction followed anything resembling a joke. Most laughter erupted after utterly ordinary lines like 'I know!' or 'See you later.' Laughter, it turns out, is mainly social glue, a way of signaling connection rather than reacting to humor. Even stranger, the person doing the talking usually laughs more than the people listening to them.",
-    "summary": "Studying real laughs showed most follow ordinary remarks, not jokes, and speakers laugh most.",
-    "categoryId": "human-behavior",
-    "topic": "Laughter",
-    "tags": [
-      "laughter",
-      "social-bonding",
-      "research"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "laughter-contagious",
-      "laughter-not-always-jokes",
-      "gestures-before-words",
-      "tongue-twisters-sound-collisions",
-      "eye-contact-cultural-meaning"
-    ],
-    "themes": [
-      "numbers-and-mathematics"
-    ]
-  },
-  {
     "id": "laughter-contagious",
     "headline": "Rats Giggle When You Tickle Them",
     "body": "Laughter is far older and more widespread than human comedy. Rats, when tickled by researchers, let out rapid high-pitched chirps too high for us to hear, and they eagerly chase the hand that tickles them, apparently wanting more. Great apes such as chimps and gorillas make panting, laugh-like sounds during play-wrestling and chasing games. The roots of laughter reach deep into our animal past, long before anyone told a joke.",
@@ -22973,11 +22156,11 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "laughter-social-signal",
       "laughter-not-always-jokes",
       "facial-expressions-evolution",
+      "eye-contact-engagement",
       "giant-sloths-claws-leaves",
-      "sharks-older-than-dinosaurs"
+      "handshakes-quaker-greeting"
     ],
     "themes": [
       "parental-care",
@@ -23002,10 +22185,10 @@
     "featured": false,
     "relatedFactIds": [
       "laughter-contagious",
-      "laughter-social-signal",
       "smiling-short-expression",
       "facial-expressions-universal",
-      "gestures-before-words"
+      "gestures-before-words",
+      "facial-expressions-evolution"
     ],
     "themes": [
       "psychology-and-behavior"
@@ -23056,8 +22239,8 @@
       "crossed-arms-not-always-defensive",
       "facial-expressions-universal",
       "gestures-before-words",
-      "habits-single-experience",
-      "smiling-short-expression"
+      "smiling-short-expression",
+      "laughter-not-always-jokes"
     ],
     "themes": [
       "automation-robots-ai",
@@ -23396,7 +22579,7 @@
       "marco-polo-asia-journey",
       "nellie-bly-asylum-reporting",
       "nellie-bly-72-days",
-      "ibn-battuta-75000-miles"
+      "sacagawea-shoshone-horses"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -25794,7 +24977,7 @@
       "sewers-public-health",
       "coins-ruler-portraits",
       "irrigation-theory-debated",
-      "roads-military-first"
+      "coins-ancient-origins"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -26231,7 +25414,7 @@
       "mammalian-dive-reflex-calms-racing-heart",
       "freediving-urge-is-co2-not-oxygen",
       "brakes-hydraulic-balance",
-      "hydraulics-pressure-everywhere"
+      "hypothermia-babies-lose-heat-fastest"
     ],
     "themes": [
       "motion-and-force",
@@ -26512,7 +25695,7 @@
       "giant-sequoias-tiny-seeds",
       "socotra-endemic-plants",
       "giraffes-spread-legs-drink",
-      "chameleons-two-way-eyes"
+      "caves-speleothems-redeposited"
     ],
     "themes": [
       "plants-and-botany",
@@ -26682,7 +25865,7 @@
       "apollo13-mattingly-measles-swap",
       "apollo13-mailbox-co2-fix",
       "apollo13-failure-not-option-myth",
-      "voyager-program-giant-planet-tour"
+      "butterflies-conservation-decline"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -26769,7 +25952,7 @@
       "earthquake-engineering-strong-joints",
       "apollo13-earth-horizon-navigation",
       "apollo13-failure-not-option-myth",
-      "cranes-lift-and-shift-sideways",
+      "elevators-otis-safety-brake",
       "apollo-guidance-computer-rope-memory"
     ],
     "themes": [
@@ -26822,8 +26005,8 @@
     "readTimeSeconds": 56,
     "featured": false,
     "relatedFactIds": [
-      "anesthesia-made-surgery-bearable",
       "anesthesia-not-always-unconscious",
+      "anesthesia-made-surgery-bearable",
       "apollo13-failure-not-option-myth",
       "apollo13-explosion-lifeboat",
       "vaccines-train-immune-system",
@@ -26852,8 +26035,8 @@
     "featured": false,
     "relatedFactIds": [
       "apollo13-reentry-shallow-angle-cause",
-      "quantum-mechanics-microscopic-predictions",
       "sound-human-frequency-range",
+      "relativity-speed-of-light-limit",
       "apollo13-failure-not-option-myth",
       "apollo13-haise-kidney-infection"
     ],
