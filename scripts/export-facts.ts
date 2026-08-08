@@ -13,6 +13,7 @@ type ApprovedFactRow = {
   featured: string;
   relatedFactIds: string;
   themes?: string;
+  socialHook?: string;
 };
 
 function splitCsvList(value: string) {
@@ -42,6 +43,12 @@ async function main() {
     featured: row.featured === "true",
     relatedFactIds: splitCsvList(row.relatedFactIds),
     themes: splitCsvList(row.themes ?? ""),
+    // Instagram-only rewrite of `headline` that opens a curiosity gap instead
+    // of closing one (see nib-social's growth-strategy doc, §9 Hook Strategy).
+    // Most facts don't have one yet — omitted (not an empty string) so it's
+    // undefined in-app rather than a visible blank field, and so this column
+    // can be filled in gradually without a schema-wide backfill.
+    ...(row.socialHook ? { socialHook: row.socialHook } : {}),
   }));
 
   await fs.mkdir("exports", { recursive: true });
