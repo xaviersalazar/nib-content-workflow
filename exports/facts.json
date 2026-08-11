@@ -55,7 +55,8 @@
       "gravity-and-orbits",
       "stars-and-cosmos",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "There's a planet where the sun rises in the west — and nobody's fully sure why."
   },
   {
     "id": "mars-search-for-life",
@@ -200,7 +201,8 @@
     "themes": [
       "stars-and-cosmos",
       "extreme-temperature"
-    ]
+    ],
+    "socialHook": "Somewhere out there is a planet so light, scientists compare it to Styrofoam."
   },
   {
     "id": "comets-shoemaker-jupiter",
@@ -228,7 +230,8 @@
     ],
     "themes": [
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "In 1994, people around the world watched, live, as a comet slammed into another planet."
   },
   {
     "id": "dwarf-planets-hundreds-more",
@@ -257,7 +260,8 @@
     "themes": [
       "stars-and-cosmos",
       "gravity-and-orbits"
-    ]
+    ],
+    "socialHook": "The official planet count in our own solar system might be missing over a hundred worlds — and nobody's ever seen a single one of them."
   },
   {
     "id": "jupiter-thousand-earths",
@@ -288,7 +292,8 @@
       "record-extremes",
       "gravity-and-orbits",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "Imagine your entire planet as a marble — that's Earth next to this one."
   },
   {
     "id": "jupiter-shortest-day",
@@ -319,7 +324,8 @@
       "gravity-and-orbits",
       "stars-and-cosmos",
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "The biggest planet in the solar system also has the shortest day of any of them."
   },
   {
     "id": "jupiter-great-red-spot",
@@ -346,7 +352,8 @@
     "themes": [
       "stars-and-cosmos",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "One of the oldest storms in the solar system, big enough to swallow Earth whole, is quietly disappearing — and no one knows why."
   },
   {
     "id": "saturn-titan-lakes",
@@ -375,7 +382,8 @@
       "stars-and-cosmos",
       "record-extremes",
       "extreme-temperature"
-    ]
+    ],
+    "socialHook": "One moon has lakes, rivers, clouds, and rain just like Earth — except nothing on it is actually water."
   },
   {
     "id": "saturn-enceladus-ocean",
@@ -404,7 +412,8 @@
     "themes": [
       "hidden-underground",
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "Scientists found an entire ocean hiding inside a small moon — because it's leaking straight into space."
   },
   {
     "id": "uranus-sideways-planet",
@@ -434,7 +443,8 @@
       "gravity-and-orbits",
       "stars-and-cosmos",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "One planet in our solar system doesn't spin like a top — it rolls through space like a ball someone knocked over."
   },
   {
     "id": "uranus-coldest-planet",
@@ -465,7 +475,8 @@
       "record-extremes",
       "extreme-temperature",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "The coldest planet in the solar system isn't the one farthest from the Sun — and nobody can fully explain why."
   },
   {
     "id": "pluto-heart-shape",
@@ -493,7 +504,8 @@
     "themes": [
       "stars-and-cosmos",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "A spacecraft flew past Pluto and found something nobody expected: a giant, heart-shaped region stretching across its surface."
   },
   {
     "id": "pluto-blue-sky",
@@ -522,7 +534,8 @@
       "record-extremes",
       "color-and-light",
       "bioluminescence-and-glow"
-    ]
+    ],
+    "socialHook": "Billions of miles from the Sun, on a world you'd expect to look nothing like ours, the sky is still blue."
   },
   {
     "id": "solar-system-galactic-year",
@@ -550,7 +563,8 @@
     ],
     "themes": [
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "In all of Earth's history, our solar system has only made about 20 laps around the galaxy."
   },
   {
     "id": "solar-system-only-24-moonwalkers",
@@ -579,7 +593,8 @@
     "themes": [
       "gravity-and-orbits",
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "Only 24 people in all of human history have ever left low Earth orbit — and nobody has since 1972."
   },
   {
     "id": "solar-system-life-only-earth",
@@ -608,7 +623,8 @@
       "stars-and-cosmos",
       "gravity-and-orbits",
       "collective-behavior"
-    ]
+    ],
+    "socialHook": "Something massive may be hiding at the edge of our solar system — and no one has ever actually seen it."
   },
   {
     "id": "sun-billions-of-twins",
@@ -637,7 +653,8 @@
       "energy-and-power",
       "plants-and-botany",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "That warm sunlight on your skin left the Sun's core longer ago than you'd guess — possibly before the last Ice Age."
   },
   {
     "id": "kuiper-belt-arrokoth-red-snowman",
@@ -666,7 +683,8 @@
     "themes": [
       "camouflage-and-mimicry",
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "The most distant world any spacecraft has ever explored looks exactly like a smushed red snowman."
   },
   {
     "id": "oort-cloud-comets-before-humans",
@@ -694,7 +712,8 @@
     "themes": [
       "stars-and-cosmos",
       "gravity-and-orbits"
-    ]
+    ],
+    "socialHook": "Some comets now falling toward the Sun haven't been seen since before humans existed."
   },
   {
     "id": "meteor-showers-tons-fall-daily",
@@ -722,7 +741,8 @@
     "themes": [
       "stars-and-cosmos",
       "timekeeping"
-    ]
+    ],
+    "socialHook": "Space rock is hitting Earth right now — about 48 tons of it, today alone — and you'll never feel a thing."
   },
   {
     "id": "voyager-program-giant-planet-tour",
@@ -750,7 +770,8 @@
       "stars-and-cosmos",
       "flight-and-aviation",
       "exploration-and-navigation"
-    ]
+    ],
+    "socialHook": "One spacecraft flew past two entire planets, once, decades ago — and nothing has gone back since."
   },
   {
     "id": "moon-volcanoes-io",
@@ -778,7 +799,8 @@
     "themes": [
       "stars-and-cosmos",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "One moon in our solar system has hundreds of volcanoes erupting so hard they shoot material hundreds of miles into space."
   },
   {
     "id": "moon-europa-ocean",
@@ -806,7 +828,8 @@
     "themes": [
       "stars-and-cosmos",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "One moon might be hiding more water under its ice than every ocean on Earth combined."
   },
   {
     "id": "moon-ganymede-biggest",
@@ -836,7 +859,8 @@
       "record-extremes",
       "gravity-and-orbits",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "There's a moon in our solar system bigger than an entire planet."
   },
   {
     "id": "black-holes-light-cannot-escape",
@@ -25893,7 +25917,8 @@
       "energy-and-power",
       "exploration-and-navigation",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "Apollo 13's guidance computer was useless — so the crew found their way home using something almost embarrassingly simple."
   },
   {
     "id": "apollo13-explosion-lifeboat",
@@ -25922,7 +25947,8 @@
       "stars-and-cosmos",
       "human-body-quirks",
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "Mission Control once declared a spacecraft \"mortally wounded\" — with the astronauts still inside and 15 minutes of power left to escape it."
   },
   {
     "id": "apollo13-houston-misquote",
@@ -25951,7 +25977,8 @@
       "energy-and-power",
       "lost-and-rediscovered",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "The most famous line from the Apollo 13 disaster? Nobody actually said it."
   },
   {
     "id": "apollo13-mailbox-co2-fix",
@@ -26262,7 +26289,8 @@
     "themes": [
       "accidental-discovery",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "72 hours before launch, one Apollo 13 astronaut was pulled from the crew over a measles scare. It may have saved the mission."
   },
   {
     "id": "apollo13-failure-not-option-myth",
