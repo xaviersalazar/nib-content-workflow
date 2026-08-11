@@ -10,11 +10,11 @@ Living doc for the `socialHook` backfill effort. Continue this in a fresh sessio
 |---|---|
 | `socialHook` field added to schema/CSV/export | ✅ Committed (`1dafe86`) |
 | Venus example (`venus-day-longer-than-year`) | ✅ Committed |
-| 20-fact sample batch, drafted | ⚠️ **Drafted below, NOT yet approved or written to the CSV** |
-| Batch written to `approved-facts.csv` + exported | ❌ Blocked on approval |
+| 20-fact sample batch, drafted | ✅ Approved as-is |
+| Batch written to `approved-facts.csv` + exported | ✅ Committed (`afe1732`) |
 | Next batch (scope TBD) | ❌ Not started |
 
-**Pick up here:** show the batch below to the user, get sign-off or revisions, then write it in (method in [How to write a batch in](#how-to-write-a-batch-in) below).
+**Pick up here:** ask the user to scope the next batch (options in [After this batch: scoping the rest](#after-this-batch-scoping-the-rest) below), then apply [The method](#the-method-apply-to-every-future-batch) to draft it and [How to write a batch in](#how-to-write-a-batch-in) to commit it.
 
 ## The method (apply to every future batch)
 
