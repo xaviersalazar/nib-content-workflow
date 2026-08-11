@@ -84,7 +84,8 @@
       "stars-and-cosmos",
       "color-and-light",
       "bioluminescence-and-glow"
-    ]
+    ],
+    "socialHook": "Everything you know about sunset colors is backwards on this planet."
   },
   {
     "id": "asteroids-less-mass-than-moon",
@@ -112,7 +113,8 @@
     ],
     "themes": [
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "Combine every asteroid ever discovered into one ball, and it still wouldn't outweigh the object next door."
   },
   {
     "id": "asteroids-dart-changed-orbit",
@@ -141,7 +143,8 @@
       "stars-and-cosmos",
       "transformation-metamorphosis",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "In 2022, humans did something no one in history had ever managed — on purpose."
   },
   {
     "id": "exoplanets-rogue-planets",
@@ -168,7 +171,8 @@
     ],
     "themes": [
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "There's a planet out there that has never once seen a sunrise."
   },
   {
     "id": "exoplanets-strange-worlds",
@@ -1833,7 +1837,8 @@
       "parental-care",
       "psychology-and-behavior",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "An octopus mother won't eat a single meal for months while she guards her eggs."
   },
   {
     "id": "dolphins-signature-whistle",
@@ -1860,7 +1865,8 @@
     ],
     "themes": [
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "Every dolphin in the ocean answers to its own personal name."
   },
   {
     "id": "dolphins-echoes",
@@ -1912,7 +1918,8 @@
     ],
     "themes": [
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "One hunting trick lets dolphins make fish jump straight into their mouths."
   },
   {
     "id": "penguins-fathers-incubate",
@@ -1941,7 +1948,8 @@
       "parental-care",
       "human-body-quirks",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "An emperor penguin father will go two months without eating or ever putting the egg down."
   },
   {
     "id": "giraffes-tallest-land-animal",
@@ -3606,7 +3614,8 @@
       "animal-intelligence",
       "games-and-play",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "You would swear you'd notice a gorilla walk across the screen. Half the people watching didn't."
   },
   {
     "id": "decision-making-environment-shapes",
@@ -3633,7 +3642,8 @@
     "themes": [
       "psychology-and-behavior",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "Two countries, equally generous people — but one has six times more organ donors, because of a single checkbox."
   },
   {
     "id": "motivation-money-association",
@@ -3662,7 +3672,8 @@
       "psychology-and-behavior",
       "collective-behavior",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "The reward was supposed to make kids like drawing more. It did the opposite."
   },
   {
     "id": "perception-brain-fills-gaps",
@@ -3692,7 +3703,8 @@
       "lost-and-rediscovered",
       "invention-and-breakthrough",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Part of what you're looking at right now isn't really there — your brain just invented it."
   },
   {
     "id": "sleep-half-brain-awake",
@@ -11968,7 +11980,8 @@
       "energy-and-power",
       "flight-and-aviation",
       "exploration-and-navigation"
-    ]
+    ],
+    "socialHook": "Amelia Earhart's last words were a radio call for help — and then nothing, ever again."
   },
   {
     "id": "amelia-earhart-howland-island",
@@ -12022,7 +12035,8 @@
       "accidental-discovery",
       "ancient-engineering",
       "machines-and-mechanisms"
-    ]
+    ],
+    "socialHook": "Divers looking for sponges accidentally found a machine too advanced to explain."
   },
   {
     "id": "antikythera-predicted-eclipses",
@@ -12051,7 +12065,8 @@
       "record-extremes",
       "materials-and-chemistry",
       "machines-and-mechanisms"
-    ]
+    ],
+    "socialHook": "Two thousand years ago, someone engraved a step-by-step guide into solid bronze."
   },
   {
     "id": "area-51-real-base",
@@ -12077,7 +12092,8 @@
     ],
     "themes": [
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "The government spent decades letting people believe they'd seen aliens — because the truth was classified."
   },
   {
     "id": "area-51-acknowledged-late",
@@ -20545,7 +20561,8 @@
       "perception-and-brain",
       "collective-behavior",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "One woman didn't see in 3D for decades. Then, seemingly overnight, everything popped."
   },
   {
     "id": "depth-perception-learned-cues",
@@ -20602,7 +20619,8 @@
       "energy-and-power",
       "flight-and-aviation",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "Sailors have spotted entire floating cities that were never actually there."
   },
   {
     "id": "mirage-fake-water",
@@ -20654,7 +20672,8 @@
       "origins-and-naming",
       "optical-illusion",
       "exploration-and-navigation"
-    ]
+    ],
+    "socialHook": "In 1597, a group of explorers watched the sun rise two weeks before it possibly could have."
   },
   {
     "id": "pareidolia-faces-randomness",
@@ -20682,7 +20701,8 @@
       "gravity-and-orbits",
       "energy-and-power",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "For decades, people were certain NASA had photographed a face carved into Mars."
   },
   {
     "id": "pareidolia-apophenia",
