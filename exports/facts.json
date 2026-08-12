@@ -24334,7 +24334,8 @@
       "hidden-underground",
       "architecture-and-structures",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "As one sea shrinks, the ground around it is starting to collapse into thousands of sudden sinkholes."
   },
   {
     "id": "dead-sea-buoyancy",
@@ -24359,7 +24360,8 @@
     ],
     "themes": [
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "One sea periodically spits up chunks of natural asphalt — and ancient Egyptians used it to embalm mummies."
   },
   {
     "id": "salar-de-uyuni-largest-salt-flat",
@@ -24387,7 +24389,8 @@
       "transformation-metamorphosis",
       "music-and-sound",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "One salt flat becomes such a perfect mirror that satellites use it to calibrate their instruments."
   },
   {
     "id": "fly-geyser-guided-access",
@@ -24415,7 +24418,8 @@
       "flight-and-aviation",
       "accidental-discovery",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One of the most surreal-looking geysers on Earth exists entirely by accident — a botched drilling job from the 1960s."
   },
   {
     "id": "fly-geyser-art-landscape",
@@ -24442,7 +24446,8 @@
     "themes": [
       "flight-and-aviation",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "Those wild red and green colors covering one geyser aren't minerals or paint. They're alive."
   },
   {
     "id": "door-to-hell-burning-crater",
@@ -24469,7 +24474,8 @@
       "disaster-and-catastrophe",
       "bioluminescence-and-glow",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "One fire was only supposed to burn for a few weeks. It's been burning for over 50 years."
   },
   {
     "id": "door-to-hell-extremophiles",
@@ -24496,7 +24502,8 @@
       "world-first",
       "exploration-and-navigation",
       "survival-adaptation"
-    ]
+    ],
+    "socialHook": "One explorer rappelled 100 feet down into a fiery crater — and found bacteria actually living at the bottom."
   },
   {
     "id": "giants-causeway-basalt-columns",
@@ -24522,7 +24529,8 @@
     "themes": [
       "extreme-temperature",
       "self-organizing-patterns"
-    ]
+    ],
+    "socialHook": "40,000 stone columns at one site cracked into nearly perfect six-sided shapes — and there's a real physical reason why."
   },
   {
     "id": "giants-causeway-finn-mccool",
@@ -24550,7 +24558,8 @@
       "camouflage-and-mimicry",
       "myth-vs-reality",
       "animal-intelligence"
-    ]
+    ],
+    "socialHook": "In one legend, a giant wins a fight against a much bigger rival by disguising himself as a baby."
   },
   {
     "id": "paris-catacombs-cemetery-crisis",
@@ -24578,7 +24587,8 @@
       "record-extremes",
       "human-body-quirks",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "There are more dead people buried beneath the streets of one city than there are living people above it."
   },
   {
     "id": "paris-catacombs-night-transfers",
@@ -24606,7 +24616,8 @@
       "energy-and-power",
       "accidental-discovery",
       "exploration-and-navigation"
-    ]
+    ],
+    "socialHook": "Police once found a secret, fully wired cinema and bar hidden deep in a 200-mile tunnel maze under one city."
   },
   {
     "id": "paris-catacombs-public-visits",
@@ -24634,7 +24645,8 @@
       "hidden-underground",
       "human-body-quirks",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "One man got lost in an underground bone-lined maze in 1793 — and wasn't found until 11 years later."
   },
   {
     "id": "blood-falls-rust-red",
@@ -24660,7 +24672,8 @@
     "themes": [
       "human-body-quirks",
       "exploration-and-navigation"
-    ]
+    ],
+    "socialHook": "For an entire century, nobody could explain why one glacier appeared to bleed bright red."
   },
   {
     "id": "blood-falls-hidden-lake",
@@ -24687,7 +24700,8 @@
       "human-body-quirks",
       "lost-and-rediscovered",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "One glacier is fed by a lake that's been completely sealed off from the outside world for about two million years."
   },
   {
     "id": "pamukkale-thermal-spa",
@@ -24713,7 +24727,8 @@
     "themes": [
       "hidden-underground",
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "One ancient site was called a literal 'gate to hell' because animals dropped dead at its entrance while priests walked away fine."
   },
   {
     "id": "pamukkale-natural-cultural",
@@ -24739,7 +24754,8 @@
     "themes": [
       "disaster-and-catastrophe",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "You can actually swim among toppled ancient Roman columns inside a warm natural spring."
   },
   {
     "id": "socotra-endemic-plants",
@@ -24768,7 +24784,8 @@
       "stars-and-cosmos",
       "medicine-and-cures",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "One island is covered in trees so strange that slicing into them makes them bleed something that looks exactly like blood."
   },
   {
     "id": "lake-hillier-bubblegum-pink",
@@ -24793,7 +24810,8 @@
     ],
     "themes": [
       "color-and-light"
-    ]
+    ],
+    "socialHook": "Scoop water from one lake into a plain glass, and it stays bright bubblegum pink."
   },
   {
     "id": "lake-hillier-color-can-change",
@@ -24820,7 +24838,8 @@
       "color-and-light",
       "survival-adaptation",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "One lake's shocking pink color comes from the exact same pigment that makes flamingos pink."
   },
   {
     "id": "lake-hillier-pink-conditions",
@@ -24847,7 +24866,8 @@
     "themes": [
       "plants-and-botany",
       "deep-sea-and-abyss"
-    ]
+    ],
+    "socialHook": "A bright pink lake sits right next to a deep-blue ocean, separated by nothing but a thin strip of trees."
   },
   {
     "id": "agriculture-domestication-shift",
@@ -26416,7 +26436,8 @@
     "themes": [
       "parental-care",
       "hidden-underground"
-    ]
+    ],
+    "socialHook": "One man was literally born in a cave — and as a grown adult with his own house, he still chooses to sleep there most nights."
   },
   {
     "id": "dragons-blood-tree-origin-legend",
@@ -26476,7 +26497,8 @@
       "plants-and-botany",
       "human-body-quirks",
       "accidental-discovery"
-    ]
+    ],
+    "socialHook": "One real island looked so otherworldly that ancient sailors were convinced they'd found the lost city of Atlantis."
   },
   {
     "id": "socotra-twin-cyclones-2015",
