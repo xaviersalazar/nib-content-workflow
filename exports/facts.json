@@ -19607,7 +19607,8 @@
     ],
     "themes": [
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "The peace sign isn't just abstract shapes — it's actually two hidden military flag signals combined."
   },
   {
     "id": "peace-symbol-despair",
@@ -19633,7 +19634,8 @@
     "themes": [
       "plants-and-botany",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "When the peace sign reached America in the 1960s, some conservative groups genuinely insisted it was a secret satanic symbol."
   },
   {
     "id": "recycling-symbol-earth-day-era",
@@ -19658,7 +19660,8 @@
     ],
     "themes": [
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "That little number inside the recycling arrows isn't actually a promise your town can recycle it."
   },
   {
     "id": "heart-symbol-not-anatomy",
@@ -19685,7 +19688,8 @@
       "human-body-quirks",
       "plants-and-botany",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "The classic heart symbol may not come from anatomy at all — it may come from a plant the ancient Romans loved so much they harvested it into extinction."
   },
   {
     "id": "heart-symbol-ancient-beliefs",
@@ -19711,7 +19715,8 @@
     "themes": [
       "human-body-quirks",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Every time you say something 'touched your heart,' you're quoting a 2,000-year-old anatomy mistake."
   },
   {
     "id": "ampersand-more-than-decoration",
@@ -19737,7 +19742,8 @@
     "themes": [
       "origins-and-naming",
       "language-and-writing"
-    ]
+    ],
+    "socialHook": "The word 'ampersand' literally comes from generations of schoolkids mumbling the same phrase over and over until it slurred into one word."
   },
   {
     "id": "skull-crossbones-poison",
@@ -19762,7 +19768,8 @@
     ],
     "themes": [
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The skull and crossbones was supposed to warn kids away from poison — it had the exact opposite effect."
   },
   {
     "id": "skull-crossbones-jolly-roger",
@@ -19785,7 +19792,8 @@
       "food-tasters-five-senses",
       "ampersand-more-than-decoration"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "Victorian poison bottles were designed with ridges and odd shapes so you could identify them by touch alone, in the dark."
   },
   {
     "id": "check-mark-yes-symbol",
@@ -19811,7 +19819,8 @@
     ],
     "themes": [
       "origins-and-naming"
-    ]
+    ],
+    "socialHook": "In some countries, a checkmark on your test doesn't mean you got it right — it means you got it wrong."
   },
   {
     "id": "question-mark-inside-sentence",
@@ -19837,7 +19846,8 @@
     "themes": [
       "world-first",
       "games-and-play"
-    ]
+    ],
+    "socialHook": "One language warns you a question is coming before you've even read a single word of it."
   },
   {
     "id": "dollar-sign-adopted-1785",
@@ -19863,7 +19873,8 @@
     "themes": [
       "money-trade-and-value",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "The dollar sign existed before the US dollar did — it came from merchants abbreviating a completely different currency."
   },
   {
     "id": "dollar-sign-spanish-pesos",
@@ -19890,7 +19901,8 @@
     "themes": [
       "origins-and-naming",
       "money-trade-and-value"
-    ]
+    ],
+    "socialHook": "The word 'dollar' has nothing to do with America originally — it comes from a small mining town in what's now the Czech Republic."
   },
   {
     "id": "gold-metal-as-pigment",
@@ -21650,7 +21662,8 @@
     "themes": [
       "codes-and-cryptography",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "Those cereal-box 'secret decoder rings' from decades ago were teaching kids an actual ancient Roman code."
   },
   {
     "id": "caesar-cipher-julius-caesar",
@@ -21676,7 +21689,8 @@
     "themes": [
       "codes-and-cryptography",
       "language-and-writing"
-    ]
+    ],
+    "socialHook": "Julius Caesar protected his private letters with a code so simple, modern codebreakers can crack it in seconds."
   },
   {
     "id": "enigma-rotors-plugboard",
@@ -21705,7 +21719,8 @@
       "codes-and-cryptography",
       "war-and-conflict",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "One of history's most 'unbreakable' codes had 158 million million million possible settings — and one tiny flaw that helped bring the whole thing down."
   },
   {
     "id": "enigma-turing-bletchley",
@@ -21730,7 +21745,8 @@
     ],
     "themes": [
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "Cracking one of WWII's biggest secrets may have shortened the war by two years — and the people who did it stayed silent about it for almost 30 years."
   },
   {
     "id": "semaphore-visual-signaling",
@@ -21757,7 +21773,8 @@
       "energy-and-power",
       "architecture-and-structures",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "In the 1790s, France built a working long-distance messaging network using nothing but towers and eyesight."
   },
   {
     "id": "semaphore-tower-network",
@@ -21784,7 +21801,8 @@
       "computing-and-web",
       "money-trade-and-value",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "Two bankers in the 1830s bribed telegraph tower operators to secretly smuggle stock market data — one of the earliest data hacks in history."
   },
   {
     "id": "steganography-hidden-message",
@@ -21810,7 +21828,8 @@
     "themes": [
       "codes-and-cryptography",
       "record-extremes"
-    ]
+    ],
+    "socialHook": "One ancient ruler hid a secret message by tattooing it onto a slave's shaved head and waiting for the hair to grow back."
   },
   {
     "id": "steganography-lemon-juice",
@@ -21836,7 +21855,8 @@
     "themes": [
       "counterintuitive-scale",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "Spies once shrank entire documents down to a dot the size of a printed period."
   },
   {
     "id": "steganography-digital-files",
@@ -21863,7 +21883,8 @@
       "deception-and-hoax",
       "color-and-light",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "Most color printers secretly add invisible dots to every single page you print — encoding the exact machine, date, and time."
   },
   {
     "id": "pigpen-freemason-cipher",
@@ -21889,7 +21910,8 @@
     ],
     "themes": [
       "codes-and-cryptography"
-    ]
+    ],
+    "socialHook": "Some old Freemason gravestones are actually carved entirely in secret code."
   },
   {
     "id": "one-time-pad-spy-booklets",
@@ -21918,7 +21940,8 @@
       "numbers-and-mathematics",
       "codes-and-cryptography",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "Tune a shortwave radio to the right frequency, and you might still stumble onto a mysterious voice reading endless strings of numbers to spies."
   },
   {
     "id": "one-time-pad-hard-distribution",
@@ -21945,7 +21968,8 @@
     "themes": [
       "codes-and-cryptography",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "One supposedly unbreakable spy code got cracked — not by math, but because the Soviets got lazy and reused it."
   },
   {
     "id": "book-cipher-book-as-key",
@@ -21973,7 +21997,8 @@
       "codes-and-cryptography",
       "storytelling-and-narrative",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "One coded message points to a real buried fortune — and two out of three parts of the code have never been solved."
   },
   {
     "id": "book-cipher-coordinates",
@@ -22000,7 +22025,8 @@
       "numbers-and-mathematics",
       "codes-and-cryptography",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "When Benedict Arnold betrayed America, he hid his treasonous letters using nothing but page and line numbers from an ordinary book."
   },
   {
     "id": "navajo-code-talkers-indigenous-languages",
@@ -22027,7 +22053,8 @@
       "war-and-conflict",
       "codes-and-cryptography",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "One military code used in WWII was never broken by the enemy. Not once."
   },
   {
     "id": "navajo-code-talkers-largest-program",
@@ -22054,7 +22081,8 @@
       "war-and-conflict",
       "human-body-quirks",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "The US government once punished children for speaking a language — then that exact same language helped win a war."
   },
   {
     "id": "navajo-code-talkers-coded-vocabulary",
@@ -22082,7 +22110,8 @@
       "flight-and-aviation",
       "language-and-writing",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "Some WWII code talkers could translate and send a message in about 20 seconds — a task that took coding machines roughly half an hour."
   },
   {
     "id": "four-leaf-clovers-rare-luck",
