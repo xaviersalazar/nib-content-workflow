@@ -3307,7 +3307,8 @@
       "stars-and-cosmos",
       "energy-and-power",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "Stretch out all your blood vessels end to end, and they'd wrap around the entire Earth about two and a half times."
   },
   {
     "id": "heart-one-way-valves",
@@ -3334,7 +3335,8 @@
     ],
     "themes": [
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "There's one organ in your body that almost never gets cancer."
   },
   {
     "id": "skeletal-system-206-bones",
@@ -3361,7 +3363,8 @@
     "themes": [
       "human-body-quirks",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "You were actually born with about 100 more bones than you have right now."
   },
   {
     "id": "skeletal-system-cartilage-shock-absorber",
@@ -3389,7 +3392,8 @@
       "human-body-quirks",
       "self-organizing-patterns",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "Ounce for ounce, your bones can handle more stress than steel."
   },
   {
     "id": "blood-color-changes-with-oxygen",
@@ -3418,7 +3422,8 @@
       "human-body-quirks",
       "myth-vs-reality",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "Your blood is never actually blue — not even in your veins."
   },
   {
     "id": "eyes-two-eyes-3d-vision",
@@ -3447,7 +3452,8 @@
       "perception-and-brain",
       "human-body-quirks",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "There's a literal hole in your vision right now — your brain is just quietly painting over it."
   },
   {
     "id": "eyes-retina-part-of-brain",
@@ -3475,7 +3481,8 @@
     "themes": [
       "human-body-quirks",
       "perception-and-brain"
-    ]
+    ],
+    "socialHook": "Part of your actual brain is sitting inside your eyeball right now."
   },
   {
     "id": "lungs-oxygen-enters-blood",
@@ -3504,7 +3511,8 @@
       "human-body-quirks",
       "self-sacrifice",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "One of your lungs is permanently missing an entire lobe — on purpose, to make room for your heart."
   },
   {
     "id": "skin-melanin-protects-dna",
@@ -3533,7 +3541,8 @@
       "color-and-light",
       "bioluminescence-and-glow",
       "machines-and-mechanisms"
-    ]
+    ],
+    "socialHook": "A tan isn't a glow — it's your skin cells racing to stop their own DNA from being destroyed."
   },
   {
     "id": "skin-largest-organ",
@@ -3560,7 +3569,8 @@
     "themes": [
       "human-body-quirks",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "A real share of the dust in your house is actually old, dead skin — yours and everyone else's."
   },
   {
     "id": "taste-buds-thousands-on-tongue",
@@ -3587,7 +3597,8 @@
     ],
     "themes": [
       "myth-vs-reality"
-    ]
+    ],
+    "socialHook": "That 'tongue map' you learned in school — sweet at the tip, bitter at the back — is a century-old myth."
   },
   {
     "id": "taste-buds-on-fish-fins",
@@ -3614,7 +3625,8 @@
     ],
     "themes": [
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "One fish tastes the water with its entire body before anything ever reaches its mouth."
   },
   {
     "id": "gut-microbiome-unique-network",
@@ -3641,7 +3653,8 @@
     "themes": [
       "human-body-quirks",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Cell for cell, you're only about half human."
   },
   {
     "id": "memory-fading-helps-time",
