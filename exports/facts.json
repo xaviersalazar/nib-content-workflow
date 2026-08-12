@@ -25338,7 +25338,8 @@
       "extreme-temperature",
       "human-body-quirks",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "Movies always show astronauts freezing instantly in space — that's not actually what would kill you first."
   },
   {
     "id": "vacuum-of-space-leblanc-saliva-boiled",
@@ -25365,7 +25366,8 @@
     ],
     "themes": [
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "One NASA technician's suit failed in a vacuum chamber — and the last thing he remembers is his own saliva starting to boil."
   },
   {
     "id": "vacuum-of-space-swell-not-explode",
@@ -25392,7 +25394,8 @@
     "themes": [
       "human-body-quirks",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "Your body wouldn't explode in the vacuum of space like the movies show — it would do something stranger."
   },
   {
     "id": "heatstroke-fan-useless-above-99",
@@ -25420,7 +25423,8 @@
     "themes": [
       "extreme-temperature",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "Past a certain temperature, pointing a fan at yourself stops cooling you down completely."
   },
   {
     "id": "heatstroke-brain-confusion-sign",
@@ -25447,7 +25451,8 @@
     "themes": [
       "perception-and-brain",
       "extreme-temperature"
-    ]
+    ],
+    "socialHook": "The scariest warning sign of heat stroke isn't sweating — it's confusion."
   },
   {
     "id": "hypothermia-shivering-stops",
@@ -25476,7 +25481,8 @@
       "energy-and-power",
       "human-body-quirks",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "When hypothermia turns deadly, your body doesn't shiver harder — it stops shivering completely."
   },
   {
     "id": "hypothermia-babies-lose-heat-fastest",
@@ -25502,7 +25508,8 @@
     ],
     "themes": [
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "A baby can become dangerously cold without any snowstorm at all — just a nursery a few degrees too chilly."
   },
   {
     "id": "hysterical-strength-switches-off-pain",
@@ -25529,7 +25536,8 @@
     "themes": [
       "flight-and-aviation",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "In a real emergency, your body can switch off pain entirely — which is why crash survivors sometimes don't feel their injuries for hours."
   },
   {
     "id": "hysterical-strength-reroutes-blood",
@@ -25557,7 +25565,8 @@
       "human-body-quirks",
       "flight-and-aviation",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "The instant your body senses danger, it starts rerouting your blood away from digestion and toward your muscles."
   },
   {
     "id": "g-force-stapp-632-mph-sled",
@@ -25586,7 +25595,8 @@
       "record-extremes",
       "energy-and-power",
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "One doctor strapped himself to a rocket sled and hit a speed faster than a bullet — on purpose."
   },
   {
     "id": "g-force-stapp-stop-broke-ribs",
@@ -25614,7 +25624,8 @@
       "motion-and-force",
       "human-body-quirks",
       "machines-and-mechanisms"
-    ]
+    ],
+    "socialHook": "Hitting 632 mph didn't hurt him. Stopping from it in 1.4 seconds nearly did."
   },
   {
     "id": "wilderness-survival-day-hikers-most-rescued",
@@ -25642,7 +25653,8 @@
       "record-extremes",
       "food-and-cuisine",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "The hikers who need rescuing most aren't the ones going deepest into the backcountry."
   },
   {
     "id": "wilderness-survival-getting-lost-top-cause",
@@ -25671,7 +25683,8 @@
       "exploration-and-navigation",
       "psychology-and-behavior",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "The top reason hikers end up needing rescue isn't a fall or an injury — it's a single wrong turn."
   },
   {
     "id": "wilderness-survival-cold-not-starvation",
@@ -25700,7 +25713,8 @@
       "self-sacrifice",
       "energy-and-power",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "If you're ever lost in the woods, hunger isn't what gets you first. Cold is."
   },
   {
     "id": "surviving-a-fall-vulovic-33000-feet",
@@ -25727,7 +25741,8 @@
     "themes": [
       "flight-and-aviation",
       "record-extremes"
-    ]
+    ],
+    "socialHook": "One person fell over six miles straight down with no parachute — and lived."
   },
   {
     "id": "freediving-urge-is-co2-not-oxygen",
@@ -25755,7 +25770,8 @@
       "human-body-quirks",
       "architecture-and-structures",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "That desperate urge to breathe when you're holding your breath has nothing to do with running out of oxygen."
   },
   {
     "id": "freediving-hyperventilation-blackout",
@@ -25781,7 +25797,8 @@
     ],
     "themes": [
       "deep-sea-and-abyss"
-    ]
+    ],
+    "socialHook": "One breathing trick some swimmers swear by can make you black out underwater with zero warning."
   },
   {
     "id": "mammalian-dive-reflex-cold-water-slows-heart",
@@ -25811,7 +25828,8 @@
       "perception-and-brain",
       "automation-robots-ai",
       "deep-sea-and-abyss"
-    ]
+    ],
+    "socialHook": "Dunk your face in cold water, and your heart automatically slows down — no thinking required."
   },
   {
     "id": "mammalian-dive-reflex-calms-racing-heart",
@@ -25839,7 +25857,8 @@
       "human-body-quirks",
       "machines-and-mechanisms",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "The same reflex that helps seals dive underwater can hit the brakes on your own racing heart."
   },
   {
     "id": "surviving-without-food-gandhi-21-days",
@@ -25866,7 +25885,8 @@
     "themes": [
       "food-and-cuisine",
       "self-sacrifice"
-    ]
+    ],
+    "socialHook": "At 74 years old, one man survived 21 days with nothing but sips of water — no food at all."
   },
   {
     "id": "dragons-blood-tree-fog-harvesting",
