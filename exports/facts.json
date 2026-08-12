@@ -22339,7 +22339,8 @@
     "themes": [
       "plants-and-botany",
       "record-extremes"
-    ]
+    ],
+    "socialHook": "One person has collected over 100,000 four-leaf clovers, even though finding just one is roughly a 1-in-5,000 chance."
   },
   {
     "id": "evil-eye-envy-glance",
@@ -22367,7 +22368,8 @@
       "human-body-quirks",
       "accidental-discovery",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "In many cultures, calling a baby cute is considered risky enough that people quickly add a blessing right afterward to cancel it out."
   },
   {
     "id": "friday-13-country-variations",
@@ -22393,7 +22395,8 @@
     "themes": [
       "luck-ritual-superstition",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Friday the 13th isn't feared everywhere — some countries dread a completely different date instead."
   },
   {
     "id": "lucky-numbers-symbolism",
@@ -22421,7 +22424,8 @@
       "timekeeping",
       "music-and-sound",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "In China, one phone number packed with the number 8 reportedly sold for over a million dollars."
   },
   {
     "id": "lucky-numbers-seven",
@@ -22447,7 +22451,8 @@
     "themes": [
       "numbers-and-mathematics",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Ask a room full of strangers to silently pick a number between 1 and 10, and far more of them will pick 7 than anything else."
   },
   {
     "id": "lucky-numbers-thirteen",
@@ -22475,7 +22480,8 @@
       "psychology-and-behavior",
       "architecture-and-structures",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "In much of East Asia, buildings don't skip the 13th floor. They skip the 4th."
   },
   {
     "id": "black-cats-control-uncertainty",
@@ -22503,7 +22509,8 @@
       "record-extremes",
       "internet-and-virality",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Black cats are still consistently the least-adopted pets in shelters today — and it's partly just because they photograph poorly."
   },
   {
     "id": "rabbits-foot-graveyard-rules",
@@ -22531,7 +22538,8 @@
       "stars-and-cosmos",
       "myth-vs-reality",
       "luck-ritual-superstition"
-    ]
+    ],
+    "socialHook": "The 'luckiest' rabbit's foot in old folklore came with startlingly specific and grim instructions for exactly how it had to be obtained."
   },
   {
     "id": "horseshoes-st-dunstan",
@@ -22557,7 +22565,8 @@
     "themes": [
       "myth-vs-reality",
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "Legend says one saint once nailed a horseshoe directly onto the Devil's own foot."
   },
   {
     "id": "broken-mirrors-ancient-reflections",
@@ -22582,7 +22591,8 @@
     ],
     "themes": [
       "materials-and-chemistry"
-    ]
+    ],
+    "socialHook": "Ancient cultures believed your reflection held an actual piece of your soul — which is why breaking a mirror felt like injuring yourself."
   },
   {
     "id": "smiling-duchenne-muscles",
