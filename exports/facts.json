@@ -4896,7 +4896,8 @@
     "themes": [
       "games-and-play",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Pac-Man has a hidden glitch level — reach it, and the game literally breaks into an unpassable half-maze."
   },
   {
     "id": "minecraft-virtual-blocks",
@@ -4923,7 +4924,8 @@
     "themes": [
       "games-and-play",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One solo side project by a single Swedish programmer has sold more copies than any other video game in history."
   },
   {
     "id": "playstation-failed-nintendo-deal",
@@ -4952,7 +4954,8 @@
       "games-and-play",
       "disaster-and-catastrophe",
       "symbiosis-and-cooperation"
-    ]
+    ],
+    "socialHook": "The PlayStation only exists because of a failed partnership deal with Nintendo."
   },
   {
     "id": "atari-cartridge-shift",
@@ -4981,7 +4984,8 @@
       "hidden-underground",
       "myth-vs-reality",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "One video game flopped so badly, the company secretly buried millions of copies in a desert landfill — and people thought it was an urban legend until it was actually dug up decades later."
   },
   {
     "id": "pokemon-more-than-game",
@@ -5011,7 +5015,8 @@
       "money-trade-and-value",
       "games-and-play",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "One franchise that started as two Game Boy games has out-earned Star Wars, Marvel, and Mickey Mouse combined."
   },
   {
     "id": "arcade-games-coin-op-design",
@@ -5039,7 +5044,8 @@
       "games-and-play",
       "money-trade-and-value",
       "accidental-discovery"
-    ]
+    ],
+    "socialHook": "Those brutally difficult early arcade games weren't hard by accident — the difficulty itself was the entire business model."
   },
   {
     "id": "esports-magazine-prize",
@@ -5065,7 +5071,8 @@
     "themes": [
       "games-and-play",
       "automation-robots-ai"
-    ]
+    ],
+    "socialHook": "The very first competitive gaming tournament's grand prize wasn't cash or a trophy. It was a magazine subscription."
   },
   {
     "id": "tetris-game-boy-stardom",
@@ -5094,7 +5101,8 @@
       "games-and-play",
       "war-and-conflict",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "The creator of Tetris earned almost nothing from his own game for over a decade — because he built it as a Soviet government employee."
   },
   {
     "id": "virtual-worlds-vr-term-1987",
@@ -5123,7 +5131,8 @@
       "games-and-play",
       "internet-and-virality",
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "One single video game battle destroyed an estimated $300,000 worth of real money — fought entirely with virtual spaceships."
   },
   {
     "id": "mario-landlord-name",
@@ -5151,7 +5160,8 @@
     "themes": [
       "games-and-play",
       "origins-and-naming"
-    ]
+    ],
+    "socialHook": "Mario is literally named after Nintendo's actual landlord."
   },
   {
     "id": "easter-eggs-konami-code-testing",
@@ -5179,7 +5189,8 @@
     "themes": [
       "games-and-play",
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "The famous Konami Code started as a developer's forgotten shortcut, just to make testing an unfairly hard game easier."
   },
   {
     "id": "special-effects-miniature-physics",
@@ -5207,7 +5218,8 @@
       "materials-and-chemistry",
       "music-and-sound",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "Miniature movie sets can't use real water or fire without giving themselves away — the physics simply doesn't shrink the same way."
   },
   {
     "id": "academy-awards-rules-eligibility",
@@ -5234,7 +5246,8 @@
     "themes": [
       "storytelling-and-narrative",
       "record-extremes"
-    ]
+    ],
+    "socialHook": "The Oscars once announced the wrong Best Picture winner live on stage, in front of millions, before the mistake was caught."
   },
   {
     "id": "movie-cameras-light-tight-box",
@@ -5262,7 +5275,8 @@
       "storytelling-and-narrative",
       "optical-illusion",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "That comically fast, jerky look in old silent movies was never intentional. It's actually a century-old timing mistake."
   },
   {
     "id": "film-editing-piece-by-piece",
@@ -5289,7 +5303,8 @@
     "themes": [
       "storytelling-and-narrative",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "One of the most terrifying scenes in film history never once actually shows the knife touching skin."
   },
   {
     "id": "documentaries-shape-facts",
@@ -5319,7 +5334,8 @@
       "deception-and-hoax",
       "collective-behavior",
       "myth-vs-reality"
-    ]
+    ],
+    "socialHook": "The famous 'fact' that lemmings march off cliffs to their deaths was completely staged for a 1958 nature film."
   },
   {
     "id": "stop-motion-frame-by-frame",
@@ -5346,7 +5362,8 @@
     "themes": [
       "storytelling-and-narrative",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "On one stop-motion film, animators averaged only about three seconds of finished footage per week."
   },
   {
     "id": "stop-motion-king-kong-model",
@@ -5374,7 +5391,8 @@
     "themes": [
       "storytelling-and-narrative",
       "optical-illusion"
-    ]
+    ],
+    "socialHook": "The original King Kong that looked enormous on screen was actually built as an 18-inch model."
   },
   {
     "id": "movie-makeup-corrective-creative",
@@ -5403,7 +5421,8 @@
       "stars-and-cosmos",
       "storytelling-and-narrative",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "The ape makeup in one classic film was so convincing, the actors unconsciously started sitting together by species at lunch."
   },
   {
     "id": "vinyl-turntable-speed-control",
@@ -27136,6 +27155,7 @@
       "flight-and-aviation",
       "myth-vs-reality",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "Apollo 13's most famous line was never actually said during the real mission. Hollywood wrote it years later."
   }
 ]
