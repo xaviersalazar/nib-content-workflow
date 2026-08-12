@@ -19,8 +19,10 @@ Living doc for the `socialHook` backfill effort. Continue this in a fresh sessio
 | Tier C (9 phases, 188 facts) | ✅ Complete |
 | Tier D (4 phases, 59 facts) | ✅ Complete |
 | **All 966 facts** | ✅ **100% complete** |
+| Pipeline sync (nib-social, Nib app bundle, CDN v21) | ✅ Complete |
+| nib-social Cover hook / Threads post wired to `socialHook` | ✅ Complete |
 
-**Pick up here:** the backfill itself is done. What's left is downstream consumption — see [Related, still-open](#related-still-open-from-the-same-session) below: nib-social doesn't read `socialHook` yet, and it hasn't synced past `nib-content-workflow`'s own `exports/facts.json`.
+**Pick up here:** backfill, sync, and nib-social integration are all done — see [Related — resolved this session](#related--resolved-this-session) below for exact detail. What's left is making `socialHook` part of the ongoing fact-authoring process (see [Still open](#still-open)), so every new fact gets one at creation instead of needing a future backfill pass like this one.
 
 ## The method (apply to every future batch)
 
@@ -79,8 +81,12 @@ Commit using this repo's own terse convention (see recent `git log` — mostly s
 
 The original scoping question (Tier A only vs. everything) was superseded: the user asked for all 966 facts broken into a full tier structure (A/B/C/D, extending the growth-strategy doc's original tiering to cover every category, not just the original ~680-fact subset), then ran the whole thing to completion in "auto mode" — each phase drafted and auto-approved on formula-fit + no-fabrication judgment, with the batch shown to the user for visibility after each phase rather than before. That's how all 966 got done in one session. See `instagram-growth-strategy.md` §10 for the final tier table.
 
-## Related, still-open (from the same session)
+## Related — resolved this session
 
-- **nib-social doesn't consume `socialHook` yet.** The studio's "Cover hook" field (Phase 1) still only knows its own local override state — it doesn't default to `fact.socialHook` when the database has one. Once a real batch of facts carry the field, `nib-social/src/App.tsx`'s fact-reset effect should prefer `fact.socialHook` over `fact.headline` as the default. Not done.
-- **Sync not done.** This field only exists in `nib-content-workflow`'s `exports/facts.json` so far — not synced to `nib-social/public/data/facts.json`, the Nib app's bundled copy, or the CDN. Hold off until there's a real batch worth shipping, not one example.
-- **Hook-rewriting-as-a-feature is still manual.** No auto-suggestion in the studio itself — this whole effort is a one-time-per-fact hand backfill, not a generation mechanism. (Two other options — LLM-drafted or a heuristic nudge — were discussed and explicitly not chosen; see growth-pipeline-handoff.md's "Gap: hook rewriting is still manual" section.)
+- **Sync — done.** `exports/facts.json` (with `socialHook` on all 966 facts) is synced to `nib-social/public/data/facts.json`, the Nib app's bundled seed (`Nib/Nib/Data/facts.json`), and the CDN (manifest bumped to `contentVersion` **21**, live and checksum-verified at `cdn.nibapp.net/v1`). The Nib Swift app's `Fact` model doesn't have a `socialHook` property, so the field is present in its bundled JSON but inert — harmless, not read, until (if ever) the Swift model is updated. That's expected: `socialHook` is Instagram-only, not app-facing.
+- **nib-social now consumes `socialHook` — done.** `src/data/types.ts`'s `Fact` gained `socialHook?: string`; `App.tsx`'s fact-reset effect now does `setSocialHook(fact.socialHook ?? fact.headline)`. While in there, also fixed a real gap: `buildThreadsPost` (`src/lib/caption.ts`) never took a hook override at all and was hardcoded to `fact.headline` even when the Cover-hook field was edited — it now takes an optional `hook` param with the same blank-falls-back-to-headline behavior as `buildCaption`. `buildPostGuide` now takes the already-resolved `threadsPost` from `App.tsx` instead of recomputing it internally, so the exported guide can't drift from what's shown in the studio. New tests added to `caption.test.ts` for the `buildThreadsPost` hook path; full suite green except one **pre-existing, unrelated** failure in `dailyFact.test.ts` (stale pinned date→factId pairs, confirmed by testing against the pre-sync `facts.json` — same 4 failures either way, not caused by this change).
+
+## Still open
+
+- **Hook-rewriting-as-a-feature is still manual.** No auto-suggestion in the studio itself — this whole effort is a one-time-per-fact hand backfill, not a generation mechanism. (Two other options — LLM-drafted or a heuristic nudge — were discussed and explicitly not chosen; see growth-pipeline-handoff.md's "Gap: hook rewriting is still manual" section.) **Next up per the user:** make `socialHook` part of the ongoing fact-authoring process so every future fact gets one at creation time, not as a later backfill pass.
+- **`dailyFact.test.ts`'s pinned date→factId pairs are stale**, independent of this effort — the trims over time (1196→…→966 facts) apparently drifted the deterministic selection without the pins being refreshed. Worth a separate fix (re-confirm against the running Nib app per the test's own header comment), but out of scope here since it predates and is unrelated to `socialHook`.
