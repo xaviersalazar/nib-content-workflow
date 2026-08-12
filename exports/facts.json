@@ -22619,7 +22619,8 @@
       "exploration-and-navigation",
       "disaster-and-catastrophe",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "When Shackleton's ship was crushed by ice in Antarctica, all 28 of his crew were stranded with no way to call for help. Every single one made it home alive."
   },
   {
     "id": "shackleton-nimrod-near-pole",
@@ -22645,7 +22646,8 @@
     "themes": [
       "exploration-and-navigation",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "One explorer turned back just 97 miles from becoming the first person at the South Pole — to keep his team alive."
   },
   {
     "id": "ibn-battuta-75000-miles",
@@ -22668,7 +22670,8 @@
       "marco-polo-il-milione",
       "lewis-clark-corps-discovery"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "One traveler covered roughly three times the distance Marco Polo did — and almost nobody's heard of him."
   },
   {
     "id": "ibn-battuta-pilgrimage-start",
@@ -22693,7 +22696,8 @@
     ],
     "themes": [
       "record-extremes"
-    ]
+    ],
+    "socialHook": "One man set out on a simple religious pilgrimage at 21 — and didn't make it back home for 24 years."
   },
   {
     "id": "jacques-cousteau-aqualung",
@@ -22720,7 +22724,8 @@
       "human-body-quirks",
       "deep-sea-and-abyss",
       "machines-and-mechanisms"
-    ]
+    ],
+    "socialHook": "Before 1943, divers were tethered to the surface by a hose like puppets. Then one invention let them swim completely free."
   },
   {
     "id": "jacques-cousteau-calypso",
@@ -22746,7 +22751,8 @@
     "themes": [
       "deep-sea-and-abyss",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "In the 1960s, one explorer had people actually live on the ocean floor for weeks at a time."
   },
   {
     "id": "lewis-clark-corps-discovery",
@@ -22773,7 +22779,8 @@
     "themes": [
       "exploration-and-navigation",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "One expedition crossed 8,000 miles of unmapped wilderness over two years — and lost only a single man."
   },
   {
     "id": "lewis-clark-native-assistance",
@@ -22796,7 +22803,8 @@
       "magellan-strait",
       "zheng-he-yongle-agent"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "One enslaved man crossed an entire continent as a full working member of a famous expedition — and even got to vote, decades before he could legally do so."
   },
   {
     "id": "magellan-strait",
@@ -22822,7 +22830,8 @@
     "themes": [
       "exploration-and-navigation",
       "world-first"
-    ]
+    ],
+    "socialHook": "The first person to ever fully circle the globe may not have been Magellan at all — it may have been his enslaved interpreter."
   },
   {
     "id": "magellan-pacific-name",
@@ -22848,7 +22857,8 @@
     "themes": [
       "self-sacrifice",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Magellan named one ocean after how calm it looked. Then it nearly starved his entire crew to death."
   },
   {
     "id": "marco-polo-asia-journey",
@@ -22875,7 +22885,8 @@
       "human-body-quirks",
       "storytelling-and-narrative",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "One of history's most famous travel books was dictated from inside a prison cell."
   },
   {
     "id": "marco-polo-kublai-khan",
@@ -22903,7 +22914,8 @@
       "money-trade-and-value",
       "coffee-and-tea",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "Some historians actually doubt Marco Polo ever set foot in China at all."
   },
   {
     "id": "marco-polo-il-milione",
@@ -22930,7 +22942,8 @@
       "storytelling-and-narrative",
       "deception-and-hoax",
       "money-trade-and-value"
-    ]
+    ],
+    "socialHook": "Marco Polo's stories were so wild that people nicknamed his book 'The Million.' On his deathbed, he still refused to take any of it back."
   },
   {
     "id": "nellie-bly-72-days",
@@ -22956,7 +22969,8 @@
     "themes": [
       "stars-and-cosmos",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "One reporter raced around the entire world in 72 days — while a secret rival raced her in the opposite direction, without her knowing."
   },
   {
     "id": "nellie-bly-asylum-reporting",
@@ -22983,7 +22997,8 @@
       "deception-and-hoax",
       "extreme-temperature",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "One reporter faked insanity just to get herself committed to an asylum — so she could expose it from the inside."
   },
   {
     "id": "amundsen-south-pole-first",
@@ -23009,7 +23024,8 @@
     "themes": [
       "self-sacrifice",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "Two teams raced for the South Pole in 1911. One reached it and came home. The other reached it too late — and never made it back."
   },
   {
     "id": "amundsen-northwest-passage",
@@ -23035,7 +23051,8 @@
     ],
     "themes": [
       "exploration-and-navigation"
-    ]
+    ],
+    "socialHook": "Explorers died for roughly 400 years trying to find one Arctic sea route. A crew of just six people finally did it."
   },
   {
     "id": "amundsen-airship-north-pole",
@@ -23063,7 +23080,8 @@
       "world-first",
       "lost-and-rediscovered",
       "exploration-and-navigation"
-    ]
+    ],
+    "socialHook": "One explorer, already the first person to reach both poles, vanished forever while flying to rescue a rival he didn't even like."
   },
   {
     "id": "zheng-he-yongle-agent",
@@ -23088,7 +23106,8 @@
     ],
     "themes": [
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "China's greatest admiral started life as a captured, enslaved boy."
   },
   {
     "id": "zheng-he-treasure-fleets",
@@ -23113,7 +23132,8 @@
     ],
     "themes": [
       "record-extremes"
-    ]
+    ],
+    "socialHook": "One ancient fleet carried 28,000 men on ships the size of city blocks — decades before Columbus was even born."
   },
   {
     "id": "zheng-he-maritime-legacy",
@@ -23141,7 +23161,8 @@
       "energy-and-power",
       "myth-vs-reality",
       "exploration-and-navigation"
-    ]
+    ],
+    "socialHook": "One explorer brought a giraffe back from Africa and the royal court mistook it for a mythical beast. Then the whole empire abruptly quit the seas forever."
   },
   {
     "id": "sacagawea-only-woman",
@@ -23167,7 +23188,8 @@
     "themes": [
       "parental-care",
       "exploration-and-navigation"
-    ]
+    ],
+    "socialHook": "One 16-year-old crossed an entire continent and back, on foot, while carrying her newborn baby the whole way."
   },
   {
     "id": "sacagawea-shoshone-horses",
@@ -23194,7 +23216,8 @@
       "lost-and-rediscovered",
       "money-trade-and-value",
       "exploration-and-navigation"
-    ]
+    ],
+    "socialHook": "One expedition desperately needed horses from a local tribal chief to survive — and the chief turned out to be a member's own long-lost brother."
   },
   {
     "id": "bamboo-giant-grass",
