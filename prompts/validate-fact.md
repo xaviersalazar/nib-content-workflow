@@ -42,6 +42,11 @@ Check:
 - Evergreen quality
 - Safety
 - Unsupported claims
+- If a `socialHook` field is present: does it introduce any claim, number, or comparison
+  that isn't already stated in this same fact's own `headline`/`body`/`summary`? A hook
+  that reaches for outside "probably true" knowledge to sound punchier fails this check
+  even if the added detail is accurate — it still isn't sourced. Flag it in
+  `unsupportedClaims` like any other fabrication.
 
 Status values:
 

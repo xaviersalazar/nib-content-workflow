@@ -45,11 +45,19 @@ Rules:
 
 Do not introduce new facts. Only simplify and re-hook what the fact already says.
 
+If the input carries a `socialHook`, carry it through in the output too — don't drop it.
+Only touch its wording if punching up `headline` genuinely broke what `socialHook` was
+referring to (e.g. the new headline now opens the same gap `socialHook` was opening,
+making them redundant); otherwise leave it as written. Never invent one here if the input
+didn't have one — that's `draft-facts.md`'s job, using the fact's own body/summary, not a
+rewrite-time guess.
+
 Return:
 
 ```json
 {
   "headline": "",
+  "socialHook": "",
   "body": "",
   "summary": "",
   "tags": [],

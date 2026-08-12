@@ -153,13 +153,16 @@ Output shape (`categoryId → topic → { institution, url }`):
 
 1. Add or update trusted URLs in `source-registry/sources.csv`.
 2. Run Firecrawl extraction (`pnpm scrape:source`, `pnpm scrape:next`, or `pnpm scrape:batch`).
-3. Draft 3–5 fact candidates per source using your AI assistant.
-4. Validate claims against source text only.
+3. Draft 3–5 fact candidates per source using your AI assistant (`prompts/draft-facts.md` —
+   this includes drafting each fact's `socialHook`, the Instagram-only curiosity-gap headline,
+   alongside the app-facing `headline`).
+4. Validate claims against source text only (`prompts/validate-fact.md`, which also checks
+   `socialHook` doesn't introduce anything beyond what the fact's own text supports).
 5. Perform human review and approve only the best facts per topic — **up to 3 (quality-gated, never padded)**.
-6. Store approved rows in `approved-content/approved-facts.csv`.
+6. Store approved rows, including `socialHook`, in `approved-content/approved-facts.csv`.
 7. Screen for age-appropriateness with `pnpm check:age-rating` (the app is rated 4+ and facts are also
    posted to Instagram). Read every hit — it's a regex prefilter, not a judge.
-8. Export with `pnpm export:facts`.
+8. Export with `pnpm export:facts` — **this hard-fails if any fact is missing `socialHook`.**
 9. Whenever `source-registry/sources.csv` changes (or after adding facts on new topics), regenerate
    provenance with `pnpm export:sources` and confirm coverage stays at 100%.
 

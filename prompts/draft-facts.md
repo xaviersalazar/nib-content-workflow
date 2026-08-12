@@ -63,6 +63,18 @@ Requirements:
 - No sensitive topics
 - Avoid jargon
 - Avoid clickbait
+- socialHook: a SEPARATE Instagram-only headline, for the exact same fact, that opens a
+  curiosity gap instead of closing one. `headline` is in-app and can state the payoff
+  outright — the reader already opened the card. `socialHook` is for a cold Instagram
+  scroll, so withhold the payoff until the swipe: name the surprise without giving away
+  what it actually is. Pick whichever formula fits the fact best, don't force one pattern:
+  Counterintuitive, Hidden Reality, Scale, Historical Twist, The Catch, Forbidden/Banned,
+  Countdown/Threshold, Direct-Address Provocation, Comparison Flip, Unsolved/Open Question.
+  Never introduce a claim, number, or comparison that isn't already in this fact's own
+  body/summary — general knowledge that's probably true doesn't clear Nib's
+  "verified, not scraped" bar, only what THIS fact's own text supports does. If a strong
+  headline already opens a gap well on its own, socialHook can closely mirror it — don't
+  force a rewrite for its own sake. `headline` itself never changes for this.
 
 Schema:
 
@@ -71,6 +83,7 @@ Schema:
   "facts": [
     {
       "headline": "",
+      "socialHook": "",
       "body": "",
       "summary": "",
       "tags": [],

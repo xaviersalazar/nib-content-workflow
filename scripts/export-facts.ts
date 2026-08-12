@@ -31,6 +31,22 @@ async function main() {
     skip_empty_lines: true,
   }) as ApprovedFactRow[];
 
+  // socialHook was gradually backfilled onto all 966 pre-2026-08-11 facts —
+  // as of that backfill it's a required field for every fact, not an
+  // optional one, so a blank cell here means a new fact was added without
+  // one. Fail loud rather than silently exporting an app-only fact with no
+  // Instagram hook (see docs/social-hook-rewrite-handoff.md for the method:
+  // read the full fact, pick one of the 10 formulas in nib-social's
+  // growth-strategy doc §9, never introduce a claim beyond what's already in
+  // headline/body/summary).
+  const missingSocialHook = rows.filter((row) => !row.socialHook?.trim()).map((row) => row.id);
+  if (missingSocialHook.length > 0) {
+    throw new Error(
+      `${missingSocialHook.length} fact(s) missing socialHook: ${missingSocialHook.join(", ")}\n` +
+        `Every fact needs an Instagram-only curiosity-gap hook — see docs/social-hook-rewrite-handoff.md.`,
+    );
+  }
+
   const facts = rows.map((row) => ({
     id: row.id,
     headline: row.headline,
@@ -45,10 +61,9 @@ async function main() {
     themes: splitCsvList(row.themes ?? ""),
     // Instagram-only rewrite of `headline` that opens a curiosity gap instead
     // of closing one (see nib-social's growth-strategy doc, §9 Hook Strategy).
-    // Most facts don't have one yet — omitted (not an empty string) so it's
-    // undefined in-app rather than a visible blank field, and so this column
-    // can be filled in gradually without a schema-wide backfill.
-    ...(row.socialHook ? { socialHook: row.socialHook } : {}),
+    // Required as of the 2026-08-11 backfill — guaranteed present by the
+    // check above, so no more conditional inclusion.
+    socialHook: row.socialHook,
   }));
 
   await fs.mkdir("exports", { recursive: true });
