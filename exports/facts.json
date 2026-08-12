@@ -3683,7 +3683,8 @@
     "themes": [
       "medicine-and-cures",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "One brain surgery in 1953 left a man unable to form a single new memory for the rest of his life."
   },
   {
     "id": "attention-cannot-focus-everything",
@@ -3829,7 +3830,8 @@
     ],
     "themes": [
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Some animals can sleep with only half of their brain at a time — literally with one eye open."
   },
   {
     "id": "optical-illusions-mirror-therapy",
@@ -3858,7 +3860,8 @@
       "optical-illusion",
       "lost-and-rediscovered",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "People who lose a limb can still feel real, agonizing pain in it — and doctors found a strange fix using nothing but a mirror."
   },
   {
     "id": "deja-vu-brain-misfire",
@@ -3887,7 +3890,8 @@
     "themes": [
       "psychology-and-behavior",
       "perception-and-brain"
-    ]
+    ],
+    "socialHook": "That eerie déjà vu feeling might be a literal misfire between two different systems in your brain."
   },
   {
     "id": "honey-egyptian-mummies",
@@ -22060,7 +22064,8 @@
       "origins-and-naming",
       "energy-and-power",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "One doctor discovered what a genuine smile actually looks like by literally shocking people's faces with electricity."
   },
   {
     "id": "smiling-short-expression",
@@ -22086,7 +22091,8 @@
     ],
     "themes": [
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Babies smile before they're even born — and nobody taught them how."
   },
   {
     "id": "eye-contact-cultural-meaning",
@@ -22112,7 +22118,8 @@
     "themes": [
       "symbiosis-and-cooperation",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "One psychology study found that 36 questions and four minutes of eye contact could spark real intimacy between total strangers."
   },
   {
     "id": "eye-contact-engagement",
@@ -22139,7 +22146,8 @@
       "origins-and-naming",
       "materials-and-chemistry",
       "plants-and-botany"
-    ]
+    ],
+    "socialHook": "Your pupils secretly widen at things you find interesting — and you can't consciously fake it."
   },
   {
     "id": "personal-space-invisible-bubble",
@@ -22168,7 +22176,8 @@
       "medicine-and-cures",
       "psychology-and-behavior",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One woman lost all sense of personal space after a single part of her brain was destroyed — revealing exactly where that feeling lives."
   },
   {
     "id": "handshakes-quaker-greeting",
@@ -22195,7 +22204,8 @@
       "collective-behavior",
       "symbiosis-and-cooperation",
       "luck-ritual-superstition"
-    ]
+    ],
+    "socialHook": "A handshake spreads roughly twice as many germs as a high-five."
   },
   {
     "id": "facial-expressions-evolution",
@@ -22221,7 +22231,8 @@
     "themes": [
       "parental-care",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "In one experiment, a mother's face going completely blank was enough to distress her baby within minutes."
   },
   {
     "id": "facial-expressions-universal",
@@ -22246,7 +22257,8 @@
     ],
     "themes": [
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Athletes who have been blind since birth make the exact same victory pose as everyone else — despite never having seen it."
   },
   {
     "id": "posture-spine-curves",
@@ -22271,7 +22283,8 @@
     ],
     "themes": [
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "Tilting your head down to look at your phone can put roughly 60 pounds of force on your neck."
   },
   {
     "id": "gestures-co-speech",
@@ -22297,7 +22310,8 @@
     "themes": [
       "origins-and-naming",
       "transformation-metamorphosis"
-    ]
+    ],
+    "socialHook": "One friendly hand gesture in the West is a serious insult in other parts of the world."
   },
   {
     "id": "gestures-before-words",
@@ -22324,7 +22338,8 @@
     ],
     "themes": [
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "People who have been blind since birth still gesture with their hands while talking — even to other blind people."
   },
   {
     "id": "laughter-contagious",
@@ -22352,7 +22367,8 @@
       "hidden-underground",
       "plants-and-botany",
       "games-and-play"
-    ]
+    ],
+    "socialHook": "Tickle a rat, and it actually laughs — in a pitch too high for humans to hear."
   },
   {
     "id": "laughter-not-always-jokes",
@@ -22377,7 +22393,8 @@
     ],
     "themes": [
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "In 1962, an outbreak of uncontrollable laughter spread through an entire region and forced schools to shut down."
   },
   {
     "id": "crossed-arms-not-always-defensive",
@@ -22404,7 +22421,8 @@
     "themes": [
       "optical-illusion",
       "perception-and-brain"
-    ]
+    ],
+    "socialHook": "Crossing your arms over an injury can actually make the pain feel less intense."
   },
   {
     "id": "crossed-arms-context-matters",
@@ -22430,7 +22448,8 @@
     "themes": [
       "automation-robots-ai",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "You always fold your arms the exact same way — try switching which one goes on top and it feels completely wrong."
   },
   {
     "id": "shackleton-endurance-survival",
