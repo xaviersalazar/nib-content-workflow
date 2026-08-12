@@ -6,15 +6,21 @@ Living doc for the `socialHook` backfill effort. Continue this in a fresh sessio
 
 ## Status
 
+**🎉 Backfill complete: all 966 facts now have a `socialHook`.** Done in 43 phases across the 4-tier structure in `instagram-growth-strategy.md` §10 (Tier A → B → C → D, in that order, per-category or small same-theme category groups). Each phase was drafted, then written in via the CSV → export → diff-check → commit loop described below. Full per-fact detail (which phase, which category, done/pending) lives in the master ledger artifact from that session — ask the user for the link if you need to re-derive scope, since it isn't saved to a file in this repo.
+
 | Step | Status |
 |---|---|
 | `socialHook` field added to schema/CSV/export | ✅ Committed (`1dafe86`) |
 | Venus example (`venus-day-longer-than-year`) | ✅ Committed |
-| 20-fact sample batch, drafted | ✅ Approved as-is |
-| Batch written to `approved-facts.csv` + exported | ✅ Committed (`afe1732`) |
-| Next batch (scope TBD) | ❌ Not started |
+| 20-fact sample batch (space) | ✅ Committed (`afe1732`) |
+| Remaining 5 Space facts | ✅ Committed (`c8c088f`) |
+| Tier A (19 phases, 398 facts) | ✅ Complete |
+| Tier B (11 phases, 321 facts) | ✅ Complete |
+| Tier C (9 phases, 188 facts) | ✅ Complete |
+| Tier D (4 phases, 59 facts) | ✅ Complete |
+| **All 966 facts** | ✅ **100% complete** |
 
-**Pick up here:** ask the user to scope the next batch (options in [After this batch: scoping the rest](#after-this-batch-scoping-the-rest) below), then apply [The method](#the-method-apply-to-every-future-batch) to draft it and [How to write a batch in](#how-to-write-a-batch-in) to commit it.
+**Pick up here:** the backfill itself is done. What's left is downstream consumption — see [Related, still-open](#related-still-open-from-the-same-session) below: nib-social doesn't read `socialHook` yet, and it hasn't synced past `nib-content-workflow`'s own `exports/facts.json`.
 
 ## The method (apply to every future batch)
 
@@ -24,7 +30,7 @@ Living doc for the `socialHook` backfill effort. Continue this in a fresh sessio
 4. **Not every fact needs a rewrite.** A few in the batch below (`exoplanets-rogue-planets`, `perception-brain-fills-gaps`, `dolphins-signature-whistle`, `mirage-bending-light`) already open a gap reasonably well — don't force churn for its own sake.
 5. **`headline` never changes.** It's the app-facing field; `socialHook` is additive and Instagram-only.
 
-## The current batch (drafted, awaiting approval)
+## The first batch (historical — kept as a worked example of the method)
 
 Sample chosen across 5 categories (space, mysteries, psychology, animals, illusions-perceptions) to sanity-check formula variety before scaling up — this was explicitly *not* a Tier-A sweep or a full-database pass, just a first review batch.
 
@@ -69,14 +75,9 @@ git diff exports/facts.json   # sanity-check only the intended facts changed
 
 Commit using this repo's own terse convention (see recent `git log` — mostly single-line `feat:`/`chore:` subjects, rarely a body).
 
-## After this batch: scoping the rest
+## Scoping the rest — resolved
 
-The original scoping question (asked before this batch) offered three sizes — this batch was "small sample first." Once it's approved and written in, ask again which comes next:
-
-- **Tier A categories** — all facts in the highest-viral-potential categories from the growth-strategy's tiering (space, ocean-life, animals, survival-body-limits, psychology/human-behavior, mysteries, illusions-perceptions, strange-places, ancient-creatures, dinosaurs) — roughly 200–250 facts.
-- **Everything** — all 966 facts in one pass.
-
-Given the fabrication near-misses caught in this first batch, recommend continuing in reviewable batches (not "everything" in one unreviewed pass) even once the format/approach is validated.
+The original scoping question (Tier A only vs. everything) was superseded: the user asked for all 966 facts broken into a full tier structure (A/B/C/D, extending the growth-strategy doc's original tiering to cover every category, not just the original ~680-fact subset), then ran the whole thing to completion in "auto mode" — each phase drafted and auto-approved on formula-fit + no-fabrication judgment, with the batch shown to the user for visibility after each phase rather than before. That's how all 966 got done in one session. See `instagram-growth-strategy.md` §10 for the final tier table.
 
 ## Related, still-open (from the same session)
 
