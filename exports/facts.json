@@ -4309,7 +4309,8 @@
       "stars-and-cosmos",
       "internet-and-virality",
       "world-first"
-    ]
+    ],
+    "socialHook": "The very first message ever sent across the internet wasn't even a full word — the system crashed after two letters."
   },
   {
     "id": "world-wide-web-cern-1989",
@@ -4339,7 +4340,8 @@
       "computing-and-web",
       "stars-and-cosmos",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "The inventor of the World Wide Web could have owned the whole thing. He gave it away for free instead."
   },
   {
     "id": "wi-fi-signals-bounce",
@@ -4367,7 +4369,8 @@
       "computing-and-web",
       "stars-and-cosmos",
       "animal-intelligence"
-    ]
+    ],
+    "socialHook": "The math behind your home Wi-Fi came from scientists who were actually hunting for exploding black holes."
   },
   {
     "id": "blockchain-public-private-keys",
@@ -4395,7 +4398,8 @@
       "lost-and-rediscovered",
       "invention-and-breakthrough",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "Nobody has ever confirmed who actually invented Bitcoin — and its creator is sitting on a frozen fortune worth tens of billions."
   },
   {
     "id": "bluetooth-direct-device-talk",
@@ -4420,7 +4424,8 @@
     ],
     "themes": [
       "origins-and-naming"
-    ]
+    ],
+    "socialHook": "That little blue Bluetooth logo is actually a Viking king's initials, written in ancient runes."
   },
   {
     "id": "search-engines-google-backrub",
@@ -4451,7 +4456,8 @@
       "energy-and-power",
       "counterintuitive-scale",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "Before it was Google, it was almost permanently named BackRub."
   },
   {
     "id": "captcha-checkbox-movement",
@@ -4479,7 +4485,8 @@
       "automation-robots-ai",
       "myth-vs-reality",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "That 'I'm not a robot' checkbox isn't actually testing your click — it's secretly watching how your mouse moves."
   },
   {
     "id": "data-centers-avoid-downtime",
@@ -4507,7 +4514,8 @@
       "computing-and-web",
       "deep-sea-and-abyss",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "Microsoft once sank an entire data center to the bottom of the ocean — and it failed less than the ones on land."
   },
   {
     "id": "machine-learning-pattern-learning",
@@ -5915,7 +5923,8 @@
       "music-and-sound",
       "machines-and-mechanisms",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "Humans had needles, boats, and farms for thousands of years before anyone invented the wheel."
   },
   {
     "id": "gears-speed-torque-tradeoff",
@@ -5944,7 +5953,8 @@
       "machines-and-mechanisms",
       "ancient-engineering",
       "games-and-play"
-    ]
+    ],
+    "socialHook": "One 2,000-year-old device pulled from a shipwreck turned out to be an actual analog computer."
   },
   {
     "id": "concrete-steel-reinforcement",
@@ -5973,7 +5983,8 @@
       "food-and-cuisine",
       "ancient-engineering",
       "animal-intelligence"
-    ]
+    ],
+    "socialHook": "Ancient Roman concrete can heal its own cracks. Modern concrete crumbles in decades."
   },
   {
     "id": "dams-many-purposes",
@@ -6001,7 +6012,8 @@
       "gravity-and-orbits",
       "numbers-and-mathematics",
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "One dam holds so much water, it measurably slowed down the rotation of the entire Earth."
   },
   {
     "id": "steel-iron-carbon-alloy",
@@ -6030,7 +6042,8 @@
       "accidental-discovery",
       "invention-and-breakthrough",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "One of the most useful metals ever made started out as a 'failed' gun barrel experiment that got tossed in the trash."
   },
   {
     "id": "suspension-bridges-tacoma-narrows",
@@ -6059,7 +6072,8 @@
       "disaster-and-catastrophe",
       "architecture-and-structures",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "One bridge collapsed in 1940 because engineers had never once considered what wind could do to it."
   },
   {
     "id": "elevators-otis-safety-brake",
@@ -6089,7 +6103,8 @@
       "collective-behavior",
       "invention-and-breakthrough",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One inventor proved his elevator was safe by riding it in front of a crowd and having someone cut the rope with an axe."
   },
   {
     "id": "earthquake-engineering-strong-joints",
@@ -6118,7 +6133,8 @@
       "architecture-and-structures",
       "record-extremes",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "One skyscraper stays steady during earthquakes thanks to a 660-ton steel ball hanging inside it."
   },
   {
     "id": "airplanes-four-forces",
@@ -14940,7 +14956,8 @@
       "accidental-discovery",
       "invention-and-breakthrough",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "The glue behind Post-it notes was considered a total failure for five years before anyone found a use for it."
   },
   {
     "id": "safety-pin-debt",
@@ -14965,7 +14982,8 @@
     ],
     "themes": [
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "One inventor created the safety pin in just a few hours — because he needed fast cash to pay off a debt."
   },
   {
     "id": "ballpoint-pen-air-force",
@@ -14991,7 +15009,8 @@
     "themes": [
       "money-trade-and-value",
       "world-first"
-    ]
+    ],
+    "socialHook": "People once mobbed stores to buy a single pen for the equivalent of about $200."
   },
   {
     "id": "barcode-checkout-problem",
@@ -15017,7 +15036,8 @@
     "themes": [
       "codes-and-cryptography",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The barcode was first sketched out by dragging fingers through beach sand."
   },
   {
     "id": "barcode-upc-adoption",
@@ -15044,7 +15064,8 @@
       "world-first",
       "automation-robots-ai",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "The very first product ever scanned by a barcode was just a random pack of gum — and it's now sitting in the Smithsonian."
   },
   {
     "id": "velcro-hook-and-loop",
@@ -15072,7 +15093,8 @@
       "myth-vs-reality",
       "invention-and-breakthrough",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "NASA didn't actually invent Velcro — it just happened to make it famous."
   },
   {
     "id": "velcro-manufacturing-challenge",
@@ -15098,7 +15120,8 @@
     "themes": [
       "money-trade-and-value",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "The word 'Velcro' is a trademark the company actually doesn't want you to use."
   },
   {
     "id": "batteries-electrochemical-cells",
@@ -15123,7 +15146,8 @@
     ],
     "themes": [
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "Some 2,000-year-old clay jars can still produce a small electric current when filled with vinegar — and nobody's fully sure what they were originally for."
   },
   {
     "id": "batteries-primary-vs-storage",
@@ -15151,7 +15175,8 @@
       "record-extremes",
       "materials-and-chemistry",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "One battery has been ringing a bell almost nonstop since around 1840 — and scientists still don't know its exact recipe, because opening it would end the experiment."
   },
   {
     "id": "batteries-portable-power",
@@ -15179,7 +15204,8 @@
       "materials-and-chemistry",
       "invention-and-breakthrough",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "The battery was invented to settle an argument that started with a dead frog's legs twitching."
   },
   {
     "id": "qr-codes-denso-wave",
@@ -15207,7 +15233,8 @@
       "lost-and-rediscovered",
       "numbers-and-mathematics",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "A QR code can have up to about 30% of it damaged or covered — and still scan perfectly."
   },
   {
     "id": "internet-undersea-cables",
@@ -15236,7 +15263,8 @@
       "internet-and-virality",
       "deep-sea-and-abyss",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "Almost all of the internet doesn't travel through satellites at all — it travels through cables lying on the ocean floor."
   },
   {
     "id": "internet-packets",
@@ -15263,7 +15291,8 @@
       "internet-and-virality",
       "numbers-and-mathematics",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "There are enough possible internet addresses to give one to every single grain of sand on Earth, many times over."
   },
   {
     "id": "internet-commercial-expansion",
@@ -15292,7 +15321,8 @@
       "world-first",
       "internet-and-virality",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The world's first webcam wasn't invented for anything important — it was built just to check if a coffee pot was full."
   },
   {
     "id": "gps-satellite-positioning",
@@ -15320,7 +15350,8 @@
       "flight-and-aviation",
       "psychology-and-behavior",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "GPS is free for civilians today because of a tragedy — a passenger plane that was shot down in 1983."
   },
   {
     "id": "gps-everyday-infrastructure",
@@ -15348,7 +15379,8 @@
       "energy-and-power",
       "human-body-quirks",
       "myth-vs-reality"
-    ]
+    ],
+    "socialHook": "If GPS ever went down, your maps might be the least of your problems — banks and power grids secretly depend on it too."
   },
   {
     "id": "television-scans-images",
@@ -15371,7 +15403,8 @@
       "barcode-checkout-problem",
       "internet-commercial-expansion"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "The idea behind modern television came to a 14-year-old while he was plowing a potato field."
   },
   {
     "id": "television-kept-changing",
@@ -15397,7 +15430,8 @@
     ],
     "themes": [
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The first working television was partly built out of a hatbox and bicycle lights."
   },
   {
     "id": "radio-golden-age",
@@ -15423,7 +15457,8 @@
     "themes": [
       "invention-and-breakthrough",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One inventor died broke and forgotten — then the Supreme Court ruled, months later, that he was radio's true inventor all along."
   },
   {
     "id": "radio-sound-effects-art",
@@ -15451,7 +15486,8 @@
       "camouflage-and-mimicry",
       "deception-and-hoax",
       "materials-and-chemistry"
-    ]
+    ],
+    "socialHook": "Old radio dramas faked the sound of galloping horses using nothing but coconut shells."
   },
   {
     "id": "light-bulb-filament",
@@ -15476,7 +15512,8 @@
     ],
     "themes": [
       "bioluminescence-and-glow"
-    ]
+    ],
+    "socialHook": "Edison's team tested around 6,000 different materials for the light bulb filament — including hair from a coworker's beard."
   },
   {
     "id": "light-bulb-not-one-inventor-story",
@@ -15502,7 +15539,8 @@
     "themes": [
       "bioluminescence-and-glow",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "One light bulb has been burning almost nonstop since 1901."
   },
   {
     "id": "light-bulb-changed-night",
@@ -15529,7 +15567,8 @@
       "energy-and-power",
       "lost-and-rediscovered",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "The electricity running through your walls right now is exactly the system Thomas Edison fought hard to destroy."
   },
   {
     "id": "telephone-transmits-speech",
@@ -15555,7 +15594,8 @@
     ],
     "themes": [
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The race to patent the telephone came down to a matter of hours."
   },
   {
     "id": "telephone-needed-networks",
@@ -15580,7 +15620,8 @@
     ],
     "themes": [
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The inventor of the telephone actually wanted everyone to answer it by saying 'Ahoy' instead of 'Hello.'"
   },
   {
     "id": "telephone-long-distance-challenge",
@@ -15608,7 +15649,8 @@
       "invention-and-breakthrough",
       "storytelling-and-narrative",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "One telegraph company was offered the telephone patent and turned it down, calling it a useless 'toy.'"
   },
   {
     "id": "wheel-spokes-chariots",
@@ -15634,7 +15676,8 @@
     "themes": [
       "war-and-conflict",
       "machines-and-mechanisms"
-    ]
+    ],
+    "socialHook": "One of the handiest versions of the wheel was once treated as an actual military secret."
   },
   {
     "id": "buddhism-spread-across-asia",
@@ -26233,7 +26276,8 @@
       "hidden-underground",
       "disaster-and-catastrophe",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "A volcano sealed a library of scrolls shut nearly 2,000 years ago — and scientists just figured out how to read them without ever unrolling them."
   },
   {
     "id": "herculaneum-scrolls-vesuvius-challenge-prize",
@@ -26262,7 +26306,8 @@
       "money-trade-and-value",
       "collective-behavior",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "One scientist couldn't crack an ancient scroll-reading puzzle alone — so he turned it into a contest with over a million dollars in real prize money."
   },
   {
     "id": "pliny-younger-skipped-rescue",
@@ -26436,7 +26481,8 @@
     "themes": [
       "architecture-and-structures",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "Apollo 13's air filters were the wrong shape for the emergency, so engineers built a working replacement out of duct tape and a plastic bag."
   },
   {
     "id": "apollo-guidance-computer-rope-memory",
@@ -26465,7 +26511,8 @@
       "computing-and-web",
       "stars-and-cosmos",
       "survival-adaptation"
-    ]
+    ],
+    "socialHook": "The software that flew astronauts to the Moon wasn't typed — it was physically woven by hand, wire by wire."
   },
   {
     "id": "apollo13-haise-kidney-infection",
