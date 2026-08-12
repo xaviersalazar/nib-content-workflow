@@ -15991,7 +15991,8 @@
     "themes": [
       "record-extremes",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "Even the biggest dinosaurs that ever lived hatched out of eggs no bigger than a football."
   },
   {
     "id": "dinosaur-eggs-embryos-rare",
@@ -16016,7 +16017,8 @@
     ],
     "themes": [
       "parental-care"
-    ]
+    ],
+    "socialHook": "One dinosaur was named 'egg thief' — and it took 70 years to discover it was actually a caring parent."
   },
   {
     "id": "ankylosaurus-armored-tank",
@@ -16044,7 +16046,8 @@
       "plants-and-botany",
       "human-body-quirks",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "One armored dinosaur's tail club could swing hard enough to shatter a predator's leg bone."
   },
   {
     "id": "ankylosaurus-tail-club",
@@ -16073,7 +16076,8 @@
       "materials-and-chemistry",
       "plants-and-botany",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "One dinosaur was so perfectly preserved, scientists could actually tell you its exact original coloring."
   },
   {
     "id": "ankylosaurus-leaf-teeth",
@@ -16099,7 +16103,8 @@
     "themes": [
       "plants-and-botany",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "One of the most heavily armored dinosaurs ever — down to armored eyelids — was just a plant eater."
   },
   {
     "id": "brachiosaurus-giraffe-build",
@@ -16125,7 +16130,8 @@
     "themes": [
       "human-body-quirks",
       "machines-and-mechanisms"
-    ]
+    ],
+    "socialHook": "One giant dinosaur's own blood pressure, needed just to reach its brain, may have been dangerous enough to kill it."
   },
   {
     "id": "brachiosaurus-treetop-browser",
@@ -16154,7 +16160,8 @@
       "human-body-quirks",
       "storytelling-and-narrative",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "One massive plant-eating dinosaur didn't chew its food at all — it just swallowed leaves whole."
   },
   {
     "id": "dinosaur-extinction-sunlight-collapse",
@@ -16182,7 +16189,8 @@
       "hidden-underground",
       "disaster-and-catastrophe",
       "luck-ritual-superstition"
-    ]
+    ],
+    "socialHook": "The asteroid that killed the dinosaurs may have been so devastating partly because of exactly where it happened to land."
   },
   {
     "id": "dinosaur-extinction-kpg-scale",
@@ -16209,7 +16217,8 @@
       "disaster-and-catastrophe",
       "hidden-underground",
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "One fossil site may actually preserve the exact day the dinosaur-killing asteroid hit, 66 million years ago."
   },
   {
     "id": "fossils-permineralization",
@@ -16236,7 +16245,8 @@
     "themes": [
       "human-body-quirks",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "Scientists found soft, flexible tissue inside a 66-million-year-old T. rex bone."
   },
   {
     "id": "fossils-careful-excavation",
@@ -16263,7 +16273,8 @@
       "energy-and-power",
       "human-body-quirks",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "Two rival scientists once waged a real feud so intense it reportedly involved dynamiting each other's dig sites."
   },
   {
     "id": "iguanodon-iguana-tooth-name",
@@ -16289,7 +16300,8 @@
     "themes": [
       "materials-and-chemistry",
       "self-organizing-patterns"
-    ]
+    ],
+    "socialHook": "In 1853, scientists once hosted a formal New Year's Eve dinner party seated inside a hollow dinosaur model."
   },
   {
     "id": "iguanodon-thumb-spike",
@@ -16312,7 +16324,8 @@
       "ankylosaurus-leaf-teeth",
       "dinosaur-eggs-embryos-rare"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "One of the first dinosaurs ever discovered spent decades on display wearing its own thumb spike mounted on its nose."
   },
   {
     "id": "stegosaurus-plates-not-simple-armor",
@@ -16341,7 +16354,8 @@
       "energy-and-power",
       "human-body-quirks",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "One dinosaur the size of a bus ran its entire body on a brain about the size of a walnut."
   },
   {
     "id": "stegosaurus-tail-spikes",
@@ -16366,7 +16380,8 @@
     ],
     "themes": [
       "origins-and-naming"
-    ]
+    ],
+    "socialHook": "The official scientific name for Stegosaurus's tail spikes came from a newspaper comic strip joke."
   },
   {
     "id": "stegosaurus-ankylosaur-relatives",
@@ -16392,7 +16407,8 @@
     "themes": [
       "record-extremes",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "Nobody actually knows for certain what Stegosaurus's famous back plates were even for."
   },
   {
     "id": "triceratops-three-horns",
@@ -16417,7 +16433,8 @@
     ],
     "themes": [
       "record-extremes"
-    ]
+    ],
+    "socialHook": "One dinosaur's skull alone could make up close to a third of its entire body length."
   },
   {
     "id": "triceratops-late-and-numerous",
@@ -16445,7 +16462,8 @@
       "storytelling-and-narrative",
       "human-body-quirks",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "Fossils actually prove that T. rex and Triceratops really fought — and at least one Triceratops survived the bite."
   },
   {
     "id": "tyrannosaurus-king-name",
@@ -16470,7 +16488,8 @@
     ],
     "themes": [
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "T. rex lived closer in time to humans than it did to Stegosaurus."
   },
   {
     "id": "tyrannosaurus-sixty-teeth",
@@ -16498,7 +16517,8 @@
       "human-body-quirks",
       "food-and-cuisine",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "T. rex bit so hard it actually crushed and digested bone — and we know because it shows up in fossilized T. rex droppings."
   },
   {
     "id": "tyrannosaurus-predator-scavenger",
@@ -16524,7 +16544,8 @@
     ],
     "themes": [
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "The 'king' of the dinosaurs may have hatched out looking fluffy, not scaly."
   },
   {
     "id": "velociraptor-not-movie-sized",
@@ -16550,7 +16571,8 @@
     "themes": [
       "counterintuitive-scale",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "The real Velociraptor was covered in feathers and barely came up to your knee — nothing like the movies."
   },
   {
     "id": "velociraptor-asian-dromaeosaur",
@@ -16578,7 +16600,8 @@
       "hidden-underground",
       "plants-and-botany",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "One fossil captured a predator and its prey locked in mid-fight, buried together in the exact same instant."
   },
   {
     "id": "dunkleosteus-jaw-bones",
