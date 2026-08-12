@@ -20787,7 +20787,8 @@
       "optical-illusion",
       "perception-and-brain",
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "The Moon on the horizon looks enormous — and it's actually the exact same size as when it's high in the sky."
   },
   {
     "id": "mirage-bending-light",
@@ -20841,7 +20842,8 @@
     ],
     "themes": [
       "optical-illusion"
-    ]
+    ],
+    "socialHook": "That 'water' shimmering on a hot road isn't water at all — it's literally a piece of the sky, bent into your eyes."
   },
   {
     "id": "mirage-looming",
@@ -20926,7 +20928,8 @@
       "stars-and-cosmos",
       "money-trade-and-value",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "One grilled cheese sandwich sold for about $28,000 — because of a face people saw in the toast."
   },
   {
     "id": "pareidolia-survival-skill",
@@ -20954,7 +20957,8 @@
       "energy-and-power",
       "timekeeping",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "Your brain has a face-detector so trigger-happy, it sees faces in car headlights and power outlets on purpose."
   },
   {
     "id": "afterimages-retina-desensitized",
@@ -20981,7 +20985,8 @@
     "themes": [
       "stars-and-cosmos",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "Stare at a flag painted in the wrong colors for 30 seconds, then look at a blank wall — a hidden, correctly colored flag appears."
   },
   {
     "id": "afterimages-one-eye",
@@ -21007,7 +21012,8 @@
     ],
     "themes": [
       "perception-and-brain"
-    ]
+    ],
+    "socialHook": "Hold your eyes perfectly still, and parts of what you're looking at will actually start to disappear."
   },
   {
     "id": "blind-spots-optic-nerve",
@@ -21034,7 +21040,8 @@
       "stars-and-cosmos",
       "human-body-quirks",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "The blind spot in each of your eyes is big enough to hide nine full Moons side by side."
   },
   {
     "id": "blind-spots-brain-fills-in",
@@ -21061,7 +21068,8 @@
     "themes": [
       "perception-and-brain",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "You actually go briefly blind every single time your eyes move — hundreds of times an hour, and you've never once noticed."
   },
   {
     "id": "color-illusions-rgb-white",
@@ -21090,7 +21098,8 @@
       "optical-illusion",
       "color-and-light",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "Two squares in one famous image are printed in the exact same shade of grey — and your brain refuses to believe it."
   },
   {
     "id": "color-illusions-three-cones",
@@ -21119,7 +21128,8 @@
       "optical-illusion",
       "color-and-light",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "One famous photo has zero red pixels in it at all — and it still looks unmistakably red."
   },
   {
     "id": "impossible-shapes-persistent",
@@ -21147,7 +21157,8 @@
       "camouflage-and-mimicry",
       "music-and-sound",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "There's a real, physical sculpture that looks like a mathematically impossible shape — but only from one exact spot."
   },
   {
     "id": "motion-illusions-rotating-snakes",
@@ -21174,7 +21185,8 @@
     "themes": [
       "perception-and-brain",
       "optical-illusion"
-    ]
+    ],
+    "socialHook": "Stare at flowing water for 30 seconds, then look at something still — it will appear to drift upward on its own."
   },
   {
     "id": "motion-illusions-peripheral-drift",
@@ -21202,7 +21214,8 @@
       "optical-illusion",
       "perception-and-brain",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "One printed image only appears to move when you're not looking directly at it. Stare right at it, and it freezes instantly."
   },
   {
     "id": "forced-perspective-size-trick",
@@ -21229,7 +21242,8 @@
       "storytelling-and-narrative",
       "animal-intelligence",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "The hobbits in one famous film trilogy were shrunk mostly with camera tricks — barely any special effects at all."
   },
   {
     "id": "forced-perspective-camera-distance",
@@ -21255,7 +21269,8 @@
     "themes": [
       "perception-and-brain",
       "camouflage-and-mimicry"
-    ]
+    ],
+    "socialHook": "There's a real room that can make a person appear to grow into a giant or shrink into a dwarf as they walk across it."
   },
   {
     "id": "forced-perspective-focus-planning",
@@ -21284,7 +21299,8 @@
       "optical-illusion",
       "perception-and-brain",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "Disney's famous castles are actually much shorter than they look — the architecture itself is an optical illusion."
   },
   {
     "id": "the-dress-split-perception",
@@ -21312,7 +21328,8 @@
       "computing-and-web",
       "perception-and-brain",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "The dress that broke the internet in 2015 was verifiably blue and black — and many people still couldn't force themselves to see it that way."
   },
   {
     "id": "the-dress-blue-processing",
@@ -21338,7 +21355,8 @@
     "themes": [
       "music-and-sound",
       "perception-and-brain"
-    ]
+    ],
+    "socialHook": "The Dress had a sound-based twin — one audio clip split people's hearing the exact same way."
   },
   {
     "id": "caesar-cipher-letter-shift",
