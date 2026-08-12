@@ -1328,7 +1328,8 @@
       "french-revolution-bastille",
       "industrial-revolution-child-labor"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "The most famous ride in American history actually ended with the rider captured by the enemy, not completing his mission."
   },
   {
     "id": "industrial-revolution-child-labor",
@@ -1355,7 +1356,8 @@
     "themes": [
       "war-and-conflict",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The word 'Luddite' comes from an actual armed rebellion where workers smashed factories at night, and the army had to be sent in."
   },
   {
     "id": "ancient-china-terracotta-army",
@@ -1384,7 +1386,8 @@
       "war-and-conflict",
       "energy-and-power",
       "accidental-discovery"
-    ]
+    ],
+    "socialHook": "One ancient emperor was buried with an entire army made of clay — thousands of soldiers, each with a unique face."
   },
   {
     "id": "ancient-china-gunpowder",
@@ -1413,7 +1416,8 @@
       "money-trade-and-value",
       "accidental-discovery",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "Gunpowder was invented by accident — by alchemists who were actually trying to brew a potion for eternal life."
   },
   {
     "id": "ancient-china-wu-zetian",
@@ -1439,7 +1443,8 @@
     ],
     "themes": [
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "One woman started as a powerless concubine and ended up as the only female emperor in Chinese history."
   },
   {
     "id": "silk-road-black-death",
@@ -1467,7 +1472,8 @@
       "money-trade-and-value",
       "medicine-and-cures",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "The same trade route that carried silk and spices across continents likely also carried the Black Death."
   },
   {
     "id": "french-revolution-bastille",
@@ -1495,7 +1501,8 @@
       "energy-and-power",
       "collective-behavior",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "The prison stormed to spark the French Revolution held almost no prisoners worth freeing."
   },
   {
     "id": "space-race-sputnik",
@@ -1522,7 +1529,8 @@
     ],
     "themes": [
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "America's first attempt to answer Sputnik blew up on live television, just a few feet off the ground."
   },
   {
     "id": "space-race-armstrong-aldrin",
@@ -1550,7 +1558,8 @@
       "gravity-and-orbits",
       "stars-and-cosmos",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "While two astronauts walked on the Moon, a third orbited completely alone — cut off from every other human alive."
   },
   {
     "id": "titanic-four-compartments",
@@ -1578,7 +1587,8 @@
     "themes": [
       "disaster-and-catastrophe",
       "materials-and-chemistry"
-    ]
+    ],
+    "socialHook": "The Titanic was designed to survive four flooded compartments. The iceberg gave it five."
   },
   {
     "id": "titanic-warning-never-reached-bridge",
@@ -1606,7 +1616,8 @@
     "themes": [
       "disaster-and-catastrophe",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "The Titanic had already received a warning about the exact ice ahead of it — it just never reached the people steering the ship."
   },
   {
     "id": "titanic-lifeboat-capacity-gap",
@@ -1635,7 +1646,8 @@
       "world-first",
       "disaster-and-catastrophe",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "The Titanic's very first lifeboat to leave the sinking ship carried just 27 people — in a boat built for 65."
   },
   {
     "id": "ancient-egypt-3000-years",
@@ -24978,7 +24990,8 @@
       "medicine-and-cures",
       "human-body-quirks",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "One scientist called the switch to farming 'the worst mistake in the history of the human race' — and skeletons back him up."
   },
   {
     "id": "agriculture-settled-societies",
@@ -25004,7 +25017,8 @@
     "themes": [
       "plants-and-botany",
       "transformation-metamorphosis"
-    ]
+    ],
+    "socialHook": "We selectively bred corn so heavily that it literally cannot reproduce on its own anymore."
   },
   {
     "id": "calendars-track-cycles",
@@ -25030,7 +25044,8 @@
     "themes": [
       "collective-behavior",
       "timekeeping"
-    ]
+    ],
+    "socialHook": "One calendar switch literally erased days from history — some countries jumped straight from October 4th to October 15th."
   },
   {
     "id": "calendars-not-one-system",
@@ -25058,7 +25073,8 @@
       "timekeeping",
       "animal-intelligence",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "The last four months of the year are named after the wrong numbers entirely."
   },
   {
     "id": "calendars-reform",
@@ -25085,7 +25101,8 @@
       "timekeeping",
       "disaster-and-catastrophe",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "Revolutionary France once tried to replace the seven-day week with a ten-day one — and a 100-minute hour."
   },
   {
     "id": "cities-civilization-hubs",
@@ -25110,7 +25127,8 @@
     ],
     "themes": [
       "self-organizing-patterns"
-    ]
+    ],
+    "socialHook": "One of the very first cities ever built had no streets at all — people walked across the rooftops instead."
   },
   {
     "id": "cities-ancient-roots",
@@ -25136,7 +25154,8 @@
     "themes": [
       "ancient-engineering",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "Ancient Rome hit about a million residents — a size no city on Earth matched again for 1,800 years."
   },
   {
     "id": "cities-industrial-growth",
@@ -25163,7 +25182,8 @@
       "world-first",
       "psychology-and-behavior",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "Humans have only been a majority city-dwelling species since around 2007."
   },
   {
     "id": "coins-ancient-origins",
@@ -25190,7 +25210,8 @@
       "money-trade-and-value",
       "materials-and-chemistry",
       "world-first"
-    ]
+    ],
+    "socialHook": "The first coins ever minted came from a king so legendarily rich, his name is still used to describe wealth today."
   },
   {
     "id": "coins-ruler-portraits",
@@ -25216,7 +25237,8 @@
     "themes": [
       "record-extremes",
       "materials-and-chemistry"
-    ]
+    ],
+    "socialHook": "After assassinating Julius Caesar, Brutus minted a coin literally bragging about the exact day he did it."
   },
   {
     "id": "irrigation-theory-debated",
@@ -25245,7 +25267,8 @@
       "disaster-and-catastrophe",
       "architecture-and-structures",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "One irrigation project drained the world's fourth-largest lake into a desert littered with stranded ships."
   },
   {
     "id": "laws-ancient-codes",
@@ -25270,7 +25293,8 @@
     ],
     "themes": [
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "One ancient lawmaker was so brutally harsh, his own name became a word we still use today."
   },
   {
     "id": "laws-national-codification",
@@ -25298,7 +25322,8 @@
       "plants-and-botany",
       "collective-behavior",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "Medieval European courts actually put animals on trial — with real defense lawyers and real sentences."
   },
   {
     "id": "roads-military-first",
@@ -25325,7 +25350,8 @@
       "war-and-conflict",
       "architecture-and-structures",
       "machines-and-mechanisms"
-    ]
+    ],
+    "socialHook": "Some modern highways in Europe still follow the exact same routes Roman engineers surveyed 2,000 years ago."
   },
   {
     "id": "sewers-wastewater-network",
@@ -25352,7 +25378,8 @@
       "record-extremes",
       "origins-and-naming",
       "hidden-underground"
-    ]
+    ],
+    "socialHook": "One of Rome's ancient sewers has been quietly working for around 2,500 years — and it even had its own goddess."
   },
   {
     "id": "sewers-two-systems",
@@ -25378,7 +25405,8 @@
     "themes": [
       "materials-and-chemistry",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One city's sewer system only got built because the stench got so bad, lawmakers nearly abandoned their own government building."
   },
   {
     "id": "sewers-public-health",
@@ -25403,7 +25431,8 @@
     ],
     "themes": [
       "medicine-and-cures"
-    ]
+    ],
+    "socialHook": "When one medical journal polled its readers on the greatest medical advance ever, the winner wasn't antibiotics or vaccines."
   },
   {
     "id": "timekeeping-mechanical-clocks",
@@ -25429,7 +25458,8 @@
     "themes": [
       "timekeeping",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "For most of history, an actual hour was longer in summer than it was in winter."
   },
   {
     "id": "timekeeping-escapement",
@@ -25456,7 +25486,8 @@
       "timekeeping",
       "record-extremes",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "Trains used to genuinely crash because entire towns couldn't agree on what time it was."
   },
   {
     "id": "timekeeping-atomic-clocks",
@@ -25484,7 +25515,8 @@
       "stars-and-cosmos",
       "lost-and-rediscovered",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "For centuries, sailors got fatally lost at sea because of a problem that a self-taught carpenter eventually solved — with a clock."
   },
   {
     "id": "maps-preserve-worldviews",
@@ -25510,7 +25542,8 @@
     "themes": [
       "counterintuitive-scale",
       "exploration-and-navigation"
-    ]
+    ],
+    "socialHook": "The world map most people grew up with makes one country look about the same size as an entire continent that's actually 14 times bigger."
   },
   {
     "id": "vacuum-of-space-suffocate-not-freeze",
