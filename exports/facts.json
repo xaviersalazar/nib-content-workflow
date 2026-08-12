@@ -19577,7 +19577,8 @@
     "themes": [
       "plants-and-botany",
       "bioluminescence-and-glow"
-    ]
+    ],
+    "socialHook": "Hammer gold thin enough, and it stops looking gold at all — hold it to a light and it turns green."
   },
   {
     "id": "gold-sacred-glow",
@@ -19603,7 +19604,8 @@
     "themes": [
       "color-and-light",
       "bioluminescence-and-glow"
-    ]
+    ],
+    "socialHook": "One 1,600-year-old Roman cup changes color depending on which side you shine the light from."
   },
   {
     "id": "black-absence-of-light",
@@ -19631,7 +19633,8 @@
       "stars-and-cosmos",
       "invention-and-breakthrough",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "The world's blackest black started an actual feud between two artists — one banned the other from ever buying his pink."
   },
   {
     "id": "black-carbon-pigment",
@@ -19659,7 +19662,8 @@
       "plants-and-botany",
       "food-and-cuisine",
       "coffee-and-tea"
-    ]
+    ],
+    "socialHook": "The ink used to write some of history's most important documents has been slowly eating through the pages ever since."
   },
   {
     "id": "blue-short-wavelength",
@@ -19686,7 +19690,8 @@
       "color-and-light",
       "transformation-metamorphosis",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "Blue jays, peacocks, and morpho butterflies aren't actually blue — crush one of their feathers and the blue disappears completely."
   },
   {
     "id": "blue-pigment-history",
@@ -19711,7 +19716,8 @@
     ],
     "themes": [
       "bioluminescence-and-glow"
-    ]
+    ],
+    "socialHook": "For centuries, the finest blue paint in the world was made from crushed-up gemstones — and it cost more than gold."
   },
   {
     "id": "green-middle-spectrum",
@@ -19737,7 +19743,8 @@
     "themes": [
       "plants-and-botany",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "One of the most fashionable colors of the Victorian era was quietly made of poison."
   },
   {
     "id": "indigo-ancient-dye",
@@ -19765,7 +19772,8 @@
       "color-and-light",
       "music-and-sound",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "One color in the rainbow only exists because Isaac Newton wanted the total to add up to seven."
   },
   {
     "id": "indigo-air-oxidation",
@@ -19791,7 +19799,8 @@
     ],
     "themes": [
       "color-and-light"
-    ]
+    ],
+    "socialHook": "Your jeans aren't actually blue in the dye vat — they turn blue right in front of your eyes the moment they hit the air."
   },
   {
     "id": "orange-named-late",
@@ -19817,7 +19826,8 @@
     "themes": [
       "invention-and-breakthrough",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "The orange carrot isn't nature's original — for most of history, carrots were purple."
   },
   {
     "id": "pink-not-always-girly",
@@ -19845,7 +19855,8 @@
       "color-and-light",
       "perception-and-brain",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "Pink doesn't actually exist anywhere on the light spectrum — your brain is inventing it."
   },
   {
     "id": "pink-once-for-boys",
@@ -19871,7 +19882,8 @@
     "themes": [
       "money-trade-and-value",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "A century ago, some stores insisted pink was the stronger, more masculine color — and blue was for girls."
   },
   {
     "id": "purple-shellfish-origin",
@@ -19897,7 +19909,8 @@
     "themes": [
       "lost-and-rediscovered",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Making a single ounce of the original royal purple dye took roughly 250,000 snails."
   },
   {
     "id": "purple-royal-rank",
@@ -19924,7 +19937,8 @@
       "medicine-and-cures",
       "materials-and-chemistry",
       "accidental-discovery"
-    ]
+    ],
+    "socialHook": "The first synthetic dye in history was created by accident, by an 18-year-old who was actually trying to cure malaria."
   },
   {
     "id": "red-longest-visible",
@@ -19950,7 +19964,8 @@
     "themes": [
       "food-and-cuisine",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "That deep red in some of your food and lipstick isn't a pigment at all — it's crushed-up bugs."
   },
   {
     "id": "red-opposite-green",
@@ -19979,7 +19994,8 @@
       "collective-behavior",
       "myth-vs-reality",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "Bulls charging a red cape isn't about the color at all — they're actually red-green colorblind."
   },
   {
     "id": "white-all-wavelengths",
@@ -20004,7 +20020,8 @@
     ],
     "themes": [
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "For centuries, the height of beauty was pale white skin — achieved with a cosmetic that was slowly poisoning people."
   },
   {
     "id": "white-newton-prism",
@@ -20031,7 +20048,8 @@
     "themes": [
       "food-and-cuisine",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "The same pigment that makes paint blindingly white is probably also in the candy you just ate."
   },
   {
     "id": "white-lead-pigment",
@@ -20059,7 +20077,8 @@
       "plants-and-botany",
       "color-and-light",
       "bioluminescence-and-glow"
-    ]
+    ],
+    "socialHook": "In much of the world, the color of a wedding dress is the exact same color worn to funerals."
   },
   {
     "id": "hibernation-slowed-body",
