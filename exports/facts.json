@@ -18996,7 +18996,8 @@
     "themes": [
       "money-trade-and-value",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "There's a hidden rule in clothing you've probably never noticed — men's and women's shirts button on opposite sides."
   },
   {
     "id": "forks-single-point",
@@ -19020,7 +19021,8 @@
     ],
     "themes": [
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "When forks first reached Europe, church officials actually condemned them as sinful and decadent."
   },
   {
     "id": "forks-replaced-table-knives",
@@ -19048,7 +19050,8 @@
       "storytelling-and-narrative",
       "war-and-conflict",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Dinner knives have rounded tips today because one powerful cardinal got disgusted watching guests pick their teeth with the pointed ones."
   },
   {
     "id": "mirrors-venice-glass",
@@ -19071,7 +19074,8 @@
       "zippers-slide-fastener",
       "pencils-borrowdale-discovery"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "Venice once forbade its own mirror-making artisans from ever leaving the city, on penalty of death."
   },
   {
     "id": "mirrors-telescope-front-coating",
@@ -19094,7 +19098,8 @@
       "salar-de-uyuni-largest-salt-flat",
       "keys-ancient-pin-tumbler"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "Almost no animal on Earth can actually recognize itself in a mirror."
   },
   {
     "id": "pencils-borrowdale-discovery",
@@ -19119,7 +19124,8 @@
     ],
     "themes": [
       "money-trade-and-value"
-    ]
+    ],
+    "socialHook": "England once guarded a single graphite mine with armed guards, treating pencil material like a national treasure."
   },
   {
     "id": "pencils-hardness-grades",
@@ -19144,7 +19150,8 @@
     ],
     "themes": [
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "One ordinary pencil holds enough graphite to draw a single unbroken line roughly 35 miles long."
   },
   {
     "id": "umbrellas-europe-return",
@@ -19169,7 +19176,8 @@
     ],
     "themes": [
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "One man was publicly mocked for about 30 years just for carrying an umbrella in the rain."
   },
   {
     "id": "zippers-slide-fastener",
@@ -19192,7 +19200,8 @@
       "paper-clips-first-patent",
       "buttons-shell-to-plastic"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "One single Japanese company manufactures roughly half of every zipper on Earth."
   },
   {
     "id": "toothbrushes-hog-bristles",
@@ -19218,7 +19227,8 @@
     "themes": [
       "human-body-quirks",
       "transformation-metamorphosis"
-    ]
+    ],
+    "socialHook": "Toothbrushes were made with actual hog hair bristles all the way up until 1938."
   },
   {
     "id": "shoelaces-ancient-shoes",
@@ -19243,7 +19253,8 @@
     ],
     "themes": [
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "Scientists actually studied why shoelaces come untied on their own — using high-speed cameras and a treadmill."
   },
   {
     "id": "shoelaces-areni-one",
@@ -19270,7 +19281,8 @@
     "themes": [
       "hidden-underground",
       "ancient-engineering"
-    ]
+    ],
+    "socialHook": "One laced leather shoe, found preserved in a cave, is older than both the Egyptian pyramids and Stonehenge."
   },
   {
     "id": "paper-clips-first-patent",
@@ -19296,7 +19308,8 @@
     "themes": [
       "internet-and-virality",
       "money-trade-and-value"
-    ]
+    ],
+    "socialHook": "One man started with a single red paperclip and, through a series of online trades, ended up owning an actual house."
   },
   {
     "id": "paper-clips-norway-symbol",
@@ -19324,7 +19337,8 @@
       "storytelling-and-narrative",
       "war-and-conflict",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "During WWII, wearing a simple paperclip became a quiet act of resistance against the Nazis in occupied Norway."
   },
   {
     "id": "keys-yale-modern-lock",
@@ -19347,7 +19361,8 @@
       "forks-single-point",
       "zippers-slide-fastener"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "One lock was advertised as completely 'unpickable' — until a locksmith finally cracked it open in 1851, in public."
   },
   {
     "id": "keys-ancient-pin-tumbler",
@@ -19374,7 +19389,8 @@
       "materials-and-chemistry",
       "ancient-engineering",
       "machines-and-mechanisms"
-    ]
+    ],
+    "socialHook": "The lock on your front door today runs on the exact same basic idea the ancient Egyptians used about 4,000 years ago."
   },
   {
     "id": "keys-serrated-flat-key",
@@ -19401,7 +19417,8 @@
       "accidental-discovery",
       "optical-illusion",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "Because keys are mass-produced from a limited set of patterns, your key could theoretically open a complete stranger's lock by pure chance."
   },
   {
     "id": "laundry-detergent-suspends-dirt",
@@ -19428,7 +19445,8 @@
       "materials-and-chemistry",
       "animal-intelligence",
       "bioluminescence-and-glow"
-    ]
+    ],
+    "socialHook": "Some laundry detergent doesn't actually make your clothes whiter — it makes them secretly glow under UV light to trick your eyes."
   },
   {
     "id": "refrigerators-vapor-cycle",
@@ -19454,7 +19472,8 @@
     "themes": [
       "invention-and-breakthrough",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Albert Einstein once co-invented a refrigerator with literally no moving parts."
   },
   {
     "id": "refrigerators-slow-spoilage",
@@ -19480,7 +19499,8 @@
     "themes": [
       "materials-and-chemistry",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The same chemist who made refrigerators safer than ever also invented the coolant that ended up tearing a hole in the ozone layer."
   },
   {
     "id": "soap-germ-membranes",
@@ -19506,7 +19526,8 @@
     "themes": [
       "materials-and-chemistry",
       "medicine-and-cures"
-    ]
+    ],
+    "socialHook": "Soap doesn't just wash germs away — it actually destroys many viruses by dissolving their outer coating, the same way it dissolves grease."
   },
   {
     "id": "air-conditioning-printing-plant",
@@ -19534,7 +19555,8 @@
       "accidental-discovery",
       "world-first",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "Air conditioning wasn't actually invented to keep people cool — it was invented to stop ink from smudging at a printing plant."
   },
   {
     "id": "air-conditioning-comfort-later",
@@ -19562,7 +19584,8 @@
       "energy-and-power",
       "collective-behavior",
       "transformation-metamorphosis"
-    ]
+    ],
+    "socialHook": "Movie theaters were among the first public places to get air conditioning — and it's part of why summer movie season exists at all."
   },
   {
     "id": "dishwasher-chipped-dishes",
@@ -19590,7 +19613,8 @@
       "flight-and-aviation",
       "animal-intelligence",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The first practical dishwasher was invented by a wealthy woman who was simply sick of her servants chipping her fine china."
   },
   {
     "id": "microwaves-magnetron-roots",
@@ -19616,7 +19640,8 @@
     "themes": [
       "money-trade-and-value",
       "world-first"
-    ]
+    ],
+    "socialHook": "The very first microwave oven stood about six feet tall, weighed roughly 750 pounds, and cost about $5,000."
   },
   {
     "id": "microwaves-accidental-cooking",
@@ -19642,7 +19667,8 @@
     "themes": [
       "food-and-cuisine",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "The microwave oven was invented after an engineer noticed a chocolate bar had completely melted in his pocket."
   },
   {
     "id": "smoke-detectors-1970s-change",
@@ -19669,7 +19695,8 @@
       "energy-and-power",
       "materials-and-chemistry",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Your smoke alarm probably contains a tiny speck of actual radioactive material."
   },
   {
     "id": "vacuum-cleaners-suck-not-blow",
@@ -19696,7 +19723,8 @@
       "invention-and-breakthrough",
       "money-trade-and-value",
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "The vacuum cleaner was invented by a janitor whose own asthma was made worse by the dust of his job."
   },
   {
     "id": "vacuum-cleaners-horse-drawn",
@@ -19722,7 +19750,8 @@
     "themes": [
       "energy-and-power",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The inventor of the vacuum cleaner tested his idea by literally sucking dust through a handkerchief with his own mouth."
   },
   {
     "id": "vacuum-cleaners-luxury-first",
@@ -19750,7 +19779,8 @@
       "storytelling-and-narrative",
       "architecture-and-structures",
       "coffee-and-tea"
-    ]
+    ],
+    "socialHook": "Early home vacuuming was such a novelty, wealthy society once threw actual parties just to watch it happen."
   },
   {
     "id": "nonstick-pans-accidental-teflon",
@@ -19776,7 +19806,8 @@
     "themes": [
       "materials-and-chemistry",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "The material that coats your nonstick pan was first used to help build the atomic bomb."
   },
   {
     "id": "nonstick-pans-pfas-concerns",
@@ -19803,7 +19834,8 @@
       "materials-and-chemistry",
       "human-body-quirks",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "The same chemical family used in nonstick pans is so stubborn it's now been found in rainwater almost everywhere on Earth."
   },
   {
     "id": "peace-symbol-nuclear-disarmament",
