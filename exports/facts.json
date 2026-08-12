@@ -23542,7 +23542,8 @@
     "themes": [
       "record-extremes",
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "Weigh every ant on Earth right now, and they'd outweigh every wild bird and mammal combined."
   },
   {
     "id": "ants-queen-role",
@@ -23571,7 +23572,8 @@
       "food-and-cuisine",
       "hidden-underground",
       "collective-behavior"
-    ]
+    ],
+    "socialHook": "One kind of ant has been farming for 50 million years — tens of millions of years before humans invented agriculture."
   },
   {
     "id": "ants-chemical-communication",
@@ -23599,7 +23601,8 @@
       "collective-behavior",
       "symbiosis-and-cooperation",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "When floods hit, some ants link their own bodies together into a living raft that can float for weeks."
   },
   {
     "id": "bees-pollination",
@@ -23627,7 +23630,8 @@
       "flight-and-aviation",
       "codes-and-cryptography",
       "exploration-and-navigation"
-    ]
+    ],
+    "socialHook": "A bee can tell her whole hive exactly where food is, down to the direction and distance — just by dancing."
   },
   {
     "id": "bees-honey-from-nectar",
@@ -23655,7 +23659,8 @@
       "counterintuitive-scale",
       "food-and-cuisine",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "A brain smaller than a grain of rice can recognize your face — and even understand the concept of zero."
   },
   {
     "id": "butterflies-complete-metamorphosis",
@@ -23683,7 +23688,8 @@
       "flight-and-aviation",
       "disaster-and-catastrophe",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Inside its cocoon, a caterpillar completely dissolves into liquid — and somehow still remembers things after it rebuilds itself."
   },
   {
     "id": "butterflies-conservation-decline",
@@ -23711,7 +23717,8 @@
       "exploration-and-navigation",
       "plants-and-botany",
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "No single monarch butterfly ever completes its own famous migration — it takes three or four generations to finish the trip."
   },
   {
     "id": "cicadas-loud-songs",
@@ -23740,7 +23747,8 @@
       "flight-and-aviation",
       "collective-behavior",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "When cicadas swarm by the millions, their combined song can get as loud as a lawnmower."
   },
   {
     "id": "cicadas-underground-years",
@@ -23766,7 +23774,8 @@
     "themes": [
       "hidden-underground",
       "plants-and-botany"
-    ]
+    ],
+    "socialHook": "Some cicadas spend up to 17 years hidden underground — just to live a few weeks once they finally surface."
   },
   {
     "id": "cicadas-shed-skins",
@@ -23794,7 +23803,8 @@
       "plants-and-botany",
       "medicine-and-cures",
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "A fungus can hollow out a cicada, drug it, and keep it flying around to spread more of itself."
   },
   {
     "id": "dragonflies-nearly-360-vision",
@@ -23820,7 +23830,8 @@
     "themes": [
       "numbers-and-mathematics",
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "By raw hunting success, dragonflies outperform lions and sharks by a landslide."
   },
   {
     "id": "dragonflies-aquatic-nymphs",
@@ -23847,7 +23858,8 @@
       "record-extremes",
       "exploration-and-navigation",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "One insect small enough to hold in your hand migrates up to 11,000 miles across open ocean."
   },
   {
     "id": "dragonflies-flight-hunters",
@@ -23875,7 +23887,8 @@
       "human-body-quirks",
       "flight-and-aviation",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "300 million years ago, dragonfly relatives grew wingspans over two feet across."
   },
   {
     "id": "fireflies-bioluminescence",
@@ -23903,7 +23916,8 @@
       "plants-and-botany",
       "collective-behavior",
       "bioluminescence-and-glow"
-    ]
+    ],
+    "socialHook": "In a few rare spots on Earth, thousands of fireflies flash on and off in perfect unison, all at once."
   },
   {
     "id": "fireflies-mating-flashes",
@@ -23930,7 +23944,8 @@
       "camouflage-and-mimicry",
       "materials-and-chemistry",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Some female fireflies fake another species' mating signal — then eat the male who falls for it."
   },
   {
     "id": "praying-mantis-keen-vision",
@@ -23956,7 +23971,8 @@
     "themes": [
       "perception-and-brain",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "Scientists built tiny 3D glasses just to prove one insect sees the world in true depth."
   },
   {
     "id": "praying-mantis-camouflage",
@@ -23984,7 +24000,8 @@
       "flight-and-aviation",
       "self-organizing-patterns",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "One insect has just a single ear — and it exists for one purpose: hearing bats coming before it's too late."
   },
   {
     "id": "termites-social-castes",
@@ -24010,7 +24027,8 @@
     "themes": [
       "symbiosis-and-cooperation",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "The termites in your walls aren't ants at all — genetically, they're actually cockroaches."
   },
   {
     "id": "mosquitoes-females-bite",
@@ -24039,7 +24057,8 @@
       "food-and-cuisine",
       "parental-care",
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "The blood a mosquito drinks from you isn't even her food — both sexes actually live on flower nectar."
   },
   {
     "id": "beetles-most-diverse",
@@ -24064,7 +24083,8 @@
     ],
     "themes": [
       "animal-intelligence"
-    ]
+    ],
+    "socialHook": "About one in every four named animal species on Earth is a beetle."
   },
   {
     "id": "beetles-eat-everything",
@@ -24092,7 +24112,8 @@
       "stars-and-cosmos",
       "bioluminescence-and-glow",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "One insect navigates in a straight line by steering off the glow of the entire Milky Way."
   },
   {
     "id": "beetles-help-and-harm",
@@ -24119,7 +24140,8 @@
       "materials-and-chemistry",
       "flight-and-aviation",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "One beetle defends itself by literally firing a boiling-hot chemical spray in rapid bursts."
   },
   {
     "id": "dead-sea-lowest-water",
