@@ -20144,7 +20144,8 @@
       "human-body-quirks",
       "survival-adaptation",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "A hibernating bear can go four or five months without ever getting up to use the bathroom."
   },
   {
     "id": "hibernation-not-all-dormancy",
@@ -20173,7 +20174,8 @@
       "human-body-quirks",
       "survival-adaptation",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "One frog survives winter by letting itself freeze almost completely solid — then thawing back to life in spring."
   },
   {
     "id": "hibernation-bears-misleading",
@@ -20201,7 +20203,8 @@
       "extreme-temperature",
       "human-body-quirks",
       "survival-adaptation"
-    ]
+    ],
+    "socialHook": "One mammal can chill its own blood below the freezing point of water and still keep it liquid."
   },
   {
     "id": "lucid-dreaming-aware",
@@ -20224,7 +20227,8 @@
       "batteries-primary-vs-storage",
       "rem-sleep-night-cycles"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "Sleepers have actually signaled out from inside their own dreams, on cue, using nothing but their eyes."
   },
   {
     "id": "lucid-dreaming-rem",
@@ -20250,7 +20254,8 @@
     "themes": [
       "storytelling-and-narrative",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "In 2021, scientists had a real, two-way conversation with someone who was actively dreaming."
   },
   {
     "id": "lucid-dreaming-common",
@@ -20278,7 +20283,8 @@
       "perception-and-brain",
       "relativity-and-time-warp",
       "timekeeping"
-    ]
+    ],
+    "socialHook": "A dream that feels like it lasts forever might actually be running almost exactly in real time."
   },
   {
     "id": "nightmares-common-adults",
@@ -20305,7 +20311,8 @@
     "themes": [
       "origins-and-naming",
       "myth-vs-reality"
-    ]
+    ],
+    "socialHook": "The word 'nightmare' has nothing to do with horses at all."
   },
   {
     "id": "nightmares-rem-second-half",
@@ -20328,7 +20335,8 @@
       "sleep-half-brain-awake",
       "snoring-airway-vibration"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "A child screaming and thrashing in terror during the night isn't actually having a nightmare — and won't remember any of it."
   },
   {
     "id": "sleepwalking-childhood-common",
@@ -20355,7 +20363,8 @@
     "themes": [
       "psychology-and-behavior",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Real sleepwalkers don't shuffle around with their eyes closed like in cartoons — their eyes are wide open."
   },
   {
     "id": "snoring-airway-vibration",
@@ -20384,7 +20393,8 @@
       "energy-and-power",
       "music-and-sound",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "The loudest snores ever recorded are about as loud as a low-flying jet."
   },
   {
     "id": "snoring-common-risk",
@@ -20412,7 +20422,8 @@
       "music-and-sound",
       "human-body-quirks",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "One clinical study found that practicing a musical instrument can actually reduce snoring and sleep apnea."
   },
   {
     "id": "rem-sleep-night-cycles",
@@ -20440,7 +20451,8 @@
       "energy-and-power",
       "human-body-quirks",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "During REM sleep, your brain is almost as active as if you were wide awake — while your body goes nearly paralyzed."
   },
   {
     "id": "rem-sleep-muscle-atonia",
@@ -20466,7 +20478,8 @@
     "themes": [
       "human-body-quirks",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "There's a nightly safety lock that keeps you from acting out your dreams — and sometimes, in some people, it fails."
   },
   {
     "id": "insomnia-sleep-opportunity",
@@ -20491,7 +20504,8 @@
     ],
     "themes": [
       "medicine-and-cures"
-    ]
+    ],
+    "socialHook": "There's a rare, inherited form of insomnia that doesn't just wear you down. It's fatal."
   },
   {
     "id": "insomnia-short-chronic",
@@ -20516,7 +20530,8 @@
     ],
     "themes": [
       "games-and-play"
-    ]
+    ],
+    "socialHook": "One teenager once stayed awake for 11 straight days for a science fair project."
   },
   {
     "id": "insomnia-daytime-effects",
@@ -20541,7 +20556,8 @@
     ],
     "themes": [
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "A tiny number of people have a rare gene that lets them feel completely fine on just 4 to 6 hours of sleep."
   },
   {
     "id": "circadian-rhythm-24-hour",
@@ -20569,7 +20585,8 @@
       "hidden-underground",
       "exploration-and-navigation",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "One man sealed himself in a dark cave for months just to see what would happen to his sense of time."
   },
   {
     "id": "circadian-rhythm-melatonin",
@@ -20597,7 +20614,8 @@
       "human-body-quirks",
       "timekeeping",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "Your eyes have cells whose only job is telling your brain what time it is — and your phone screen is quietly fooling them."
   },
   {
     "id": "naps-twenty-minutes",
@@ -20623,7 +20641,8 @@
     "themes": [
       "materials-and-chemistry",
       "animal-intelligence"
-    ]
+    ],
+    "socialHook": "Dali and Edison used the exact same trick to nap — falling asleep while holding a key over a metal plate."
   },
   {
     "id": "naps-performance-boost",
@@ -20651,7 +20670,8 @@
       "disaster-and-catastrophe",
       "deep-sea-and-abyss",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "Your 3 p.m. energy crash isn't caused by lunch at all — it's programmed straight into your body clock."
   },
   {
     "id": "sleep-paralysis-hallucinations",
@@ -20677,7 +20697,8 @@
     ],
     "themes": [
       "myth-vs-reality"
-    ]
+    ],
+    "socialHook": "People from wildly different cultures around the world all describe the exact same terrifying figure during sleep paralysis."
   },
   {
     "id": "depth-perception-motion-parallax",
