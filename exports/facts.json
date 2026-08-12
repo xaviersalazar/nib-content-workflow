@@ -1664,7 +1664,8 @@
       "stars-and-cosmos",
       "ancient-engineering",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid."
   },
   {
     "id": "ancient-egypt-cats",
@@ -1687,7 +1688,8 @@
     ],
     "themes": [
       "accidental-discovery"
-    ]
+    ],
+    "socialHook": "In ancient Egypt, harming a cat — even by accident — could get you sentenced to death."
   },
   {
     "id": "sumerians-cuneiform",
@@ -1715,7 +1717,8 @@
       "world-first",
       "invention-and-breakthrough",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "The very first writing system in human history wasn't invented to tell stories at all — it was invented to track inventory."
   },
   {
     "id": "babylonians-hanging-gardens",
@@ -1738,7 +1741,8 @@
     ],
     "themes": [
       "deception-and-hoax"
-    ]
+    ],
+    "socialHook": "One of the Seven Wonders of the Ancient World has never once had a single trace of ruins found."
   },
   {
     "id": "indus-undeciphered-script",
@@ -1766,7 +1770,8 @@
     "themes": [
       "language-and-writing",
       "games-and-play"
-    ]
+    ],
+    "socialHook": "One ancient writing system has been studied for over a century — and nobody has ever managed to read a word of it."
   },
   {
     "id": "carthage-rome-burned-city",
@@ -1792,7 +1797,8 @@
     ],
     "themes": [
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "One Roman senator ended literally every speech he ever gave with the exact same demand — and eventually got his way."
   },
   {
     "id": "ancient-rome-small-town-empire",
@@ -1818,7 +1824,8 @@
       "collective-behavior",
       "war-and-conflict",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "The Romans could flood their most famous arena with water and stage full naval battles with real ships."
   },
   {
     "id": "octopus-color-blind",
