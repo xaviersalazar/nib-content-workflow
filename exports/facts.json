@@ -17761,7 +17761,8 @@
     ],
     "themes": [
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "Decades after the disaster, the most surprising thing about the Chernobyl exclusion zone is how much wildlife has actually reclaimed it."
   },
   {
     "id": "chernobyl-pripyat-evacuation",
@@ -17786,7 +17787,8 @@
     ],
     "themes": [
       "machines-and-mechanisms"
-    ]
+    ],
+    "socialHook": "One city's brand-new Ferris wheel was just days from its grand opening — then the entire city was evacuated and never came back."
   },
   {
     "id": "chernobyl-sweden-detected-radiation",
@@ -17814,7 +17816,8 @@
       "plants-and-botany",
       "disaster-and-catastrophe",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "The Soviet Union tried to keep Chernobyl secret. It got exposed because of radiation found on workers' shoes over 1,000 kilometers away."
   },
   {
     "id": "fukushima-hydrogen-explosions",
@@ -17842,7 +17845,8 @@
       "energy-and-power",
       "plants-and-botany",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "One nuclear plant sat even closer to the 2011 earthquake than Fukushima and came through completely unscathed — because one engineer insisted on building it higher decades earlier, against pressure."
   },
   {
     "id": "fukushima-mass-evacuation",
@@ -17868,7 +17872,8 @@
     ],
     "themes": [
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "After Fukushima melted down, hundreds of retirees volunteered for the most dangerous cleanup work — reasoning the cancer risk wouldn't catch up to them in time."
   },
   {
     "id": "great-chicago-fire-oleary-barn",
@@ -17896,7 +17901,8 @@
       "color-and-light",
       "survival-adaptation",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The story that a cow started the Great Chicago Fire was completely made up by a reporter — and it took the city 126 years to officially clear her name."
   },
   {
     "id": "great-chicago-fire-scale",
@@ -17919,7 +17925,8 @@
       "great-fire-london-old-foundations",
       "krakatoa-tsunami-deaths"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "America's deadliest wildfire happened on the exact same night as the Great Chicago Fire — and almost nobody remembers it."
   },
   {
     "id": "krakatoa-loudest-sound",
@@ -17945,7 +17952,8 @@
     ],
     "themes": [
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "Decades after Krakatoa destroyed itself, a new volcano rose from the exact same spot — and it's still killing people today."
   },
   {
     "id": "krakatoa-tsunami-deaths",
@@ -17973,7 +17981,8 @@
       "extreme-temperature",
       "energy-and-power",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "Krakatoa's tsunami was powerful enough to carry an entire warship nearly a mile inland."
   },
   {
     "id": "krakatoa-global-sunsets",
@@ -18001,7 +18010,8 @@
       "human-body-quirks",
       "color-and-light",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "One of the most famous paintings in history may actually be a real weather report from a volcano on the other side of the world."
   },
   {
     "id": "pompeii-preserved-city",
@@ -18028,7 +18038,8 @@
     "themes": [
       "hidden-underground",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "The plaster casts from Pompeii capture people's exact final moments — down to a dog still straining at its chain."
   },
   {
     "id": "pompeii-excavation-source",
@@ -18056,7 +18067,8 @@
       "hidden-underground",
       "money-trade-and-value",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "The walls of Pompeii are covered in thousands of pieces of ordinary graffiti — insults, love notes, and 'I was here' scribbles."
   },
   {
     "id": "great-fire-london-pudding-lane",
@@ -18082,7 +18094,8 @@
     "themes": [
       "accidental-discovery",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "One man confessed to starting the Great Fire of London — his ship hadn't even reached the city yet when it started."
   },
   {
     "id": "great-fire-london-four-fifths",
@@ -18109,7 +18122,8 @@
     "themes": [
       "disaster-and-catastrophe",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "The Great Fire of London destroyed roughly 13,000 houses — and the official death toll was only about six people."
   },
   {
     "id": "great-fire-london-old-foundations",
@@ -18137,7 +18151,8 @@
       "energy-and-power",
       "medicine-and-cures",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "Desperate Londoners actually blew up their own houses with gunpowder to stop the Great Fire from spreading."
   },
   {
     "id": "challenger-crew-report-uncertainty",
@@ -18163,7 +18178,8 @@
     "themes": [
       "disaster-and-catastrophe",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "One space shuttle launch was broadcast into classrooms across the entire country — because it was carrying a schoolteacher."
   },
   {
     "id": "challenger-breakup-forces",
@@ -18189,7 +18205,8 @@
     "themes": [
       "extreme-temperature",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "One physicist explained an entire space shuttle disaster on live television using nothing but a glass of ice water."
   },
   {
     "id": "great-molasses-flood-tank",
@@ -18217,7 +18234,8 @@
       "gravity-and-orbits",
       "disaster-and-catastrophe",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "One burst tank once sent a wave of molasses racing through city streets at about 35 miles per hour — faster than anyone could run."
   },
   {
     "id": "great-molasses-flood-winter-day",
@@ -18243,7 +18261,8 @@
     "themes": [
       "camouflage-and-mimicry",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One company blamed terrorists for a deadly disaster. A court case proved it was actually their own leaky, poorly built tank."
   },
   {
     "id": "hindenburg-thirty-four-seconds",
@@ -18269,7 +18288,8 @@
     "themes": [
       "energy-and-power",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "The hydrogen-filled Hindenburg, one giant floating fireball waiting to happen, actually had a smoking room on board."
   },
   {
     "id": "hindenburg-ended-airship-travel",
@@ -18295,7 +18315,8 @@
     ],
     "themes": [
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "Most people aboard the Hindenburg when it caught fire actually survived."
   },
   {
     "id": "hindenburg-mail-burned",
@@ -18321,7 +18342,8 @@
     "themes": [
       "disaster-and-catastrophe",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "The Hindenburg burned because of a single political decision — the US refused to sell Nazi Germany the safer gas it needed."
   },
   {
     "id": "pearl-divers-broome-world-capital",
@@ -26799,7 +26821,8 @@
     ],
     "themes": [
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "One remote island got hit by three catastrophic storms in just three years — a weather pattern that had never once been recorded there before."
   },
   {
     "id": "pompeii-earthquake-before-eruption",
@@ -26828,7 +26851,8 @@
       "disaster-and-catastrophe",
       "hidden-underground",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "Pompeii was still rebuilding from a massive earthquake, 17 years later, when the volcano finally buried it for good."
   },
   {
     "id": "apollo13-mattingly-measles-swap",
