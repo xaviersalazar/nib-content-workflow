@@ -889,7 +889,8 @@
       "relativity-and-time-warp",
       "stars-and-cosmos",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "Hover near a black hole's edge, and you'd watch the entire future of the universe play out in front of you."
   },
   {
     "id": "black-holes-spaghettification",
@@ -918,7 +919,8 @@
     "themes": [
       "gravity-and-orbits",
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "There's a real scientific term for what happens if you fall into a black hole, and it involves pasta."
   },
   {
     "id": "stars-live-trillions-years",
@@ -946,7 +948,8 @@
     "themes": [
       "stars-and-cosmos",
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "Some stars are built to burn for trillions of years — and the universe isn't even old enough for a single one to have died yet."
   },
   {
     "id": "nebulae-eyeball",
@@ -976,7 +979,8 @@
       "camouflage-and-mimicry",
       "flight-and-aviation",
       "bioluminescence-and-glow"
-    ]
+    ],
+    "socialHook": "Those thick, glowing space clouds in telescope photos? They're emptier than the best vacuum ever built on Earth."
   },
   {
     "id": "supernovae-outshine-galaxies",
@@ -1005,7 +1009,8 @@
       "stars-and-cosmos",
       "energy-and-power",
       "collective-behavior"
-    ]
+    ],
+    "socialHook": "For a few weeks, one dying star can outshine every other star in its galaxy combined."
   },
   {
     "id": "supernovae-create-elements",
@@ -1032,7 +1037,8 @@
     "themes": [
       "stars-and-cosmos",
       "materials-and-chemistry"
-    ]
+    ],
+    "socialHook": "The gold in your jewelry isn't from Earth — every atom of it was forged inside a dying star."
   },
   {
     "id": "milky-way-no-photo",
@@ -1058,7 +1064,8 @@
     ],
     "themes": [
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "Nobody has ever actually seen a photo of our own galaxy from the outside. Not one."
   },
   {
     "id": "milky-way-andromeda-collision",
@@ -1087,7 +1094,8 @@
       "gravity-and-orbits",
       "disaster-and-catastrophe",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "Two entire galaxies are on a collision course — and when they finally crash, almost nothing will actually hit."
   },
   {
     "id": "webb-spf-million",
@@ -1115,7 +1123,8 @@
       "stars-and-cosmos",
       "bioluminescence-and-glow",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "One space telescope's sunshield blocks heat like sunscreen with an SPF of one million."
   },
   {
     "id": "quasars-angle-changes-view",
@@ -1144,7 +1153,8 @@
       "stars-and-cosmos",
       "human-body-quirks",
       "bioluminescence-and-glow"
-    ]
+    ],
+    "socialHook": "A single feeding black hole can outshine every star in its galaxy combined — hundreds of billions of them."
   },
   {
     "id": "pulsars-sugar-cube-mountain",
@@ -1173,7 +1183,8 @@
     "themes": [
       "stars-and-cosmos",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "A single sugar cube of this material would weigh about as much as a mountain."
   },
   {
     "id": "pulsars-magnetar-burst-sunlight",
@@ -1202,7 +1213,8 @@
     "themes": [
       "stars-and-cosmos",
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "One burst from a dead star, lasting a tenth of a second, released more energy than the Sun made in the previous 100,000 years."
   },
   {
     "id": "white-dwarfs-sun-earth-size",
@@ -1231,7 +1243,8 @@
     "themes": [
       "stars-and-cosmos",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "One dead star packs as much mass as our entire Sun into something barely bigger than Earth."
   },
   {
     "id": "red-giants-sun-future",
@@ -1259,7 +1272,8 @@
     "themes": [
       "stars-and-cosmos",
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "In about 5 billion years, the same star that keeps us alive will swallow the planets closest to it."
   },
   {
     "id": "cosmic-microwave-background-atoms-five-percent",
@@ -1289,7 +1303,8 @@
       "materials-and-chemistry",
       "energy-and-power",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "Everything you've ever seen or touched — every person, every planet, every star — adds up to only about 5% of what actually exists."
   },
   {
     "id": "american-revolution-paul-revere",
