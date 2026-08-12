@@ -18138,7 +18138,8 @@
     ],
     "themes": [
       "deep-sea-and-abyss"
-    ]
+    ],
+    "socialHook": "One pearling town's cemetery holds the graves of around 900 divers who died chasing shells."
   },
   {
     "id": "snake-milkers-venom-collection",
@@ -18164,7 +18165,8 @@
     "themes": [
       "human-body-quirks",
       "medicine-and-cures"
-    ]
+    ],
+    "socialHook": "Antivenom isn't made from snakes at all — it's basically purified horse blood."
   },
   {
     "id": "snake-milkers-face-shields",
@@ -18190,7 +18192,8 @@
     "themes": [
       "money-trade-and-value",
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "Snake venom can sell for thousands of dollars a gram — worth more than gold."
   },
   {
     "id": "snake-milkers-research-venom",
@@ -18216,7 +18219,8 @@
     "themes": [
       "medicine-and-cures",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "One man deliberately injected himself with snake venom for six decades, survived over 170 bites, and lived to 100."
   },
   {
     "id": "foley-artists-live-sounds",
@@ -18244,7 +18248,8 @@
       "deception-and-hoax",
       "lost-and-rediscovered",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "Almost none of the sounds in a movie were actually captured while filming — they're faked afterward."
   },
   {
     "id": "foley-artists-junk-stages",
@@ -18272,7 +18277,8 @@
       "deception-and-hoax",
       "human-body-quirks",
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "The sound of a bone breaking in a movie is usually just someone snapping a stalk of celery."
   },
   {
     "id": "odor-judges-trained-panel",
@@ -18297,7 +18303,8 @@
     ],
     "themes": [
       "perception-and-brain"
-    ]
+    ],
+    "socialHook": "There's a real job where companies pay you to sniff thousands of armpits a year."
   },
   {
     "id": "odor-judges-symptom-timing",
@@ -18320,7 +18327,8 @@
       "falconers-master-apprentice",
       "foley-artists-junk-stages"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "NASA employs someone whose entire job is to smell-test every object before it's allowed onto a spacecraft."
   },
   {
     "id": "professional-sleepers-head-down",
@@ -18348,7 +18356,8 @@
       "camouflage-and-mimicry",
       "gravity-and-orbits",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "NASA will actually pay you thousands of dollars to lie in bed, tilted head-down, for up to 70 days straight."
   },
   {
     "id": "food-tasters-five-senses",
@@ -18375,7 +18384,8 @@
       "food-and-cuisine",
       "record-extremes",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "The original food taster's entire job was to risk being poisoned in someone else's place."
   },
   {
     "id": "food-tasters-ice-cream-texture",
@@ -18401,7 +18411,8 @@
     "themes": [
       "food-and-cuisine",
       "materials-and-chemistry"
-    ]
+    ],
+    "socialHook": "Professional ice cream tasters use gold spoons — and one reportedly insured his own taste buds for about a million dollars."
   },
   {
     "id": "lighthouse-keepers-aids-navigation",
@@ -18427,7 +18438,8 @@
     "themes": [
       "lost-and-rediscovered",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "In 1900, three lighthouse keepers on a remote Scottish island vanished without a trace — and nobody has ever explained it."
   },
   {
     "id": "tea-tasters-every-lot",
@@ -18453,7 +18465,8 @@
     "themes": [
       "coffee-and-tea",
       "survival-adaptation"
-    ]
+    ],
+    "socialHook": "The US government employed official tea tasters for 99 straight years."
   },
   {
     "id": "falconers-master-apprentice",
@@ -18481,7 +18494,8 @@
       "collective-behavior",
       "disaster-and-catastrophe",
       "symbiosis-and-cooperation"
-    ]
+    ],
+    "socialHook": "Some airports use trained hawks to keep flocks of birds from getting sucked into jet engines."
   },
   {
     "id": "buttons-shell-to-plastic",
