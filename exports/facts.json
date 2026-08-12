@@ -14151,7 +14151,8 @@
     ],
     "themes": [
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "One patch of warm ocean water can flood one country and cause a drought on the opposite side of the planet, at the same time."
   },
   {
     "id": "monsoons-winter-can-be-dry",
@@ -14178,7 +14179,8 @@
       "record-extremes",
       "stars-and-cosmos",
       "money-trade-and-value"
-    ]
+    ],
+    "socialHook": "One town on Earth gets so much monsoon rain a year, it's measured in dozens of feet, not inches."
   },
   {
     "id": "hail-different-from-sleet",
@@ -14203,7 +14205,8 @@
     ],
     "themes": [
       "extreme-temperature"
-    ]
+    ],
+    "socialHook": "The ice that dents your car doesn't fall in winter — it forms inside hot summer thunderstorms."
   },
   {
     "id": "hail-minimum-size",
@@ -14230,7 +14233,8 @@
       "record-extremes",
       "plants-and-botany",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "The largest hailstone ever recorded in the US was bigger than a softball and weighed almost a kilogram."
   },
   {
     "id": "fog-many-types",
@@ -14253,7 +14257,8 @@
       "thunder-lightning-sound",
       "atmosphere-layered"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "Some villages pull thousands of liters of drinking water straight out of thin fog, using nothing but mesh nets."
   },
   {
     "id": "fog-radiation-cooling",
@@ -14276,7 +14281,8 @@
       "atmosphere-layered",
       "hurricanes-storm-surge"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "One fog that settled over a city for days is now blamed for around 12,000 deaths."
   },
   {
     "id": "rainbows-viewer-position",
@@ -14303,7 +14309,8 @@
     ],
     "themes": [
       "color-and-light"
-    ]
+    ],
+    "socialHook": "The person standing right next to you is looking at a completely different rainbow than you are."
   },
   {
     "id": "rainbows-full-circle",
@@ -14329,7 +14336,8 @@
     "themes": [
       "flight-and-aviation",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "A rainbow is actually a complete circle — you just can't see the bottom half from the ground."
   },
   {
     "id": "aurora-charged-particles",
@@ -14356,7 +14364,8 @@
       "energy-and-power",
       "stars-and-cosmos",
       "bioluminescence-and-glow"
-    ]
+    ],
+    "socialHook": "One solar storm in 1859 was so powerful it made telegraph wires spark and lit up auroras near the equator."
   },
   {
     "id": "aurora-other-planets",
@@ -14385,7 +14394,8 @@
       "human-body-quirks",
       "color-and-light",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "One rare kind of aurora glows blood red — and people once mistook it for the sky itself being on fire."
   },
   {
     "id": "seasons-earth-tilt",
@@ -14410,7 +14420,8 @@
     ],
     "themes": [
       "gravity-and-orbits"
-    ]
+    ],
+    "socialHook": "Earth is actually closest to the Sun in the dead of Northern Hemisphere winter."
   },
   {
     "id": "seasons-sunlight-angle",
@@ -14433,7 +14444,8 @@
       "monsoons-winter-can-be-dry",
       "el-nino-global-weather"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "Near the poles, the sun doesn't fully set for weeks or months at a time."
   },
   {
     "id": "climate-long-term-pattern",
@@ -14460,7 +14472,8 @@
       "money-trade-and-value",
       "games-and-play",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "One European river once froze so solid that people led an elephant across it."
   },
   {
     "id": "climate-humidity-precipitation",
@@ -14487,7 +14500,8 @@
       "stars-and-cosmos",
       "plants-and-botany",
       "collective-behavior"
-    ]
+    ],
+    "socialHook": "Earth's climate has swung from a nearly frozen 'Snowball' planet to an Arctic warm enough for crocodiles."
   },
   {
     "id": "thunder-lightning-sound",
@@ -14513,7 +14527,8 @@
     "themes": [
       "extreme-temperature",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "Thunder isn't the sound of lightning itself — it's the sound of air being violently blown apart."
   },
   {
     "id": "snow-deposition",
@@ -14541,7 +14556,8 @@
       "materials-and-chemistry",
       "self-organizing-patterns",
       "myth-vs-reality"
-    ]
+    ],
+    "socialHook": "Snow isn't actually white — the ice inside it is completely clear."
   },
   {
     "id": "snowflakes-aggregates",
@@ -14567,7 +14583,8 @@
     "themes": [
       "record-extremes",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "It can actually be too cold to snow — and in some places, snow can turn pink."
   },
   {
     "id": "clouds-cumulonimbus-storms",
@@ -14593,7 +14610,8 @@
     "themes": [
       "architecture-and-structures",
       "record-extremes"
-    ]
+    ],
+    "socialHook": "Some storm clouds grow taller than Mount Everest."
   },
   {
     "id": "atmosphere-layered",
@@ -14620,7 +14638,8 @@
     "themes": [
       "extreme-temperature",
       "materials-and-chemistry"
-    ]
+    ],
+    "socialHook": "One layer of Earth's atmosphere can hit 2,000 degrees — and would still feel freezing cold to you."
   },
   {
     "id": "lightning-heats-air",
@@ -14645,7 +14664,8 @@
     ],
     "themes": [
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "Lightning is hot enough to fuse sand into glass — and one man survived being struck by it seven separate times."
   },
   {
     "id": "lightning-rods-protection",
@@ -14671,7 +14691,8 @@
     "themes": [
       "energy-and-power",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "The old saying is backwards — lightning actually loves striking the exact same spot, over and over."
   },
   {
     "id": "hurricanes-tropical-cyclones",
@@ -14700,7 +14721,8 @@
       "gravity-and-orbits",
       "stars-and-cosmos",
       "plants-and-botany"
-    ]
+    ],
+    "socialHook": "A single hurricane releases more energy in one day than every power plant on Earth combined."
   },
   {
     "id": "hurricanes-eye-eyewall-rainbands",
@@ -14723,7 +14745,8 @@
       "el-nino-global-weather",
       "snow-deposition"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "Right at the center of one of the most violent storms on Earth is a pocket of calm, blue sky."
   },
   {
     "id": "hurricanes-storm-surge",
@@ -14749,7 +14772,8 @@
     "themes": [
       "disaster-and-catastrophe",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "The deadliest disaster in US history wasn't caused by a hurricane's wind — it was the water."
   },
   {
     "id": "tornadoes-mesocyclone",
@@ -14776,7 +14800,8 @@
       "gravity-and-orbits",
       "myth-vs-reality",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "Storms have actually rained live fish and frogs down on towns, miles from any water."
   },
   {
     "id": "tornadoes-ef-scale",
@@ -14803,7 +14828,8 @@
       "record-extremes",
       "music-and-sound",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "The strongest tornadoes on Earth can drive a single piece of straw straight into solid wood."
   },
   {
     "id": "post-it-notes-weak-adhesive",
