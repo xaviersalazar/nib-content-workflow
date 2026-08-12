@@ -10465,7 +10465,8 @@
       "storytelling-and-narrative",
       "music-and-sound",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "A brain injury can leave someone speaking their own native language in what sounds exactly like a foreign accent."
   },
   {
     "id": "emojis-unicode-shared-code",
@@ -10490,7 +10491,8 @@
     ],
     "themes": [
       "internet-and-virality"
-    ]
+    ],
+    "socialHook": "Phone makers quietly swapped the realistic gun emoji for a green water pistol — and now the 'same' symbol means something totally different depending on your phone."
   },
   {
     "id": "emojis-replace-body-language",
@@ -10515,7 +10517,8 @@
     ],
     "themes": [
       "internet-and-virality"
-    ]
+    ],
+    "socialHook": "A single thumbs-up emoji was ruled a legally valid signature in a real court case — and it cost the sender tens of thousands of dollars."
   },
   {
     "id": "hieroglyphics-always-phonetic",
@@ -10542,7 +10545,8 @@
       "language-and-writing",
       "lost-and-rediscovered",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "One entire ancient writing system was completely unreadable for over 1,400 years, until a single stone cracked the code."
   },
   {
     "id": "morse-code-not-a-language",
@@ -10570,7 +10574,8 @@
       "deception-and-hoax",
       "flight-and-aviation",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "One captured prisoner secretly sent a warning message during a televised interview — by blinking it in Morse code."
   },
   {
     "id": "morse-code-sos-pattern",
@@ -10597,7 +10602,8 @@
       "codes-and-cryptography",
       "invention-and-breakthrough",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "The distress signal SOS doesn't actually stand for anything at all."
   },
   {
     "id": "palindromes-ancient-wordplay",
@@ -10625,7 +10631,8 @@
       "survival-adaptation",
       "luck-ritual-superstition",
       "games-and-play"
-    ]
+    ],
+    "socialHook": "There's a nearly 2,000-year-old word puzzle carved into ancient walls that reads the same in four different directions — and nobody's ever fully figured out what it means."
   },
   {
     "id": "sign-language-complete-language",
@@ -10651,7 +10658,8 @@
     "themes": [
       "language-and-writing",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "Deaf babies exposed to sign language actually 'babble' with rhythmic hand movements, at the exact same age hearing babies babble out loud."
   },
   {
     "id": "sign-language-face-is-grammar",
@@ -10674,7 +10682,8 @@
       "emojis-unicode-shared-code",
       "morse-code-sos-pattern"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "One island had so many deaf residents that for 200 years, nearly everyone there, deaf or hearing, communicated in sign language."
   },
   {
     "id": "tongue-twisters-sound-collisions",
@@ -10697,7 +10706,8 @@
       "writing-systems-sound-or-meaning",
       "dictionaries-began-bilingual"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "Researchers found a tongue twister so difficult, some people just froze mid-sentence and completely stopped talking."
   },
   {
     "id": "tongue-twisters-practice-tools",
@@ -10724,7 +10734,8 @@
       "storytelling-and-narrative",
       "music-and-sound",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "In WWII, one especially hard-to-pronounce word was reportedly used as a real password to expose enemy spies."
   },
   {
     "id": "writing-systems-sound-or-meaning",
@@ -10751,7 +10762,8 @@
       "language-and-writing",
       "invention-and-breakthrough",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "One man, who couldn't read any language at all, single-handedly invented an entire working writing system by himself."
   },
   {
     "id": "alphabet-name-alpha-beta",
@@ -10779,7 +10791,8 @@
       "origins-and-naming",
       "language-and-writing",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "Flip the letter A upside down, and you can still see what it originally was — a drawing of an ox's head."
   },
   {
     "id": "dictionaries-began-bilingual",
@@ -10806,7 +10819,8 @@
       "human-body-quirks",
       "collective-behavior",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "One of the biggest contributors to a famous dictionary mailed in thousands of entries from inside an asylum — and the editors had no idea for years."
   },
   {
     "id": "dictionaries-not-always-alphabetical",
@@ -10833,7 +10847,8 @@
       "storytelling-and-narrative",
       "plants-and-botany",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "Some dictionaries deliberately plant a completely fake word inside their own pages, just to catch anyone who copies them."
   },
   {
     "id": "translation-more-than-word-swapping",
@@ -10861,7 +10876,8 @@
       "energy-and-power",
       "language-and-writing",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "One single mistranslated word convinced people for decades that intelligent Martians had built canals across Mars."
   },
   {
     "id": "ancient-temples-sacred-design",
