@@ -5431,7 +5431,8 @@
       "music-and-sound",
       "self-organizing-patterns",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "Uncoil the groove on just one side of a vinyl record, and it would stretch about a quarter of a mile."
   },
   {
     "id": "rock-global-mainstream",
@@ -5459,7 +5460,8 @@
       "music-and-sound",
       "energy-and-power",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The man who designed rock's most iconic electric guitars never actually learned how to play guitar himself."
   },
   {
     "id": "musical-instruments-human-universal",
@@ -5489,7 +5491,8 @@
       "record-extremes",
       "hidden-underground",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "The oldest known musical instrument is a working flute, carved from a vulture's wing bone about 40,000 years ago."
   },
   {
     "id": "musical-instruments-sound-families",
@@ -5515,7 +5518,8 @@
     ],
     "themes": [
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "A 300-year-old violin can sell for millions of dollars — and science still can't fully explain what makes it sound so good."
   },
   {
     "id": "sound-recording-stores-vibrations",
@@ -5543,7 +5547,8 @@
       "music-and-sound",
       "record-extremes",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The very first recording of a human voice, made in 1860, wasn't actually heard by anyone until 148 years later."
   },
   {
     "id": "streaming-music-before-full-file",
@@ -5571,7 +5576,8 @@
       "music-and-sound",
       "parental-care",
       "internet-and-virality"
-    ]
+    ],
+    "socialHook": "The MP3 format was fine-tuned using one specific a cappella song, played back thousands of times."
   },
   {
     "id": "auto-tune-oil-technology",
@@ -5601,7 +5607,8 @@
       "hidden-underground",
       "numbers-and-mathematics",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "Auto-Tune was originally developed from technology used to help find oil underground."
   },
   {
     "id": "dj-culture-scratching-accident",
@@ -5631,7 +5638,8 @@
       "parental-care",
       "accidental-discovery",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "DJ scratching was invented completely by accident — by a teenager trying to hear what his mom was yelling at him."
   },
   {
     "id": "sampling-citizen-dj-free",
@@ -5658,7 +5666,8 @@
     "themes": [
       "music-and-sound",
       "money-trade-and-value"
-    ]
+    ],
+    "socialHook": "One six-second drum solo became the single most sampled piece of music in history — and the drummer who played it was never paid a cent for it."
   },
   {
     "id": "olympic-games-ancient-greek-festival",
@@ -5686,7 +5695,8 @@
     "themes": [
       "origins-and-naming",
       "games-and-play"
-    ]
+    ],
+    "socialHook": "Athletes at the ancient Olympic Games competed completely naked."
   },
   {
     "id": "soccer-worlds-most-popular-ball-game",
@@ -5713,7 +5723,8 @@
     "themes": [
       "games-and-play",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "One set of World Cup qualifying matches in 1969 helped spark an actual real war between two countries."
   },
   {
     "id": "marathons-26-miles-385-yards",
@@ -5739,7 +5750,8 @@
     ],
     "themes": [
       "games-and-play"
-    ]
+    ],
+    "socialHook": "Women weren't even allowed to run the Olympic marathon until 1984."
   },
   {
     "id": "swimming-thousands-of-years",
@@ -5768,7 +5780,8 @@
       "human-body-quirks",
       "deep-sea-and-abyss",
       "games-and-play"
-    ]
+    ],
+    "socialHook": "Newborn babies are actually born already knowing how to instinctively hold their breath underwater."
   },
   {
     "id": "track-and-field-many-events",
@@ -5795,7 +5808,8 @@
     "themes": [
       "invention-and-breakthrough",
       "games-and-play"
-    ]
+    ],
+    "socialHook": "One athlete was mocked for jumping over the high-jump bar backwards. Then he won Olympic gold and changed the entire sport."
   },
   {
     "id": "golf-scotland-real-golf",
@@ -5825,7 +5839,8 @@
       "stars-and-cosmos",
       "flight-and-aviation",
       "games-and-play"
-    ]
+    ],
+    "socialHook": "There are actual golf balls sitting on the surface of the Moon right now."
   },
   {
     "id": "surfing-best-two-waves",
@@ -5854,7 +5869,8 @@
       "flight-and-aviation",
       "deep-sea-and-abyss",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "Surfers have ridden real ocean waves taller than an eight-story building."
   },
   {
     "id": "chess-indian-war-game",
@@ -5884,7 +5900,8 @@
       "numbers-and-mathematics",
       "stars-and-cosmos",
       "materials-and-chemistry"
-    ]
+    ],
+    "socialHook": "There are more possible chess games than there are atoms in the entire observable universe."
   },
   {
     "id": "formula-1-name-rules",
@@ -5911,7 +5928,8 @@
     "themes": [
       "collective-behavior",
       "games-and-play"
-    ]
+    ],
+    "socialHook": "An F1 pit crew can change all four tires on a car in under two seconds."
   },
   {
     "id": "wheels-pottery-turntable",
