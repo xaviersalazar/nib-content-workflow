@@ -8630,7 +8630,8 @@
       "medicine-and-cures",
       "invention-and-breakthrough",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "One mouthwash company's sales exploded after their ads invented a shameful medical condition out of ordinary bad breath."
   },
   {
     "id": "advertising-funds-media",
@@ -8657,7 +8658,8 @@
       "origins-and-naming",
       "money-trade-and-value",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The diamond engagement ring isn't an ancient tradition at all — it's the result of one brilliant 1947 ad slogan."
   },
   {
     "id": "advertising-modern-printing",
@@ -8685,7 +8687,8 @@
       "computing-and-web",
       "internet-and-virality",
       "money-trade-and-value"
-    ]
+    ],
+    "socialHook": "The internet's very first banner ad got about 44% of viewers to click — a rate modern ads can only dream of."
   },
   {
     "id": "brands-shape-perception",
@@ -8712,7 +8715,8 @@
     "themes": [
       "perception-and-brain",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "People tend to prefer Pepsi in blind taste tests, but Coke still wins on the shelf — brain scans revealed why."
   },
   {
     "id": "corporations-limit-owner-risk",
@@ -8740,7 +8744,8 @@
       "record-extremes",
       "disaster-and-catastrophe",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "One Japanese company stayed in business for over 1,400 years before finally closing."
   },
   {
     "id": "entrepreneurship-risk-profit",
@@ -8765,7 +8770,8 @@
     ],
     "themes": [
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "One inventor built 5,126 failed prototypes over 15 years before his 5,127th finally worked."
   },
   {
     "id": "monopolies-one-seller-power",
@@ -8792,7 +8798,8 @@
       "invention-and-breakthrough",
       "games-and-play",
       "money-trade-and-value"
-    ]
+    ],
+    "socialHook": "The board game Monopoly was originally invented to warn people about the dangers of monopolies, not celebrate them."
   },
   {
     "id": "monopolies-entry-barriers",
@@ -8815,7 +8822,8 @@
       "supply-demand-price-signal",
       "trade-secrets-can-last-indefinitely"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "When the government broke up one man's massive oil monopoly into 34 companies, he owned pieces of all of them — and got even richer."
   },
   {
     "id": "monopolies-competition-spectrum",
@@ -8838,7 +8846,8 @@
       "corporations-limit-owner-risk",
       "advertising-funds-media"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "For most of the 20th century in America, you couldn't legally own your own home telephone. You had to rent it."
   },
   {
     "id": "supply-demand-price-signal",
@@ -8865,7 +8874,8 @@
       "money-trade-and-value",
       "disaster-and-catastrophe",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "In April 2020, the price of oil actually went negative — sellers were paying buyers just to take it away."
   },
   {
     "id": "branding-protected-by-trademarks",
@@ -8893,7 +8903,8 @@
       "color-and-light",
       "psychology-and-behavior",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Almost every major fast-food chain uses the exact same two colors on purpose. It's a deliberate psychological trick."
   },
   {
     "id": "franchises-license-a-business",
@@ -8920,7 +8931,8 @@
       "money-trade-and-value",
       "architecture-and-structures",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "McDonald's makes more of its money as a landlord than it does from selling burgers."
   },
   {
     "id": "franchises-fees-and-royalties",
@@ -8943,7 +8955,8 @@
       "monopolies-one-seller-power",
       "startups-first-years-matter"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "The McDonald's empire wasn't actually built by the McDonald brothers. It was taken from them."
   },
   {
     "id": "franchises-support-control-tradeoff",
@@ -8968,7 +8981,8 @@
     ],
     "themes": [
       "record-extremes"
-    ]
+    ],
+    "socialHook": "The chain with more locations than any other business on Earth was born in Texas — and is now owned by a Japanese company."
   },
   {
     "id": "startups-first-years-matter",
@@ -8994,7 +9008,8 @@
     "themes": [
       "games-and-play",
       "internet-and-virality"
-    ]
+    ],
+    "socialHook": "Instagram started out as a check-in app, and YouTube actually launched as a video dating site."
   },
   {
     "id": "stock-market-fuels-growth",
@@ -9022,7 +9037,8 @@
       "disaster-and-catastrophe",
       "plants-and-botany",
       "collective-behavior"
-    ]
+    ],
+    "socialHook": "In 1630s Holland, a single tulip bulb once sold for more than an entire house."
   },
   {
     "id": "patents-right-to-exclude",
@@ -9049,7 +9065,8 @@
     "themes": [
       "invention-and-breakthrough",
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "Abraham Lincoln is the only US president to ever hold a patent."
   },
   {
     "id": "patents-three-main-types",
@@ -9075,7 +9092,8 @@
     ],
     "themes": [
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The US patent office once actually granted a real patent for swinging sideways on a swing."
   },
   {
     "id": "trade-secrets-valuable-because-secret",
@@ -9103,7 +9121,8 @@
       "myth-vs-reality",
       "invention-and-breakthrough",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Coca-Cola has never patented its own formula — because a patent would force them to publish the recipe for anyone to see."
   },
   {
     "id": "trade-secrets-can-last-indefinitely",
@@ -9131,7 +9150,8 @@
       "food-and-cuisine",
       "money-trade-and-value",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "KFC reportedly splits its secret recipe between two separate companies, so neither one knows the whole thing."
   },
   {
     "id": "trademarks-protect-brands",
@@ -9159,7 +9179,8 @@
       "energy-and-power",
       "lost-and-rediscovered",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "Aspirin, escalator, and thermos were all once protected brand names before they became just ordinary words."
   },
   {
     "id": "banking-deposits-become-loans",
@@ -9184,7 +9205,8 @@
     ],
     "themes": [
       "money-trade-and-value"
-    ]
+    ],
+    "socialHook": "Most of the money in the economy isn't printed by any government at all — banks create it out of thin air the moment they approve a loan."
   },
   {
     "id": "banking-creates-bank-money",
@@ -9211,7 +9233,8 @@
       "money-trade-and-value",
       "invention-and-breakthrough",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "If everyone with a bank account showed up tomorrow demanding their cash, the bank literally couldn't pay everyone."
   },
   {
     "id": "barter-oldest-commerce",
@@ -9239,7 +9262,8 @@
       "invention-and-breakthrough",
       "war-and-conflict",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "In WWII prison camps, cigarettes spontaneously became real currency — even among prisoners who didn't smoke."
   },
   {
     "id": "barter-gift-exchange-different",
@@ -9265,7 +9289,8 @@
     "themes": [
       "money-trade-and-value",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "In one culture, people raised their own status by publicly giving away, or even burning, their own wealth."
   },
   {
     "id": "capitalism-growth-not-guaranteed",
@@ -9293,7 +9318,8 @@
       "money-trade-and-value",
       "energy-and-power",
       "bioluminescence-and-glow"
-    ]
+    ],
+    "socialHook": "From space at night, one half of the Korean Peninsula glows with light — and the other sits in near-total darkness."
   },
   {
     "id": "currency-more-than-cash",
@@ -9319,7 +9345,8 @@
     ],
     "themes": [
       "money-trade-and-value"
-    ]
+    ],
+    "socialHook": "There are actually more $100 bills in existence than $1 bills."
   },
   {
     "id": "currency-can-be-unusual",
@@ -9346,7 +9373,8 @@
       "money-trade-and-value",
       "disaster-and-catastrophe",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "One Pacific island used giant stone discs as money — too heavy to ever actually move."
   },
   {
     "id": "economic-bubbles-name-matters",
@@ -9374,7 +9402,8 @@
       "stars-and-cosmos",
       "human-body-quirks",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "Isaac Newton lost a fortune in a stock market bubble — and admitted he could calculate the motion of the planets, but not the madness of people."
   },
   {
     "id": "inflation-weakens-buying-power",
@@ -9402,7 +9431,8 @@
       "energy-and-power",
       "lost-and-rediscovered",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "During one hyperinflation crisis, it actually became cheaper to burn stacks of cash for heat than to buy firewood with it."
   },
   {
     "id": "inflation-has-multiple-causes",
@@ -9430,7 +9460,8 @@
       "record-extremes",
       "disaster-and-catastrophe",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "In one country's economic collapse, prices doubled roughly every 15 hours — the fastest inflation ever recorded."
   },
   {
     "id": "recession-not-depression",
@@ -9457,7 +9488,8 @@
       "disaster-and-catastrophe",
       "money-trade-and-value",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "The word 'depression' was chosen specifically because it sounded gentler than 'panic' — right before it became the byword for economic disaster."
   },
   {
     "id": "supply-chains-raw-to-retail",
@@ -9482,7 +9514,8 @@
     ],
     "themes": [
       "money-trade-and-value"
-    ]
+    ],
+    "socialHook": "One single stuck ship jammed an estimated $10 billion of global trade, every single day, for six days straight."
   },
   {
     "id": "taxes-fund-public-needs",
@@ -9508,7 +9541,8 @@
     "themes": [
       "money-trade-and-value",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One old English tax was based entirely on how many windows your house had — so people just bricked them up."
   },
   {
     "id": "scarcity-raises-value",
@@ -9535,7 +9569,8 @@
       "money-trade-and-value",
       "invention-and-breakthrough",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "Some companies deliberately manufacture scarcity on purpose, because making something feel hard to get can be more profitable than making more of it."
   },
   {
     "id": "world-records-global-brand",
