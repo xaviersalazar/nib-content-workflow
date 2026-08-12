@@ -13468,7 +13468,8 @@
     "themes": [
       "human-body-quirks",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "That perfect white sand on some tropical beaches is largely fish poop."
   },
   {
     "id": "deserts-defined-by-dryness",
@@ -13495,7 +13496,8 @@
       "record-extremes",
       "hidden-underground",
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "The largest desert on Earth isn't covered in sand at all — it's covered in ice."
   },
   {
     "id": "deserts-have-specialized-life",
@@ -13521,7 +13523,8 @@
     "themes": [
       "automation-robots-ai",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "Some spots on Earth have never once recorded a single drop of rain — and life still survives there."
   },
   {
     "id": "glaciers-flow-slowly",
@@ -13549,7 +13552,8 @@
       "energy-and-power",
       "color-and-light",
       "bioluminescence-and-glow"
-    ]
+    ],
+    "socialHook": "Some glacier ice glows electric blue — because it's been crushed nearly free of air."
   },
   {
     "id": "islands-isolation-shapes-life",
@@ -13575,7 +13579,8 @@
     "themes": [
       "counterintuitive-scale",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Isolated islands have produced elephants no taller than a person — and rats the size of small dogs."
   },
   {
     "id": "lakes-basins-hold-water",
@@ -13602,7 +13607,8 @@
     "themes": [
       "record-extremes",
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "One lake in Siberia holds more fresh water than all five of North America's Great Lakes put together."
   },
   {
     "id": "lakes-can-mix-vertically",
@@ -13628,7 +13634,8 @@
     "themes": [
       "disaster-and-catastrophe",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "In 1986, one lake suddenly released an invisible cloud of gas that killed around 1,700 people in a single night."
   },
   {
     "id": "mountains-erode-while-rising",
@@ -13654,7 +13661,8 @@
     "themes": [
       "record-extremes",
       "deep-sea-and-abyss"
-    ]
+    ],
+    "socialHook": "There are fossilized seashells sitting at the summit of the tallest mountain on Earth."
   },
   {
     "id": "oceans-cover-most-earth",
@@ -13683,7 +13691,8 @@
       "deep-sea-and-abyss",
       "record-extremes",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "We have better maps of the surface of Mars than we do of our own ocean floor."
   },
   {
     "id": "oceans-have-hidden-landscapes",
@@ -13712,7 +13721,8 @@
       "extreme-temperature",
       "stars-and-cosmos",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "The longest mountain range on Earth is completely underwater, and almost nobody's ever seen it."
   },
   {
     "id": "plate-tectonics-moving-shell",
@@ -13738,7 +13748,8 @@
     "themes": [
       "music-and-sound",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "The Atlantic Ocean is measurably wider today than it was when Columbus sailed across it."
   },
   {
     "id": "plate-tectonics-boundaries-matter",
@@ -13763,7 +13774,8 @@
     ],
     "themes": [
       "collective-behavior"
-    ]
+    ],
+    "socialHook": "One continent is slowly tearing itself apart to form a brand-new ocean."
   },
   {
     "id": "plate-tectonics-wegener-was-early",
@@ -13789,7 +13801,8 @@
     "themes": [
       "exploration-and-navigation",
       "games-and-play"
-    ]
+    ],
+    "socialHook": "One scientist was mocked and ridiculed for his theory about drifting continents — and only proven right after he died."
   },
   {
     "id": "rivers-shaped-settlements",
@@ -13816,7 +13829,8 @@
       "record-extremes",
       "gravity-and-orbits",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "One of the world's great rivers actually flows 'upward' on the map — south to north."
   },
   {
     "id": "rivers-drainage-networks",
@@ -13842,7 +13856,8 @@
     "themes": [
       "record-extremes",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One river pours out so much fresh water that the ocean stays noticeably less salty about 100 miles from its mouth."
   },
   {
     "id": "valleys-v-or-u-shapes",
@@ -13868,7 +13883,8 @@
     "themes": [
       "stars-and-cosmos",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "Walking down into one canyon is like walking down through nearly two billion years of Earth's history."
   },
   {
     "id": "valleys-climate-influence",
@@ -13894,7 +13910,8 @@
     "themes": [
       "record-extremes",
       "extreme-temperature"
-    ]
+    ],
+    "socialHook": "In one valley, heavy stones slide across the ground completely on their own — and for decades nobody ever saw it happen."
   },
   {
     "id": "volcanoes-not-just-lava",
@@ -13923,7 +13940,8 @@
       "disaster-and-catastrophe",
       "hidden-underground",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "When one volcano buried an entire city, the lava wasn't actually what killed most people."
   },
   {
     "id": "volcanoes-shape-varies",
@@ -13951,7 +13969,8 @@
       "record-extremes",
       "plants-and-botany",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "One volcanic eruption caused a full 'year without a summer' — and inadvertently inspired the novel Frankenstein."
   },
   {
     "id": "fjords-deepest-inland",
@@ -13979,7 +13998,8 @@
       "stars-and-cosmos",
       "animal-intelligence",
       "deep-sea-and-abyss"
-    ]
+    ],
+    "socialHook": "Trace every twist of one country's coastline, and it's long enough to wrap around the entire planet two and a half times."
   },
   {
     "id": "fjords-cold-water-reefs",
@@ -14005,7 +14025,8 @@
     "themes": [
       "extreme-temperature",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Some coral reefs thrive in total darkness and near-freezing water, hundreds of meters down."
   },
   {
     "id": "rainforests-four-layers",
@@ -14032,7 +14053,8 @@
     "themes": [
       "plants-and-botany",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "A single rainforest tree was found to host more species of ants than exist in all of the British Isles."
   },
   {
     "id": "rainforests-climate-regulators",
@@ -14060,7 +14082,8 @@
       "plants-and-botany",
       "human-body-quirks",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "The Amazon isn't actually the reason you're breathing right now — most of your oxygen comes from somewhere else entirely."
   },
   {
     "id": "waterfalls-erosion-builds-and-breaks",
@@ -14086,7 +14109,8 @@
     "themes": [
       "disaster-and-catastrophe",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "One famous waterfall has been slowly marching upstream for thousands of years — not downstream."
   },
   {
     "id": "waterfalls-many-causes",
@@ -14115,7 +14139,8 @@
       "deep-sea-and-abyss",
       "stars-and-cosmos",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "The biggest waterfall on the entire planet is completely underwater, and makes no sound at all."
   },
   {
     "id": "caves-acidic-water",
@@ -14143,7 +14168,8 @@
       "hidden-underground",
       "storytelling-and-narrative",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One cave is so massive it has its own jungle, its own river, and its own clouds forming inside it."
   },
   {
     "id": "caves-speleothems-redeposited",
@@ -14171,7 +14197,8 @@
       "record-extremes",
       "hidden-underground",
       "extreme-temperature"
-    ]
+    ],
+    "socialHook": "One cave holds natural crystals bigger and thicker than tree trunks."
   },
   {
     "id": "el-nino-global-weather",
@@ -26233,7 +26260,8 @@
     "themes": [
       "disaster-and-catastrophe",
       "stars-and-cosmos"
-    ]
+    ],
+    "socialHook": "About 800,000 people currently live directly on the slopes of one of the most dangerous volcanoes on Earth."
   },
   {
     "id": "apollo13-earth-horizon-navigation",
