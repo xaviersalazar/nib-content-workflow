@@ -10789,7 +10789,8 @@
       "materials-and-chemistry",
       "architecture-and-structures",
       "machines-and-mechanisms"
-    ]
+    ],
+    "socialHook": "The oldest known temple on Earth is older than farming, pottery, and the wheel."
   },
   {
     "id": "ancient-temples-cella-inner-room",
@@ -10815,7 +10816,8 @@
     ],
     "themes": [
       "color-and-light"
-    ]
+    ],
+    "socialHook": "Ancient Greek temples weren't actually pure white marble — they were originally painted in loud, gaudy colors."
   },
   {
     "id": "ancient-temples-oriented-space",
@@ -10841,7 +10843,8 @@
     "themes": [
       "record-extremes",
       "timekeeping"
-    ]
+    ],
+    "socialHook": "One ancient temple was built so precisely that sunlight only reaches its innermost chamber on two specific days a year."
   },
   {
     "id": "bauhaus-house-of-building",
@@ -10864,7 +10867,8 @@
       "columns-support-and-symbol",
       "castles-not-palaces"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "The Nazis shut down one design school for being 'un-German' — and it backfired so badly, the school's ideas ended up conquering America instead."
   },
   {
     "id": "bridges-five-basic-forms",
@@ -10892,7 +10896,8 @@
       "plants-and-botany",
       "hidden-underground",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "Some bridges aren't built at all — they're grown from living tree roots over decades."
   },
   {
     "id": "bridges-live-dead-loads",
@@ -10920,7 +10925,8 @@
       "architecture-and-structures",
       "disaster-and-catastrophe",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "There's a real reason soldiers are ordered to stop marching in step before crossing a bridge."
   },
   {
     "id": "bridges-materials-changed-spans",
@@ -10947,7 +10953,8 @@
       "color-and-light",
       "psychology-and-behavior",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "The Golden Gate Bridge was almost painted in black-and-yellow safety stripes instead of its famous orange."
   },
   {
     "id": "brutalism-postwar-function",
@@ -10975,7 +10982,8 @@
       "stars-and-cosmos",
       "internet-and-virality",
       "language-and-writing"
-    ]
+    ],
+    "socialHook": "Some of the most hated buildings of the 20th century became Instagram favorites decades later."
   },
   {
     "id": "columns-support-and-symbol",
@@ -11002,7 +11010,8 @@
       "optical-illusion",
       "camouflage-and-mimicry",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "The Parthenon looks perfectly straight. Almost none of its lines actually are."
   },
   {
     "id": "columns-capitals-show-style",
@@ -11027,7 +11036,8 @@
     ],
     "themes": [
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "Some ancient columns are carved as women, appearing to physically hold up the entire roof on their heads."
   },
   {
     "id": "concrete-aggregate-cement-water",
@@ -11053,7 +11063,8 @@
     "themes": [
       "stars-and-cosmos",
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "Making the concrete used in construction emits more carbon dioxide worldwide than every single airplane combined."
   },
   {
     "id": "domes-arch-turned-space",
@@ -11080,7 +11091,8 @@
       "record-extremes",
       "animal-intelligence",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One dome, finished nearly 1,900 years ago, is still the largest of its kind ever built — and it has an open hole to the sky at the top."
   },
   {
     "id": "domes-push-outward",
@@ -11108,7 +11120,8 @@
       "optical-illusion",
       "bioluminescence-and-glow",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One ancient dome looked so light, people swore it seemed to float — until an earthquake proved the engineering had gone one step too far."
   },
   {
     "id": "domes-romans-scaled-up",
@@ -11135,7 +11148,8 @@
       "architecture-and-structures",
       "music-and-sound",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "Inside some domes, you can whisper against the wall on one side and be heard clearly by someone over 30 meters away."
   },
   {
     "id": "glass-buildings-curtain-wall",
@@ -11162,7 +11176,8 @@
       "architecture-and-structures",
       "energy-and-power",
       "accidental-discovery"
-    ]
+    ],
+    "socialHook": "One glass skyscraper accidentally focused sunlight so intensely, it melted parts of a parked car on the street below."
   },
   {
     "id": "glass-buildings-postwar-energy",
@@ -11190,7 +11205,8 @@
       "architecture-and-structures",
       "plants-and-botany",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Glass skyscrapers are estimated to kill up to a billion birds a year in the US alone, just because birds can't see glass."
   },
   {
     "id": "gothic-architecture-walls-of-light",
@@ -11218,7 +11234,8 @@
       "flight-and-aviation",
       "bioluminescence-and-glow",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "Gothic cathedrals moved their entire structural skeleton to the outside of the building, just so the walls could dissolve into glowing glass."
   },
   {
     "id": "gothic-architecture-pointed-up",
@@ -11243,7 +11260,8 @@
     ],
     "themes": [
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One cathedral took over 600 years to finish — the people who laid its foundation knew they'd never live to see it completed."
   },
   {
     "id": "pyramids-global-form",
@@ -11272,7 +11290,8 @@
       "record-extremes",
       "stars-and-cosmos",
       "ancient-engineering"
-    ]
+    ],
+    "socialHook": "The Great Pyramid of Giza was the tallest structure on Earth for roughly 3,800 years."
   },
   {
     "id": "pyramids-sloping-sides",
@@ -11300,7 +11319,8 @@
       "stars-and-cosmos",
       "ancient-engineering",
       "exploration-and-navigation"
-    ]
+    ],
+    "socialHook": "The Great Pyramid is aligned to true north within a tiny fraction of a single degree — and it was built without a compass."
   },
   {
     "id": "pyramids-giza-fame",
@@ -11328,7 +11348,8 @@
       "camouflage-and-mimicry",
       "ancient-engineering",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "The largest pyramid on Earth by volume isn't in Egypt at all — and it was so overgrown that conquistadors mistook it for a hill and built a church on top of it."
   },
   {
     "id": "skyscrapers-technology-coincidence",
@@ -11355,7 +11376,8 @@
     "themes": [
       "architecture-and-structures",
       "record-extremes"
-    ]
+    ],
+    "socialHook": "One skyscraper secretly hid an entire spire inside itself just to win a race for the world's tallest building."
   },
   {
     "id": "skyscrapers-elevators-made-height-usable",
@@ -11383,7 +11405,8 @@
       "record-extremes",
       "money-trade-and-value",
       "machines-and-mechanisms"
-    ]
+    ],
+    "socialHook": "The top floor of a building used to be the worst place to live — one invention flipped it into the most expensive address."
   },
   {
     "id": "urban-planning-city-shaping",
@@ -11408,7 +11431,8 @@
     ],
     "themes": [
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "Paris's famously elegant wide boulevards were partly designed to make it harder for citizens to revolt."
   },
   {
     "id": "urban-planning-industrial-pressure",
@@ -11434,7 +11458,8 @@
     "themes": [
       "animal-intelligence",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The word 'jaywalking' was invented in the 1920s by the auto industry, specifically to shift blame away from cars."
   },
   {
     "id": "urban-planning-technical-political",
@@ -11460,7 +11485,8 @@
     "themes": [
       "flight-and-aviation",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One entire capital city was built from empty scrubland in under four years — laid out from above like an airplane."
   },
   {
     "id": "castles-not-palaces",
@@ -11487,7 +11513,8 @@
       "self-organizing-patterns",
       "timekeeping",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "Old castle staircases usually spiral in one specific direction for a very deliberate combat reason."
   },
   {
     "id": "castles-motte-bailey-fast",
@@ -11512,7 +11539,8 @@
     ],
     "themes": [
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "The word 'wardrobe' actually comes from where medieval castle residents stored their clothes — right next to the toilet."
   },
   {
     "id": "castles-keeps-replaced-donjons",
@@ -11539,7 +11567,8 @@
       "war-and-conflict",
       "camouflage-and-mimicry",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "The castle that inspired the Disney logo isn't medieval at all — it was built in the 1800s with running water and flush toilets."
   },
   {
     "id": "dragons-east-west-difference",
