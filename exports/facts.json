@@ -4555,7 +4555,8 @@
     "themes": [
       "automation-robots-ai",
       "games-and-play"
-    ]
+    ],
+    "socialHook": "In 2016, one AI made a move so strange that watching experts assumed it was a mistake. It wasn't — it went on to beat the world champion."
   },
   {
     "id": "natural-language-processing-more-than-speech",
@@ -4584,7 +4585,8 @@
       "language-and-writing",
       "invention-and-breakthrough",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One translation AI learned to translate between two languages it was never actually taught to pair — by quietly inventing its own internal bridge between them."
   },
   {
     "id": "chatbots-eliza-first",
@@ -4612,7 +4614,8 @@
     "themes": [
       "automation-robots-ai",
       "materials-and-chemistry"
-    ]
+    ],
+    "socialHook": "The very first chatbot, built in 1966, understood absolutely nothing — and people still confided their deepest feelings to it anyway."
   },
   {
     "id": "generative-ai-new-content-prompts",
@@ -4639,7 +4642,8 @@
     "themes": [
       "automation-robots-ai",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "One AI-generated image won first prize at a real art competition — and the entrant hadn't painted a single stroke of it."
   },
   {
     "id": "ai-hallucinations-real-world-harm",
@@ -4668,7 +4672,8 @@
       "storytelling-and-narrative",
       "invention-and-breakthrough",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "One lawyer got in real trouble after an AI confidently invented several court cases that never actually existed — and he filed them anyway."
   },
   {
     "id": "ai-ethics-help-harm",
@@ -4695,7 +4700,8 @@
     "themes": [
       "automation-robots-ai",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "One company's chatbot, designed to learn from the people talking to it, turned hateful in under 24 hours — and had to be shut down."
   },
   {
     "id": "ai-ethics-biased-data",
@@ -4723,7 +4729,8 @@
       "automation-robots-ai",
       "invention-and-breakthrough",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "One company built a hiring AI that taught itself, entirely on its own, to reject resumes that even mentioned the word 'women's.'"
   },
   {
     "id": "reinforcement-learning-reward-signal",
@@ -4752,7 +4759,8 @@
       "games-and-play",
       "energy-and-power",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "One AI was given nothing but the rules of chess — and within about four hours of playing itself, it was crushing the best chess engine in the world."
   },
   {
     "id": "memes-cultural-power",
