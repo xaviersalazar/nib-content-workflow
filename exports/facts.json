@@ -6164,7 +6164,8 @@
       "materials-and-chemistry",
       "energy-and-power",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "Commercial airliners get struck by lightning about once a year — and most passengers never even notice."
   },
   {
     "id": "airplanes-wing-airfoils",
@@ -6191,7 +6192,8 @@
     "themes": [
       "food-and-cuisine",
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "Flying dulls your sense of taste by about 30% — which is why airlines quietly over-season every meal."
   },
   {
     "id": "helicopters-sikorsky-vs300",
@@ -6220,7 +6222,8 @@
       "energy-and-power",
       "plants-and-botany",
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "If a helicopter's engine completely dies mid-flight, it can still land safely, using nothing but the spinning rotor."
   },
   {
     "id": "jet-engines-throw-air-backward",
@@ -6249,7 +6252,8 @@
       "gravity-and-orbits",
       "materials-and-chemistry",
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "Jet engine blades spin through gas that's actually hotter than the metal's own melting point — and survive by wearing a coat of air."
   },
   {
     "id": "jet-engines-compress-burn-expand",
@@ -6277,7 +6281,8 @@
       "energy-and-power",
       "flight-and-aviation",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "One modern jet engine's fan is big enough to stand inside — and produces more thrust alone than all four engines on the original 747 combined."
   },
   {
     "id": "hot-air-balloons-hot-air-lighter",
@@ -6306,7 +6311,8 @@
       "world-first",
       "energy-and-power",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The first humans to ever fly thought burning old shoes and wool was what made their balloon rise, not simple heat."
   },
   {
     "id": "hot-air-balloons-animal-passengers",
@@ -6333,7 +6339,8 @@
     ],
     "themes": [
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "Before any human dared fly in a balloon, a sheep, a duck, and a rooster went up first."
   },
   {
     "id": "concorde-mach-two-passengers",
@@ -6362,7 +6369,8 @@
       "motion-and-force",
       "human-body-quirks",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "One supersonic jet actually got physically longer mid-flight — stretched by nearly a foot from the friction of its own speed."
   },
   {
     "id": "air-traffic-control-air-and-ground",
@@ -6389,7 +6397,8 @@
     "themes": [
       "flight-and-aviation",
       "timekeeping"
-    ]
+    ],
+    "socialHook": "Right now, more than 10,000 planes are in the sky somewhere on Earth, carrying over a million people."
   },
   {
     "id": "gliders-fly-without-engines",
@@ -6417,7 +6426,8 @@
     "themes": [
       "flight-and-aviation",
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "A glider with no engine at all has flown over 1,000 miles, powered by nothing but rising columns of warm air."
   },
   {
     "id": "supersonic-flight-hypersonic-mach-five",
@@ -6446,7 +6456,8 @@
       "flight-and-aviation",
       "music-and-sound",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "That sharp crack of a whip isn't just a loud snap — it's a tiny sonic boom, possibly the first man-made object ever to break the sound barrier."
   },
   {
     "id": "flying-boats-fuselage-hull",
@@ -6474,7 +6485,8 @@
       "flight-and-aviation",
       "record-extremes",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "The plane with the longest wingspan ever built flew exactly once, for about a minute."
   },
   {
     "id": "drones-national-airspace",
@@ -6503,7 +6515,8 @@
       "flight-and-aviation",
       "collective-behavior",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "A single light show can fly over 1,000 drones in formation, morphing into one glowing 3D image in the night sky."
   },
   {
     "id": "drones-advanced-operations",
@@ -6532,7 +6545,8 @@
       "medicine-and-cures",
       "human-body-quirks",
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "In Rwanda, drones parachute blood and medicine to remote clinics — faster than any road could get it there."
   },
   {
     "id": "ejection-seats-first-live-test",
@@ -6561,7 +6575,8 @@
       "flight-and-aviation",
       "world-first",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One man volunteered to be shot out of a jet at 320 mph just to prove the ejection seat worked — then did it again."
   },
   {
     "id": "autopilot-straight-level-flight",
@@ -6588,7 +6603,8 @@
     ],
     "themes": [
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "On a typical airline flight, the pilots are only actually hand-flying the plane for a few minutes total."
   },
   {
     "id": "autopilot-complex-flight-plans",
@@ -6617,7 +6633,8 @@
       "automation-robots-ai",
       "numbers-and-mathematics",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "Modern jets can land themselves completely, even in fog so thick the pilot can barely see the runway."
   },
   {
     "id": "automobiles-thousands-of-parts",
@@ -6644,7 +6661,8 @@
     "themes": [
       "world-first",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "The world's very first speeding ticket was issued for going a blistering 8 miles per hour."
   },
   {
     "id": "internal-combustion-engines-combustion-inside",
@@ -6673,7 +6691,8 @@
       "transformation-metamorphosis",
       "machines-and-mechanisms",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "Fill up your gas tank, and only about a quarter of that fuel actually ends up moving the car."
   },
   {
     "id": "internal-combustion-engines-hot-gas-work",
@@ -6703,7 +6722,8 @@
       "music-and-sound",
       "machines-and-mechanisms",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "A cruising car engine sets off thousands of tiny, perfectly timed explosions every single minute."
   },
   {
     "id": "seat-belts-prevent-ejection",
@@ -6729,7 +6749,8 @@
     ],
     "themes": [
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "One car company invented the modern seat belt — then gave away the patent for free, saving over a million lives."
   },
   {
     "id": "cruise-control-set-speed",
@@ -6757,7 +6778,8 @@
       "invention-and-breakthrough",
       "storytelling-and-narrative",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "Cruise control was invented by an engineer who was blind from early childhood and could never drive a car himself."
   },
   {
     "id": "brakes-hydraulic-balance",
@@ -6786,7 +6808,8 @@
       "extreme-temperature",
       "bioluminescence-and-glow",
       "machines-and-mechanisms"
-    ]
+    ],
+    "socialHook": "Formula 1 brakes can glow red-hot past 1,000 degrees Celsius while hauling a car from 200 mph to a stop in about four seconds."
   },
   {
     "id": "windshield-wipers-snowy-trolley",
@@ -6814,7 +6837,8 @@
     ],
     "themes": [
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "Before windshield wipers existed, drivers had to stick their heads out the window just to see through falling snow."
   },
   {
     "id": "air-bags-supplement-seat-belts",
@@ -6842,7 +6866,8 @@
       "materials-and-chemistry",
       "machines-and-mechanisms",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "An airbag inflates using an actual tiny, controlled explosion hidden inside your steering wheel."
   },
   {
     "id": "crash-test-dummies-different-bodies",
@@ -6868,7 +6893,8 @@
     ],
     "themes": [
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "For decades, crash test dummies were modeled almost entirely on the average male body."
   },
   {
     "id": "relativity-redefined-space-time",
