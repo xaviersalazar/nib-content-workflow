@@ -12109,7 +12109,8 @@
     "themes": [
       "human-body-quirks",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "One leading theory says Amelia Earhart didn't crash into the ocean at all — she survived as a castaway on a deserted island."
   },
   {
     "id": "antikythera-ancient-computer",
@@ -12222,7 +12223,8 @@
       "internet-and-virality",
       "war-and-conflict",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "About two million people once RSVP'd to a joke event to storm a top-secret military base."
   },
   {
     "id": "bermuda-triangle-disputed-map",
@@ -12248,7 +12250,8 @@
     "themes": [
       "flight-and-aviation",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "Five military planes vanished over the Atlantic in 1945 — then the plane sent to rescue them vanished too."
   },
   {
     "id": "crop-circles-field-art",
@@ -12275,7 +12278,8 @@
     "themes": [
       "deception-and-hoax",
       "plants-and-botany"
-    ]
+    ],
+    "socialHook": "The crop circles that baffled the world for years turned out to be made by two guys with a plank of wood and some rope."
   },
   {
     "id": "easter-island-remote-statues",
@@ -12303,7 +12307,8 @@
       "animal-intelligence",
       "music-and-sound",
       "machines-and-mechanisms"
-    ]
+    ],
+    "socialHook": "Local legend said Easter Island's giant statues 'walked' into place. Researchers actually tried it, and it worked."
   },
   {
     "id": "easter-island-moai-not-just-heads",
@@ -12329,7 +12334,8 @@
     ],
     "themes": [
       "hidden-underground"
-    ]
+    ],
+    "socialHook": "Those famous Easter Island 'heads' aren't just heads — they have full bodies buried underground."
   },
   {
     "id": "nazca-lines-desert-drawings",
@@ -12354,7 +12360,8 @@
     ],
     "themes": [
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "Some 2,000-year-old drawings carved into the desert were basically invisible until airplanes finally flew over them."
   },
   {
     "id": "nazca-lines-dry-preserved",
@@ -12380,7 +12387,8 @@
     "themes": [
       "automation-robots-ai",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "One recent scan using drones and AI nearly doubled the number of known ancient desert drawings in just a few months."
   },
   {
     "id": "roanoke-croatoan-clue",
@@ -12408,7 +12416,8 @@
       "record-extremes",
       "collective-behavior",
       "symbiosis-and-cooperation"
-    ]
+    ],
+    "socialHook": "An entire English colony vanished without a trace, leaving behind exactly one clue: a single word carved into a post."
   },
   {
     "id": "roanoke-supply-delay",
@@ -12436,7 +12445,8 @@
       "collective-behavior",
       "symbiosis-and-cooperation",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "The first English baby ever born in America vanished along with an entire colony — and nobody knows what happened to her."
   },
   {
     "id": "stonehenge-built-in-stages",
@@ -12461,7 +12471,8 @@
     ],
     "themes": [
       "record-extremes"
-    ]
+    ],
+    "socialHook": "One of Stonehenge's stones was recently traced to a location 700 kilometers away — and nobody knows how it got there."
   },
   {
     "id": "stonehenge-solstice-alignment",
@@ -12490,7 +12501,8 @@
       "hidden-underground",
       "timekeeping",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "Stonehenge wasn't just a temple or calendar — it's also one of the largest known graveyards from its era."
   },
   {
     "id": "ufos-unidentified-not-alien",
@@ -12518,7 +12530,8 @@
       "flight-and-aviation",
       "disaster-and-catastrophe",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "The most famous UFO crash in history wasn't a UFO at all — it was a secret spy program."
   },
   {
     "id": "voynich-strange-illustrations",
@@ -12547,7 +12560,8 @@
       "plants-and-botany",
       "storytelling-and-narrative",
       "games-and-play"
-    ]
+    ],
+    "socialHook": "One mysterious old book is full of detailed drawings of plants that don't match any known species on Earth."
   },
   {
     "id": "voynich-yale-library",
@@ -12575,7 +12589,8 @@
       "codes-and-cryptography",
       "language-and-writing",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "Elite WWII codebreakers, computer scientists, and even AI have all tried to crack one book's code — and all of them failed."
   },
   {
     "id": "dyatlov-tent-cut-open",
@@ -12601,7 +12616,8 @@
     "themes": [
       "games-and-play",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "Nine experienced hikers once cut their own tent open from the inside and fled, half-dressed, into deadly cold — and nobody knows why."
   },
   {
     "id": "oak-island-money-pit",
@@ -12629,7 +12645,8 @@
       "money-trade-and-value",
       "animal-intelligence",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "One treasure pit has defeated diggers for over two centuries — it floods with seawater the moment anyone digs deep enough."
   },
   {
     "id": "oak-island-flooded-shaft",
@@ -12657,7 +12674,8 @@
       "exploration-and-navigation",
       "luck-ritual-superstition",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "One island's treasure legend claims seven people must die before it gives up its secret. Six already have."
   },
   {
     "id": "taos-hum-low-frequency",
@@ -12685,7 +12703,8 @@
       "music-and-sound",
       "energy-and-power",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "In one town, some people hear a persistent, mysterious hum that no instrument has ever been able to detect."
   },
   {
     "id": "taos-hum-worldwide-pattern",
@@ -12711,7 +12730,8 @@
     "themes": [
       "myth-vs-reality",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "One leading theory says a mysterious hum some people hear might not be out in the world at all — it might be coming from inside their own head."
   },
   {
     "id": "wow-signal-never-repeated",
@@ -12736,7 +12756,8 @@
     ],
     "themes": [
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "The most famous possible signal from space ever detected lasted just 72 seconds — and has never happened again."
   },
   {
     "id": "blood-transfusions-began-before-types",
