@@ -12879,7 +12879,8 @@
       "medicine-and-cures",
       "human-body-quirks",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "Doctors once tried transfusing sheep's blood directly into humans — it went so badly that transfusions were banned for about 150 years."
   },
   {
     "id": "blood-transfusions-human-blood-breakthrough",
@@ -12908,7 +12909,8 @@
       "medicine-and-cures",
       "human-body-quirks",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "Before doctors understood blood transfusion, some actually tried transfusing patients with milk instead."
   },
   {
     "id": "anesthesia-made-surgery-bearable",
@@ -12934,7 +12936,8 @@
     ],
     "themes": [
       "medicine-and-cures"
-    ]
+    ],
+    "socialHook": "Anesthesia reliably shuts off human consciousness millions of times a day — and scientists still can't fully explain how it actually works."
   },
   {
     "id": "anesthesia-not-always-unconscious",
@@ -12960,7 +12963,8 @@
     ],
     "themes": [
       "medicine-and-cures"
-    ]
+    ],
+    "socialHook": "The drugs that made modern surgery possible started out as recreational party drugs."
   },
   {
     "id": "antibiotics-penicillin-accident",
@@ -12986,7 +12990,8 @@
     "themes": [
       "medicine-and-cures",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Penicillin was once so scarce, doctors recycled it back out of a dying patient's own urine just to keep treating him."
   },
   {
     "id": "blood-types-antigens",
@@ -13012,7 +13017,8 @@
     "themes": [
       "human-body-quirks",
       "materials-and-chemistry"
-    ]
+    ],
+    "socialHook": "Fewer than 50 people on the entire planet are known to have one particular blood type."
   },
   {
     "id": "diagnostic-imaging-many-tools",
@@ -13040,7 +13046,8 @@
       "money-trade-and-value",
       "medicine-and-cures",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "The first CT scanner was partly funded by profits from Beatles records."
   },
   {
     "id": "germ-theory-microbes-cause-disease",
@@ -13065,7 +13072,8 @@
     ],
     "themes": [
       "parental-care"
-    ]
+    ],
+    "socialHook": "One doctor proved that handwashing saved lives — and was mocked so badly for it that he was locked away in an asylum until he died."
   },
   {
     "id": "germ-theory-changed-cleanliness",
@@ -13093,7 +13101,8 @@
       "medicine-and-cures",
       "human-body-quirks",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "Surgeons used to wear coats stiff with dried blood on purpose — it was considered a badge of honor."
   },
   {
     "id": "germ-theory-key-figures",
@@ -13120,7 +13129,8 @@
     "themes": [
       "medicine-and-cures",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "One scientist gave an unproven, untested vaccine to a dying 9-year-old boy — with no medical license to do it at all."
   },
   {
     "id": "insulin-pancreas-beta-cells",
@@ -13147,7 +13157,8 @@
     "themes": [
       "medicine-and-cures",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "In 1922, doctors walked down a hospital ward full of children in diabetic comas, injecting a brand-new drug — and the first kids were already waking up before they finished the row."
   },
   {
     "id": "insulin-discovery-transformed-diabetes",
@@ -13174,7 +13185,8 @@
       "medicine-and-cures",
       "invention-and-breakthrough",
       "money-trade-and-value"
-    ]
+    ],
+    "socialHook": "The people who discovered insulin sold the patent for exactly one dollar."
   },
   {
     "id": "mri-magnets-not-x-rays",
@@ -13200,7 +13212,8 @@
     "themes": [
       "materials-and-chemistry",
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "One MRI machine's magnet is strong enough to turn a loose steel oxygen tank into an actual flying missile."
   },
   {
     "id": "mri-soft-tissue-detail",
@@ -13226,7 +13239,8 @@
     "themes": [
       "deception-and-hoax",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "Researchers once got a brain scanner to show fake 'brain activity' — in a dead salmon."
   },
   {
     "id": "placebo-effect-clinical-trials",
@@ -13253,7 +13267,8 @@
       "medicine-and-cures",
       "psychology-and-behavior",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "The placebo effect has an evil twin — one that gives people real side effects from nothing but a harmless sugar pill."
   },
   {
     "id": "prosthetics-more-than-limbs",
@@ -13282,7 +13297,8 @@
       "medicine-and-cures",
       "world-first",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "The oldest known working prosthetic is a 3,000-year-old wooden toe."
   },
   {
     "id": "stethoscope-distance-invention",
@@ -13310,7 +13326,8 @@
       "human-body-quirks",
       "survival-adaptation",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "The stethoscope was invented because one doctor was too embarrassed to press his ear directly against a patient's chest."
   },
   {
     "id": "transplant-surgery-rejection",
@@ -13337,7 +13354,8 @@
       "medicine-and-cures",
       "human-body-quirks",
       "materials-and-chemistry"
-    ]
+    ],
+    "socialHook": "Your own immune system can't tell the difference between a lifesaving organ transplant and an infection — it attacks both the same way."
   },
   {
     "id": "transplant-surgery-donor-shortage",
@@ -13365,7 +13383,8 @@
       "medicine-and-cures",
       "human-body-quirks",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "The first heart transplant patient in history survived only 18 days — and it still made the surgeon an overnight global celebrity."
   },
   {
     "id": "vaccines-train-immune-system",
@@ -13391,7 +13410,8 @@
     ],
     "themes": [
       "medicine-and-cures"
-    ]
+    ],
+    "socialHook": "There's exactly one human disease that's ever been completely wiped out in the wild — and its last known traces sit locked in two guarded freezers."
   },
   {
     "id": "vaccines-jenner-smallpox",
@@ -13419,7 +13439,8 @@
       "medicine-and-cures",
       "invention-and-breakthrough",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "The word 'vaccine' literally comes from the Latin word for cow."
   },
   {
     "id": "x-rays-invisible-light",
@@ -13446,7 +13467,8 @@
       "human-body-quirks",
       "world-first",
       "lost-and-rediscovered"
-    ]
+    ],
+    "socialHook": "Shoe stores used to let customers X-ray their own feet for fun, just to see how new shoes fit."
   },
   {
     "id": "x-rays-accidental-discovery-impact",
@@ -13474,7 +13496,8 @@
       "medicine-and-cures",
       "human-body-quirks",
       "accidental-discovery"
-    ]
+    ],
+    "socialHook": "The very first X-ray image ever taken showed a woman her own skeleton — and she reportedly said she'd seen her own death."
   },
   {
     "id": "medical-robots-surgeon-controlled",
@@ -13501,7 +13524,8 @@
       "automation-robots-ai",
       "medicine-and-cures",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "One surgical robot is precise enough that surgeons can use it to peel the skin off a single grape and stitch it back on."
   },
   {
     "id": "medical-robots-minimally-invasive",
@@ -13529,7 +13553,8 @@
       "medicine-and-cures",
       "music-and-sound",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "In 2001, a surgeon in New York performed real surgery on a patient sitting in France, about 4,000 miles away."
   },
   {
     "id": "coral-islands-built-from-skeletons",
@@ -26600,7 +26625,8 @@
       "medicine-and-cures",
       "extreme-temperature",
       "flight-and-aviation"
-    ]
+    ],
+    "socialHook": "One Apollo 13 astronaut quietly developed a serious kidney infection in the middle of the mission's crisis — and it almost became a second emergency."
   },
   {
     "id": "apollo13-reentry-blackout-87-seconds",
