@@ -11539,7 +11539,8 @@
     ],
     "themes": [
       "myth-vs-reality"
-    ]
+    ],
+    "socialHook": "That famous 'here be dragons' phrase on old maps? It appears on essentially just one surviving map in all of history."
   },
   {
     "id": "dragons-hero-test",
@@ -11566,7 +11567,8 @@
       "record-extremes",
       "human-body-quirks",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "There's a real dragon alive today — and it's actually venomous."
   },
   {
     "id": "egyptian-religion-cosmos-order",
@@ -11592,7 +11594,8 @@
     "themes": [
       "human-body-quirks",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Ancient Egyptian embalmers carefully preserved almost every organ in a mummy — except the one that does all the thinking."
   },
   {
     "id": "egyptian-religion-many-gods",
@@ -11617,7 +11620,8 @@
     ],
     "themes": [
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "Ancient Egyptians believed your heart was literally weighed against a feather after you died — and a monster ate it if you failed."
   },
   {
     "id": "fairies-not-always-sweet",
@@ -11643,7 +11647,8 @@
     ],
     "themes": [
       "deception-and-hoax"
-    ]
+    ],
+    "socialHook": "Two young girls once faked fairy photos with paper cutouts — and fooled the actual creator of Sherlock Holmes."
   },
   {
     "id": "fairies-close-to-humans",
@@ -11670,7 +11675,8 @@
       "hidden-underground",
       "plants-and-botany",
       "myth-vs-reality"
-    ]
+    ],
+    "socialHook": "Those eerie mushroom rings from folklore are really just one single living organism, sometimes centuries old."
   },
   {
     "id": "greek-mythology-art-afterlife",
@@ -11699,7 +11705,8 @@
       "myth-vs-reality",
       "invention-and-breakthrough",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "The Cyclops myth may have come from ancient Greeks digging up fossilized elephant skulls and mistaking the nose hole for one giant eye socket."
   },
   {
     "id": "king-arthur-medieval-expansion",
@@ -11726,7 +11733,8 @@
       "deception-and-hoax",
       "money-trade-and-value",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "One group of broke monks 'discovered' King Arthur's grave right when their abbey desperately needed money."
   },
   {
     "id": "kraken-may-reflect-squid",
@@ -11753,7 +11761,8 @@
       "myth-vs-reality",
       "counterintuitive-scale",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Old sailors described a sea monster so massive, they claimed it could be mistaken for an entire island."
   },
   {
     "id": "loch-ness-home",
@@ -11780,7 +11789,8 @@
     "themes": [
       "deception-and-hoax",
       "timekeeping"
-    ]
+    ],
+    "socialHook": "The most famous photo of the Loch Ness Monster was a toy submarine with a model head glued on top."
   },
   {
     "id": "loch-ness-global-myth",
@@ -11803,7 +11813,8 @@
       "greek-mythology-art-afterlife",
       "sasquatch-footprint-legend"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "One 2018 DNA survey of Loch Ness found zero trace of a monster — just an unusual amount of eel DNA."
   },
   {
     "id": "mermaids-half-human-sea",
@@ -11826,7 +11837,8 @@
       "fairies-close-to-humans",
       "werewolves-trials-europe"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "Christopher Columbus really did log seeing mermaids in 1493. He was just unimpressed by how ugly they actually were."
   },
   {
     "id": "mermaids-sailor-stories",
@@ -11853,7 +11865,8 @@
     "themes": [
       "deception-and-hoax",
       "collective-behavior"
-    ]
+    ],
+    "socialHook": "One of the most famous 'mermaids' ever displayed was actually a monkey's torso sewn onto a fish tail."
   },
   {
     "id": "minotaur-labyrinth-prison",
@@ -11881,7 +11894,8 @@
       "myth-vs-reality",
       "lost-and-rediscovered",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "In the original myth, one city was forced to send 14 of its own teenagers into a maze to be devoured every few years."
   },
   {
     "id": "phoenix-reborn-from-fire",
@@ -11908,7 +11922,8 @@
       "parental-care",
       "myth-vs-reality",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "The phoenix doesn't die of old age in the legend — it deliberately builds its own funeral pyre and sets itself on fire."
   },
   {
     "id": "sasquatch-footprint-legend",
@@ -11934,7 +11949,8 @@
     "themes": [
       "human-body-quirks",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "The FBI actually tested alleged Bigfoot hair samples in the 1970s — the results just got declassified decades later."
   },
   {
     "id": "sasquatch-patterson-film",
@@ -11961,7 +11977,8 @@
     "themes": [
       "deception-and-hoax",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "The word 'Bigfoot' exists because of a prankster who carved giant wooden feet and stomped around a logging site."
   },
   {
     "id": "unicorn-one-horn",
@@ -11988,7 +12005,8 @@
       "money-trade-and-value",
       "self-organizing-patterns",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "'Unicorn horns' sold for fortunes in medieval Europe were actually just narwhal tusks."
   },
   {
     "id": "unicorns-purity-symbol",
@@ -12013,7 +12031,8 @@
     ],
     "themes": [
       "myth-vs-reality"
-    ]
+    ],
+    "socialHook": "Most countries pick a real animal as their national symbol. Scotland's official national animal has never existed."
   },
   {
     "id": "werewolves-trials-europe",
@@ -12040,7 +12059,8 @@
       "transformation-metamorphosis",
       "myth-vs-reality",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "There's a real, rare psychiatric condition where people sincerely believe they're transforming into an animal."
   },
   {
     "id": "werewolves-medical-theories",
@@ -12068,7 +12088,8 @@
       "stars-and-cosmos",
       "myth-vs-reality",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "Full moons and silver bullets weren't part of old werewolf folklore at all — they were mostly invented by 20th-century Hollywood movies."
   },
   {
     "id": "yeti-himalayan-snowline",
@@ -12095,7 +12116,8 @@
     "themes": [
       "human-body-quirks",
       "exploration-and-navigation"
-    ]
+    ],
+    "socialHook": "Scientists ran DNA tests on revered 'Yeti' relics kept in monasteries for generations — nearly all of them turned out to be bears."
   },
   {
     "id": "norse-mythology-world-tree",
@@ -12122,7 +12144,8 @@
       "parental-care",
       "myth-vs-reality",
       "transformation-metamorphosis"
-    ]
+    ],
+    "socialHook": "In Norse mythology, the trickster god Loki once turned into a mare and literally gave birth to Odin's eight-legged horse."
   },
   {
     "id": "norse-mythology-fragmentary-sources",
@@ -12148,7 +12171,8 @@
     "themes": [
       "war-and-conflict",
       "myth-vs-reality"
-    ]
+    ],
+    "socialHook": "Norse warriors in Valhalla trained every single day for a final battle they were destined, from the very start, to lose."
   },
   {
     "id": "amelia-earhart-final-flight",
