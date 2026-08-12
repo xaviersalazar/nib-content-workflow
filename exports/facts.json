@@ -1846,7 +1846,8 @@
       "camouflage-and-mimicry",
       "human-body-quirks",
       "color-and-light"
-    ]
+    ],
+    "socialHook": "Octopuses are color-blind — and yet they can match the exact colors around them anyway."
   },
   {
     "id": "octopus-mothers-stop-eating",
@@ -1931,7 +1932,8 @@
     ],
     "themes": [
       "hidden-underground"
-    ]
+    ],
+    "socialHook": "Dolphins can basically hear the shape of things — precise enough to tell different fish apart without ever seeing them."
   },
   {
     "id": "dolphins-mud-rings",
@@ -2016,7 +2018,8 @@
     "themes": [
       "human-body-quirks",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "A giraffe's six-foot neck has the exact same number of bones as yours."
   },
   {
     "id": "giraffes-spread-legs-drink",
@@ -2044,7 +2047,8 @@
     "themes": [
       "plants-and-botany",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "For all their height, giraffes can't actually reach the ground to drink water standing normally."
   },
   {
     "id": "tigers-largest-cat",
@@ -2071,7 +2075,8 @@
     "themes": [
       "camouflage-and-mimicry",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "Shave a tiger, and its stripes are still there — printed into the skin, not just the fur."
   },
   {
     "id": "tigers-eighty-pound-meal",
@@ -2098,7 +2103,8 @@
     "themes": [
       "food-and-cuisine",
       "energy-and-power"
-    ]
+    ],
+    "socialHook": "A tiger can eat 80 pounds of meat in a single sitting — then not eat again for days."
   },
   {
     "id": "cheetahs-built-for-speed",
@@ -2127,7 +2133,8 @@
       "record-extremes",
       "flight-and-aviation",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "The fastest land animal spends more than half of every stride completely off the ground."
   },
   {
     "id": "cheetahs-cannot-roar",
@@ -2154,7 +2161,8 @@
     "themes": [
       "music-and-sound",
       "record-extremes"
-    ]
+    ],
+    "socialHook": "One of the most powerful big cats on Earth can't actually roar."
   },
   {
     "id": "sloths-algae-camouflage",
@@ -2182,7 +2190,8 @@
     "themes": [
       "camouflage-and-mimicry",
       "plants-and-botany"
-    ]
+    ],
+    "socialHook": "A sloth's camouflage isn't a fur pattern — it's actual living algae growing in its coat."
   },
   {
     "id": "sloths-bathroom-weekly",
@@ -2212,7 +2221,8 @@
       "psychology-and-behavior",
       "energy-and-power",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "One animal only uses the bathroom about once a week — and that single trip is the most dangerous moment of its life."
   },
   {
     "id": "platypus-venomous-males",
@@ -2237,7 +2247,8 @@
       "penguins-fathers-incubate",
       "mantis-shrimp-bullet-fast-punch"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "One of the world's strangest mammals has a second surprise: the males are venomous."
   },
   {
     "id": "platypus-chews-with-gravel",
@@ -2265,7 +2276,8 @@
     "themes": [
       "food-and-cuisine",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "A platypus has no teeth, so it chews its food with swallowed gravel instead."
   },
   {
     "id": "axolotls-regrow-leg",
@@ -2293,7 +2305,8 @@
     "themes": [
       "lost-and-rediscovered",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "One animal can regrow an entire missing leg in about a month."
   },
   {
     "id": "chameleons-two-way-eyes",
@@ -2321,7 +2334,8 @@
     "themes": [
       "plants-and-botany",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "A chameleon's two eyes can look in two completely different directions at the exact same time."
   },
   {
     "id": "ravens-solve-problems-together",
@@ -2352,7 +2366,8 @@
       "animal-intelligence",
       "psychology-and-behavior",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Some birds follow humans through the wild on purpose — hoping you'll lead them straight to something worth stealing."
   },
   {
     "id": "mantis-shrimp-bullet-fast-punch",
@@ -2381,7 +2396,8 @@
       "record-extremes",
       "energy-and-power",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "One sea creature can throw a punch about 50 times faster than you can blink."
   },
   {
     "id": "mantis-shrimp-bubble-shockwave",
@@ -2410,7 +2426,8 @@
       "energy-and-power",
       "disaster-and-catastrophe",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "A mantis shrimp's punch is so fast it hits its target twice — once with the claw, once with a bubble shockwave."
   },
   {
     "id": "coral-reefs-largest-biological-structures",
