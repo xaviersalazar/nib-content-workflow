@@ -22982,7 +22982,8 @@
       "camouflage-and-mimicry",
       "plants-and-botany",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "One material construction crews still use for skyscraper scaffolding isn't wood or metal — it's grass."
   },
   {
     "id": "bamboo-fast-growth",
@@ -23009,7 +23010,8 @@
     "themes": [
       "record-extremes",
       "plants-and-botany"
-    ]
+    ],
+    "socialHook": "Some bamboo grows so fast you can practically watch it climb — more than an inch every hour."
   },
   {
     "id": "bamboo-rare-flowering",
@@ -23035,7 +23037,8 @@
     "themes": [
       "plants-and-botany",
       "timekeeping"
-    ]
+    ],
+    "socialHook": "One plant can flower in the exact same year worldwide, even clones planted on opposite sides of the globe — then all die at once."
   },
   {
     "id": "baobab-water-trunk",
@@ -23061,7 +23064,8 @@
     "themes": [
       "plants-and-botany",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "Some trees grow trunks so massive and hollow that people have turned them into pubs, jails, and bus stops."
   },
   {
     "id": "baobab-nine-species",
@@ -23089,7 +23093,8 @@
       "record-extremes",
       "plants-and-botany",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "Some of Africa's oldest trees survived over 2,000 years — then several of them abruptly died within just a few years."
   },
   {
     "id": "cacti-living-fences",
@@ -23112,7 +23117,8 @@
       "bonsai-bicentennial-gift",
       "bonsai-living-sculptures"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "One cactus grows so slowly it can take 75 years to grow a single arm — and one killed a man who shot it for fun."
   },
   {
     "id": "poison-ivy-urushiol",
@@ -23139,7 +23145,8 @@
       "materials-and-chemistry",
       "plants-and-botany",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "An amount of poison ivy oil that could fit on the head of a pin is enough to rash hundreds of people."
   },
   {
     "id": "poison-ivy-three-leaflets",
@@ -23167,7 +23174,8 @@
       "human-body-quirks",
       "materials-and-chemistry",
       "plants-and-botany"
-    ]
+    ],
+    "socialHook": "There's one thing you should never do with poison ivy — and it can land you in the hospital."
   },
   {
     "id": "venus-flytrap-carolina-native",
@@ -23192,7 +23200,8 @@
     ],
     "themes": [
       "plants-and-botany"
-    ]
+    ],
+    "socialHook": "Every wild Venus flytrap on Earth grows naturally in one tiny 75-mile patch of North Carolina, and nowhere else."
   },
   {
     "id": "venus-flytrap-nitrogen",
@@ -23219,7 +23228,8 @@
       "energy-and-power",
       "plants-and-botany",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "A Venus flytrap doesn't actually eat bugs for food — it survives on sunlight like any other plant."
   },
   {
     "id": "venus-flytrap-snap-trap",
@@ -23246,7 +23256,8 @@
       "plants-and-botany",
       "energy-and-power",
       "animal-intelligence"
-    ]
+    ],
+    "socialHook": "A Venus flytrap can actually count — and it won't snap shut until it's been touched twice."
   },
   {
     "id": "cherry-blossoms-1912-gift",
@@ -23274,7 +23285,8 @@
       "collective-behavior",
       "medicine-and-cures",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Washington's famous cherry trees almost never existed — the first shipment had to be burned."
   },
   {
     "id": "giant-sequoias-largest-trees",
@@ -23302,7 +23314,8 @@
       "plants-and-botany",
       "gravity-and-orbits",
       "counterintuitive-scale"
-    ]
+    ],
+    "socialHook": "The largest living thing on Earth started out as a seed roughly the size of a single oat flake."
   },
   {
     "id": "giant-sequoias-fire-bark",
@@ -23328,7 +23341,8 @@
     ],
     "themes": [
       "plants-and-botany"
-    ]
+    ],
+    "socialHook": "For decades, people tried to protect these giant trees by stopping every fire. It turned out that was quietly killing them."
   },
   {
     "id": "giant-sequoias-tiny-seeds",
@@ -23354,7 +23368,8 @@
     "themes": [
       "hidden-underground",
       "plants-and-botany"
-    ]
+    ],
+    "socialHook": "People once drove cars straight through a hole cut into a living, thousands-of-years-old tree."
   },
   {
     "id": "corpse-flower-one-evening-stink",
@@ -23379,7 +23394,8 @@
     ],
     "themes": [
       "plants-and-botany"
-    ]
+    ],
+    "socialHook": "One flower actively heats itself up to nearly human body temperature — just to spread its stench of rotting flesh farther."
   },
   {
     "id": "mangroves-salt-filter",
@@ -23406,7 +23422,8 @@
       "plants-and-botany",
       "parental-care",
       "gravity-and-orbits"
-    ]
+    ],
+    "socialHook": "Some trees don't just drop seeds — their seedlings grow fully formed, then spear straight down into the mud like javelins."
   },
   {
     "id": "mangroves-snorkel-roots",
@@ -23434,7 +23451,8 @@
       "plants-and-botany",
       "self-sacrifice",
       "gravity-and-orbits"
-    ]
+    ],
+    "socialHook": "Some trees grow roots shaped like snorkels, poking straight up out of the mud just to breathe."
   },
   {
     "id": "mangroves-storm-barriers",
@@ -23462,7 +23480,8 @@
       "energy-and-power",
       "plants-and-botany",
       "disaster-and-catastrophe"
-    ]
+    ],
+    "socialHook": "A wall of trees along the coast measurably blunted the force of one of the deadliest tsunamis on record."
   },
   {
     "id": "bonsai-living-sculptures",
@@ -23490,7 +23509,8 @@
       "myth-vs-reality",
       "hidden-underground",
       "architecture-and-structures"
-    ]
+    ],
+    "socialHook": "A bonsai isn't a special miniature species — it's an ordinary tree that would grow massive if you just stopped pruning it."
   },
   {
     "id": "bonsai-bicentennial-gift",
@@ -23516,7 +23536,8 @@
     ],
     "themes": [
       "plants-and-botany"
-    ]
+    ],
+    "socialHook": "One 400-year-old tree quietly survived the Hiroshima bombing from two miles away — and nobody outside its family knew for 25 years."
   },
   {
     "id": "ants-social-colonies",
@@ -25829,7 +25850,8 @@
       "plants-and-botany",
       "hidden-underground",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "One tree's strange umbrella shape exists to pull water out of thin air and pour it into the desert soil below."
   },
   {
     "id": "dragons-blood-tree-umbrella-species",
@@ -25858,7 +25880,8 @@
       "plants-and-botany",
       "human-body-quirks",
       "survival-adaptation"
-    ]
+    ],
+    "socialHook": "More than half of one island's native reptile species depend on a single, alien-looking kind of tree to survive."
   },
   {
     "id": "herculaneum-scrolls-ai-unwrapped",
@@ -26259,7 +26282,8 @@
       "origins-and-naming",
       "plants-and-botany",
       "medicine-and-cures"
-    ]
+    ],
+    "socialHook": "Cut into this tree's bark, and it bleeds dark red — and there's an old island legend that explains exactly why."
   },
   {
     "id": "socotra-mistaken-for-atlantis",
