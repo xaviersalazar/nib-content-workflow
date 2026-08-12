@@ -17528,7 +17528,8 @@
     "themes": [
       "war-and-conflict",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "Blackbeard deliberately set his own beard on fire before battle, just to look like a demon and scare enemies into surrendering."
   },
   {
     "id": "blackbeard-treasure-myth",
@@ -17555,7 +17556,8 @@
       "hidden-underground",
       "war-and-conflict",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "The most feared pirate in history was only actually active for about two years — and there's little evidence he ever killed anyone."
   },
   {
     "id": "buccaneers-targeted-spain",
@@ -17581,7 +17583,8 @@
     "themes": [
       "collective-behavior",
       "symbiosis-and-cooperation"
-    ]
+    ],
+    "socialHook": "One pirate raided Spanish cities so successfully that England later knighted him and made him a colony's governor."
   },
   {
     "id": "captain-kidd-privateer",
@@ -17607,7 +17610,8 @@
     "themes": [
       "exploration-and-navigation",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "One man was officially hired by the government to hunt down pirates — then got condemned as a pirate himself when his sponsors abandoned him."
   },
   {
     "id": "captain-kidd-quedagh-merchant",
@@ -17635,7 +17639,8 @@
       "parental-care",
       "hidden-underground",
       "myth-vs-reality"
-    ]
+    ],
+    "socialHook": "Real pirates almost never actually buried treasure — except for the one famous case that helped invent the entire legend."
   },
   {
     "id": "privateers-legal-raiders",
@@ -17663,7 +17668,8 @@
       "energy-and-power",
       "lost-and-rediscovered",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "The US Constitution still technically gives Congress the power to legally license someone to rob ships at sea."
   },
   {
     "id": "privateers-profit-motive",
@@ -17686,7 +17692,8 @@
       "treasure-maps-navigation-intelligence",
       "treasure-maps-saved-life"
     ],
-    "themes": []
+    "themes": [],
+    "socialHook": "One sailor was branded a wanted pirate with a bounty on his head by Spain — and knighted as a national hero by England, for the exact same raids."
   },
   {
     "id": "treasure-maps-saved-life",
@@ -17713,7 +17720,8 @@
       "exploration-and-navigation",
       "disaster-and-catastrophe",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "Despite centuries of treasure hunting, only one pirate ship loaded with real plunder has ever been fully authenticated."
   },
   {
     "id": "treasure-maps-navigation-intelligence",
@@ -17740,7 +17748,8 @@
       "storytelling-and-narrative",
       "hidden-underground",
       "invention-and-breakthrough"
-    ]
+    ],
+    "socialHook": "Almost everything you picture about pirates — the X-marked map, the peg leg, the parrot on the shoulder — comes from a single Victorian novel, not real history."
   },
   {
     "id": "female-pirates-bonny-read",
@@ -17767,7 +17776,8 @@
       "record-extremes",
       "money-trade-and-value",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "The most powerful pirate in history wasn't in the Caribbean at all — she commanded a fleet of tens of thousands off the coast of China."
   },
   {
     "id": "pirate-havens-nassau",
@@ -17792,7 +17802,8 @@
     ],
     "themes": [
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "For about a dozen years, one entire city was effectively run by pirates instead of any real government."
   },
   {
     "id": "pirate-havens-safe-base",
@@ -17819,7 +17830,8 @@
       "disaster-and-catastrophe",
       "money-trade-and-value",
       "deep-sea-and-abyss"
-    ]
+    ],
+    "socialHook": "One city so notorious it was nicknamed 'the wickedest city on Earth' sank into the sea during a massive earthquake."
   },
   {
     "id": "battlements-dropped-objects",
