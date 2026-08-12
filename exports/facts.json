@@ -3936,7 +3936,8 @@
     ],
     "themes": [
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Archaeologists have found honey sealed in Egyptian tombs over 3,000 years ago that's still perfectly edible."
   },
   {
     "id": "bread-used-as-plates",
@@ -3962,7 +3963,8 @@
     ],
     "themes": [
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "In medieval Europe, people used thick slices of stale bread as actual plates — and then ate the plate."
   },
   {
     "id": "salt-only-rock-we-eat",
@@ -3988,7 +3990,8 @@
     ],
     "themes": [
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Salt is the only rock that humans regularly eat on purpose."
   },
   {
     "id": "pasta-vermicelli-little-worms",
@@ -4018,7 +4021,8 @@
       "record-extremes",
       "origins-and-naming",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "One of the oldest pasta names literally translates to 'little worms.'"
   },
   {
     "id": "popcorn-thousands-years-old",
@@ -4046,7 +4050,8 @@
       "luck-ritual-superstition",
       "storytelling-and-narrative",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Long before movie theaters, popcorn was worn as jewelry in people's hair."
   },
   {
     "id": "potatoes-poisonous-berries",
@@ -4075,7 +4080,8 @@
       "plants-and-botany",
       "food-and-cuisine",
       "hidden-underground"
-    ]
+    ],
+    "socialHook": "The exact same plant that grows potatoes also produces small berries that are actually poisonous."
   },
   {
     "id": "caffeine-naturally-bitter",
@@ -4105,7 +4111,8 @@
       "materials-and-chemistry",
       "coffee-and-tea",
       "war-and-conflict"
-    ]
+    ],
+    "socialHook": "Coffee plants don't make caffeine to wake you up. They evolved it as a poison to kill insects."
   },
   {
     "id": "coffee-plant-arabica-delicate",
@@ -4133,7 +4140,8 @@
       "coffee-and-tea",
       "money-trade-and-value",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "One of the most expensive coffees in the world is made from beans that have already passed through an animal's digestive system."
   },
   {
     "id": "espresso-crema-traps-aroma",
@@ -4162,7 +4170,8 @@
       "coffee-and-tea",
       "materials-and-chemistry",
       "myth-vs-reality"
-    ]
+    ],
+    "socialHook": "A single shot of espresso usually has less caffeine in it than a regular mug of drip coffee."
   },
   {
     "id": "coffee-roasting-dark-not-more-caffeine",
@@ -4192,7 +4201,8 @@
       "materials-and-chemistry",
       "myth-vs-reality",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "The bold, smoky taste of a dark roast doesn't actually mean more caffeine. Light roasts usually have slightly more."
   },
   {
     "id": "decaf-caffeine-reused",
@@ -4222,7 +4232,8 @@
       "materials-and-chemistry",
       "medicine-and-cures",
       "self-organizing-patterns"
-    ]
+    ],
+    "socialHook": "The caffeine stripped out to make decaf doesn't just disappear — it often gets sold and ends up in soda or headache pills."
   },
   {
     "id": "latte-popular-espresso-drink",
@@ -4249,7 +4260,8 @@
     "themes": [
       "coffee-and-tea",
       "food-and-cuisine"
-    ]
+    ],
+    "socialHook": "Order a 'latte' in Italy, and you might just get handed a plain glass of milk."
   },
   {
     "id": "turkish-coffee-salty-groom",
@@ -4279,7 +4291,8 @@
       "luck-ritual-superstition",
       "food-and-cuisine",
       "coffee-and-tea"
-    ]
+    ],
+    "socialHook": "In one wedding tradition, a bride can secretly put salt instead of sugar in the groom's coffee — as a test."
   },
   {
     "id": "internet-arpanet-first-connection",
@@ -4767,7 +4780,8 @@
       "money-trade-and-value",
       "internet-and-virality",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "One cryptocurrency started as a total joke built around a dog meme — and at its peak was worth tens of billions of dollars."
   },
   {
     "id": "internet-communities-closed-systems",
@@ -4795,7 +4809,8 @@
     "themes": [
       "internet-and-virality",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "There's an actual internet 'law,' coined back in 1990, that predicts every long enough online argument will eventually invoke Hitler."
   },
   {
     "id": "viral-challenges-three-types",
@@ -4823,7 +4838,8 @@
       "internet-and-virality",
       "money-trade-and-value",
       "human-body-quirks"
-    ]
+    ],
+    "socialHook": "One silly viral ice-water challenge raised over $100 million and directly helped scientists identify a gene tied to a real disease."
   },
   {
     "id": "livestreaming-real-time-online",
@@ -4852,7 +4868,8 @@
       "collective-behavior",
       "games-and-play",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "In 2014, tens of thousands of strangers fought for control of a single video game character at the same time — and somehow, after 16 days of total chaos, they actually won."
   },
   {
     "id": "pac-man-food-gameplay",
