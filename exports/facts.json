@@ -8215,7 +8215,8 @@
       "numbers-and-mathematics",
       "stars-and-cosmos",
       "materials-and-chemistry"
-    ]
+    ],
+    "socialHook": "Pi runs on forever — but you only need about 40 of its digits to measure the entire observable universe accurate to the width of a single atom."
   },
   {
     "id": "pi-ancient-approximations",
@@ -8240,7 +8241,8 @@
     ],
     "themes": [
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "In 1897, one US state legislature actually voted, unanimously, to nearly redefine pi as exactly 3.2."
   },
   {
     "id": "prime-numbers-building-blocks",
@@ -8268,7 +8270,8 @@
       "numbers-and-mathematics",
       "hidden-underground",
       "accidental-discovery"
-    ]
+    ],
+    "socialHook": "Some cicadas survive by timing their life cycles to prime numbers of years — on purpose."
   },
   {
     "id": "prime-numbers-cryptography",
@@ -8297,7 +8300,8 @@
       "record-extremes",
       "codes-and-cryptography",
       "storytelling-and-narrative"
-    ]
+    ],
+    "socialHook": "The largest known prime number has over 41 million digits — printing it out would fill thousands of books."
   },
   {
     "id": "probability-gambling-origin",
@@ -8322,7 +8326,8 @@
     ],
     "themes": [
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "In a room of just 23 people, there's already better-than-even odds that two of them share a birthday."
   },
   {
     "id": "probability-unfinished-bet",
@@ -8349,7 +8354,8 @@
       "games-and-play",
       "numbers-and-mathematics",
       "deception-and-hoax"
-    ]
+    ],
+    "socialHook": "On one famous game show puzzle, switching your choice actually doubles your odds of winning — and it stumped professional mathematicians."
   },
   {
     "id": "probability-logic-uncertainty",
@@ -8377,7 +8383,8 @@
       "collective-behavior",
       "lost-and-rediscovered",
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "In 1913, one roulette wheel landed on black 26 spins in a row — and it bankrupted gamblers who were certain red was 'due.'"
   },
   {
     "id": "geometry-earth-measurement",
@@ -8405,7 +8412,8 @@
       "record-extremes",
       "animal-intelligence",
       "music-and-sound"
-    ]
+    ],
+    "socialHook": "Around 240 BCE, one man calculated the size of the entire Earth using nothing but a stick, a shadow, and geometry."
   },
   {
     "id": "calculus-motion-and-geometry",
@@ -8432,7 +8440,8 @@
       "invention-and-breakthrough",
       "war-and-conflict",
       "motion-and-force"
-    ]
+    ],
+    "socialHook": "Two men each invented calculus completely independently — then spent years locked in a bitter, decades-long feud over who did it first."
   },
   {
     "id": "chaos-theory-rules-unpredictable",
@@ -8457,7 +8466,8 @@
     ],
     "themes": [
       "psychology-and-behavior"
-    ]
+    ],
+    "socialHook": "One simple device obeys exact, predictable physics — and still never swings the exact same way twice."
   },
   {
     "id": "chaos-theory-butterfly-effect",
@@ -8485,7 +8495,8 @@
       "accidental-discovery",
       "numbers-and-mathematics",
       "computing-and-web"
-    ]
+    ],
+    "socialHook": "The 'butterfly effect' was discovered completely by accident — from a scientist rounding one number slightly differently in a weather simulation."
   },
   {
     "id": "game-theory-not-winning-alone",
@@ -8511,7 +8522,8 @@
     "themes": [
       "games-and-play",
       "symbiosis-and-cooperation"
-    ]
+    ],
+    "socialHook": "In a famous tournament full of ruthless, complicated strategies, the simplest one of all — basically 'be nice first' — beat every single rival."
   },
   {
     "id": "topology-rubber-sheet-geometry",
@@ -8536,7 +8548,8 @@
     ],
     "themes": [
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "Give a strip of paper a single twist before taping the ends together, and it becomes a shape with only one side."
   },
   {
     "id": "topology-loops-cannot-shrink",
@@ -8562,7 +8575,8 @@
     "themes": [
       "stars-and-cosmos",
       "numbers-and-mathematics"
-    ]
+    ],
+    "socialHook": "One mathematical theorem proves there's always at least one spot on Earth, at any given moment, with zero wind."
   },
   {
     "id": "advertising-persuades-public",
