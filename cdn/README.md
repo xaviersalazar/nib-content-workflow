@@ -74,6 +74,24 @@ The base URL is set locally in `Nib/Resources/Secrets.xcconfig` (gitignored) as
    at not-yet-uploaded
    files.
 
+### Automated publish (preferred)
+
+`pnpm publish:cdn` does steps 2–3 for you. It needs `R2_ACCOUNT_ID`, `R2_BUCKET`,
+`R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY` in the gitignored `.env`.
+
+```bash
+pnpm publish:cdn                       # DRY RUN: all checks + plan, uploads nothing
+pnpm publish:cdn --yes                 # publish for real
+pnpm publish:cdn --rollback-to 21 --yes   # re-publish archived v21 content as live+1
+```
+
+It picks `live + 1` itself (never a typed number), refuses on dangling refs, an age-rating
+BLOCK, or a >20% fact shrink (`--allow-shrink`), prints a NEW/reveal report (so you can see
+whether a drop will be "silent"), archives the live files to `archive/v<N>/` in the bucket,
+uploads content files then the manifest last, and verifies the live URL's checksums. Each
+publish is appended to `publish-log.jsonl`. Rollbacks are a new higher version carrying old
+content, because `contentVersion` can never go down.
+
 ## Version rules (the "version floor")
 
 - `contentVersion` must **increase** on every publish.

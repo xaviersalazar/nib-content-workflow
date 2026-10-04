@@ -5,17 +5,18 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-     "scrape:source": "tsx scripts/scrape-source.ts",
-     "scrape:next": "tsx scripts/scrape-next.ts",
-     "scrape:next-two": "tsx scripts/scrape-next-two.ts",
-     "scrape:batch": "tsx scripts/scrape-batch.ts",
-     "scrape:category": "tsx scripts/scrape-category.ts",
-     "normalize:tags": "tsx scripts/normalize-tags.ts",
-     "assign:themes": "tsx scripts/assign-themes.ts",
-     "generate:related": "tsx scripts/generate-related-fact-ids.ts",
-     "check:age-rating": "tsx scripts/check-age-rating.ts",
-     "export:facts": "tsx scripts/export-facts.ts",
-  "export:sources": "tsx scripts/export-sources.ts"
+    "scrape:source": "tsx scripts/scrape-source.ts",
+    "scrape:next": "tsx scripts/scrape-next.ts",
+    "scrape:next-two": "tsx scripts/scrape-next-two.ts",
+    "scrape:batch": "tsx scripts/scrape-batch.ts",
+    "scrape:category": "tsx scripts/scrape-category.ts",
+    "normalize:tags": "tsx scripts/normalize-tags.ts",
+    "assign:themes": "tsx scripts/assign-themes.ts",
+    "generate:related": "tsx scripts/generate-related-fact-ids.ts",
+    "check:age-rating": "tsx scripts/check-age-rating.ts",
+    "export:facts": "tsx scripts/export-facts.ts",
+    "export:sources": "tsx scripts/export-sources.ts",
+    "publish:cdn": "tsx scripts/publish-cdn.ts"
   },
   "keywords": [],
   "author": "",
@@ -27,6 +28,7 @@
     "slugify": "^1.6.9"
   },
   "devDependencies": {
+    "@aws-sdk/client-s3": "^3.1146.0",
     "@types/node": "^25.9.2",
     "tsx": "^4.22.4",
     "typescript": "^6.0.3"
