@@ -332,7 +332,7 @@ access to. **Treat that as live inventory, not a one-time bonus:**
 | Month | Collection 1 (15th) | Collection 2 (15th) |
 | --- | --- | --- |
 | **Aug '26** | ✅ **"Written in the Stars"** — Meteor Showers, Comets, Supernovas, Auroras, Cicadas *(Perseid peak, Aug 11–13)* | ✅ **"Too Hot to Handle"** — the Sun, Red Giants, Volcanoes, Lasers, Deserts *(dog days of summer)* |
-| **Sep '26** | **"How Your Brain Learns"** — Learning, Memory, Attention, Habits, Neural Networks *(back-to-school)* | **"Your Lying Eyes"** — Optical Illusions, Motion Illusions, Color Illusions, Mirage, Placebo Effect *(how your brain fools you)* |
+| **Sep '26** | ✅ **"How Your Brain Learns"** — Memory, Attention, Decision Making, Motivation, Machine Learning *(back-to-school)* | ✅ **"Your Lying Eyes"** — Color Illusions, Motion Illusions, Mirage, The Dress, Placebo Effect *(how your brain fools you)* |
 | **Oct '26** | **"Spooky Science"** — Bats, Spiders, Black Cats, Friday the 13th, Catacombs of Paris *(Halloween)* | **"Glow in the Dark"** — Bioluminescence, Fireflies, Anglerfish, Jellyfish, Cicadas *(eerie natural glow)* |
 | **Nov '26** | **"Around the Table"** — Chocolate, Honey, Salt, Spices, Coffee *(Thanksgiving feast)* | **"Food Coma"** — Hibernation, Dreams, Yawning, Naps, Melatonin *(post-feast drowsiness)* |
 | **Dec '26** | **"Festive & Frozen"** — Snow, Auroras, Hibernation, Glaciers, Crystals *(winter solstice, Dec 21)* | **"The Science of Sparkle"** — Gold, Crystals, Supernovas, Red Giants, Diamonds *(holiday shimmer)* |
@@ -355,6 +355,24 @@ are mission-drama/ecology, not night-sky phenomena) and draws entirely from the 
 planned. **Live on the CDN (2026-07-30)** — `contentVersion` 16→17, verified against
 `cdn.nibapp.net/v1/manifest.json` directly (checksum + fetched `collections.json` both confirmed).
 Held invisible by the reveal gate until Aug 15.
+
+**Sep '26 built (2026-09-16, shipped 1 day late)** — the planned member lists above were aspirational;
+several named topics (Learning, Habits, Neural Networks) no longer exist as literal topics after the
+2026-08/09 trim passes, so final picks were chosen fresh from what's actually in the 916-fact database
+(post social-hook re-audit, see `docs/session-handoff.md`). "How Your Brain Learns" ended up Memory
+(`memory-fading-helps-time`), Attention (`attention-cannot-focus-everything`), Decision Making
+(`decision-making-environment-shapes`), Motivation (`motivation-money-association`), and a Machine
+Learning tie-in (`machine-learning-pattern-learning`) for the back-to-school angle. "Your Lying Eyes"
+ended up Color Illusions (`color-illusions-rgb-white`), Motion Illusions
+(`motion-illusions-peripheral-drift`), Mirage (`mirage-fake-water`), The Dress
+(`the-dress-split-perception`), Placebo Effect (`placebo-effect-clinical-trials`) — checked against the
+pre-existing "Tricks of the Eye" collection (forced-perspective/blue/depth-perception/pareidolia/motion
+snakes) for factId overlap: none, distinct icon used (`eye.trianglebadge.exclamationmark` vs `eye`).
+All 10 facts were STRONG-tier in the same-day social-hook audit. **Shipped silently (2026-10-04
+decision):** the `addedAt` stamp was REMOVED from both, so they never trigger a NEW pill, Today card or tab dot
+(nil `addedAt` = visible but never "new"). Synced to `Nib/Nib/Data/collections.json`; CDN v22 staged (not yet
+published — bundled with the same session's 50-fact social-hook removal). The Sep 1 Forensics category and the
+Oct 1 category were dropped (their sourcing/scrapes were discarded) pending the age-preference + legends refactor.
 
 **Tally:** 12 new categories + **24 Collections** (two a month) + **6 new Series**
 (Titanic, Bermuda Triangle, Voyager Program, Nellie Bly, Chernobyl, Area 51 — one

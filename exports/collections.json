@@ -106,10 +106,8 @@
     "factIds": [
       "sharks-older-than-dinosaurs",
       "ancient-temples-sacred-design",
-      "dollar-sign-adopted-1785",
       "hot-air-balloons-hot-air-lighter",
-      "oort-cloud-comets-before-humans",
-      "epic-poems-heroic-scale"
+      "oort-cloud-comets-before-humans"
     ]
   },
   {
@@ -186,7 +184,6 @@
     "factIds": [
       "pyramids-sloping-sides",
       "concrete-steel-reinforcement",
-      "keys-ancient-pin-tumbler",
       "woolly-mammoths-late-islands",
       "domes-arch-turned-space"
     ]
@@ -223,7 +220,6 @@
     "icon": "arrow.triangle.2.circlepath",
     "factIds": [
       "butterflies-complete-metamorphosis",
-      "states-of-matter-plasma-fourth",
       "salar-de-uyuni-largest-salt-flat",
       "agriculture-settled-societies",
       "atoms-atomic-number-identity",
@@ -239,7 +235,8 @@
       "gut-microbiome-unique-network",
       "jellyfish-hitchhiking-crabs",
       "ants-chemical-communication",
-      "game-theory-not-winning-alone"
+      "falconers-master-apprentice",
+      "ants-queen-role"
     ]
   },
   {
@@ -250,7 +247,6 @@
     "factIds": [
       "loch-ness-home",
       "crop-circles-field-art",
-      "documentaries-shape-facts",
       "babylonians-hanging-gardens",
       "foley-artists-junk-stages",
       "steganography-digital-files"
@@ -264,7 +260,9 @@
     "factIds": [
       "calendars-not-one-system",
       "time-hard-to-define",
-      "timekeeping-mechanical-clocks"
+      "lucid-dreaming-common",
+      "circadian-rhythm-24-hour",
+      "calendars-track-cycles"
     ]
   },
   {
@@ -275,8 +273,6 @@
     "factIds": [
       "internet-arpanet-first-connection",
       "barcode-upc-adoption",
-      "novels-long-prose-worlds",
-      "coins-ancient-origins",
       "air-conditioning-printing-plant",
       "batteries-portable-power"
     ]
@@ -400,5 +396,31 @@
       "deserts-defined-by-dryness"
     ],
     "addedAt": "2026-08-15T09:00:00Z"
+  },
+  {
+    "id": "how-your-brain-learns",
+    "title": "How Your Brain Learns",
+    "subtitle": "Memory, attention, and motivation rarely work the way you'd guess.",
+    "icon": "brain.head.profile",
+    "factIds": [
+      "memory-fading-helps-time",
+      "attention-cannot-focus-everything",
+      "decision-making-environment-shapes",
+      "motivation-money-association",
+      "machine-learning-pattern-learning"
+    ]
+  },
+  {
+    "id": "your-lying-eyes",
+    "title": "Your Lying Eyes",
+    "subtitle": "Your senses make things up more often than you'd like to admit.",
+    "icon": "eye.trianglebadge.exclamationmark",
+    "factIds": [
+      "color-illusions-rgb-white",
+      "motion-illusions-peripheral-drift",
+      "mirage-fake-water",
+      "the-dress-split-perception",
+      "placebo-effect-clinical-trials"
+    ]
   }
 ]

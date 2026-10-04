@@ -1,11 +1,11 @@
 {
-  "contentVersion": 21,
+  "contentVersion": 22,
   "schemaVersion": 1,
   "files": [
     {
       "name": "facts",
       "url": "facts.json",
-      "sha256": "384d0dec27c64afbc661c83a35adf5edb4979cc6f0591018142de6184ef30092"
+      "sha256": "85c8102614468f94ffb2cc4b2fb150478ba0252f4b050c15781b842452b16b63"
     },
     {
       "name": "categories",
@@ -15,17 +15,17 @@
     {
       "name": "collections",
       "url": "collections.json",
-      "sha256": "07975b6ee4a25395042795600481d7855cd69e2d899e0f96ede7a93caba5d2d0"
+      "sha256": "7b2d0b330d7c6195c01a3c786c8aaee23d9cc4bb0147515a54fadf64bb717a3b"
     },
     {
       "name": "sources",
       "url": "sources.json",
-      "sha256": "396df53b32d3a613e6d4d901a2b0ba1f881f76a049b24cbd7ea1a9d659503357"
+      "sha256": "3ff43963c898f1d8940c67a069dd0e2a6f9ca9f1fbc9eb2dde4b7c5f08815d56"
     },
     {
       "name": "series",
       "url": "series.json",
-      "sha256": "58352b0f75d7ab3a8b4591ba32517161889a615c727587ae446f012e02ff35f6"
+      "sha256": "bc97c97d536545d1738b027a0ac0ad0097d77c514130de53cd6b1dc101f63f08"
     }
   ]
 }

@@ -60,10 +60,6 @@
       "institution": "NASA",
       "url": "https://science.nasa.gov/solar-system/meteors-meteorites/facts/"
     },
-    "Voyager Program": {
-      "institution": "NASA",
-      "url": "https://science.nasa.gov/mission/voyager/fast-facts/"
-    },
     "Moons": {
       "institution": "NASA",
       "url": "https://science.nasa.gov/moons/"
@@ -102,10 +98,6 @@
       "institution": "NASA",
       "url": "https://science.nasa.gov/mission/webb/"
     },
-    "Quasars": {
-      "institution": "NASA",
-      "url": "https://imagine.gsfc.nasa.gov/science/objects/active_galaxies1.html"
-    },
     "Pulsars": {
       "institution": "NASA",
       "url": "https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html"
@@ -124,10 +116,6 @@
     }
   },
   "history": {
-    "Ancient Greece": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/place/ancient-Greece"
-    },
     "American Revolution": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/event/American-Revolution"
@@ -169,10 +157,6 @@
     "Babylonians": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/place/Babylonia"
-    },
-    "Indus Valley Civilization": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/Indus-civilization"
     },
     "Carthage": {
       "institution": "Britannica",
@@ -330,14 +314,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/science/memory-psychology"
     },
-    "Habits": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/habit-behavior"
-    },
-    "Happiness": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/happiness"
-    },
     "Attention": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/science/attention"
@@ -428,10 +404,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/Internet"
     },
-    "World Wide Web": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/World-Wide-Web"
-    },
     "Wi-Fi": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/Wi-Fi"
@@ -469,10 +441,6 @@
     "Machine Learning": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/machine-learning"
-    },
-    "Robotics": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/robotics"
     },
     "Natural Language Processing": {
       "institution": "Britannica",
@@ -526,10 +494,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/Minecraft-video-game"
     },
-    "PlayStation": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/PlayStation"
-    },
     "Atari": {
       "institution": "Britannica",
       "url": "https://kids.britannica.com/students/article/Atari-Inc/273095"
@@ -564,10 +528,6 @@
     }
   },
   "movies": {
-    "Special Effects": {
-      "institution": "Encyclopedia.com",
-      "url": "https://www.encyclopedia.com/literature-and-arts/performing-arts/film-and-television/special-effects"
-    },
     "Academy Awards": {
       "institution": "Oscars",
       "url": "https://www.oscars.org/oscars"
@@ -579,10 +539,6 @@
     "Film Editing": {
       "institution": "Encyclopedia.com",
       "url": "https://www.encyclopedia.com/arts/encyclopedias-almanacs-transcripts-and-maps/editing-film"
-    },
-    "Documentaries": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/art/documentary-film"
     },
     "Stop-Motion": {
       "institution": "Fathom Entertainment",
@@ -670,14 +626,6 @@
     }
   },
   "engineering": {
-    "Levers": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/science/lever"
-    },
-    "Wheels": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/wheel"
-    },
     "Gears": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/gear"
@@ -685,10 +633,6 @@
     "Concrete": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/concrete-building-material"
-    },
-    "Hydraulics": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/hydraulics"
     },
     "Dams": {
       "institution": "Britannica",
@@ -701,10 +645,6 @@
     "Suspension Bridges": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/suspension-bridge"
-    },
-    "Cranes": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/crane-materials-handling"
     },
     "Elevators": {
       "institution": "Britannica",
@@ -852,10 +792,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/How-Does-a-Laser-Work"
     },
-    "Waves": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/science/wave-physics"
-    },
     "Superconductivity": {
       "institution": "CERN",
       "url": "https://home.cern/science/physics/superconductivity/"
@@ -889,10 +825,6 @@
     "Chemical Reactions": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/science/chemical-reaction"
-    },
-    "States of Matter": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/science/state-of-matter"
     },
     "Acids & Bases": {
       "institution": "Britannica",
@@ -936,14 +868,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/science/prime-number"
     },
-    "Infinity": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/science/infinity-mathematics"
-    },
-    "Fibonacci Sequence": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/science/Fibonacci-number"
-    },
     "Probability": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/science/probability"
@@ -952,10 +876,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/science/geometry"
     },
-    "Fractals": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/science/fractal"
-    },
     "Calculus": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/science/calculus-mathematics"
@@ -963,14 +883,6 @@
     "Chaos Theory": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/science/chaos-theory"
-    },
-    "Logarithms": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/science/logarithm"
-    },
-    "Game Theory": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/science/game-theory"
     },
     "Topology": {
       "institution": "Britannica",
@@ -986,10 +898,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/trademark"
     },
-    "Corporations": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/corporation"
-    },
     "Entrepreneurship": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/entrepreneur-business"
@@ -1001,10 +909,6 @@
     "Supply and Demand": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/supply-and-demand"
-    },
-    "Trade": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/trade-economic-system"
     },
     "Branding": {
       "institution": "Investopedia",
@@ -1060,14 +964,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/inflation-economics"
     },
-    "Interest Rates": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/money/interest-rates"
-    },
-    "Recession": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/recession"
-    },
     "Supply Chains": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/money/what-is-supply-chain-management"
@@ -1075,10 +971,6 @@
     "Taxes": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/taxation"
-    },
-    "Opportunity Cost": {
-      "institution": "Investopedia",
-      "url": "https://www.investopedia.com/terms/o/opportunitycost.asp"
     },
     "Scarcity": {
       "institution": "Investopedia",
@@ -1121,10 +1013,6 @@
     "Myths": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/myth"
-    },
-    "Novels": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/art/novel"
     },
     "Poetry": {
       "institution": "Britannica",
@@ -1206,17 +1094,9 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/temple-building"
     },
-    "Bauhaus": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/Bauhaus"
-    },
     "Bridges": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/bridge-engineering"
-    },
-    "Brutalism": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/art/Brutalism-architecture"
     },
     "Columns": {
       "institution": "Britannica",
@@ -1640,10 +1520,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/Christianity"
     },
-    "Hinduism": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/Hinduism"
-    },
     "Iconography": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/art/iconography"
@@ -1651,10 +1527,6 @@
     "Islam": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/Islam"
-    },
-    "Judaism": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/Judaism"
     },
     "Monasteries": {
       "institution": "Britannica",
@@ -1766,10 +1638,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/biography/William-Kidd"
     },
-    "Jolly Roger": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/topic/Jolly-Roger"
-    },
     "Privateers": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/privateer"
@@ -1777,10 +1645,6 @@
     "Treasure Maps": {
       "institution": "National Geographic",
       "url": "https://www.nationalgeographic.com/culture/article/pirate-maps-all-over-the-map"
-    },
-    "Pirate Codes": {
-      "institution": "New England Pirate Museum",
-      "url": "https://www.piratemuseum.com/edagreem.htm"
     },
     "Female Pirates": {
       "institution": "Royal Museums Greenwich",
@@ -1914,10 +1778,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/technology/umbrella"
     },
-    "Zippers": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/art/zipper"
-    },
     "Toothbrushes": {
       "institution": "Library of Congress",
       "url": "https://www.loc.gov/everyday-mysteries/technology/item/who-invented-the-toothbrush-and-when-was-it-invented/"
@@ -1986,10 +1846,6 @@
       "institution": "History Facts",
       "url": "https://historyfacts.com/arts-culture/article/where-did-the-heart-symbol-come-from/"
     },
-    "Ampersand": {
-      "institution": "Merriam-Webster",
-      "url": "https://www.merriam-webster.com/dictionary/ampersand"
-    },
     "Skull & Crossbones": {
       "institution": "MySafetySign",
       "url": "https://www.mysafetysign.com/poison-symbol-history"
@@ -2001,10 +1857,6 @@
     "Question Mark": {
       "institution": "The Punctuation Guide",
       "url": "https://www.thepunctuationguide.com/question-mark.html"
-    },
-    "Dollar Sign": {
-      "institution": "U.S. Currency Education Program",
-      "url": "https://www.uscurrency.gov/history"
     }
   },
   "colors": {
@@ -2424,10 +2276,6 @@
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/city"
     },
-    "Coins": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/money/coin"
-    },
     "Irrigation": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/hydraulic-civilization"
@@ -2435,10 +2283,6 @@
     "Laws": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/law-code"
-    },
-    "Roads": {
-      "institution": "Britannica",
-      "url": "https://www.britannica.com/technology/Roman-road-system"
     },
     "Sewers": {
       "institution": "Britannica",

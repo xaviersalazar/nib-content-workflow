@@ -316,7 +316,7 @@
       "jupiter-great-red-spot",
       "venus-day-longer-than-year",
       "time-relativity-observer-dependent",
-      "hinduism-karma-samsara-moksha",
+      "black-holes-light-cannot-escape",
       "venus-backwards-rotation"
     ],
     "themes": [
@@ -436,8 +436,7 @@
       "venus-backwards-rotation",
       "venus-day-longer-than-year",
       "seasons-earth-tilt",
-      "jupiter-thousand-earths",
-      "voyager-program-giant-planet-tour"
+      "jupiter-thousand-earths"
     ],
     "themes": [
       "gravity-and-orbits",
@@ -464,11 +463,11 @@
     "featured": false,
     "relatedFactIds": [
       "uranus-sideways-planet",
-      "voyager-program-giant-planet-tour",
       "saturn-titan-lakes",
+      "exoplanets-strange-worlds",
       "heatstroke-fan-useless-above-99",
       "atmosphere-layered",
-      "exoplanets-strange-worlds"
+      "sea-turtles-lay-eggs-on-land"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -647,7 +646,7 @@
       "red-giants-sun-future",
       "quantum-mechanics-measurement-probabilities",
       "apollo13-houston-misquote",
-      "quasars-angle-changes-view"
+      "rainbows-viewer-position"
     ],
     "themes": [
       "energy-and-power",
@@ -743,35 +742,6 @@
       "timekeeping"
     ],
     "socialHook": "Space rock is hitting Earth right now — about 48 tons of it, today alone — and you'll never feel a thing."
-  },
-  {
-    "id": "voyager-program-giant-planet-tour",
-    "headline": "Everything We Know Up Close About Uranus and Neptune Comes From One Flyby, Once, in 1989",
-    "body": "Nearly everything we've seen up close of Uranus and Neptune came from a single spacecraft, decades ago. Voyager 2, launched in 1977, is still the only probe ever to fly past either planet — reaching Neptune in the summer of 1989 and never being followed. Between them, Voyager 1 and 2 toured every giant planet, 48 moons, and their rings and magnetic fields. For the two outermost giants, that one 1989 flyby is still all we have.",
-    "summary": "Voyager 2 is still the only spacecraft ever to reach either ice giant — and nothing has gone back since.",
-    "categoryId": "space",
-    "topic": "Voyager Program",
-    "tags": [
-      "space",
-      "voyager",
-      "uranus",
-      "neptune"
-    ],
-    "readTimeSeconds": 45,
-    "featured": false,
-    "relatedFactIds": [
-      "uranus-coldest-planet",
-      "uranus-sideways-planet",
-      "apollo13-earth-horizon-navigation",
-      "apollo13-explosion-lifeboat",
-      "exoplanets-rogue-planets"
-    ],
-    "themes": [
-      "stars-and-cosmos",
-      "flight-and-aviation",
-      "exploration-and-navigation"
-    ],
-    "socialHook": "One spacecraft flew past two entire planets, once, decades ago — and nothing has gone back since."
   },
   {
     "id": "moon-volcanoes-io",
@@ -879,11 +849,11 @@
     "featured": false,
     "relatedFactIds": [
       "black-holes-spaghettification",
-      "quasars-angle-changes-view",
       "stars-live-trillions-years",
+      "milky-way-no-photo",
       "time-hard-to-define",
-      "hinduism-karma-samsara-moksha",
-      "relativity-redefined-space-time"
+      "lucid-dreaming-common",
+      "jupiter-shortest-day"
     ],
     "themes": [
       "relativity-and-time-warp",
@@ -910,8 +880,8 @@
     "featured": false,
     "relatedFactIds": [
       "black-holes-light-cannot-escape",
-      "quasars-angle-changes-view",
       "milky-way-andromeda-collision",
+      "milky-way-no-photo",
       "gravity-weak-universe-shaping",
       "combustion-oxygen-reaction",
       "motion-acceleration-changing-velocity"
@@ -940,9 +910,9 @@
     "relatedFactIds": [
       "supernovae-outshine-galaxies",
       "red-giants-sun-future",
-      "states-of-matter-plasma-fourth",
       "baobab-nine-species",
-      "pulsars-magnetar-burst-sunlight",
+      "white-dwarfs-sun-earth-size",
+      "pulsars-sugar-cube-mountain",
       "milky-way-no-photo"
     ],
     "themes": [
@@ -968,11 +938,11 @@
     "readTimeSeconds": 60,
     "featured": false,
     "relatedFactIds": [
-      "quasars-angle-changes-view",
       "webb-spf-million",
+      "milky-way-no-photo",
       "vacuum-of-space-swell-not-explode",
       "vacuum-of-space-suffocate-not-freeze",
-      "milky-way-no-photo"
+      "stars-live-trillions-years"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -1002,8 +972,8 @@
       "stars-live-trillions-years",
       "milky-way-andromeda-collision",
       "solar-system-galactic-year",
-      "states-of-matter-plasma-fourth",
-      "pulsars-sugar-cube-mountain"
+      "pulsars-sugar-cube-mountain",
+      "white-dwarfs-sun-earth-size"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -1060,6 +1030,7 @@
       "stars-live-trillions-years",
       "pulsars-sugar-cube-mountain",
       "solar-system-galactic-year",
+      "red-giants-sun-future",
       "supernovae-create-elements"
     ],
     "themes": [
@@ -1113,11 +1084,11 @@
     "readTimeSeconds": 35,
     "featured": false,
     "relatedFactIds": [
-      "quasars-angle-changes-view",
       "nebulae-eyeball",
       "milky-way-no-photo",
       "red-giants-sun-future",
-      "pulsars-magnetar-burst-sunlight"
+      "supernovae-create-elements",
+      "white-dwarfs-sun-earth-size"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -1125,36 +1096,6 @@
       "music-and-sound"
     ],
     "socialHook": "One space telescope's sunshield blocks heat like sunscreen with an SPF of one million."
-  },
-  {
-    "id": "quasars-angle-changes-view",
-    "headline": "One Feeding Black Hole Can Outshine Its Whole Galaxy",
-    "body": "A quasar is a giant black hole feeding at the heart of a galaxy, and it can outshine everything around it. A single quasar can blaze brighter than its entire galaxy — hundreds of billions of stars combined. That's how we can see some of them from billions of light-years away, near the edge of the visible universe. They are the most luminous objects we know of.",
-    "summary": "That's how we can spot some of them from near the very edge of the visible universe.",
-    "categoryId": "astronomy",
-    "topic": "Quasars",
-    "tags": [
-      "astronomy",
-      "quasars",
-      "black-holes",
-      "light"
-    ],
-    "readTimeSeconds": 45,
-    "featured": false,
-    "relatedFactIds": [
-      "black-holes-light-cannot-escape",
-      "black-holes-spaghettification",
-      "light-exact-speed",
-      "sun-billions-of-twins",
-      "webb-spf-million",
-      "quantum-mechanics-hilbert-space"
-    ],
-    "themes": [
-      "stars-and-cosmos",
-      "human-body-quirks",
-      "bioluminescence-and-glow"
-    ],
-    "socialHook": "A single feeding black hole can outshine every star in its galaxy combined — hundreds of billions of them."
   },
   {
     "id": "pulsars-sugar-cube-mountain",
@@ -1173,48 +1114,17 @@
     "readTimeSeconds": 42,
     "featured": false,
     "relatedFactIds": [
-      "pulsars-magnetar-burst-sunlight",
       "white-dwarfs-sun-earth-size",
       "stars-live-trillions-years",
-      "states-of-matter-plasma-fourth",
       "supernovae-outshine-galaxies",
-      "milky-way-no-photo"
+      "milky-way-no-photo",
+      "supernovae-create-elements"
     ],
     "themes": [
       "stars-and-cosmos",
       "food-and-cuisine"
     ],
     "socialHook": "A single sugar cube of this material would weigh about as much as a mountain."
-  },
-  {
-    "id": "pulsars-magnetar-burst-sunlight",
-    "headline": "One Magnetar Burst Beat 100,000 Years of Sunlight",
-    "body": "Magnetars are a special kind of neutron star with extreme magnetic fields. A normal neutron star's field is already trillions of times stronger than Earth's — but a magnetar's is another 1,000 times stronger than that. One magnetar, called SGR 1806-20, let off a huge burst in just one-tenth of a second. That single burst released more energy than the Sun had emitted in the previous 100,000 years.",
-    "summary": "One tiny starquake-like burst released more energy than the Sun had made in 100,000 years.",
-    "categoryId": "astronomy",
-    "topic": "Pulsars",
-    "tags": [
-      "astronomy",
-      "pulsars",
-      "magnetars",
-      "neutron-stars",
-      "energy"
-    ],
-    "readTimeSeconds": 50,
-    "featured": false,
-    "relatedFactIds": [
-      "pulsars-sugar-cube-mountain",
-      "stars-live-trillions-years",
-      "red-giants-sun-future",
-      "hurricanes-tropical-cyclones",
-      "energy-capacity-to-work",
-      "oxidation-numbers-track-change"
-    ],
-    "themes": [
-      "stars-and-cosmos",
-      "energy-and-power"
-    ],
-    "socialHook": "One burst from a dead star, lasting a tenth of a second, released more energy than the Sun made in the previous 100,000 years."
   },
   {
     "id": "white-dwarfs-sun-earth-size",
@@ -1236,9 +1146,8 @@
       "pulsars-sugar-cube-mountain",
       "stars-live-trillions-years",
       "moon-ganymede-biggest",
-      "states-of-matter-plasma-fourth",
-      "supernovae-outshine-galaxies",
-      "exoplanets-rogue-planets"
+      "exoplanets-rogue-planets",
+      "supernovae-outshine-galaxies"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -1263,10 +1172,10 @@
     "featured": false,
     "relatedFactIds": [
       "stars-live-trillions-years",
-      "pulsars-magnetar-burst-sunlight",
+      "supernovae-outshine-galaxies",
       "quantum-mechanics-measurement-probabilities",
       "sun-billions-of-twins",
-      "supernovae-outshine-galaxies",
+      "milky-way-no-photo",
       "asteroids-less-mass-than-moon"
     ],
     "themes": [
@@ -1295,8 +1204,8 @@
       "stars-live-trillions-years",
       "supernovae-create-elements",
       "chess-indian-war-game",
-      "pi-never-repeats",
-      "supernovae-outshine-galaxies"
+      "supernovae-outshine-galaxies",
+      "red-giants-sun-future"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -1409,7 +1318,7 @@
       "ancient-china-wu-zetian",
       "industrial-revolution-child-labor",
       "dishwasher-chipped-dishes",
-      "wheels-pottery-turntable"
+      "cruise-control-set-speed"
     ],
     "themes": [
       "war-and-conflict",
@@ -1611,7 +1520,7 @@
       "titanic-lifeboat-capacity-gap",
       "space-race-sputnik",
       "american-revolution-paul-revere",
-      "industrial-revolution-child-labor"
+      "space-race-armstrong-aldrin"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -1667,7 +1576,7 @@
     "relatedFactIds": [
       "ancient-egypt-cats",
       "ancient-rome-small-town-empire",
-      "indus-undeciphered-script",
+      "carthage-rome-burned-city",
       "pyramids-sloping-sides",
       "woolly-mammoths-late-islands",
       "pyramids-global-form"
@@ -1695,8 +1604,7 @@
     "readTimeSeconds": 39,
     "featured": false,
     "relatedFactIds": [
-      "ancient-egypt-3000-years",
-      "indus-undeciphered-script"
+      "ancient-egypt-3000-years"
     ],
     "themes": [
       "accidental-discovery"
@@ -1719,10 +1627,9 @@
     "readTimeSeconds": 39,
     "featured": false,
     "relatedFactIds": [
-      "indus-undeciphered-script",
       "carthage-rome-burned-city",
       "cruise-control-set-speed",
-      "wheels-pottery-turntable",
+      "patents-right-to-exclude",
       "windshield-wipers-snowy-trolley"
     ],
     "themes": [
@@ -1748,42 +1655,12 @@
     "readTimeSeconds": 40,
     "featured": false,
     "relatedFactIds": [
-      "indus-undeciphered-script",
       "carthage-rome-burned-city"
     ],
     "themes": [
       "deception-and-hoax"
     ],
     "socialHook": "One of the Seven Wonders of the Ancient World has never once had a single trace of ruins found."
-  },
-  {
-    "id": "indus-undeciphered-script",
-    "headline": "Nobody Has Deciphered the Indus Script",
-    "body": "The Indus Valley Civilization left behind a writing system no one can read. Found on small seals, pottery, and other objects, the script is made of symbols that have puzzled scholars for over a century. Unlike Egyptian or Mesopotamian writing, it has no known translation key, and the inscriptions are usually very short. Because we can't read it, much about these people's lives and beliefs stays unknown. It's one of archaeology's greatest unsolved mysteries.",
-    "summary": "We've stared at it for a century and still can't read it.",
-    "categoryId": "ancient-civilizations",
-    "topic": "Indus Valley Civilization",
-    "tags": [
-      "indus",
-      "writing",
-      "mystery",
-      "archaeology"
-    ],
-    "readTimeSeconds": 40,
-    "featured": false,
-    "relatedFactIds": [
-      "sumerians-cuneiform",
-      "babylonians-hanging-gardens",
-      "hieroglyphics-always-phonetic",
-      "detective-fiction-hard-boiled",
-      "ancient-egypt-cats",
-      "voynich-strange-illustrations"
-    ],
-    "themes": [
-      "language-and-writing",
-      "games-and-play"
-    ],
-    "socialHook": "One ancient writing system has been studied for over a century — and nobody has ever managed to read a word of it."
   },
   {
     "id": "carthage-rome-burned-city",
@@ -1803,7 +1680,7 @@
     "relatedFactIds": [
       "ancient-rome-small-town-empire",
       "ancient-egypt-3000-years",
-      "roads-military-first",
+      "cities-ancient-roots",
       "babylonians-hanging-gardens",
       "sumerians-cuneiform"
     ],
@@ -1829,8 +1706,7 @@
     "featured": false,
     "relatedFactIds": [
       "carthage-rome-burned-city",
-      "ancient-egypt-3000-years",
-      "indus-undeciphered-script"
+      "ancient-egypt-3000-years"
     ],
     "themes": [
       "collective-behavior",
@@ -2346,8 +2222,8 @@
     "relatedFactIds": [
       "giraffes-spread-legs-drink",
       "sloths-bathroom-weekly",
-      "sleep-half-brain-awake",
       "giant-squid-dinner-plate-eyes",
+      "dragons-blood-tree-fog-harvesting",
       "sloths-algae-camouflage"
     ],
     "themes": [
@@ -2466,9 +2342,9 @@
     "relatedFactIds": [
       "whales-are-mammals",
       "orcas-are-dolphins",
-      "dragons-blood-tree-umbrella-species",
       "jellyfish-long-tentacles",
-      "sharks-older-than-dinosaurs"
+      "sharks-older-than-dinosaurs",
+      "deep-sea-deeper-than-everest"
     ],
     "themes": [
       "record-extremes",
@@ -2498,7 +2374,7 @@
       "jellyfish-long-tentacles",
       "whales-are-mammals",
       "taste-buds-on-fish-fins",
-      "anglerfish-built-in-fishing-rod"
+      "seahorses-no-stomachs"
     ],
     "themes": [
       "energy-and-power",
@@ -3404,8 +3280,8 @@
       "skeletal-system-206-bones",
       "taste-buds-on-fish-fins",
       "heart-one-way-valves",
-      "paris-catacombs-public-visits",
-      "bamboo-giant-grass"
+      "bamboo-giant-grass",
+      "paris-catacombs-public-visits"
     ],
     "themes": [
       "human-body-quirks",
@@ -3494,8 +3370,8 @@
       "heart-one-way-valves",
       "taste-buds-on-fish-fins",
       "rem-sleep-night-cycles",
-      "deja-vu-brain-misfire",
-      "circadian-rhythm-melatonin"
+      "perception-brain-fills-gaps",
+      "deja-vu-brain-misfire"
     ],
     "themes": [
       "human-body-quirks",
@@ -3814,7 +3690,7 @@
       "eyes-two-eyes-3d-vision",
       "brands-shape-perception",
       "optical-illusions-mirror-therapy",
-      "memory-fading-helps-time"
+      "eyes-retina-part-of-brain"
     ],
     "themes": [
       "perception-and-brain",
@@ -3845,7 +3721,7 @@
       "sleepwalking-childhood-common",
       "personal-space-invisible-bubble",
       "memory-fading-helps-time",
-      "chameleons-two-way-eyes"
+      "decision-making-environment-shapes"
     ],
     "themes": [
       "psychology-and-behavior"
@@ -4222,8 +4098,8 @@
     "featured": false,
     "relatedFactIds": [
       "espresso-crema-traps-aroma",
-      "coffee-roasting-dark-not-more-caffeine",
       "caffeine-naturally-bitter",
+      "coffee-roasting-dark-not-more-caffeine",
       "latte-popular-espresso-drink",
       "coffee-plant-arabica-delicate"
     ],
@@ -4310,11 +4186,11 @@
     "readTimeSeconds": 45,
     "featured": false,
     "relatedFactIds": [
-      "world-wide-web-cern-1989",
       "wi-fi-signals-bounce",
+      "apollo-guidance-computer-rope-memory",
       "internet-commercial-expansion",
       "internet-communities-closed-systems",
-      "apollo-guidance-computer-rope-memory",
+      "data-centers-avoid-downtime",
       "advertising-modern-printing"
     ],
     "themes": [
@@ -4324,37 +4200,6 @@
       "world-first"
     ],
     "socialHook": "The very first message ever sent across the internet wasn't even a full word — the system crashed after two letters."
-  },
-  {
-    "id": "world-wide-web-cern-1989",
-    "headline": "The Man Who Invented the Web Could Have Owned It — He Gave It Away Instead",
-    "body": "When Tim Berners-Lee invented the World Wide Web at CERN, he made a remarkable choice: he gave it away. He and CERN released the underlying technology to the world for free, with no patent and no fees. Anyone could build on it. That decision is a big reason the Web exploded everywhere instead of staying locked behind one company. The Web belongs to no one — and so to everyone.",
-    "summary": "Tim Berners-Lee patented nothing and charged no fees for the World Wide Web, handing the technology to the entire planet for free.",
-    "categoryId": "technology",
-    "topic": "World Wide Web",
-    "tags": [
-      "technology",
-      "world-wide-web",
-      "internet",
-      "history"
-    ],
-    "readTimeSeconds": 48,
-    "featured": false,
-    "relatedFactIds": [
-      "internet-arpanet-first-connection",
-      "blockchain-public-private-keys",
-      "internet-commercial-expansion",
-      "advertising-modern-printing",
-      "wi-fi-signals-bounce",
-      "seat-belts-prevent-ejection"
-    ],
-    "themes": [
-      "invention-and-breakthrough",
-      "computing-and-web",
-      "stars-and-cosmos",
-      "psychology-and-behavior"
-    ],
-    "socialHook": "The inventor of the World Wide Web could have owned the whole thing. He gave it away for free instead."
   },
   {
     "id": "wi-fi-signals-bounce",
@@ -4372,11 +4217,11 @@
     "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
-      "world-wide-web-cern-1989",
       "apollo-guidance-computer-rope-memory",
       "internet-arpanet-first-connection",
       "data-centers-avoid-downtime",
-      "blockchain-public-private-keys"
+      "blockchain-public-private-keys",
+      "search-engines-google-backrub"
     ],
     "themes": [
       "computing-and-web",
@@ -4401,11 +4246,11 @@
     "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
-      "world-wide-web-cern-1989",
       "data-centers-avoid-downtime",
+      "wi-fi-signals-bounce",
       "lighthouse-keepers-aids-navigation",
       "detective-fiction-hard-boiled",
-      "wi-fi-signals-bounce"
+      "search-engines-google-backrub"
     ],
     "themes": [
       "lost-and-rediscovered",
@@ -4431,7 +4276,6 @@
     "featured": false,
     "relatedFactIds": [
       "captcha-checkbox-movement",
-      "world-wide-web-cern-1989",
       "internet-arpanet-first-connection",
       "search-engines-google-backrub"
     ],
@@ -4458,11 +4302,11 @@
     "readTimeSeconds": 57,
     "featured": false,
     "relatedFactIds": [
-      "world-wide-web-cern-1989",
       "blockchain-public-private-keys",
-      "trademarks-protect-brands",
       "data-centers-avoid-downtime",
-      "wi-fi-signals-bounce"
+      "trademarks-protect-brands",
+      "wi-fi-signals-bounce",
+      "internet-arpanet-first-connection"
     ],
     "themes": [
       "computing-and-web",
@@ -4490,9 +4334,9 @@
     "relatedFactIds": [
       "herculaneum-scrolls-ai-unwrapped",
       "herculaneum-scrolls-vesuvius-challenge-prize",
-      "world-wide-web-cern-1989",
       "apollo-guidance-computer-rope-memory",
-      "bluetooth-direct-device-talk"
+      "bluetooth-direct-device-talk",
+      "internet-arpanet-first-connection"
     ],
     "themes": [
       "automation-robots-ai",
@@ -4521,7 +4365,7 @@
       "blockchain-public-private-keys",
       "internet-undersea-cables",
       "moon-europa-ocean",
-      "world-wide-web-cern-1989"
+      "internet-arpanet-first-connection"
     ],
     "themes": [
       "computing-and-web",
@@ -4866,10 +4710,10 @@
     "featured": false,
     "relatedFactIds": [
       "internet-communities-closed-systems",
-      "memes-cultural-power",
+      "viral-challenges-three-types",
       "minecraft-virtual-blocks",
       "virtual-worlds-vr-term-1987",
-      "viral-challenges-three-types"
+      "memes-cultural-power"
     ],
     "themes": [
       "internet-and-virality",
@@ -4898,8 +4742,8 @@
       "arcade-games-coin-op-design",
       "easter-eggs-konami-code-testing",
       "minecraft-virtual-blocks",
-      "virtual-worlds-vr-term-1987",
-      "esports-magazine-prize"
+      "esports-magazine-prize",
+      "virtual-worlds-vr-term-1987"
     ],
     "themes": [
       "games-and-play",
@@ -4936,36 +4780,6 @@
     "socialHook": "One solo side project by a single Swedish programmer has sold more copies than any other video game in history."
   },
   {
-    "id": "playstation-failed-nintendo-deal",
-    "headline": "PlayStation Grew Out of a Failed Nintendo Deal",
-    "body": "PlayStation's origin has a surprising Nintendo connection. Sony decided to launch its own console after a failed plan with Nintendo to release the PlayStation as a Super Nintendo CD add-on in the early 1990s. Instead of becoming a Nintendo accessory, the PlayStation became Sony's own machine. A collapsed partnership helped create a major console rival.",
-    "summary": "Sony's PlayStation came after a failed plan to make a CD add-on with Nintendo.",
-    "categoryId": "video-games",
-    "topic": "PlayStation",
-    "tags": [
-      "video-games",
-      "playstation",
-      "nintendo",
-      "sony",
-      "console-history"
-    ],
-    "readTimeSeconds": 50,
-    "featured": false,
-    "relatedFactIds": [
-      "mario-landlord-name",
-      "atari-cartridge-shift",
-      "easter-eggs-konami-code-testing",
-      "minecraft-virtual-blocks",
-      "pac-man-food-gameplay"
-    ],
-    "themes": [
-      "games-and-play",
-      "disaster-and-catastrophe",
-      "symbiosis-and-cooperation"
-    ],
-    "socialHook": "The PlayStation only exists because of a failed partnership deal with Nintendo."
-  },
-  {
     "id": "atari-cartridge-shift",
     "headline": "Atari Buried Millions of Bad Games in the Desert",
     "body": "In 1983, Atari rushed out a video game based on the movie E.T. It was so disappointing it helped crash the entire industry. Stuck with mountains of unsold cartridges, Atari secretly trucked millions of them to a New Mexico landfill and buried them. For years it sounded like an urban legend — until 2014, when a dig actually unearthed the games. The myth was real.",
@@ -4982,10 +4796,10 @@
     "featured": false,
     "relatedFactIds": [
       "minecraft-virtual-blocks",
-      "playstation-failed-nintendo-deal",
-      "captain-kidd-quedagh-merchant",
       "pac-man-food-gameplay",
-      "easter-eggs-konami-code-testing"
+      "captain-kidd-quedagh-merchant",
+      "easter-eggs-konami-code-testing",
+      "virtual-worlds-vr-term-1987"
     ],
     "themes": [
       "games-and-play",
@@ -5159,11 +4973,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "playstation-failed-nintendo-deal",
       "easter-eggs-konami-code-testing",
       "minecraft-virtual-blocks",
       "pac-man-food-gameplay",
-      "esports-magazine-prize"
+      "esports-magazine-prize",
+      "tetris-game-boy-stardom"
     ],
     "themes": [
       "games-and-play",
@@ -5201,35 +5015,6 @@
     "socialHook": "The famous Konami Code started as a developer's forgotten shortcut, just to make testing an unfairly hard game easier."
   },
   {
-    "id": "special-effects-miniature-physics",
-    "headline": "Water Refuses to Shrink, So Miniature Movie Sets Have to Cheat Physics",
-    "body": "Shrinking a battleship or a burning building to model size sounds simple, until physics gives it away. At small scale, water beads up, fire flickers too fast, and smoke billows wrong, instantly betraying that you're looking at a toy. So effects artists cheat nature: they add chemicals to water to break its surface tension, tweak how flames are lit, and film everything in slow motion. To make a miniature look enormous, they have to fake the way the world itself behaves.",
-    "summary": "Shrink a battleship to model size and physics gives it away instantly -- water beads up wrong, fire flickers too fast -- so effects artists dose the water with chemicals and film in slow motion just to fool your eyes.",
-    "categoryId": "movies",
-    "topic": "Special Effects",
-    "tags": [
-      "movies",
-      "special-effects",
-      "miniatures"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "stop-motion-king-kong-model",
-      "stop-motion-frame-by-frame",
-      "forced-perspective-size-trick",
-      "academy-awards-rules-eligibility",
-      "film-editing-piece-by-piece"
-    ],
-    "themes": [
-      "storytelling-and-narrative",
-      "materials-and-chemistry",
-      "music-and-sound",
-      "war-and-conflict"
-    ],
-    "socialHook": "Miniature movie sets can't use real water or fire without giving themselves away — the physics simply doesn't shrink the same way."
-  },
-  {
     "id": "academy-awards-rules-eligibility",
     "headline": "The Oscars Once Announced the Wrong Best Picture",
     "body": "At the 2017 Academy Awards, La La Land was announced as Best Picture, and its cast and crew streamed onstage to celebrate. Then chaos: the presenters had been handed the wrong envelope. The real winner was Moonlight. The correction unfolded live in front of millions, one of the most jaw-dropping mistakes in awards-show history. Hollywood's biggest night had fumbled its biggest moment.",
@@ -5248,8 +5033,8 @@
       "film-editing-piece-by-piece",
       "stop-motion-frame-by-frame",
       "stop-motion-king-kong-model",
-      "special-effects-miniature-physics",
-      "movie-cameras-light-tight-box"
+      "movie-cameras-light-tight-box",
+      "apollo13-failure-not-option-myth"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -5277,7 +5062,7 @@
       "stop-motion-frame-by-frame",
       "film-editing-piece-by-piece",
       "academy-awards-rules-eligibility",
-      "special-effects-miniature-physics"
+      "apollo13-failure-not-option-myth"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -5305,45 +5090,14 @@
       "academy-awards-rules-eligibility",
       "stop-motion-frame-by-frame",
       "stop-motion-king-kong-model",
-      "special-effects-miniature-physics",
-      "movie-cameras-light-tight-box"
+      "movie-cameras-light-tight-box",
+      "apollo13-failure-not-option-myth"
     ],
     "themes": [
       "storytelling-and-narrative",
       "human-body-quirks"
     ],
     "socialHook": "One of the most terrifying scenes in film history never once actually shows the knife touching skin."
-  },
-  {
-    "id": "documentaries-shape-facts",
-    "headline": "Disney Faked Lemmings 'Marching Off a Cliff' to Their Deaths",
-    "body": "One of the most widely believed 'facts' about lemmings, that they periodically march off cliffs to their deaths in a mass suicide, came from a 1958 Disney nature film. There was just one problem: the filmmakers staged it. They imported lemmings that weren't native to the area, herded them together, and arranged the dramatic footage themselves. The 'documentary' invented a behavior the animals don't actually do. A made-up scene became a 'fact' that millions still repeat today.",
-    "summary": "The famous myth that lemmings periodically hurl themselves off cliffs in a mass suicide was staged for a 1958 Disney film -- crews imported the animals, herded them together, and forced the dramatic footage themselves; it's a behavior lemmings don't actually do.",
-    "categoryId": "movies",
-    "topic": "Documentaries",
-    "tags": [
-      "movies",
-      "documentary",
-      "disney",
-      "myth"
-    ],
-    "readTimeSeconds": 40,
-    "featured": false,
-    "relatedFactIds": [
-      "apollo13-failure-not-option-myth",
-      "film-editing-piece-by-piece",
-      "red-opposite-green",
-      "taste-buds-thousands-on-tongue",
-      "stop-motion-frame-by-frame",
-      "forced-perspective-focus-planning"
-    ],
-    "themes": [
-      "storytelling-and-narrative",
-      "deception-and-hoax",
-      "collective-behavior",
-      "myth-vs-reality"
-    ],
-    "socialHook": "The famous 'fact' that lemmings march off cliffs to their deaths was completely staged for a 1958 nature film."
   },
   {
     "id": "stop-motion-frame-by-frame",
@@ -5362,10 +5116,10 @@
     "featured": false,
     "relatedFactIds": [
       "stop-motion-king-kong-model",
-      "special-effects-miniature-physics",
       "film-editing-piece-by-piece",
       "academy-awards-rules-eligibility",
-      "movie-cameras-light-tight-box"
+      "movie-cameras-light-tight-box",
+      "apollo13-failure-not-option-myth"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -5391,10 +5145,10 @@
     "featured": false,
     "relatedFactIds": [
       "stop-motion-frame-by-frame",
-      "special-effects-miniature-physics",
       "movie-cameras-light-tight-box",
+      "film-editing-piece-by-piece",
       "forced-perspective-size-trick",
-      "film-editing-piece-by-piece"
+      "academy-awards-rules-eligibility"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -5448,11 +5202,11 @@
     "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
-      "musical-instruments-sound-families",
       "sampling-citizen-dj-free",
+      "sound-recording-stores-vibrations",
       "supersonic-flight-hypersonic-mach-five",
       "sound-pressure-waves",
-      "sound-recording-stores-vibrations"
+      "rock-global-mainstream"
     ],
     "themes": [
       "music-and-sound",
@@ -5478,10 +5232,10 @@
     "featured": false,
     "relatedFactIds": [
       "sound-recording-stores-vibrations",
-      "musical-instruments-sound-families",
       "dj-culture-scratching-accident",
       "sampling-citizen-dj-free",
-      "musical-instruments-human-universal"
+      "musical-instruments-human-universal",
+      "streaming-music-before-full-file"
     ],
     "themes": [
       "music-and-sound",
@@ -5506,11 +5260,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "musical-instruments-sound-families",
       "sound-recording-stores-vibrations",
       "auto-tune-oil-technology",
       "storytelling-older-than-writing",
       "easter-island-moai-not-just-heads",
+      "sampling-citizen-dj-free",
       "sharks-older-than-dinosaurs"
     ],
     "themes": [
@@ -5520,33 +5274,6 @@
       "human-body-quirks"
     ],
     "socialHook": "The oldest known musical instrument is a working flute, carved from a vulture's wing bone about 40,000 years ago."
-  },
-  {
-    "id": "musical-instruments-sound-families",
-    "headline": "No One Fully Knows Why a Stradivarius Sounds So Good",
-    "body": "Violins made by Antonio Stradivari in the 1600s and 1700s are considered the finest ever crafted, and they sell for millions of dollars. For centuries, no one has managed to pin down their secret — the wood, the varnish, the climate, and the shape have all been studied. No single explanation has fully cracked it, and in blind tests experts can't always tell them from modern violins. Their magic remains an open mystery.",
-    "summary": "A 300-year-old violin can sell for millions — and science still can't explain its sound.",
-    "categoryId": "music",
-    "topic": "Musical Instruments",
-    "tags": [
-      "music",
-      "instruments",
-      "stradivarius",
-      "mystery"
-    ],
-    "readTimeSeconds": 45,
-    "featured": false,
-    "relatedFactIds": [
-      "musical-instruments-human-universal",
-      "sampling-citizen-dj-free",
-      "sound-recording-stores-vibrations",
-      "rock-global-mainstream",
-      "vinyl-turntable-speed-control"
-    ],
-    "themes": [
-      "music-and-sound"
-    ],
-    "socialHook": "A 300-year-old violin can sell for millions of dollars — and science still can't fully explain what makes it sound so good."
   },
   {
     "id": "sound-recording-stores-vibrations",
@@ -5565,10 +5292,10 @@
     "featured": false,
     "relatedFactIds": [
       "rock-global-mainstream",
-      "musical-instruments-sound-families",
       "musical-instruments-human-universal",
       "dj-culture-scratching-accident",
-      "sampling-citizen-dj-free"
+      "sampling-citizen-dj-free",
+      "streaming-music-before-full-file"
     ],
     "themes": [
       "music-and-sound",
@@ -5594,10 +5321,10 @@
     "featured": false,
     "relatedFactIds": [
       "dj-culture-scratching-accident",
-      "musical-instruments-sound-families",
       "sound-recording-stores-vibrations",
       "sampling-citizen-dj-free",
-      "auto-tune-oil-technology"
+      "auto-tune-oil-technology",
+      "rock-global-mainstream"
     ],
     "themes": [
       "music-and-sound",
@@ -5624,10 +5351,10 @@
     "featured": false,
     "relatedFactIds": [
       "musical-instruments-human-universal",
-      "musical-instruments-sound-families",
       "sampling-citizen-dj-free",
       "sound-recording-stores-vibrations",
-      "streaming-music-before-full-file"
+      "streaming-music-before-full-file",
+      "rock-global-mainstream"
     ],
     "themes": [
       "music-and-sound",
@@ -5657,8 +5384,8 @@
       "streaming-music-before-full-file",
       "sound-recording-stores-vibrations",
       "rock-global-mainstream",
-      "musical-instruments-sound-families",
-      "sampling-citizen-dj-free"
+      "sampling-citizen-dj-free",
+      "vinyl-turntable-speed-control"
     ],
     "themes": [
       "music-and-sound",
@@ -5684,11 +5411,11 @@
     "readTimeSeconds": 45,
     "featured": false,
     "relatedFactIds": [
-      "musical-instruments-sound-families",
       "rock-global-mainstream",
       "sound-recording-stores-vibrations",
+      "musical-instruments-human-universal",
       "vinyl-turntable-speed-control",
-      "musical-instruments-human-universal"
+      "auto-tune-oil-technology"
     ],
     "themes": [
       "music-and-sound",
@@ -5918,9 +5645,9 @@
       "marathons-26-miles-385-yards",
       "golf-scotland-real-golf",
       "reinforcement-learning-reward-signal",
-      "pi-never-repeats",
+      "cosmic-microwave-background-atoms-five-percent",
       "track-and-field-many-events",
-      "cosmic-microwave-background-atoms-five-percent"
+      "pokemon-more-than-game"
     ],
     "themes": [
       "games-and-play",
@@ -5959,36 +5686,6 @@
     "socialHook": "An F1 pit crew can change all four tires on a car in under two seconds."
   },
   {
-    "id": "wheels-pottery-turntable",
-    "headline": "The Wheel Was Invented Surprisingly Late",
-    "body": "The wheel feels so basic that you'd assume it came first. It didn't. Humans had sewing needles, woven cloth, boats, musical instruments, and farms for thousands of years before anyone built a working wheel, around 3500 BCE. The hard part wasn't the round wheel itself — it was the axle, and fitting the two together precisely. One of history's great inventions arrived later than you'd ever guess.",
-    "summary": "Humans had needles, boats, and farms for millennia before anyone invented the wheel.",
-    "categoryId": "engineering",
-    "topic": "Wheels",
-    "tags": [
-      "engineering",
-      "wheel",
-      "invention",
-      "history"
-    ],
-    "readTimeSeconds": 48,
-    "featured": false,
-    "relatedFactIds": [
-      "elevators-otis-safety-brake",
-      "gears-speed-torque-tradeoff",
-      "wheel-spokes-chariots",
-      "patents-right-to-exclude",
-      "steel-iron-carbon-alloy",
-      "ancient-china-gunpowder"
-    ],
-    "themes": [
-      "music-and-sound",
-      "machines-and-mechanisms",
-      "invention-and-breakthrough"
-    ],
-    "socialHook": "Humans had needles, boats, and farms for thousands of years before anyone invented the wheel."
-  },
-  {
     "id": "gears-speed-torque-tradeoff",
     "headline": "A 2,000-Year-Old Greek Device Was an Analog Computer",
     "body": "In 1901, divers found a corroded lump of bronze in an ancient shipwreck. It turned out to be the Antikythera mechanism — a device from around 2,000 years ago packed with at least 30 interlocking gears. By turning a crank, its ancient users could predict eclipses, track the Moon and planets, and even time the Olympic Games. Nothing this complex would appear again for over a thousand years.",
@@ -6005,10 +5702,10 @@
     "featured": false,
     "relatedFactIds": [
       "concrete-steel-reinforcement",
-      "wheels-pottery-turntable",
+      "elevators-otis-safety-brake",
       "antikythera-ancient-computer",
       "antikythera-predicted-eclipses",
-      "elevators-otis-safety-brake"
+      "dams-many-purposes"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -6038,7 +5735,7 @@
       "gears-speed-torque-tradeoff",
       "concrete-aggregate-cement-water",
       "cities-ancient-roots",
-      "wheels-pottery-turntable",
+      "suspension-bridges-tacoma-narrows",
       "domes-arch-turned-space"
     ],
     "themes": [
@@ -6094,10 +5791,10 @@
     "featured": false,
     "relatedFactIds": [
       "concrete-steel-reinforcement",
-      "wheels-pottery-turntable",
-      "jet-engines-throw-air-backward",
+      "elevators-otis-safety-brake",
       "polymers-life-natural-polymers",
-      "elevators-otis-safety-brake"
+      "earthquake-engineering-strong-joints",
+      "suspension-bridges-tacoma-narrows"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -6155,10 +5852,10 @@
     "featured": false,
     "relatedFactIds": [
       "earthquake-engineering-strong-joints",
-      "wheels-pottery-turntable",
+      "gears-speed-torque-tradeoff",
       "skyscrapers-elevators-made-height-usable",
       "skyscrapers-technology-coincidence",
-      "gears-speed-torque-tradeoff"
+      "apollo13-mailbox-co2-fix"
     ],
     "themes": [
       "machines-and-mechanisms",
@@ -6249,7 +5946,7 @@
       "autopilot-straight-level-flight",
       "hot-air-balloons-animal-passengers",
       "taste-buds-thousands-on-tongue",
-      "brutalism-postwar-function"
+      "gliders-fly-without-engines"
     ],
     "themes": [
       "food-and-cuisine",
@@ -6277,7 +5974,7 @@
       "gliders-fly-without-engines",
       "poison-ivy-three-leaflets",
       "autopilot-complex-flight-plans",
-      "jet-engines-throw-air-backward"
+      "jet-engines-compress-burn-expand"
     ],
     "themes": [
       "gravity-and-orbits",
@@ -6286,36 +5983,6 @@
       "flight-and-aviation"
     ],
     "socialHook": "If a helicopter's engine completely dies mid-flight, it can still land safely, using nothing but the spinning rotor."
-  },
-  {
-    "id": "jet-engines-throw-air-backward",
-    "headline": "Jet Engine Blades Spin in Gas Hotter Than They Can Melt",
-    "body": "Inside a jet engine, conditions are brutal. The turbine blades spin through gas so hot it's actually above the melting point of the metal they're made from. So why don't they melt? Each blade is riddled with tiny holes that bleed out a thin film of cooler air, wrapping the metal in a protective layer. The blades survive an environment that should destroy them — by wearing a coat of air.",
-    "summary": "A jet's turbine blades spin through gas hotter than their own melting point, saved by a film of air.",
-    "categoryId": "aviation",
-    "topic": "Jet Engines",
-    "tags": [
-      "aviation",
-      "jet-engines",
-      "materials",
-      "engineering"
-    ],
-    "readTimeSeconds": 48,
-    "featured": false,
-    "relatedFactIds": [
-      "jet-engines-compress-burn-expand",
-      "helicopters-sikorsky-vs300",
-      "airplanes-four-forces",
-      "polymers-life-natural-polymers",
-      "steel-iron-carbon-alloy"
-    ],
-    "themes": [
-      "extreme-temperature",
-      "gravity-and-orbits",
-      "materials-and-chemistry",
-      "energy-and-power"
-    ],
-    "socialHook": "Jet engine blades spin through gas that's actually hotter than the metal's own melting point — and survive by wearing a coat of air."
   },
   {
     "id": "jet-engines-compress-burn-expand",
@@ -6333,11 +6000,11 @@
     "readTimeSeconds": 54,
     "featured": false,
     "relatedFactIds": [
-      "jet-engines-throw-air-backward",
       "gliders-fly-without-engines",
       "supersonic-flight-hypersonic-mach-five",
       "lasers-mirrors-build-beam",
-      "concorde-mach-two-passengers"
+      "concorde-mach-two-passengers",
+      "hot-air-balloons-animal-passengers"
     ],
     "themes": [
       "energy-and-power",
@@ -6478,8 +6145,8 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "hot-air-balloons-hot-air-lighter",
       "autopilot-straight-level-flight",
+      "hot-air-balloons-hot-air-lighter",
       "surviving-a-fall-vulovic-33000-feet",
       "air-traffic-control-air-and-ground",
       "jet-engines-compress-burn-expand",
@@ -6805,9 +6472,9 @@
     "relatedFactIds": [
       "windshield-wipers-snowy-trolley",
       "cruise-control-set-speed",
-      "world-wide-web-cern-1989",
       "air-bags-supplement-seat-belts",
-      "crash-test-dummies-different-bodies"
+      "crash-test-dummies-different-bodies",
+      "brakes-hydraulic-balance"
     ],
     "themes": [
       "invention-and-breakthrough"
@@ -6833,8 +6500,9 @@
       "windshield-wipers-snowy-trolley",
       "seat-belts-prevent-ejection",
       "sumerians-cuneiform",
-      "wheels-pottery-turntable",
-      "automobiles-thousands-of-parts"
+      "patents-right-to-exclude",
+      "automobiles-thousands-of-parts",
+      "ancient-china-gunpowder"
     ],
     "themes": [
       "invention-and-breakthrough",
@@ -6893,9 +6561,9 @@
       "cruise-control-set-speed",
       "seat-belts-prevent-ejection",
       "patents-right-to-exclude",
-      "wheels-pottery-turntable",
+      "sumerians-cuneiform",
       "automobiles-thousands-of-parts",
-      "sumerians-cuneiform"
+      "dishwasher-chipped-dishes"
     ],
     "themes": [
       "invention-and-breakthrough"
@@ -7065,7 +6733,7 @@
       "relativity-speed-of-light-limit",
       "motion-velocity-has-direction",
       "cheetahs-built-for-speed",
-      "quasars-angle-changes-view",
+      "black-holes-light-cannot-escape",
       "motion-force-changes-motion",
       "relativity-redefined-space-time"
     ],
@@ -7094,8 +6762,8 @@
       "quantum-mechanics-measurement-probabilities",
       "lasers-light-copy-itself",
       "light-exact-speed",
-      "quasars-angle-changes-view",
-      "energy-capacity-to-work"
+      "energy-capacity-to-work",
+      "relativity-redefined-space-time"
     ],
     "themes": [
       "stars-and-cosmos"
@@ -7238,7 +6906,7 @@
     "relatedFactIds": [
       "sound-pressure-waves",
       "apollo13-reentry-blackout-87-seconds",
-      "apollo13-reentry-shallow-angle-cause",
+      "motion-velocity-has-direction",
       "cheetahs-cannot-roar",
       "taos-hum-worldwide-pattern",
       "praying-mantis-camouflage"
@@ -7268,8 +6936,8 @@
     "relatedFactIds": [
       "quantum-mechanics-hilbert-space",
       "lasers-light-copy-itself",
-      "pulsars-magnetar-burst-sunlight",
       "hurricanes-tropical-cyclones",
+      "oxidation-numbers-track-change",
       "relativity-redefined-space-time",
       "internal-combustion-engines-combustion-inside"
     ],
@@ -7479,8 +7147,7 @@
       "motion-force-changes-motion",
       "motion-velocity-has-direction",
       "light-exact-speed",
-      "superconductivity-meissner-effect",
-      "apollo13-reentry-shallow-angle-cause"
+      "superconductivity-meissner-effect"
     ],
     "themes": [
       "motion-and-force"
@@ -7504,10 +7171,10 @@
     "featured": false,
     "relatedFactIds": [
       "inertia-no-net-force",
-      "apollo13-reentry-shallow-angle-cause",
       "light-exact-speed",
       "superconductivity-meissner-effect",
-      "motion-force-changes-motion"
+      "motion-force-changes-motion",
+      "gravity-weak-universe-shaping"
     ],
     "themes": [
       "motion-and-force"
@@ -7592,8 +7259,8 @@
       "motion-force-changes-motion",
       "inertia-no-net-force",
       "inertia-mass-resists-acceleration",
-      "apollo13-reentry-shallow-angle-cause",
-      "light-exact-speed"
+      "light-exact-speed",
+      "gravity-weak-universe-shaping"
     ],
     "themes": [
       "energy-and-power",
@@ -7620,8 +7287,8 @@
       "atoms-atomic-number-identity",
       "metals-free-electrons-conduct",
       "polymers-giant-monomer-chains",
-      "chemical-reactions-rearrange-atoms",
-      "oxidation-numbers-track-change"
+      "chess-indian-war-game",
+      "chemical-reactions-rearrange-atoms"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -7738,7 +7405,8 @@
       "atoms-atomic-number-identity",
       "oxidation-numbers-track-change",
       "metals-ores-and-free-state",
-      "molecules-smallest-identity-unit"
+      "molecules-smallest-identity-unit",
+      "covalent-bonds-resonance"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -7825,7 +7493,7 @@
       "internal-combustion-engines-hot-gas-work",
       "catalysts-speed-without-consuming",
       "oxidation-numbers-track-change",
-      "catalysts-temporary-intermediates"
+      "atoms-mostly-empty-space"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -7833,37 +7501,6 @@
       "lost-and-rediscovered"
     ],
     "socialHook": "A burning log doesn't actually disappear — the missing mass just floats away as invisible gas."
-  },
-  {
-    "id": "states-of-matter-plasma-fourth",
-    "headline": "The Most Common State of Matter in the Universe Isn't Solid, Liquid, or Gas — It's Plasma",
-    "body": "On Earth, solids, liquids, and gases rule, so plasma feels exotic. Zoom out, though, and plasma wins by a landslide. Heat a gas until its atoms tear apart into a glowing soup of charged particles and you get plasma, the stuff of every star, including our Sun. Since stars make up most of the visible universe, plasma is actually the most common state of matter there is. You just live in a rare, cool pocket.",
-    "summary": "Solids, liquids, and gases feel like the whole story, but plasma — the glowing stuff of every star — actually makes up most of the visible universe.",
-    "categoryId": "chemistry",
-    "topic": "States of Matter",
-    "tags": [
-      "chemistry",
-      "states-of-matter",
-      "plasma",
-      "stars"
-    ],
-    "readTimeSeconds": 54,
-    "featured": false,
-    "relatedFactIds": [
-      "radioactivity-particles-energy",
-      "metals-ores-and-free-state",
-      "stars-live-trillions-years",
-      "supernovae-outshine-galaxies",
-      "chemical-elements-cannot-break-down",
-      "pulsars-sugar-cube-mountain"
-    ],
-    "themes": [
-      "stars-and-cosmos",
-      "materials-and-chemistry",
-      "transformation-metamorphosis",
-      "bioluminescence-and-glow"
-    ],
-    "socialHook": "The most common state of matter in the entire universe isn't solid, liquid, or gas."
   },
   {
     "id": "acids-bases-ph-scale",
@@ -7910,11 +7547,11 @@
     "readTimeSeconds": 56,
     "featured": false,
     "relatedFactIds": [
-      "states-of-matter-plasma-fourth",
       "metals-ores-and-free-state",
+      "polymers-giant-monomer-chains",
       "poison-ivy-three-leaflets",
       "airplanes-four-forces",
-      "polymers-giant-monomer-chains",
+      "crystals-unit-cells-repeat",
       "air-bags-supplement-seat-belts"
     ],
     "themes": [
@@ -7944,8 +7581,8 @@
       "metals-ores-and-free-state",
       "atoms-mostly-empty-space",
       "chemical-reactions-rearrange-atoms",
-      "catalysts-temporary-intermediates",
-      "oxidation-numbers-track-change"
+      "oxidation-numbers-track-change",
+      "combustion-heat-accelerates-reaction"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -8000,7 +7637,7 @@
       "chemical-elements-cannot-break-down",
       "chemical-reactions-rearrange-atoms",
       "energy-capacity-to-work",
-      "pulsars-magnetar-burst-sunlight",
+      "hurricanes-tropical-cyclones",
       "combustion-heat-accelerates-reaction"
     ],
     "themes": [
@@ -8087,11 +7724,11 @@
     "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
-      "catalysts-temporary-intermediates",
       "chemical-reactions-rearrange-atoms",
       "atoms-atomic-number-identity",
       "periodic-table-group-patterns",
-      "chemical-elements-compounds-transform-properties"
+      "chemical-elements-compounds-transform-properties",
+      "acids-bases-ph-scale"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -8100,35 +7737,6 @@
       "motion-and-force"
     ],
     "socialHook": "Some enzymes in your own body finish in a fraction of a second what would otherwise take millions of years to happen naturally."
-  },
-  {
-    "id": "catalysts-temporary-intermediates",
-    "headline": "Your Car Turns Poison Into Harmless Gas as You Drive",
-    "body": "Bolted onto every modern car is a quiet chemistry lab: the catalytic converter. Engine exhaust is full of poisons like carbon monoxide, and as those toxic gases pass through it, a coating of special metals rearranges the molecules into far safer stuff — mostly carbon dioxide, nitrogen, and water. The metal does this trick over and over without ever being used up, quietly scrubbing your exhaust clean mile after mile. Every drive you take is really a tiny chemistry experiment happening under the hood.",
-    "summary": "A honeycomb of precious metal in your exhaust pipe quietly converts poisonous fumes into harmless gas.",
-    "categoryId": "chemistry",
-    "topic": "Catalysts",
-    "tags": [
-      "chemistry",
-      "catalysts",
-      "catalytic-converter",
-      "platinum"
-    ],
-    "readTimeSeconds": 54,
-    "featured": false,
-    "relatedFactIds": [
-      "catalysts-speed-without-consuming",
-      "crystals-unit-cells-repeat",
-      "crystals-structure-changes-strength",
-      "chemical-reactions-rearrange-atoms",
-      "metals-free-electrons-conduct"
-    ],
-    "themes": [
-      "materials-and-chemistry",
-      "energy-and-power",
-      "self-organizing-patterns"
-    ],
-    "socialHook": "Every time you drive, there's a tiny chemistry lab bolted under your car quietly turning poisonous gas into something harmless."
   },
   {
     "id": "polymers-giant-monomer-chains",
@@ -8179,7 +7787,6 @@
       "polymers-giant-monomer-chains",
       "polymers-tunable-materials",
       "metals-ores-and-free-state",
-      "jet-engines-throw-air-backward",
       "concrete-aggregate-cement-water",
       "steel-iron-carbon-alloy"
     ],
@@ -8208,9 +7815,9 @@
     "relatedFactIds": [
       "polymers-giant-monomer-chains",
       "polymers-life-natural-polymers",
-      "crystals-structure-changes-strength",
+      "chemical-reactions-rearrange-atoms",
       "nonstick-pans-accidental-teflon",
-      "chemical-reactions-rearrange-atoms"
+      "metals-ores-and-free-state"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -8235,11 +7842,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "crystals-structure-changes-strength",
-      "catalysts-temporary-intermediates",
       "polymers-giant-monomer-chains",
+      "chemical-elements-cannot-break-down",
       "snow-deposition",
-      "giants-causeway-basalt-columns"
+      "giants-causeway-basalt-columns",
+      "molecules-smallest-identity-unit"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -8247,64 +7854,6 @@
       "self-organizing-patterns"
     ],
     "socialHook": "Every single snowflake has six sides for the exact same underlying reason."
-  },
-  {
-    "id": "crystals-structure-changes-strength",
-    "headline": "Cold Can Turn Solid Tin Into Crumbling Powder",
-    "body": "The same atoms can make a strong material or a crumbly one depending only on how their crystals are arranged. Tin has a nasty trick: in deep cold its atoms rearrange into a brittle crystal form, and the solid metal slowly disintegrates into gray powder, a process nicknamed tin pest. Legend even blames it for Napoleon's army, whose tin coat buttons supposedly crumbled in the Russian winter. Same metal, different crystal, total collapse.",
-    "summary": "In extreme cold, tin's crystals rearrange and the solid metal crumbles to powder, a fate once blamed on Napoleon's buttons.",
-    "categoryId": "chemistry",
-    "topic": "Crystals",
-    "tags": [
-      "chemistry",
-      "crystals",
-      "tin-pest",
-      "materials-science"
-    ],
-    "readTimeSeconds": 54,
-    "featured": false,
-    "relatedFactIds": [
-      "crystals-unit-cells-repeat",
-      "polymers-tunable-materials",
-      "catalysts-temporary-intermediates",
-      "metals-ores-and-free-state",
-      "chemical-elements-compounds-transform-properties"
-    ],
-    "themes": [
-      "materials-and-chemistry",
-      "self-organizing-patterns",
-      "disaster-and-catastrophe",
-      "war-and-conflict"
-    ],
-    "socialHook": "In extreme cold, one solid metal can slowly crumble into gray powder — legend even blames it for a failed military campaign."
-  },
-  {
-    "id": "pi-never-repeats",
-    "headline": "You Only Need 40 Digits of Pi to Measure the Universe",
-    "body": "Pi's digits famously run on forever without repeating, and people have now computed trillions of them. But here's the twist: you almost never need them. NASA steers spacecraft across the solar system using just 15 digits of pi. And with only about 40 digits, you could calculate the circumference of the entire observable universe accurate to the width of a single hydrogen atom. The endless digits are mostly for fun.",
-    "summary": "Pi runs on forever, yet 40 digits is enough to size the whole universe to an atom's width.",
-    "categoryId": "mathematics",
-    "topic": "Pi",
-    "tags": [
-      "pi",
-      "circles",
-      "space"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "pi-ancient-approximations",
-      "topology-loops-cannot-shrink",
-      "topology-rubber-sheet-geometry",
-      "chess-indian-war-game",
-      "cosmic-microwave-background-atoms-five-percent"
-    ],
-    "themes": [
-      "numbers-and-mathematics",
-      "stars-and-cosmos",
-      "materials-and-chemistry"
-    ],
-    "socialHook": "Pi runs on forever — but you only need about 40 of its digits to measure the entire observable universe accurate to the width of a single atom."
   },
   {
     "id": "pi-ancient-approximations",
@@ -8321,11 +7870,11 @@
     "readTimeSeconds": 54,
     "featured": false,
     "relatedFactIds": [
-      "pi-never-repeats",
       "topology-rubber-sheet-geometry",
       "probability-gambling-origin",
       "patents-three-main-types",
-      "topology-loops-cannot-shrink"
+      "topology-loops-cannot-shrink",
+      "prime-numbers-building-blocks"
     ],
     "themes": [
       "numbers-and-mathematics"
@@ -8436,7 +7985,7 @@
       "probability-logic-uncertainty",
       "pi-ancient-approximations",
       "topology-rubber-sheet-geometry",
-      "game-theory-not-winning-alone"
+      "topology-loops-cannot-shrink"
     ],
     "themes": [
       "games-and-play",
@@ -8462,9 +8011,9 @@
     "relatedFactIds": [
       "probability-unfinished-bet",
       "probability-gambling-origin",
-      "chaos-theory-rules-unpredictable",
       "prime-numbers-building-blocks",
-      "geometry-earth-measurement"
+      "geometry-earth-measurement",
+      "prime-numbers-cryptography"
     ],
     "themes": [
       "gravity-and-orbits",
@@ -8519,10 +8068,10 @@
     "featured": false,
     "relatedFactIds": [
       "prime-numbers-building-blocks",
-      "pi-never-repeats",
+      "topology-loops-cannot-shrink",
       "motion-force-changes-motion",
       "indigo-ancient-dye",
-      "topology-loops-cannot-shrink"
+      "topology-rubber-sheet-geometry"
     ],
     "themes": [
       "invention-and-breakthrough",
@@ -8530,32 +8079,6 @@
       "motion-and-force"
     ],
     "socialHook": "Two men each invented calculus completely independently — then spent years locked in a bitter, decades-long feud over who did it first."
-  },
-  {
-    "id": "chaos-theory-rules-unpredictable",
-    "headline": "A Double Pendulum Never Swings the Same Way Twice",
-    "body": "Attach one pendulum to the bottom of another and set it swinging. Despite following simple, exact physics, its motion turns wild and unpredictable, flipping and looping in patterns that never repeat. Start it from a position a hair's breadth different and it soon traces a completely different path. The double pendulum is a favorite demonstration of chaos: total determinism producing behavior no one can forecast.",
-    "summary": "A double pendulum obeys exact physics yet swings so unpredictably it never retraces the same path.",
-    "categoryId": "mathematics",
-    "topic": "Chaos Theory",
-    "tags": [
-      "chaos-theory",
-      "double-pendulum",
-      "unpredictability"
-    ],
-    "readTimeSeconds": 53,
-    "featured": false,
-    "relatedFactIds": [
-      "chaos-theory-butterfly-effect",
-      "probability-logic-uncertainty",
-      "probability-unfinished-bet",
-      "geometry-earth-measurement",
-      "game-theory-not-winning-alone"
-    ],
-    "themes": [
-      "psychology-and-behavior"
-    ],
-    "socialHook": "One simple device obeys exact, predictable physics — and still never swings the exact same way twice."
   },
   {
     "id": "chaos-theory-butterfly-effect",
@@ -8572,11 +8095,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "chaos-theory-rules-unpredictable",
       "prime-numbers-building-blocks",
       "probability-gambling-origin",
       "topology-rubber-sheet-geometry",
-      "pi-ancient-approximations"
+      "pi-ancient-approximations",
+      "topology-loops-cannot-shrink"
     ],
     "themes": [
       "flight-and-aviation",
@@ -8585,33 +8108,6 @@
       "computing-and-web"
     ],
     "socialHook": "The 'butterfly effect' was discovered completely by accident — from a scientist rounding one number slightly differently in a weather simulation."
-  },
-  {
-    "id": "game-theory-not-winning-alone",
-    "headline": "A Simple 'Be Nice' Strategy Beat All the Sharks",
-    "body": "In 1980, a political scientist ran a tournament pitting strategies against each other in repeated prisoner's dilemmas. Brainy, ruthless programs poured in. The winner was the simplest: tit-for-tat, which just cooperates first, then copies whatever the opponent did last. By being nice but never a pushover, it quietly outscored every cutthroat rival. The result suggested cooperation can win, even in a contest built around betrayal.",
-    "summary": "In a famous tournament, a simple cooperate-first strategy called tit-for-tat beat every more ruthless rival.",
-    "categoryId": "mathematics",
-    "topic": "Game Theory",
-    "tags": [
-      "game-theory",
-      "tit-for-tat",
-      "cooperation"
-    ],
-    "readTimeSeconds": 54,
-    "featured": false,
-    "relatedFactIds": [
-      "probability-unfinished-bet",
-      "chaos-theory-rules-unpredictable",
-      "prime-numbers-cryptography",
-      "probability-logic-uncertainty",
-      "topology-rubber-sheet-geometry"
-    ],
-    "themes": [
-      "games-and-play",
-      "symbiosis-and-cooperation"
-    ],
-    "socialHook": "In a famous tournament full of ruthless, complicated strategies, the simplest one of all — basically 'be nice first' — beat every single rival."
   },
   {
     "id": "topology-rubber-sheet-geometry",
@@ -8631,8 +8127,8 @@
       "topology-loops-cannot-shrink",
       "pi-ancient-approximations",
       "probability-gambling-origin",
-      "pi-never-repeats",
-      "prime-numbers-building-blocks"
+      "prime-numbers-building-blocks",
+      "geometry-earth-measurement"
     ],
     "themes": [
       "numbers-and-mathematics"
@@ -8655,10 +8151,10 @@
     "featured": false,
     "relatedFactIds": [
       "topology-rubber-sheet-geometry",
-      "pi-never-repeats",
       "pi-ancient-approximations",
       "probability-gambling-origin",
-      "prime-numbers-building-blocks"
+      "prime-numbers-building-blocks",
+      "geometry-earth-measurement"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -8743,7 +8239,7 @@
       "trademarks-protect-brands",
       "memes-cultural-power",
       "internet-arpanet-first-connection",
-      "world-wide-web-cern-1989"
+      "internet-communities-closed-systems"
     ],
     "themes": [
       "computing-and-web",
@@ -8781,35 +8277,6 @@
     "socialHook": "People tend to prefer Pepsi in blind taste tests, but Coke still wins on the shelf — brain scans revealed why."
   },
   {
-    "id": "corporations-limit-owner-risk",
-    "headline": "The World's Oldest Company Ran for Over 1,400 Years",
-    "body": "Most businesses are lucky to last a few decades. A Japanese construction firm called Kongo Gumi lasted from 578 CE until 2006, more than fourteen centuries, building Buddhist temples through generations of the same family. It survived wars, disasters, and changing dynasties before finally being absorbed by a larger company. Dozens of businesses in Japan are over a thousand years old, often inns and temple builders.",
-    "summary": "A Japanese temple-building firm stayed in business for over 1,400 years before closing in 2006.",
-    "categoryId": "business",
-    "topic": "Corporations",
-    "tags": [
-      "corporations",
-      "history",
-      "japan"
-    ],
-    "readTimeSeconds": 53,
-    "featured": false,
-    "relatedFactIds": [
-      "franchises-support-control-tradeoff",
-      "franchises-license-a-business",
-      "cherry-blossoms-1912-gift",
-      "supply-demand-price-signal",
-      "stock-market-fuels-growth"
-    ],
-    "themes": [
-      "architecture-and-structures",
-      "record-extremes",
-      "disaster-and-catastrophe",
-      "war-and-conflict"
-    ],
-    "socialHook": "One Japanese company stayed in business for over 1,400 years before finally closing."
-  },
-  {
     "id": "entrepreneurship-risk-profit",
     "headline": "He Built 5,127 Vacuums Before One Worked",
     "body": "Frustrated with a vacuum that kept losing suction, James Dyson set out to design a better one. It took him fifteen years and 5,126 failed prototypes; the 5,127th finally worked. He was deep in debt by the time it succeeded, and no manufacturer wanted his bagless design, so he launched his own company. Today he's a billionaire. Entrepreneurship often looks less like a flash of genius and more like stubborn failure.",
@@ -8827,8 +8294,8 @@
       "patents-three-main-types",
       "patents-right-to-exclude",
       "monopolies-one-seller-power",
-      "advertising-funds-media",
-      "trade-secrets-can-last-indefinitely"
+      "trade-secrets-can-last-indefinitely",
+      "trade-secrets-valuable-because-secret"
     ],
     "themes": [
       "invention-and-breakthrough"
@@ -8853,8 +8320,8 @@
       "monopolies-competition-spectrum",
       "monopolies-entry-barriers",
       "patents-three-main-types",
-      "advertising-funds-media",
-      "advertising-persuades-public"
+      "advertising-persuades-public",
+      "advertising-funds-media"
     ],
     "themes": [
       "invention-and-breakthrough",
@@ -8881,8 +8348,8 @@
       "monopolies-one-seller-power",
       "monopolies-competition-spectrum",
       "franchises-support-control-tradeoff",
-      "supply-demand-price-signal",
-      "trade-secrets-can-last-indefinitely"
+      "trade-secrets-can-last-indefinitely",
+      "supply-demand-price-signal"
     ],
     "themes": [],
     "socialHook": "When the government broke up one man's massive oil monopoly into 34 companies, he owned pieces of all of them — and got even richer."
@@ -8905,8 +8372,8 @@
       "monopolies-one-seller-power",
       "monopolies-entry-barriers",
       "franchises-license-a-business",
-      "corporations-limit-owner-risk",
-      "advertising-funds-media"
+      "advertising-funds-media",
+      "trade-secrets-valuable-because-secret"
     ],
     "themes": [],
     "socialHook": "For most of the 20th century in America, you couldn't legally own your own home telephone. You had to rent it."
@@ -8957,8 +8424,8 @@
       "franchises-license-a-business",
       "trade-secrets-can-last-indefinitely",
       "velcro-manufacturing-challenge",
-      "trade-secrets-valuable-because-secret",
-      "advertising-persuades-public"
+      "advertising-persuades-public",
+      "trade-secrets-valuable-because-secret"
     ],
     "themes": [
       "money-trade-and-value",
@@ -9037,9 +8504,9 @@
     "relatedFactIds": [
       "franchises-fees-and-royalties",
       "franchises-license-a-business",
-      "corporations-limit-owner-risk",
       "monopolies-entry-barriers",
-      "trademarks-protect-brands"
+      "trademarks-protect-brands",
+      "brands-shape-perception"
     ],
     "themes": [
       "record-extremes"
@@ -9063,9 +8530,9 @@
     "relatedFactIds": [
       "advertising-modern-printing",
       "monopolies-one-seller-power",
-      "corporations-limit-owner-risk",
       "entrepreneurship-risk-profit",
-      "franchises-support-control-tradeoff"
+      "franchises-support-control-tradeoff",
+      "franchises-license-a-business"
     ],
     "themes": [
       "games-and-play",
@@ -9091,8 +8558,8 @@
       "supply-demand-price-signal",
       "monopolies-one-seller-power",
       "franchises-license-a-business",
-      "advertising-funds-media",
-      "advertising-modern-printing"
+      "advertising-modern-printing",
+      "advertising-funds-media"
     ],
     "themes": [
       "money-trade-and-value",
@@ -9119,10 +8586,10 @@
     "relatedFactIds": [
       "patents-three-main-types",
       "entrepreneurship-risk-profit",
-      "monopolies-one-seller-power",
+      "trade-secrets-can-last-indefinitely",
       "safety-pin-debt",
       "windshield-wipers-snowy-trolley",
-      "wheels-pottery-turntable"
+      "sumerians-cuneiform"
     ],
     "themes": [
       "invention-and-breakthrough",
@@ -9427,9 +8894,9 @@
     "relatedFactIds": [
       "currency-more-than-cash",
       "barter-oldest-commerce",
-      "recession-not-depression",
       "banking-deposits-become-loans",
-      "inflation-has-multiple-causes"
+      "inflation-has-multiple-causes",
+      "supply-chains-raw-to-retail"
     ],
     "themes": [
       "money-trade-and-value",
@@ -9512,10 +8979,10 @@
     "featured": false,
     "relatedFactIds": [
       "inflation-weakens-buying-power",
-      "recession-not-depression",
       "currency-more-than-cash",
       "banking-deposits-become-loans",
-      "currency-can-be-unusual"
+      "currency-can-be-unusual",
+      "supply-chains-raw-to-retail"
     ],
     "themes": [
       "money-trade-and-value",
@@ -9524,34 +8991,6 @@
       "music-and-sound"
     ],
     "socialHook": "In one country's economic collapse, prices doubled roughly every 15 hours — the fastest inflation ever recorded."
-  },
-  {
-    "id": "recession-not-depression",
-    "headline": "'Depression' Was Picked Because It Sounded Gentle",
-    "body": "Earlier downturns were bluntly called 'panics' or 'crises.' When the economy cratered around 1929, President Herbert Hoover and others preferred the word 'depression,' reportedly because it sounded milder and less alarming than panic. The irony is brutal: the slump grew so catastrophic, with unemployment near 25%, that 'the Great Depression' became the very byword for economic disaster the soft word was meant to avoid.",
-    "summary": "Leaders chose the word 'depression' because it sounded gentler than 'panic', just before the Great Depression made it terrifying.",
-    "categoryId": "economics",
-    "topic": "Recession",
-    "tags": [
-      "recession",
-      "great-depression",
-      "history"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "inflation-has-multiple-causes",
-      "banking-deposits-become-loans",
-      "currency-can-be-unusual",
-      "currency-more-than-cash",
-      "supply-chains-raw-to-retail"
-    ],
-    "themes": [
-      "disaster-and-catastrophe",
-      "money-trade-and-value",
-      "music-and-sound"
-    ],
-    "socialHook": "The word 'depression' was chosen specifically because it sounded gentler than 'panic' — right before it became the byword for economic disaster."
   },
   {
     "id": "supply-chains-raw-to-retail",
@@ -9654,7 +9093,7 @@
       "libraries-alexandria-symbol",
       "libraries-store-memory",
       "book-covers-before-dust-jackets",
-      "banned-books-can-increase-interest"
+      "detective-fiction-hard-boiled"
     ],
     "themes": [
       "record-extremes",
@@ -9678,44 +9117,17 @@
     "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
-      "banned-books-can-increase-interest",
       "book-covers-before-dust-jackets",
       "printing-gutenberg-revolution",
       "libraries-alexandria-symbol",
-      "comics-sequential-art"
+      "comics-sequential-art",
+      "fairy-tales-childlike-dark"
     ],
     "themes": [
       "storytelling-and-narrative",
       "numbers-and-mathematics"
     ],
     "socialHook": "One classic children's book was banned in the 1930s for the crime of letting animals talk like people."
-  },
-  {
-    "id": "banned-books-can-increase-interest",
-    "headline": "A Judge Asked If This Book Was Fit for Your Servants to Read, Then It Sold 2 Million Copies",
-    "body": "In 1960, British publisher Penguin was prosecuted for obscenity over D.H. Lawrence's Lady Chatterley's Lover. The trial became a sensation when the prosecutor famously asked jurors whether it was a book they would even let their servants read. Penguin won. The moment the verdict cleared it, the novel went on sale and flew off shelves, around two million copies within weeks. Trying to bury a book can be the best publicity it ever gets.",
-    "summary": "Prosecuted for obscenity in 1960, Lady Chatterley's Lover became an instant sensation the moment it won, selling roughly two million copies within weeks.",
-    "categoryId": "literature",
-    "topic": "Banned Books",
-    "tags": [
-      "banned-books",
-      "obscenity-trial",
-      "publishing"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "banned-books-ideas-under-pressure",
-      "shakespeare-borrowed-sources",
-      "printing-gutenberg-revolution",
-      "book-covers-before-dust-jackets",
-      "comics-sequential-art",
-      "detective-fiction-poe-origin"
-    ],
-    "themes": [
-      "storytelling-and-narrative"
-    ],
-    "socialHook": "One novel was put on trial for obscenity — the moment it won, it sold about two million copies within weeks."
   },
   {
     "id": "comics-sequential-art",
@@ -9734,9 +9146,9 @@
     "relatedFactIds": [
       "fairy-tales-childlike-dark",
       "printing-press-idea-machine",
-      "banned-books-can-increase-interest",
       "book-covers-before-dust-jackets",
-      "printing-gutenberg-revolution"
+      "printing-gutenberg-revolution",
+      "libraries-alexandria-symbol"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -9760,10 +9172,10 @@
     "featured": false,
     "relatedFactIds": [
       "detective-fiction-hard-boiled",
-      "epic-poems-heroic-scale",
       "storytelling-older-than-writing",
-      "banned-books-can-increase-interest",
-      "printing-gutenberg-revolution"
+      "printing-gutenberg-revolution",
+      "book-covers-before-dust-jackets",
+      "comics-sequential-art"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -9787,11 +9199,11 @@
     "featured": false,
     "relatedFactIds": [
       "detective-fiction-poe-origin",
-      "shakespeare-borrowed-sources",
       "printing-press-idea-machine",
+      "legends-place-person-history",
       "voynich-strange-illustrations",
       "lighthouse-keepers-aids-navigation",
-      "indus-undeciphered-script"
+      "blockchain-public-private-keys"
     ],
     "themes": [
       "lost-and-rediscovered",
@@ -9800,34 +9212,6 @@
       "games-and-play"
     ],
     "socialHook": "The best-selling novelist in history once vanished for 11 days — and never fully explained what happened."
-  },
-  {
-    "id": "epic-poems-heroic-scale",
-    "headline": "The Oldest Epic Has a Flood Story Older Than Noah's",
-    "body": "The Epic of Gilgamesh, written in Mesopotamia over 4,000 years ago, is among the oldest stories humans have. Buried inside it is a startling scene: a man is warned of a world-destroying flood, builds a great boat, loads it with animals, and later releases a bird to find dry land. The parallels to Noah's Ark are unmistakable, and Gilgamesh's version was written down many centuries earlier.",
-    "summary": "The 4,000-year-old Epic of Gilgamesh contains a flood-and-ark tale strikingly like Noah's, written centuries before it.",
-    "categoryId": "literature",
-    "topic": "Epic Poems",
-    "tags": [
-      "epic-poems",
-      "gilgamesh",
-      "ancient-literature"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "epic-poems-gilgamesh-old",
-      "storytelling-older-than-writing",
-      "detective-fiction-poe-origin",
-      "poetry-compressed-language",
-      "myths-explain-world"
-    ],
-    "themes": [
-      "record-extremes",
-      "hidden-underground",
-      "storytelling-and-narrative"
-    ],
-    "socialHook": "One of the oldest written stories on Earth contains a flood-and-ark tale strikingly similar to Noah's — written centuries earlier."
   },
   {
     "id": "epic-poems-gilgamesh-old",
@@ -9844,45 +9228,17 @@
     "readTimeSeconds": 54,
     "featured": false,
     "relatedFactIds": [
-      "epic-poems-heroic-scale",
       "poetry-compressed-language",
       "libraries-alexandria-symbol",
       "libraries-store-memory",
-      "myths-explain-world"
+      "world-records-global-brand",
+      "storytelling-older-than-writing"
     ],
     "themes": [
       "record-extremes",
       "war-and-conflict"
     ],
     "socialHook": "One ancient epic poem runs to about 1.8 million words — roughly ten times the length of the Iliad and Odyssey combined."
-  },
-  {
-    "id": "fairy-tales-folk-and-art",
-    "headline": "Some Fairy Tales Are Thousands of Years Old",
-    "body": "Fairy tales feel timeless, and it turns out some literally are. Researchers using techniques borrowed from biology, tracing how stories change as languages split apart, estimate that certain tales are astonishingly ancient. One, 'The Smith and the Devil,' may date back around 6,000 years, older than the Bible or the classical Greek myths. These stories were being told around fires long before anyone could write them down.",
-    "summary": "Researchers traced some fairy tales back roughly 6,000 years, older than the Bible or Greek mythology.",
-    "categoryId": "literature",
-    "topic": "Fairy Tales",
-    "tags": [
-      "fairy-tales",
-      "folklore",
-      "ancient-stories"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "fairy-tales-childlike-dark",
-      "myths-explain-world",
-      "printing-gutenberg-revolution",
-      "sleep-paralysis-hallucinations",
-      "werewolves-medical-theories",
-      "kraken-may-reflect-squid"
-    ],
-    "themes": [
-      "myth-vs-reality",
-      "storytelling-and-narrative"
-    ],
-    "socialHook": "Some fairy tales are estimated to be around 6,000 years old — older than the Bible or Greek mythology."
   },
   {
     "id": "fairy-tales-childlike-dark",
@@ -9899,11 +9255,11 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "fairy-tales-folk-and-art",
       "comics-sequential-art",
       "printing-press-idea-machine",
       "book-covers-before-dust-jackets",
-      "printing-gutenberg-revolution"
+      "printing-gutenberg-revolution",
+      "libraries-alexandria-symbol"
     ],
     "themes": [
       "money-trade-and-value",
@@ -9928,9 +9284,9 @@
     "relatedFactIds": [
       "legends-travel-and-change",
       "legends-between-history-and-myth",
-      "shakespeare-borrowed-sources",
+      "detective-fiction-hard-boiled",
       "socotra-mistaken-for-atlantis",
-      "detective-fiction-hard-boiled"
+      "printing-gutenberg-revolution"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -9959,7 +9315,7 @@
       "legends-travel-and-change",
       "world-records-global-brand",
       "detective-fiction-poe-origin",
-      "epic-poems-heroic-scale"
+      "storytelling-older-than-writing"
     ],
     "themes": [
       "parental-care",
@@ -9987,8 +9343,8 @@
       "legends-place-person-history",
       "legends-between-history-and-myth",
       "printing-gutenberg-revolution",
-      "shakespeare-borrowed-sources",
-      "shakespeare-language-lives"
+      "shakespeare-language-lives",
+      "pliny-younger-skipped-rescue"
     ],
     "themes": [
       "music-and-sound",
@@ -10017,7 +9373,7 @@
       "world-records-global-brand",
       "storytelling-can-be-sung",
       "epic-poems-gilgamesh-old",
-      "epic-poems-heroic-scale"
+      "storytelling-older-than-writing"
     ],
     "themes": [
       "record-extremes",
@@ -10044,42 +9400,13 @@
       "world-records-global-brand",
       "printing-gutenberg-revolution",
       "book-covers-before-dust-jackets",
-      "banned-books-can-increase-interest"
+      "epic-poems-gilgamesh-old"
     ],
     "themes": [
       "storytelling-and-narrative",
       "war-and-conflict"
     ],
     "socialHook": "The Library of Alexandria probably didn't burn down in one dramatic fire — it more likely faded away slowly over centuries of neglect."
-  },
-  {
-    "id": "myths-explain-world",
-    "headline": "Some Myths Remember the Coastline From 10,000 Years Ago",
-    "body": "Aboriginal Australian oral traditions include stories of a time when the sea was lower and the shoreline lay far out from where it is now. Scientists checking these tales against the geological record found they match real sea-level rise from the end of the last Ice Age, roughly 7,000 to 10,000 years ago. Passed down by voice across hundreds of generations, these may be the oldest accurate stories humanity has ever kept.",
-    "summary": "Aboriginal myths accurately describe coastlines from up to 10,000 years ago, possibly Earth's oldest true stories.",
-    "categoryId": "literature",
-    "topic": "Myths",
-    "tags": [
-      "myth",
-      "aboriginal-australia",
-      "oral-history"
-    ],
-    "readTimeSeconds": 50,
-    "featured": false,
-    "relatedFactIds": [
-      "myths-culture-validation",
-      "fairy-tales-folk-and-art",
-      "epic-poems-heroic-scale",
-      "taste-buds-thousands-on-tongue",
-      "apollo13-failure-not-option-myth"
-    ],
-    "themes": [
-      "record-extremes",
-      "myth-vs-reality",
-      "storytelling-and-narrative",
-      "music-and-sound"
-    ],
-    "socialHook": "Some Aboriginal Australian myths accurately describe a coastline from up to 10,000 years ago."
   },
   {
     "id": "myths-culture-validation",
@@ -10096,11 +9423,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "myths-explain-world",
-      "fairy-tales-folk-and-art",
       "epic-poems-gilgamesh-old",
+      "detective-fiction-hard-boiled",
       "check-mark-yes-symbol",
       "norse-mythology-fragmentary-sources",
+      "libraries-store-memory",
       "pasta-vermicelli-little-worms"
     ],
     "themes": [
@@ -10110,34 +9437,6 @@
       "timekeeping"
     ],
     "socialHook": "You're quietly naming ancient Norse gods every single day of the week."
-  },
-  {
-    "id": "novels-long-prose-worlds",
-    "headline": "The World's First Novel Was Written by a Woman 600 Years Before Cervantes",
-    "body": "Long before Europe's celebrated novels, a Japanese noblewoman known as Murasaki Shikibu wrote The Tale of Genji around the year 1000, roughly 600 years before authors like Cervantes. Following the loves and intrigues of a prince across more than a thousand pages, with deep psychological detail, it is often called the world's first real novel. It was written by a woman, in a royal court, centuries before the form even had a name in the West.",
-    "summary": "Japan's The Tale of Genji, written by noblewoman Murasaki Shikibu around 1000 CE, is often called history's first true novel, roughly six centuries before Europe's celebrated ones.",
-    "categoryId": "literature",
-    "topic": "Novels",
-    "tags": [
-      "novels",
-      "tale-of-genji",
-      "murasaki-shikibu"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "poetry-compressed-language",
-      "banned-books-can-increase-interest",
-      "book-covers-before-dust-jackets",
-      "printing-gutenberg-revolution",
-      "pseudonyms-author-mask"
-    ],
-    "themes": [
-      "storytelling-and-narrative",
-      "world-first",
-      "psychology-and-behavior"
-    ],
-    "socialHook": "The world's first true novel was written by a woman — roughly 600 years before Europe's most celebrated novels."
   },
   {
     "id": "poetry-compressed-language",
@@ -10154,11 +9453,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "novels-long-prose-worlds",
-      "epic-poems-heroic-scale",
       "epic-poems-gilgamesh-old",
-      "myths-explain-world",
-      "banned-books-can-increase-interest"
+      "printing-gutenberg-revolution",
+      "book-covers-before-dust-jackets",
+      "pseudonyms-author-mask",
+      "pseudonyms-genre-expectations"
     ],
     "themes": [
       "world-first",
@@ -10185,8 +9484,8 @@
       "printing-press-idea-machine",
       "world-records-global-brand",
       "book-covers-before-dust-jackets",
-      "banned-books-can-increase-interest",
       "libraries-alexandria-symbol",
+      "comics-sequential-art",
       "banned-books-ideas-under-pressure"
     ],
     "themes": [
@@ -10237,11 +9536,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "shakespeare-borrowed-sources",
       "shakespeare-language-lives",
       "detective-fiction-hard-boiled",
       "poetry-compressed-language",
-      "banned-books-ideas-under-pressure"
+      "banned-books-ideas-under-pressure",
+      "pseudonyms-author-mask"
     ],
     "themes": [],
     "socialHook": "In his will, Shakespeare left his own wife nothing but his 'second-best bed' — and nobody's ever fully agreed on why."
@@ -10261,45 +9560,17 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "shakespeare-borrowed-sources",
       "shakespeare-theatre-career",
       "detective-fiction-hard-boiled",
       "legends-place-person-history",
-      "legends-travel-and-change"
+      "legends-travel-and-change",
+      "poetry-compressed-language"
     ],
     "themes": [
       "human-body-quirks",
       "lost-and-rediscovered"
     ],
     "socialHook": "You've probably quoted Shakespeare today without even realizing it."
-  },
-  {
-    "id": "shakespeare-borrowed-sources",
-    "headline": "Half of Shakespeare's Plays Were Nearly Lost",
-    "body": "Shakespeare never bothered to publish his plays; they were scripts for performance, not books. When he died, many existed only as scattered, fragile copies. Seven years later, in 1623, two of his fellow actors gathered them into a single collection now called the First Folio. Without it, about eighteen plays, including Macbeth, Twelfth Night, and The Tempest, might have vanished entirely. Two loyal friends quietly saved half the Shakespeare we have.",
-    "summary": "Without the 1623 First Folio compiled by two friends, about 18 Shakespeare plays, including Macbeth, might be lost.",
-    "categoryId": "literature",
-    "topic": "Shakespeare",
-    "tags": [
-      "shakespeare",
-      "first-folio",
-      "publishing"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "shakespeare-language-lives",
-      "shakespeare-theatre-career",
-      "banned-books-can-increase-interest",
-      "detective-fiction-hard-boiled",
-      "book-covers-before-dust-jackets",
-      "legends-place-person-history"
-    ],
-    "themes": [
-      "lost-and-rediscovered",
-      "storytelling-and-narrative"
-    ],
-    "socialHook": "About half of Shakespeare's plays, including Macbeth, nearly vanished forever — saved only because two of his friends bothered to collect them."
   },
   {
     "id": "storytelling-older-than-writing",
@@ -10318,10 +9589,10 @@
     "relatedFactIds": [
       "storytelling-can-be-sung",
       "storytelling-griots-memory",
-      "epic-poems-heroic-scale",
+      "detective-fiction-poe-origin",
       "musical-instruments-human-universal",
       "sharks-older-than-dinosaurs",
-      "detective-fiction-poe-origin"
+      "sacred-texts-scripture-authority"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -10376,8 +9647,8 @@
       "storytelling-older-than-writing",
       "storytelling-can-be-sung",
       "pliny-younger-skipped-rescue",
-      "sacred-texts-written-and-oral",
-      "novels-long-prose-worlds"
+      "poetry-compressed-language",
+      "legends-travel-and-change"
     ],
     "themes": [
       "counterintuitive-scale",
@@ -10402,11 +9673,11 @@
     "featured": false,
     "relatedFactIds": [
       "printing-gutenberg-revolution",
-      "banned-books-can-increase-interest",
       "libraries-alexandria-symbol",
       "comics-sequential-art",
+      "banned-books-ideas-under-pressure",
       "fairy-tales-childlike-dark",
-      "banned-books-ideas-under-pressure"
+      "detective-fiction-poe-origin"
     ],
     "themes": [
       "storytelling-and-narrative"
@@ -10429,10 +9700,10 @@
     "featured": false,
     "relatedFactIds": [
       "pseudonyms-genre-expectations",
-      "banned-books-can-increase-interest",
       "book-covers-before-dust-jackets",
       "printing-gutenberg-revolution",
-      "banned-books-ideas-under-pressure"
+      "banned-books-ideas-under-pressure",
+      "poetry-compressed-language"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -10456,10 +9727,10 @@
     "featured": false,
     "relatedFactIds": [
       "pseudonyms-author-mask",
-      "banned-books-can-increase-interest",
       "printing-gutenberg-revolution",
       "book-covers-before-dust-jackets",
-      "banned-books-ideas-under-pressure"
+      "banned-books-ideas-under-pressure",
+      "libraries-alexandria-symbol"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -10485,8 +9756,8 @@
       "tongue-twisters-practice-tools",
       "sign-language-complete-language",
       "lucid-dreaming-rem",
-      "writing-systems-sound-or-meaning",
-      "dictionaries-not-always-alphabetical"
+      "dictionaries-not-always-alphabetical",
+      "writing-systems-sound-or-meaning"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -10564,9 +9835,9 @@
     "relatedFactIds": [
       "sign-language-complete-language",
       "writing-systems-sound-or-meaning",
-      "indus-undeciphered-script",
       "prosthetics-more-than-limbs",
-      "translation-more-than-word-swapping"
+      "translation-more-than-word-swapping",
+      "alphabet-name-alpha-beta"
     ],
     "themes": [
       "language-and-writing",
@@ -10809,10 +10080,10 @@
     "relatedFactIds": [
       "sign-language-complete-language",
       "writing-systems-sound-or-meaning",
-      "ampersand-more-than-decoration",
       "nightmares-common-adults",
+      "calendars-not-one-system",
       "hieroglyphics-always-phonetic",
-      "dollar-sign-spanish-pesos"
+      "caesar-cipher-julius-caesar"
     ],
     "themes": [
       "origins-and-naming",
@@ -10867,7 +10138,7 @@
       "dictionaries-began-bilingual",
       "tongue-twisters-practice-tools",
       "accents-not-same-as-dialects",
-      "writing-systems-sound-or-meaning",
+      "morse-code-sos-pattern",
       "translation-more-than-word-swapping"
     ],
     "themes": [
@@ -10955,7 +10226,7 @@
       "bridges-materials-changed-spans",
       "afterimages-retina-desensitized",
       "fly-geyser-art-landscape",
-      "columns-capitals-show-style"
+      "aurora-other-planets"
     ],
     "themes": [
       "color-and-light"
@@ -10988,30 +10259,6 @@
       "timekeeping"
     ],
     "socialHook": "One ancient temple was built so precisely that sunlight only reaches its innermost chamber on two specific days a year."
-  },
-  {
-    "id": "bauhaus-house-of-building",
-    "headline": "The Nazis Shut Down the Bauhaus, and It Conquered America",
-    "body": "The Bauhaus design school taught that simple, functional forms could improve everyday life. The Nazis hated it, branding its modern style un-German and 'degenerate,' and forced it to close in 1933. But that backfired spectacularly. Its leading teachers fled to the United States, where Walter Gropius landed at Harvard and Ludwig Mies van der Rohe in Chicago. The crackdown meant to kill modern design instead seeded it across America.",
-    "summary": "The Nazis forced the Bauhaus to close in 1933, but its exiled teachers carried modern design straight to America.",
-    "categoryId": "architecture",
-    "topic": "Bauhaus",
-    "tags": [
-      "bauhaus",
-      "modernism",
-      "history"
-    ],
-    "readTimeSeconds": 53,
-    "featured": false,
-    "relatedFactIds": [
-      "brutalism-postwar-function",
-      "glass-buildings-postwar-energy",
-      "domes-arch-turned-space",
-      "columns-support-and-symbol",
-      "castles-not-palaces"
-    ],
-    "themes": [],
-    "socialHook": "The Nazis shut down one design school for being 'un-German' — and it backfired so badly, the school's ideas ended up conquering America instead."
   },
   {
     "id": "bridges-five-basic-forms",
@@ -11100,35 +10347,6 @@
     "socialHook": "The Golden Gate Bridge was almost painted in black-and-yellow safety stripes instead of its famous orange."
   },
   {
-    "id": "brutalism-postwar-function",
-    "headline": "The Most Hated Buildings Became Instagram Stars",
-    "body": "For decades, Brutalist buildings were widely loathed, dismissed as ugly grey concrete monstrosities, and many were demolished. Then the internet flipped the script. Their bold, sculptural, photogenic forms became wildly popular on Instagram and in design books, sparking a preservation movement to save the survivors. Some of the same structures once slated for the wrecking ball are now protected landmarks. One generation's eyesore became the next one's aesthetic.",
-    "summary": "Once-hated Brutalist concrete buildings became Instagram favorites, flipping from demolition targets to protected landmarks.",
-    "categoryId": "architecture",
-    "topic": "Brutalism",
-    "tags": [
-      "brutalism",
-      "architecture",
-      "taste"
-    ],
-    "readTimeSeconds": 54,
-    "featured": false,
-    "relatedFactIds": [
-      "gothic-architecture-pointed-up",
-      "pyramids-global-form",
-      "airplanes-wing-airfoils",
-      "taste-buds-thousands-on-tongue",
-      "skyscrapers-technology-coincidence"
-    ],
-    "themes": [
-      "architecture-and-structures",
-      "stars-and-cosmos",
-      "internet-and-virality",
-      "language-and-writing"
-    ],
-    "socialHook": "Some of the most hated buildings of the 20th century became Instagram favorites decades later."
-  },
-  {
     "id": "columns-support-and-symbol",
     "headline": "The Parthenon Has Almost No Straight Lines",
     "body": "The Parthenon looks like a model of perfect, ruler-straight geometry. It isn't. Its builders knew that truly straight lines look subtly bowed and lifeless to the human eye, so they curved nearly everything to compensate. The columns bulge gently in the middle, lean slightly inward, and sit on a floor that domes upward by several centimeters. Almost nothing is actually straight, all to make it look flawlessly straight.",
@@ -11143,11 +10361,11 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "columns-capitals-show-style",
       "domes-push-outward",
       "castles-keeps-replaced-donjons",
       "optical-illusions-mirror-therapy",
-      "domes-romans-scaled-up"
+      "domes-romans-scaled-up",
+      "pyramids-giza-fame"
     ],
     "themes": [
       "optical-illusion",
@@ -11155,32 +10373,6 @@
       "numbers-and-mathematics"
     ],
     "socialHook": "The Parthenon looks perfectly straight. Almost none of its lines actually are."
-  },
-  {
-    "id": "columns-capitals-show-style",
-    "headline": "Some Columns Are Carved as Women Holding Up Roofs",
-    "body": "Not every column is a plain shaft. Caryatids are columns sculpted in the form of standing women, who appear to hold up the roof on their heads. The most famous stand on the Erechtheion temple in Athens. One ancient story says they represented women of a defeated city, condemned to bear a heavy load forever. A structural support became a statue, and a punishment turned into one of architecture's most elegant features.",
-    "summary": "Caryatids are columns carved as standing women who appear to hold up the roof, most famously on Athens' Erechtheion.",
-    "categoryId": "architecture",
-    "topic": "Columns",
-    "tags": [
-      "columns",
-      "caryatids",
-      "greece"
-    ],
-    "readTimeSeconds": 50,
-    "featured": false,
-    "relatedFactIds": [
-      "columns-support-and-symbol",
-      "ancient-temples-cella-inner-room",
-      "gothic-architecture-walls-of-light",
-      "ancient-temples-oriented-space",
-      "urban-planning-city-shaping"
-    ],
-    "themes": [
-      "storytelling-and-narrative"
-    ],
-    "socialHook": "Some ancient columns are carved as women, appearing to physically hold up the entire roof on their heads."
   },
   {
     "id": "concrete-aggregate-cement-water",
@@ -11201,7 +10393,7 @@
       "glass-buildings-postwar-energy",
       "concrete-steel-reinforcement",
       "polymers-life-natural-polymers",
-      "gothic-architecture-walls-of-light"
+      "pyramids-global-form"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -11254,8 +10446,8 @@
     "relatedFactIds": [
       "domes-romans-scaled-up",
       "domes-arch-turned-space",
-      "gothic-architecture-walls-of-light",
       "gothic-architecture-pointed-up",
+      "bridges-live-dead-loads",
       "columns-support-and-symbol"
     ],
     "themes": [
@@ -11352,35 +10544,6 @@
     "socialHook": "Glass skyscrapers are estimated to kill up to a billion birds a year in the US alone, just because birds can't see glass."
   },
   {
-    "id": "gothic-architecture-walls-of-light",
-    "headline": "Cathedrals Moved Their Skeleton Outside So the Walls Could Disappear Into Glass",
-    "body": "Gothic cathedrals wanted walls of glowing stained glass, but glass can't hold up a heavy stone roof. The solution was the flying buttress: an arched arm of stone reaching from the building out to a separate pier, catching the roof's outward thrust and pushing it safely down to the ground. With the load carried outside, the walls were freed to dissolve into towering windows. The skeleton moved out so the light could come in.",
-    "summary": "Flying buttresses hauled a Gothic cathedral's crushing roof-thrust outside the building entirely, so the solid stone walls could dissolve into towering stained glass.",
-    "categoryId": "architecture",
-    "topic": "Gothic Architecture",
-    "tags": [
-      "gothic-architecture",
-      "flying-buttress",
-      "stained-glass"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "gothic-architecture-pointed-up",
-      "urban-planning-technical-political",
-      "domes-push-outward",
-      "glass-buildings-postwar-energy",
-      "skyscrapers-technology-coincidence"
-    ],
-    "themes": [
-      "architecture-and-structures",
-      "flight-and-aviation",
-      "bioluminescence-and-glow",
-      "motion-and-force"
-    ],
-    "socialHook": "Gothic cathedrals moved their entire structural skeleton to the outside of the building, just so the walls could dissolve into glowing glass."
-  },
-  {
     "id": "gothic-architecture-pointed-up",
     "headline": "A Cathedral Could Take Six Centuries to Finish",
     "body": "Building a Gothic cathedral was a project that outlived everyone who started it. Many took well over a hundred years; Germany's Cologne Cathedral was begun in 1248 and not completed until 1880, more than six centuries later, with a long pause when work simply stopped. The masons who laid the foundations knew they would never see the spires. They were building for great-great-grandchildren they would never meet.",
@@ -11395,11 +10558,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "gothic-architecture-walls-of-light",
       "skyscrapers-technology-coincidence",
       "urban-planning-technical-political",
       "glass-buildings-postwar-energy",
-      "pyramids-global-form"
+      "pyramids-global-form",
+      "domes-romans-scaled-up"
     ],
     "themes": [
       "architecture-and-structures"
@@ -11623,7 +10786,7 @@
       "urban-planning-city-shaping",
       "gothic-architecture-pointed-up",
       "concrete-aggregate-cement-water",
-      "gothic-architecture-walls-of-light"
+      "skyscrapers-technology-coincidence"
     ],
     "themes": [
       "flight-and-aviation",
@@ -11729,8 +10892,8 @@
     "featured": false,
     "relatedFactIds": [
       "dragons-hero-test",
-      "unicorns-purity-symbol",
       "norse-mythology-fragmentary-sources",
+      "phoenix-reborn-from-fire",
       "taste-buds-thousands-on-tongue",
       "maps-preserve-worldviews",
       "fairies-close-to-humans"
@@ -11865,7 +11028,7 @@
     "relatedFactIds": [
       "fairies-not-always-sweet",
       "dragons-east-west-difference",
-      "unicorns-purity-symbol",
+      "norse-mythology-fragmentary-sources",
       "cicadas-shed-skins",
       "ants-queen-role"
     ],
@@ -11895,7 +11058,7 @@
       "werewolves-medical-theories",
       "fossils-permineralization",
       "fossils-careful-excavation",
-      "unicorns-purity-symbol",
+      "norse-mythology-fragmentary-sources",
       "ankylosaurus-tail-club"
     ],
     "themes": [
@@ -11950,10 +11113,10 @@
     "featured": false,
     "relatedFactIds": [
       "werewolves-medical-theories",
-      "unicorns-purity-symbol",
+      "werewolves-trials-europe",
       "sleep-paralysis-hallucinations",
-      "fairy-tales-folk-and-art",
-      "werewolves-trials-europe"
+      "horseshoes-st-dunstan",
+      "dragons-east-west-difference"
     ],
     "themes": [
       "myth-vs-reality",
@@ -12083,9 +11246,9 @@
     "relatedFactIds": [
       "norse-mythology-fragmentary-sources",
       "dragons-east-west-difference",
-      "unicorns-purity-symbol",
       "greek-mythology-art-afterlife",
-      "fairies-close-to-humans"
+      "fairies-close-to-humans",
+      "phoenix-reborn-from-fire"
     ],
     "themes": [
       "self-sacrifice",
@@ -12113,8 +11276,8 @@
       "dragons-east-west-difference",
       "norse-mythology-world-tree",
       "combustion-heat-accelerates-reaction",
-      "unicorns-purity-symbol",
-      "norse-mythology-fragmentary-sources"
+      "norse-mythology-fragmentary-sources",
+      "kraken-may-reflect-squid"
     ],
     "themes": [
       "parental-care",
@@ -12193,10 +11356,10 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "unicorns-purity-symbol",
       "norse-mythology-fragmentary-sources",
       "king-arthur-medieval-expansion",
       "minotaur-labyrinth-prison",
+      "kraken-may-reflect-squid",
       "werewolves-trials-europe"
     ],
     "themes": [
@@ -12205,32 +11368,6 @@
       "war-and-conflict"
     ],
     "socialHook": "'Unicorn horns' sold for fortunes in medieval Europe were actually just narwhal tusks."
-  },
-  {
-    "id": "unicorns-purity-symbol",
-    "headline": "Scotland's National Animal Is the Unicorn",
-    "body": "Most countries pick a real, proud beast as their national symbol — a lion, an eagle, a bear. Scotland looked at all of that and picked an animal that has never existed. The unicorn has been Scotland's national symbol since the 1300s, chosen as a proud, untamable creature that legend said would rather die than be captured — a fitting emblem for a fiercely independent nation. It still appears on the royal coat of arms today, shown in chains, to suggest even an unconquerable beast subdued.",
-    "summary": "Scotland's official national animal is the mythical unicorn, a symbol of proud, untamable independence since the 1300s.",
-    "categoryId": "myths-legends",
-    "topic": "Unicorns",
-    "tags": [
-      "unicorn",
-      "scotland",
-      "national-symbols"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "unicorn-one-horn",
-      "dragons-east-west-difference",
-      "norse-mythology-fragmentary-sources",
-      "kraken-may-reflect-squid",
-      "phoenix-reborn-from-fire"
-    ],
-    "themes": [
-      "myth-vs-reality"
-    ],
-    "socialHook": "Most countries pick a real animal as their national symbol. Scotland's official national animal has never existed."
   },
   {
     "id": "werewolves-trials-europe",
@@ -12250,8 +11387,8 @@
       "werewolves-medical-theories",
       "norse-mythology-world-tree",
       "kraken-may-reflect-squid",
-      "unicorns-purity-symbol",
-      "dragons-east-west-difference"
+      "dragons-east-west-difference",
+      "norse-mythology-fragmentary-sources"
     ],
     "themes": [
       "transformation-metamorphosis",
@@ -12278,8 +11415,8 @@
       "werewolves-trials-europe",
       "kraken-may-reflect-squid",
       "dragons-east-west-difference",
-      "fairy-tales-folk-and-art",
-      "rabbits-foot-graveyard-rules"
+      "rabbits-foot-graveyard-rules",
+      "sleep-paralysis-hallucinations"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -12361,10 +11498,10 @@
     "featured": false,
     "relatedFactIds": [
       "norse-mythology-world-tree",
-      "unicorns-purity-symbol",
       "dragons-east-west-difference",
+      "minotaur-labyrinth-prison",
       "myths-culture-validation",
-      "minotaur-labyrinth-prison"
+      "phoenix-reborn-from-fire"
     ],
     "themes": [
       "war-and-conflict",
@@ -12868,7 +12005,6 @@
       "dyatlov-tent-cut-open",
       "crop-circles-field-art",
       "detective-fiction-hard-boiled",
-      "indus-undeciphered-script",
       "solar-system-life-only-earth"
     ],
     "themes": [
@@ -13093,8 +12229,8 @@
       "blood-transfusions-human-blood-breakthrough",
       "transplant-surgery-rejection",
       "germ-theory-changed-cleanliness",
-      "germ-theory-key-figures",
-      "blood-types-antigens"
+      "blood-types-antigens",
+      "germ-theory-key-figures"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -13124,7 +12260,7 @@
       "stethoscope-distance-invention",
       "insulin-discovery-transformed-diabetes",
       "transplant-surgery-donor-shortage",
-      "x-rays-accidental-discovery-impact"
+      "diagnostic-imaging-many-tools"
     ],
     "themes": [
       "parental-care",
@@ -13261,7 +12397,7 @@
       "anesthesia-not-always-unconscious",
       "x-rays-accidental-discovery-impact",
       "transplant-surgery-donor-shortage",
-      "prosthetics-more-than-limbs"
+      "blood-transfusions-human-blood-breakthrough"
     ],
     "themes": [
       "gravity-and-orbits",
@@ -13315,8 +12451,8 @@
       "germ-theory-key-figures",
       "germ-theory-microbes-cause-disease",
       "blood-transfusions-began-before-types",
-      "sewers-public-health",
       "insulin-pancreas-beta-cells",
+      "transplant-surgery-donor-shortage",
       "medical-robots-surgeon-controlled"
     ],
     "themes": [
@@ -13372,8 +12508,8 @@
       "insulin-discovery-transformed-diabetes",
       "germ-theory-key-figures",
       "germ-theory-changed-cleanliness",
-      "transplant-surgery-rejection",
       "anesthesia-not-always-unconscious",
+      "transplant-surgery-rejection",
       "anesthesia-made-surgery-bearable"
     ],
     "themes": [
@@ -13456,7 +12592,7 @@
       "blood-types-antigens",
       "insulin-pancreas-beta-cells",
       "fossils-permineralization",
-      "brands-shape-perception"
+      "germ-theory-key-figures"
     ],
     "themes": [
       "deception-and-hoax",
@@ -13511,8 +12647,7 @@
       "anesthesia-not-always-unconscious",
       "monotheism-one-god",
       "hieroglyphics-always-phonetic",
-      "transplant-surgery-donor-shortage",
-      "diagnostic-imaging-many-tools"
+      "transplant-surgery-donor-shortage"
     ],
     "themes": [
       "record-extremes",
@@ -14157,7 +13292,7 @@
       "lakes-basins-hold-water",
       "mountains-erode-while-rising",
       "valleys-climate-influence",
-      "coral-islands-built-from-skeletons"
+      "caves-acidic-water"
     ],
     "themes": [
       "record-extremes",
@@ -14294,9 +13429,9 @@
     "relatedFactIds": [
       "volcanoes-not-just-lava",
       "mount-vesuvius-population-risk",
-      "oceans-have-hidden-landscapes",
+      "caves-acidic-water",
       "moon-volcanoes-io",
-      "caves-acidic-water"
+      "oceans-have-hidden-landscapes"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -14380,8 +13515,8 @@
       "rainforests-climate-regulators",
       "caves-speleothems-redeposited",
       "volcanoes-shape-varies",
-      "dragons-blood-tree-umbrella-species",
       "ants-queen-role",
+      "ants-social-colonies",
       "beetles-most-diverse"
     ],
     "themes": [
@@ -15118,8 +14253,8 @@
       "hurricanes-storm-surge",
       "hurricanes-eye-eyewall-rainbands",
       "el-nino-global-weather",
-      "pulsars-magnetar-burst-sunlight",
       "energy-capacity-to-work",
+      "oxidation-numbers-track-change",
       "internal-combustion-engines-combustion-inside"
     ],
     "themes": [
@@ -15334,8 +14469,8 @@
     "featured": false,
     "relatedFactIds": [
       "barcode-upc-adoption",
-      "qr-codes-denso-wave",
       "television-kept-changing",
+      "qr-codes-denso-wave",
       "morse-code-sos-pattern",
       "morse-code-not-a-language"
     ],
@@ -15619,8 +14754,7 @@
       "internet-undersea-cables",
       "ballpoint-pen-air-force",
       "internet-arpanet-first-connection",
-      "internet-communities-closed-systems",
-      "world-wide-web-cern-1989"
+      "internet-communities-closed-systems"
     ],
     "themes": [
       "computing-and-web",
@@ -15866,8 +15000,8 @@
       "light-bulb-filament",
       "light-bulb-not-one-inventor-story",
       "batteries-electrochemical-cells",
-      "electricity-static-electron-transfer",
-      "electricity-electric-charges"
+      "electricity-electric-charges",
+      "electricity-static-electron-transfer"
     ],
     "themes": [
       "energy-and-power",
@@ -15975,9 +15109,9 @@
     "relatedFactIds": [
       "gps-satellite-positioning",
       "light-bulb-changed-night",
-      "wheels-pottery-turntable",
       "lucky-numbers-symbolism",
-      "telephone-long-distance-challenge"
+      "telephone-long-distance-challenge",
+      "gps-everyday-infrastructure"
     ],
     "themes": [
       "war-and-conflict",
@@ -16029,42 +15163,14 @@
     "relatedFactIds": [
       "pilgrimage-many-destinations",
       "iconography-religious-art",
-      "islam-quran-foundation",
       "religion-social-life",
-      "monasteries-solitude-and-community"
+      "monasteries-solitude-and-community",
+      "monasteries-spiritual-discipline"
     ],
     "themes": [
       "games-and-play"
     ],
     "socialHook": "Long before the cross, early Christians used a secret fish symbol as a coded sign so persecutors couldn't recognize them."
-  },
-  {
-    "id": "hinduism-karma-samsara-moksha",
-    "headline": "Hindu Time Is Measured in Billions of Years — Close to the Real Age of the Earth",
-    "body": "While many traditions count history in thousands of years, Hindu cosmology thinks on a scale that rivals modern astronomy. Time moves in vast repeating cycles, and a single 'day of Brahma,' one cosmic creator's day, is said to last billions of years, roughly comparable to the actual age of the Earth. Within ideas like karma and rebirth, a human life is a small moment inside almost unimaginably long stretches of cosmic time that endlessly repeat.",
-    "summary": "Hindu cosmology counts a single 'day of Brahma' as billions of years, a span that lands remarkably close to Earth's actual age, long before anyone had a way to measure it.",
-    "categoryId": "religion-beliefs",
-    "topic": "Hinduism",
-    "tags": [
-      "hinduism",
-      "cosmology",
-      "time"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "pilgrimage-many-destinations",
-      "islam-hajj-pilgrimage",
-      "black-holes-light-cannot-escape",
-      "lucid-dreaming-common",
-      "religion-social-life",
-      "jupiter-shortest-day"
-    ],
-    "themes": [
-      "stars-and-cosmos",
-      "relativity-and-time-warp"
-    ],
-    "socialHook": "One religious tradition measures a single cosmic 'day' in billions of years — landing remarkably close to the actual scientific age of the Earth."
   },
   {
     "id": "iconography-religious-art",
@@ -16082,44 +15188,15 @@
     "featured": false,
     "relatedFactIds": [
       "sacred-texts-scripture-authority",
-      "hinduism-karma-samsara-moksha",
       "pilgrimage-many-destinations",
       "buddhism-spread-across-asia",
+      "christianity-rooted-in-jesus",
       "religion-social-life"
     ],
     "themes": [
       "origins-and-naming"
     ],
     "socialHook": "One symbol was considered sacred across multiple religions for about 3,000 years before a single century completely changed how the world sees it."
-  },
-  {
-    "id": "islam-quran-foundation",
-    "headline": "Millions of People Have Memorized the Entire Qurʾān",
-    "body": "The Qurʾān is meant to be heard and recited, not just read silently, and that has produced a remarkable tradition. Millions of Muslims around the world have memorized the entire text, word for word, earning the title hafiz. The book is recited aloud in prayer, competitions, and daily life, and its standardized Arabic text is essentially the same everywhere. For many believers, the Qurʾān lives as much in human memory and sound as it does on the printed page.",
-    "summary": "Millions of Muslims, called hafiz, have memorized the entire Qurʾān word for word.",
-    "categoryId": "religion-beliefs",
-    "topic": "Islam",
-    "tags": [
-      "islam",
-      "quran",
-      "memorization"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "islam-hajj-pilgrimage",
-      "sacred-texts-written-and-oral",
-      "monasteries-solitude-and-community",
-      "pilgrimage-many-destinations",
-      "religion-social-life"
-    ],
-    "themes": [
-      "collective-behavior",
-      "storytelling-and-narrative",
-      "music-and-sound",
-      "psychology-and-behavior"
-    ],
-    "socialHook": "Millions of people around the world have memorized an entire sacred text, word for word."
   },
   {
     "id": "islam-hajj-pilgrimage",
@@ -16136,11 +15213,11 @@
     "readTimeSeconds": 51,
     "featured": false,
     "relatedFactIds": [
-      "islam-quran-foundation",
       "pilgrimage-many-destinations",
       "buddhism-spread-across-asia",
       "ibn-battuta-pilgrimage-start",
-      "hinduism-karma-samsara-moksha"
+      "religion-social-life",
+      "sacred-texts-scripture-authority"
     ],
     "themes": [
       "record-extremes",
@@ -16149,32 +15226,6 @@
       "food-and-cuisine"
     ],
     "socialHook": "One annual event brings roughly two million people to the same city, at the same time, in one of the most complex logistical operations humans regularly pull off."
-  },
-  {
-    "id": "judaism-diaspora-life",
-    "headline": "Hebrew Came Back to Life After 1,700 Years",
-    "body": "For roughly 1,700 years, Hebrew survived as a language of prayer, study, and scripture, but essentially no one grew up speaking it as their everyday mother tongue. Then, beginning in the late 1800s, a determined revival, led largely by Eliezer Ben-Yehuda, turned Hebrew back into a living, spoken language for daily life. Today millions speak it natively. It is the only known case in history of a 'dead' everyday language being successfully brought back into ordinary use.",
-    "summary": "Hebrew was a non-spoken language for ~1,700 years until a revival made it a living tongue again.",
-    "categoryId": "religion-beliefs",
-    "topic": "Judaism",
-    "tags": [
-      "judaism",
-      "hebrew",
-      "language-revival"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "sacred-texts-scripture-authority",
-      "islam-quran-foundation",
-      "buddhism-spread-across-asia",
-      "hinduism-karma-samsara-moksha",
-      "monasteries-spiritual-discipline"
-    ],
-    "themes": [
-      "parental-care"
-    ],
-    "socialHook": "One language went unspoken as an everyday tongue for roughly 1,700 years — then was deliberately revived and is now spoken natively by millions."
   },
   {
     "id": "monasteries-solitude-and-community",
@@ -16193,9 +15244,9 @@
     "relatedFactIds": [
       "monasteries-spiritual-discipline",
       "pilgrimage-many-destinations",
-      "islam-quran-foundation",
       "iconography-religious-art",
-      "christianity-rooted-in-jesus"
+      "christianity-rooted-in-jesus",
+      "sacred-texts-scripture-authority"
     ],
     "themes": [
       "collective-behavior"
@@ -16219,9 +15270,9 @@
     "relatedFactIds": [
       "monasteries-solitude-and-community",
       "buddhism-spread-across-asia",
-      "islam-quran-foundation",
+      "christianity-rooted-in-jesus",
       "caffeine-naturally-bitter",
-      "judaism-diaspora-life"
+      "iconography-religious-art"
     ],
     "themes": [
       "plants-and-botany",
@@ -16272,11 +15323,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "hinduism-karma-samsara-moksha",
       "monasteries-solitude-and-community",
-      "ibn-battuta-pilgrimage-start",
       "christianity-rooted-in-jesus",
-      "islam-hajj-pilgrimage"
+      "ibn-battuta-pilgrimage-start",
+      "islam-hajj-pilgrimage",
+      "buddhism-spread-across-asia"
     ],
     "themes": [
       "record-extremes",
@@ -16300,11 +15351,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "sacred-texts-written-and-oral",
-      "hinduism-karma-samsara-moksha",
-      "islam-quran-foundation",
       "islam-hajj-pilgrimage",
-      "iconography-religious-art"
+      "iconography-religious-art",
+      "monotheism-one-god",
+      "buddhism-spread-across-asia",
+      "christianity-rooted-in-jesus"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -16328,11 +15379,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "sacred-texts-written-and-oral",
       "buddhism-spread-across-asia",
       "monotheism-one-god",
       "storytelling-older-than-writing",
-      "pilgrimage-many-destinations"
+      "pilgrimage-many-destinations",
+      "islam-hajj-pilgrimage"
     ],
     "themes": [
       "accidental-discovery",
@@ -16340,33 +15391,6 @@
       "hidden-underground"
     ],
     "socialHook": "One shepherd tossed a rock into a cave in 1947 and accidentally discovered scriptures nearly 2,000 years old."
-  },
-  {
-    "id": "sacred-texts-written-and-oral",
-    "headline": "The Vedas Were Memorized Perfectly for 3,000 Years",
-    "body": "Long before they were written down, India's Vedas were preserved purely in human memory, with astonishing precision. Reciters used elaborate techniques, chanting the words forwards, backwards, and in scrambled patterns, as a built-in error check to guard against a single mistake. This oral discipline kept the texts essentially unchanged for some 3,000 years, an achievement so remarkable that it has been recognized as a masterpiece of humanity's oral heritage. The 'book' lived flawlessly in memory before it ever touched a page.",
-    "summary": "India's Vedas were preserved near-perfectly by memorized recitation for about 3,000 years before being written.",
-    "categoryId": "religion-beliefs",
-    "topic": "Sacred Texts",
-    "tags": [
-      "sacred-texts",
-      "vedas",
-      "oral-tradition"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "sacred-texts-scripture-authority",
-      "islam-quran-foundation",
-      "religion-social-life",
-      "storytelling-griots-memory",
-      "pilgrimage-many-destinations"
-    ],
-    "themes": [
-      "storytelling-and-narrative",
-      "psychology-and-behavior"
-    ],
-    "socialHook": "One set of ancient texts was preserved with near-perfect accuracy for about 3,000 years using nothing but memorization."
   },
   {
     "id": "dinosaur-eggs-all-dinosaurs-hatched",
@@ -16384,8 +15408,8 @@
     "featured": false,
     "relatedFactIds": [
       "dinosaur-eggs-embryos-rare",
-      "velociraptor-not-movie-sized",
       "triceratops-three-horns",
+      "velociraptor-not-movie-sized",
       "anglerfish-males-fuse-to-females",
       "seahorses-male-give-birth",
       "brachiosaurus-giraffe-build"
@@ -16552,7 +15576,7 @@
     "relatedFactIds": [
       "brachiosaurus-giraffe-build",
       "ankylosaurus-leaf-teeth",
-      "tyrannosaurus-sixty-teeth",
+      "triceratops-late-and-numerous",
       "sea-stars-external-digestion",
       "gut-microbiome-unique-network",
       "seahorses-no-stomachs"
@@ -18998,8 +18022,8 @@
       "pencils-borrowdale-discovery",
       "paper-clips-first-patent",
       "paper-clips-norway-symbol",
-      "keys-ancient-pin-tumbler",
-      "forks-replaced-table-knives"
+      "forks-replaced-table-knives",
+      "mirrors-telescope-front-coating"
     ],
     "themes": [
       "money-trade-and-value",
@@ -19079,7 +18103,6 @@
       "mirrors-telescope-front-coating",
       "forks-single-point",
       "forks-replaced-table-knives",
-      "zippers-slide-fastener",
       "pencils-borrowdale-discovery"
     ],
     "themes": [],
@@ -19104,7 +18127,7 @@
       "keys-serrated-flat-key",
       "toothbrushes-hog-bristles",
       "salar-de-uyuni-largest-salt-flat",
-      "keys-ancient-pin-tumbler"
+      "buttons-shell-to-plastic"
     ],
     "themes": [],
     "socialHook": "Almost no animal on Earth can actually recognize itself in a mirror."
@@ -19153,8 +18176,8 @@
       "pencils-borrowdale-discovery",
       "forks-single-point",
       "paper-clips-first-patent",
-      "keys-ancient-pin-tumbler",
-      "umbrellas-europe-return"
+      "umbrellas-europe-return",
+      "toothbrushes-hog-bristles"
     ],
     "themes": [
       "counterintuitive-scale"
@@ -19188,30 +18211,6 @@
     "socialHook": "One man was publicly mocked for about 30 years just for carrying an umbrella in the rain."
   },
   {
-    "id": "zippers-slide-fastener",
-    "headline": "One Company Makes About Half the World's Zippers",
-    "body": "Check the pull-tab on your jeans or jacket and you will likely see three letters: YKK. They stand for a Japanese company, Yoshida Kogyo Kabushikikaisha, that quietly dominates the zipper world, manufacturing roughly half of all the zippers on Earth, billions every year. The firm is so committed to quality that it makes much of its own machinery and even smelts its own brass. The humble fastener on countless garments worldwide tends to come from one obsessive maker most people have never heard of.",
-    "summary": "The 'YKK' stamped on most zippers is a Japanese company that makes about half the world's zippers.",
-    "categoryId": "everyday-objects",
-    "topic": "Zippers",
-    "tags": [
-      "zippers",
-      "ykk",
-      "manufacturing"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "paper-clips-norway-symbol",
-      "mirrors-venice-glass",
-      "pencils-borrowdale-discovery",
-      "paper-clips-first-patent",
-      "buttons-shell-to-plastic"
-    ],
-    "themes": [],
-    "socialHook": "One single Japanese company manufactures roughly half of every zipper on Earth."
-  },
-  {
     "id": "toothbrushes-hog-bristles",
     "headline": "Toothbrushes Used Hog Hair Until 1938",
     "body": "For centuries, the bristles in a toothbrush came from an animal: usually the coarse hairs from the back of a hog's neck, fixed into handles of bone or bamboo. These bristles were far from ideal. They were rough, fell out easily, took ages to dry, and harbored bacteria. That only changed in 1938, when the DuPont company introduced bristles made of its new synthetic fiber, nylon. Springy, durable, and quick-drying, nylon transformed the toothbrush into the smooth, hygienic object we use today.",
@@ -19228,9 +18227,9 @@
     "relatedFactIds": [
       "forks-replaced-table-knives",
       "forks-single-point",
-      "keys-ancient-pin-tumbler",
       "mirrors-telescope-front-coating",
-      "zippers-slide-fastener"
+      "shoelaces-areni-one",
+      "pencils-hardness-grades"
     ],
     "themes": [
       "human-body-quirks",
@@ -19254,7 +18253,7 @@
     "featured": false,
     "relatedFactIds": [
       "shoelaces-areni-one",
-      "keys-ancient-pin-tumbler",
+      "keys-serrated-flat-key",
       "forks-replaced-table-knives",
       "internal-combustion-engines-hot-gas-work",
       "paper-clips-norway-symbol"
@@ -19280,8 +18279,8 @@
     "featured": false,
     "relatedFactIds": [
       "shoelaces-ancient-shoes",
-      "keys-ancient-pin-tumbler",
       "forks-replaced-table-knives",
+      "umbrellas-europe-return",
       "easter-island-moai-not-just-heads",
       "pompeii-preserved-city",
       "antikythera-ancient-computer"
@@ -19310,8 +18309,8 @@
       "paper-clips-norway-symbol",
       "pencils-borrowdale-discovery",
       "buttons-shell-to-plastic",
-      "keys-ancient-pin-tumbler",
-      "pencils-hardness-grades"
+      "pencils-hardness-grades",
+      "forks-single-point"
     ],
     "themes": [
       "internet-and-virality",
@@ -19336,9 +18335,9 @@
     "relatedFactIds": [
       "paper-clips-first-patent",
       "forks-replaced-table-knives",
-      "keys-ancient-pin-tumbler",
       "buttons-shell-to-plastic",
-      "zippers-slide-fastener"
+      "pencils-borrowdale-discovery",
+      "umbrellas-europe-return"
     ],
     "themes": [
       "invention-and-breakthrough",
@@ -19364,41 +18363,13 @@
     "featured": false,
     "relatedFactIds": [
       "keys-serrated-flat-key",
-      "keys-ancient-pin-tumbler",
       "umbrellas-europe-return",
       "forks-single-point",
-      "zippers-slide-fastener"
+      "paper-clips-first-patent",
+      "mirrors-telescope-front-coating"
     ],
     "themes": [],
     "socialHook": "One lock was advertised as completely 'unpickable' — until a locksmith finally cracked it open in 1851, in public."
-  },
-  {
-    "id": "keys-ancient-pin-tumbler",
-    "headline": "Your House Key Runs on 4,000-Year-Old Technology",
-    "body": "The key in your pocket relies on an idea that is roughly 4,000 years old. The ancient Egyptians built wooden pin-tumbler locks, in which a set of pins had to be lifted to just the right heights by a wooden key before a bolt would slide free. That exact principle still secures most doors today. In the 1800s, Linus Yale Jr. simply miniaturized it into metal, shrinking the bulky wooden mechanism into the small flat key and cylinder lock we now use everywhere.",
-    "summary": "The pin-tumbler lock in modern house keys is based on a wooden mechanism the ancient Egyptians used ~4,000 years ago.",
-    "categoryId": "everyday-objects",
-    "topic": "Keys",
-    "tags": [
-      "keys",
-      "pin-tumbler",
-      "ancient-egypt"
-    ],
-    "readTimeSeconds": 53,
-    "featured": false,
-    "relatedFactIds": [
-      "keys-serrated-flat-key",
-      "keys-yale-modern-lock",
-      "shoelaces-areni-one",
-      "prosthetics-more-than-limbs",
-      "paper-clips-first-patent"
-    ],
-    "themes": [
-      "materials-and-chemistry",
-      "ancient-engineering",
-      "machines-and-mechanisms"
-    ],
-    "socialHook": "The lock on your front door today runs on the exact same basic idea the ancient Egyptians used about 4,000 years ago."
   },
   {
     "id": "keys-serrated-flat-key",
@@ -19415,9 +18386,9 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "keys-ancient-pin-tumbler",
       "keys-yale-modern-lock",
       "forks-replaced-table-knives",
+      "shoelaces-ancient-shoes",
       "prime-numbers-cryptography",
       "paper-clips-first-patent"
     ],
@@ -19444,10 +18415,10 @@
     "featured": false,
     "relatedFactIds": [
       "dishwasher-chipped-dishes",
-      "refrigerators-slow-spoilage",
       "nonstick-pans-accidental-teflon",
       "nonstick-pans-pfas-concerns",
-      "smoke-detectors-1970s-change"
+      "smoke-detectors-1970s-change",
+      "soap-germ-membranes"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -19471,44 +18442,17 @@
     "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
-      "refrigerators-slow-spoilage",
       "vacuum-cleaners-horse-drawn",
       "vacuum-cleaners-suck-not-blow",
       "dishwasher-chipped-dishes",
-      "nonstick-pans-accidental-teflon"
+      "nonstick-pans-accidental-teflon",
+      "nonstick-pans-pfas-concerns"
     ],
     "themes": [
       "invention-and-breakthrough",
       "psychology-and-behavior"
     ],
     "socialHook": "Albert Einstein once co-invented a refrigerator with literally no moving parts."
-  },
-  {
-    "id": "refrigerators-slow-spoilage",
-    "headline": "The Man Who Made Fridges Safe Also Wrecked the Ozone",
-    "body": "Early refrigerators used toxic or explosive gases like ammonia and sulfur dioxide, and leaks sometimes killed whole families. To fix that, chemist Thomas Midgley helped create Freon, a coolant that was safe to breathe and would not burn, and it made the modern fridge possible. But Freon and related chemicals later turned out to be tearing a hole in Earth's protective ozone layer. Midgley had also earlier invented leaded gasoline, giving him one of history's most damaging inventing records.",
-    "summary": "Thomas Midgley's Freon made refrigerators safe but later proved to destroy the ozone layer; he also invented leaded gasoline.",
-    "categoryId": "household-science",
-    "topic": "Refrigerators",
-    "tags": [
-      "refrigerators",
-      "freon",
-      "thomas-midgley"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "refrigerators-vapor-cycle",
-      "nonstick-pans-accidental-teflon",
-      "vacuum-cleaners-horse-drawn",
-      "nonstick-pans-pfas-concerns",
-      "soap-germ-membranes"
-    ],
-    "themes": [
-      "materials-and-chemistry",
-      "invention-and-breakthrough"
-    ],
-    "socialHook": "The same chemist who made refrigerators safer than ever also invented the coolant that ended up tearing a hole in the ozone layer."
   },
   {
     "id": "soap-germ-membranes",
@@ -19525,11 +18469,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "refrigerators-slow-spoilage",
       "nonstick-pans-accidental-teflon",
-      "germ-theory-microbes-cause-disease",
       "nonstick-pans-pfas-concerns",
-      "smoke-detectors-1970s-change"
+      "germ-theory-microbes-cause-disease",
+      "smoke-detectors-1970s-change",
+      "laundry-detergent-suspends-dirt"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -19555,8 +18499,8 @@
       "air-conditioning-comfort-later",
       "microwaves-magnetron-roots",
       "refrigerators-vapor-cycle",
-      "refrigerators-slow-spoilage",
-      "vacuum-cleaners-suck-not-blow"
+      "vacuum-cleaners-suck-not-blow",
+      "nonstick-pans-pfas-concerns"
     ],
     "themes": [
       "plants-and-botany",
@@ -19613,7 +18557,7 @@
       "vacuum-cleaners-suck-not-blow",
       "laundry-detergent-suspends-dirt",
       "ancient-china-gunpowder",
-      "wheels-pottery-turntable",
+      "windshield-wipers-snowy-trolley",
       "refrigerators-vapor-cycle"
     ],
     "themes": [
@@ -19696,7 +18640,7 @@
       "nonstick-pans-pfas-concerns",
       "nonstick-pans-accidental-teflon",
       "chernobyl-sweden-detected-radiation",
-      "refrigerators-slow-spoilage",
+      "soap-germ-membranes",
       "microwaves-accidental-cooking"
     ],
     "themes": [
@@ -19725,7 +18669,7 @@
       "vacuum-cleaners-luxury-first",
       "dishwasher-chipped-dishes",
       "refrigerators-vapor-cycle",
-      "refrigerators-slow-spoilage"
+      "microwaves-magnetron-roots"
     ],
     "themes": [
       "invention-and-breakthrough",
@@ -19752,8 +18696,8 @@
       "vacuum-cleaners-suck-not-blow",
       "vacuum-cleaners-luxury-first",
       "refrigerators-vapor-cycle",
-      "refrigerators-slow-spoilage",
-      "smoke-detectors-1970s-change"
+      "smoke-detectors-1970s-change",
+      "dishwasher-chipped-dishes"
     ],
     "themes": [
       "energy-and-power",
@@ -19806,10 +18750,10 @@
     "featured": false,
     "relatedFactIds": [
       "nonstick-pans-pfas-concerns",
-      "refrigerators-slow-spoilage",
       "soap-germ-membranes",
+      "smoke-detectors-1970s-change",
       "polymers-tunable-materials",
-      "smoke-detectors-1970s-change"
+      "laundry-detergent-suspends-dirt"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -19834,7 +18778,7 @@
     "relatedFactIds": [
       "nonstick-pans-accidental-teflon",
       "smoke-detectors-1970s-change",
-      "refrigerators-slow-spoilage",
+      "soap-germ-membranes",
       "dead-sea-lowest-water",
       "irrigation-theory-debated"
     ],
@@ -19861,8 +18805,8 @@
     "featured": false,
     "relatedFactIds": [
       "peace-symbol-despair",
-      "ampersand-more-than-decoration",
-      "dollar-sign-adopted-1785",
+      "recycling-symbol-earth-day-era",
+      "skull-crossbones-poison",
       "semaphore-visual-signaling",
       "semaphore-tower-network"
     ],
@@ -19888,9 +18832,9 @@
     "relatedFactIds": [
       "peace-symbol-nuclear-disarmament",
       "heart-symbol-not-anatomy",
-      "dollar-sign-adopted-1785",
+      "recycling-symbol-earth-day-era",
       "one-time-pad-hard-distribution",
-      "ampersand-more-than-decoration"
+      "skull-crossbones-poison"
     ],
     "themes": [
       "plants-and-botany",
@@ -19916,8 +18860,8 @@
       "skull-crossbones-jolly-roger",
       "peace-symbol-nuclear-disarmament",
       "peace-symbol-despair",
-      "ampersand-more-than-decoration",
-      "dollar-sign-spanish-pesos"
+      "skull-crossbones-poison",
+      "heart-symbol-not-anatomy"
     ],
     "themes": [
       "numbers-and-mathematics"
@@ -19942,8 +18886,8 @@
       "heart-symbol-ancient-beliefs",
       "peace-symbol-despair",
       "skull-crossbones-poison",
-      "dollar-sign-spanish-pesos",
-      "dollar-sign-adopted-1785"
+      "check-mark-yes-symbol",
+      "skull-crossbones-jolly-roger"
     ],
     "themes": [
       "human-body-quirks",
@@ -19969,42 +18913,15 @@
     "relatedFactIds": [
       "heart-symbol-not-anatomy",
       "check-mark-yes-symbol",
-      "ampersand-more-than-decoration",
+      "question-mark-inside-sentence",
       "egyptian-religion-cosmos-order",
-      "question-mark-inside-sentence"
+      "peace-symbol-despair"
     ],
     "themes": [
       "human-body-quirks",
       "psychology-and-behavior"
     ],
     "socialHook": "Every time you say something 'touched your heart,' you're quoting a 2,000-year-old anatomy mistake."
-  },
-  {
-    "id": "ampersand-more-than-decoration",
-    "headline": "The Word 'Ampersand' Is Literally Kids Mumbling in Class",
-    "body": "For a stretch of the 1800s, schoolchildren reciting the alphabet did not stop at Z. The & sign tagged along at the end as a kind of 27th letter. To say it, kids used the old phrase \"and per se and,\" meaning \"and by itself, and.\" Mumbled fast over and over, \"and per se and\" slurred into a single word: ampersand. The symbol's name is literally a recitation that wore down into one word.",
-    "summary": "For decades, schoolkids reciting the alphabet tacked '&' on the end as a 27th letter, saying 'and per se and' to mean 'and by itself.' Mumbled fast, over and over, that phrase slurred into a single word: ampersand.",
-    "categoryId": "famous-symbols",
-    "topic": "Ampersand",
-    "tags": [
-      "ampersand",
-      "alphabet",
-      "etymology"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "dollar-sign-spanish-pesos",
-      "check-mark-yes-symbol",
-      "alphabet-name-alpha-beta",
-      "nightmares-common-adults",
-      "skull-crossbones-poison"
-    ],
-    "themes": [
-      "origins-and-naming",
-      "language-and-writing"
-    ],
-    "socialHook": "The word 'ampersand' literally comes from generations of schoolkids mumbling the same phrase over and over until it slurred into one word."
   },
   {
     "id": "skull-crossbones-poison",
@@ -20023,9 +18940,9 @@
     "relatedFactIds": [
       "skull-crossbones-jolly-roger",
       "heart-symbol-not-anatomy",
-      "ampersand-more-than-decoration",
+      "peace-symbol-despair",
       "food-tasters-five-senses",
-      "peace-symbol-despair"
+      "recycling-symbol-earth-day-era"
     ],
     "themes": [
       "invention-and-breakthrough"
@@ -20051,7 +18968,7 @@
       "recycling-symbol-earth-day-era",
       "heart-symbol-not-anatomy",
       "food-tasters-five-senses",
-      "ampersand-more-than-decoration"
+      "peace-symbol-despair"
     ],
     "themes": [],
     "socialHook": "Victorian poison bottles were designed with ridges and odd shapes so you could identify them by touch alone, in the dark."
@@ -20071,11 +18988,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
-      "dollar-sign-spanish-pesos",
-      "ampersand-more-than-decoration",
+      "question-mark-inside-sentence",
+      "heart-symbol-ancient-beliefs",
       "gestures-co-speech",
       "pasta-vermicelli-little-worms",
-      "question-mark-inside-sentence",
+      "heart-symbol-not-anatomy",
       "myths-culture-validation"
     ],
     "themes": [
@@ -20099,71 +19016,15 @@
     "featured": false,
     "relatedFactIds": [
       "check-mark-yes-symbol",
-      "dollar-sign-adopted-1785",
-      "ampersand-more-than-decoration",
-      "dollar-sign-spanish-pesos",
-      "heart-symbol-ancient-beliefs"
+      "heart-symbol-ancient-beliefs",
+      "peace-symbol-despair",
+      "recycling-symbol-earth-day-era"
     ],
     "themes": [
       "world-first",
       "games-and-play"
     ],
     "socialHook": "One language warns you a question is coming before you've even read a single word of it."
-  },
-  {
-    "id": "dollar-sign-adopted-1785",
-    "headline": "The Dollar Sign Is Older Than the Dollar",
-    "body": "The $ was scribbled in the Americas before the United States, or its dollar, even existed. It grew out of the Spanish peso, the silver coin that dominated colonial trade. Merchants abbreviated pesos as \"ps,\" and writing it fast, again and again, the p and s collapsed together until the s wore a stroke through it. When the young U.S. picked a currency, it borrowed both the coin's value and its ready-made symbol.",
-    "summary": "The $ evolved from merchants' shorthand for the Spanish peso, before the U.S. existed.",
-    "categoryId": "famous-symbols",
-    "topic": "Dollar Sign",
-    "tags": [
-      "dollar-sign",
-      "peso",
-      "history"
-    ],
-    "readTimeSeconds": 50,
-    "featured": false,
-    "relatedFactIds": [
-      "dollar-sign-spanish-pesos",
-      "question-mark-inside-sentence",
-      "peace-symbol-despair",
-      "ampersand-more-than-decoration",
-      "peace-symbol-nuclear-disarmament"
-    ],
-    "themes": [
-      "money-trade-and-value",
-      "disaster-and-catastrophe"
-    ],
-    "socialHook": "The dollar sign existed before the US dollar did — it came from merchants abbreviating a completely different currency."
-  },
-  {
-    "id": "dollar-sign-spanish-pesos",
-    "headline": "The Word 'Dollar' Comes From a Czech Valley",
-    "body": "The word \"dollar\" has nothing to do with America at the start; it comes from a valley in what is now the Czech Republic. In the 1500s, a town called Joachimsthal (Joachim's Valley) minted popular silver coins nicknamed \"thalers.\" The name traveled across Europe, softening from thaler to daler to dollar, long before it ever crossed the Atlantic. A currency tied to the U.S. is named after a quiet Bohemian mining town.",
-    "summary": "'Dollar' descends from the 'thaler,' silver coins from a valley in today's Czech Republic.",
-    "categoryId": "famous-symbols",
-    "topic": "Dollar Sign",
-    "tags": [
-      "dollar-sign",
-      "thaler",
-      "etymology"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "dollar-sign-adopted-1785",
-      "ampersand-more-than-decoration",
-      "check-mark-yes-symbol",
-      "nightmares-common-adults",
-      "alphabet-name-alpha-beta",
-      "calendars-not-one-system"
-    ],
-    "themes": [
-      "origins-and-naming",
-      "money-trade-and-value"
-    ],
-    "socialHook": "The word 'dollar' has nothing to do with America originally — it comes from a small mining town in what's now the Czech Republic."
   },
   {
     "id": "gold-metal-as-pigment",
@@ -20235,8 +19096,8 @@
     "featured": false,
     "relatedFactIds": [
       "black-carbon-pigment",
-      "orange-named-late",
       "pink-not-always-girly",
+      "orange-named-late",
       "generative-ai-new-content-prompts",
       "gold-metal-as-pigment"
     ],
@@ -20265,9 +19126,9 @@
     "relatedFactIds": [
       "black-absence-of-light",
       "gold-metal-as-pigment",
+      "pink-once-for-boys",
       "purple-shellfish-origin",
-      "green-middle-spectrum",
-      "pink-once-for-boys"
+      "green-middle-spectrum"
     ],
     "themes": [
       "money-trade-and-value",
@@ -20598,7 +19459,6 @@
       "indigo-air-oxidation",
       "green-middle-spectrum",
       "blood-color-changes-with-oxygen",
-      "documentaries-shape-facts",
       "great-chicago-fire-oleary-barn"
     ],
     "themes": [
@@ -20849,7 +19709,7 @@
       "lucid-dreaming-rem",
       "circadian-rhythm-24-hour",
       "time-hard-to-define",
-      "hinduism-karma-samsara-moksha",
+      "black-holes-light-cannot-escape",
       "circadian-rhythm-melatonin"
     ],
     "themes": [
@@ -20878,7 +19738,7 @@
       "sleep-paralysis-hallucinations",
       "rem-sleep-muscle-atonia",
       "dragons-blood-tree-origin-legend",
-      "dollar-sign-spanish-pesos",
+      "calendars-not-one-system",
       "alphabet-name-alpha-beta"
     ],
     "themes": [
@@ -21263,8 +20123,8 @@
     "relatedFactIds": [
       "nightmares-common-adults",
       "rem-sleep-muscle-atonia",
-      "fairy-tales-folk-and-art",
       "horseshoes-st-dunstan",
+      "werewolves-medical-theories",
       "insomnia-daytime-effects",
       "kraken-may-reflect-squid"
     ],
@@ -21604,7 +20464,7 @@
       "color-illusions-three-cones",
       "brands-shape-perception",
       "pink-not-always-girly",
-      "depth-perception-motion-parallax"
+      "the-dress-blue-processing"
     ],
     "themes": [
       "perception-and-brain",
@@ -21776,8 +20636,8 @@
       "forced-perspective-focus-planning",
       "forced-perspective-camera-distance",
       "the-dress-split-perception",
-      "special-effects-miniature-physics",
-      "stop-motion-king-kong-model"
+      "stop-motion-king-kong-model",
+      "depth-perception-motion-parallax"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -21832,7 +20692,6 @@
       "forced-perspective-size-trick",
       "motion-illusions-rotating-snakes",
       "castles-keeps-replaced-donjons",
-      "documentaries-shape-facts",
       "japanese-castles-adapted-over-time"
     ],
     "themes": [
@@ -22053,8 +20912,8 @@
     "featured": false,
     "relatedFactIds": [
       "semaphore-visual-signaling",
-      "book-cipher-coordinates",
       "steganography-digital-files",
+      "book-cipher-coordinates",
       "peace-symbol-nuclear-disarmament",
       "enigma-rotors-plugboard"
     ],
@@ -22618,7 +21477,7 @@
       "rabbits-foot-graveyard-rules",
       "evil-eye-envy-glance",
       "sleep-paralysis-hallucinations",
-      "fairy-tales-folk-and-art",
+      "kraken-may-reflect-squid",
       "lucky-numbers-seven"
     ],
     "themes": [
@@ -22725,9 +21584,9 @@
     "relatedFactIds": [
       "eye-contact-engagement",
       "gestures-before-words",
+      "handshakes-quaker-greeting",
       "laughter-not-always-jokes",
-      "smiling-short-expression",
-      "facial-expressions-universal"
+      "smiling-short-expression"
     ],
     "themes": [
       "symbiosis-and-cooperation",
@@ -22782,7 +21641,7 @@
       "laughter-not-always-jokes",
       "deja-vu-brain-misfire",
       "eyes-retina-part-of-brain",
-      "crossed-arms-not-always-defensive",
+      "facial-expressions-universal",
       "memory-fading-helps-time"
     ],
     "themes": [
@@ -23123,30 +21982,6 @@
     "socialHook": "One explorer turned back just 97 miles from becoming the first person at the South Pole — to keep his team alive."
   },
   {
-    "id": "ibn-battuta-75000-miles",
-    "headline": "Ibn Battuta Out-Traveled Marco Polo Three Times Over",
-    "body": "Marco Polo gets the fame, but a Moroccan named Ibn Battuta traveled far farther. Over roughly 30 years in the 1300s, he covered an estimated 75,000 miles, about three times the distance of Marco Polo's journeys. His wanderings would touch the equivalent of more than 40 modern countries across Africa, the Middle East, and Asia. For sheer ground covered before the modern age, few travelers in history come close to him.",
-    "summary": "Ibn Battuta traveled roughly 75,000 miles, about three times as far as Marco Polo.",
-    "categoryId": "explorers",
-    "topic": "Ibn Battuta",
-    "tags": [
-      "ibn-battuta",
-      "travel",
-      "medieval-history"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "ibn-battuta-pilgrimage-start",
-      "marco-polo-kublai-khan",
-      "marco-polo-asia-journey",
-      "marco-polo-il-milione",
-      "lewis-clark-corps-discovery"
-    ],
-    "themes": [],
-    "socialHook": "One traveler covered roughly three times the distance Marco Polo did — and almost nobody's heard of him."
-  },
-  {
     "id": "ibn-battuta-pilgrimage-start",
     "headline": "A Trip to Mecca Became a 24-Year Journey",
     "body": "Ibn Battuta set out from Morocco at about 21 years old, meaning only to make the hajj, the pilgrimage to Mecca, and come home. He did not come home for around 24 years. One road led to another: after Mecca he pushed on through the Middle East, East Africa, India, and beyond, unable to stop. A single religious obligation quietly turned into one of the longest travel careers ever recorded.",
@@ -23161,11 +21996,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "ibn-battuta-75000-miles",
       "zheng-he-treasure-fleets",
       "zheng-he-maritime-legacy",
       "islam-hajj-pilgrimage",
-      "pilgrimage-many-destinations"
+      "pilgrimage-many-destinations",
+      "magellan-strait"
     ],
     "themes": [
       "record-extremes"
@@ -23190,8 +22025,8 @@
       "jacques-cousteau-calypso",
       "marco-polo-asia-journey",
       "sacagawea-only-woman",
-      "ibn-battuta-75000-miles",
-      "shackleton-nimrod-near-pole"
+      "shackleton-nimrod-near-pole",
+      "shackleton-endurance-survival"
     ],
     "themes": [
       "human-body-quirks",
@@ -23218,8 +22053,8 @@
       "jacques-cousteau-aqualung",
       "amundsen-south-pole-first",
       "magellan-pacific-name",
-      "marco-polo-kublai-khan",
-      "shackleton-nimrod-near-pole"
+      "shackleton-nimrod-near-pole",
+      "zheng-he-treasure-fleets"
     ],
     "themes": [
       "deep-sea-and-abyss",
@@ -23349,10 +22184,10 @@
     "featured": false,
     "relatedFactIds": [
       "marco-polo-il-milione",
-      "marco-polo-kublai-khan",
       "nellie-bly-72-days",
-      "ibn-battuta-75000-miles",
-      "jacques-cousteau-aqualung"
+      "jacques-cousteau-aqualung",
+      "magellan-strait",
+      "zheng-he-yongle-agent"
     ],
     "themes": [
       "human-body-quirks",
@@ -23360,35 +22195,6 @@
       "war-and-conflict"
     ],
     "socialHook": "One of history's most famous travel books was dictated from inside a prison cell."
-  },
-  {
-    "id": "marco-polo-kublai-khan",
-    "headline": "Some Doubt Marco Polo Ever Reached China",
-    "body": "For all his fame, a number of historians question whether Marco Polo truly traveled through China as he claimed. Skeptics point out that his account never mentions some of the country's most striking features: the Great Wall, the widespread drinking of tea, the use of chopsticks, or the practice of foot-binding. Some suspect he may have gathered parts of his story from other traders. Whether eyewitness or secondhand, his book still reshaped Europe's view of Asia.",
-    "summary": "Some scholars doubt Marco Polo reached China, noting he never mentions tea, chopsticks, or the Great Wall.",
-    "categoryId": "explorers",
-    "topic": "Marco Polo",
-    "tags": [
-      "marco-polo",
-      "history",
-      "skepticism"
-    ],
-    "readTimeSeconds": 53,
-    "featured": false,
-    "relatedFactIds": [
-      "marco-polo-il-milione",
-      "marco-polo-asia-journey",
-      "ibn-battuta-75000-miles",
-      "nellie-bly-72-days",
-      "sacagawea-shoshone-horses"
-    ],
-    "themes": [
-      "storytelling-and-narrative",
-      "money-trade-and-value",
-      "coffee-and-tea",
-      "numbers-and-mathematics"
-    ],
-    "socialHook": "Some historians actually doubt Marco Polo ever set foot in China at all."
   },
   {
     "id": "marco-polo-il-milione",
@@ -23405,11 +22211,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "marco-polo-kublai-khan",
       "marco-polo-asia-journey",
       "nellie-bly-asylum-reporting",
       "nellie-bly-72-days",
-      "sacagawea-shoshone-horses"
+      "sacagawea-shoshone-horses",
+      "amundsen-northwest-passage"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -23437,7 +22243,7 @@
       "marco-polo-asia-journey",
       "marco-polo-il-milione",
       "shackleton-endurance-survival",
-      "marco-polo-kublai-khan"
+      "magellan-strait"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -23575,7 +22381,7 @@
       "zheng-he-maritime-legacy",
       "magellan-strait",
       "lewis-clark-native-assistance",
-      "marco-polo-kublai-khan"
+      "marco-polo-asia-journey"
     ],
     "themes": [
       "motion-and-force"
@@ -24011,9 +22817,9 @@
     "relatedFactIds": [
       "bonsai-bicentennial-gift",
       "dragons-blood-tree-origin-legend",
-      "corporations-limit-owner-risk",
       "venus-flytrap-carolina-native",
-      "giant-sequoias-fire-bark"
+      "giant-sequoias-fire-bark",
+      "corpse-flower-one-evening-stink"
     ],
     "themes": [
       "plants-and-botany",
@@ -24072,7 +22878,7 @@
       "bamboo-rare-flowering",
       "combustion-oxygen-reaction",
       "combustion-heat-accelerates-reaction",
-      "poison-ivy-three-leaflets"
+      "venus-flytrap-carolina-native"
     ],
     "themes": [
       "plants-and-botany"
@@ -24293,7 +23099,8 @@
       "ants-chemical-communication",
       "dragonflies-aquatic-nymphs",
       "lakes-basins-hold-water",
-      "asteroids-less-mass-than-moon"
+      "asteroids-less-mass-than-moon",
+      "rainforests-four-layers"
     ],
     "themes": [
       "record-extremes",
@@ -24692,8 +23499,8 @@
     "relatedFactIds": [
       "fireflies-bioluminescence",
       "beetles-help-and-harm",
-      "mosquitoes-females-bite",
       "cicadas-shed-skins",
+      "mosquitoes-females-bite",
       "ants-queen-role"
     ],
     "themes": [
@@ -25476,8 +24283,8 @@
     "featured": false,
     "relatedFactIds": [
       "agriculture-settled-societies",
-      "sewers-public-health",
       "laws-ancient-codes",
+      "cities-ancient-roots",
       "musical-instruments-human-universal",
       "ants-queen-role"
     ],
@@ -25506,9 +24313,9 @@
     "relatedFactIds": [
       "agriculture-domestication-shift",
       "laws-national-codification",
-      "roads-military-first",
+      "cities-industrial-growth",
       "ants-queen-role",
-      "cities-industrial-growth"
+      "calendars-track-cycles"
     ],
     "themes": [
       "plants-and-botany",
@@ -25533,9 +24340,9 @@
     "relatedFactIds": [
       "calendars-reform",
       "calendars-not-one-system",
-      "timekeeping-mechanical-clocks",
       "timekeeping-escapement",
-      "timekeeping-atomic-clocks"
+      "timekeeping-atomic-clocks",
+      "laws-national-codification"
     ],
     "themes": [
       "collective-behavior",
@@ -25560,9 +24367,9 @@
     "relatedFactIds": [
       "calendars-track-cycles",
       "calendars-reform",
-      "timekeeping-mechanical-clocks",
+      "timekeeping-escapement",
       "nightmares-common-adults",
-      "dollar-sign-spanish-pesos"
+      "alphabet-name-alpha-beta"
     ],
     "themes": [
       "origins-and-naming",
@@ -25591,7 +24398,7 @@
       "calendars-not-one-system",
       "timekeeping-escapement",
       "french-revolution-bastille",
-      "timekeeping-mechanical-clocks"
+      "timekeeping-atomic-clocks"
     ],
     "themes": [
       "timekeeping",
@@ -25617,9 +24424,9 @@
     "relatedFactIds": [
       "cities-ancient-roots",
       "cities-industrial-growth",
-      "roads-military-first",
-      "coins-ancient-origins",
-      "sewers-wastewater-network"
+      "timekeeping-escapement",
+      "sewers-two-systems",
+      "laws-ancient-codes"
     ],
     "themes": [
       "self-organizing-patterns"
@@ -25643,9 +24450,9 @@
     "relatedFactIds": [
       "cities-industrial-growth",
       "cities-civilization-hubs",
-      "sewers-wastewater-network",
+      "timekeeping-escapement",
       "concrete-steel-reinforcement",
-      "roads-military-first"
+      "carthage-rome-burned-city"
     ],
     "themes": [
       "ancient-engineering",
@@ -25670,9 +24477,9 @@
     "relatedFactIds": [
       "cities-ancient-roots",
       "cities-civilization-hubs",
-      "coins-ancient-origins",
-      "timekeeping-mechanical-clocks",
-      "calendars-not-one-system"
+      "calendars-not-one-system",
+      "agriculture-domestication-shift",
+      "calendars-reform"
     ],
     "themes": [
       "world-first",
@@ -25680,61 +24487,6 @@
       "numbers-and-mathematics"
     ],
     "socialHook": "Humans have only been a majority city-dwelling species since around 2007."
-  },
-  {
-    "id": "coins-ancient-origins",
-    "headline": "The First Coins Came From a King So Rich He's a Byword",
-    "body": "The world's first true coins were struck around 2,600 years ago in Lydia, a kingdom in what is now Turkey. They were made from electrum, a naturally occurring pale alloy of gold and silver, stamped with official marks to certify their weight and value. Lydia's most famous ruler, King Croesus, refined the idea and grew so legendarily wealthy that his name survives today in the phrase 'rich as Croesus,' the ancient world's ultimate measure of a fortune.",
-    "summary": "The first coins were minted around 2,600 years ago in Lydia, home of the fabulously wealthy King Croesus.",
-    "categoryId": "human-civilization",
-    "topic": "Coins",
-    "tags": [
-      "coins",
-      "lydia",
-      "croesus"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "coins-ruler-portraits",
-      "cities-industrial-growth",
-      "sewers-two-systems",
-      "agriculture-domestication-shift",
-      "cities-civilization-hubs"
-    ],
-    "themes": [
-      "money-trade-and-value",
-      "materials-and-chemistry",
-      "world-first"
-    ],
-    "socialHook": "The first coins ever minted came from a king so legendarily rich, his name is still used to describe wealth today."
-  },
-  {
-    "id": "coins-ruler-portraits",
-    "headline": "Brutus Put the Ides of March on a Coin",
-    "body": "Ancient coins doubled as mass media, and one of the boldest ever minted was pure political bragging. After Brutus and his fellow conspirators brought down Julius Caesar, Brutus issued a coin advertising the deed. It showed a 'pileus,' the cap freed slaves wore to signal liberty, above the inscription 'EID MAR', short for the Ides of March. It was a claim, stamped in metal and passed hand to hand, that toppling Caesar had freed Rome.",
-    "summary": "Brutus minted a coin stamped 'EID MAR' to advertise the day he and his conspirators overthrew Caesar.",
-    "categoryId": "human-civilization",
-    "topic": "Coins",
-    "tags": [
-      "coins",
-      "brutus",
-      "rome"
-    ],
-    "readTimeSeconds": 47,
-    "featured": false,
-    "relatedFactIds": [
-      "coins-ancient-origins",
-      "sewers-wastewater-network",
-      "roads-military-first",
-      "sewers-two-systems",
-      "cities-ancient-roots"
-    ],
-    "themes": [
-      "record-extremes",
-      "materials-and-chemistry"
-    ],
-    "socialHook": "After assassinating Julius Caesar, Brutus minted a coin literally bragging about the exact day he did it."
   },
   {
     "id": "irrigation-theory-debated",
@@ -25755,7 +24507,7 @@
       "sewers-two-systems",
       "dead-sea-lowest-water",
       "glass-buildings-postwar-energy",
-      "coins-ruler-portraits",
+      "cities-ancient-roots",
       "nonstick-pans-pfas-concerns"
     ],
     "themes": [
@@ -25785,7 +24537,7 @@
       "agriculture-domestication-shift",
       "cities-ancient-roots",
       "olympic-games-ancient-greek-festival",
-      "sewers-wastewater-network"
+      "cities-industrial-growth"
     ],
     "themes": [
       "human-body-quirks"
@@ -25811,7 +24563,7 @@
       "calendars-track-cycles",
       "agriculture-settled-societies",
       "timekeeping-atomic-clocks",
-      "roads-military-first"
+      "timekeeping-escapement"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -25820,62 +24572,6 @@
       "music-and-sound"
     ],
     "socialHook": "Medieval European courts actually put animals on trial — with real defense lawyers and real sentences."
-  },
-  {
-    "id": "roads-military-first",
-    "headline": "Modern Highways Still Follow Roman Roads",
-    "body": "Roman engineers built their roads so well, running dead straight over hills and marshes on deep, layered foundations, that many have never really gone away. Across Britain, France, and beyond, the routes of major modern roads and highways still trace the paths the Romans laid down two thousand years ago, sometimes running directly on top of the ancient roadbed. When you drive certain European motorways today, you are following a course surveyed by Roman soldiers.",
-    "summary": "Roman roads were so well-built that many modern European highways still follow their exact 2,000-year-old routes.",
-    "categoryId": "human-civilization",
-    "topic": "Roads",
-    "tags": [
-      "roads",
-      "rome",
-      "engineering"
-    ],
-    "readTimeSeconds": 52,
-    "featured": false,
-    "relatedFactIds": [
-      "cities-ancient-roots",
-      "sewers-wastewater-network",
-      "carthage-rome-burned-city",
-      "concrete-steel-reinforcement",
-      "coins-ruler-portraits"
-    ],
-    "themes": [
-      "war-and-conflict",
-      "architecture-and-structures",
-      "machines-and-mechanisms"
-    ],
-    "socialHook": "Some modern highways in Europe still follow the exact same routes Roman engineers surveyed 2,000 years ago."
-  },
-  {
-    "id": "sewers-wastewater-network",
-    "headline": "Rome's Great Sewer Still Works After 2,500 Years",
-    "body": "One of the world's oldest surviving sewers has been quietly doing its job for around two and a half millennia. Rome's Cloaca Maxima, whose name means 'Greatest Sewer,' was begun in the 6th century BCE to drain the marshy valleys of the growing city, and portions of it still carry water and drain rainfall in Rome today. The Romans took it so seriously they even worshipped a goddess of the sewer, Cloacina, who presided over the whole underground system.",
-    "summary": "Rome's Cloaca Maxima, begun around 2,500 years ago, still partly drains the city and even had its own goddess.",
-    "categoryId": "human-civilization",
-    "topic": "Sewers",
-    "tags": [
-      "sewers",
-      "cloaca-maxima",
-      "rome"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "sewers-public-health",
-      "sewers-two-systems",
-      "coins-ruler-portraits",
-      "cities-ancient-roots",
-      "roads-military-first"
-    ],
-    "themes": [
-      "record-extremes",
-      "origins-and-naming",
-      "hidden-underground"
-    ],
-    "socialHook": "One of Rome's ancient sewers has been quietly working for around 2,500 years — and it even had its own goddess."
   },
   {
     "id": "sewers-two-systems",
@@ -25892,70 +24588,17 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "sewers-wastewater-network",
-      "sewers-public-health",
-      "coins-ruler-portraits",
       "irrigation-theory-debated",
-      "coins-ancient-origins"
+      "timekeeping-atomic-clocks",
+      "cities-ancient-roots",
+      "cities-industrial-growth",
+      "cities-civilization-hubs"
     ],
     "themes": [
       "materials-and-chemistry",
       "architecture-and-structures"
     ],
     "socialHook": "One city's sewer system only got built because the stench got so bad, lawmakers nearly abandoned their own government building."
-  },
-  {
-    "id": "sewers-public-health",
-    "headline": "Doctors Voted Sanitation the Greatest Advance",
-    "body": "It is easy to take the humble sewer for granted, but medical experts do not. When a leading medical journal once polled its readers on the single greatest medical advance since 1840, the winner was not antibiotics, anesthesia, or vaccines. It was sanitation, the clean water and sewer systems that carry human waste safely away from where people live. By cutting off the spread of deadly diseases like cholera and typhoid, plumbing has quietly saved more lives than almost any medicine.",
-    "summary": "Readers of a major medical journal voted sanitation the greatest medical advance since 1840, ahead of antibiotics and vaccines.",
-    "categoryId": "human-civilization",
-    "topic": "Sewers",
-    "tags": [
-      "sewers",
-      "sanitation",
-      "public-health"
-    ],
-    "readTimeSeconds": 51,
-    "featured": false,
-    "relatedFactIds": [
-      "sewers-wastewater-network",
-      "sewers-two-systems",
-      "agriculture-domestication-shift",
-      "germ-theory-changed-cleanliness",
-      "cities-industrial-growth"
-    ],
-    "themes": [
-      "medicine-and-cures"
-    ],
-    "socialHook": "When one medical journal polled its readers on the greatest medical advance ever, the winner wasn't antibiotics or vaccines."
-  },
-  {
-    "id": "timekeeping-mechanical-clocks",
-    "headline": "An 'Hour' Used to Change Length With the Seasons",
-    "body": "For most of history, an hour was not a fixed block of time. Many ancient societies simply divided the daylight into twelve equal 'hours,' whatever the length of the day. That meant a daytime hour in the long days of summer was noticeably longer than a daytime hour in the short days of winter, and night hours stretched and shrank the opposite way. Only with reliable mechanical clocks did the fixed, unchanging 60-minute hour we now take for granted take over.",
-    "summary": "Many ancient societies split daylight into 12 hours, so a daytime hour was longer in summer than in winter.",
-    "categoryId": "human-civilization",
-    "topic": "Timekeeping",
-    "tags": [
-      "timekeeping",
-      "hours",
-      "history"
-    ],
-    "readTimeSeconds": 53,
-    "featured": false,
-    "relatedFactIds": [
-      "timekeeping-escapement",
-      "timekeeping-atomic-clocks",
-      "calendars-reform",
-      "calendars-not-one-system",
-      "calendars-track-cycles"
-    ],
-    "themes": [
-      "timekeeping",
-      "numbers-and-mathematics"
-    ],
-    "socialHook": "For most of history, an actual hour was longer in summer than it was in winter."
   },
   {
     "id": "timekeeping-escapement",
@@ -25972,11 +24615,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "timekeeping-mechanical-clocks",
       "timekeeping-atomic-clocks",
       "calendars-reform",
       "calendars-track-cycles",
-      "irrigation-theory-debated"
+      "irrigation-theory-debated",
+      "calendars-not-one-system"
     ],
     "themes": [
       "timekeeping",
@@ -26000,11 +24643,11 @@
     "readTimeSeconds": 52,
     "featured": false,
     "relatedFactIds": [
-      "timekeeping-mechanical-clocks",
       "timekeeping-escapement",
       "calendars-reform",
       "calendars-track-cycles",
-      "sewers-two-systems"
+      "sewers-two-systems",
+      "calendars-not-one-system"
     ],
     "themes": [
       "timekeeping",
@@ -26290,7 +24933,7 @@
       "hypothermia-babies-lose-heat-fastest",
       "surviving-a-fall-vulovic-33000-feet",
       "blood-color-changes-with-oxygen",
-      "vacuum-of-space-swell-not-explode"
+      "wilderness-survival-getting-lost-top-cause"
     ],
     "themes": [
       "human-body-quirks",
@@ -26635,12 +25278,12 @@
     "readTimeSeconds": 56,
     "featured": false,
     "relatedFactIds": [
-      "dragons-blood-tree-umbrella-species",
       "dragons-blood-tree-origin-legend",
       "giant-sequoias-tiny-seeds",
+      "mangroves-storm-barriers",
       "socotra-endemic-plants",
       "giraffes-spread-legs-drink",
-      "caves-speleothems-redeposited"
+      "chameleons-two-way-eyes"
     ],
     "themes": [
       "plants-and-botany",
@@ -26648,36 +25291,6 @@
       "human-body-quirks"
     ],
     "socialHook": "One tree's strange umbrella shape exists to pull water out of thin air and pour it into the desert soil below."
-  },
-  {
-    "id": "dragons-blood-tree-umbrella-species",
-    "headline": "Half of Socotra's Reptiles Live in One Kind of Tree",
-    "body": "The dragon's blood tree does more than survive Socotra's harsh climate — it holds the island's ecosystem together. More than half of Socotra's native reptile species live on or around these trees, and dozens of local plant species, including several found nowhere else on Earth, grow only in the shade beneath them. Lose the tree, and an entire community of dependent species goes with it. Ecologists call it an 'umbrella species' for exactly that reason — not for its shape, but for what it shelters.",
-    "summary": "It's not just alien-looking — an entire ecosystem depends on its shade.",
-    "categoryId": "famous-trees-plants",
-    "topic": "Dragon's Blood Tree",
-    "tags": [
-      "dragons-blood-tree",
-      "socotra",
-      "ecosystem",
-      "biodiversity"
-    ],
-    "readTimeSeconds": 57,
-    "featured": false,
-    "relatedFactIds": [
-      "dragons-blood-tree-fog-harvesting",
-      "dragons-blood-tree-origin-legend",
-      "venus-flytrap-carolina-native",
-      "socotra-endemic-plants",
-      "rainforests-four-layers",
-      "coral-reefs-largest-biological-structures"
-    ],
-    "themes": [
-      "plants-and-botany",
-      "human-body-quirks",
-      "survival-adaptation"
-    ],
-    "socialHook": "More than half of one island's native reptile species depend on a single, alien-looking kind of tree to survive."
   },
   {
     "id": "herculaneum-scrolls-ai-unwrapped",
@@ -26728,8 +25341,8 @@
       "herculaneum-scrolls-ai-unwrapped",
       "captcha-checkbox-movement",
       "data-centers-avoid-downtime",
-      "world-wide-web-cern-1989",
-      "apollo-guidance-computer-rope-memory"
+      "apollo-guidance-computer-rope-memory",
+      "wi-fi-signals-bounce"
     ],
     "themes": [
       "automation-robots-ai",
@@ -26756,10 +25369,10 @@
     "featured": false,
     "relatedFactIds": [
       "storytelling-griots-memory",
-      "novels-long-prose-worlds",
+      "legends-travel-and-change",
       "pompeii-earthquake-before-eruption",
       "mount-vesuvius-population-risk",
-      "legends-travel-and-change"
+      "libraries-alexandria-symbol"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -26845,8 +25458,8 @@
       "apollo13-earth-horizon-navigation",
       "apollo13-houston-misquote",
       "apollo13-mattingly-measles-swap",
-      "apollo13-failure-not-option-myth",
-      "apollo13-haise-kidney-infection"
+      "apollo13-haise-kidney-infection",
+      "apollo13-failure-not-option-myth"
     ],
     "themes": [
       "energy-and-power",
@@ -26932,10 +25545,10 @@
     "featured": false,
     "relatedFactIds": [
       "wi-fi-signals-bounce",
-      "world-wide-web-cern-1989",
+      "internet-arpanet-first-connection",
       "apollo13-earth-horizon-navigation",
       "apollo13-mailbox-co2-fix",
-      "internet-arpanet-first-connection"
+      "blockchain-public-private-keys"
     ],
     "themes": [
       "flight-and-aviation",
@@ -26991,45 +25604,17 @@
     "readTimeSeconds": 57,
     "featured": false,
     "relatedFactIds": [
-      "apollo13-reentry-shallow-angle-cause",
       "sound-human-frequency-range",
-      "relativity-speed-of-light-limit",
+      "motion-velocity-has-direction",
       "apollo13-failure-not-option-myth",
-      "apollo13-haise-kidney-infection"
+      "apollo13-haise-kidney-infection",
+      "relativity-speed-of-light-limit"
     ],
     "themes": [
       "record-extremes",
       "flight-and-aviation"
     ],
     "socialHook": "Every Apollo mission went radio-silent for a predictable few minutes during reentry — except one, which stayed silent 87 seconds too long."
-  },
-  {
-    "id": "apollo13-reentry-shallow-angle-cause",
-    "headline": "A Slow Water Leak May Explain Apollo 13's Longest Silence",
-    "body": "For four days, Apollo 13's lunar module vented water vapor into space to cool its electronics, since the crew used it as a lifeboat far longer than the system was designed for. Commander Jim Lovell believes that extra venting acted like a tiny, invisible thruster, nudging the spacecraft onto a shallower path home and stretching its communications blackout to the longest of the program — though NASA never found a fully confirmed explanation. The shallower angle had one lucky side effect: it also made Apollo 13's splashdown one of the most accurate of any Apollo mission.",
-    "summary": "Nobody at NASA ever fully explained it, but the leading theory ties Apollo 13's scariest silence to its most accurate landing.",
-    "categoryId": "physics",
-    "topic": "Apollo 13 Re-Entry",
-    "tags": [
-      "apollo-13",
-      "nasa",
-      "mission-mystery",
-      "reentry"
-    ],
-    "readTimeSeconds": 58,
-    "featured": false,
-    "relatedFactIds": [
-      "apollo13-reentry-blackout-87-seconds",
-      "inertia-mass-resists-acceleration",
-      "inertia-no-net-force",
-      "apollo13-failure-not-option-myth",
-      "apollo13-earth-horizon-navigation"
-    ],
-    "themes": [
-      "record-extremes",
-      "motion-and-force"
-    ],
-    "socialHook": "Nobody at NASA ever fully explained Apollo 13's scariest moment of silence — but the leading theory ties it to one of the most accurate landings of the whole program."
   },
   {
     "id": "socotra-man-lives-in-cave",
@@ -27077,8 +25662,8 @@
     "featured": false,
     "relatedFactIds": [
       "dragons-blood-tree-fog-harvesting",
-      "dragons-blood-tree-umbrella-species",
       "cherry-blossoms-1912-gift",
+      "bonsai-living-sculptures",
       "socotra-endemic-plants",
       "nightmares-common-adults",
       "socotra-mistaken-for-atlantis"
@@ -27224,11 +25809,11 @@
     "readTimeSeconds": 61,
     "featured": false,
     "relatedFactIds": [
-      "documentaries-shape-facts",
       "film-editing-piece-by-piece",
+      "academy-awards-rules-eligibility",
       "apollo13-houston-misquote",
       "apollo13-reentry-blackout-87-seconds",
-      "academy-awards-rules-eligibility",
+      "stop-motion-frame-by-frame",
       "taste-buds-thousands-on-tongue"
     ],
     "themes": [
