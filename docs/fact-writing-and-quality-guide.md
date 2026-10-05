@@ -129,23 +129,41 @@ subject — keep it (but still drop any "says / according to" framing).
 
 ### Content types — how settled is the claim?
 Every entry carries a `contentType` (CSV column, default `fact`). The type says **how settled the claim
-is**; the category says what it is about. Anything that isn't a verified fact **must be labeled** — the
-app shows a type badge and a matching masthead ("Today's Legend"), so the label is the honesty mechanism.
+is**; the category says what it is about.
 
-| `contentType` | Use when | What the entry states (the "verifiable" part) |
-| --- | --- | --- |
-| `fact` | Empirically verified or documented. Default. | The claim itself. |
-| `legend` | Folklore, urban legend, ghost story, "the story goes…" | That the story exists: who first recorded it, when, where, what it says, what's known about its origin. Never that the story is true. |
-| `hoax` | A deliberate deception that was exposed or confessed. | The deception *and* its debunking — who did it, how it worked, how it was exposed. Never leave the hoax standing un-debunked. |
-| `theory` | A named explanation that is proposed but unproven or contested. | Who proposed it, when, on what evidence, and what the main objection is. |
-| `mystery` | An open question with no accepted answer. | What is known, what is not, and (optionally) the leading explanations. |
-| `possibility` | A scientific "may/might" — plausible but unconfirmed. | What was observed and what scientists suspect. |
+**The principle: every Nib card is a true statement.** A card never presents a legend, theory or hoax *as
+true*. It states verifiable things *about* it — that it exists, where and when it was first recorded, what the
+evidence is, and what the verdict is. "Legend says X" is a true statement if the record shows the legend says
+X; "a ghost haunts the house" is not. Nib's identity is short, intriguing, *backed* facts — these types widen
+what we write about, not what we are willing to assert.
 
-**Hedging is mandatory for every non-`fact` type** (`hoax` excepted — a debunked hoax is a settled fact
-about a deception): the headline, the summary **and** the body must each avoid asserting the claim as
-true. Use "legend says", "may", "appears", "scientists suspect", "one theory". A `mystery`/`theory`
-headline that reads like a settled claim defeats the label. A reader who sees only the notification
-(headline + summary) must come away knowing it is *not* settled.
+| `contentType` | Use when | What the entry states | Evidence anchor it needs |
+| --- | --- | --- | --- |
+| `fact` | Empirically verified or documented. Default. | The claim itself. | The source. |
+| `hoax` | A deliberate deception that was exposed or confessed. | The deception *and* its exposure. | The exposure: confession, trial record, expert test, investigation. |
+| `legend` | Folklore, urban legend, ghost story, curse. | The **documented origin** of the story — who first recorded it, when, and what is known about it. **Never the plot as the point.** | A dated document (book, newspaper, recording) and what the evidence says about the claim. |
+| `theory` | A named explanation that is proposed but unproven or contested. | Who proposed it, on what evidence, and the main objection. | The evidence for *and* against. |
+| `mystery` | An open question with no accepted answer. | What is known, what is not, and (optionally) leading explanations. | The documented facts of the case. |
+| `possibility` | A scientific "may/might" — plausible but unconfirmed. | What was observed and what scientists suspect. | The observation or measurement. |
+
+**The evidence-anchor rule (every non-`fact` entry).** Each entry must contain:
+1. **An anchor** — a verifiable, named piece of evidence from the source: a dated document, a trial record, a
+   confession, a test result, an expedition finding, a body count. If you cannot point to the anchor in the
+   source text, the entry is **rejected** — do not draft around it.
+2. **A status in plain words** — *debunked*, *unproven*, *contested*, *no evidence*, *the record shows…* — so a
+   reader who sees only the notification (headline + summary) still knows it is not settled.
+
+**Reject** an entry that is mainly a retelling of the story (plot beats, "the ghost then did…"), a bare
+anecdote or testimonial with no evidence and no verdict, or a claim whose only support is the claimant. A
+believer's or investigator's account can appear only as *the thing being evaluated*, never as the fact.
+
+**Hedging stays mandatory** for every non-`fact` type (`hoax` excepted — a debunked hoax is a settled fact
+about a deception): headline, summary **and** body must each avoid asserting the claim as true ("legend says",
+"may", "appears", "no evidence that…"). The test: could a reader come away believing the claim is true? If so,
+rewrite.
+
+**The app shows these as `Today's Fact`** like any other card; only the type badge differs. That is deliberate:
+the card is a true statement about the claim, so the masthead never needs to say "Legend".
 
 All other quality rules (§3 flatness, source-grounding, standalone, "wow") apply to every type. Pick the
 **most specific** type; if you can't decide between `theory` and `possibility`, use `theory` for a named
@@ -188,9 +206,10 @@ whether it clears these tests:
 - **Source-grounded** — everything is supported by the supplied source. No outside knowledge, no
   embellishment, no invented comparisons. *(Failing this is an automatic reject/review.)*
 - **Verifiable, not opinion** — a `fact` states something empirically verifiable, not an opinion,
-  argument, model, or theory presented as fact. Anything else is labeled with the right `contentType` and
-  hedged in headline, summary and body (see §5). *(An unlabeled theory/legend, or a labeled one that
-  asserts the claim as true, is an automatic reject, even if the hook is excellent.)*
+  argument, model, or theory presented as fact. Anything else is labeled with the right `contentType`,
+  carries an evidence anchor and status, and is hedged in headline, summary and body (see §5). *(An unlabeled
+  theory/legend, one with no evidence anchor, or one that asserts the claim as true is an automatic reject,
+  even if the hook is excellent.)*
 - **Standalone** — understandable with no surrounding context.
 - **Curiosity** — sparks a genuine "want to know more."
 - **Memory** — a user will remember it tomorrow.

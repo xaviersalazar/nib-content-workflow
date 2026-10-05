@@ -9291,8 +9291,8 @@
       "inflation-has-multiple-causes",
       "economic-bubbles-name-matters",
       "banking-deposits-become-loans",
-      "barter-gift-exchange-different",
-      "currency-more-than-cash"
+      "currency-more-than-cash",
+      "barter-gift-exchange-different"
     ],
     "themes": [
       "money-trade-and-value",
@@ -12581,8 +12581,8 @@
     "featured": false,
     "relatedFactIds": [
       "oak-island-flooded-shaft",
-      "easter-island-moai-not-just-heads",
       "taos-hum-low-frequency",
+      "easter-island-moai-not-just-heads",
       "book-cipher-book-as-key",
       "stonehenge-built-in-stages"
     ],
@@ -22551,10 +22551,10 @@
     "featured": false,
     "relatedFactIds": [
       "gestures-before-words",
-      "facial-expressions-universal",
+      "crossed-arms-not-always-defensive",
       "deja-vu-brain-misfire",
       "eyes-retina-part-of-brain",
-      "crossed-arms-not-always-defensive",
+      "facial-expressions-universal",
       "memory-fading-helps-time"
     ],
     "themes": [
@@ -27091,7 +27091,7 @@
       "winchester-mystery-house-death-legend-newspaper-origin",
       "the-ouija-board-blue-ghost-cemetery-statue",
       "the-ouija-board-makers-never-believed",
-      "amityville-keys-at-a-pizzeria"
+      "amityville-lawyer-wine-claim"
     ],
     "themes": [
       "games-and-play",
@@ -27135,7 +27135,7 @@
   {
     "id": "winchester-mystery-house-death-legend-newspaper-origin",
     "headline": "A Newspaper Started the Legend That Sarah Winchester Built Her House to Dodge Death",
-    "body": "The legend says Sarah Winchester kept building her mansion to avoid death. The first known written version appeared in the San Francisco Chronicle on February 24, 1895. Sarah never publicly explained why she was building. So the story kept being repeated in newspapers until she died. In 1911, another paper called the place a \"House of Mystery,\" long before it became known as the Winchester Mystery House.",
+    "body": "The legend says Sarah Winchester kept building her mansion to avoid death. The first known written version appeared in the San Francisco Chronicle on February 24, 1895. Sarah never publicly explained why she was building, so the legend rests on newspaper retellings, not on her own words. Papers kept repeating it until she died. In 1911, another paper called the place a \"House of Mystery,\" long before it became known as the Winchester Mystery House.",
     "summary": "She never answered the story, and it kept getting retold anyway.",
     "categoryId": "ghosts-haunted-things",
     "topic": "Winchester Mystery House",
@@ -27375,8 +27375,8 @@
       "the-mary-celeste-salvage-run",
       "the-mary-celeste-conan-doyle-fiction",
       "the-ouija-board-who-invented-it",
-      "amityville-keys-at-a-pizzeria",
-      "peppers-ghost-glass-trick"
+      "peppers-ghost-glass-trick",
+      "the-fox-sisters-grieving-seances"
     ],
     "themes": [
       "unsolved-mysteries",
@@ -27437,7 +27437,7 @@
       "the-mary-celeste-conan-doyle-fiction",
       "the-ouija-board-who-invented-it",
       "winchester-mystery-house-death-legend-newspaper-origin",
-      "amityville-keys-at-a-pizzeria"
+      "the-ouija-board-makers-never-believed"
     ],
     "themes": [
       "unsolved-mysteries",
@@ -27721,10 +27721,10 @@
     "featured": false,
     "relatedFactIds": [
       "amityville-stepson-says-story-false",
-      "amityville-keys-at-a-pizzeria",
       "the-bell-witch-cave-minor-role",
       "the-bell-witch-1894-book-source",
-      "winchester-mystery-house-death-legend-newspaper-origin"
+      "winchester-mystery-house-death-legend-newspaper-origin",
+      "the-bell-witch-kate-batts-outlived"
     ],
     "themes": [
       "legend-and-folklore",
@@ -27733,38 +27733,6 @@
       "scent-and-smell"
     ],
     "socialHook": "Amityville's haunting passed a lie detector. Then the lawyer spoke up.",
-    "contentType": "legend",
-    "addedAt": "2026-10-19T09:00:00Z"
-  },
-  {
-    "id": "amityville-keys-at-a-pizzeria",
-    "headline": "Famous Ghost Hunters Got the Amityville House Keys at a Pizzeria",
-    "body": "When famed paranormal investigators Ed and Lorraine Warren wanted to explore the Amityville house, they hoped George Lutz would join them. The closest he agreed to was a pizzeria four blocks away. He handed over the keys and refused to give details of what his family had experienced. The Warrens went in with a camera crew. Ed said he felt crushing pressure in the basement, and the couple concluded the house had \"diabolical forces.\" Whether anything was really there is still debated.",
-    "summary": "The man who said the house was haunted wouldn't meet them anywhere closer than four blocks away.",
-    "categoryId": "ghosts-haunted-things",
-    "topic": "Amityville",
-    "tags": [
-      "amityville",
-      "legend",
-      "warrens",
-      "investigation"
-    ],
-    "readTimeSeconds": 40,
-    "featured": false,
-    "relatedFactIds": [
-      "amityville-stepson-says-story-false",
-      "amityville-lawyer-wine-claim",
-      "the-bell-witch-1894-book-source",
-      "the-bell-witch-cave-minor-role",
-      "winchester-mystery-house-death-legend-newspaper-origin"
-    ],
-    "themes": [
-      "ghosts-and-hauntings",
-      "legend-and-folklore",
-      "unsolved-mysteries",
-      "motion-and-force"
-    ],
-    "socialHook": "He said his house was haunted, but he wouldn't go within four blocks of it.",
     "contentType": "legend",
     "addedAt": "2026-10-19T09:00:00Z"
   },
@@ -27784,8 +27752,8 @@
     "readTimeSeconds": 40,
     "featured": false,
     "relatedFactIds": [
-      "amityville-keys-at-a-pizzeria",
       "amityville-lawyer-wine-claim",
+      "the-bell-witch-cave-minor-role",
       "the-bell-witch-1894-book-source",
       "printing-gutenberg-revolution",
       "world-records-global-brand",

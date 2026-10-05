@@ -73,9 +73,13 @@ Apple's own rules.
 **The 13+ rating is handled separately** (owner updates it in App Store Connect) and is assumed in place for
 this plan — it is not a blocker or a scheduling dependency here.
 
+**Evidence rule (2026-10-05):** every non-`fact` entry must carry a verifiable evidence anchor and a plain-words
+status (guide §5) — the plan is legends/hoaxes/theories as *true statements about* a claim, never the claim told
+as true. Drafts that rest on a bare anecdote or a claimant's say-so are rejected. The app keeps the masthead
+"Today's Fact" for every type; only the badge differs.
+
 **App dependency:** old builds ignore `contentType` and unknown values decode as `fact`, so legend/hoax
-content *can* ship before the app's `002-content-types` change (it just renders without the type badge or
-"Today's Legend" masthead). The hedging rule (guide §5) is what protects the reader until then — so a
+content *can* ship before the app's `002-content-types` change (it just renders without the type badge). The hedging rule (guide §5) is what protects the reader until then — so a
 non-`fact` entry that fails to hedge in headline **and** summary **and** body must not ship either way.
 
 **What was displaced (still good — see "Displaced categories" in the backlog):** Reptiles & Amphibians (Oct),
