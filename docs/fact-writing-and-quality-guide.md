@@ -162,6 +162,13 @@ about a deception): headline, summary **and** body must each avoid asserting the
 "may", "appears", "no evidence that…"). The test: could a reader come away believing the claim is true? If so,
 rewrite.
 
+**Don't tag a type word.** The app shows the type as a badge, so a `legend`/`hoax`/`theory`/`mystery`/
+`possibility` entry must not also carry that word as a tag — the tag row would repeat the badge. (Dropped
+2026-10-05 from the nine Ghosts legends, the two hoaxes, and the Ouija mystery. The theme engine reads
+`contentType` for `legend`, `hoax` and `mystery` so those entries keep their themes without the tag.) A tag
+is still fine when the word is the fact's real *subject* — the "Legends" topic facts keep `legend`, and
+plain facts about hoaxes or mysteries keep theirs.
+
 **The app shows these as `Today's Fact`** like any other card; only the type badge differs. That is deliberate:
 the card is a true statement about the claim, so the masthead never needs to say "Legend".
 

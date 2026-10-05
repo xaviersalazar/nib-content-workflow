@@ -1721,8 +1721,8 @@
       "carthage-rome-burned-city",
       "shakespeare-theatre-career",
       "lighthouse-keepers-aids-navigation",
-      "the-ouija-board-who-invented-it",
-      "solar-system-life-only-earth"
+      "solar-system-life-only-earth",
+      "voynich-strange-illustrations"
     ],
     "themes": [
       "legend-and-folklore",
@@ -4416,7 +4416,7 @@
       "data-centers-avoid-downtime",
       "wi-fi-signals-bounce",
       "lighthouse-keepers-aids-navigation",
-      "the-ouija-board-who-invented-it",
+      "detective-fiction-hard-boiled",
       "search-engines-google-backrub"
     ],
     "themes": [
@@ -9554,7 +9554,8 @@
       "shakespeare-theatre-career",
       "pseudonyms-author-mask",
       "lighthouse-keepers-aids-navigation",
-      "voynich-strange-illustrations"
+      "voynich-strange-illustrations",
+      "blockchain-public-private-keys"
     ],
     "themes": [
       "lost-and-rediscovered",
@@ -9640,8 +9641,7 @@
       "legends-between-history-and-myth",
       "printing-gutenberg-revolution",
       "socotra-mistaken-for-atlantis",
-      "the-bell-witch-1894-book-source",
-      "tutankhamuns-curse-older-than-tomb"
+      "book-covers-before-dust-jackets"
     ],
     "themes": [
       "legend-and-folklore",
@@ -9670,8 +9670,8 @@
       "legends-place-person-history",
       "legends-travel-and-change",
       "world-records-global-brand",
-      "the-bell-witch-cave-minor-role",
-      "storytelling-older-than-writing"
+      "storytelling-older-than-writing",
+      "detective-fiction-poe-origin"
     ],
     "themes": [
       "legend-and-folklore",
@@ -9846,8 +9846,7 @@
       "world-records-global-brand",
       "legends-place-person-history",
       "amityville-stepson-says-story-false",
-      "book-covers-before-dust-jackets",
-      "legends-travel-and-change"
+      "book-covers-before-dust-jackets"
     ],
     "themes": [
       "treasure-and-lost-riches",
@@ -9904,9 +9903,9 @@
       "shakespeare-language-lives",
       "detective-fiction-hard-boiled",
       "poetry-compressed-language",
-      "the-ouija-board-who-invented-it",
       "lighthouse-keepers-aids-navigation",
-      "solar-system-life-only-earth"
+      "solar-system-life-only-earth",
+      "babylonians-hanging-gardens"
     ],
     "themes": [
       "unsolved-mysteries"
@@ -11437,8 +11436,8 @@
       "mermaids-sailor-stories",
       "loch-ness-home",
       "crop-circles-field-art",
-      "the-fox-sisters-cracking-joints-hoax",
-      "king-arthur-medieval-expansion"
+      "king-arthur-medieval-expansion",
+      "sasquatch-patterson-film"
     ],
     "themes": [
       "deception-and-hoax"
@@ -11524,9 +11523,9 @@
     "relatedFactIds": [
       "fairies-not-always-sweet",
       "mermaids-sailor-stories",
-      "the-fox-sisters-confession-believers",
       "crop-circles-field-art",
-      "loch-ness-home"
+      "loch-ness-home",
+      "sasquatch-patterson-film"
     ],
     "themes": [
       "deception-and-hoax",
@@ -11586,7 +11585,7 @@
       "sasquatch-patterson-film",
       "fairies-not-always-sweet",
       "crop-circles-field-art",
-      "the-fox-sisters-cracking-joints-hoax",
+      "mermaids-sailor-stories",
       "king-arthur-medieval-expansion"
     ],
     "themes": [
@@ -11667,9 +11666,9 @@
       "mermaids-half-human-sea",
       "fairies-not-always-sweet",
       "loch-ness-home",
-      "the-fox-sisters-confession-believers",
       "crop-circles-field-art",
-      "king-arthur-medieval-expansion"
+      "king-arthur-medieval-expansion",
+      "sasquatch-patterson-film"
     ],
     "themes": [
       "deception-and-hoax",
@@ -11788,7 +11787,8 @@
       "loch-ness-home",
       "fairies-not-always-sweet",
       "crop-circles-field-art",
-      "the-fox-sisters-cracking-joints-hoax"
+      "mermaids-sailor-stories",
+      "king-arthur-medieval-expansion"
     ],
     "themes": [
       "cryptids-and-strange-creatures",
@@ -12202,7 +12202,7 @@
       "voynich-strange-illustrations",
       "easter-island-remote-statues",
       "fairies-not-always-sweet",
-      "the-fox-sisters-cracking-joints-hoax",
+      "loch-ness-home",
       "ufos-unidentified-not-alien",
       "king-arthur-medieval-expansion"
     ],
@@ -12495,7 +12495,7 @@
       "wow-signal-never-repeated",
       "shakespeare-theatre-career",
       "solar-system-life-only-earth",
-      "detective-fiction-hard-boiled"
+      "babylonians-hanging-gardens"
     ],
     "themes": [
       "unsolved-mysteries",
@@ -22380,8 +22380,8 @@
     "relatedFactIds": [
       "rabbits-foot-graveyard-rules",
       "evil-eye-envy-glance",
+      "winchester-mystery-house-death-legend-newspaper-origin",
       "nightmares-common-adults",
-      "werewolves-medical-theories",
       "lucky-numbers-seven",
       "kraken-may-reflect-squid"
     ],
@@ -24963,7 +24963,7 @@
       "socotra-man-lives-in-cave",
       "fly-geyser-guided-access",
       "horseshoes-st-dunstan",
-      "nightmares-common-adults",
+      "winchester-mystery-house-death-legend-newspaper-origin",
       "rabbits-foot-graveyard-rules"
     ],
     "themes": [
@@ -26981,7 +26981,6 @@
     "categoryId": "ghosts-haunted-things",
     "topic": "The Fox Sisters",
     "tags": [
-      "hoax",
       "spiritualism",
       "seance",
       "19th-century"
@@ -26989,12 +26988,11 @@
     "readTimeSeconds": 40,
     "featured": false,
     "relatedFactIds": [
-      "the-fox-sisters-confession-believers",
       "the-fox-sisters-grieving-seances",
+      "the-fox-sisters-confession-believers",
       "the-ouija-board-makers-never-believed",
-      "fairies-not-always-sweet",
-      "crop-circles-field-art",
-      "loch-ness-home"
+      "spirit-photography-nine-ways-acquitted",
+      "spirit-photography-living-wife-ghost"
     ],
     "themes": [
       "deception-and-hoax",
@@ -27014,7 +27012,6 @@
     "categoryId": "ghosts-haunted-things",
     "topic": "The Fox Sisters",
     "tags": [
-      "hoax",
       "confession",
       "spiritualism",
       "belief"
@@ -27025,9 +27022,8 @@
       "the-fox-sisters-cracking-joints-hoax",
       "the-fox-sisters-grieving-seances",
       "the-ouija-board-makers-never-believed",
-      "king-arthur-medieval-expansion",
-      "crop-circles-field-art",
-      "mermaids-sailor-stories"
+      "amityville-stepson-says-story-false",
+      "spirit-photography-nine-ways-acquitted"
     ],
     "themes": [
       "deception-and-hoax",
@@ -27141,7 +27137,6 @@
     "topic": "Winchester Mystery House",
     "tags": [
       "winchester-mystery-house",
-      "legend",
       "newspapers",
       "folklore"
     ],
@@ -27153,7 +27148,7 @@
       "the-bell-witch-1894-book-source",
       "werewolves-medical-theories",
       "horseshoes-st-dunstan",
-      "tutankhamuns-curse-six-of-26"
+      "giants-causeway-finn-mccool"
     ],
     "themes": [
       "legend-and-folklore",
@@ -27208,7 +27203,6 @@
     "tags": [
       "ouija-board",
       "inventors",
-      "mystery",
       "history"
     ],
     "readTimeSeconds": 40,
@@ -27217,9 +27211,8 @@
       "the-ouija-board-makers-never-believed",
       "the-ouija-board-blue-ghost-cemetery-statue",
       "peppers-ghost-dircks-inventor",
-      "shakespeare-theatre-career",
-      "blockchain-public-private-keys",
-      "babylonians-hanging-gardens"
+      "the-mary-celeste-deserted-ship",
+      "the-mary-celeste-salvage-run"
     ],
     "themes": [
       "ghosts-and-hauntings",
@@ -27457,17 +27450,16 @@
     "tags": [
       "curse",
       "egypt",
-      "mummies",
-      "legend"
+      "mummies"
     ],
     "readTimeSeconds": 35,
     "featured": false,
     "relatedFactIds": [
-      "tutankhamuns-curse-six-of-26",
       "tutankhamuns-curse-real-tomb-curses",
+      "tutankhamuns-curse-six-of-26",
       "the-hope-diamond-curse-sales-pitch",
-      "legends-place-person-history",
-      "oak-island-flooded-shaft"
+      "oak-island-flooded-shaft",
+      "the-bell-witch-kate-batts-outlived"
     ],
     "themes": [
       "tombs-and-burial",
@@ -27489,8 +27481,7 @@
     "tags": [
       "curse",
       "tutankhamun",
-      "howard-carter",
-      "legend"
+      "howard-carter"
     ],
     "readTimeSeconds": 35,
     "featured": false,
@@ -27499,7 +27490,7 @@
       "tutankhamuns-curse-real-tomb-curses",
       "the-hope-diamond-curse-sales-pitch",
       "oak-island-flooded-shaft",
-      "winchester-mystery-house-death-legend-newspaper-origin"
+      "the-ouija-board-blue-ghost-cemetery-statue"
     ],
     "themes": [
       "legend-and-folklore",
@@ -27553,18 +27544,16 @@
     "tags": [
       "hope-diamond",
       "curse",
-      "jewelry",
-      "legend"
+      "jewelry"
     ],
     "readTimeSeconds": 35,
     "featured": false,
     "relatedFactIds": [
       "the-hope-diamond-french-blue",
       "tutankhamuns-curse-older-than-tomb",
-      "tutankhamuns-curse-six-of-26",
+      "tutankhamuns-curse-real-tomb-curses",
       "oak-island-flooded-shaft",
-      "legends-place-person-history",
-      "tutankhamuns-curse-real-tomb-curses"
+      "tutankhamuns-curse-six-of-26"
     ],
     "themes": [
       "legend-and-folklore",
@@ -27615,7 +27604,6 @@
     "topic": "The Bell Witch",
     "tags": [
       "bell-witch",
-      "legend",
       "tennessee",
       "folklore"
     ],
@@ -27627,7 +27615,7 @@
       "winchester-mystery-house-death-legend-newspaper-origin",
       "werewolves-medical-theories",
       "sleep-paralysis-hallucinations",
-      "legends-place-person-history"
+      "amityville-stepson-says-story-false"
     ],
     "themes": [
       "legend-and-folklore",
@@ -27648,7 +27636,6 @@
     "topic": "The Bell Witch",
     "tags": [
       "bell-witch",
-      "legend",
       "kate-batts",
       "debunked"
     ],
@@ -27658,8 +27645,8 @@
       "the-bell-witch-1894-book-source",
       "the-bell-witch-cave-minor-role",
       "amityville-stepson-says-story-false",
-      "legends-place-person-history",
-      "winchester-mystery-house-death-legend-newspaper-origin"
+      "winchester-mystery-house-death-legend-newspaper-origin",
+      "the-mary-celeste-conan-doyle-fiction"
     ],
     "themes": [
       "legend-and-folklore",
@@ -27680,7 +27667,6 @@
     "topic": "The Bell Witch",
     "tags": [
       "bell-witch",
-      "legend",
       "cave",
       "tennessee"
     ],
@@ -27692,7 +27678,7 @@
       "amityville-stepson-says-story-false",
       "caves-acidic-water",
       "socotra-man-lives-in-cave",
-      "legends-between-history-and-myth"
+      "caves-speleothems-redeposited"
     ],
     "themes": [
       "legend-and-folklore",
@@ -27713,7 +27699,6 @@
     "topic": "Amityville",
     "tags": [
       "amityville",
-      "legend",
       "lawyer",
       "skeptics"
     ],
@@ -27723,8 +27708,8 @@
       "amityville-stepson-says-story-false",
       "the-bell-witch-cave-minor-role",
       "the-bell-witch-1894-book-source",
-      "winchester-mystery-house-death-legend-newspaper-origin",
-      "the-bell-witch-kate-batts-outlived"
+      "the-ouija-board-who-invented-it",
+      "peppers-ghost-glass-trick"
     ],
     "themes": [
       "legend-and-folklore",
@@ -27745,7 +27730,6 @@
     "topic": "Amityville",
     "tags": [
       "amityville",
-      "legend",
       "book",
       "movie"
     ],

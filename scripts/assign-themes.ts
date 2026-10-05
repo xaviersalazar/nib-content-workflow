@@ -342,6 +342,7 @@ function main() {
   const dataRows = table.slice(1).filter((r) => r.length >= header.length);
   const idx = (n: string) => header.indexOf(n);
   const [iHeadline, iBody, iSummary, iTags] = [idx("headline"), idx("body"), idx("summary"), idx("tags")];
+  const iType = idx("contentType");
 
   // Ensure a themes column exists (append if missing).
   let iThemes = header.indexOf("themes");
@@ -352,7 +353,14 @@ function main() {
   const themesPerFact: number[] = [];
 
   for (const r of dataRows) {
-    const text = `${r[iHeadline]} ${r[iSummary]} ${r[iBody]} ${r[iTags].replace(/-/g, " ")}`.toLowerCase();
+    // A typed entry's TYPE is what makes it a legend / hoax / unsolved mystery. That word
+    // used to ride in on a same-named tag, which duplicated the app's type badge and was
+    // removed (legend 2026-10-05, hoax + mystery the same day); without this, entries whose
+    // text never says the word (Hope Diamond, Amityville, the Ouija board) lose
+    // legend-and-folklore / unsolved-mysteries and get filler themes backfilled instead.
+    // Only these three types: they are the ones whose tag was dropped.
+    const typeText = iType !== -1 && ["legend", "hoax", "mystery"].includes(r[iType]) ? r[iType] : "";
+    const text = `${r[iHeadline]} ${r[iSummary]} ${r[iBody]} ${r[iTags].replace(/-/g, " ")} ${typeText}`.toLowerCase();
     const hits: { id: string; score: number }[] = [];
     for (const t of compiled) {
       let n = 0;
