@@ -32,7 +32,7 @@
   {
     "id": "astronomy",
     "name": "Astronomy",
-    "icon": "moon.stars",
+    "icon": "theatermasks",
     "description": "Stars, galaxies, and the cosmic unknown."
   },
   {
@@ -334,5 +334,12 @@
     "name": "Weather",
     "icon": "cloud.sun",
     "description": "The atmosphere's power, fury, and beauty."
+  },
+  {
+    "id": "ghosts-haunted-things",
+    "name": "Ghosts & Haunted Things",
+    "icon": "theatermasks",
+    "description": "Legends, hoaxes, and the true stories behind the spooky.",
+    "addedAt": "2026-10-19T09:00:00Z"
   }
 ]

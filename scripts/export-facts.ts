@@ -15,6 +15,7 @@ type ApprovedFactRow = {
   themes?: string;
   socialHook?: string;
   contentType?: string;
+  addedAt?: string;
 };
 
 // How settled the claim is (see docs/fact-writing-and-quality-guide.md §5).
@@ -83,6 +84,9 @@ async function main() {
     // check above, so no more conditional inclusion.
     socialHook: row.socialHook,
     contentType: parseContentType(row),
+    // Reveal gate (docs/content-schema-reference.md): optional, blank = already live.
+    // Carried through the CSV so re-running the export never drops it.
+    ...(row.addedAt?.trim() ? { addedAt: row.addedAt.trim() } : {}),
   }));
 
   await fs.mkdir("exports", { recursive: true });

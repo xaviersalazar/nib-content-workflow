@@ -28,6 +28,91 @@ const MAX_THEMES_PER_FACT = 4;
 interface ThemeDef { id: string; patterns: string[]; min?: number; }
 
 const THEMES: ThemeDef[] = [
+  // --- Legends / hoaxes / grittier-content lane (added 2026-10-04) ---------------
+  // Specific on purpose: these sit FIRST so they win ties against the broad
+  // generic themes below (e.g. "mother" -> parental-care, "voice" -> music-and-sound).
+  // Several are forward-looking vocabulary for categories on the content roadmap
+  // (Folklore, Crime & Forensics, Spies, Poisons, Dark History, Cursed Objects,
+  // Dark Psychology, Parasites, Microscopic Life, ...) — they match nothing today.
+  { id: "legend-and-folklore", min: 1, patterns: [
+    "\\blegends?\\b", "folklore", "folk ?tale", "urban legend", "\\blore\\b",
+    "the story goes", "\\bfables?\\b", "folk (hero|belief)", "y[oō]kai", "kitsune",
+    "baba yaga", "\\bgolem\\b", "selkie", "\\banansi\\b", "la llorona",
+    "headless horseman", "\\bnian\\b", "bell witch", "\\btanuki\\b" ] },
+  { id: "ghosts-and-hauntings", min: 1, patterns: [
+    "\\bghosts?\\b", "\\bhaunt", "apparition", "\\bs[eé]ances?\\b", "spiritualis",
+    "\\bmediums?\\b", "ouija", "poltergeist", "paranormal", "supernatural",
+    "spirit photo", "\\bspooky\\b", "ghost (ship|story|hunter)", "\\bspirit world" ] },
+  { id: "spooky-science-explained", min: 1, patterns: [
+    "infrasound", "pareidolia", "sleep paralysis", "hallucinat", "ideomotor",
+    "pepper['’]s ghost", "double exposure", "carbon monoxide", "tomb toxin",
+    "standing wave", "what (really|actually) (caused|explains)" ] },
+  { id: "unsolved-mysteries", min: 1, patterns: [
+    "\\bunsolved", "never (been )?solved", "\\bmystery\\b(?! house)", "\\bmysterious", "unexplained",
+    "no one (knows|has ever)", "nobody knows", "cold case", "never (been )?explained",
+    "baffl", "still (debated|unknown|unclear)" ] },
+  { id: "maritime-mysteries", min: 1, patterns: [
+    "ghost ship", "\\bshipwreck", "\\badrift\\b", "\\bderelict", "bermuda triangle",
+    "flying dutchman", "\\bbrigantine", "abandoned (ship|vessel)", "\\bmutiny" ] },
+  { id: "crime-and-forensics", min: 1, patterns: [
+    "\\bcrimes?\\b", "\\bcriminal", "\\bdetective", "forensic", "fingerprint",
+    "genetic genealogy", "\\bpolice\\b", "\\bheist", "\\brobb(ed|ery|ers?)\\b",
+    "\\bburglar", "\\btheft\\b", "\\bpolygraph", "\\blie detector", "\\bmurder",
+    "\\bhomicide", "\\bkidnap", "\\bcon (man|artist)", "\\bcrime scene" ] },
+  { id: "justice-and-punishment", min: 1, patterns: [
+    "\\btrial\\b", "\\bjury\\b", "\\bconvict", "\\bacquit", "\\bprosecut", "\\bexecut(ed|ion)",
+    "guillotine", "\\bgallows", "\\bhanged\\b", "\\bpillory", "death sentence",
+    "sentenced to", "\\bverdict", "trial by ordeal", "\\bcourtroom" ] },
+  { id: "espionage-and-secrecy", min: 1, patterns: [
+    "\\bspy\\b", "\\bspies\\b", "espionage", "intelligence agenc", "\\bcia\\b", "\\bkgb\\b",
+    "\\bclassified\\b", "declassif", "undercover", "secret (agent|operation|mission|police)",
+    "double agent", "surveillance", "wiretap", "\\bbugged\\b", "\\bconspirac",
+    "cover.?up", "secret society", "\\bbletchley", "\\bdeception operation" ] },
+  { id: "plague-and-epidemics", min: 1, patterns: [
+    "\\bplague", "pandemic", "epidemic", "black death", "\\boutbreak", "quarantine",
+    "contagio", "plague doctor" ] },
+  { id: "mass-hysteria-and-panic", min: 1, patterns: [
+    "witch trial", "witch.?hunt", "\\bwitches\\b", "witchcraft", "mass hysteria",
+    "moral panic", "\\bhysteria\\b", "dancing plague", "\\bpanic\\b", "laughter epidemic" ] },
+  { id: "treasure-and-lost-riches", min: 1, patterns: [
+    "\\btreasure", "\\bhoard\\b", "buried (gold|treasure)", "\\bloot\\b",
+    "lost (city|mine|gold|treasure|library)", "\\bjewels?\\b", "\\bdiamonds?\\b",
+    "\\bgemstones?\\b", "\\bheirloom", "\\bamber room" ] },
+  { id: "poison-and-toxins", min: 1, patterns: [
+    "\\bpoison", "\\btoxic", "\\btoxins?\\b", "\\bvenom", "\\barsenic", "\\bcyanide",
+    "\\bcurare", "tetrodotoxin", "nerve agent", "\\bpolonium" ] },
+  { id: "parasites-and-mind-control", min: 1, patterns: [
+    "\\bparasit", "\\bzombie", "mind control", "manipulat\\w* (its|the) host",
+    "\\bfluke", "\\btapeworm", "\\bbotfl", "\\bisopod", "toxoplasm", "guinea worm" ] },
+  { id: "cryptids-and-strange-creatures", min: 1, patterns: [
+    "cryptid", "sasquatch", "bigfoot", "\\byeti\\b", "loch ness", "chupacabra",
+    "jersey devil", "mothman", "sea (monster|serpent)", "\\bmonsters?\\b", "\\bkraken" ] },
+  { id: "occult-and-divination", min: 1, patterns: [
+    "\\btarot", "astrolog", "alchem", "divination", "palmistry", "palm reading",
+    "\\bdowsing", "\\boccult", "\\bhoroscope", "fortune.?tell", "\\boracles?\\b" ] },
+  { id: "grief-and-mourning", min: 1, patterns: [
+    "\\bgrief", "\\bgrieving", "\\bmourn", "bereave", "\\bwidow", "\\bfuneral",
+    "lost (a |her |his |their )?(child|children|husband|wife|son|brother|loved)" ] },
+  { id: "tombs-and-burial", min: 1, patterns: [
+    "\\bmumm(y|ies|ification)", "\\btombs?\\b", "\\bburial", "sarcophag", "\\bembalm",
+    "\\bcatacomb", "\\bcemeter", "\\bgraveyard", "\\bgravestone", "\\bgraves\\b" ] },
+  { id: "obedience-and-conformity", min: 1, patterns: [
+    "\\bobedien", "\\bobey", "\\bconformity", "bystander", "\\bmilgram", "peer pressure",
+    "authority figure", "stanford prison", "\\basch\\b" ] },
+  { id: "cults-and-belief-systems", min: 1, patterns: [
+    "\\bcults?\\b", "cargo cult", "\\bsect\\b", "\\bworship", "\\bpilgrim", "\\bbelievers\\b" ] },
+  { id: "microscopic-life", min: 1, patterns: [
+    "microscop", "\\bbacteri", "\\bmicrob", "tardigrade", "amoeba", "\\bplankton",
+    "\\bmites?\\b", "\\bdiatom", "rotifer", "biofilm", "extremophile" ] },
+  { id: "fungi-and-decay", min: 1, patterns: [
+    "\\bmold\\b", "mushroom", "mycel", "\\byeast\\b", "\\blichen", "\\bspores?\\b",
+    "\\btruffle", "toadstool", "slime mold" ] },
+  { id: "scent-and-smell", min: 1, patterns: [
+    "\\bsmell", "\\bscents?\\b", "\\bodou?rs?\\b", "\\bperfume", "pheromone", "fragrance",
+    "olfactor", "petrichor" ] },
+  { id: "holidays-and-traditions", min: 1, patterns: [
+    "\\bholidays?\\b", "\\bfestival", "\\btradition", "\\bcelebrat", "christmas", "halloween",
+    "thanksgiving", "diwali", "carnival", "new year", "day of the dead", "hanukkah" ] },
   { id: "record-extremes", min: 1, patterns: [
     "largest", "biggest", "smallest", "tallest", "longest", "shortest",
     "deepest", "heaviest", "lightest", "fastest", "slowest", "oldest",
@@ -55,7 +140,9 @@ const THEMES: ThemeDef[] = [
     "looks (just )?like (a|an)", "pretend(s|ing)? to be" ] },
   { id: "deception-and-hoax", min: 1, patterns: [
     "hoax", "fooled", "forgery", "counterfeit", "tricked (the|people|everyone)",
-    "exaggerat", "faked", "a scam", "propaganda" ] },
+    "exaggerat", "faked", "a scam", "propaganda", "\\bfraud", "swindl",
+    "con (man|artist)", "\\bfakes?\\b", "bogus", "impost[eo]r", "\\bpranks?\\b",
+    "fabricat", "confess(ed|ion)", "debunk" ] },
   { id: "hidden-underground", min: 1, patterns: [
     "underground", "beneath the (surface|ground|city)", "buried", "\\broots?\\b",
     "tunnel", "\\bcave\\b", "subterranean", "under the (ground|sea|city)" ] },
@@ -176,7 +263,7 @@ const THEMES: ThemeDef[] = [
     "as (big|small|heavy|long) as", "would (stretch|reach|cover)" ] },
   { id: "deep-sea-and-abyss", min: 1, patterns: [
     "deep sea", "ocean floor", "\\babyss", "mariana", "\\bunderwater",
-    "the deep\\b", "crushing pressure" ] },
+    "the deep\\b", "crushing (water )?pressure of the" ] },
   { id: "storytelling-and-narrative", min: 1, patterns: [
     "\\bstor(y|ies)\\b", "narrative", "\\bnovels?\\b", "\\bfilms?\\b", "\\bmovies?\\b",
     "character", "\\bplot\\b", "\\bauthor", "\\bbook", "\\bfairy tale", "\\bfiction" ] },
@@ -185,7 +272,7 @@ const THEMES: ThemeDef[] = [
     "\\bsport", "\\btournament", "championship", "\\bchess\\b", "\\bdice\\b" ] },
   { id: "music-and-sound", min: 1, patterns: [
     "\\bmusic", "\\bsound", "\\bnotes?\\b", "melody", "instrument", "\\bsongs?\\b",
-    "rhythm", "\\baudio", "\\bvoice", "frequency", "\\bpitch\\b" ] },
+    "rhythm", "\\baudio", "singing voice", "\\bvoice (actor|box|range)", "frequency", "\\bpitch\\b" ] },
   { id: "psychology-and-behavior", min: 1, patterns: [
     "\\bbehavior", "\\bhabit", "\\bemotion", "\\bdecision", "\\bfear\\b",
     "motivation", "personality", "\\bbias\\b", "subconscious", "\\bmemory\\b",

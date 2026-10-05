@@ -149,6 +149,7 @@ An array of `Category` objects. Categories are the top-level taxonomy. Every fac
 | `technology`            | Technology              | `cpu`                           | How innovation rewires the world around us.          |
 | `video-games`           | Video Games             | `gamecontroller`                | Hidden stories from gaming's greatest hits.          |
 | `weather`               | Weather                 | `cloud.sun`                     | The atmosphere's power, fury, and beauty.            |
+| `ghosts-haunted-things`  | Ghosts & Haunted Things | `theatermasks`                  | Legends, hoaxes, and the true stories behind the spooky. |
 
 > [!IMPORTANT]
 > When generating new facts, every `categoryId` value **must** match one of the `id` values in this table (or a new category you add to `categories.json` simultaneously). A missing category will cause a decode failure.

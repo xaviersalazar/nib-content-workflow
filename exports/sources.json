@@ -2338,5 +2338,47 @@
       "institution": "Scientific American",
       "url": "https://www.scientificamerican.com/article/how-long-can-a-person-survive-without-food/"
     }
+  },
+  "ghosts-haunted-things": {
+    "Pepper's Ghost": {
+      "institution": "Linda Hall Library",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/john-henry-pepper/"
+    },
+    "The Fox Sisters": {
+      "institution": "HISTORY",
+      "url": "https://history.com/news/ghost-hoax-spiritualism-fox-sisters"
+    },
+    "Winchester Mystery House": {
+      "institution": "Winchester Mystery House",
+      "url": "https://winchestermysteryhouse.com/timeline/"
+    },
+    "The Ouija Board": {
+      "institution": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/blog/s-t-r-o-n-g-investigating-the-history-of-the-ouija-board-at-the-strong-museum/"
+    },
+    "Spirit Photography": {
+      "institution": "HISTORY",
+      "url": "https://history.com/news/spirit-photography-civil-war-william-mumler"
+    },
+    "The Mary Celeste": {
+      "institution": "Royal Museums Greenwich",
+      "url": "https://www.rmg.co.uk/stories/maritime-history/mystery-mary-celeste"
+    },
+    "Tutankhamun's Curse": {
+      "institution": "National Geographic",
+      "url": "https://www.nationalgeographic.com/history/article/curse-of-the-mummy"
+    },
+    "The Hope Diamond": {
+      "institution": "NPR",
+      "url": "https://www.npr.org/templates/story/story.php?storyId=112116481"
+    },
+    "The Bell Witch": {
+      "institution": "Tennessee State Library and Archives",
+      "url": "https://sharetngov.tnsosfiles.com/tsla/exhibits/myth/bellwitch.htm"
+    },
+    "Amityville": {
+      "institution": "Biography.com",
+      "url": "https://www.biography.com/crime/a66039187/amityville-horror-house-facts"
+    }
   }
 }
