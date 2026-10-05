@@ -1,11 +1,11 @@
 /**
  * check-age-rating.ts
  *
- * Screens approved-content/approved-facts.csv against the 4+ hard gate in
- * docs/fact-writing-and-quality-guide.md §9.
+ * Screens approved-content/approved-facts.csv against the 13+ envelope and hard
+ * floor in docs/fact-writing-and-quality-guide.md §9.
  *
  * Two audiences drive this check:
- *   1. The App Store 4+ rating on the Nib app.
+ *   1. The App Store 13+ (teen) rating on the Nib app.
  *   2. Instagram's automated moderation — nib-social burns `headline`, `summary`
  *      AND `body` into carousel slide images, so all three fields are screened.
  *
@@ -16,8 +16,11 @@
  * flatness pass.
  *
  * Severity:
- *   BLOCK — reject outright; the graphic detail is the hook (§9 auto-reject).
- *   WARN  — probably incidental; rewrite per §7 or confirm it's allowed.
+ *   BLOCK — the §9 hard floor (self-harm, sexual content, graphic torture/gore):
+ *           reject outright.
+ *   WARN  — allowed at 13+ when factual and non-graphic; read each hit against
+ *           the §9 tone rule (no gloating over victims, no glorifying
+ *           perpetrators, no method-level detail).
  *
  * Exit code 1 if any BLOCK survives, so it can gate CI or a pre-export check.
  *
@@ -50,19 +53,11 @@ type Severity = "BLOCK" | "WARN";
 interface Rule { name: string; severity: Severity; re: RegExp; note: string }
 
 const RULES: Rule[] = [
-  // --- BLOCK: disqualifying regardless of framing ---
+  // --- BLOCK: the hard floor — disqualifying regardless of framing ---
   {
     name: "self-harm", severity: "BLOCK",
     re: /\b(suicides?|suicidal|self-harm|took (his|her|their) own life|killed (him|her|them)self)\b/i,
     note: "Disqualifying in any framing — including debunked myths and animal behavior.",
-  },
-  {
-    name: "execution-method", severity: "BLOCK",
-    // Bare "hanging" is almost always innocent (Hanging Gardens, Inca rope
-    // bridges, Gaudi's chains, fog hanging in the air), so it only counts next
-    // to a person or an explicit execution sense.
-    re: /\b(behead\w*|decapitat\w*|guillotin\w*|gibbet\w*|hanged|gallows|burned at the stake|crucifi\w*|firing squad|(escaped|public) hanging|hanging (of|a man|a woman|him|her))\b/i,
-    note: "Execution mechanics. Keep the historical irony, drop the method.",
   },
   {
     name: "torture-gore", severity: "BLOCK",
@@ -70,19 +65,27 @@ const RULES: Rule[] = [
     note: "Includes folklore and fairy-tale variants.",
   },
   {
-    name: "murder", severity: "BLOCK",
+    name: "sexual", severity: "BLOCK",
+    re: /\b(sex work\w*|sexual\w*|slang for sex|copulat\w*|genital\w*|prostitut\w*)\b/i,
+    note: "Flags on both the App Store rating and Instagram moderation.",
+  },
+
+  // --- WARN: allowed at 13+, needs a human read against the tone rule ---
+  {
+    name: "murder", severity: "WARN",
     // "stabbing canines" (saber-tooth anatomy) is the recurring false positive,
     // so stabbing only counts with an explicit victim.
     re: /\b(murder(s|ed|er|ers|ous)?|assassinat\w*|massacre\w*|stabbed (to death|him|her|them)|strangl\w*|time of death)\b/i,
-    note: "Killing as the subject. 'murder holes' and 'The Murders in the Rue Morgue' are known false positives — read it.",
+    note: "Crime/murder history is allowed at 13+ when factual and non-graphic — check tone (no glorifying the perpetrator, no gloating over victims). 'murder holes' and 'The Murders in the Rue Morgue' are known false positives — read it.",
   },
   {
-    name: "sexual", severity: "BLOCK",
-    re: /\b(sex work\w*|sexual\w*|slang for sex|copulat\w*|genital\w*|prostitut\w*)\b/i,
-    note: "Flags on both the 4+ rating and Instagram moderation.",
+    name: "execution-method", severity: "WARN",
+    // Bare "hanging" is almost always innocent (Hanging Gardens, Inca rope
+    // bridges, Gaudi's chains, fog hanging in the air), so it only counts next
+    // to a person or an explicit execution sense.
+    re: /\b(behead\w*|decapitat\w*|guillotin\w*|gibbet\w*|hanged|gallows|burned at the stake|crucifi\w*|firing squad|(escaped|public) hanging|hanging (of|a man|a woman|him|her))\b/i,
+    note: "Execution history is allowed at 13+ as history; drop method-level detail and anything gloating.",
   },
-
-  // --- WARN: usually incidental, needs a human read ---
   {
     name: "corpse", severity: "WARN",
     re: /\b(corpses?|cadavers?|dead body|dead bodies|rotting flesh|decompos\w*)\b/i,
@@ -96,7 +99,7 @@ const RULES: Rule[] = [
   {
     name: "atrocity", severity: "WARN",
     re: /\b(nazis?|holocaust|genocide|concentration camp|slavery|slaves?)\b/i,
-    note: "Educational/resistance framing is explicitly allowed (§9). Keep it non-graphic.",
+    note: "Allowed as history (§9). Keep it non-graphic.",
   },
   {
     name: "mass-casualty", severity: "WARN",

@@ -14,7 +14,25 @@ type ApprovedFactRow = {
   relatedFactIds: string;
   themes?: string;
   socialHook?: string;
+  contentType?: string;
 };
+
+// How settled the claim is (see docs/fact-writing-and-quality-guide.md §5).
+// Blank cell = "fact". The app decodes unknown strings as "fact", so adding a
+// value here is safe for old builds — but an unrecognized value in the CSV is
+// almost certainly a typo, so fail loud instead of shipping it.
+const CONTENT_TYPES = ["fact", "mystery", "possibility", "theory", "legend", "hoax"] as const;
+type ContentType = (typeof CONTENT_TYPES)[number];
+
+function parseContentType(row: ApprovedFactRow): ContentType {
+  const value = (row.contentType ?? "").trim().toLowerCase() || "fact";
+  if (!(CONTENT_TYPES as readonly string[]).includes(value)) {
+    throw new Error(
+      `${row.id}: unknown contentType "${row.contentType}" — expected one of ${CONTENT_TYPES.join(", ")}`,
+    );
+  }
+  return value as ContentType;
+}
 
 function splitCsvList(value: string) {
   return value
@@ -64,6 +82,7 @@ async function main() {
     // Required as of the 2026-08-11 backfill — guaranteed present by the
     // check above, so no more conditional inclusion.
     socialHook: row.socialHook,
+    contentType: parseContentType(row),
   }));
 
   await fs.mkdir("exports", { recursive: true });

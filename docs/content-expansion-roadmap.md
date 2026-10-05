@@ -56,6 +56,40 @@ three things —
 
 ---
 
+# 2026-10-04 Re-plan: Ghosts, Hoaxes, Legends & Grittier Content
+
+The app is moving to a **13+ rating** with no age filter, and the content database gains a **`contentType`**
+axis (`fact` / `legend` / `hoax` / `theory` / `mystery` / `possibility` — see the writing guide §5, §9). That
+unlocks the most compelling material the 4+ gate and the "verifiable fact" rule were silently filtering out
+(see `docs/age-preference-and-legends-handoff.md`). This section re-points the schedule at it; the tables
+below are updated to match. **The cadence rules are unchanged** (category on the 1st, Collections on the 15th,
+Series on the 22nd every other month).
+
+**Baseline: 13+.** The roadmap is written for a 13+ audience — the grittier material (murder history,
+executions-as-history, forensics, horror folklore, hauntings with their dark backstories) is the *point*, not an
+exception lane. The only hard stops are the guide's §9 floor (self-harm, sexual content, graphic torture/gore) and
+Apple's own rules.
+
+**The 13+ rating is handled separately** (owner updates it in App Store Connect) and is assumed in place for
+this plan — it is not a blocker or a scheduling dependency here.
+
+**App dependency:** old builds ignore `contentType` and unknown values decode as `fact`, so legend/hoax
+content *can* ship before the app's `002-content-types` change (it just renders without the type badge or
+"Today's Legend" masthead). The hedging rule (guide §5) is what protects the reader until then — so a
+non-`fact` entry that fails to hedge in headline **and** summary **and** body must not ship either way.
+
+**What was displaced (still good — see "Displaced categories" in the backlog):** Reptiles & Amphibians (Oct),
+Fungi & Mushrooms (Nov), Holidays & Traditions (Dec), Perfume & the Science of Smell (Feb), Camouflage &
+Mimicry (Mar), Birds (May), Games & Puzzles (Jul). **Kept:** Survival (shipped Aug), Poisons (Jan),
+Microscopic Life (Apr), Heists, Escapes & Cons (Jun).
+
+**Seasonal logic:** it's October, so **Ghosts & Haunted Things** goes first, as a one-off off the usual 1st
+(Oct 1 has passed). Target **Mon Oct 19** — not the 15th (Collections) or 22nd (Series); latest workable date is
+**Oct 26** so it still lands before Halloween. Its 16-day NEW window runs ~3 days into the Nov 1 category's, so two
+categories briefly read "new" — acceptable once, don't repeat it.
+
+---
+
 # The Monthly Cadence (the rule this roadmap follows)
 
 Every month ships **two** drops, and **every other month** a third:
@@ -219,32 +253,44 @@ ones that are *both* seasonal and genuinely tappable.
 
 | Month | New Category *(new, 10)* | Topics | Why this slot |
 | --- | --- | --- | --- |
-| **Aug '26** | **Survival & the Body's Limits** 🆕 | The Rule of Threes, The Mammalian Dive Reflex, Paradoxical Undressing, The Death Zone, Freediving, The Bends, G-Force, Surviving Without Food, Wilderness Survival, The Will to Live | *Fascination-first* (loose summer-adventure tie; the Perseids/heat beats live in the Aug Collections) |
-| **Sep '26** | **Forensics & Crime-Solving** 🆕 | DNA Fingerprinting, Genetic Genealogy, Blood Spatter, Time of Death, Ballistics, Facial Reconstruction, Forensic Odontology, Locard's Exchange Principle, The Body Farm, The Polygraph | Back-to-school "how they actually crack it" |
-| **Oct '26** | **Reptiles & Amphibians** | Snakes, Crocodiles, Komodo Dragons, Frogs, Toads, Geckos, Iguanas, Tortoises, Salamanders, Venom | Halloween-adjacent — kept (fascination-rich) |
-| **Nov '26** | **Fungi & Mushrooms** | Mushrooms, Mycelium, Truffles, Mold, Yeast, Lichen, Spores, Slime Molds, Toadstools, Fungal Networks | Autumn-foraging — kept (fascination-rich) |
-| **Dec '26** | **Holidays & Traditions** | Christmas, Diwali, Lunar New Year, Day of the Dead, Hanukkah, Thanksgiving, New Year's, Carnival, Halloween, Birthdays | Peak holiday — kept (enforce hidden-origin angle, not "festival of X" definitions) |
-| **Jan '27** | **Poisons, Venom & Toxins** 🆕 | Arsenic & the Marsh Test, The Radium Girls, Botulinum → Botox, The Poison Garden, Cyanide, Poison Dart Frogs, Box Jellyfish, Pufferfish (Tetrodotoxin), Curare, Polonium | *Fascination-first* (New-Year beat lives in the Jan Collections) |
-| **Feb '27** | **Perfume & the Science of Smell** 🆕 | Smell & Memory, Petrichor, Pheromones, Ambergris, Anosmia, Olfactory Adaptation, The Nose, Skunk Spray, Fragrance Notes, Animal Musks | Loose Valentine's tie (attraction & scent); the Valentine's Collection carries the day |
-| **Mar '27** | **Camouflage & Mimicry** *(topics trimmed)* | Cuttlefish, Peppered Moths, Stick & Leaf Insects, Countershading, Zebra Stripes, Decoy Spiders, Batesian Mimicry, The Mimic Octopus, Orchid Mantis, Eyespots | Spring-wildlife — kept; de-duped (merged Walking Sticks/Leaf Insects, cut Katydids) |
+| **Aug '26** | ✅ **Survival & the Body's Limits** 🆕 | The Rule of Threes, The Mammalian Dive Reflex, Paradoxical Undressing, The Death Zone, Freediving, The Bends, G-Force, Surviving Without Food, Wilderness Survival, The Will to Live | *Fascination-first* — shipped |
+| **Sep '26** | ✂️ *Forensics & Crime-Solving — dropped (auto-rejected at 4+; revived as a 13+ category in Mar '27)* | — | See Mar '27 |
+| **Oct '26** *(Oct 19)* | **Ghosts & Haunted Things** 🆕 | Pepper's Ghost, The Fox Sisters, Winchester Mystery House, The Ouija Board, Spirit Photography, The Mary Celeste, Tutankhamun's "Curse", The Bell Witch, The Hope Diamond, Amityville | **Halloween.** Mix of `hoax` / `legend` / `theory` / `fact` — verified history & science *around* the belief (Amityville: real murders, admitted-fabricated haunting; Hope Diamond: the curse was a publicity story). Never asserts the supernatural is real. Replaces Reptiles & Amphibians. Bench: Infrasound, Jersey Devil, Brown Mountain Lights, Stanley Hotel |
+| **Nov '26** | **Hoaxes & Frauds** 🆕 | Piltdown Man, The Cardiff Giant, The Cottingley Fairies, The Great Moon Hoax, The Vinland Map, The Turk (Fake Chess Robot), The FeeJee Mermaid, The War of the Worlds Broadcast, Archaeoraptor, The Surgeon's Photograph | Almost all `hoax` — each states the deception *and* how it was exposed. Replaces Fungi & Mushrooms. Fox Sisters + Spirit Photography stay in Ghosts; Han van Meegeren stays in Heists |
+| **Dec '26** | **Spies & Secret Operations** 🆕 | Operation Mincemeat, The Ghost Army, Bletchley Park, The Cambridge Five, The Berlin Tunnel, The Venona Project, The Glomar Explorer, Acoustic Kitty, The Great Seal Bug, Spy Pigeons | Cold-war-winter tone; verified declassified history. Replaces Holidays & Traditions (the holiday beat lives in the Collections). Routes around secret-codes/Enigma Machine & Navajo Code Talkers |
+| **Jan '27** | **Poisons, Venom & Toxins** 🆕 | Arsenic & the Marsh Test, The Radium Girls, Botulinum → Botox, The Poison Garden, Cyanide, Poison Dart Frogs, Box Jellyfish, Pufferfish (Tetrodotoxin), Curare, Polonium | *Fascination-first*; now because poison-as-murder-weapon is 13+ envelope. Poisons leans on the 13+ envelope (poison as a murder weapon) — keep the tone rule in guide §9 |
+| **Feb '27** | **Folklore Around the World** 🆕 | Kitsune, The Yōkai Night Parade, Baba Yaga, The Nian (Lunar New Year, Feb 6), Anansi the Spider, The Golem of Prague, La Llorona, Selkies, Chupacabra, The Headless Horseman | Mostly `legend` — "the story goes…", origin first recorded, what's known. Counter-programs a thin Western myths-legends. Replaces Perfume & the Science of Smell |
+| **Mar '27** | **Crime & Forensics** 🆕 | Time of Death, Blood Spatter (Sam Sheppard), Forensic Odontology (Ted Bundy), The Body Farm, Genetic Genealogy (Golden State Killer), Ballistics (St. Valentine's Massacre), Forensic Anthropology, DNA Fingerprinting, The Polygraph, Locard's Exchange Principle | The original Sep category, restored to its murder-centered form; non-graphic treatment only. Replaces Camouflage & Mimicry |
 | **Apr '27** | **Microscopic Life** 🆕 | Demodex Face Mites, Tardigrades, Are Viruses Alive?, Dust Mites, The Brain-Eating Amoeba, Extremophiles, Diatoms, Rotifers, Leeuwenhoek's 'Animalcules', Biofilms | Earth Day → the invisible living world |
-| **May '27** | **Birds** | Owls, Hummingbirds, Eagles, Parrots, Flamingos, Crows, Peacocks, Woodpeckers, Falcons, Ostriches | Peak spring migration — kept (fascination-rich) |
-| **Jun '27** | **Heists, Escapes & Cons** 🆕 | The Gardner Museum Heist, The Antwerp Diamond Heist, The Alcatraz Escape, D.B. Cooper, Han van Meegeren (Art Forgery), Victor Lustig & the Eiffel Tower, Charles Ponzi, The Great Train Robbery, The Hatton Garden Heist, Houdini & Escapology | Summer heist-movie energy (World Oceans Day beat lives in the Jun Collections) |
-| **Jul '27** | **Games & Puzzles** | Rubik's Cube, Crosswords, Dice, Playing Cards, Board Games, Sudoku, Dominoes, Jigsaw Puzzles, Mazes, Magic Tricks | Summer-break "play" — kept |
+| **May '27** | **Dark History: Plagues, Panics & Trials** 🆕 | The Salem Witch Trials *(already scraped)*, The Black Death, The Dancing Plague of 1518, Trial by Ordeal, The Cadaver Synod, Plague Doctors, The Defenestration of Prague, The Great Stink, The Children's Crusade, MKUltra | Biggest gap in `history` (7 topics). Salem's ergot explanation is a `theory`; Children's Crusade is a `legend`. Replaces Birds |
+| **Jun '27** | **Heists, Escapes & Cons** 🆕 | The Gardner Museum Heist, The Antwerp Diamond Heist, The Alcatraz Escape, D.B. Cooper, Han van Meegeren (Art Forgery), Victor Lustig & the Eiffel Tower, Charles Ponzi, The Great Train Robbery, The Hatton Garden Heist, Houdini & Escapology | Summer heist-movie energy. **Dedup:** forger/con items vs Hoaxes & Frauds — van Meegeren, Lustig, Ponzi stay here; Hoaxes keeps pranks, fakes and fabrications |
+| **Jul '27** | **Cursed Objects & Lost Treasure** 🆕 | The Koh-i-Noor, The Amber Room, The Lost Dutchman's Mine, El Dorado, The Beale Ciphers, The Library of Alexandria, Sutton Hoo, The Staffordshire Hoard, The Lima Treasure | Summer treasure-hunt energy; `legend` / `theory` / `fact` — curse and murder backstories welcome (Hope Diamond now ships here *or* in Ghosts; keep it in one). Replaces Games & Puzzles. Routes around pirates/Treasure Maps and mysteries/Oak Island |
 
-**Specialist source per new category** (the "every category onboards a new institution" rule):
-Survival → Cleveland Clinic / National Geographic / Divers Alert Network · Forensics → Smithsonian / National
-Institute of Justice · Poisons → Natural History Museum (London) / Science History Institute · Perfume & Smell
-→ Monell Chemical Senses Center · Microscopic Life → CDC / NIH · Heists → FBI History (The Vault) / Smithsonian.
+**Specialist source per new category** (the "every category onboards a new institution" rule; all candidates
+need a verified source table approved by the owner before anything is registered):
+Survival → Cleveland Clinic / National Geographic / Divers Alert Network · Ghosts → Linda Hall Library / Royal Museums
+Greenwich / Strong Museum of Play / National Geographic / Smithsonian (Appendix A of the handoff has the vetted URLs for the first six; Bell Witch, Hope Diamond and Amityville still need verified sources — hobbyist sites are the risk) · Hoaxes →
+Smithsonian / Natural History Museum / PBS / National Geographic · Spies → CIA Museum & *Studies in Intelligence* /
+NSA / International Spy Museum / Imperial War Museums · Poisons → Natural History Museum (London) / Science History
+Institute · Folklore → Smithsonian Asian Art / British Library / Folklore Society · Crime & Forensics → Smithsonian /
+National Institute of Justice / FBI History · Microscopic Life → CDC / NIH · Dark History → Britannica + Science
+History Institute / British Library · Heists → FBI History (The Vault) / Smithsonian · Cursed Objects → Smithsonian /
+British Museum.
 
-**De-dup flags to honor at draft time** (these routes already avoid known live facts): Poisons/Poison-Dart-Frogs
-coordinates with Reptiles/Frogs (split the toxin angle); Poisons routes *around* Reptiles/Venom + strange-jobs/
-Snake-Milkers (uses plant/marine/chemical/radioactive poisons, not snake venom); Forensics routes around
-human-body/Fingerprints (owns 3) and strange-jobs/Forensic-Entomologists (owns the maggot-clock) — uses trace
-evidence, genealogy, ballistics instead; Microscopic Life routes around human-body/Gut-Microbiome (half-microbe/
-B12) and Fungi (Nov) and geography/Rainforests (plankton-oxygen) — leads with Demodex mites; Heists/Houdini means
-the Year-2 *Magic & Illusions* backlog and Jul's Games/Magic-Tricks must route around Houdini; Camouflage/
-Mimic-Octopus + Cuttlefish coordinate with animals/Octopus.
+**No Wikipedia** (owner rule). Legend entries need a source for the story's *origin* (who first recorded it, when),
+not just its content — otherwise the "verifiable" requirement fails.
+
+**De-dup flags to honor at draft time:** Ghosts owns Fox Sisters + Spirit Photography (Hoaxes routes around them);
+Hoaxes routes around Crop Circles and the Loch Ness Monster topics (existing in mysteries / myths-legends — use the
+Surgeon's Photograph only as the hoax itself); Spies routes around secret-codes (Enigma, Navajo Code Talkers,
+Steganography) and uses Bletchley's *people and place*; Folklore routes around myths-legends (Fairies, Mermaids,
+Werewolves, Dragons, Norse Mythology) — pick distinct creatures; Crime & Forensics routes around human-body/
+Fingerprints and strange-jobs/Forensic-Entomologists (the maggot clock; also the one `excluded-age-rating` row to
+re-evaluate under 13+); Poisons/Poison-Dart-Frogs coordinates with Frogs now living in the displaced Reptiles &
+Amphibians category (route the toxin angle here); Dark History routes around history/Titanic and
+famous-disasters; Cursed Objects routes around pirates, Oak Island and anything already in Ghosts (Hope Diamond, Tutankhamun);
+Heists/Houdini means any future *Magic & Illusions* category must route around Houdini; Microscopic Life routes
+around human-body/Gut-Microbiome and Geography/Rainforests (plankton-oxygen).
 
 ## New Series — one every other month (drops on the 22nd)
 
@@ -256,25 +302,30 @@ get finalized at draft time, same as a Collection.
 | Month | New Series | Anchor topic *(existing, complete)* | Live facts today | Why this slot |
 | --- | --- | --- | --- | --- |
 | **Aug '26** | **The Titanic** — "Built Unsinkable" | history/Titanic | 3 | Pairs with Aug's **Survival & the Body's Limits** category — the real hook isn't the engineering, it's a cold-water survival story (hypothermia, the lifeboat math) |
-| **Oct '26** | **The Bermuda Triangle** — "The Mystery That Wasn't" | mysteries/Bermuda Triangle | 1 | Halloween-adjacent mood without leaning supernatural — the hook is the mundane, verifiable explanations (weather, currents, human error) behind the legend |
-| **Dec '26** | **Voyager Program** — "The Farthest Thing We've Ever Made" | space/Voyager Program | 1 | No forced calendar tie (matches the category philosophy) — still transmitting from interstellar space 47+ years on, a genuinely awe-inducing story for a reflective month |
-| **Feb '27** | **Nellie Bly** — "Around the World in 72 Days" | explorers/Nellie Bly | 2 | A genre change from disaster/mystery — one audacious journalistic stunt; adds narrative variety and counter-programs Feb's Valentine's-heavy Collections |
+| **Oct '26** | **The Bermuda Triangle** — "The Mystery That Wasn't" | mysteries/Bermuda Triangle | 1 | Halloween-adjacent and the perfect foil to Oct 19's Ghosts category — the hook is the mundane, verifiable explanations (weather, currents, human error) behind the legend; use `legend`/`theory` labels where it states the myth |
+| **Dec '26** | **The Enigma War** — "The Machine That Wasn't Unbreakable" | secret-codes/Enigma Machine | 2 | Pairs with Dec's **Spies & Secret Operations** category (Bletchley Park) and pulls Navajo Code Talkers (3) + Steganography from secret-codes. *(Replaces Voyager Program → Series Backlog.)* |
+| **Feb '27** | **Dyatlov Pass** — "The Case That Won't Close" | mysteries/Dyatlov Pass | 1 | A `theory`/`mystery`-labelled Series: what was found, the official conclusion, and the competing explanations — never one answer as *the* answer. 13+ lane (nine deaths). *(Replaces Nellie Bly → Series Backlog; the anchor has only 1 live fact, so budget real drafting.)* |
 | **Apr '27** | **Chernobyl** — "The Zone That Became a Sanctuary" | famous-disasters/Chernobyl | 3 | Echoes Apr's Earth Day "Our Planet" Collection — the exclusion zone's unplanned rewilding is the counter-intuitive angle, not a disaster recap |
-| **Jun '27** | **Area 51** — "What Was Actually Out There" | mysteries/Area 51 | 2 | Loose echo of Jun's Heists/Escapes & Cons category (real government secrecy, not aliens) without touching Houdini/heist content |
+| **Jun '27** | **The Salem Witch Trials** — "Anatomy of a Panic" | history/Salem Witch Trials *(scraped `complete`, **0 live facts** — drafted with May's Dark History category)* | 0 | Lands a month after May's **Dark History** category, which already drafts Salem's anchor facts; the Series adds the ergot `theory`, mass-hysteria angle and the trials' aftermath. Budget as a mini-category, not a light Series. *(Replaces Area 51 → Series Backlog.)* |
+
+**Series tone (2026-10-04):** with a 13+ baseline, Series lean into `mystery`/`theory`/`legend` subjects (Bermuda
+Triangle, Dyatlov, Salem) — each fact is typed and hedged per guide §5, and a Series that mixes types should lead
+with its verified facts and put the contested ones in the middle, never the opener.
 
 **De-dup flags honored:** all six route around subjects already spoken for —
 **Socotra / Pompeii / Apollo 13** (already-shipped Series); **Atlantis, Roanoke
 Colony, Easter Island, Voynich Manuscript** (reserved for the "Lost to Time"
 Collection idea below); **Shackleton** (reserved for "Against the Odds," paired
-with Survival); **Cottingley Fairies, the FeeJee Mermaid, Crop Circles, War of
-the Worlds** (reserved for "Caught in the Act," paired with Forensics).
+with Survival); **Cottingley Fairies, the FeeJee Mermaid, War of the Worlds**
+(reserved for "Caught in the Act," now paired with Nov's Hoaxes & Frauds category — they were never live facts;
+the pairing waits on that category shipping).
 
 **Specialist source per Series** (same diversification rule as categories):
 Titanic → Britannica (already the anchor's source; pull cross-category facts
 from specialist-sourced topics where possible) · Bermuda Triangle → Britannica ·
-Voyager → NASA · Nellie Bly → Britannica · Chernobyl → Britannica (lean on
+Enigma War → Britannica + NSA / Bletchley Park Trust · Dyatlov → National Geographic · Chernobyl → Britannica (lean on
 IAEA/UN Chernobyl Forum sources for the rewilding angle when drafting new facts)
-· Area 51 → Britannica.
+· Salem → Britannica + a specialist (Salem Witch Trials Documentary Archive / Smithsonian).
 
 ## Collections — two per month (both drop on the 15th)
 
@@ -324,7 +375,7 @@ access to. **Treat that as live inventory, not a one-time bonus:**
   ideas below were built specifically to pair with a newly-shipped category
   (Poisons → "Nature's Assassins," Forensics → "Caught in the Act," Microscopic
   Life → "The Invisible World," Survival → "Against the Odds"). Three more now
-  do the same for the new Series schedule (Titanic, Bermuda Triangle, Voyager —
+  do the same for the new Series schedule (Titanic, Bermuda Triangle, Dyatlov —
   see the Collection Ideas Bank). Keep extending this bank every time a
   Category or Series ships, so there's always a ready-made pairing on hand the
   next time a month's picks are due.
@@ -333,14 +384,14 @@ access to. **Treat that as live inventory, not a one-time bonus:**
 | --- | --- | --- |
 | **Aug '26** | ✅ **"Written in the Stars"** — Meteor Showers, Comets, Supernovas, Auroras, Cicadas *(Perseid peak, Aug 11–13)* | ✅ **"Too Hot to Handle"** — the Sun, Red Giants, Volcanoes, Lasers, Deserts *(dog days of summer)* |
 | **Sep '26** | ✅ **"How Your Brain Learns"** — Memory, Attention, Decision Making, Motivation, Machine Learning *(back-to-school)* | ✅ **"Your Lying Eyes"** — Color Illusions, Motion Illusions, Mirage, The Dress, Placebo Effect *(how your brain fools you)* |
-| **Oct '26** | **"Spooky Science"** — Bats, Spiders, Black Cats, Friday the 13th, Catacombs of Paris *(Halloween)* | **"Glow in the Dark"** — Bioluminescence, Fireflies, Anglerfish, Jellyfish, Cicadas *(eerie natural glow)* |
-| **Nov '26** | **"Around the Table"** — Chocolate, Honey, Salt, Spices, Coffee *(Thanksgiving feast)* | **"Food Coma"** — Hibernation, Dreams, Yawning, Naps, Melatonin *(post-feast drowsiness)* |
-| **Dec '26** | **"Festive & Frozen"** — Snow, Auroras, Hibernation, Glaciers, Crystals *(winter solstice, Dec 21)* | **"The Science of Sparkle"** — Gold, Crystals, Supernovas, Red Giants, Diamonds *(holiday shimmer)* |
-| **Jan '27** | **"Fresh Start"** — Habits, Motivation, Decision Making, Goals *(New Year resolutions)* | **"Survival of the Coldest"** — Penguins, Polar Bears, Woolly Mammoths, Glaciers, Hibernation *(deep-winter cold)* |
-| **Feb '27** | **"Lucky Red"** — Red, Gold, Dragons, Fireworks, the Chinese Zodiac *(Lunar New Year, Feb 6)* | **"The Chemistry of Love"** — Heart, Heart Symbol, Red, Pink, Chocolate *(Valentine's Day, Feb 14)* |
+| **Oct '26** | **"Spooky Science"** — Bats, Spiders, Black Cats, Friday the 13th, Catacombs of Paris *(Halloween)* | **"Haunted by Science"** — Sleep Paralysis, Pareidolia, the Taos Hum, Mirage, Nightmares *(brain-and-physics explanations for "ghosts"; pull in Ghosts-category facts if it ships first)* |
+| **Nov '26** | **"Around the Table"** — Chocolate, Honey, Salt, Spices, Coffee *(Thanksgiving feast)* | **"Cold Cases of History"** — Amelia Earhart, Roanoke Colony, Voynich Manuscript, Dyatlov Pass, the Wow! Signal *(unsolved, mostly `mystery`/`theory`)* |
+| **Dec '26** | **"Festive & Frozen"** — Snow, Auroras, Hibernation, Glaciers, Crystals *(winter solstice, Dec 21)* | **"Code & Cipher"** — Enigma Machine, Morse Code, Navajo Code Talkers, Steganography, Pigpen Cipher *(pairs with Dec's Spies & Secret Operations category)* |
+| **Jan '27** | **"Fresh Start"** — Habits, Motivation, Decision Making, Goals *(New Year resolutions)* | **"Spy vs. Spy"** — Operation Mincemeat, Ghost Army, Great Seal Bug, Acoustic Kitty, Bletchley Park *(pairs with Dec's Spies & Secret Operations category)* |
+| **Feb '27** | **"Legends vs. Reality"** — the Nian (Lunar New Year, Feb 6), Kitsune, Yōkai, Dragons, Chupacabra *(pairs with Feb's Folklore category; the `legend` type's showcase)* | **"The Chemistry of Love"** — Heart, Heart Symbol, Red, Pink, Chocolate *(Valentine's Day, Feb 14)* |
 | **Mar '27** | **"Things That Grow"** — Bees, Butterflies, Baobab Trees, Pollination, Beetles *(spring equinox, Mar 20)* | **"The Luck of the Draw"** — Four-Leaf Clovers, Horseshoes, Rainbows, Probability, Black Cats *(St. Patrick's Day, Mar 17)* |
-| **Apr '27** | **"You've Been Fooled"** — Optical Illusions, Mirage, Chameleons, Octopus, Placebo Effect *(April Fools' Day)* | **"Our Planet"** — Oceans, Climate, Glaciers, Rainforests, Recycling Symbol *(Earth Day, Apr 22)* |
-| **May '27** | **"Science Fiction, Science Fact"** — Robotics, Medical Robots, Lasers, Computer Vision, Mars *(May the 4th)* | **"Backyard Wonders"** — Bees, Butterflies, Fireflies, Dragonflies, Beetles *(peak spring nature)* |
+| **Apr '27** | **"You've Been Fooled"** — Optical Illusions, Mirage, Placebo Effect **plus 2–3 `hoax` facts from Nov's Hoaxes & Frauds** *(April Fools' Day — the strongest pairing in the year)* | **"Our Planet"** — Oceans, Climate, Glaciers, Rainforests, Recycling Symbol *(Earth Day, Apr 22)* |
+| **May '27** | **"Science Fiction, Science Fact"** — Robotics, Medical Robots, Lasers, Computer Vision, Mars *(May the 4th)* | **"Whodunit"** — DNA Fingerprinting, Locard's Principle, the Polygraph, Detective Fiction, Forensic Odontology *(pairs with Mar's Crime & Forensics category)* |
 | **Jun '27** | **"Into the Deep"** — Deep Sea, Coral Reefs, Whales, Anglerfish, Bioluminescence *(World Oceans Day, Jun 8)* | **"Chasing the Sun"** — the Sun, Red Giants, Stonehenge, Comets, Meteor Showers *(summer solstice, Jun 21)* |
 | **Jul '27** | **"Light Show"** — Auroras, Fireflies, Bioluminescence, Lasers, Supernovas *(July 4th fireworks weekend)* | **"Best of Year One"** — top facts from the launch year *(launch anniversary + Apollo 11, Jul 20)* |
 
@@ -374,8 +425,17 @@ decision):** the `addedAt` stamp was REMOVED from both, so they never trigger a 
 published — bundled with the same session's 50-fact social-hook removal). The Sep 1 Forensics category and the
 Oct 1 category were dropped (their sourcing/scrapes were discarded) pending the age-preference + legends refactor.
 
+**Re-plan note (2026-10-04):** Oct 15 "Glow in the Dark", Nov 15 "Food Coma" and Dec 15 "The Science of
+Sparkle" were replaced by "Haunted by Science", "Cold Cases of History" and "Code & Cipher" (the displaced three
+move to the Collection Ideas Bank); Apr 15 "You've Been Fooled" now draws on the new hoax facts. A second pass
+aligned three more slots with the new category lineup — Jan 15 "Spy vs. Spy" (replaces "Survival of the Coldest"),
+Feb 15 "Legends vs. Reality" (replaces "Lucky Red"; the Nian carries the Lunar New Year beat), May 15 "Whodunit"
+(replaces "Backyard Wonders"). Those three displaced Collections move to the bank. Every new-lane Collection is built
+from facts that **already shipped**, so each is built only after its category has gone live — and if a member topic
+slips, fall back to the bank entry's existing-fact members rather than moving the date.
+
 **Tally:** 12 new categories + **24 Collections** (two a month) + **6 new Series**
-(Titanic, Bermuda Triangle, Voyager Program, Nellie Bly, Chernobyl, Area 51 — one
+(Titanic, Bermuda Triangle, Enigma War, Dyatlov Pass, Chernobyl, Salem — one
 every other month) across the year. The Categories screen gains a fresh tile on
 the 1st; the Collections screen gets two new themed packs on the 15th — all 24
 with **zero** new drafting; the Collections/Series "Journeys" segment gains a new
@@ -393,7 +453,8 @@ triple-overlapped existing content (everyday-objects/Mirrors + superstitions/Bro
 the whole **colors** category for pigments; Titanic/Endurance for shipwrecks). Kept because they're *both*
 seasonal and genuinely tappable: **Reptiles & Amphibians** (Oct), **Fungi & Mushrooms** (Nov), **Holidays &
 Traditions** (Dec), **Camouflage & Mimicry** (Mar, topics trimmed), **Birds** (May), **Games & Puzzles** (Jul).
-The six swapped-out categories are parked in the Year-2 backlog if ever wanted. *Geology, Rocks & Gems* and
+The six swapped-out categories are parked in the Year-2 backlog if ever wanted. *(Superseded in part by the 2026-10-04
+re-plan above: Forensics returns as a Mar '27 category; seven further categories were displaced.)* *Geology, Rocks & Gems* and
 *Trains & Railroads* remain there too.
 
 ---
@@ -417,6 +478,34 @@ the 12-month schedule is exhausted, or swap into it if analytics shift prioritie
 | Materials | Glass, Plastic, Rubber, Paper, Graphene, Ceramics, Aluminum, Kevlar, Carbon Fiber, Titanium | Britannica, ACS |
 | Maps & Cartography | Globes, Latitude & Longitude, Compasses, Map Projections, Surveying, Nautical Charts, Topographic Maps, Atlases, GPS Mapping, Cartographers | Library of Congress |
 | World Cultures & Flags | National Flags, Festivals, Folk Costumes, Cuisines, Greetings, Currencies, Anthems, Tea Cultures, Folk Dances, World Records | National Geographic |
+
+### Displaced 2026-10-04 — still good, just bumped (revive from here first)
+
+Unlike the flat-fact parking lot below, these seven are fascination-rich and were bumped only to make room for the
+legends/hoaxes/grittier lane. Topics are unchanged from their old schedule rows.
+
+| Category | Old slot | Topics |
+| --- | --- | --- |
+| Reptiles & Amphibians | Oct '26 | Snakes, Crocodiles, Komodo Dragons, Frogs, Toads, Geckos, Iguanas, Tortoises, Salamanders, Venom *(route the toxin angle around Poisons)* |
+| Fungi & Mushrooms | Nov '26 | Mushrooms, Mycelium, Truffles, Mold, Yeast, Lichen, Spores, Slime Molds, Toadstools, Fungal Networks |
+| Holidays & Traditions | Dec '26 | Christmas, Diwali, Lunar New Year, Day of the Dead, Hanukkah, Thanksgiving, New Year's, Carnival, Halloween, Birthdays *(hidden-origin angle only)* |
+| Perfume & the Science of Smell | Feb '27 | Smell & Memory, Petrichor, Pheromones, Ambergris, Anosmia, Olfactory Adaptation, The Nose, Skunk Spray, Fragrance Notes, Animal Musks |
+| Camouflage & Mimicry | Mar '27 | Cuttlefish, Peppered Moths, Stick & Leaf Insects, Countershading, Zebra Stripes, Decoy Spiders, Batesian Mimicry, The Mimic Octopus, Orchid Mantis, Eyespots |
+| Birds | May '27 | Owls, Hummingbirds, Eagles, Parrots, Flamingos, Crows, Peacocks, Woodpeckers, Falcons, Ostriches |
+| Games & Puzzles | Jul '27 | Rubik's Cube, Crosswords, Dice, Playing Cards, Board Games, Sudoku, Dominoes, Jigsaw Puzzles, Mazes, Magic Tricks *(route around Houdini)* |
+
+### Legends, mysteries & grittier-content bench (added 2026-10-04)
+
+Not yet in `sources.csv`; same validation rule as any drop. All assume the 13+ baseline.
+
+| Category | Sample topics | Content types | Specialist sources |
+| --- | --- | --- | --- |
+| Dark Psychology & Social Experiments | Milgram's Obedience Study, Asch Conformity, The Bystander Effect (Kitty Genovese myth), The Tanganyika Laughter Epidemic, Folie à Deux, Cargo Cults, The Stanford Prison Experiment (contested), Stockholm Syndrome (contested) | `fact` + `theory` | APA, Smithsonian, Britannica |
+| Parasites & Mind Control | Zombie-Ant Fungus, Toxoplasma, The Botfly, Cymothoa (Tongue-Eating Isopod), Guinea Worm, Cuckoo Brood Parasitism, The Jewel Wasp, The Lancet Fluke | `fact` | Natural History Museum, CDC, National Geographic |
+| Unexplained Disappearances | The Flannan Isles Lighthouse Keepers, Kaspar Hauser, The Lost Norse of Greenland, The Tunguska Event, The Tamam Shud Case | `mystery` / `theory` | Royal Museums Greenwich, Smithsonian |
+| Unsolved Codes & Puzzles | Kryptos, The Shugborough Inscription, The Phaistos Disc, The Zodiac Cipher, The Piri Reis Map | `mystery` / `theory` | NSA, CIA Museum, British Museum |
+| The Occult, Divination & Magic | Tarot, Astrology's Origins, Alchemy, Dowsing, Palmistry, Séances | `fact` + `legend` | Yale Library, Science History Institute |
+| More Haunted Places | The Stanley Hotel, Enfield, The Tower of London's Ghosts, Raynham Hall, Eastern State Penitentiary | `legend` | Smithsonian, English Heritage — *source quality is the risk; many are hobbyist* |
 
 ### Parked — swapped out of the schedule for flatness (⚠️ re-scope before ever reviving)
 
@@ -449,6 +538,15 @@ column before scheduling one.
 | Great Molasses Flood | famous-disasters/Great Molasses Flood | 2 | famous-disasters, physics, human-civilization | A wall of molasses moved at 35 mph — a "wacky" tone that varies the lineup away from disaster-as-tragedy |
 | Zheng He | explorers/Zheng He | 3 | explorers, ancient-civilizations, engineering | A 15th-century Chinese admiral's treasure fleet dwarfed Columbus's ships by a century — strong non-Western representation |
 | Marco Polo | explorers/Marco Polo | 3 | explorers, ancient-civilizations, human-civilization | Silk Road-era journey with a genuine "how much of this did he even see himself" hook |
+| Voyager Program *(bumped 2026-10-04)* | space/Voyager Program | 1 | space, astronomy, physics, technology | Still transmitting from interstellar space 47+ years on |
+| Nellie Bly *(bumped 2026-10-04)* | explorers/Nellie Bly | 2 | explorers, history, inventions | One audacious journalistic stunt — a narrative-variety slot |
+| Area 51 *(bumped 2026-10-04)* | mysteries/Area 51 | 2 | mysteries, aviation, history | Real government secrecy, not aliens — pairs naturally with Spies & Secret Operations |
+| Oak Island | mysteries/Oak Island | 2 | mysteries, pirates, engineering | The Money Pit: a 200-year dig and the theories (`legend`/`theory`) behind it |
+| Roanoke Colony | mysteries/Roanoke Colony | 2 | mysteries, history, explorers | The "Croatoan" clue and the competing explanations (`mystery`) |
+| The Voynich Manuscript | mysteries/Voynich Manuscript | 2 | mysteries, literature, secret-codes | The unread book — what's been tried and ruled out (`mystery`) |
+| The Mary Celeste *(build after Oct 19 Ghosts ships)* | Ghosts & Haunted Things/Mary Celeste | 0 → category | mysteries, famous-disasters, illusions | The ghost-ship story vs. the documented facts and the Conan Doyle invention |
+| Operation Mincemeat *(build after Dec Spies ships)* | Spies & Secret Operations/Operation Mincemeat | 0 → category | history, secret-codes, strange-jobs | The corpse-with-fake-papers deception told through the planners |
+| The Black Death *(build after May Dark History ships)* | Dark History/The Black Death | 0 → category | history, medicine, microscopic life | Plague doctors, trade routes and what the science now says |
 | Amelia Earhart | mysteries/Amelia Earhart | 2 | mysteries, aviation, explorers | The disappearance plus the real, physical search evidence (Nikumaroro) — verifiable, not speculative |
 
 **Caution entries — verify before scheduling:**
@@ -456,7 +554,7 @@ column before scheduling one.
 | Series | Anchor topic | Status | Why it's flagged |
 | --- | --- | --- | --- |
 | Dust Bowl | famous-disasters/Dust Bowl | `complete` in `sources.csv`, but **0 facts exist anywhere** (checked `facts.json` and `approved-facts.csv`) | Scraped but never drafted. Budget this like a mini-category (real drafting work), not a light Series — don't assume the anchor facts are ready just because the row says `complete` |
-| Dyatlov Pass | mysteries/Dyatlov Pass | 3 facts live | A `dyatlov-conspiracy-fuel` fact was already **removed** (2026-07-30 audit) for presenting a disputed 2021 theory as settled fact. A Series here must stick strictly to documented, verifiable events (what was found, when, the official conclusion) and never present any single explanation as *the* answer — same rule that got the last fact pulled |
+| Dyatlov Pass *(now scheduled Feb '27 as a `theory`/`mystery` Series)* | mysteries/Dyatlov Pass | 1 fact live (`dyatlov-tent-cut-open`; an earlier note said 3) | A `dyatlov-conspiracy-fuel` fact was already **removed** (2026-07-30 audit) for presenting a disputed 2021 theory as settled fact. A Series here must stick strictly to documented, verifiable events (what was found, when, the official conclusion) and never present any single explanation as *the* answer — same rule that got the last fact pulled |
 | Roman Empire | history/Roman Empire | Down to **1 fact**, already flagged as a re-source candidate in the 2026-07-23 dup-merge pass | Too thin an anchor as-is — re-source the topic to at least 2–3 facts first, same as any new-category topic, before building a Series on it |
 
 Marco Polo overlaps route: watch **history/Silk Road** (already a topic) when
@@ -510,6 +608,8 @@ Prefer a **specialist** source over Britannica for each new row.
 | Mathematics | Statistics, Knot Theory, Symmetry, Set Theory, Number Theory, Imaginary Numbers, Graph Theory | Britannica, Wolfram |
 | Music | Opera, Music Theory, Choirs, Bagpipes, Drums, Guitars, Pianos, Reggae | Britannica, Smithsonian |
 | Movies | Westerns, Horror Movies, Film Noir, Voice Acting, Box Office, Movie Studios, Sequels, Cameos | AFI, Britannica |
+| Mysteries *(added 2026-10-04; `mystery`/`theory` types)* | The Flannan Isles Keepers, Kryptos, The Tunguska Event, The Phaistos Disc, Kaspar Hauser | Smithsonian, Royal Museums Greenwich |
+| Psychology *(added 2026-10-04)* | Milgram, Asch Conformity, The Bystander Effect, Mass Hysteria, Cargo Cults | APA, Smithsonian |
 
 Rule of thumb: when a category proves popular in analytics, deepen it from this
 table **on top of** that month's scheduled new category — the new-category cadence
@@ -548,11 +648,27 @@ no new drafting required. Same rules: de-duped, and wacky beats safe.
 - **"Nature's Assassins"** *(wacky)* — Dragonflies (95% kill rate), Mantis Shrimp,
   Orcas, Praying Mantises, Cone... *(pairs w/ Poisons)*
 - **"Caught in the Act"** — Cottingley Fairies, the FeeJee Mermaid, Crop Circles,
-  the dead-salmon fMRI, War of the Worlds *(famous hoaxes — pairs w/ Forensics)*
+  the dead-salmon fMRI, War of the Worlds *(famous hoaxes — **re-pointed 2026-10-04:** pairs w/ Nov's Hoaxes & Frauds;
+  Cottingley/FeeJee/War of the Worlds are not live facts yet, so build it after that category ships)*
 - **"The Invisible World"** — Gut Microbiome (you're half microbe), Atoms (mostly
   empty space), Visible Light (a tiny slice), Cosmic Microwave Background *(pairs w/ Microscopic Life)*
 - **"Against the Odds"** — Shackleton, the mammalian dive reflex, wood frogs freezing
   solid, tardigrade-adjacent survival *(pairs w/ Survival & the Body's Limits)*
+
+**Legend/hoax-lane additions (2026-10-04) — build once the matching category has shipped:**
+
+- **"Glow in the Dark"** *(displaced from Oct 15)* — Bioluminescence, Fireflies, Anglerfish, Jellyfish, Cicadas
+- **"Food Coma"** *(displaced from Nov 15)* — Hibernation, Dreams, Yawning, Naps, Melatonin
+- **"The Science of Sparkle"** *(displaced from Dec 15)* — Gold, Crystals, Supernovas, Red Giants, Diamonds
+- **"Survival of the Coldest"** *(displaced from Jan 15)* — Penguins, Polar Bears, Woolly Mammoths, Glaciers, Hibernation
+- **"Lucky Red"** *(displaced from Feb 15)* — Red, Gold, Dragons, Fireworks, the Chinese Zodiac
+- **"Backyard Wonders"** *(displaced from May 15)* — Bees, Butterflies, Fireflies, Dragonflies, Beetles
+- **"Plagues & Panics"** — Black Death, Dancing Plague, Plague Doctors, Salem, Mass Hysteria *(pairs w/ May's Dark History category; a Jun/Oct beat)*
+- **"Curses & Coincidences"** — Black Cats, Friday the 13th, Evil Eye, Tutankhamun's "Curse", the Hope Diamond *(pairs w/ Ghosts; a Friday-the-13th beat — Aug 13, 2027)*
+- **"Haunted House Tour"** — Winchester Mystery House, Pepper's Ghost, Infrasound, Ouija Board, Mary Celeste *(pairs w/ Ghosts & Haunted Things; a late-Oct bonus beat if it ships early enough)*
+- **"Spy vs. Spy"** — Operation Mincemeat, Ghost Army, Great Seal Bug, Acoustic Kitty, Bletchley Park *(pairs w/ Spies & Secret Operations)*
+- **"Legends vs. Reality"** — Jersey Devil, Chupacabra, Nian, Yōkai, Kitsune *(pairs w/ Folklore Around the World; the `legend` type's showcase)*
+- **"Fakes That Fooled the World"** — Piltdown Man, Cardiff Giant, Vinland Map, Great Moon Hoax, Archaeoraptor *(pairs w/ Hoaxes & Frauds; distinct from "Caught in the Act" — it's the museum-grade fakes)*
 
 **Series-paired additions (2026-07-30) — same pattern, tied to the new Series schedule:**
 
@@ -562,8 +678,8 @@ no new drafting required. Same rules: de-duped, and wacky beats safe.
 - **"The Mundane Explanation"** — other legend-vs-reality debunkings already live
   across myths-legends, illusions-perceptions, and mysteries siblings *(pairs w/
   Oct's Bermuda Triangle Series — "the boring truth is wilder than the myth")*
-- **"Farther Than Anyone"** — Kuiper Belt, Oort Cloud, Solar System, the Sun *(pairs
-  w/ Dec's Voyager Series — the edge of what we've ever reached)*
+- **"Farther Than Anyone"** — Kuiper Belt, Oort Cloud, Solar System, the Sun *(was paired w/ Dec's Voyager Series;
+  Voyager is now on the Series Backlog, so this stays on the bench until it returns)*
 
 ---
 
@@ -667,6 +783,9 @@ change is required to adopt this convention.
 4. Prefer a non-Britannica specialist source for every new row; validate it
    scrapes cleanly before adding it.
 5. Re-check the Britannica ratio quarterly and steer toward the 50% target.
-6. Keep shipping a new category every month, but when analytics reveal a clear
+6. **Check the content type and tone before scheduling a drop:** every non-`fact` entry needs the right
+   `contentType` and hedging in headline, summary *and* body (guide §5). Run `pnpm check:age-rating --warn` and read
+   every hit against the tone rule (guide §9) before export.
+7. Keep shipping a new category every month, but when analytics reveal a clear
    winner, add an opportunistic expansion on top — deepen that winner from the
    Existing-Category Expansion Backlog.

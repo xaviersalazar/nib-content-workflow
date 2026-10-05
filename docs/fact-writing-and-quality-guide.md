@@ -127,8 +127,32 @@ Blue* beat Kasparov," "the ancient *Olympics*." Quick test: if the sentence stil
 fact after you delete the org name, it was a citation — cut it. If deleting it breaks the fact, it's the
 subject — keep it (but still drop any "says / according to" framing).
 
+### Content types — how settled is the claim?
+Every entry carries a `contentType` (CSV column, default `fact`). The type says **how settled the claim
+is**; the category says what it is about. Anything that isn't a verified fact **must be labeled** — the
+app shows a type badge and a matching masthead ("Today's Legend"), so the label is the honesty mechanism.
+
+| `contentType` | Use when | What the entry states (the "verifiable" part) |
+| --- | --- | --- |
+| `fact` | Empirically verified or documented. Default. | The claim itself. |
+| `legend` | Folklore, urban legend, ghost story, "the story goes…" | That the story exists: who first recorded it, when, where, what it says, what's known about its origin. Never that the story is true. |
+| `hoax` | A deliberate deception that was exposed or confessed. | The deception *and* its debunking — who did it, how it worked, how it was exposed. Never leave the hoax standing un-debunked. |
+| `theory` | A named explanation that is proposed but unproven or contested. | Who proposed it, when, on what evidence, and what the main objection is. |
+| `mystery` | An open question with no accepted answer. | What is known, what is not, and (optionally) the leading explanations. |
+| `possibility` | A scientific "may/might" — plausible but unconfirmed. | What was observed and what scientists suspect. |
+
+**Hedging is mandatory for every non-`fact` type** (`hoax` excepted — a debunked hoax is a settled fact
+about a deception): the headline, the summary **and** the body must each avoid asserting the claim as
+true. Use "legend says", "may", "appears", "scientists suspect", "one theory". A `mystery`/`theory`
+headline that reads like a settled claim defeats the label. A reader who sees only the notification
+(headline + summary) must come away knowing it is *not* settled.
+
+All other quality rules (§3 flatness, source-grounding, standalone, "wow") apply to every type. Pick the
+**most specific** type; if you can't decide between `theory` and `possibility`, use `theory` for a named
+human-proposed explanation and `possibility` for a physical/scientific "may".
+
 ### Verifiable fact, not an expert's opinion or theory
-A fact must state something **empirically verifiable** — not an opinion, argument, model, worldview, or
+This rule governs `contentType: fact`. A fact must state something **empirically verifiable** — not an opinion, argument, model, worldview, or
 theory attributed to a subject-matter expert. This is about **substance**, not phrasing: the attribution
 rule above stops you *writing* "Schumpeter argued…"; this rule stops the underlying **claim itself** from
 being one person's interpretation dressed as fact. An opinion-as-fact can have a great "wait, really?"
@@ -143,7 +167,12 @@ inherently contestable (a matter of opinion, interpretation, or theory a reasona
 - ✅ *Ancient Egyptian Embalmers Threw the Brain Away* — a **documented belief/practice**; the fact is the belief itself.
 - ✅ *He Left Blanks in the Table for Elements Nobody Had Found* — Mendeleev's predictions were later **confirmed**.
 
-**When a theory or named idea IS allowed:** only when the fact is about a **verifiable event or a confirmed
+**Theories as their own type:** an interesting contested idea no longer has to be cut — if the entry is
+about the idea *and its status* (who proposed it, what's contested), publish it as `theory`, `possibility`
+or `mystery` with the hedging above. Economics/philosophy "principles" that are just one school's
+argument still usually fail the "wow" bar, so don't relabel dull theory to save it.
+
+**When a theory or named idea IS allowed inside a `fact`:** only when the fact is about a **verifiable event or a confirmed
 result**, not the idea's truth — *who* proposed it, *when*, and *what verifiably happened* (a genuine
 scientific debate honestly labeled as unsettled; an origin theory hedged with "may"/"one theory"; a
 prediction that was later proven). Economics, philosophy, and psychology topics are the highest-risk
@@ -158,17 +187,18 @@ whether it clears these tests:
 
 - **Source-grounded** — everything is supported by the supplied source. No outside knowledge, no
   embellishment, no invented comparisons. *(Failing this is an automatic reject/review.)*
-- **Verifiable, not opinion** — the claim is an empirically verifiable fact, not an expert's opinion,
-  argument, model, or theory presented as fact (see §5). *(Failing this is an automatic reject, even if
-  the hook is excellent.)*
+- **Verifiable, not opinion** — a `fact` states something empirically verifiable, not an opinion,
+  argument, model, or theory presented as fact. Anything else is labeled with the right `contentType` and
+  hedged in headline, summary and body (see §5). *(An unlabeled theory/legend, or a labeled one that
+  asserts the claim as true, is an automatic reject, even if the hook is excellent.)*
 - **Standalone** — understandable with no surrounding context.
 - **Curiosity** — sparks a genuine "want to know more."
 - **Memory** — a user will remember it tomorrow.
 - **Conversation** — someone would naturally tell another person ("Did you know black holes aren't
   actually holes?").
 - **Not flat** — clears all four §3 red-flags.
-- **Age-appropriate** — clears the 4+ hard gate in §9. *(Failing this is an automatic reject, even if the
-  fact is otherwise excellent.)*
+- **13+ appropriate** — stays inside the §9 envelope and clears the hard floor. *(Crossing the floor is
+  an automatic reject, even if the fact is otherwise excellent.)*
 - **Non-duplicate** — doesn't repeat another fact's idea (keep the stronger version).
 - **Tone** — conversational, not textbook/Wikipedia.
 
@@ -206,7 +236,7 @@ curious teen reads easily** — **without inventing anything.**
 Columns (in order — this is the live header, keep it in sync if the CSV changes):
 
 ```csv
-id,categoryId,topic,headline,body,summary,tags,readTimeSeconds,featured,relatedFactIds,themes,socialHook
+id,categoryId,topic,headline,body,summary,tags,readTimeSeconds,featured,relatedFactIds,themes,socialHook,contentType
 ```
 
 | Field | Rules |
@@ -223,6 +253,7 @@ id,categoryId,topic,headline,body,summary,tags,readTimeSeconds,featured,relatedF
 | `relatedFactIds` | May be empty at draft time; generated by the deterministic engine (`pnpm generate:related`). See `content-schema-reference.md`. |
 | `themes` | May be empty at draft time; generated by `pnpm assign:themes`. See `content-schema-reference.md`. |
 | `socialHook` | **Required for every fact.** A separate Instagram-only headline that opens a curiosity gap `headline` doesn't need to (the in-app reader already opened the card). Write it at drafting time — see `prompts/draft-facts.md` and the method in `docs/social-hook-rewrite-handoff.md`: pick a formula from nib-social's growth-strategy doc §9, never introduce a claim not already in this fact's own `body`/`summary`. `pnpm export:facts` hard-fails on a blank cell. |
+| `contentType` | One of `fact`, `legend`, `hoax`, `theory`, `mystery`, `possibility` (§5). Blank = `fact`; any other value fails the export. |
 
 **Formatting:** strict CSV. Quote any field containing a comma; prefer quoting all text fields. Escape
 quotes as `""`. No blank lines between rows. Use plain ASCII in edit scripts (`CO2` not the subscript
@@ -230,57 +261,58 @@ form; straight quotes) — the rewrite matcher's `norm()` handles curly→straig
 
 ---
 
-## 9. Age-appropriateness — the 4+ hard gate
+## 9. Audience — the 13+ envelope and hard floor
 
-Nib ships with a **4+ App Store rating**, and every fact is also a candidate for an **Instagram carousel**
-via `nib-social` (which burns `headline`, `summary`, *and* `body` into slide images). So a fact has two
-audiences it must clear: a **young child reading over a parent's shoulder**, and an **automated content
-moderator**. This gate is independent of quality — a fact can be genuinely fascinating and still fail.
+Nib ships with a **13+ (teen) App Store rating**, and every fact is also a candidate for an **Instagram
+carousel** via `nib-social` (which burns `headline`, `summary`, *and* `body` into slide images). The rating
+itself is the content boundary: there is no in-app age filter, maturity flag, or separate mature file.
+Content is written for a curious teen — "grittier, but not too dark" — and must still clear Instagram's
+own moderation, which applies independently of Apple's rating.
 
-**The test:** *would this be fine as a full-screen push notification on a 5-year-old's iPad?*
+**The test:** *would this be fine told by a good museum guide or documentary to a room of 13-year-olds?*
 
-### Automatic reject — the graphic detail IS the hook
+> The 13+ rating is set in App Store Connect separately from this pipeline and is assumed in place.
 
-Cut the fact entirely when the surprise depends on the disturbing part. There is no rewrite that saves it,
-because removing the graphic detail removes the reason the fact exists.
+### Hard floor — never ships, at any rating
 
 | Never ship | Why |
 | --- | --- |
-| **Suicide or self-harm** — in any framing, including debunked myths and animal behavior | The word alone is disqualifying. Killed the lemming fact even though the *point* was that it never happened. |
-| **Execution methods & their mechanics** | hanging, beheading, guillotine, gibbeting, burning at the stake |
-| **Torture, mutilation, dismemberment, cannibalism** | including in folklore and fairy tales |
-| **Murder as the subject** — killers, victims, weapons, forensics of a killing | "solved a murder," "time of death," corpse handling |
-| **Sex, sexual slang, or mating as the subject** | *"'Rock and Roll' Was Slang for Sex"* — flagged on both counts |
-| **Recreational drugs, alcohol, or tobacco framed positively or as trivia** | incidental historical mention is fine (see below) |
+| **Suicide or self-harm** — in any framing, including debunked myths and animal behavior | Disqualifying by word alone (killed the lemming fact even though its point was that it never happened). |
+| **Sexual content, sexual slang, or mating as the subject** | Flagged by Apple and Instagram alike. |
+| **Graphic torture, mutilation, dismemberment, cannibalism, gore** | Includes folklore and fairy-tale variants. Where the surprise *is* the gore, there is no rewrite. |
+| **Recreational drugs, alcohol, or tobacco framed positively or as trivia** | Incidental historical mention is fine. |
 
-### Rewrite instead — the graphic detail is incidental
+Apple's App Review rules (§1.1 and related) apply at every rating on top of this — e.g. realistic
+depictions of people being killed or tortured, or content that encourages self-harm.
 
-Most flagged facts are salvageable: the interesting hook survives without the gore. Rewrite per §7 (keep the
-`id`, swap only `headline` / `summary` / `body` / `tags`).
+### The 13+ envelope — allowed when told factually
 
-- **Captain Kidd** — keep the pirate-hunter-turned-pirate irony, drop the two hangings and the gibbeting.
-- **Pompeii** — keep the ash cavities as an archaeological technique, drop the decomposition.
-- **Castle gatehouses** — keep the layered-defense engineering, drop "death trap" / "kill zone."
+Crime and murder history, executions **as history**, forensics, wartime and atrocity **as history**,
+corpses and death in a scientific or historical frame, and horror-flavoured folklore (hauntings, curses,
+cryptids, ghost stories) are in scope. Keep to this tone rule:
 
-### Explicitly allowed — do NOT over-sanitize
+- **Factual, not lurid.** Tell what happened and why it matters; no method-level detail (how a killing or
+  execution was physically carried out), no close-up gore.
+- **No glorifying perpetrators, no gloating over victims.** The angle is the story, the science, the
+  irony, or the system — not the cruelty.
+- **No instructions.** Nothing that reads as a how-to for violence, drugs, or self-harm.
+- **Legends and theories stay hedged and labeled** (§5) — never present a murder theory or a curse as
+  established.
+- **Mind Instagram.** A fact can be right for the app and still too edgy for a carousel; that is handled
+  by skipping it when posting, not by a flag.
 
-Over-pruning costs real facts and thins categories. These are fine:
-
-- **Death as a neutral scientific or historical event** — dying stars, dead skin cells, the Dead Sea,
-  extinction, "died in 1943," a fossil record. The word "died" is not the problem; **dwelling on how** is.
-- **Educational 20th-century history**, including Nazi-era facts told from a resistance, cultural, or
-  design angle (Norwegian paper clips, the Bauhaus exile, the swastika's pre-20th-century meaning).
-  Keep the framing factual and non-graphic.
-- **Incidental period detail** — cigarettes as POW-camp currency, mead as an ancient drink. The fact is
-  about economics or archaeology, not the substance.
-- **Predation and animal biology** — hunting, venom, scavenging, an anglerfish swallowing prey. Natural
-  history is not violence. Avoid only the gratuitous close-up (a mantis eating a mate's head).
+Rewrite-instead still applies to incidental grit that adds nothing (Captain Kidd: keep the
+pirate-hunter-turned-pirate irony, drop the gibbeting). Don't over-sanitize either: death as a neutral
+scientific or historical event, educational 20th-century history told from a resistance or cultural angle,
+incidental period detail, and predation/animal biology all remain fine, as before.
 
 ### Screening
 
-`pnpm check:age-rating` flags candidates across all three surfaced fields. It is a **regex prefilter with a
-high false-positive rate** ("icy *bodies*", trades "*executed* by computer") — it cannot judge context.
-**Always read the flagged headlines and decide by hand**, exactly as with the §3 flatness pass.
+`pnpm check:age-rating` is a **regex prefilter with a high false-positive rate**. It **BLOCKs** only the
+hard floor (self-harm, sexual, graphic torture/gore); murder, execution-history, corpse, substance,
+atrocity and mass-casualty terms are **WARN**s. `pnpm publish:cdn` hard-fails on any BLOCK. Run it with
+`--warn` and **read every hit against the tone rule above**, exactly as with the §3 flatness pass. (The
+script keeps its old name; it now screens the 13+ floor.)
 
 ---
 
