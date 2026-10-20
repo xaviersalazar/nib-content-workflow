@@ -385,7 +385,7 @@
   {
     "id": "too-hot-to-handle",
     "title": "Too Hot to Handle",
-    "subtitle": "The sun, the lasers, and the mountain that ended a city \u2014 heat that doesn't ask permission.",
+    "subtitle": "The sun, the lasers, and the mountain that ended a city — heat that doesn't ask permission.",
     "icon": "flame.fill",
     "factIds": [
       "red-giants-sun-future",
@@ -422,5 +422,21 @@
       "the-dress-split-perception",
       "placebo-effect-clinical-trials"
     ]
+  },
+  {
+    "id": "monsters-explained",
+    "title": "Monsters, Explained",
+    "subtitle": "Bigfoot, the Yeti, Nessie and friends, and the surprisingly ordinary things behind them.",
+    "icon": "pawprint",
+    "factIds": [
+      "sasquatch-patterson-film",
+      "yeti-himalayan-snowline",
+      "loch-ness-global-myth",
+      "kraken-may-reflect-squid",
+      "greek-mythology-art-afterlife",
+      "megalodon-teeth-tell-story",
+      "unicorn-one-horn"
+    ],
+    "addedAt": "2026-10-27T09:00:00Z"
   }
 ]
