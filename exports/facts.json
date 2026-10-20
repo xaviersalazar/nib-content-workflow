@@ -1333,8 +1333,8 @@
       "ancient-china-wu-zetian",
       "ancient-china-gunpowder",
       "industrial-revolution-child-labor",
-      "french-revolution-bastille",
-      "space-race-armstrong-aldrin"
+      "frank-geyers-manhunt-borrowed-shovel",
+      "french-revolution-bastille"
     ],
     "themes": [
       "hidden-underground",
@@ -1455,7 +1455,7 @@
       "ancient-china-terracotta-army",
       "calendars-reform",
       "the-hope-diamond-french-blue",
-      "industrial-revolution-child-labor"
+      "the-200-victim-myth-pulp-book-origin"
     ],
     "themes": [
       "justice-and-punishment",
@@ -1512,8 +1512,8 @@
     "featured": false,
     "relatedFactIds": [
       "space-race-sputnik",
+      "frank-geyers-manhunt-borrowed-shovel",
       "titanic-warning-never-reached-bridge",
-      "ancient-china-wu-zetian",
       "solar-system-only-24-moonwalkers",
       "oceans-cover-most-earth"
     ],
@@ -1575,8 +1575,8 @@
       "titanic-four-compartments",
       "titanic-lifeboat-capacity-gap",
       "space-race-sputnik",
-      "american-revolution-paul-revere",
-      "industrial-revolution-child-labor"
+      "frank-geyers-manhunt-unmailed-letters",
+      "american-revolution-paul-revere"
     ],
     "themes": [
       "disaster-and-catastrophe",
@@ -1804,8 +1804,8 @@
     "featured": false,
     "relatedFactIds": [
       "octopus-mothers-stop-eating",
-      "sloths-algae-camouflage",
       "tigers-largest-cat",
+      "sloths-algae-camouflage",
       "axolotls-regrow-leg",
       "platypus-chews-with-gravel"
     ],
@@ -4629,7 +4629,7 @@
       "machine-learning-pattern-learning",
       "generative-ai-new-content-prompts",
       "ai-ethics-biased-data",
-      "natural-language-processing-more-than-speech"
+      "reinforcement-learning-reward-signal"
     ],
     "themes": [
       "automation-robots-ai",
@@ -5529,8 +5529,8 @@
       "dj-culture-scratching-accident",
       "sound-recording-stores-vibrations",
       "sampling-citizen-dj-free",
-      "rock-global-mainstream",
-      "auto-tune-oil-technology"
+      "auto-tune-oil-technology",
+      "rock-global-mainstream"
     ],
     "themes": [
       "music-and-sound",
@@ -7775,7 +7775,8 @@
       "combustion-oxygen-reaction",
       "internal-combustion-engines-hot-gas-work",
       "catalysts-speed-without-consuming",
-      "oxidation-numbers-track-change"
+      "oxidation-numbers-track-change",
+      "atoms-mostly-empty-space"
     ],
     "themes": [
       "materials-and-chemistry",
@@ -8459,8 +8460,8 @@
       "topology-rubber-sheet-geometry",
       "pi-ancient-approximations",
       "probability-gambling-origin",
-      "prime-numbers-building-blocks",
-      "probability-unfinished-bet"
+      "probability-unfinished-bet",
+      "prime-numbers-building-blocks"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -8855,7 +8856,7 @@
       "monopolies-one-seller-power",
       "entrepreneurship-risk-profit",
       "franchises-support-control-tradeoff",
-      "franchises-license-a-business"
+      "the-pitezel-insurance-scheme-train-robber-tip"
     ],
     "themes": [
       "games-and-play",
@@ -9434,11 +9435,12 @@
     "readTimeSeconds": 48,
     "featured": false,
     "relatedFactIds": [
-      "printing-gutenberg-revolution",
       "libraries-alexandria-symbol",
-      "amityville-stepson-says-story-false",
       "libraries-store-memory",
-      "book-covers-before-dust-jackets"
+      "the-200-victim-myth-pulp-book-origin",
+      "amityville-stepson-says-story-false",
+      "printing-gutenberg-revolution",
+      "the-devil-in-the-white-city-imagined-scenes"
     ],
     "themes": [
       "record-extremes",
@@ -9463,11 +9465,11 @@
     "readTimeSeconds": 53,
     "featured": false,
     "relatedFactIds": [
+      "the-devil-in-the-white-city-imagined-scenes",
       "pseudonyms-author-mask",
       "detective-fiction-hard-boiled",
-      "printing-press-idea-machine",
-      "detective-fiction-poe-origin",
-      "book-covers-before-dust-jackets"
+      "book-covers-before-dust-jackets",
+      "printing-press-idea-machine"
     ],
     "themes": [
       "crime-and-forensics",
@@ -9521,10 +9523,10 @@
     "featured": false,
     "relatedFactIds": [
       "detective-fiction-hard-boiled",
+      "the-devil-in-the-white-city-imagined-scenes",
       "banned-books-ideas-under-pressure",
       "pseudonyms-author-mask",
-      "printing-press-idea-machine",
-      "storytelling-older-than-writing"
+      "the-holmes-confession-victims-still-alive"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -9552,9 +9554,8 @@
     "relatedFactIds": [
       "detective-fiction-poe-origin",
       "shakespeare-theatre-career",
-      "pseudonyms-author-mask",
+      "the-devil-in-the-white-city-imagined-scenes",
       "lighthouse-keepers-aids-navigation",
-      "voynich-strange-illustrations",
       "blockchain-public-private-keys"
     ],
     "themes": [
@@ -9700,8 +9701,8 @@
       "legends-place-person-history",
       "legends-between-history-and-myth",
       "printing-gutenberg-revolution",
-      "storytelling-griots-memory",
-      "world-records-global-brand"
+      "the-devil-in-the-white-city-imagined-scenes",
+      "storytelling-griots-memory"
     ],
     "themes": [
       "legend-and-folklore",
@@ -9817,8 +9818,8 @@
       "epic-poems-gilgamesh-old",
       "book-covers-before-dust-jackets",
       "pseudonyms-genre-expectations",
-      "comics-sequential-art",
-      "pseudonyms-author-mask"
+      "pseudonyms-author-mask",
+      "comics-sequential-art"
     ],
     "themes": [
       "world-first",
@@ -9844,9 +9845,10 @@
     "relatedFactIds": [
       "printing-press-idea-machine",
       "world-records-global-brand",
-      "legends-place-person-history",
+      "the-devil-in-the-white-city-imagined-scenes",
+      "the-200-victim-myth-pulp-book-origin",
       "amityville-stepson-says-story-false",
-      "book-covers-before-dust-jackets"
+      "legends-place-person-history"
     ],
     "themes": [
       "treasure-and-lost-riches",
@@ -9871,10 +9873,10 @@
     "featured": false,
     "relatedFactIds": [
       "printing-gutenberg-revolution",
+      "the-devil-in-the-white-city-imagined-scenes",
       "banned-books-ideas-under-pressure",
       "pseudonyms-author-mask",
-      "detective-fiction-poe-origin",
-      "detective-fiction-hard-boiled"
+      "detective-fiction-poe-origin"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -10018,8 +10020,8 @@
       "storytelling-older-than-writing",
       "storytelling-can-be-sung",
       "pliny-younger-skipped-rescue",
-      "legends-travel-and-change",
-      "world-records-global-brand"
+      "the-devil-in-the-white-city-imagined-scenes",
+      "legends-travel-and-change"
     ],
     "themes": [
       "holidays-and-traditions",
@@ -10074,9 +10076,9 @@
     "relatedFactIds": [
       "pseudonyms-genre-expectations",
       "banned-books-ideas-under-pressure",
+      "the-devil-in-the-white-city-imagined-scenes",
       "detective-fiction-hard-boiled",
-      "printing-press-idea-machine",
-      "detective-fiction-poe-origin"
+      "printing-press-idea-machine"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -10186,10 +10188,10 @@
     "featured": false,
     "relatedFactIds": [
       "emojis-unicode-shared-code",
+      "serial-killer-term-1930s-berlin",
       "sign-language-face-is-grammar",
-      "hieroglyphics-always-phonetic",
       "ai-hallucinations-real-world-harm",
-      "alphabet-name-alpha-beta"
+      "hieroglyphics-always-phonetic"
     ],
     "themes": [
       "justice-and-punishment",
@@ -10217,7 +10219,7 @@
       "writing-systems-sound-or-meaning",
       "translation-more-than-word-swapping",
       "alphabet-name-alpha-beta",
-      "palindromes-ancient-wordplay"
+      "serial-killer-term-1930s-berlin"
     ],
     "themes": [
       "language-and-writing",
@@ -10387,10 +10389,10 @@
     "featured": false,
     "relatedFactIds": [
       "tongue-twisters-practice-tools",
+      "serial-killer-term-1930s-berlin",
       "sign-language-complete-language",
       "accents-not-same-as-dialects",
-      "writing-systems-sound-or-meaning",
-      "dictionaries-began-bilingual"
+      "writing-systems-sound-or-meaning"
     ],
     "themes": [],
     "socialHook": "Researchers found a tongue twister so difficult, some people just froze mid-sentence and completely stopped talking.",
@@ -10445,7 +10447,7 @@
       "alphabet-name-alpha-beta",
       "translation-more-than-word-swapping",
       "hieroglyphics-always-phonetic",
-      "morse-code-sos-pattern"
+      "serial-killer-term-1930s-berlin"
     ],
     "themes": [
       "language-and-writing",
@@ -10470,11 +10472,11 @@
     "readTimeSeconds": 50,
     "featured": false,
     "relatedFactIds": [
+      "serial-killer-term-1930s-berlin",
       "sign-language-complete-language",
-      "writing-systems-sound-or-meaning",
       "nightmares-common-adults",
       "calendars-not-one-system",
-      "translation-more-than-word-swapping",
+      "writing-systems-sound-or-meaning",
       "caesar-cipher-julius-caesar"
     ],
     "themes": [
@@ -10531,9 +10533,9 @@
     "relatedFactIds": [
       "dictionaries-began-bilingual",
       "morse-code-not-a-language",
+      "serial-killer-term-1930s-berlin",
       "accents-not-same-as-dialects",
-      "tongue-twisters-practice-tools",
-      "translation-more-than-word-swapping"
+      "tongue-twisters-practice-tools"
     ],
     "themes": [
       "deception-and-hoax",
@@ -10563,7 +10565,7 @@
       "sign-language-complete-language",
       "natural-language-processing-more-than-speech",
       "mars-search-for-life",
-      "hieroglyphics-always-phonetic"
+      "alphabet-name-alpha-beta"
     ],
     "themes": [
       "stars-and-cosmos",
@@ -11175,8 +11177,8 @@
       "urban-planning-city-shaping",
       "urban-planning-technical-political",
       "domes-arch-turned-space",
-      "glass-buildings-curtain-wall",
-      "concrete-aggregate-cement-water"
+      "the-murder-castle-walled-up-furniture",
+      "the-murder-castle-never-a-hotel"
     ],
     "themes": [
       "crime-and-forensics",
@@ -11290,7 +11292,7 @@
       "castles-not-palaces",
       "pyramids-giza-fame",
       "forced-perspective-focus-planning",
-      "urban-planning-city-shaping"
+      "the-murder-castle-walled-up-furniture"
     ],
     "themes": [
       "war-and-conflict",
@@ -11554,7 +11556,7 @@
       "werewolves-medical-theories",
       "dragons-east-west-difference",
       "horseshoes-st-dunstan",
-      "nightmares-common-adults",
+      "winchester-mystery-house-death-legend-newspaper-origin",
       "greek-mythology-art-afterlife"
     ],
     "themes": [
@@ -12199,11 +12201,11 @@
     "readTimeSeconds": 49,
     "featured": false,
     "relatedFactIds": [
+      "holmes-as-jack-the-ripper-unproven",
       "voynich-strange-illustrations",
-      "easter-island-remote-statues",
       "fairies-not-always-sweet",
       "loch-ness-home",
-      "ufos-unidentified-not-alien",
+      "easter-island-remote-statues",
       "king-arthur-medieval-expansion"
     ],
     "themes": [
@@ -12432,8 +12434,8 @@
       "stonehenge-built-in-stages",
       "easter-island-moai-not-just-heads",
       "antikythera-ancient-computer",
+      "the-holmes-exhumation-scrap-wood-box",
       "paris-catacombs-cemetery-crisis",
-      "musical-instruments-human-universal",
       "ancient-temples-sacred-design"
     ],
     "themes": [
@@ -12523,7 +12525,7 @@
     "relatedFactIds": [
       "voynich-strange-illustrations",
       "nazca-lines-dry-preserved",
-      "taos-hum-worldwide-pattern",
+      "holmes-as-jack-the-ripper-unproven",
       "prime-numbers-cryptography",
       "caesar-cipher-julius-caesar"
     ],
@@ -12553,9 +12555,9 @@
     "relatedFactIds": [
       "amelia-earhart-final-flight",
       "nazca-lines-dry-preserved",
+      "holmes-as-jack-the-ripper-unproven",
       "oak-island-flooded-shaft",
-      "crop-circles-field-art",
-      "area-51-acknowledged-late"
+      "crop-circles-field-art"
     ],
     "themes": [
       "mass-hysteria-and-panic",
@@ -12673,7 +12675,7 @@
     "relatedFactIds": [
       "taos-hum-low-frequency",
       "amelia-earhart-howland-island",
-      "stonehenge-built-in-stages",
+      "wow-signal-never-repeated",
       "sound-human-frequency-range",
       "praying-mantis-camouflage"
     ],
@@ -12821,7 +12823,7 @@
       "transplant-surgery-donor-shortage",
       "vaccines-train-immune-system",
       "blood-transfusions-human-blood-breakthrough",
-      "prosthetics-more-than-limbs",
+      "insulin-discovery-transformed-diabetes",
       "diagnostic-imaging-many-tools"
     ],
     "themes": [
@@ -13023,7 +13025,7 @@
       "germ-theory-changed-cleanliness",
       "germ-theory-key-figures",
       "antibiotics-penicillin-accident",
-      "transplant-surgery-donor-shortage"
+      "anesthesia-not-always-unconscious"
     ],
     "themes": [
       "microscopic-life",
@@ -13107,10 +13109,10 @@
     "featured": false,
     "relatedFactIds": [
       "mri-magnets-not-x-rays",
+      "the-holmes-exhumation-single-molar",
       "blood-types-antigens",
-      "germ-theory-key-figures",
       "fossils-permineralization",
-      "transplant-surgery-donor-shortage"
+      "brands-shape-perception"
     ],
     "themes": [
       "deception-and-hoax",
@@ -14695,7 +14697,7 @@
       "rainbows-viewer-position",
       "rainbows-full-circle",
       "clouds-cumulonimbus-storms",
-      "monsoons-winter-can-be-dry"
+      "aurora-other-planets"
     ],
     "themes": [
       "record-extremes",
@@ -15119,7 +15121,8 @@
       "gps-everyday-infrastructure",
       "safety-pin-debt",
       "professional-sleepers-head-down",
-      "apollo13-failure-not-option-myth"
+      "apollo13-failure-not-option-myth",
+      "odor-judges-symptom-timing"
     ],
     "themes": [
       "gravity-and-orbits",
@@ -15525,7 +15528,7 @@
       "batteries-portable-power",
       "batteries-primary-vs-storage",
       "foley-artists-junk-stages",
-      "telephone-long-distance-challenge"
+      "television-kept-changing"
     ],
     "themes": [
       "perception-and-brain",
@@ -16070,8 +16073,8 @@
       "dinosaur-eggs-all-dinosaurs-hatched",
       "velociraptor-asian-dromaeosaur",
       "iguanodon-iguana-tooth-name",
-      "fossils-careful-excavation",
-      "iguanodon-thumb-spike"
+      "octopus-mothers-stop-eating",
+      "fossils-careful-excavation"
     ],
     "themes": [
       "parental-care"
@@ -16959,8 +16962,7 @@
       "dunkleosteus-jaw-bones",
       "saber-toothed-cats-blade-teeth",
       "whales-largest-animal-ever",
-      "terror-birds-seven-foot-predators",
-      "saber-toothed-cats-not-tigers"
+      "terror-birds-seven-foot-predators"
     ],
     "themes": [
       "human-body-quirks"
@@ -18572,7 +18574,7 @@
       "professional-sleepers-head-down",
       "food-tasters-five-senses",
       "corpse-flower-one-evening-stink",
-      "falconers-master-apprentice"
+      "velcro-hook-and-loop"
     ],
     "themes": [
       "scent-and-smell"
@@ -18939,7 +18941,7 @@
       "forks-single-point",
       "paper-clips-first-patent",
       "umbrellas-europe-return",
-      "toothbrushes-hog-bristles"
+      "paper-clips-norway-symbol"
     ],
     "themes": [
       "counterintuitive-scale"
@@ -18993,7 +18995,7 @@
       "forks-single-point",
       "mirrors-telescope-front-coating",
       "shoelaces-areni-one",
-      "pencils-hardness-grades"
+      "umbrellas-europe-return"
     ],
     "themes": [
       "microscopic-life",
@@ -19274,8 +19276,8 @@
       "air-conditioning-comfort-later",
       "microwaves-magnetron-roots",
       "refrigerators-vapor-cycle",
-      "vacuum-cleaners-suck-not-blow",
-      "nonstick-pans-pfas-concerns"
+      "printing-gutenberg-revolution",
+      "vacuum-cleaners-suck-not-blow"
     ],
     "themes": [
       "plants-and-botany",
@@ -19960,9 +19962,9 @@
     "relatedFactIds": [
       "blue-pigment-history",
       "indigo-air-oxidation",
-      "green-middle-spectrum",
       "pink-once-for-boys",
-      "white-newton-prism"
+      "lake-hillier-color-can-change",
+      "green-middle-spectrum"
     ],
     "themes": [
       "color-and-light",
@@ -20020,7 +20022,7 @@
       "indigo-air-oxidation",
       "blue-short-wavelength",
       "red-longest-visible",
-      "white-newton-prism"
+      "pink-once-for-boys"
     ],
     "themes": [
       "poison-and-toxins",
@@ -21534,7 +21536,7 @@
       "forced-perspective-size-trick",
       "afterimages-one-eye",
       "brands-shape-perception",
-      "pink-not-always-girly"
+      "crossed-arms-not-always-defensive"
     ],
     "themes": [
       "perception-and-brain",
@@ -21823,10 +21825,10 @@
     "relatedFactIds": [
       "steganography-digital-files",
       "steganography-lemon-juice",
-      "book-cipher-coordinates",
+      "pigpen-freemason-cipher",
       "antikythera-predicted-eclipses",
       "olympic-games-ancient-greek-festival",
-      "pigpen-freemason-cipher"
+      "book-cipher-coordinates"
     ],
     "themes": [
       "codes-and-cryptography",
@@ -21968,8 +21970,8 @@
     "featured": false,
     "relatedFactIds": [
       "one-time-pad-spy-booklets",
-      "navajo-code-talkers-indigenous-languages",
       "enigma-turing-bletchley",
+      "navajo-code-talkers-indigenous-languages",
       "peace-symbol-despair",
       "steganography-lemon-juice"
     ],
@@ -23149,8 +23151,8 @@
     "featured": false,
     "relatedFactIds": [
       "marco-polo-asia-journey",
-      "nellie-bly-asylum-reporting",
       "nellie-bly-72-days",
+      "nellie-bly-asylum-reporting",
       "sacagawea-shoshone-horses",
       "amundsen-northwest-passage"
     ],
@@ -23875,7 +23877,7 @@
       "dragons-blood-tree-fog-harvesting",
       "mangroves-storm-barriers",
       "bonsai-living-sculptures",
-      "bonsai-bicentennial-gift"
+      "mangroves-snorkel-roots"
     ],
     "themes": [
       "hidden-underground",
@@ -24049,8 +24051,8 @@
       "bonsai-living-sculptures",
       "giant-sequoias-fire-bark",
       "bamboo-fast-growth",
-      "baobab-water-trunk",
       "giant-sequoias-tiny-seeds",
+      "baobab-water-trunk",
       "baobab-nine-species"
     ],
     "themes": [
@@ -24286,7 +24288,7 @@
     "relatedFactIds": [
       "cicadas-underground-years",
       "cicadas-shed-skins",
-      "praying-mantis-camouflage",
+      "dragonflies-flight-hunters",
       "snoring-airway-vibration",
       "supersonic-flight-hypersonic-mach-five",
       "prime-numbers-building-blocks"
@@ -25256,8 +25258,8 @@
       "lake-hillier-bubblegum-pink",
       "lake-hillier-pink-conditions",
       "fly-geyser-art-landscape",
-      "door-to-hell-extremophiles",
-      "dead-sea-lowest-water"
+      "blue-short-wavelength",
+      "door-to-hell-extremophiles"
     ],
     "themes": [
       "color-and-light",
@@ -25603,7 +25605,7 @@
       "calendars-track-cycles",
       "agriculture-settled-societies",
       "timekeeping-atomic-clocks",
-      "timekeeping-escapement"
+      "calendars-reform"
     ],
     "themes": [
       "justice-and-punishment",
@@ -26714,7 +26716,7 @@
     "relatedFactIds": [
       "socotra-endemic-plants",
       "socotra-mistaken-for-atlantis",
-      "dead-sea-lowest-water",
+      "giants-causeway-finn-mccool",
       "caves-acidic-water",
       "the-bell-witch-cave-minor-role",
       "caves-speleothems-redeposited"
@@ -26931,7 +26933,7 @@
       "the-ouija-board-who-invented-it",
       "spirit-photography-mary-todd-lincoln",
       "the-ouija-board-makers-never-believed",
-      "the-ouija-board-blue-ghost-cemetery-statue"
+      "spirit-photography-nine-ways-acquitted"
     ],
     "themes": [
       "ghosts-and-hauntings",
@@ -26962,8 +26964,8 @@
       "peppers-ghost-dircks-inventor",
       "the-ouija-board-blue-ghost-cemetery-statue",
       "tutankhamuns-curse-older-than-tomb",
-      "the-bell-witch-1894-book-source",
-      "the-ouija-board-who-invented-it"
+      "spirit-photography-nine-ways-acquitted",
+      "the-bell-witch-1894-book-source"
     ],
     "themes": [
       "ghosts-and-hauntings",
@@ -27022,7 +27024,7 @@
       "the-fox-sisters-cracking-joints-hoax",
       "the-fox-sisters-grieving-seances",
       "the-ouija-board-makers-never-believed",
-      "amityville-stepson-says-story-false",
+      "the-holmes-confession-victims-still-alive",
       "spirit-photography-nine-ways-acquitted"
     ],
     "themes": [
@@ -27147,8 +27149,8 @@
       "winchester-mystery-house-opening-day-crowd",
       "the-bell-witch-1894-book-source",
       "werewolves-medical-theories",
-      "horseshoes-st-dunstan",
-      "giants-causeway-finn-mccool"
+      "the-murder-castle-yellow-press-trapdoors",
+      "kraken-may-reflect-squid"
     ],
     "themes": [
       "legend-and-folklore",
@@ -27180,8 +27182,8 @@
       "the-ouija-board-who-invented-it",
       "the-fox-sisters-cracking-joints-hoax",
       "monopolies-one-seller-power",
-      "the-fox-sisters-grieving-seances",
-      "the-fox-sisters-confession-believers"
+      "the-fox-sisters-confession-believers",
+      "the-fox-sisters-grieving-seances"
     ],
     "themes": [
       "ghosts-and-hauntings",
@@ -27273,8 +27275,8 @@
       "spirit-photography-mary-todd-lincoln",
       "spirit-photography-nine-ways-acquitted",
       "the-fox-sisters-grieving-seances",
-      "the-fox-sisters-cracking-joints-hoax",
-      "amityville-stepson-says-story-false"
+      "the-pitezel-insurance-scheme-fake-death",
+      "the-murder-castle-walled-up-furniture"
     ],
     "themes": [
       "ghosts-and-hauntings",
@@ -27428,8 +27430,8 @@
     "relatedFactIds": [
       "the-mary-celeste-deserted-ship",
       "the-mary-celeste-conan-doyle-fiction",
-      "the-ouija-board-who-invented-it",
       "winchester-mystery-house-death-legend-newspaper-origin",
+      "the-ouija-board-who-invented-it",
       "the-ouija-board-makers-never-believed"
     ],
     "themes": [
@@ -27521,8 +27523,8 @@
       "tutankhamuns-curse-older-than-tomb",
       "tutankhamuns-curse-six-of-26",
       "the-hope-diamond-curse-sales-pitch",
-      "stonehenge-solstice-alignment",
-      "the-ouija-board-blue-ghost-cemetery-statue"
+      "the-holmes-exhumation-scrap-wood-box",
+      "stonehenge-solstice-alignment"
     ],
     "themes": [
       "crime-and-forensics",
@@ -27613,8 +27615,8 @@
       "the-bell-witch-cave-minor-role",
       "the-bell-witch-kate-batts-outlived",
       "winchester-mystery-house-death-legend-newspaper-origin",
-      "werewolves-medical-theories",
       "sleep-paralysis-hallucinations",
+      "werewolves-medical-theories",
       "amityville-stepson-says-story-false"
     ],
     "themes": [
@@ -27740,8 +27742,8 @@
       "the-bell-witch-cave-minor-role",
       "the-bell-witch-1894-book-source",
       "printing-gutenberg-revolution",
-      "world-records-global-brand",
-      "the-bell-witch-kate-batts-outlived"
+      "the-200-victim-myth-pulp-book-origin",
+      "world-records-global-brand"
     ],
     "themes": [
       "storytelling-and-narrative",
@@ -27752,5 +27754,469 @@
     "socialHook": "Even a member of the Amityville family says much of the story is false.",
     "contentType": "legend",
     "addedAt": "2026-10-19T09:00:00Z"
+  },
+  {
+    "id": "the-murder-castle-never-a-hotel",
+    "headline": "H.H. Holmes's Famous 'Murder Hotel' Never Opened to Guests",
+    "body": "H.H. Holmes is famous for luring 1893 World's Fair visitors into his Chicago hotel. But the building wasn't really a hotel. Its first floor held shops, and its second floor had apartments rented out long-term. In 1892 he added a third floor and told people it would be a hotel. It was never finished, furnished or opened to the public. The whole idea was mostly a way to cheat suppliers, investors and insurers.",
+    "summary": "The building at the heart of the legend was mostly shops, apartments and an unfinished floor.",
+    "categoryId": "architecture",
+    "topic": "The Murder Castle",
+    "tags": [
+      "chicago",
+      "worlds-fair",
+      "fraud"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "the-murder-castle-walled-up-furniture",
+      "the-murder-castle-yellow-press-trapdoors",
+      "urban-planning-industrial-pressure",
+      "the-pitezel-insurance-scheme-fake-death",
+      "the-200-victim-myth-pulp-book-origin"
+    ],
+    "themes": [
+      "legend-and-folklore",
+      "crime-and-forensics",
+      "deception-and-hoax",
+      "human-body-quirks"
+    ],
+    "socialHook": "The most famous 'murder hotel' in America had one big problem",
+    "contentType": "fact",
+    "addedAt": "2026-10-22T09:00:00Z"
+  },
+  {
+    "id": "the-200-victim-myth-pulp-book-origin",
+    "headline": "H.H. Holmes's '200 Victims' Traces Back to a Throwaway Line in a 1940 Book",
+    "body": "H.H. Holmes is often said to have killed as many as 200 people. That number seems to start with a 1940 pulp book called Gem of the Prairie. It had a throwaway line saying some people suggested 200, though nobody actually had. Later writers kept repeating the line until it sounded like a real estimate. The number that can be stated with some confidence is about nine. All of them were people he already knew.",
+    "summary": "The count that can be backed up is closer to nine, and every likely victim was someone he knew.",
+    "categoryId": "history",
+    "topic": "The 200-Victim Myth",
+    "tags": [
+      "true-crime",
+      "book",
+      "chicago"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "frank-geyers-manhunt-unmailed-letters",
+      "frank-geyers-manhunt-borrowed-shovel",
+      "the-devil-in-the-white-city-imagined-scenes",
+      "the-murder-castle-yellow-press-trapdoors",
+      "titanic-lifeboat-capacity-gap",
+      "world-records-global-brand"
+    ],
+    "themes": [
+      "crime-and-forensics",
+      "storytelling-and-narrative",
+      "music-and-sound",
+      "numbers-and-mathematics"
+    ],
+    "socialHook": "Everyone repeats this number about H.H. Holmes. It started as a throwaway line",
+    "contentType": "fact",
+    "addedAt": "2026-10-22T09:00:00Z"
+  },
+  {
+    "id": "medical-school-body-fraud-stolen-cadavers",
+    "headline": "H.H. Holmes Ran Insurance Scams With Stolen Cadavers in Medical School",
+    "body": "Before he became infamous, H.H. Holmes studied medicine at the University of Michigan. There, he stole cadavers from the lab. He disfigured them and tried to collect insurance money by claiming they had died in accidents. He's also linked to robbing graves and morgues for bodies to sell to other medical schools. He graduated in 1884, though a scandal over a broken marriage promise nearly stopped him.",
+    "summary": "His first schemes used bodies that were already dead.",
+    "categoryId": "medicine",
+    "topic": "Medical-School Body Fraud",
+    "tags": [
+      "medical-school",
+      "insurance",
+      "fraud"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "the-holmes-exhumation-scrap-wood-box",
+      "the-holmes-exhumation-single-molar",
+      "the-pitezel-insurance-scheme-fake-death",
+      "the-murder-castle-walled-up-furniture",
+      "mri-soft-tissue-detail",
+      "the-pitezel-insurance-scheme-train-robber-tip"
+    ],
+    "themes": [
+      "tombs-and-burial",
+      "self-sacrifice",
+      "deception-and-hoax",
+      "money-trade-and-value"
+    ],
+    "socialHook": "Before the murders, H.H. Holmes's first scam used bodies that were already dead",
+    "contentType": "fact",
+    "addedAt": "2026-10-22T09:00:00Z"
+  },
+  {
+    "id": "the-murder-castle-walled-up-furniture",
+    "headline": "H.H. Holmes Walled Up a Room to Hide His Furniture From Repo Men",
+    "body": "H.H. Holmes furnished his huge Chicago building by buying everything on credit. When creditors came calling, he hid the goods. Once, workers from a local furniture company showed up to take their furniture back. They found the building empty. A janitor, bribed by the company, finally gave away the trick. Holmes had moved all the furniture into a single room and walled up its door.",
+    "summary": "The repo men found an empty building. The furniture was behind a sealed-up door.",
+    "categoryId": "architecture",
+    "topic": "The Murder Castle",
+    "tags": [
+      "chicago",
+      "con-artist",
+      "fraud"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "the-murder-castle-never-a-hotel",
+      "the-murder-castle-yellow-press-trapdoors",
+      "gothic-architecture-pointed-up",
+      "the-pitezel-insurance-scheme-fake-death",
+      "the-200-victim-myth-pulp-book-origin",
+      "spirit-photography-living-wife-ghost"
+    ],
+    "themes": [
+      "deception-and-hoax",
+      "crime-and-forensics",
+      "architecture-and-structures"
+    ],
+    "socialHook": "Repo men came for his furniture and found nothing. Here's where it went",
+    "contentType": "fact",
+    "addedAt": "2026-10-22T09:00:00Z"
+  },
+  {
+    "id": "the-pitezel-insurance-scheme-fake-death",
+    "headline": "H.H. Holmes's Plan to Fake a Partner's Death Ended in a Real Murder",
+    "body": "In 1893, H.H. Holmes and his associate Benjamin Pitezel cooked up an insurance scam. Pitezel took out a $10,000 life insurance policy, and the pair planned to fake his death and collect. Instead, Holmes really killed Pitezel and made it look like an accident. He then convinced Pitezel's widow that her husband was still alive. She ended up with just $500 of the payout.",
+    "summary": "His partner was supposed to play dead. He never got the chance.",
+    "categoryId": "business",
+    "topic": "The Pitezel Insurance Scheme",
+    "tags": [
+      "insurance",
+      "fraud",
+      "con-artist"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "the-pitezel-insurance-scheme-train-robber-tip",
+      "patents-three-main-types",
+      "franchises-license-a-business",
+      "the-murder-castle-walled-up-furniture",
+      "medical-school-body-fraud-stolen-cadavers",
+      "spirit-photography-living-wife-ghost"
+    ],
+    "themes": [
+      "deception-and-hoax",
+      "crime-and-forensics",
+      "grief-and-mourning"
+    ],
+    "socialHook": "Two con men planned a fake death for $10,000. It didn't stay fake",
+    "contentType": "fact",
+    "addedAt": "2026-10-22T09:00:00Z"
+  },
+  {
+    "id": "the-pitezel-insurance-scheme-train-robber-tip",
+    "headline": "A Train Robber Turned In H.H. Holmes Over an Unpaid $500",
+    "body": "In a St. Louis jail, H.H. Holmes told train robber Marion Hedgepeth about a plan to swindle an insurance company out of $10,000. Holmes promised Hedgepeth $500 for recommending a lawyer for the job. He never paid up. So Hedgepeth told the authorities about the scheme. Holmes was arrested in Boston in 1894, and the rest of his story began to unravel.",
+    "summary": "One of America's most notorious con men was undone by a broken promise to an outlaw.",
+    "categoryId": "business",
+    "topic": "The Pitezel Insurance Scheme",
+    "tags": [
+      "outlaws",
+      "insurance",
+      "arrest"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "the-pitezel-insurance-scheme-fake-death",
+      "monopolies-entry-barriers",
+      "startups-first-years-matter",
+      "medical-school-body-fraud-stolen-cadavers",
+      "monopolies-competition-spectrum"
+    ],
+    "themes": [
+      "storytelling-and-narrative",
+      "crime-and-forensics",
+      "deception-and-hoax"
+    ],
+    "socialHook": "H.H. Holmes was finally caught because he skipped a $500 payment",
+    "contentType": "fact",
+    "addedAt": "2026-10-22T09:00:00Z"
+  },
+  {
+    "id": "frank-geyers-manhunt-unmailed-letters",
+    "headline": "H.H. Holmes Kept the Pitezel Children's Letters Home and Never Mailed Them",
+    "body": "In 1894, H.H. Holmes took three of Benjamin Pitezel's children on a trip across the country. Two of the girls wrote letters to their mother along the way. None of them ever reached her. Holmes kept them in a box marked 'Property of H. H. Holmes.' In 1895, Philadelphia detective Frank Geyer used clues in those letters, plus hotel registers, to follow the trail to Cincinnati, Indianapolis and finally Toronto.",
+    "summary": "The letters never reached their mother, but they became the trail a detective followed.",
+    "categoryId": "history",
+    "topic": "Frank Geyer's Manhunt",
+    "tags": [
+      "detectives",
+      "letters",
+      "manhunt"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "frank-geyers-manhunt-borrowed-shovel",
+      "the-200-victim-myth-pulp-book-origin",
+      "titanic-warning-never-reached-bridge",
+      "alphabet-name-alpha-beta",
+      "silk-road-black-death"
+    ],
+    "themes": [
+      "crime-and-forensics",
+      "parental-care"
+    ],
+    "socialHook": "Two girls wrote home from a road trip. Their letters were never sent",
+    "contentType": "fact",
+    "addedAt": "2026-10-22T09:00:00Z"
+  },
+  {
+    "id": "frank-geyers-manhunt-borrowed-shovel",
+    "headline": "H.H. Holmes Borrowed a Shovel 'to Store Potatoes.' A Detective Later Dug With the Same One",
+    "body": "In July 1895, detective Frank Geyer was in Toronto, searching for two missing Pitezel sisters. A local man came forward with a tip. A stranger matching H.H. Holmes's description had briefly rented the house next door. He'd borrowed a shovel to dig a hole in the cellar, he said, for storing potatoes. Geyer and a Toronto detective searched that cellar with the same shovel and found where the sisters had been buried.",
+    "summary": "One neighbor remembered a strange request, and it cracked the case.",
+    "categoryId": "history",
+    "topic": "Frank Geyer's Manhunt",
+    "tags": [
+      "detectives",
+      "toronto",
+      "manhunt"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "frank-geyers-manhunt-unmailed-letters",
+      "the-200-victim-myth-pulp-book-origin",
+      "space-race-armstrong-aldrin",
+      "ancient-china-terracotta-army",
+      "ancient-china-gunpowder"
+    ],
+    "themes": [
+      "crime-and-forensics",
+      "hidden-underground",
+      "lost-and-rediscovered"
+    ],
+    "socialHook": "He asked a neighbor to borrow a shovel. That favor became the evidence",
+    "contentType": "fact",
+    "addedAt": "2026-10-22T09:00:00Z"
+  },
+  {
+    "id": "the-murder-castle-yellow-press-trapdoors",
+    "headline": "The 'Murder Castle' Trapdoors and Gas Rooms First Appeared in 1890s Newspapers",
+    "body": "After H.H. Holmes was arrested in 1894, newspapers began printing wild stories about his Chicago building. They described trapdoors, secret rooms, gas pipes to kill guests and soundproofed walls. None of it came with evidence. This was the age of yellow journalism, when papers exaggerated news or simply made it up. Even the building's supposed body chute wasn't unusual. Lots of buildings then had chutes to the basement, for laundry.",
+    "summary": "There's no evidence any of it was real, and its 'body chute' was ordinary for the time.",
+    "categoryId": "architecture",
+    "topic": "The Murder Castle",
+    "tags": [
+      "chicago",
+      "newspapers",
+      "yellow-journalism"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "the-murder-castle-never-a-hotel",
+      "the-murder-castle-walled-up-furniture",
+      "urban-planning-industrial-pressure",
+      "the-holmes-confession-victims-still-alive",
+      "winchester-mystery-house-death-legend-newspaper-origin",
+      "the-200-victim-myth-pulp-book-origin"
+    ],
+    "themes": [
+      "legend-and-folklore",
+      "crime-and-forensics",
+      "deception-and-hoax",
+      "storytelling-and-narrative"
+    ],
+    "socialHook": "The scariest parts of the 'Murder Castle' story have a surprising source",
+    "contentType": "legend",
+    "addedAt": "2026-10-22T09:00:00Z"
+  },
+  {
+    "id": "the-holmes-confession-victims-still-alive",
+    "headline": "H.H. Holmes Sold a Confession to 27 Murders, but Some 'Victims' Were Still Alive",
+    "body": "Before his execution, H.H. Holmes sold his story to Hearst newspapers for thousands of dollars. In it, he confessed to 27 murders. The confession soon fell apart. Several of the people he claimed to have killed turned out to be alive. His many conflicting stories wrecked his credibility. Then, on the gallows, he changed his story once more and said he'd killed only two people.",
+    "summary": "Newspapers paid big for his confession. Then some of the 'dead' turned up alive.",
+    "categoryId": "literature",
+    "topic": "The Holmes Confession",
+    "tags": [
+      "newspapers",
+      "confession",
+      "true-crime"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "the-devil-in-the-white-city-imagined-scenes",
+      "banned-books-ideas-under-pressure",
+      "the-murder-castle-yellow-press-trapdoors",
+      "the-200-victim-myth-pulp-book-origin",
+      "detective-fiction-poe-origin",
+      "the-fox-sisters-confession-believers"
+    ],
+    "themes": [
+      "crime-and-forensics",
+      "justice-and-punishment",
+      "deception-and-hoax",
+      "storytelling-and-narrative"
+    ],
+    "socialHook": "A newspaper paid a killer for his confession. Then the 'victims' showed up",
+    "contentType": "hoax",
+    "addedAt": "2026-10-22T09:00:00Z"
+  },
+  {
+    "id": "holmes-as-jack-the-ripper-unproven",
+    "headline": "The Theory That H.H. Holmes Was Jack the Ripper Has Never Been Proven",
+    "body": "One popular theory claims H.H. Holmes was also Jack the Ripper, who killed in London in 1888. Much of it rests on a 2011 book by Holmes's great-great-grandson, based on diaries he says Holmes wrote. A related rumor said Holmes faked his execution and fled to England. That part, at least, is settled. When his grave was opened in 2017, DNA and dental records confirmed Holmes was buried there.",
+    "summary": "The idea leans on a descendant's diaries, and one piece of it was disproved in 2017.",
+    "categoryId": "mysteries",
+    "topic": "Holmes as Jack the Ripper",
+    "tags": [
+      "jack-the-ripper",
+      "london",
+      "diaries"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "easter-island-moai-not-just-heads",
+      "crop-circles-field-art",
+      "the-holmes-confession-victims-still-alive",
+      "taos-hum-low-frequency",
+      "stonehenge-solstice-alignment"
+    ],
+    "themes": [
+      "justice-and-punishment",
+      "deception-and-hoax",
+      "hidden-underground",
+      "storytelling-and-narrative"
+    ],
+    "socialHook": "Was H.H. Holmes also Jack the Ripper? Here's what the evidence actually says",
+    "contentType": "theory",
+    "addedAt": "2026-10-22T09:00:00Z"
+  },
+  {
+    "id": "the-devil-in-the-white-city-imagined-scenes",
+    "headline": "The Devil in the White City Admits Some of Its H.H. Holmes Scenes Are Educated Guesses",
+    "body": "Erik Larson's 2003 bestseller The Devil in the White City introduced H.H. Holmes to millions of readers. But some of its most vivid scenes have no record behind them. The book's own notes call one victim's final moments a 'plausible' version woven from known details. A trip Holmes takes with two later victims to Chicago's meatpacking district has no record at all. The notes say only that it 'seems likely.'",
+    "summary": "Check the endnotes: some of the book's most vivid moments have no record behind them.",
+    "categoryId": "literature",
+    "topic": "The Devil in the White City",
+    "tags": [
+      "book",
+      "true-crime",
+      "nonfiction"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "the-holmes-confession-victims-still-alive",
+      "world-records-global-brand",
+      "the-200-victim-myth-pulp-book-origin",
+      "serial-killer-term-1930s-berlin",
+      "printing-gutenberg-revolution",
+      "banned-books-ideas-under-pressure"
+    ],
+    "themes": [
+      "crime-and-forensics",
+      "storytelling-and-narrative",
+      "music-and-sound"
+    ],
+    "socialHook": "The bestseller that made H.H. Holmes famous admits something in its endnotes",
+    "contentType": "fact",
+    "addedAt": "2026-10-22T09:00:00Z"
+  },
+  {
+    "id": "the-holmes-exhumation-scrap-wood-box",
+    "headline": "Diggers Opening H.H. Holmes's Grave Found a Box of Scrap Wood First",
+    "body": "H.H. Holmes was reportedly worried that grave robbers would steal his body. So in 1896 he was buried 10 feet down and encased in concrete. In 2017, a descendant got a judge's permission to dig him up. Eight feet down, the team found a wooden box holding only scrap wood. On the last day budgeted for digging, they probed underneath and hit a second lid. It read 'H. H. Holmes' and 'Herman W. Mudgett.'",
+    "summary": "The real coffin was hiding underneath, and they found it on the last day of digging.",
+    "categoryId": "medicine",
+    "topic": "The Holmes Exhumation",
+    "tags": [
+      "archaeology",
+      "graves",
+      "exhumation"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "the-holmes-exhumation-single-molar",
+      "medical-school-body-fraud-stolen-cadavers",
+      "prosthetics-more-than-limbs",
+      "stonehenge-solstice-alignment",
+      "tutankhamuns-curse-real-tomb-curses"
+    ],
+    "themes": [
+      "crime-and-forensics",
+      "tombs-and-burial",
+      "hidden-underground"
+    ],
+    "socialHook": "The first coffin in H.H. Holmes's grave wasn't the real one",
+    "contentType": "fact",
+    "addedAt": "2026-10-22T09:00:00Z"
+  },
+  {
+    "id": "the-holmes-exhumation-single-molar",
+    "headline": "One Molar Helped Prove H.H. Holmes Really Was in His Grave",
+    "body": "Rumors claimed H.H. Holmes had faked his death and escaped. When his grave was opened in 2017, the body still wore a bowler hat, leather boots and a mustache. DNA linked it to one of his living relatives. But the clincher was his teeth. An 1896 prison medical report included casts of them. The skull had refined gold-foil fillings and just one molar, matching the report.",
+    "summary": "A century-old dental record settled the rumor that he'd faked his own death.",
+    "categoryId": "medicine",
+    "topic": "The Holmes Exhumation",
+    "tags": [
+      "dental-records",
+      "dna",
+      "forensics"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "the-holmes-exhumation-scrap-wood-box",
+      "mri-soft-tissue-detail",
+      "medical-school-body-fraud-stolen-cadavers",
+      "polymers-giant-monomer-chains",
+      "yeti-himalayan-snowline"
+    ],
+    "themes": [
+      "crime-and-forensics",
+      "deception-and-hoax",
+      "human-body-quirks"
+    ],
+    "socialHook": "For over a century people said H.H. Holmes escaped. His teeth said otherwise",
+    "contentType": "fact",
+    "addedAt": "2026-10-22T09:00:00Z"
+  },
+  {
+    "id": "serial-killer-term-1930s-berlin",
+    "headline": "The Phrase 'Serial Killer' Didn't Exist When America's First Known One Was Hanged",
+    "body": "H.H. Holmes is widely called America's first known serial killer. But when he was hanged in 1896, nobody used that phrase. One early use traces to 1930s Berlin. Police chief Ernst Gennat used the German word serienmörder for Peter Kürten, the 'Vampire of Düsseldorf.' A 1933 book translated it as 'series-murderer.' Decades later, FBI profiler Robert Ressler claimed he'd coined 'serial killer' in the 1970s.",
+    "summary": "The term came decades later, and one early use involves the 'Vampire of Düsseldorf.'",
+    "categoryId": "languages",
+    "topic": "Serial Killer (Term)",
+    "tags": [
+      "words",
+      "etymology",
+      "true-crime"
+    ],
+    "readTimeSeconds": 40,
+    "featured": false,
+    "relatedFactIds": [
+      "alphabet-name-alpha-beta",
+      "sign-language-complete-language",
+      "the-holmes-confession-victims-still-alive",
+      "the-200-victim-myth-pulp-book-origin",
+      "translation-more-than-word-swapping",
+      "the-devil-in-the-white-city-imagined-scenes"
+    ],
+    "themes": [
+      "crime-and-forensics",
+      "justice-and-punishment",
+      "origins-and-naming",
+      "language-and-writing"
+    ],
+    "socialHook": "America's first known serial killer was never called one in his lifetime",
+    "contentType": "fact",
+    "addedAt": "2026-10-22T09:00:00Z"
   }
 ]

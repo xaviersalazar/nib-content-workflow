@@ -143,6 +143,14 @@
     "Titanic": {
       "institution": "Britannica",
       "url": "https://www.britannica.com/topic/Titanic"
+    },
+    "The 200-Victim Myth": {
+      "institution": "HISTORY",
+      "url": "https://www.history.com/articles/murder-castle-h-h-holmes-chicago"
+    },
+    "Frank Geyer's Manhunt": {
+      "institution": "Spacing Toronto",
+      "url": "https://spacing.ca/toronto/2015/07/22/toronto-link-americas-bloodiest-serial-killer/"
     }
   },
   "ancient-civilizations": {
@@ -937,6 +945,10 @@
     "Trademarks": {
       "institution": "USPTO",
       "url": "https://www.uspto.gov/trademarks/basics/what-trademark"
+    },
+    "The Pitezel Insurance Scheme": {
+      "institution": "Britannica",
+      "url": "https://www.britannica.com/biography/H-H-Holmes"
     }
   },
   "economics": {
@@ -1041,6 +1053,14 @@
     "Pliny the Younger": {
       "institution": "National Geographic",
       "url": "https://www.nationalgeographic.com/history/article/who-was-pliny-the-younger"
+    },
+    "The Holmes Confession": {
+      "institution": "Mental Floss",
+      "url": "https://www.mentalfloss.com/article/72642/9-things-you-didnt-know-about-americas-first-serial-killer-hh-holmes"
+    },
+    "The Devil in the White City": {
+      "institution": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/enduring-mystery-hh-holmes-americas-first-serial-killer-180977646/"
     }
   },
   "languages": {
@@ -1087,6 +1107,10 @@
     "Translation": {
       "institution": "Atlas Language Services",
       "url": "https://atlasls.com/the-history-of-translation/"
+    },
+    "Serial Killer (Term)": {
+      "institution": "Psychology Today",
+      "url": "https://www.psychologytoday.com/blog/shadow-boxing/201410/who-coined-serial-killer"
     }
   },
   "architecture": {
@@ -1133,6 +1157,10 @@
     "Castles": {
       "institution": "HowStuffWorks",
       "url": "https://history.howstuffworks.com/historical-figures/castle1.htm"
+    },
+    "The Murder Castle": {
+      "institution": "HISTORY",
+      "url": "https://www.history.com/articles/murder-castle-h-h-holmes-chicago"
     }
   },
   "myths-legends": {
@@ -1257,6 +1285,10 @@
     "Wow! Signal": {
       "institution": "SETI Institute",
       "url": "https://www.seti.org/news/the-wow-signal-a-lingering-mystery-or-a-natural-phenomenon//"
+    },
+    "Holmes as Jack the Ripper": {
+      "institution": "Penn Today",
+      "url": "https://penntoday.upenn.edu/news/did-serial-killer-h-h-holmes-fake-his-own-death"
     }
   },
   "medicine": {
@@ -1323,6 +1355,14 @@
     "Apollo 13 Crew Health": {
       "institution": "NASA",
       "url": "https://www.nasa.gov/ochmo-mtb-003-urinary-health-2/"
+    },
+    "Medical-School Body Fraud": {
+      "institution": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/enduring-mystery-hh-holmes-americas-first-serial-killer-180977646/"
+    },
+    "The Holmes Exhumation": {
+      "institution": "Penn Today",
+      "url": "https://penntoday.upenn.edu/news/did-serial-killer-h-h-holmes-fake-his-own-death"
     }
   },
   "geography": {

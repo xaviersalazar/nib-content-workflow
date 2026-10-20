@@ -51,5 +51,29 @@
       "apollo13-failure-not-option-myth"
     ],
     "addedAt": "2026-08-01T09:00:00Z"
+  },
+  {
+    "id": "the-real-hh-holmes",
+    "title": "The Real H.H. Holmes",
+    "subtitle": "America’s most infamous killer — and how much of his legend was made up.",
+    "icon": "building.2",
+    "factIds": [
+      "the-murder-castle-never-a-hotel",
+      "the-200-victim-myth-pulp-book-origin",
+      "medical-school-body-fraud-stolen-cadavers",
+      "the-murder-castle-walled-up-furniture",
+      "the-pitezel-insurance-scheme-fake-death",
+      "the-pitezel-insurance-scheme-train-robber-tip",
+      "frank-geyers-manhunt-unmailed-letters",
+      "frank-geyers-manhunt-borrowed-shovel",
+      "the-murder-castle-yellow-press-trapdoors",
+      "the-holmes-confession-victims-still-alive",
+      "holmes-as-jack-the-ripper-unproven",
+      "the-devil-in-the-white-city-imagined-scenes",
+      "the-holmes-exhumation-scrap-wood-box",
+      "the-holmes-exhumation-single-molar",
+      "serial-killer-term-1930s-berlin"
+    ],
+    "addedAt": "2026-10-22T09:00:00Z"
   }
 ]
